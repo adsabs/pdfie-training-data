@@ -3,3 +3,4 @@ pdf_sha256 = "f5ca56f21f7ba72ac6a7d068e38724609f82cac5f47e54a0079cee7adc5067a9"
 pdf_n_bytes = 189659
 ads_pdf_path = "$ADS_ARTICLES/bitmaps/seri/ESASP/0511/PDF/2003ESASP.511..133K.pdf"
 random_index = 362520
+pdf_is_raster = true

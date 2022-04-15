@@ -3,3 +3,4 @@ pdf_sha256 = "e1980baeb56eab97f3f643b73b912c9e8d71e386a435a2b503f5b43d6360ae8d"
 pdf_n_bytes = 430378
 ads_pdf_path = "$ADS_ARTICLES/bitmaps/seri/ESASP/0624/PDF/2006soho...18E.119D.pdf"
 random_index = 830260
+pdf_is_raster = false
