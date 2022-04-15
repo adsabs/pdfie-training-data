@@ -63,17 +63,21 @@ class Document:
         self.pdf_n_bytes = info.get("pdf_n_bytes")
         self.ads_pdf_path_symbolic = info.get("ads_pdf_path")
 
+    def ext_path(self, ext: str) -> Path:
+        return COLLECTIONS_ROOT / self.collection_name / (self.collection_id + ext)
 
-def scan(bibcode=False, pdf_path=False) -> Generator[Document, None, None]:
+
+def scan(bibcode=False, rr=False) -> Generator[Document, None, None]:
     """
     Scan all of the documents in the database.
 
     This function is a generator that yields Document instances.
 
-    If *bibcode* is True, the document must have a metadata file that specifies
-    its bibcode.
+    If *bibcode* is True, only documents with metadata that specify their ADS
+    bibcodes are yielded.
 
-    *pdf_path* is like *bibcode* for that respective field.
+    If *rr* is True, only documents with `.rr.txt` resolved-references files are
+    yielded.
     """
 
     for coll_item in COLLECTIONS_ROOT.iterdir():
@@ -103,13 +107,12 @@ def scan(bibcode=False, pdf_path=False) -> Generator[Document, None, None]:
             for cid, exts in doc_data.items():
                 doc = Document.new_from_scan(collection_name, cid, exts)
 
-                if bibcode or pdf_path:
+                if rr and ".rr.txt" not in exts:
+                    continue
+
+                if bibcode:
                     doc._augment_with_doc_def()
-
-                    if bibcode and doc.bibcode is None:
-                        continue
-
-                    if pdf_path and doc.pdf_path_symbolic is None:
+                    if doc.bibcode is None:
                         continue
 
                 yield doc
