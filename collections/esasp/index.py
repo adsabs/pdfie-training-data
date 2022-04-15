@@ -1,4 +1,6 @@
 #! /usr/bin/env python3
+# Licensed under GPLv3
+# Copyright 2022 SAO/NASA Astrophysics Data System
 
 """
 Generate the TOML files to index the ESASP PDFs.

@@ -8,7 +8,8 @@ General code for working with the training database.
 from dataclasses import dataclass
 import os.path
 from pathlib import Path
-from typing import FrozenSet, Generator, Set
+import toml
+from typing import FrozenSet, Generator, Optional, Set
 
 __all__ = ["COLLECTIONS_ROOT", "RECOGNIZED_EXTENSIONS", "Document", "scan"]
 
@@ -25,6 +26,10 @@ class Document:
     collection_name: str
     collection_id: str
     extensions: FrozenSet[str]
+    bibcode: Optional[str]
+    pdf_sha256_hex: Optional[str]
+    pdf_n_bytes: Optional[int]
+    pdf_path_symbolic: Optional[str]
 
     @classmethod
     def new_from_scan(cls, cname: str, cid: str, exts: Set[str]):
@@ -38,12 +43,33 @@ class Document:
     def global_id(self) -> str:
         return f"{self.collection_name}/{self.collection_id}"
 
+    def _augment_with_doc_def(self):
+        toml_path = os.path.join(
+            COLLECTIONS_ROOT, self.collection_name, self.collection_id + ".doc.toml"
+        )
 
-def scan() -> Generator[Document, None, None]:
+        try:
+            with open(toml_path, "rt") as f:
+                info = toml.load(f)
+        except FileNotFoundError:
+            info = {}
+
+        self.bibcode = info.get("bibcode")
+        self.pdf_sha256 = info.get("pdf_sha256")
+        self.pdf_n_bytes = info.get("pdf_n_bytes")
+        self.pdf_path_symbolic = info.get("pdf_path")
+
+
+def scan(bibcode=False, pdf_path=False) -> Generator[Document, None, None]:
     """
     Scan all of the documents in the database.
 
     This function is a generator that yields Document instances.
+
+    If *bibcode* is True, the document must have a metadata file that specifies
+    its bibcode.
+
+    *pdf_path* is like *bibcode* for that respective field.
     """
 
     for coll_item in COLLECTIONS_ROOT.iterdir():
@@ -71,4 +97,15 @@ def scan() -> Generator[Document, None, None]:
                         break
 
             for cid, exts in doc_data.items():
-                yield Document.new_from_scan(collection_name, cid, exts)
+                doc = Document.new_from_scan(collection_name, cid, exts)
+
+                if bibcode or pdf_path:
+                    doc._augment_with_doc_def()
+
+                    if bibcode and doc.bibcode is None:
+                        continue
+
+                    if pdf_path and doc.pdf_path is None:
+                        continue
+
+                yield doc
