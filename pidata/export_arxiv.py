@@ -19,6 +19,11 @@ REFERENCES_PREFIX = os.environ.get("ADS_REFERENCES", "/proj/ads/references")
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--ads-arxiv-fulltext-shadow",
+        metavar="PATH",
+        help="ArXiv reference extractor fulltext directory for custom symlinking (see script, sorry)"
+    )
     parser.add_argument("out_dir")
     settings = parser.parse_args()
 
@@ -71,6 +76,27 @@ def main():
         shutil.copy(doc.ext_path(".rs.txt"), ref_path)
 
     print(f"Wrote files in `{gt_dir}`")
+
+    # If `--ads-arxiv-fulltext-shadow` is given, treat the argument as a
+    # fulltext tree that the ArXiv reference extractor framework might use for
+    # its containerized processing, and create symlinks out of that tree to the
+    # ADS PDF paths. So, this functionality can only work when running on the
+    # ADS system, since otherwise those PDF paths are not useful.
+
+    if settings.ads_arxiv_fulltext_shadow is not None:
+        ft_root_dir = Path(settings.ads_arxiv_fulltext_shadow)
+
+        for doc in docs:
+            arxiv_id = doc.global_id.replace(".", "_")
+            ap = Path(arxiv_id)
+            ft_dir = ft_root_dir / fulltext_prefix / ap.parent
+            ft_dir.mkdir(parents=True, exist_ok=True)
+            shadow_ft_path = ft_dir / (ap.name + ".pdf")
+
+            real_pdf_path = doc.ads_pdf_path_symbolic.replace("$ADS_ARTICLES", ARTICLES_PREFIX)
+            shadow_ft_path.symlink_to(real_pdf_path)
+
+        print(f"Created symlinks in `{ft_root_dir}`")
 
 
 if __name__ == "__main__":
