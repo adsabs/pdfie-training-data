@@ -1,0 +1,21 @@
+---<2003eida.conf..297V>---
+5 1998sssn.book....1B -- Blommaert, J., 1998, `ISOCAM Photometry Report V2.1.1', http://www.iso.vilspa.esa.es/users/expl lib/CAM/
+5 1998A&A...335...53B -- photom rep fn.ps.gz Boselli, A., et al., 1998, A&A, 335, 53
+1 1996A&A...315L.309C -- Cesarsky, D, et al., 1996, A&A, 315, L309
+1 2000AJ....120..583D -- Dale, D.A., et al., 2000, AJ, 120, 583
+1 2000ARA&A..38..761G -- Genzel, R., Cesarsky, C.J., 2000, ARAA, 38, 761
+5 ...0............... -- Helou, G., 1999, in Cox, P., Kessler, M.F., eds., ESA SP-47, The Uni-
+0 ................... -- verse As Seen by ISO, ESA Publ.Div., ESTEC, Noordwijk, p. 797
+1 2000ApJ...532L..21H -- Helou, G., Lu, N.Y., Werner, M.W., Malhotra, S., Silbermann, N., 2000,, ApJ, 532, L21
+1 1999A&A...342..643M -- Mattila, K., Lehtinen, K., Lemke, D., 1999, A&A, 342, 643
+1 2001MNRAS.327.1187M -- Morel, T., et al., 2001,, MNRAS, 327, 1187
+1 2000MNRAS.316..749O -- Oliver S., et al., 2000,, MNRAS, 316, 749
+1 2001A&A...369..473R -- Roussel, H., et al., 2001a, A&A, 369, 473
+1 2001A&A...372..427R -- Roussel, H., et al., 2001b, A&A, 372, 427
+1 1996A&A...315L..89S -- Sauvage, M., et al., 1996, A&A, 315, L89
+1 2000MNRAS.316..768S -- Serjeant S., et al., 2000,, MNRAS, 316, 768
+1 1998ApJ...509..103S -- Silva, L., et al., 1998,, ApJ, 509, 103
+1 2002astro.ph..8412V -- V&Dot;ais&Dot;anen, P., et al., 2000,, ApJ, 540, 593 V&Dot;ais&Dot;anen, P., et al., 2002,, MNRAS, in press (astro-ph/0208412)
+1 1996A&A...315L..93V -- Vigroux, L., et al., 1996, A&A, 315, L93
+5 ...0............... -- Vigroux, L., et al., 1999, in Cox, P., Kessler, M.F., eds., ESA SP-47,
+0 ................... -- The Universe As Seen by ISO, ESA Publ.Div., ESTEC, Noord- wijk, p. 805

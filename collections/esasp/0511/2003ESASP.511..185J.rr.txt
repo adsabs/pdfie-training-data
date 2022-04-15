@@ -1,0 +1,20 @@
+---<2003eida.conf..185J>---
+1 1990A&A...233..437B -- Bloemen, J., Deul, E., Thaddeus, P. 1990, A&A 233, 437
+1 2001ApJ...547..792D -- Dame, T., Hartmann, D., Thaddeus, P. 2001, ApJ 547, 792
+1 1984ApJ...285...89D -- Draine, B.T., & Lee H. 1984, ApJ 285, 59
+1 1989ESASP.290...93D -- Drain, B.T. 1989, Proc 22nd ESLAB Symp. on IR Spectroscopy in Astron., Kaldeich B.H.(ed), ESA SP-290, p.93
+1 1997Msngr..87...27E -- Epchtein, N., De Batz, B., Capoani, L., et al. 1997, Messenger 87, 27
+1 1999hia..book.....G -- Glass, I. 1999, Handbook of Infrared Astronomy, Cambridge Uiver-
+1 1999MNRAS.308..127G -- sity Press Glass, I., Ganesh, S., Alard, C., et al. 1999, MNRAS 308, 127
+0 ................... -- Hennebelle, P., P'erault, M., Teyssier D. et al. 2001, A&A 365, 598Landini, M., Natta, A., Oliva, E., et al. 1984, A&A 134, 284
+1 1996A&A...315L.269L -- Lutz, D., Feuchtgruber, H., Genzel, R. et al. 1996, A&A 315, L269
+1 1999ESASP.427..623L -- Lutz, D. 1999, The Universe as seen by ISO, Cox P. & Kessler M. (eds), p.623
+0 ................... -- Martin, P., & Whittet, D. 1990, ApJ 357, 113Mathis, J., 1990, ARA&A 28, 37
+0 ................... -- Ojha, D., Omont, A., Simon, G., et al. 2002, A&A, submitted
+1 1999A&A...348..755O -- Omont, A., Ganesh, S., Alard C., et al. 1999, A&A 348, 755
+0 ................... -- Omont, A., Gilmore, G., Alard, C. et al. 2002, in preparation
+1 1985ApJ...288..618R -- Rieke, G., & Lebofsky, M. 1985, ApJ 288, 618
+1 1989ApJ...336..752R -- Rieke, G., Rieke, M., Paul A. 1989, ApJ 336, 752
+0 ................... -- Schuller, F., Ganesh, S., Messineo, M., et al. 2002, A&A, to be sub-
+5 1946POBeo..11....1M -- mitted van de Hulst, H.C. 1946, Rech. Astron. Obs. Utrecht, 11, 1
+5 1992ApJS...83..146W -- Wainscoat, R., Cohen, M., Volk, K., et al. 1992, ApJSS 83, 146

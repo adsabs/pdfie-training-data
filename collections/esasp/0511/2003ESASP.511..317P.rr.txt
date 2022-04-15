@@ -1,0 +1,19 @@
+---<2003eida.conf..317P>---
+1 1999A&A...343L..65A -- Altieri, B., Metcalfe, L., Kneib, J-P. et al. 1999, A&A, 343, 65
+1 2000ApJ...543L.119B -- Bautz, M.W., Malm, M.R., Baganoff, F.K. et al. 2000,, ApJ, 543, L119
+1 1999A&A...347...21B -- B'ezecourt, J., Kneib, J. P., Soucail, G., & Ebbels, T. M. D. 1999,, ApJ, 347, 21
+0 ................... -- Biviano et al. 2003, in preparation
+0 ................... -- Blain, A.W., Kneib, J.-P., Ivison, R.J. & Smail, I. 1999, ApJ 512, L87Coia et al. 2003, in preparation
+1 2002AJ....123.2197C -- Cowie, L., Barger, A., Kneib, J.-P., 2002,, ApJ, 123, 2197
+1 2002A&A...382...60D -- Duc, P.-A., Poggianti, B. M., Fadda, D. et al. 2002, A&A, 382, 60
+1 2002A&A...384..848E -- Elbaz, D., Cesarsky, C.J., Chanial, P. et al. 2002, A&A, 384, 848
+1 2000A&A...361..827F -- Fadda, D., Elbaz, D., Duc, P.-A. et al. 2000, A&A, 361, 827
+1 1996A&A...315L..27K -- Kessler, M.F., Steinz, J.A., Anderegg, M. et al. 1996, A&A, 315, L27
+1 1996ApJ...471..643K -- Kneib, J-P., Ellis, R.S., Smail, I., Couch, W.J., Sharples, R.M. 1996,, ApJ, 471, 643
+5 1986BAAS...18R1014L -- Lynds, R., Petrosian, V. 1986, Bull. Am. Astr. Soc. 18, 1014
+0 ................... -- Metcalfe, L., Kneib, J,-P., McBreen, B. et al. 2003, in preparation Paczyn'ski, B. 1987,, Nature, 325, 572
+1 2002MNRAS.331..495S -- Smail, I., Ellis, R., Blain, A. W., Kneib, J.-P. 2002,, MNRAS, 331, 495
+1 1987A&A...172L..14S -- Soucail, G., Fort, B., Mellier, Y., & Picat, J. P. 1987, A&A, 172, L14
+1 1987A&A...184L...7S -- Soucail, G., Mellier, Y., Fort, B., Mathez, G., & Hammer, F. 1987, A&A, 184, L7
+1 1988A&AS...73..471S -- Soucail, G., Mellier, Y., Fort, B., Cailloux, M. 1988, A&AS, 73, 471
+1 1980ApJ...241..507Y -- Young, P., Gunn, J.E., Oke, J.B., Westphal, J., Kristian, J. 1980, ApJ 241, 507

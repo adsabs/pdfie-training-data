@@ -1,0 +1,12 @@
+---<2003eida.conf..267S>---
+1 1996A&A...315L..32C -- Cesarsky C., Abergel A., Agn`ese P. et al., 1996, A&A 315, L32
+1 2000ApJS..129...33D -- de Koff S., Best P., Baum S.A., Sparks W., Rottgering H., et al., 2000, ApJS 129, 33
+1 2003eida.conf..271F -- Freudling W., Siebenmorgen R., 2002, this volume
+1 2001ApJ...552..508G -- Giovannini G., Cotton W.D., Feretti L., Lara L., Venturi T., 2001, ApJ 552, 508
+1 1996A&A...315L..27K -- Kessler M.F., Steinz J.A., Andregg M.E., et al., 1996, A&A 315, L27
+5 2001lase.book...99L -- Leech K., Pollock A.M.T. , 2001, ``ISO Handbok Vol. II'', SAI-99-
+5 2001A&A...372..719M -- 082/Dc, http://www.iso.vilspa.esa.es Meisenheimer K., Haas M., M&Dot;uller S. A. H., et al., 2001, A&A 372, 719
+5 1996ASPC..125.1997O -- Ott S., Abergel A., Altieri B., et al., 1996, ASAP Conference series, Vol. 125, 1997
+0 ................... -- Ruiz M., Efstathiou A., Alexander D. M., Hough J., 2001, MNRAS
+0 ................... -- 325, 995 Siebenmorgen R., Moorwood A., Freudling W., K&Dot;aufl H.U., 1997, A&A 325, 450. Siebenmorgen R., Kr&Dot;ugel E., Laureijs R., 2001, A&A 377, 735
+1 1985PASP...97..932S -- Spinrad H., Djorgovski S., Marr J., Aguilar L., 1985, PASP 97, 932

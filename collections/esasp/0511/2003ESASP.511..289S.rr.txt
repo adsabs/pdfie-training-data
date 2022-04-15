@@ -1,0 +1,20 @@
+---<2003eida.conf..289S>---
+1 1987ApJ...321..645B -- Bicay M.D., Giovanelli R., 1987, ApJ 321, 645
+1 1999LNP...530....9B -- Binggeli B., 1999, in The Radio Galaxy Messier 87, eds. H.-J. R&Dot;oser, K. Meisenheimer (Berlin: Springer), p. 9
+1 2001A&A...365...11C -- Contursi A., Boselli A., Gavazzi G., et al., 2001, A&A 365, 11
+1 1989MNRAS.239..347D -- Doyon R., Joseph R.D., 1989, MNRAS 239, 347
+1 2000AJ....120..733E -- Elmegreen D.M., Elmegreen B.G., Chromey F.R., Fine M.S., 2000, ApJ 120, 733
+0 ................... -- Faber S.M., Wegner G., Burstein D., et al., 1989, ApJS 69, 763Forbes D.A., 1991, MNRAS 249, 779
+1 1979ApJ...234L..27F -- Forman W., Schwarz J., Jones C., Liller W., Fabian A.C., 1979, ApJ 234, L27
+1 2001astro.ph.10087F -- Forman W., Markevitch M., Jones C., et al., 2001, astro-ph/0110087
+0 ................... -- Gabriel C., Acosta-Pulido J., Heinrichsen I., et al., 1997, Astronomical
+5 1989IEEEP......108D -- Data Analysis Software and Systems VI, A.S.P. Conf. Ser., Vol. 125, eds. G. Hunt, H. E. Payne, p. 108
+1 1998ITSP...46..322K -- Kalluri S., Arce G.R., 1998, IEEE Transactions on Signal Processing 46, 322
+1 1996A&A...315L..27K -- Kessler M.F., Steinz J.A., Anderegg M.E., et al., 1996, A&A 315, L27
+0 ................... -- Laureijs R.J., Klaas U., Richards P.J., Schulz B., 'Abrah'am P., 2000, The ISO Handbook, Volume V: PHT - The Imaging Photo- Polarimeter, Version 1.1, SAI/99-069/dcLemke D., Abolins J., Abraham P., et al., 1996, A&A 315, L64
+1 1999ESASP.427...51L -- Lemke D., Klaas U., 1999, in The Universe as seen by ISO, eds. P. Cox, M.F. Kessler, ESA-SP 427, p. 55
+1 1987MNRAS.225..939N -- Nulsen P.E.J., Carter D., 1987, MNRAS 225, 939
+1 1995MNRAS.277.1047R -- Rangarajan F.V.N., White D.A., Ebeling H., Fabian A.C., 1995, MN- RAS 277, 1047
+1 2000A&A...359..865S -- Stickel M., Lemke D., Klaas, U., et al., 2000, A&A 359, 865
+0 ................... -- Stickel M., Bregman J.N., Fabian A.C., White D.A., Elmegreen D.M., 2002, A&A, in press
+1 1991ApJ...375...35W -- White D.A., Fabian A.C., Forman W., Jones C., Stern C., 1991, ApJ 375, 35

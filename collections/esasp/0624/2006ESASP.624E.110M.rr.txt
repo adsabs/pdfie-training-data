@@ -1,0 +1,34 @@
+---<2006ESASP.624E.110M>---
+1 1996A&A...313..873A -- Alonso, A., Arribas, S., Martinez-Roger, C. 1996, A&A 313, 873
+1 1999A&AS..140..261A -- Alonso, A., Arribas, S., Martinez-Roger, C. 1999, A&AS 140, 261
+1 2006ApJ...638.1004A -- Ammons, S.M., Robinson, S.E., Strader, J., Laughlin, G., Fischer, D., Wolf, A. 2006, ApJ 638, 1004
+1 1998ApJS..117..167A -- Arellano F.A., Rojo A.E., Gonzalez-Bedolla, S., Rosenzweig, P. 1998, ApJS 117, 167
+1 2003PASA...20..203B -- Bedding T.R., Kjeldsen H. 2003, PASA 20, 203
+1 1997ASPC..119..153B -- Borucki, W.J., Koch, D.G., Dunham, E.W., Jenkins, J.M. 1997, in "Planets Beyond the Solar System and the Next Generation of Space Missions" ASP Conf. Ser. vol. 119, p.153, ed. David Soderblom
+1 2003SPIE.4854..129B -- Borucki et al. 2003, in Future EUV/UV and Visible Space Astrophysics Missions and Instrumentation. Edited by J. Chris Blades, Oswald H. W. Siegmund. Proceedings of the SPIE, Volume 4854, p. 129
+1 1991ApJ...368..599B -- Brown, T.M., Gilliland, R.L., Noyes, R.W., Ramsey, L.W. 1991, ApJ 368, 599
+1 1985PASP...97..584B -- Budding, E. 1985, PASP 97, 584
+1 1994AJ....107.2240C -- Carney, B.W., Latham, D.W., Laird, J.B., Aguilar, L.A. 1994, AJ 107, 2240
+1 1993IAUCo.137..483C -- Christensen-Dalsgaard, J. 1993, Asp Conf. Ser. Vol. 40, "Proceedings of IAU Coll. 137, Inside the Stars", eds. W. W. Weiss and A. Baglin, 483
+5 2004SoPh.......220C -- Christensen-Dalsgaard, J. 2004, Solar Physics, 220.
+1 2003tmc..book.....C -- Cutri, R.M. et al. 2003, "2 MASS All-Sky Catalog of Point Sources"
+1 2006MNRAS.365..595D -- De Ridder, J., Arentoft, T., Kjeldsen, H. 2006, MNRAS 365, 595
+1 1998A&A...339..858D -- di Benedetto, G.,P. 1998, A&A 339, 858
+1 1997yCat.1239....0E -- ESA 1997, The Hipparcos Catalogue, ESA SP-
+1 1998A&AS..129..237F -- Feltzing, S., Gustafsson, B. 1998, A&AS 129, 237
+1 1996ApJ...469..355F -- Flower, P.J. 1996, ApJ 469, 355
+1 1990A&AS...86..107H -- Hauck, B., Mermilliod, M. 1990, A&AS 86, 107
+1 1966ARA&A...4..193J -- Johnson H.L. 1966, ARA&A 4, 193
+1 2002A&A...391.1039K -- Kinman, T., Castelli, F. 2002, A&A 391, 1039
+1 1995A&A...293...87K -- Kjeldsen, H., Bedding, T.R. 1995, A&A 293, 87
+1 2004ESASP.559..101K -- Kjeldsen, H., Bedding, T.R. 2004, Proc. of the SOHO 14 / GONG 2004 Workshop (ESA SP-559). "Helioand Asteroseismology, Towards a Golden Future" p.101, Ed., D. Danesy.,
+1 1973PASP...85..573L -- Lutz, T.E., Kelker, D.H. 1973, PASP 85, 573
+1 2006A&A...450..735M -- Masana, E., Jordi, C. Ribas, I. 2006, A&A 450, 735
+1 2006MmSAI..77..545M -- Molenda-Zakowicz J. 2006, Mem. Soc. Astron. It. vol. 77, p. 545
+1 1993A&A...268..653N -- Napiwotzki, R., Schonberner, D., Wenske, V. 1993, A&A 268, 653
+1 1993ApJ...407..699P -- Pilachowski, C.A., Sneden, C., Booth, J. 1993, ApJ 407, 699
+1 2001MNRAS.325..931R -- Reid, I.N., Wyk, F.V., Marang, F., Roberts, G., Kilkenny, D., Mahoney, S. 2001, MNRAS 325, 931
+1 1998A&A...330..600R -- Ribas, I., Gimenez, A., Torra, J., Jordi, C., Oblak, E. 1998, A&A 330, 600
+1 1998ApJ...500..525S -- Schlegel, D., Finkbeiner, D., Davis, M. 1998,, ApJ, 500, 525
+1 1987A&A...188..233S -- Smith, H., Jr. 1987, A&A 188, 233
+1 2005MNRAS.364..712Z -- Zhang, H.W., Zhao, G. 2005, MNRAS 364, 712

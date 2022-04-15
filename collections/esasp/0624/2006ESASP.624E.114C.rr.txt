@@ -1,0 +1,12 @@
+---<2006ESASP.624E.114C>---
+1 2003A&A...406L..15P -- Pijpers, F. P., Teixeira, T. C., Garcia, P. J., Cunha, M. S., Monteiro, M. J. P. F. G., & ChristensenDalsgaard, J. 2003, A&A, 406, L15
+1 2006MmSAI..77..411T -- Thevenin, F., Bigot, L., Kervella, P., Lopez, B., Pichon, B., & Schmider, F.-X. 2006, Memorie della Societa Astronomica Italiana, 77, 411
+1 2004A&A...426..601D -- Di Folco, E., Thevenin, F., Kervella, P., Domiciano de Souza, A., Coude du Foresto, V., Segransan, D., & Morel, P. 2004, A&A, 426, 601
+1 1994ApJ...427.1013B -- Brown, T. M., Christensen-Dalsgaard, J., WeibelMihalas, B., & Gilliland, R. L. 1994,, ApJ, 427, 1013
+1 2005A&A...441..615M -- Miglio, A., & Montalban, J. 2005, A&A, 441, 615
+5 1992merc.book....2N -- Numerical Recipes, The Art of Scientific Computing Press, W. H. Teukolsky, S. A., Vetterling, W. T., Flannery, B. P., 1992, 2nd Ed., Cambridge University Press.
+1 1982MNRAS.199..735C -- Christensen-Dalsgaard, J. 1982,, MNRAS, 199, 735
+1 1973A&A....23..325E -- Eggleton, P. P., Faulkner, J., & Flannery, B. P. 1973, A&A, 23, 325
+1 1992ApJS...79..507R -- Rogers, F. J., & Iglesias, C. A. 1992,, ApJS, 79, 507
+0 ................... -- Bohm-Vitense, E. 1958, Zeitschrift fur Astrophysik,
+0 ................... -- 46, 108

@@ -1,0 +1,14 @@
+---<2006ESASP.624E.108B>---
+1 2000ApJ...532..593M -- Miesch M. et al. 2000,, ApJ, 532, 592
+1 2002ApJ...570..865B -- Brun A. S., Toomre J. 2002,, ApJ, 570, 865
+5 1999ParC...25..361C -- Clune et al. 1999, Parallel Comp., 25, 361
+5 2004ApJ.....0..614B -- Brun A. S., Miesch M., Toomre J. 2004,, ApJ, 614,
+1 1997A&AS..124..597M -- Morel P. 1997, A&AS, 124, 597
+5 2004nova.pres..197B -- Ballot J., Brun A. S., Turck-Chieze S. 2004, SF2A Sci. Highlights, 197
+1 1981ApJS...45..351G -- Glatzmaier G. A., Gilman P. A. 1981,, ApJS, 45, 351
+1 2000FlDyR..28..349G -- Grote E., Busse F. H. 2000, Fluid Dyn. Res., 28, 349
+1 1995A&A...299..446K -- Kitchanov L. L., Rudiger G. 1995, A&A, 299, 446
+1 2005ApJ...622.1320R -- Rempel M. 2005,, ApJ, 622, 1320
+5 2006ApJ.....0..641M -- Miesch M., Brun A. S., Toomre J. 2006,, ApJ, 641,
+1 2004PhFl...16.1603M -- Morin V., Dormy E. 2004, Phys. Fluids, 16/5, 1603
+1 2004SoPh..220..169G -- Gizon L., Solanki S. K. 2004, Sol. Phys., 220, 169

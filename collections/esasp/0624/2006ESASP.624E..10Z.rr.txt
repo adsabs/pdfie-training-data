@@ -1,0 +1,35 @@
+---<2006ESASP.624E..10Z>---
+1 2004ApJ...610.1157B -- Basu, S., Antia, H. M., & Bogart, R. S. 2004,, ApJ, 610, 1157
+1 2004SoPh..220..371H -- Haber, D. A., Hindman, B. W., Toomre, J., & Thompson, M. J. 2004, Sol Phys, 220, 371
+1 2005ApJ...630.1184K -- Komm, R., Howe, R., Hill, F., Gonzalez Hernandez, I., & Toner, C. 2005,, ApJ, 630, 1184
+0 ................... -- Braun, D. C., & Lindsey, C. 2003, in Proceedings of SOHO 12/ GONG 2002, 15
+1 2005ApJ...620.1107L -- Lindsey, C., & Braun, D. C. 2005,, ApJ, 620, 1107
+1 2002SoPh..209....5S -- Sun, M.-T., Chou, D.-Y., & the TON Team 2002, Sol Phys, 209, 5
+1 1993Natur.362..430D -- Duvall, T. L., Jr., Jefferies, S. M., Harvey, J. W., & Pomerantz, M. A. 1993,, Nature, 362, 430
+1 1996Natur.379..235D -- Duvall, T. L., Jr., D'Silva, S., Jefferies, S. M., Harvey, J. W., & Schou, J. 1996,, Nature, 379, 235
+1 1997Natur.390...52G -- Giles, P. M., Duvall, T. L., Jr., Scherrer, P. H., & Bogart, R. S. 1997,, Nature, 390, 52
+1 2004ApJ...603..776Z -- Zhao, J., & Kosovichev, A. G. 2004,, ApJ, 603, 776
+1 1996ApJ...461L..55K -- Kosovichev, A. G. 1996,, ApJ, 461, L55
+1 2000SoPh..192..159K -- Kosovichev, A. G., Duvall, T. L., Jr., & Scherrer, P. H. 2000, Sol Phys, 192, 159
+1 2000SoPh..192..231J -- Jensen, J. M., Jacobsen, B. H., & ChristensenDalsgaard, J. 2000, Sol Phys, 192, 231
+1 2000SoPh..192..193B -- Birch, A. C., & Kosovichev, A. G. 2000, Sol Phys, 192, 193
+1 2002ApJ...571..966G -- Gizon, L., & Birch, A. C. 2002,, ApJ, 571, 966
+1 2001ApJ...557..384Z -- Zhao, J., Kosovichev, A. G., & Duvall, T. L., Jr. 2001,, ApJ, 557, 384
+1 2005ApJ...627.1040H -- Hughes, S. J., Rajaguru, S. P., & Thompson, M. J. 2005,, ApJ, 627, 1040
+5 1999PhChE..24...15J -- Jacobsen, B. H., Moller, I., Jensen, J. M., & Efferso, F. 1999, Phys. Chem. Earth, 24, 15
+1 2004ApJ...607..554C -- Couvidat, S., Birch, A. C., Kosovichev, A. G., & Zhao, J. 2004,, ApJ, 607, 554
+1 2004PhDT.......412Z -- Zhao, J., 2004, Ph.D. Thesis, Stanford University
+0 ................... -- Giles, P. M. 1999, Ph.D. Thesis, Stanford University
+5 1982ITM.....8...43P -- Paige, C. C., & Saunders, M. A. 1982, ACM Trans. Math. Software, 8, 43
+1 2003ApJ...591..446Z -- Zhao, J., & Kosovichev, A. G. 2003,, ApJ, 591, 446
+1 2001ApJ...553L.193J -- Jensen, J. M., Duvall, T. L., Jr., Jacobsen, B. H., & Christensen-Dalsgaard, J. 2001,, ApJ, 553, L193
+1 2004ApJ...608..580B -- Birch, A. C., Kosovichev, A. G., & Duvall, T. L., Jr. 2004,, ApJ, 608, 580
+1 2006ApJ...640..516C -- Couvidat, S., Birch, A. C., & Kosovichev, A. G. 2006,, ApJ, 640, 516
+5 2005LRSP....2.2005G -- Gizon, L., & Birch, A. C. 2005, Living Rev. Solar Phys., 2, 6, http,//www.livingreviews.org/lrsp-2005-6
+1 1979ApJ...230..905P -- Parker, E. N. 1979,, ApJ, 230, 905
+1 2005ApJ...620.1118L -- Lindsey, C., & Braun, D. C. 2005,, ApJ, 620, 1118
+1 2006ApJ...643.1317Z -- Zhao, J., & Kosovichev, A. G. 2006,, ApJ, 643, 1317
+1 2005ApJ...621L.149S -- Schunker, H., Braun, D. C., Cally, P. S., & Lindsey, C. 2005,, ApJ, 621, L149
+1 2006ApJ...646..543R -- Rajaguru, S. P., Birch, A. C., Duvall, T. L., Jr., Thompson, M. J., & Zhao, J. 2006,, ApJ, 646, 543
+1 1997ApJ...487..447B -- Braun, D. C. 1997,, ApJ, 487, 447
+1 2006ApJ...647L.187B -- Braun, D. C., & Birch, A. C. 2006,, ApJ, 647, L187

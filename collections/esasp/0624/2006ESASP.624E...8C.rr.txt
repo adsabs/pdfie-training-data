@@ -1,0 +1,20 @@
+---<2006ESASP.624E...8C>---
+1 1978MNRAS.185....1B -- Brookes J. R., Isaak G. R., van der Raay H. B., 1978,, MNRAS, 185, 1
+1 1998MNRAS.300.1077C -- Chaplin W. J., Elsworth Y., Isaak G. R., Lines R., McLeod C. P., Miller B. A., New R., 1997,, MNRAS, 300, 1077
+1 1999MNRAS.308..424C -- Chaplin W. J., Elsworth Y., Isaak G. R., Miller B. A., New R., 1999,, MNRAS, 308, 424
+1 2001MNRAS.322...22C -- Chaplin W. J., Elsworth Y., Isaak G. R., Marchenkov K. I., Miller B. A., New R., 2001,, MNRAS, 322, 22
+5 2002AdSpR..29...12C -- Chaplin W. J., Appourchaux T., Elsworth Y., Isaak G. R., New R., 2002a, AdSpR, Vol. 29, 12, 1881
+1 2004MNRAS.352.1102C -- Chaplin W. J., Elsworth Y., Isaak G. R., Miller B. A., New R., 2004,, MNRAS, 352, 1102
+1 2006MNRAS.369..985C -- Chaplin W. J. et al., 2006,, MNRAS, 369, 985
+0 ................... -- Christensen-Dalsgaard J., Berthomieu G., 1991, in Cox
+5 1989soia.book..401L -- A. N., Livingston W. C., Matthews M., eds, Solar Inte- rior and Atmosphere. Univ. Arizona Press, Tucson, p. 401.
+1 1990Natur.345..322E -- Elsworth Y., Howe R., Isaak G. R., McLeod C. P., New R., 1990,, Nature, 345, 322
+1 1994ApJ...434..801E -- Elsworth Y., Howe R., Isaak G. R., McLeod C. P., Miller B. A., New R., Speake C. C., Wheeler S. J., 1994,, ApJ, 434, 801
+1 1995A&AS..113..379E -- Elsworth Y., Howe R., Isaak G. R., McLeod C. P., Miller B. A., New R., Wheeler S. J., 1995, A&AS, 113, 379
+1 2000SSRv...94...15F -- Frohlich C., 2000, Space Sci. Rev., 94, 15
+1 1998A&A...329.1119J -- Jimenez-Reyes S. J., Regulo C., Palle P. L., Cortes T. R., 1998, A&A, 329, 1119
+1 2001A&A...379..622J -- Jimenez-Reyes S. J., Corbard T., Palle P. L., Cortes T. R., Tomczyk S., 2001, A&A, 379, 622
+1 1998ApJ...505L..51N -- Nigam R., Kosovichev A. G., 1998,, ApJ, 505, L51
+1 1994ApJ...434..384R -- Regulo C., Jimenez A., Palle P. L., Hernandez F. P., Cortes T. R., 1994,, ApJ, 434, 384
+1 2001GeoRL..28.1343V -- Viereck R., Puga L., McMullin D., Judge D., Weber M., Tobiska W. K., 2001, GRL, 28, 1343
+1 1985Natur.318..449W -- Woodard M. F., Noyes R. W., 1985,, Nature, 318, 449

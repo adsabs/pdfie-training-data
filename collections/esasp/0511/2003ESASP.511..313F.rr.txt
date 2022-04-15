@@ -1,0 +1,13 @@
+---<2003eida.conf..313F>---
+0 ................... -- Bertin E. & Arnouts S., 1996, A&A Supp. 117, 393 Cesarsky C. J., Abergel A., Agn'ese P. et al., 1996, A&A 315, L32
+0 ................... -- de Ruiter H. R., Zamorani G., Parma P. et al., 1997, A&A 319, 7Elbaz D., Cesarsky C. J., Fadda D. et al., 1999, A&A 351, L37
+1 2002A&A...384..848E -- Elbaz D., Cesarsky C. J., Chanial P. et al., 2002, A&A 384, 848
+1 2001A&A...378....1F -- Franceschini A., Aussel H., Cesarsky C. et al., 2001, A&A 378,1
+0 ................... -- Gruppioni C., Lari C., Pozzi F. et al., 2002, MNRAS 335, 831Hasinger G., Burg R., Giacconi R. et al., 1993, A&A 275, 1Hasinger G., Altieri B., Arnaud M. et al., 2001, A&A 365, 45
+1 1998A&A...336L...9K -- Kawara K., Sato Y., Matsuhara H., 1998, A&A 336, L9
+1 1996A&A...315L..27K -- Kessler M., Steinz J., Anderegg M. et al., 1996, A&A 315, L27
+1 2001MNRAS.325.1173L -- Lari C., Pozzi F., Gruppioni C. et al., 2001, MNRAS 325, 1173
+1 1986ApJ...302..432L -- Lockman, F. J., Jahoda, K., McCammon, D., 1986,, ApJ, 302, 432
+1 1996A&A...308L...5P -- Puget J.-L., Abergel A., Bernard J.-P. et al., 1996, A&A 308, L5
+1 2002MNRAS.331..817S -- Scott S. E., Fox M. J., Dunlop J. S. et al., 2002,, MNRAS, 331, 817
+1 1991AJ....101..354S -- Soifer B. T. & Neugebauer G., 1991, AJ, 101, 354

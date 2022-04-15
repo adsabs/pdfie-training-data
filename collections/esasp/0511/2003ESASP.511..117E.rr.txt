@@ -1,0 +1,13 @@
+---<2003eida.conf..117E>---
+1 1996A&A...315L..38C -- Clegg, P.E., Ade, P.A.R., Armand, C., et al. 1996, A&A 315, L38
+1 1996A&A...315L..49D -- de Graauw, T., Haser, L.N., Beintema, D.A. et al., 1996, A&A, 315, L49
+1 1984ApJ...285...89D -- Draine, B.T., Lee, H.M., 1984,, ApJ, 285, 89
+1 1960ApJS....4..337H -- Herbig, G.H., 1960, ApJS 4, 337
+5 1992ApJ.....0..397H -- Hillenbrand, L.A., Strom, S.E., Vrba, F.J., Keene, J., 1992,, ApJ, 397,
+1 1991A&A...250..127J -- Jaschek, M., Jaschek, C., Andrillat, Y., 1991, A&A, 250, 127
+1 1996A&A...315L..27K -- J Kessler, M.F., Steinz, J.A., Anderegg, M.E. et al., 1996, A&A 315, L27
+1 1999ApJ...520L.115M -- Miroshnichenko, A., Ivezi'c , Z., Vinkovi'c, D., & Elitzur, M., 1999,, ApJ, 520, L115
+1 1997ApJ...485..290P -- Pezzuto, S., Strafella, F., Lorenzetti, D., 1997, ApJ 485, 290.
+1 1998SPIE.3354..888S -- Swinyard, B.M., Burgdorf, M.J., Clegg, P.E., Davis, G.R., Griffin, M.J., Gry, C., Leeks, S.J., Lim, T.L., Pezzuto, S., Tommasi, E., 1998. In: Proc. SPIE, A.M. Fowler (Ed.), Vol. 3354, Pag. 888
+1 1994A&AS..104..315T -- Th, P.S., de Winter, D., Prez, M.R., 1994, A&AS 104, 315
+1 1998A&A...330..145V -- van den Ancker, M.E., de Winter, D., Tjin A Djie, H.R.E., 1998, A&A, 330, 145

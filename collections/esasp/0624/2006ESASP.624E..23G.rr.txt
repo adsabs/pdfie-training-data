@@ -1,0 +1,24 @@
+---<2006ESASP.624E..23G>---
+1 2001ApJ...555L..69T -- Turck-Chieze S. et al., 2001,, ApJ, 555, L69
+1 2003ApJ...599.1434C -- Couvidat S., Turck-Chieze S., Kosovichev A.G., 2003, ApJ 599, 1434
+1 2004SoPh..220..269G -- Garcia R. A., et al., 2004, Sol.Phys., 220, 269
+1 2003ARA&A..41..599T -- Thompson M. J., Christensen-Dalsgaard J., Miesch M. S., & Toomre J., 2003, Ann. Rev. Astron. Astrophys., 41, 599
+1 2005ApJ...626..585K -- Korzennik S.G., 2005,, ApJ, 626, 585
+1 1996A&A...312..610A -- Andersen B.N., 1996, A&A, 312, 610
+1 1996ApJ...458L..83K -- Kumar P., Quataert E. J. & Bahcall J. N., 1996,, ApJ, 458, L83
+1 2002A&A...390.1119G -- Gabriel A.H., Baudin F., Boumier P., et al., 2002, A&A 390, 1119
+1 2000ApJ...538..401A -- Appourchaux T., Frohlich C., Andersen, B., et al., 2000, ApJ 538, 401
+1 2002MNRAS.336..979C -- Chaplin W.J., Elsworth Y., Isaak G.R., et al., 2002,, MNRAS, 336, 979
+1 2004ApJ...604..455T -- Turck-Chieze S., Garcia R.A., Couvidat S., et al., 2004, ApJ 604, 455
+5 2005ESASP2005..588T -- Turck-Chieze S., Appourchaux T., Ballot J., et al., 2005, in Cosmic Vision ESLAB 2005 (ESA SP-588),
+1 2006ESASP.624E..95M -- Mathur S., Turck-Chieze S., Couvidat S. & Garcia R.A., 2006, These proceedings
+1 1991AdSpR..11d..29P -- Palle P.L., 1991, Adv. Space Res., 11 (4), 29
+5 1991soia.book..562H -- Hill H., Frohlich C., Gabriel M. & Kotov V. 1991, In Solar interior and atmosphere, eds, Cox A.N., Livingston W.C. & Matthews M.S., The University of Arizona Press, Tucson, 562
+1 2000A&A...353..775P -- Provost J., Berthomieu G. & Morel P., 2000 A&A 353, 775
+1 1995SoPh..162...61G -- Gabriel A.H., Grec G., Charra J., et al., 1995, Solar Physics 162, 61
+1 2005A&A...442..385G -- Garcia R.A., Turck-Chieze S., Boumier P., et al., 2005, A&A, 442, 385
+0 ................... -- Garcia R.A., Turck-Chieze S., Jimenez-Reyes S.J., et al., 2006,, ApJ, submitted
+0 ................... -- Appourchaux T., Andersen B., Baudin, et al., 2006, Proc. of SOHO-17, 10 years of SOHO and Beyond, Submitted
+1 2005MNRAS.364.1135R -- Rogers T. M., & Glatzmaier G. A., 2005,MNRAS, 364, 1135
+1 1990BAAS...22Q1225S -- Sturrock, P. A., & Bai, T. 1990, BAAS, 22, 1225
+5 1992ApJ.....0..395G -- Goode, P. R., & Thompson, M. J. 1992,, ApJ, 395,

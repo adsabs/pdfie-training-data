@@ -1,0 +1,12 @@
+---<2003eida.conf..177A>---
+5 2002SPIE.9250.2001A -- Abergel A., et al, 2002, A^2A 389, 239 180 Figure 4. Some illustrative CVF spectra in NGC 2023 (from Abergel et al. 2002), for pixels with   m / 1/23/4 1/2 m = 0.6 and 1.7 (upper and lower panels, respectively). Figure 5. Upper Panel: SWS spectrum of NGC 2023 (from Verstraete et al. 2001). Lower panel: The same convolved by the spectral response
+5 1998ASPC..132...15B -- of the CVF. Boulanger F., et al., 1998a, in Star Formation with ISO, eds. J. L. Yun and R. Liseau, ASP, San Francisco, p. 15
+0 ................... -- Boulanger F., et al, 1998b, A^2A 339, 194
+1 2001ApJ...546..273C -- Chan K.-W., et al., 2001, ApJ 546, 273
+5 1977CPCar..13....1D -- Davies G., 1977, in: Chemistry and Physics of Carbon, Marcel Dekker Inc., New York 13, p. 1
+1 1968BAN....19..421H -- Habing H.J., 1968, Bull. Astr. Netherlands, 19, 421
+0 ................... -- Hony S., et al., 2001, A^2A 370, 1030 Jones A., & d'Hendecourt L., 2000, A^2A 335, 1191
+0 ................... -- Mattila K., et al., 1996, A^2A, 315, L353
+0 ................... -- Peeters E., et al., 2002, A^2A 390, 1089
+1 2000ApJ...530..817U -- Uchida K.I., et al. 2000, ApJ 530, 817
+0 ................... -- Verstraete L., et al., 2001, A^2A 372, 981

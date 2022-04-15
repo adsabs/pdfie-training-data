@@ -1,0 +1,9 @@
+---<2003eida.conf..353M>---
+1 2001A&A...365..545H -- Habing H. J., Dominik C., Jourdain de Muizon, M., Laureijs R. J., Kessler M. F., Leech K., Metcalfe L., Salama A., Siebenmorgen R., Trams N., Bouchet P., 2001, A&A 365, 545
+1 1996A&A...315L..27K -- Kessler M.F., et al., 1996, A&A 315, L27
+0 ................... -- Kiss Cs., Klaas U., ''General Re-validation of Point Source Photome- try from PHT22 Mini-Maps'', Internal calibration report, 17 May 2000 Klaas U., 'Abrah'am P., Laureijs R.J., Radovich M., Schulz B., Wilke K., 2002, ISOPHOT Calibration Accuracies Document
+5 2002sci..book....0K -- Klaas U., Richards P., 2002, Report on the Scientific Validation of PHT OLP Version 10.0
+0 ................... -- Laureijs R.J., Jourdain de Muizon M., Leech K., Siebenmorgen R., Dominik C., Habing H. J., Trams N., Kessler M. F., 2002, A&A 387, 285Lemke D., et al., 1996, A&A 315, L64
+0 ................... -- Jourdain de Muizon, M., Habing H. J., 1992, Infrared Astronomy with
+0 ................... -- ISO, Proceedings of a Workshop held in Les Houches, France Ed- itors, Th. Encrenaz, M.F. Kessler, P. 129
+1 2001ApJ...555..932S -- Spangler C., Sargent A. I., Silverstone M. D., Becklin E. E., Zucker- man B., 2001, ApJ 555, 932

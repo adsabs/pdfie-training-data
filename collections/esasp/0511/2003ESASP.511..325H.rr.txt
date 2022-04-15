@@ -1,0 +1,9 @@
+---<2003eida.conf..325H>---
+0 ................... -- Del Burgo, C., 2002b, this volume.
+5 2000BVol..319.1169E -- Efstathiou, A. et al.,, MNRAS, 2000, Vol 319,4, p. 1169-1177.
+0 ................... -- Guiderdoni, B., Hivon, E., Bouchet, F.R., Maffei, B.,, MNRAS, 1998, 295, 877. H'eraudeau, Ph., 'Abrah'am, P., Klaas, U., Kiss, C., 2002a, ESA, SP- 428, in press H'eraudeau, Ph. 'Abrah'am, P., Klaas, U., Del Burgo , C. , 2002b, ESA SP-428, in press.
+1 1998ITSP...46..322K -- Kalluri, S. and Arce, G.R., 1998, IEEE Transactions on Signal Pro- cessing 46 ,322.
+1 2000LNP...548..129R -- Rowan-Robinson, M. , 2001, Lecture Notes in Physics, vol. 548, p.129.
+5 2000BVol..316..749O -- Oliver, S. and ELAIS consortium,, MNRAS, 2000, Vol. 316,4, p. 749-
+0 ................... -- 767. Surace, C., H'eraudeau, Ph., U., Lemke, D., Oliver, S., Rowan-
+5 1999ESASP...2.1059R -- Robinson ELAIS, ISOPHOT results, 1999, ESA SP-427,Vol. 2, p. 1059-1062.

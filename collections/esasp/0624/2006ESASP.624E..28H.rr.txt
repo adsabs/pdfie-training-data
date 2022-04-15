@@ -1,0 +1,57 @@
+---<2006ESASP.624E..28H>---
+1 1992MNRAS.255..603B -- Balmforth N.J. 1992a, MNRAS 255, 603
+1 1992MNRAS.255..639B -- Balmforth N.J. 1992b, MNRAS 255, 639
+1 1953tht..book.....B -- Batchelor G.K., 1953, Homogeneous Turbulence, Cambridge University Press, Cambridge
+1 2001ApJ...549L.105B -- Bedding T.R., Butler R.P., Kjeldsen H., et al. 2001, ApJ 549, L105
+1 2004ApJ...614..380B -- Bedding T.R., Kjeldsen H., Butler R.P., et al. 2004, ApJ 614, 380
+1 1984A&A...136..338B -- Bohn H.U., 1984, A&A 136, 338
+1 2001A&A...374L...5B -- Bouchy F., Carrier F. 2001, A&A 374, L5
+5 1999MNRAS...0..309C -- Chaplin W.J., Appourchaux T. 1999, MNRAS 309,
+1 2005MNRAS.360..859C -- Chaplin W.J., Houdek G., Elsworth Y., Gough D.O., Isaak, G.R., New R. 2005, MNRAS 360, 859
+1 1998MNRAS.298L...7C -- Chaplin W.J., Elsworth Y., Isaak G.R., Lines R., McLeod C.P., Miller B.A., New R. 1998, MNRAS 298, L7
+1 1982MNRAS.198..141C -- Christensen-Dalsgaard J., Gough D. 1982, MNRAS 198, 141
+1 1983SoPh...82..469C -- Christensen-Dalsgaard J., Frandsen S. 1983, Solar Phys. 82, 469
+1 2004ESASP.559..207D -- Dupret M.-A., Grigahcene A., Garrido R., Gabriel M., Noels A., in Proc. SOHO 14/GONG2004 Workshop, ed. D.Danesy, ESA SP-559, (Noordwijk, ESTEC), 207
+1 2002A&A...394L...5F -- Frandsen S., Carrier F., Aerts C., et al. 2002, A&A 394, L5
+5 1975A&A...208..122G -- Gabriel M., Scuflaire R., Noels A, Boury A. 1975, A&A 208, 122
+5 1989ESASP.418..863G -- Gabriel M., in Proc. SOHO 6/GONG 98 Workshop, eds S. Korzennik, A. Wilson, ESA SP-418 (Noordwijk, ESTEC), 863
+1 1977ApJ...212..243G -- Goldreich P., Keeley D.A. 1977, ApJ 212, 243
+1 1990ApJ...363..694G -- Goldreich P., Kumar P. 1990, ApJ 363, 694
+5 1994ApJ.....0..423G -- Goldreich P., Murray N., Kumar P. 1994, ApJ 423,
+1 1977LNP....71...15G -- Gough D.O. 1977a, in Problems of stellar convection, eds E. Spiegel, J.-P. Zahn (Berlin, SpringerVerlag), 15
+1 1977ApJ...214..196G -- Gough D.O. 1977b, ApJ 214, 196
+1 1980nnsp.work..273G -- Gough D.O. 1980, in Nonradial and Nonlinear Stellar Pulsation, eds H.A. Hill, W.A. Dziembowski, (Berlin, Springer-Verlag), 273
+1 1985LNP...218..235G -- Gough D.O. 1985, in Proc. Future Missions in Solar, Heliospheric and Space Plasma Physics, eds E. Rolfe, B. Battirck, ESA SP-235, (Noordwijk,ESTEC),
+5 1995ESASP...2..447H -- Houdek G., Balmforth N., Christensen-Dalsgaard J. 1995, in Proc. 4th SOHO Workshop, eds J.T. Hoeksema, V. Domingo, B. Fleck, B. Battrick, ESA SP376, Vol. 2, (Noordwijk, ESTEC), 447
+1 1999A&A...351..582H -- Houdek G., Balmforth N.J., Christensen-Dalsgaard J., Gough D.O. 1999, A&A 351, 582
+1 2002MNRAS.336L..65H -- Houdek G., Gough D.O. 2002, MNRAS 336, L65
+1 2002ApJ...581..736J -- Jimenez A., ApJ 581, 736
+1 1995A&A...293...87K -- Kjeldsen H., Bedding T.R. 1995, A&A 293, 87
+1 2001ESASP.464..361K -- Kjeldsen H., Bedding T.R., 2001, in Proc. SOHO 10/GONG 2000 Workshop, ed. A. Wilson, ESA SP464, (Noordwijk, ESTEC), 361
+1 2005ApJ...635.1281K -- Kjeldsen H., Bedding T.R., Butler R.P., et al. 2005, ApJ 635, 1281
+1 1941DoSSR..30..301K -- Kolmogorov A.N. 1941, Dokl. Akad. Nauk SSSR, 30, 299
+5 1995ESASP...2..165K -- Kosovichev A.G. 1995, in Proc. of Fourth SOHO Workshop, eds J.T. Hoeksama, V. Domingo, B. Fleck, ESA SP-376, vol.2, (Noordwijk, ESTEC), 165
+1 1988ApJ...334..510L -- Libbrecht K.G. 1988, ApJ 334, 510
+5 1952RSPSA...0..211L -- Lighthill M.J. 1952, Proc. Roy. Soc. London A211,
+0 ................... -- Ludwig H.-G. 2005, personal communication
+5 1989SoPh.......124M -- Marmolino C., Stebbins R.T. 1989, Solar Phys. 124,
+1 1994ApJ...423..474M -- Musielak Z.E., Rosner R., Stein R.F., Ulmschneider P. 1994, ApJ 423, 474
+1 1999A&A...351..993M -- Martic M., Schmitt J., Lebrun J.-C., Barban C., Connes P., Bouchy F., Michel E., Baglin A., Appourchaux T., Bertaux J.-L. 1999, A&A 351, 993
+1 1964ApJ...139...48M -- Moore D.W., Spiegel E.A. 1964, ApJ 139, 48
+0 ................... -- Osaki Y. 1990, in Progress of Seismology of the Sun and Stars, eds Y. Osaki Y., H. Shibahashi, (Berlin, Springer-Verlag), 145
+1 2001A&A...370..136S -- Samadi R., Goupil M.-J. 2001, A&A 370, 136
+1 2003A&A...404.1129S -- Samadi R., Nordlund A., Stein R.F., Goupil M.-J., Roxburgh I., 2003, A&A 404, 1129
+1 2005JApA...26..171S -- Samadi R., Goupil M.-J., Alecian E., et al. 2005, J. Astrophys Astr. 26, 171
+1 1991A&A...251..655S -- Schrijver C.J., Jimenez A., Dappen W. 1991, A&A 251, 655
+1 1962JGR....67.3063S -- Spiegel E. 1962, J. Geophys. Res. 67, 3063
+1 1967SoPh....2..385S -- Stein R.F. 1967, Solar Phys. 2, 385
+1 2001ApJ...546..585S -- Stein R.F., Nordlund A. 2001, ApJ 546, 585
+1 2004SoPh..220..229S -- Stein R., Georgobani D., Trampedach R., Ludwig H.-G., Nordlund A. 2004, Solar Phys. 220, 229
+1 2004SoPh..220..207S -- Stello D., Kjeldsen H., Bedding T.R., et al. 2004, Solar Phys. 200, 207
+1 2006A&A...448..709S -- Stello D., Kjeldsen H., Bedding T.R., Buzasi D. 2006, A&A 448, 709
+1 1997SoPh..175..311T -- Toutain T., Appourchaux T., Baudin F., et al. 1997, Solar Phys. 172, 311
+1 1999ASPC..173..233T -- Trampedach R., Stein R.F., Christensen-Dalsgaard J., Nordlund A. 1999, in Theory and Tests of Convection in Stellar Structure, eds A. Gimenez, E.F. Guinan, B. Montesinos, ASP Conf. Ser. 173, 233
+5 1964chas.book..555U -- Unno W. 1964, Trans. Int. astr. Un. XII(B), 555
+1 1967PASJ...19..140U -- Unno W. 1967, PASJ 19, 140
+1 1962PASJ...14..417U -- Unno W., Kato S. 1962, PASJ 14, 416
+1 1966PASJ...18...85U -- Unno W., Spiegel E.A. 1966, PASJ 18, 85

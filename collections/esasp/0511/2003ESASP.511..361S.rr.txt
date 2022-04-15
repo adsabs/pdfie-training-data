@@ -1,0 +1,8 @@
+---<2003eida.conf..361S>---
+5 1997ASPC....1....2G -- Gabriel, C., Acosta-Pulido, J., Heinrichsen, I., Morris, H., Tai, W.-M., 1997, in ASP Conf Ser. Vol 125 Laureijs, R.J., Klaas, U., Richards, P.J., Schulz, B., 'Abrah'am, P., 2001, ISO Handbook, Volume V: PHT--The Imaging Photo-Polarimeter, Version 1.2
+5 ...0............... -- Lu N., Khan I., Schulz B., Peschke S.B., Laureijs, R.J., Gabriel C., 2002a, ESA SP-482
+5 ...0............... -- Lu N., Hur M., & Li J., 2002b, ESA SP-482
+5 ...0............... -- Peschke S., Schulz, B., 2002, ESA SP-482
+5 ...0............... -- Peschke S., & Tuffs R. J., 2002, ESA SP-482
+5 ...0............... -- Schulz B., Tuffs, R.J., Laureijs, R.J., Gabriel, C., Khan, I., 2002, ESA SP-482
+5 ...0............... -- Tuffs R. J. & Gabriel, C., 2002, ESA SP-482

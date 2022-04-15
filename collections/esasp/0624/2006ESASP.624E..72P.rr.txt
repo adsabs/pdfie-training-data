@@ -1,0 +1,9 @@
+---<2006ESASP.624E..72P>---
+1 2000ApJ...541..442A -- Antia H. M., Basu, S.  , ApJ, 541, 442 (2000)
+1 2000MNRAS.313...32C -- Chaplin, W. J., Elsworth, Y., Isaak, G. R., Miller, B. A., New, R.   MNRAS 313, 32 (2000)
+5 2004JAMES.431.1083D -- De Pontieu, B., Erdelyi, R., James, S. P.   A&A 431, 1083 (2004)
+5 2005ITCJ..625..548D -- Dziembowski W.A., Goode P.R.   Astrophysical Journal 625, 548 (2005)
+1 1995A&AS..113..379E -- Elsworth Y., Howe R., Isaak G. R., McLeod C. P., Miller B. A., New R., Wheeler S. J.   A&A SS 113, 379 (1995)
+5 1995JPhC..157...75G -- Goossens M., Ruderman M. S., Hollweg J. V.   SolPhys 157, 75 (1995)
+0 ................... -- Tirry W. J., Goossens M., Pinter B., Cadez V. M.,
+0 ................... -- Vanlommel P.   ApJ 503, 422 (1998)

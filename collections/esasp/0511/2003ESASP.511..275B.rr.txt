@@ -1,0 +1,12 @@
+---<2003eida.conf..275B>---
+1 1985A&A...149..330B -- Bouchet et al., 1985, A&A 149, 330
+1 1996A&A...312..256B -- Boulanger F. et al., 1996, A&A 312, 256
+1 2000ApJ...536..756D -- Dickey J.M. et al., 2000, ApJ 536, 756
+1 1984IAUS..108..353D -- Dufour R.J., 1984, in IAU Symp. 108, 353
+1 2002A&A...388..439H -- Hirashita H. et al., 2002, A&A 388, 439
+1 1999A&A...344..322L -- Lagache G. et al., 1999, A&A 344, 322
+1 1998ApJ...496..145L -- Lisenfeld U. & Ferrara A., 1998, A&A 496, 145
+0 ................... -- Okumura K., 1993, Ph.D. Thesis, Univ. Paris-Sud
+1 1997MNRAS.289..225S -- Staveley-Smith L. et al., 1997, MNRAS 289, 225
+1 2001ApJ...554L..75W -- Welty D.E. et al., 2001, ApJ 554, L75
+1 2002ApJ...566..857T -- Tumlinson J. et al., 2002, ApJ 566, 857

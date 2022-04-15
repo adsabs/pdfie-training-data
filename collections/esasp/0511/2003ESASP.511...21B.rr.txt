@@ -1,0 +1,18 @@
+---<2003eida.conf...21B>---
+1 1999ESASP.427..861B -- Bradford, C.M., Stacey, G.J., Fischer, J.A., et al., 1999, ESA SP-427, 861
+0 ................... -- Brauher, J., submitted to ApJ Supplement Brauher, J., & Lord, S., 2001, ESA SP-481
+1 2003eida.conf..279C -- Contursi, A., Brauher, J., Helou, G., 2002, this volume
+1 2002ApJ...576..159D -- Dale, D., Helou, G., 2002,, ApJ, 576, 159
+1 1999ESASP.427..817F -- Fischer, J., Lord, S.D., Unger, S.J., 1999, ESA SP-427, 817
+5 ...0............... -- Hutchinson, M.G., Chan, S.J., Sidher, S.D., et al., 2001, ESA SP-481
+1 1999ApJ...527..795K -- Kaufman, M.J., Wolfire, M.G., Hollenbach, D.J., Luhman, M.L., 1999,, ApJ, 527, 795
+1 1998ApJ...504L..11L -- Luhman, M.L., Satyapal, S., Fischer, J., et al., 1998,, ApJ, 504, L11
+1 2001ApJ...561..766M -- Malhotra, S., Kaufman, M.J., Hollenbach, et al., 2001,, ApJ, 561, 766
+1 2001A&A...375..566N -- Negishi, T., Onaka, T., Chan, K.-W., et al., 2001, A&A, 375, 566
+1 1993ApJ...405..591P -- Petuchowski, S.J., & Bennett, C.L., 1993,, ApJ, 405, 591
+1 1999MNRAS.303L..29P -- Pierini, D., Leech, K.J., Tuffs, R.J., V&Dot;olk, H.J., 1999,, MNRAS, 303, L29
+1 1997Natur.386..472S -- Skinner, C.J., Smith, H.A., Sturm, E., 1997,, Nature, 386, 472
+1 1998adass...7..161S -- Sturm, E., Bauer, O.H., Brauher, J., et al., 1998, ADASS, 7, 161
+1 2000A&A...359..865S -- Stickel, M., Lemke, D., Klaas, U., et al., 2000, A&A, 359, 865
+1 1985ApJ...291..722T -- Tielens, A.G.G.M., & Hollenbach, D., 1985,, ApJ, 291, 722
+1 1990ApJ...358..116W -- Wolfire, M.G., Tielens, A.G.G.M., Hollenbach, D., 1990,, ApJ, 358, 116 26

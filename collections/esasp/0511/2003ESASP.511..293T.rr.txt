@@ -1,0 +1,14 @@
+---<2003eida.conf..293T>---
+1 2002ApJ...571..272A -- Athey, A., Bregman, J. N., Bregman, J. D., Temi, P. & Sauvage, M. 2002, ApJ 571, 272
+1 1997ApJ...486L..83B -- Brighenti, F. & Mathews, W. G. 1997,, ApJ, 486, L83
+1 1979ApJ...231...77D -- Draine, B. T. & Salpeter, E. E. 1979, ApJ 231, 77Dwek, E. 1986, ApJ 302, 363
+1 1997AJ....114.1771F -- Faber, S. M., Tremaine, S., Ajhar, E. A., Byun, Yong-Lk, Dressler, A., Gebhardt, K., Grillmar, C., Kormendy, J., Lauer, T. R., Richstone, D. 1997, AJ, 114, 1771
+0 ................... -- Gabriel, C., Acosta-Pulido, J., Heinrichsen, I., Morriss, H., & Tai, W- M., Astronomical Data Analysis Software and Systems VI, A.S.P. Conference Series, Vol. 125, 1997, Gareth Hunt & H. E. Payne, eds., p. 108.
+1 1998ApJ...503..247J -- Jurac, S., Johnson, R. E., and Donn, B. 1998,, ApJ, 503, 247
+1 1989ApJS...70..329K -- Knapp, G. R., Guhathakurta, P., Kim, D-W., Jura, M. A. 1989, ApJS 70,329
+1 1993ApJ...402..441L -- Laor, A. & Draine, B. T. 1993,, ApJ, 402, 441
+1 1977ApJ...217..425M -- Mathis, J. S., Rumpl, W., Nordsieck, K. H. 1977,, ApJ, 217, 425
+0 ................... -- Temi, P., Mathews, W. G., Brighenti, F. and Bregman, J. D. 2002, in
+1 1995ApJ...448...84T -- preparation Tsai, J. C. & Mathews, W. G. 1995,, ApJ, 448, 84
+5 2002PrPh.......482T -- Tuffs, R. J., & Gabriel, C., 2002, ESA-SP 482, In Press.
+1 1991MNRAS.253..710V -- van der Marel, R. P., 1991,, MNRAS, 253, 710

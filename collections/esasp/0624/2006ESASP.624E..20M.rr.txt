@@ -1,0 +1,15 @@
+---<2006ESASP.624E..20M>---
+1 1954AuJPh...7..373S -- Salpeter, E. E. 1954, Australian J. Phys., 7, 373
+1 1996ApJ...468..433S -- Shaviv, N. J. & Shaviv, G. 1996, ApJ 468, 433
+5 1997Ap&SS......214S -- Shaviv, N. J. & Shaviv, G. 1997, Ap&SS Lib., 214,
+1 2000ApJ...529.1054S -- Shaviv, N. J. & Shaviv, G. 2000,, ApJ, 529, 1054
+1 2001ApJ...558..925S -- Shaviv, N. J. & Shaviv, G. 2001,, ApJ, 558, 925
+5 1923PhyB...24..185D -- Debye, P. & Huckel, E. 1923, Phys. Z., 24, 185
+1 1988ApJ...331..565C -- Carraro, C., Schaffer, A., & Koonin, S. E. 1988,, ApJ, 331, 565
+1 2001A&A...371.1123W -- Weiss, A., Flaskamp, M., and Tsytovich, V. N. 2001 A&A 371, 1123
+1 2000ApJ...535..473O -- Opher, M., & Opher, R. 2000,, ApJ, 535, 473
+1 1999astro.ph..4289S -- Savchenko, V. I. 1999, preprint (astro-ph/9904289)
+1 2000NuPhS..87..209L -- Lavagno, A. & Quarati, P. 2000, Nucl. Phys. B (Proc. Suppl.), 87, 209
+1 2000A&A...356L..57T -- Tsytovich, V. N. 2000, A&A, 356, L57
+1 2002A&A...383..291B -- Bahcall, J. N., Brown, L. S., Gruzinov, A, Sawyer, R. F. 2002, A&A 383, 291
+0 ................... -- Mitler, H. E., 1977,, ApJ, 212, 513 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 -.150 -.130 -.110 -.090 -.070 -.050 -.030 -.010 cutoff radius (Bohr radii) PE(Hartree) 4. TESTING OUR SIMULATIONS 4.1 Effective Radius of the Potential

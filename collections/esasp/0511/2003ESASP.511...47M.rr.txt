@@ -1,0 +1,34 @@
+---<2003eida.conf...47M>---
+1 2002Icar..156..202B -- Barucci, M.A., Dotto, E., Brucato, J.R. et al. 2002, Icarus, 156, 202
+1 1998Icar..134...35C -- Colangeli, L., Bussoletti, E., Pestellini, C.C. et al. 1998, Icarus, 134, 35
+1 1999A&A...343L..87C -- Colangeli, L., Epifani, E., Brucato, J. R. et al. 1999, A&A, 343, L87
+1 1996A&A...315L.385C -- Crovisier, J., Brooke, T.Y., Hanner, M.S. et al. 1996, A&A, 315, L385
+1 1997EM&P...79..125C -- Crovisier, J. 1997, Earth Moon and Planets, 79, 125
+1 1997Sci...275.1904C -- Crovisier, J., Leech, K., Bockelee-Morvan, D. et al. 1997, Science, 275, 1904
+1 1997Icar..127..251D -- Davies, J. K., Sykes, M. V., Reach, W.T. et al. 1997, Icarus, 127, 251
+0 ................... -- Dotto, E., Barucci, M.A., Crovisier, J. et al. 1999, The Universe as
+5 1989ESASP.427..165S -- Seen by ISO, Cox & Kessler (Eds.), ESA SP-427, 165
+1 2000A&A...358.1133D -- Dotto, E., M&Dot;uller, T.G., Barucci, M.A. et al. 2000, A&A, 358, 1133
+0 ................... -- Dotto, E., Barucci, M.A., M&Dot;uller, T.G. et al. 2002, A&A, accepted
+1 2001Icar..149..339E -- Epifani, E., Colangeli, L., Fulle, M. et al. 2001, Icarus, 149, 339
+1 2000Icar..147..145F -- Fern'andez, Y.R., Lisse, C.M., K&Dot;aufl, U.H. et al. 2000, Icarus, 147, 145
+1 2001A&A...377.1098G -- Gr&Dot;un, E., Hanner, M.S., Peschke, S.B. et al. 2001, A&A, 377, 1098
+1 1997EM&P...79..247H -- Hanner, M.S., Gehrz, R.D., Harker, D.E. et al. 1997, Earth Moon and Planets, 79, 247
+1 1999Icar..142..464H -- Harris, A. W. & Davies, J. K. 1999, Icarus, 142, 464
+1 1996A&A...310.1011L -- Lagerros, J.S.V. 1996, A&A, 310, 1011
+1 1997A&A...325.1226L -- Lagerros, J.S.V. 1997, A&A, 325, 1226
+1 1998A&A...332.1123L -- Lagerros, J.S.V. 1998, A&A, 332, 1123
+5 1999fdem.conf...81L -- Lagerros, J.S.V., M&Dot;uller, T.G., Klaas, U. & Erikson, A. 1999, Leech, K., Crovisier, J., Bockel'ee-Morvan, D. et al. 1999, Earth Moon and Planets, 78, 81
+1 1998A&A...339L...9L -- Lellouch, E., Crovisier, J., Lim, T. et al. 1998, A&A, 339, L9
+1 1998A&A...332L..25M -- Malfait, K., Waelkens, C., Waters, L.B.F.M. et al. 1998, A&A, 332, L25
+5 1999Natur......401M -- Molster, F.J., Yamamura, I., Waters, L.B.F.M. et al. 1999,, Nature, 401,
+5 1998A&A...338..340M -- 563 M&Dot;uller T.G. & Lagerros J.S.V. 1998, A&A, 338, 340
+1 1999ESASP.427..141M -- M&Dot;uller, T.G., Lagerros, J.S.V., Burgdorf, M. et al. 1999a, in The Uni- verse as Seen by ISO, Cox & Kessler (eds.), ESA SP-427, 141
+1 1999ESASP.435...31M -- M&Dot;uller, T.G., Lagerros, J.S.V. & Klaas, U. 1999b, Workshop on ISO Polarisation Observations, Laureijs & Siebenmorgen (Eds.), ESA SP-435, 31
+1 2000ESASP.456...33M -- M&Dot;uller, T. G., Dotto, E., & Barucci, A. 2000, in ISO beyond the peaks: The 2nd ISO workshop on analytical spectroscopy, Salama, Kessler, Leech & Schulz (Eds.), ESA-SP 456, 33
+5 2001P&SS...49..787M -- M&Dot;uller, T.G. 2001, Planetary and Space Science, 49, 787
+5 2002A&A...369..655D -- M&Dot;uller, T.G., Hotzel, S. & Stickel, M. 2002, A&A, 369, 655
+1 2002A&A...381..324M -- M&Dot;uller T.G. & Lagerros J.S.V. 2002a, A&A, 381, 324
+0 ................... -- M&Dot;uller T.G. & Lagerros J.S.V. 2002b, in The Calibration Legacy of the ISO Mission, ESA SP-481, in press Peschke, S.B., Gr&Dot;un, E., B&Dot;ohnhardt, H. et al. 1997, Earth Moon and Planets, 78, 299
+1 1996A&A...315L.381R -- Reach, W.T., Abergel, A., Boulanger, F. et al. 1996, A&A, 315, L381
+0 ................... -- Reach, W.T., Sykes, M.V., Lien, D., & Davies, J.K. 2000, Icarus, 148, 80 52

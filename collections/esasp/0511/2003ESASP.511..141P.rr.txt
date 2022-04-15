@@ -1,0 +1,15 @@
+---<2003eida.conf..141P>---
+1 1997Ap&SS.251..177B -- Bagnulo, S. & Doyle, J.G. 1997, Ap&SS 251, 177
+1 1997ApJ...476..199B -- Begemann, B., Dorschner, J., Henning, Th. et al., 1997, ApJ 476, 199
+1 1999ApJ...522L.133C -- Choi, B.-G., Wasserburg, G.J., Huss, G.R., 1999, ApJ 522, L133
+1 2001A&A...373.1125F -- Fabian, D., Posch, Th., Mutschke, H. et al., 2001, A&A 373, 1125
+0 ................... -- Gail, H.-P. & Sedlmayr, E., 1998, in: Hartquist T.W., Williams D.A.
+5 1995A&AS..112..143H -- (eds.), The molecular astro-physics of stars and galaxies, Claredon Press, Oxford Henning, Th., Begemann, B., Mutschke, H., Dorschner, J., 1995, A&AS 112, 143
+0 ................... -- Jeong, K. S., Winters, J. M., Sedlmayr, E. 1999, in: Le Bertre T., L`ebre
+5 1989IAUS..191..233W -- A., Waelkens C. (eds.), Asymptotic Giant Branch Stars, Proc. IAU Symp. 191, ASP Conf. Ser. p. 233
+1 1977PhRvB..16.5452L -- Lucovsky, G., Sladek, R. J., Allen, J. W. 1977, Phys. Rev. B, Vol. 16, 5452
+0 ................... -- Mutschke, H., Posch, Th., Fabian, D., Dorschner, J., 2002, A&A, in
+5 1985homp.book....3P -- press Ossenkopf, V., Henning, T., Mathis, J. S., A&A 261, 567 Palik, E.D. (ed.), 1985-1998, Handbook of Optical Constants of Solids, 3 vols., Academic Press, Boston
+1 1999A&A...352..609P -- Posch, Th., Kerschbaum, F., Mutschke, H. et al., 1999, A&A 352, 609
+1 2002A&A...393L...7P -- Posch, Th., Kerschbaum, F., Mutschke, H., Dorschner, J., J&Dot;ager C., 2002, A&A 393, L7
+1 1990ApJ...350L..45S -- Stencel, R., Nuth, J.A., Little-Marenin, I., Little, S.J., 1990, ApJ 350, L45

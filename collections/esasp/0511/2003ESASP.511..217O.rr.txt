@@ -1,0 +1,26 @@
+---<2003eida.conf..217O>---
+1 1997A&A...322L..33B -- Baluteau , J. P., Cox, P., Cernicharo, J., et al. 1997, A&A, 322, L33
+1 1996ApJ...467..334C -- Cardelli, J. A., Meyer, D. M., Jura, M., & Savage, B. D. 1996,, ApJ, 467, 334
+1 1994ApJ...423..223C -- Carral, P., Hollenbach, D. J., Lord, S. D., et al. 1994,, ApJ, 423, 223
+1 2001ApJ...562..394C -- Cartledge, S. I. B., Meyer, D. M., Lauroesch, J. T., & Sofia, U. J. 2001,, ApJ, 562, 394
+1 1999A&A...347L...1C -- Caux, E., Ceccarelli, C., Castets, A., et al. 1999, A&A, 347, L1
+1 1996A&A...315L..38C -- Clegg, P. E., Ade, P. A. R., Armand, C., et al. 1996, A&A, 315, L38
+1 1996A&A...315L..49D -- de Graauw, T., Haser, L. N., Beintema, D. A., et al. 1996, A&A, 315, L49
+1 1996ApJ...473L..55F -- Fitzpatrick, E. L. 1996,, ApJ, 473, L55
+1 1997ApJ...482L.199F -- Fitzpatrick, E. L. 1997,, ApJ, 482, L199
+1 2000A&A...358..310G -- Giannini, T., Nisini, B., Lorenzetti, D., et al. 2000, A&A, 358, 310
+0 ................... -- Gry, C., Swinyard, B., Harwood, A., et al. 2002, The ISO Handbook,
+5 1989Vasio...2..220V -- vol. IV: LWS - The Long Wavelength Spectrometer, Version 2.0 220
+1 1991ApJ...374..555H -- Haas, M. R., Hollenbach, D. J., & Erickson, E. F. 1991,, ApJ, 374, 555
+1 1997ARA&A..35..179H -- Hollenbach, D. J., & Tielens, A. G. G. M. 1997, ARA&A, 35, 179Jones, A. P. 2000, JGR, 105, 10257
+1 1999ApJ...527..795K -- Kaufman, M. J., Wolfire, M. G, Hollenbach, D. J., & Luhman, M. L. 1999,, ApJ, 527, 795
+1 1996A&A...315L..27K -- Kessler, M. F., Steinz, J. A., Anderegg, M. E., et al. 1996, A&A, 315, L27
+1 1998ApJ...503..785K -- Kraemer, K. E., Jackson, J. M., & Lane, A. P. 1998,, ApJ, 503, 785
+0 ................... -- Leech, K., de Graauw, T., van den Ancker, M., et al. 2002, The ISO
+5 1989Vasio...2....0H -- Handbook, vol. VI: SWS - The Short Wavelength Spectrometer, Version 2.0
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., et al. 1996, A&A, 315, L64
+0 ................... -- Liseau, R., White, G. J., Larsson, B., et al. 1999, A&A, 344, 342Mathis, J. S. 1990, ARA&A, 28, 37
+1 2000ESASP.456..115M -- Mizutani, M., Onaka, T., & Shibai, H. 2000, ESA-SP, 456, 115
+0 ................... -- Okada, Y., Onaka, T., Shibai, H., & Doi Y., 2002, in preparationOnaka, T. 2000, ISAS Report SP-14, 83
+1 1996ApJ...462L..43P -- Poglitsch, A., Herrmann, F., Genzel, R., et al. 1996,, ApJ, 462, L43
+1 1996ARA&A..34..279S -- Savage, B. D., & Sembach, K. R. 1996, ARA&A, 34, 279

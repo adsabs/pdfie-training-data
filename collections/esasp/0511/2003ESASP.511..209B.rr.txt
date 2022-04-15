@@ -1,0 +1,10 @@
+---<2003eida.conf..209B>---
+1 1994ApJ...434..587B -- Bennett C.L., Fixsen D.J., Hinshaw G. et al., 1994, ApJ 434, 587
+0 ................... -- Caux E., Gry C., 1997, in: Proceedings of the ESA Symposium ''The
+5 1996A&A...315L..38C -- far infrared and submillimiter universe'', ESA SP-401, 67Clegg P.E., Ade P.A.R., Armand C. et al., 1996, A&A 315, L38
+1 1999ApJ...526..207F -- Fixsen D.J., Bennett C.L., Mather J.C., 1999, ApJ 526, 207
+5 2002lase.book..212G -- Gry C., Swinyard B.M., Harwood A. et al., 2002, The ISO Handbook Version 2.0 Vol. III: LWS, SAI/1999-077/Dc 212
+1 1995ApJ...455L..35N -- Nakagawa T., Doi Y., Yui Y.Y. et al., 1995, ApJ 455, L35
+1 1998ApJS..115..259N -- Nakagawa T., Yui Y.Y., Doi Y. et al., 1998, ApJS 115, 259
+1 1994ApJ...428..638S -- Sodrosky T.J., Bennett C., Boggess N. et al., 1994, ApJ 428, 638
+1 1998SPIE.3354..888S -- Swinyard B.M., Burgdorf M.J., Clegg P.E. et al., 1998, SPIE 3354, 888

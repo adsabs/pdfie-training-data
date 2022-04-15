@@ -1,0 +1,13 @@
+---<2006ESASP.624E.127J>---
+1 2004ApJ...605..554K -- Komm, R., Corbard, T., Durney, B. R., Gonzalez Hernandez, I., Hill, F., Howe, R. & Toner, C. G., 2004, ApJ 605, 554
+1 2006ApJ...638..576G -- Gonzalez Hernandez, I., Komm, R., Hill, F., Howe, R., Corbard, T. & Haber, D. A., 2006, ApJ 638, 576
+5 2006ESASP..10..617B -- Burtseva, O., Gonzalez Hernandez, I., Hill, F., Howe, R., Jain K., Kholikov, S., Komm, R., Leibacher, J., Toner, C., Tripathy, S. et al., 2006, in SOHO17, 10 Years of SOHO and Beyond, ed. Lacoste, H. (ESA SP-617; Noordwijk,ESA)
+1 1996Sci...272.1284H -- Harvey, J. W.et al., 1996, Science, 272, 1284
+1 2004SoPh..220..317F -- Finsterle, W., Jefferries, S. M., Cacciani, A., Rapex, P., Giebink, C., Knox, A. & Dimartino, V, 2004, Solar Phys. 220, 317
+0 ................... -- Jain, K., Hill, F., Antia, H. M., Tripathy, S. C., Armstrong, J. D., Jefferies, S. M., Rhodes, Jr., E. J. & Rose, P. J., 2006, these proceedings
+1 1988ApJ...333..996H -- Hill, F., 1988, ApJ 333, 996
+1 2005ApJ...621L.153B -- Beck, J. & Giles, P., 2005, ApJ 621, L153
+1 2001ESASP.464..355T -- Toner, C. G., 2001, in SOHO 10/GONG 2000 Workshop, Helioand asteroseismology at the dawn of the millennium, ed. A. Wilson (ESA SP-464, Noordwijk, ESA), 355
+0 ................... -- Haber, D. A.; Hindman, B. W.; Toomre, J.; Bogart,
+0 ................... -- R. S.; Thompson, M. J.; Hill, F., 2000 solar Physs.,
+0 ................... -- 192, 335

@@ -1,0 +1,5 @@
+---<2003eida.conf..331B>---
+0 ................... -- Blomme R., Runacres M.C., 2002, in: Proceedings of the ISOPHOT Workshop on P32 Oversampled Mapping, ESA SP-482, in press
+1 2003eida.conf..339D -- del Burgo, C., et al., 2002, this volume
+5 2001hsf1.book.2002L -- Laureijs R.J., Klaas U., Richards P.J., Schulz B., 'Abrah'am P., 2001, The ISO Handbook. Volume V. PHT, Version 1.2Lari, C., et al., 2002, this volume
+0 ................... -- Tuffs R., et al., 2002, in: Proceedings of the ISOPHOT Workshop on P32 Oversampled Mapping, ESA SP-482, in press 334

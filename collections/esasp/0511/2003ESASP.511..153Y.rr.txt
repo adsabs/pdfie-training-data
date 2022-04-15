@@ -1,0 +1,22 @@
+---<2003eida.conf..153Y>---
+1 1991A&A...245..499A -- Alcolea J., Bujarrabal V., 1991, A&A, 245, 499
+1 1990A&A...234..355B -- Bujarrabal V., Alcolea J., Bachiller R., 1990, A&A, 234, 355
+0 ................... -- Bujarrabal V., Bachiller R., Alcolea J., Martin-Pintado J., 1988, A&A
+0 ................... -- 206, L17 Cami J., 2002, Ph.D. Thesis, University of Amsterdam
+5 2000ApJS..309..732G -- Giridhar S., Lambert D.L., Gonzalez G., 2000, ApJ 531, 521 Jura M., 1986,, ApJ, 309, 732
+1 2000ApJ...541..264J -- Jura M., Chen C., Werner M.W., 2000,, ApJ, 541, 264
+5 1988svss.conf....4K -- Kholopov P.N., Samus N.N., Frolov M.S., et al., 1988, General Cata- logue of Variable Stars, 4th ed. (Nauka Publishing House)
+1 2002ApJS..140..389K -- Kraemer K.E., Sloan G.C., Price S.D., Walker H.J., et al., 2002, ApJS 140, 389
+1 1993CPL...211..305L -- Langhoff S.R., Bauschlicher Jr. C.W., 1993, Chem. Phys. Lett. 211, 305
+1 2002A&A...383..972M -- Matsuura M., Yamamura I., Cami J., et al., 2002a, A&A 383, 972
+1 2002A&A...387.1022M -- Matsuura M., Yamamura I., Zijlstra A.A., Bedding T.R., 2002b, A&A 387, 1022
+1 2002A&A...388..573O -- Onaka T., de Jong T., Yamamura I., 2002, A&A 388, 573
+1 1992A&A...261..567O -- Ossenkopf V., Henning Th., Mathis J.S., 1992, A&A 261, 567
+1 1997JChPh.106.4618P -- Partridge H., Schwenke D., 1997, J. Chem. Phys., 106, 4618
+1 1999A&A...352..609P -- Posch T., Kerschbaum F., Mutschke H., et al., 1999, A&A 352, 609
+1 1998JQSRT..60..665R -- Rothman L.S., et al., 1998, JQSRT 60, 665
+0 ................... -- Rothman L.S., et al., in preparation Shenton M., Monier R., Evans A., 1994, A&A 287, 866Tsuji T., Ohnaka K., Aoki W., Yamamura I., 1997, A&A 320, L1
+5 2002A&A.....0..390V -- Vandenbussche B., Beintema D., de Graauw T., et al., 2002, A&A 390,
+0 ................... -- 1033 Van Winckel H., Wealkens C., Fernie J.D., & Waters L.B.F.M., 1999, A&A 343, 202
+1 1993ApJ...413..641V -- Vassiliadis, E.,& Wood, P.R., 1993, A&A 413, 641
+0 ................... -- Waters L.B.F.M., Trams N.R., Waelkens C., 1992, A&A 256, L15Yamamura I., de Jong T., Onaka T., et al., 1999, A&A 341, L9 PARALLEL MODES AND SERENDIPITY SURVEY

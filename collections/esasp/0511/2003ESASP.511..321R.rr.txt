@@ -1,0 +1,18 @@
+---<2003eida.conf..321R>---
+1 1997A&A...319....7D -- Truemper J., Burg R., Giacconi R., Schmidt M., 1997 A&A, 319, p.7-17
+1 2001A&A...372..364D -- Dole H., Gispert R., Lagache G., Puget J.-L., Bouchet F. R., Cesarsky C., Ciliegi P., Clements D. L., Dennefeld M., Desert F.-X., Elbaz D., Franceschini A. et al., 2001 A&A, 372, p.364-376
+1 2000MNRAS.319.1169E -- Efstathiou A., Oliver S., Rowan-Robinson M., Surace C., Sumner T., Heraudeau P., Linden-Vornle M. J. D., Rigopoulou D., Serjeant S. et al., 2000, MNRAS, 319, Issue 4, pp. 1169-1177
+1 1999A&A...351L..37E -- Elbaz D., Cesarsky C. J., Fadda D., Aussel H., Desert F. X., Frances- chini A., Flores H., Harwit, M., Puget J. L., Starck J. L., Clements D. L., Danese L., Koo D. C., Mandolesi R., 1999, A&A 351, L37- L40
+1 2002A&A...383..838F -- Fadda D., Flores H., Hasinger G., Franceschini A., Altieri B., Ce- sarsky C. J., Elbaz D., Ferrando Ph., 2002 A&A, 383, p.838-853
+1 2001A&A...378....1F -- Franceschini A., Aussel H., Cesarsky C. J., Elbaz D., Fadda D., 2001 A&A, 378, p.1-29
+5 2002MNRAS.335....3G -- Gruppioni C., Lari C., Pozzi F., Zamorani G., Franceschini A., Oliver S., Rowan-Robinson M., Serjeant S., 2002, MNRAS, 335, Issue 3,
+0 ................... -- pp. 831-842 Hasinger G., Altieri B., Arnaud M., Barcons X., Bergeron J., Brunner H., Dadina M., Dennerl K., Ferrando P., Finoguenov A., Griffiths
+1 2001A&A...365L..45H -- R. E., Hashimoto Y. et al., 2001 A&A, 365, p.L45-L50
+1 1998A&A...336L...9K -- Kawara K., Sato Y., Matsuhara H., Taniguchi Y., Okuda H., Sofue Y., Matsumoto T., Wakamatsu K., Karoji H., Okamura S., Chambers K. C., Cowie L. L., Joseph R. D., Sanders D. B., 1998 A&A, 336, p.L9-L12
+1 2002astro.ph..9115L -- Kessler M. F., Steinz J. A., Anderegg M. E., Clavel J., Drechsel G., Estaria P., Faelker J., Riedinger J. R., Robson A., Taylor B. G., Ximenez de Ferran S.,1996 A&A, 315, L27-L31 Lagache G., Dole H., Puget J. L., astro-ph/0209115
+1 2001MNRAS.325.1173L -- Lari C., Pozzi F., Gruppioni C., Aussel H., Ciliegi P., Danese L., Franceschini A., Oliver S., Rowan-Robinson M., Serjeant, S., 2001, MNRAS 325, 1173L
+1 2000A&A...361..407M -- Matsuhara H., Kawara K., Sato Y., Taniguchi Y., Okuda H., Mat- sumoto T., Sofue Y., Wakamatsu K., Cowie L. L., Joseph R. D., Sanders D. B., 2000 A&A, 361, p.407-414
+0 ................... -- Rowan-Robinson M., 1999, in ``ISO Survey of a Dusty Universe'',
+5 1989LNP...548..129P -- Proceedings of a Ringberg Workshop Held at Ringberg Castle, Tegernsee, Germany, , Edited by D. Lemke, M. Stickel, and K. Wilke, Lecture Notes in Physics, vol. 548, p.129
+1 2002MNRAS.331..817S -- Scott S. E., Fox M. J., Dunlop J. S., Serjeant S., Peacock J. A., Ivison R. J., Oliver S., Mann R. G., Lawrence A., Efstathiou A., Rowan- Robinson M., Hughes D. H., Archibald E. N., Blain A., Longair M., 2002, MNRAS, 331, Issue 4, pp. 817-838
+1 2001ApJ...562..179X -- Xu C., Lonsdale C. J., Shupe D. L., O'Linger J., Masci F., 2001, ApJ, 562, Issue 1, pp. 179-207

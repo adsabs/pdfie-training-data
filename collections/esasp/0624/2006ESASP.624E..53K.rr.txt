@@ -1,0 +1,5 @@
+---<2006ESASP.624E..53K>---
+1 2006ApJ...638..576G -- Gonzalez Hernandez, I., Komm, R., Hill, F., Howe, R., Corbard, T., & Haber, D.A., 2006, ApJ 638, 576
+1 2002ApJ...570..855H -- Haber, D. A., Hindman, B. W., Toomre, J., Bogart, R. S., Larsen, R. M., & Hill, F. 2002,, ApJ, 570, 855
+1 2003ESASP.517..295H -- Hill, F., Bolding, J., Toner, C., et al., 2003, in Local and Global Helioseismology, The Present and Future, ed. H. Sawaya-Lacoste, (ESA SP-517; Noordwijk, ESA), p. 295
+1 2004ApJ...605..554K -- Komm, R. W., Corbard, T., Durney, B. R., Gonzalez Hernandez, I., Hill, F., Howe, R., & Toner, C. 2004,, ApJ, 605, 554

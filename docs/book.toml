@@ -1,0 +1,6 @@
+[book]
+authors = ["Peter Williams"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ADS PDF IE Training Data"

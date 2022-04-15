@@ -1,0 +1,8 @@
+---<2003eida.conf...27M>---
+1 1999ESABu..98..133A -- Arviset C. & Prusti T., 1999, The ISO Data Archive, ESA Bulletin Nr. 98, p. 133.
+5 1996ASPC..132...27K -- Kessler M.F. et al., 1996, The Infrared Space Observatory (ISO) mis- sion, A&A 315, L27-L31.
+5 1998ESOB........95K -- Kessler M.F. et al., 1998, Looking Back at ISO Operations, ESA Bul- letin Nr. 95.
+0 ................... -- Kessler M.F., 2000, ISO: The mission and its results, Proc. The
+5 2001IssUP...1.2002P -- Promise of the Herschel Space Observatory, ESA SP-460, p. 53. Metcalfe L., Detailed Strategy for ISO's Active Archive Phase, SAI/2001-019/Dc, Issue 1.0, June 2002.
+5 2001jhu.....2.2001P -- Pirenne B., 2001, ST-ECF Users Committee Meeting presentation, December 2001.
+1 1999ESASP.427....1W -- Woltjer L., 1998, The long road towards ISO's success, Proc. The Uni- verse as seen by ISO, ESA SP-427, Opening Address, p. 1.

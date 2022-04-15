@@ -1,0 +1,6 @@
+---<2003eida.conf..181M>---
+1 1994ApJ...423L..59A -- Abergel, A., Boulanger, F., Mizuno, A., Fukui, Y., 1994,, ApJ, 423, L59
+1 1991ApJ...372..185L -- Laureijs, R. J., Clark, F. O., Prusti, T., 1991,, ApJ, 372, 185
+1 2002A&A...381..209M -- Miville-Desch.enes, M.-A., Boulanger, F., Joncas, G., Falgarone, E., 2002, A&A, 381, 209
+1 2000A&AS..146..519M -- Miville-Desch.enes, M.-A., Boulanger, F., Abergel, A., Bernard, J.-P., 2000, A&AS, 146, 519
+1 1997ApJ...482..334P -- Pound, M. W., Goodman, A. A., 1997,, ApJ, 482, 334

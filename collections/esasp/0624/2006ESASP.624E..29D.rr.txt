@@ -1,0 +1,62 @@
+---<2006ESASP.624E..29D>---
+1 2004A&A...415.1079A -- Aerts, C., Cuypers, J., De Cat, P., Dupret, M.-A., et al., 2004, A&A, 415, 1079
+1 2006ApJ...642L.165A -- Aerts, C., de Cat, P., Kuschnig, R., Matthews, J. M., et al., 2006,, ApJ, 642, L165
+1 1992MNRAS.255..603B -- Balmforth, N.J., 1992,, MNRAS, 255, 603
+1 2001MNRAS.323..362B -- Balmforth, N.J., Cunha, M. S., Dolez, N., et al., 2001,, MNRAS, 323, 362
+1 1996MNRAS.281.1315B -- Balona L. A., Bohm T., Foing B. H., Ghosh K. K., Janot-Pacheco E., Krisciunas K., Lagrange A.-M., Lawson W. A. et al., 1996,, MNRAS, 281, 1315
+1 1999MNRAS.302..349B -- Balona, L.A., Evers, E.A., 1999,, MNRAS, 302, 349
+1 2003A&A...405.1095B -- Barban C., Goupil M. J., Van't Veer-Menneret C. et al., 2003, A&A, 405, 1095
+1 2006ASPC..349..201B -- Bourge, P. O., & Alecian, G., 2006, In, Astrophysics of Variable Stars, eds. C. Sterken and C. Aerts, ASP Conference Series, 349, 201
+1 2006CoAst.147..105B -- Bourge, P. O., Alecian, G., Thoul, A., et al., 2006, CoAst, 147, 105
+1 1996ApJ...473..550C -- Canuto V. M., Goldman I., Mazzitelli I., 1996,, ApJ, 473, 550
+1 1992ApJ...393..272C -- Cox, A.N., Morgan, S.M., Rogers, F.J., Iglesias, C.A., 1992,, ApJ, 393, 272
+5 2002A&A.....0..392D -- Daszynska-Daszkiewicz, J., Dziembowski, W.A., Pamyatnykh, A.A., Goupil, M.-J., 2002, A&A 392,
+1 2003A&A...407..999D -- Daszynska-Daszkiewicz J., Dziembowski W. A., Pamyatnykh A. A., 2003, A&A, 407, 999
+1 2005A&A...432.1013D -- de Cat, P., Briquet, M., Daszynska-Daszkiewicz, J., Dupret, M.-A., et al., 2005, A&A 432, 1013
+0 ................... -- de Cat, P., Briquet, M., Aerts, C., et al., 2006, submitted to A&A
+1 2002A&A...385..563D -- Dupret, M.-A., De Ridder, J., Neuforge, C., Aerts, C., and Scuflaire R., 2002, A&A 385, 563
+1 2003A&A...398..677D -- Dupret M.-A., De Ridder J., De Cat P. et al., 2003, A&A, 398, 677
+1 2004A&A...414L..17D -- Dupret, M.-A., Grigahcene, A., Garrido, R., et al., 2004a, A&A, 414, L17
+1 2004ASPC..310..470D -- Dupret M.-A., Montalban J., Grigahcene A. et al., 2004b, In, Variable Stars in the Local Group, eds. D.W. Kurtz & K. Pollard, PASP Conference Series, 310, 470
+1 2004A&A...415..251D -- Dupret M.-A., Thoul, A., Scuflaire, R., et al., 2004c, A&A, 415, 251
+1 2005A&A...435..927D -- Dupret, M.-A., Grigahcene, A., Garrido, R., et al. 2005a, A&A, 435, 927
+1 2005MNRAS.360.1143D -- Dupret, M.-A., Grigahcene, A., Garrido, R., et al. 2005b,, MNRAS, 360, 1143
+1 2005MNRAS.361..476D -- Dupret, M.-A., Grigahcene, A., Garrido, R., et al., 2005c,, MNRAS, 361, 476
+0 ................... -- Dupret, M.-A., Goupil, M.-J., Samadi, R. et al., these proceedings, paper II
+1 1977AcA....27...95D -- Dziembowski, W., 1977a, Acta Astron. 27, 95
+1 1977AcA....27..203D -- Dziembowski, W., 1977b, Acta Astron. 27, 203
+1 1993MNRAS.265..588D -- Dziembowski, W.A., Moskalik, P., Pamyatnykh, A.A., 1993,, MNRAS, 265, 588
+1 1987A&A...175..125G -- Gabriel, M., 1987, A&A, 175, 125
+5 1996BASI....0...24G -- Gabriel, M. 1996, Bull. Astron. Soc. of India 24,
+1 2000ASPC..210...67G -- Garrido, R., 2000, In, The 6th Vienna Workshop on Scuti and related stars, eds. M. Montgommery, M. Breger, PASP Conference Series, 210, 67
+5 1966MNRAS...0..133G -- Gough, D. O., & Tayler, R. J., 1966,, MNRAS, 133,
+1 1977ApJ...214..196G -- Gough, D. O., 1977,, ApJ, 214, 196
+1 2005A&A...434.1055G -- Grigahcene, A., Dupret, M.-A., Gabriel, M., et al. 2005, A&A 434, 1055
+5 2006MmSAI..77..559G -- Grigahcene, A., Martin-Ruiz, S., Dupret, M.-A., et al., 2006, Mem. Soc. Astron. Ital., 77, 559
+1 2000ApJ...542L..57G -- Guzik, J. A., Kaye, A. B., Bradley, P. A., et al. 2000,, ApJ, 542, L57
+1 2004ASPC..310..225K -- Kolaczkowski , Z., Pigulski, A., Soszynski, I., et al., 2004, In, Variable Stars in the Local Group, eds. D.W. Kurtz & K. Pollard, PASP Conference Series, 310, 225
+1 2002MNRAS.333..262H -- Handler, G., Balona, L. A., Shobbrook, R. R., et al., 2002,, MNRAS, 333, 262
+1 2004MNRAS.347..454H -- Handler, G., Shobbrook, R. R., Jerzykiewicz, M., et al., 2004,, MNRAS, 347, 454
+1 2002A&A...392..619H -- Heiter U., Kupka F., van't Veer-Menneret C. et al., 2002, A&A, 392, 619
+1 2005AJ....129.2026H -- Henry, G. W., & Fekel, F. C. 2005, AJ, 129, 2026
+1 2000ASPC..210..454H -- Houdek, G. 2000, In, The 6th Vienna Workshop on Scuti and related stars, eds. M. Montgommery, M. Breger, PASP Conference Series, 210, 454
+1 1996ApJ...464..943I -- Iglesias, C.A., & Rogers, F.J., 1996,, ApJ, 464, 943
+5 1993sato.conf...13K -- Kurucz, R.L., 1993, ATLAS9 Stellar Atmosphere programs and 2 km/s grids. Kurucz CDROM No 13
+1 1985MNRAS.217..305M -- Moon, T. T., & Dworetsky, M. M. 1985,, MNRAS, 217, 305
+1 2004A&A...414.1081M -- Moya, A., Garrido, R., Dupret, M.-A., 2004, A&A, 414,1081
+1 1999AcA....49..119P -- Pamyatnykh, A.A., 1999, Acta Astron. 49, 119
+1 2000A&AS..144..469R -- Rodriguez, E., Lopez-Gonzalez, M. J., & Lopez de Coca, P. 2000, A&AS, 144, 469
+1 1980ApJ...236..549S -- Saio, H., & Cox, J.P., 1980,, ApJ, 236, 549
+1 2004MNRAS.350..485S -- Saio, H., & Gautschy, A., 2004,, MNRAS, 350, 485
+1 2005MNRAS.360.1022S -- Saio, H., 2005,, MNRAS, 360, 1022
+1 2003A&A...404.1129S -- Samadi, R., Nordlund, A., Stein, R. F., et al., 2003, A&A, 404, 1129
+5 1981Ap&SS.......77S -- Stamford, P.A., Watson, R.D., 1981, Ap&SS 77,
+1 1998ApJ...499..914S -- Stein, R. F., & Nordlund, A. 1998,, ApJ, 499, 914
+1 2006CoAst.147..101T -- Theado, S., & Cunha, M. S., 2006, CoAst, 147, 101
+1 2002MNRAS.330..855T -- Townsend, R., 2002, MNRAS 330, 855
+1 2003MNRAS.343..125T -- Townsend, R., 2003,, MNRAS, 343, 125
+1 2005MNRAS.360..465T -- Townsend, R., 2005,, MNRAS, 360, 465
+1 2003ApJ...593.1049W -- Warner, P. B., Kaye, A. B., & Guzik, J. A. 2003,, ApJ, 593, 1049
+1 1988Ap&SS.140..255W -- Watson, R.D., 1988, Ap&SS 140, 255
+1 1997ApJS..108..529X -- Xiong, D. R., Cheng, Q. L., & Deng, L. 1997,, ApJS, 108, 529
+1 2001MNRAS.324..243X -- Xiong, D. R., & Deng, L. 2001,, MNRAS, 324, 243

@@ -1,0 +1,10 @@
+---<2006ESASP.624E..59G>---
+1 1995ApJ...451..372C -- Cally, P. S. 1995, Astrophys. J., 451, 372. Figure 6. Mean power spectrum of pixels binned by inclination and field strength as indicated on top of each plot.
+0 ................... -- Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005a, Journal of Astron. & Astrophys., (In press).
+1 2004ExA....18...31G -- Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005b, Experimental Astronomy,Vol. 18, 31.
+1 1998ApJ...504.1029H -- Hindman, B. W. and Brown, T. M. 1998, Astrophys. J., 504, 1029.
+1 1962ApJ...135..474L -- Leighton, R. B., Noyes, R. W., and Simon, G. W. 1962, Astrophys. J, 135, 474.
+1 1982ApJ...253..386L -- Lites, B. W., White, O. R., and Packman, D. 1982,Astrophys. J., 253, 386.
+1 2001ASPC..236..487S -- Socas-Navarro, H. 2001, in ASP Conf. Ser. 236, Advanced Solar Polarimetry Theory, Observation, and Instrumentation, ed. M. Sigwarth, 487.
+0 ................... -- Venkatakrishnan, P., Kumar, B., Tripathy, S. C.,
+1 2002SoPh..211...77V -- 2002, Solar Physics, v. 211/1, 77.

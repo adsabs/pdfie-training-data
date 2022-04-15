@@ -1,0 +1,12 @@
+---<2003eida.conf..263V>---
+1 1996A&A...315L..49D -- de Graauw, T. et al. 1996, A&A, 315, L49
+1 1989ESASP.290...93D -- Draine, B. T. 1989, in 'Infrared Spectroscopy in Astronomy', ed. B. Kaldeich, ESASP-290, 93
+1 2002ApJ...566..880G -- Giveon, U. et al. 2002,, ApJ, 566, 880
+5 1999eitu.conf..427L -- Lutz, D. 1999, in 'The Universe as Seen by ISO', ESA SP-427, Eds.
+5 1993SPIE.5944..606C -- P. Cox & M. F. Kessler. McLeod, K.K. et al., 1993, Ap.J., 412, 111 Mart'in-Hern'andez, N. L. et al. 2002, A&A, 381, 606
+0 ................... -- Oey, M. S. & Shields, J. C., 2000,, ApJ, 539, 687 Ruffle, D. P., et al., 1999,, MNRAS, 306, 691
+1 1999A&AS..136...35S -- Schaerer, D., et al. 1999, A&A supp., 136, 35
+1 2002A&A...393..821S -- Sturm, E., et al., 2002, A&A, 393, 821
+1 1987ApJS...63..295V -- Veilleux, S. & Osterbrock, D. E. 1987, ApJ supp., 63, 295
+0 ................... -- Verma, A. et al,. 2002, A&A submitted
+1 2000ApJ...542..914W -- Wilms, J., Allen, A., & McCray, R. 2000,, ApJ, 542, 914

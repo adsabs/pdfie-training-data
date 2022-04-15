@@ -1,0 +1,9 @@
+---<2006ESASP.624E..85B>---
+5 2006ESASP.624.2006A -- Ayukov S.V., et al., in "Proceedings of the SOHO 18/GONG 2006/HELAS I Conference "Beyond the spherical Sun", 2006.
+1 1997ASSL..225...55B -- Baturin V.A. and Ayukov S.V., in "SCORe'96, Solar Convection and Oscillations and their Relationship", eds. F.P.Pijpers, J.Christensen-Dalgaard, C.S.Rosenthal, Kluwer Academic Publishers, Dordrecht, pp. 55-58, 1997.
+1 1996ApJ...456..902R -- Rogers F., et al., Astroph. J., Vol. 456, 902, 1996.
+0 ................... -- Rogers F. and Nayfonov A., Astroph. J., Vol. 576, 1074, 2002.
+1 2004AIPC..731..147G -- Gryaznov V.K., et al., in "Equation of State and Phase-Transition in Models of Ordinary Astrophysical Matter", eds. V.Celebonovic, W.Dappen, D.Gough, AIP Conference Proceedings, Vol. 731, 147, 2004.
+5 1998IAUS..181..135V -- Vorontsov S.V., in "Sounding Solar and Stellar Interiors - Poster Volume", eds. J.Provost, F.-X. Schmider, Nice (France), Observatiore de la Cote d'Azur, IAU Symp 181, p.135, 1998.
+1 2001ESASP.464..615B -- Baturin V.A. and Vorontsov S.V., in "Proceedings of the SOHO 10/GONG 2000 Workshop, Helioand asteroseismology at the dawn of the millennium", ed. A. Wilson, ESA SP-464, pp. 615-618, 2001.
+5 1997BVol..175..287R -- Rhodes et al., Solar Phys., Vol. 175, 287, 1997.

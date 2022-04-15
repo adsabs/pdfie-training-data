@@ -1,0 +1,26 @@
+---<2003eida.conf..231O>---
+5 1992atop.conf.2002B -- Boggess, N. W., Mather, J. C., Weiss, R., et al., 1992,, ApJ, 397, 420Brauher, J. R., 2002, this volume
+1 2001ApJ...546..273C -- Chan, K.-W., Roellig, T. L., Onaka, T., et al., 2001,, ApJ, 546, 273
+0 ................... -- Dale, D. A., Helou, G., 2002,, ApJ, in press
+1 2001ApJ...549..215D -- Dale, D. A., Helou, G., Contursi, A., et al., 2001,, ApJ, 549, 215
+1 1990A&A...237..215D -- Desert, F.-X., Boulanger, F., Puget, J. P., 1990, A&A, 237, 215
+1 1985ApJ...292..494D -- Draine, B. T., Anderson, N., 1985,, ApJ, 292, 494
+5 1997ApJS..311L..33D -- Dwek, E., Arendt, R. G., Fixsen, D., et al., 1997,, ApJ, 475, 565Helou, G. 1986, ApJL, 311, L33
+1 2001ApJ...554..778L -- Li, A., Draine, B. T., 2001,, ApJ, 554, 778
+1 2001ApJ...561..766M -- Malhotra, S., Kaufman, M. J., Hollenbach, D., et al., 2001,, ApJ, 561, 766
+1 1996A&A...315L.353M -- Mattila, K., Lemke, D., Haikala, L. K., et al., 1996, A&A, 351, L353
+1 2002A&A...382..610M -- Mizutani, M., Onaka, T., Shibai, H., 2002, A&A, 382, 610
+1 1996PASJ...48L..41M -- Murakami, H., Freund, M. M., Ganga, K., et al. 1996, PASJ, 48, L41
+0 ................... -- Nagata, H. Shibai, H., Takeuchi, T. T., Onaka, T., 2002, PASJ, in press
+1 2001A&A...375..566N -- Negishi, T., Onaka, T., Chan, K.-W., Roellig, T. L., 2001, A&A, 375, 566
+0 ................... -- Okumura, K., Hiromoto, N., Okuda, H., et al., 1999, in: Star For-
+5 1999nro..rept...97M -- mation 1999, ed. T. Nakamoto (Nobeyama Radio Observatory, Nobeyama), 97
+1 2000AdSpR..25.2167O -- Onaka, T., 2000, Adv. Sp. Res., 25, 2167
+1 2000ESASP.456...55O -- Onaka, T., Mizutani, M., Chan, K.-W., et al., 2000, ESA SP-456, 55
+1 1996PASJ...48L..59O -- Onaka, T., Yamamura, I., Tanab`e, T., et al., 1996, PASJ, 48, L59
+1 1996PASJ...48L.123O -- Okumura, K., Hiromoto, N., Okuda, H., et al. 1996, PASJ, 48, L123
+5 1999stfo.conf.1999S -- Shibai, H., Okumura, K., Onaka, T., 1999, in: Star Formation 1999,
+5 1989nro..rept...67E -- ed. T. Nakamoto (Nobeyama Radio Observatory, Nobeyama), 67
+1 1992A&A...259..614S -- Siebenmorgen, R., Kruegel, E., 1992, A&A, 259, 614
+0 ................... -- Takagi, T., 2001, PhD Thesis, Rikkyo University
+1 2003eida.conf...35Y -- Yamamura, I., Tanaka, M., Takahashi, H., et al., 2002, this volume

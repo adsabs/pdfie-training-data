@@ -1,0 +1,12 @@
+---<2006ESASP.624E..84E>---
+1 1999MNRAS.308..405C -- Chaplin, W.J., Christensen-Dalsgaard, J., Elsworth, Y., Howe, R., Isaak, G.R., Larsen, R.M., New, R., Schou, J., Thompson, M.J., & Tomczyk, S., 1999,, MNRAS, 308, 405
+1 2003ApJ...597L..77C -- Couvidat, S., Garcia, R. A., Turck-Chieze, S., Corbard, T., Henney, C. J., & Jimenez-Reyes, S. 2003, ApJL, 597, L77
+5 1997A&AS..125....1K -- Eff-Darwich, A., Perez-Hernandez, F., 1997, A&ASS, 125, 1
+1 2002ApJ...573..857E -- Eff-Darwich, A., Korzennik, S. G., & JimenezReyes, S. J. 2002,, ApJ, 573, 857
+0 ................... -- Eff-Darwich, A., Korzennik, S. G., & JimenezReyes, S. J. 2006, in preparation.
+1 2004SoPh..220..269G -- Garcia, R. A., et al. 2004, Sol.Phys., 220, 269
+0 ................... -- Gunter, T. 2000, Thesis Dissertation
+1 1977ApJ...217..151H -- Hansen, C.J., Cox, J.P. and van Horn, H.M., 1977,, ApJ, 217, 151
+1 2005ApJ...626..585K -- Korzennik, S.G., 2005,, ApJ, 626, 585
+1 1998ApJ...505..390S -- Schou, J., et al., 1998,, ApJ, 505, 390
+1 2003ARA&A..41..599T -- Thompson, M. J., Christensen-Dalsgaard, J., Miesch, M. S., & Toomre, J. 2003, Ann. Rev. Astron. Astrophys., 41, 599

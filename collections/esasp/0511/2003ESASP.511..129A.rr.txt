@@ -1,0 +1,17 @@
+---<2003eida.conf..129A>---
+1 1984ApJ...278L..23A -- Aumann H.H., Gillett F.C., Beichman C.A., de Jong T., Houck J.R., Low F.J., Neugebauer G., Walker R.G., Wesselius P.R., 1984, ApJ 278, L23
+1 1987LNP...291..340B -- Backman, D.E., Gillett, F.C. 1987, in Cool stars, stellar systems, and the Sun (eds.: Linsky, J.L., Stencel, R.E), 340
+0 ................... -- Backman D.E., Paresce F., 1993, in Protostars and Planets III (Eds.:
+1 2000A&A...357..533D -- Levy E.H., Lunine J.I.), 1253 Decin G., Dominik C., Malfait K., Mayor M., Waelkens Ch., 2000, A&A 357, 533
+1 2000ApJ...538L.155F -- Fajardo-Acosta S.B., Beichman C.A., Cutri R.M., 2000, ApJ 538, L155
+1 1997ASPC..125..108G -- Gabriel C. et al, 1997, in Proc. of the ADASS VI conference (Eds.: G. Hunt, H.E. Payne, ASP Conf.Ser. 125), 108
+1 2001A&A...365..545H -- Habing H.J., Dominik C., Jourdain de Muizon M., Laureijs R.J., Kessler M.F., Leech, K., Metcalfe, L., Salama, A., Siebenmorgen, R., Trams N., Bouchet P., 2001, A&A 365, 545
+1 1999MNRAS.304..589H -- Heinrichsen, I., Walker, H.J., Klaas, U., Sylvester, R.J., Lemke, D., 1999, MNRAS 304, 589
+1 1998Natur.392..788H -- Holland W.S., Greaves J.S., Zuckerman B., Webb R.A., McCarthy C., Coulson I.M., Walther D.M., Dent W.R.F., Gear W.K., Robson I., 1998, Nature 392, 788
+1 2002ApJ...567..999K -- Kalas P., Graham J.R., Beckwith S.V.W., Fewitt D.C., Lloyd J.P., 2002, ApJ 567, 999
+0 ................... -- Kessler M.F. et al., 1996, A&A 315, L27Lemke D. et al., 1996, A&A 315, L64
+1 1998ApJ...497..330M -- Mannings V., Barlow M.J., 1998, ApJ 497, 330
+1 1999A&A...343..496P -- Plets H., Vynckier C., 1999, A&A 343, 496
+1 1999ESASP.427..405S -- Spangler C., Silverstone M.D., Becklin E.E., Hare J., Zuckerman B., Sargent A., Goldreich P., 1999, Proc. of ''The Universe as seen by ISO'' (Eds. P. Cox and M.F. Kessler), ESA SP-427, 405
+1 2001ApJ...555..932S -- Spangler C., Sargent A.I., Silverstone M.D., Becklin E.E., Zuckerman B., 2001, ApJ 555, 932
+0 ................... -- Walker H.J., Heinrichsen I., 2000, Icarus 143, 147Zuckerman B., 2001, ARAA 39, 549

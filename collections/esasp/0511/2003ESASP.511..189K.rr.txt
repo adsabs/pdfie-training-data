@@ -1,0 +1,22 @@
+---<2003eida.conf..189K>---
+1 1996A&A...315L..71B -- Bogun, S., Lemke, D., Klaas, U., et al., 1996, A&A 315, 71
+5 1986ApJ...428..306B -- Bond, J.R., Carr, B.J., Hogan, C.J., 1986, ApJ 428, 306
+0 ................... -- Boulanger, F., P'erault, M., 1988, ApJ 330, 964 D'esert, F.X., Boulanger, F., Puget, J.L., 1990, A&A 237, 215 Gautier III, T.N., Boulanger, F., P'erault, M., Puget J.L., 1992, AJ 103, 1313
+0 ................... -- Gillett, F.C., Forrest, W.J., Merill, K.M., 1973, ApJ 183, 87Green, D.A., 1993, MNRAS 262, 327
+1 1997Natur.390..257G -- Guiderdoni, B., Bouchet, F.R., Puget, J.L., Lagache, G., Hivon, E., 1997, Nature 390, 257
+1 2001ARA&A..39..249H -- Hauser, M.G., Dwek, E., 2001, ARA&A 39, 249
+0 ................... -- Helou, G., Beichman, C.A., 1990, The confusion limits to the sensitiv-
+0 ................... -- ity of submilimeter telescopes, in: From Ground-Based to Space- Borne Sub-mm Astronomy, Proc. of the 29th Li`ege International Astrophysical Coll., ESA Publ., p. 117. (H&B) H'eraudeau Ph., 'Abrah'am P., Klaas U., Kiss Cs., 2002, ESA SP-481., in press Herbstmeier, U., 'Abrah'am, P., Lemke, D., et al., 1998, A&A 332, 739 Kiss, Cs., 'Abrah'am, P., Klaas, U., Juvela, M., Lemke, D., 2001, A&A 379, 1611 Kiss, Cs., 'Abrah'am, P., Klaas, U., Lemke, D., H'eraudeau, Ph., del
+0 ................... -- Burgo, C., Herbstmeier, U., 2002, A&A, submitted
+1 1998A&A...333..709L -- Lagache, G., Abergel, A., Boulanger, F., Puget, J.-L., 1998, A&A 333, 709
+1 2000A&A...355...17L -- Lagache, G., Puget, J.-L., 2000, A&A 355, 17
+5 2000ESASP...2....0L -- Laureijs, R.J., Herbstmeier, U., 'Abrah'am, P., Klaas, U., Lemke, D., 2000, in: ISO Beyond Point Sources: Studies of Extended Infrared Emission, (eds.) Laureijs, R.J., et al., ESA SP-455, p. 131 Laureijs, R.J., Klaas, U., Richards, P.J., Schulz, B., 'Abrah'am, P., 2002, The ISO Handbook Vol. IV.: PHT -- The Imaging Photo- Polarimeter, SAI--99--069/Dc, Version 2.0
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., et al., 1996, A&A 315, L64
+1 1984ApJ...278L..19L -- Low, F., Beintema, D.A., Gautier, F.N., et al., 1984, ApJ 278, L19
+1 1985ApJ...295..402M -- Magnani, L., Blitz, L., Mundy, L., 1985, ApJ 295, 402
+1 1996A&A...315L.353M -- Mattila, K., Lemke, D., Haikala, L.K., et al., 1996, A&A 315, L353
+1 1990A&A...230..172M -- Meyerdierks, H., Brouillet, N., Mebold, U., 1990, A&A 230, 172
+0 ................... -- Pei, Y.C., Fall, M.S., Hauser, M.G., 1999, ApJ 522, 604 Puget, J.L., L'eger, A., 1989, ARA&A 27, 161
+1 1998A&A...336..697S -- Stutzki, J., Bensch, F., Heithatusen A., Ossenkopf, V., Zielinsky, M., 1998, A&A 336, 697
+1 2000A&A...364..769T -- T'oth, L.V., Hotzel, S., Krause, O., et al., 2000, A&A 364, 769
+1 1988A&A...203L..23D -- de Vries, C.P., van Dishoek E.F., 1988, A&A 203, L23

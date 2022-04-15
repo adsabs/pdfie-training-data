@@ -1,0 +1,28 @@
+---<2003eida.conf...41F>---
+0 ................... -- Baines, K. H., et al., 2002, Icarus, 159, 74 B'ezard B., et al., 1998, A&A, 334, L41. B'ezard B., et al., 1999,, ApJ, 515, 868. B'ezard B., et al., 1999, Icarus, 154, 495.
+1 1998Icar..136....1B -- Brooke T. Y., et al., 1998, Icarus, 136, 1.
+0 ................... -- Combes, M., et al., Icarus, 1997, 129, 482.
+1 1998A&A...336L..85C -- Coustenis A., et al., 1998, A&A, 336, L85.
+5 2000ESASP...2..456C -- Coustenis A., et al., 2000, A&A, ISO beyond the peaks: The 2nd ISO workshop on analytical spectroscopy. ESA-SP 456.
+0 ................... -- Coustenis A., et al., 2002, Icarus, in press.
+5 2000ESASP...2..456D -- Davis G. R., et al., 2000, ISO beyond the peaks: The 2nd ISO work- shop on analytical spectroscopy. ESA-SP 456.
+1 1997A&A...321L..13D -- de Graauw T., et al., 1997, A&A, 321, L13.
+1 1999Icar..140..129D -- Drouart A., et al., 1999, Icarus, 140, 129.
+1 1997Natur.389..159F -- Feuchtgruber H., et al., 1997,, Nature, 389, 159.
+5 1998ssug.conf..427F -- Feuchtgruber H., et al., 1998, The Universe as seen by ISO, ESA- SP427.
+1 1999A&A...341L..17F -- Feuchtgruber H., et al., 1999, A&A, 341, L17.
+1 2000A&A...355L..13F -- Fouchet T., et al., 2000, A&A, 355, L13.
+5 1998ssnr.conf..389G -- Geiss J., & G. Gloeckler, 1998, Space Sci. Rev., 84, 239. Griffin M. J., et al., 1996, A&A, 315, L389.
+1 2001Icar..149..397I -- Irwin, P. G. J., et al., 2001, Icarus, 149, 397.
+1 1996Icar..124..553K -- Krasnopolsky, V., et al., 1996, Icarus, 124, 553.
+5 2000Ap&SS..48.1393L -- Lellouch E., et al., 2000, PSS, 48, 1393.
+1 2001A&A...370..610L -- Lellouch E., et al., 2001, A&A, 370, 610.
+1 2002Icar..159..112L -- Lellouch E., et al., 2002, Icarus, 159, 112.
+1 1999JGR...10424177L -- Lewis S. R., et al., 1999, JGR, 104, 24177.
+1 2000Icar..143..244M -- Moses J. I., et al., 2000, Icarus, 143, 244.
+1 2001BAAS...33.1044M -- Moses J. I., et al., 2001, BAAS, 33, 1044.
+1 1998JGR...10322831N -- Niemann, H. B., et al., 1998, JGR, 103, 22831.
+1 1977JGR....82.4341N -- Nier, A. O., & McElroy, M. B., 1977, JGR, 82, 4341.
+1 1999A&A...350L..13S -- Schulz B., et al., 1999, A&A, 350, L13.
+1 1996Icar..119..336S -- Smith, P. H., et al., 1996, Icarus, 119, 336.
+1 1989ApJ...336..962S -- Smith, W. H., et al., 1989,, ApJ, 336, 962.

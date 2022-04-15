@@ -1,0 +1,8 @@
+---<2003eida.conf..235W>---
+1 1976MmRAS..81...89D -- Davies, R.D., Elliot, K.H., Meaburn J., 1976,, MNRAS, 81, 89
+1 1998A&AS..130..441F -- D Filipovi'c M.D., Jones P.A., White G.I., Haynes R.F., 1998 A&AS, 130, 441
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., et al., 1996, A&A, 315, L64
+1 1989A&AS...79...79S -- Schwering P.B.W., Israel F.P., 1989, A&AS, 79, 79
+1 1998ApJ...500..525S -- Schlegel, D.J., Finkenbeiner, D.P., Davis, M., 1998, AJ, 500, 525
+1 2000AJ....120.3070T -- Thilker, D.A., Braun, R., Walterbros, R.A.M., 2000, AJ, 120, 3070
+0 ................... -- Wilke, K., Stickel, M., Haas, M., et al., 2002, A&A, submitted

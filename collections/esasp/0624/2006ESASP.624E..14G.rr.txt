@@ -1,0 +1,16 @@
+---<2006ESASP.624E..14G>---
+0 ................... -- Birch A.C., Kosovichev A.G., Price, G.H., et al. The Accuracy of the Born and Ray Approximations in Time-Distance Helioseismology, Astrophys. J. Lett., Vol. 591, 229-232, 2001.
+1 1995ApJ...451..859B -- Braun D.C. Scattering of p-Modes by Sunspots. I. Observations, Astrophys. J., Vol. 451, 859-876, 1995.
+0 ................... -- Braun D.C., Duvall T.L. and Labonte B.J. The absorption of high-degree p-modeoscillations in and around sunspots, Astrophys. J., Vol. 335, 1015-1025, 1988.
+1 1992ApJ...391L.113B -- Braun D.C., Duvall T.L., Labonte B.J., et al. Scattering of p-modes by a sunspot, Astrophys. J. Lett., Vol. 391, L113-L116, 1992.
+5 1990SPIE.6652..133B -- Brown T.M. An inverse method for p-mode scattering measurements, Solar Phys., Vol. 128, 133-141, 1990.
+1 2003MNRAS.346..381C -- Cally P.S., Crouch A.D. and Braun D.C. Probing sunspot magnetic fields with p-mode absorption and phase shift data, Mon. Not. Royal Astr. Soc., Vol. 346, 381-389, 2003.
+1 2006ApJ...640..516C -- Couvidat S., Birch A.C. and Kosovichev A.G. Three-dimensional Inversion of Sound Speed below a Sunspot in the Born Approximation, Astrophys. J., Vol. 640, 516-524, 2006.
+5 1993heli.conf..430D -- Duvall T.L., Jefferies S.M., Harvey J.W., et al. Timedistance helioseismology,, Nature, Vol. 362, 430-432, 1993.
+5 1996SPIE.5535..235D -- Duvall T.L., D'Silva S., Jefferies S.M., et al. Downflows Under Sunspots Detected by Helioseismic Tomography,, Nature, Vol. 379, 235-237, 1996.
+1 1995ApJ...451..877F -- Fan Y., Braun D.C. and Chou D.Y. Scattering of pmodes by sunspots, Astrophys. J., Vol. 451, 877-888, 1995.
+5 2005LRR.......2005G -- Gizon L. and Birch A.C. Local Helioseismology, Living Rev. Solar Phys. Vol. 2, (online article), 2005. [http,//www.livingreviews.org/lrsp-2005-6]
+1 2001ApJ...553L.193J -- Jensen J.M., Duvall T.L., Jacobsen B., et al. Imaging an Emerging Active Region with Helioseismic Tomography, Astrophys. J. Lett., Vol. 553, L193-L196, 2001.
+5 1996BVol..461...55K -- Kosovichev A.G. Tomographic Imaging of the Sun's Interior, Astrophys. J. Lett., Vol. 461, L55-L57, 1996.
+5 2000LNP...347..159K -- Kosovichev A.G., Duvall T.L. and Scherrer P.H. Time-Distance Inversion Methods and Results, Solar Phys., Vol. 192, 159-176, 2000.
+5 2005ASSL..156.1107L -- Lindsey C. and Braun D.C. The Acoustic Showerglass. I. Seismic Diagnostics of Photospheric Magnetic Fields, Astrophys. J., Vol. 620, 1107-1117, 2005.

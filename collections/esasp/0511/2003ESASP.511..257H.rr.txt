@@ -1,0 +1,20 @@
+---<2003eida.conf..257H>---
+1 1990A&A...237..215D -- Desert F.-X., Boulanger F., Puget J.L. 1990, A&A 237, 215
+1 2000A&A...358..499F -- Fanti C., Pozzi F., Fanti R., et al. 2000, A&A 358, 499
+1 2001AAS...198.3603G -- Gao Y., Xu C., Lu N. Y., Tuffs R., Sulentic J. 2001, BAAS 198, 3603
+1 1998ApJ...503L.109H -- Haas M., Chini R., Meisenheimer K., et al. 1998, ApJ 503, L109
+1 2000A&A...356L..83H -- Haas M., Klaas U., Coulson I., et al. 2000a, A&A 356, L83
+0 ................... -- Haas M., M&Dot;uller S.A.H., Chini R., et al. 2000b, A&A 354, 453 Haas M., 2001, ``Habilitationsschrift'' Univ. Heidelberg Haas M., Klaas U., M&Dot;uller S.A.H., et al. 2002, A&A submitted
+1 1997A&A...325L..21K -- Klaas U., Haas M., Heinrichsen I., Schulz B. 1997, A&A 325, L21
+1 2001A&A...379..823K -- Klaas U., Haas M., M&Dot;uller S.A.H., et al. 2001, A&A 379, 823
+1 1999A&A...342..643M -- Mattila K., Lehtinen K., Lemke D., 1999, A&A 342, 643
+1 1996A&A...315L.353M -- Mattila K., Lemke D., Haikala L.K. et al. 1996, A&A 315, L353
+1 2001A&A...372..719M -- Meisenheimer K., Haas M., M&Dot;uller S.A.H., et al. 2001, A&A 372, 719
+0 ................... -- Mirabel I.F., Vigroux L., Charmandaris V., et al. 1998, A&A 333, L1 Nenkova M., Ivezi'c Z., Elitzur M. 2002, ApJ 570, L9
+1 1999A&A...350..765P -- Polletta M., Courvoisier Th. 1999, A&A 350, 765
+1 2000A&A...362...75P -- Polletta M., Courvoisier Th., Hooper E.J., Wilkes B.J. 2000, A&A 362, 75
+1 2000MNRAS.316..885R -- Rowan-Robinson M. 2000, MNRAS 316, 885
+1 2002ApJ...572..105S -- Spinoglio L., Andreani P., Malkan M.A. 2002, ApJ 572, 105
+1 2000A&A...359..523V -- van Bemmel I., Barthel P., de Graauw Th. 2000, A&A 359, 523
+1 2002astro.ph..4524V -- Verma A., Rowan-Robinson M., McMahon R., Efstathiou A., 2002, MNRAS accepted, astro-ph 0204524
+1 2000ApJ...541..644X -- Xu C., Gao Yu, Lu N.Y., et al. 2000, ApJ541, 644

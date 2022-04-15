@@ -1,0 +1,39 @@
+---<2003eida.conf..239T>---
+1 1998ApJ...507L.125A -- Alton P.B., Bianchi S., Rand R.J., et al., 1998a,, ApJ, 507, L125
+1 1998A&A...335..807A -- Alton, P.B., Trewhella, M., Davies, J.I., et al. 1998b, A&A, 335, 807
+1 2002AJ....123.3067B -- Bendo, G.J., Joseph, R.D., Wells, M. et al. 2002a, AJ 123, 3067
+0 ................... -- Bendo, G.J., Joseph, R.D., Wells, M. et al. 2002b, AJ in press
+1 1993A&AS...98..275B -- Binggeli, B., Popescu, C.C. & Tammann, G.A. 1993, A&AS, 98, 275
+1 1985AJ.....90.1681B -- Binggeli, B., Sandage, A. & Tammann, G.A. 1985, AJ, 90, 1681
+1 1993ApJ...405..538B -- Bruzual, G. & Charlot, S. 1993,, ApJ, 405, 538
+5 1997glv..book.2002B -- Boselli, A., Lequeux, J., Contursi, A. et al. 1997, A&A, 324, L13Bot, C. et al. 2002, this volume
+1 2001A&A...365...11C -- Contursi, A., Boselli, A., Gavazzi, G. et al. 2001, A&A 365, 11
+0 ................... -- Dale, D. & Helou, G. 2002, ApJ in press
+0 ................... -- Davies, J.I., Alton, P., Trewhella, M., Evans, R., & Bianchi, S. 1999,, MNRAS, 304, 495 Gu'elin, M., Zylka, R., Mezger, P.G., et al., 1993, A&A, 279, L37
+5 1998atop.conf.2002H -- Haas, M., Lemke, D., Stickel, M., et al. 1998, A&A, 338, L33Helou, G. 2002, this volume
+1 1987ApJ...314..513L -- Helou, G. & Lonsdale, C. 1987, ApJ 314. 513
+1 1996A&A...315L..82H -- Hippelein, H., Lemke, D., Tuffs, R.J., et al. 1996a, A&A, 315, L79 Hippelein, H., Lemke, D., Haas, M., et al. A&A, 315, L82
+0 ................... -- Hippelein, H. et al. 2002, in preparation
+1 1987ApJ...317..637K -- Kylafis, N.D., & Bahcall, J.N. 1987,, ApJ, 317, 637 Kr&Dot
+1 1998A&A...331L...9K -- ugel, E., Siebenmorgen, R., Zota, V., & Chini, R. 1998, A&A, 331, L9
+1 1993ApJ...402..441L -- Laor A., & Draine B. T. 1993, ApJ 402, 441
+1 1999MNRAS.310..317L -- Leech, K.J., V&Dot;olk, H.J., Heinrichsen, I., et al. 1999,, MNRAS, 310, 317
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J. et al. 1996, A&A, 315, L64
+1 2001ApJ...561..766M -- Malhotra, S., Kaufman, M.J., Hollenbach, D., et al. 2001, ApJ 561, 766
+1 1982A&A...105..372M -- Mezger P.G., Mathis J.S., Panagia N., 1982, A&A 105, 372
+0 ................... -- Misiriotis A., Popescu, C.C., Tuffs, R.J., & Kylafis, N.D. 2001, A&A, 372, 775 Pierini, D., Leech, K.J., Tuffs, R.J., .olk, H.J. 1999, MNRAS 303, L29 Popescu, C.C., Misiriotis A., Kylafis, N.D., Tuffs, R.J., & Fischera, J., 2000a, A&A, 362, 138 Popescu, C.C., Tuffs, R.J., Fischera, J. .olk, H.J. 2000b, A&A, 354, 480 Popescu, C.C., Madore, B.F., Tuffs, R.J., & Kylafis, N.D. 2001, AAS198, 76.01
+5 2002RvMA........15P -- Popescu, C.C. & Tuffs, R.J. 2002a, Reviews in Modern Astronomy, vol 15.
+0 ................... -- Popescu, C.C. & Tuffs, R.J. 2002b, MNRAS Letters, in press
+1 2002ApJ...567..221P -- Popescu, C.C., Tuffs, R.J., V&Dot;olk, H.J., Pierini, D. & Madore, B.F., 2002, ApJ 567, 221
+1 2000A&A...363..917S -- Schmidtobreick, L., Haas, M., & Lemke, D. 2000, A&A 363, 917
+1 1999A&A...351..495S -- Siebenmorgen, R., Kr&Dot;ugel, E., & Chini, R. 1999, A&A, 351, 495
+1 2000A&A...359..865S -- Stickel, M., Lemke, D., Klaas, U. et al. 2000, A&A 359, 865
+1 2003eida.conf..289S -- Stickel, M. et al. 2002a, this volume
+0 ................... -- Stickel, M. et al. 2002b, in preparation
+0 ................... -- Sulentic, J.W., Rosaldo, M., Dultzin-Hacyan, D., et al. AJ 122, 2993, 2001
+5 2002ESASP..32..482T -- Tuffs, R.J. & Gabriel, C., 2002a, in Proc. ``ISOPHOT Workshop on P32 Oversampled Mapping'', ESA SP-482
+1 2003eida.conf..365T -- Tuffs, R.J. & Gabriel, C., 2002b, this volume
+1 2002ApJS..139...37T -- Tuffs, R.J., Popescu, C.C., Pierini, D., et al. 2002, ApJS 139, 37
+1 1996A&A...315L.149T -- Tuffs, R.J., Lemke, D., Xu, C., et al. 1996, A&A, 315, L149 V&Dot
+0 ................... -- Tuffs, R.J., Lemke, D., Xu, C., et al., olk, H.J. & Xu, C. 1994 Infrared Phys. Technol., 35, 527Wilke, K. et al. 2002, this volume
+5 2002ESASP.482..246X -- Xu, C. & Tuffs, R.J. 2002, in: ``Proc. ISOPHOT Workshop on P32 Oversampled Mapping'', ESA SP-482 246

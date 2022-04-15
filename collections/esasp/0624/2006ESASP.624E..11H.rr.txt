@@ -1,0 +1,10 @@
+---<2006ESASP.624E..11H>---
+1 1998ApJ...499L..99L -- Lindsey, C. & Braun, D.C., 1998, Astrophysical Journal, 499, L99.
+1 2000SoPh..192..335H -- Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Thompson, M.J. & Hill, F., 2000, Solar Physics, 192, 335.
+1 2002ApJ...570..855H -- Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S. & Larsen, R.M., 2002, Astrophysical Journal, 570, 855.
+1 2006ApJ...645.1543M -- Mason, D., Komm, R., Hill, F., Howe, R., Haber, D. & Hindman, B.W., 2006, Astrophysical Journal, 645. 1543.
+1 2003SoPh..213....1S -- Spruit, H.C., Solar Physics, 213, 1, 2003.
+0 ................... -- Hindman, B.W., Haber, D.A. & Toomre, J., 2006, Astrophysical Journal, in press.
+5 1995ESASP.376..147B -- Bogart, R.S., Sa, L.A.D., Duvall, T.L., Jr., Haber, D.A., Toomre, J. & Hill, F., 1995, in Proc. 4th SOHO Workshop, Helioseismology, (eds. J.T. Hoeksema et al.), ESA SP-376, 147.
+1 1998ESASP.418..791H -- Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Schou, J. & Hill, F., 1998, in Structure and Dynamics of the Interior of the Sun and Sun-like Stars, (eds. S.G. Korzennik & A. Wilson), ESA SP-418, 791.
+1 2000SoPh..193..299H -- Hathaway, D.H., Beck, J.G., Bogart, R.S., Bachmann, K.T., Khatri, G., Petitto, J.M., Han, S. & Raymond, J., 2000, Solar Physics, 193, 299.

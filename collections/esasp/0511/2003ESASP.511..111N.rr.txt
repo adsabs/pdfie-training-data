@@ -1,0 +1,27 @@
+---<2003eida.conf..111N>---
+1 2000A&A...361..555B -- Thompson D., 2000, A&A, 361,555
+1 2000A&A...360..683B -- Boogert A.C.A. et al., 2000, A&A, 360, 683
+1 2001A&A...372..173B -- Bontemps S. et al., 2001, A&A 372, 173
+5 1996ApJ...309..827C -- Ceccarelli C., Hollenbach D.J, Tielens A.G.G.M, 1996, ApJ 309, 827
+1 1999A&A...342L..21C -- Ceccarelli C. et al., 1999, A&A, 342, L21
+5 2002glv..book.2002C -- Creech-Eakman M.J., Chiang E.I., Joung R.M.K., Blake G.A., van Dishoeck E.F., 2002, A&A 385, 546Elia, D. et al., 2002, this volume
+1 1999A&A...346..617G -- Giannini T. et al., 1999, A&A 346, 617
+1 2001ApJ...555...40G -- Giannini T., Nisini B., Lorenzetti D., 2001, ApJ 555, 40
+1 1999ESASP.427..493K -- Kaas, A.A. et al., 1999, in ''The Universe as Seen by ISO'', Eds. P. Cox & M. F. Kessler. ESA-SP 427, p. 493
+1 1996ApJ...456..611K -- Kaufman M.J., Neufeld D.A., 1996,, ApJ, 456, 611
+1 2000A&A...363..253L -- Larsson B. et al., 2000, A&A 363, 253
+1 1999A&A...346..604L -- Lorenzetti D. et al., 1999, A&A 346, 604
+0 ................... -- Lorenzetti D. et al., 2002, A&A in press
+1 2001ApJ...547..292M -- Molinari S., Noriega-Crespo A., Spinoglio L., 2001, ApJ 547, 292
+1 2001ApJ...555..146M -- Moro-Mart'in A., Noriega-Crespo A., Molinari S., Testi L., CernicharoJ., Sargent A., 2001, ApJ 555, 146
+5 2001hao..conf..297N -- Natta A., Prusti T., Neri R., Wooden D., Grinin V.P., Mannings V., 2001, A&A 371, 186Nisini B. et al., 1999, A&A 350, 529Nisini B. et al., 2000, A&A 360, 297
+0 ................... -- Nisini B. et al., 2001, The Promise of the Herschel Space Observa-
+5 1989ESASP.460..211T -- tory. Eds. G.L. Pilbratt, J. Cernicharo, A.M. Heras, T. Prusti, & R. Harris. ESA-SP 460, p. 211
+5 2002ApJ.....0..574N -- Nisini B., Giannini T., Lorenzetti D., 2002,, ApJ, 574,
+0 ................... -- Olofsson G. et al., 1999, A&A 350, 8830Persi P. et al., 2000, A&A 357, 219
+1 1999ESASP.427..575S -- Saraceno P. et al., 1999, in ''The Universe as seen by ISO'', eds Cox P. & Kessler M., ESA-SP 427, p. 575
+1 1994A&AS..104..315T -- Th`e P.S., de Winter D., Perez M.R. 1994, A&AS, 104, 315
+1 2001ApJ...561.1074T -- Thi, W.F. et al., 2001,, ApJ, 561, 1074
+1 1999ESASP.427..437V -- van Dishoek E. et al. 1999, in ''The Universe as seen by ISO'', eds Cox P. & Kessler M., ESA-SP 427, p. 437
+1 2002MNRAS.329..257W -- Ward-Thompson D., Andr`e P., Kirk J.M., 2002, MNRAS 329, 257
+1 2001ASPC..243..347W -- Wilgenbus D., Cabrit S., Pineau Des For.ets, Flower D., 2001, ''From Darkness to Light: Origin and Evolution of Young Stellar Clus- ters'', ASP Conference Proceedings, Vol. 243, p.347

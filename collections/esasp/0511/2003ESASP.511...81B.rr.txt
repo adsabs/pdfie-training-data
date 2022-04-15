@@ -1,0 +1,28 @@
+---<2003eida.conf...81B>---
+5 2001ApJ...552..289A -- MACHO Collaborations), 2001, ApJ 552, 289
+5 1994plan.conf..290B -- Becker, R.H., White, R.L., McLean, B.J., Helfand, D.J., Zoonematk- ermani, S. 1994, ApJS 91, 347Blanco, V.M., 1986, AJ 91, 290
+1 2001A&A...372..173B -- Bontemps, S., Andr'e, P., Kaas, A.A., et al. 2001, A&A 372, 173
+1 1996A&A...315L..32C -- Cesarsky, C., Abergel, A., Agn`ese, P., et al, 1996, A&A 315, L32
+1 1997Msngr..87...27E -- Epchtein, N., et al 1997, Messenger 87, 27
+0 ................... -- 86 Figure 8. An example of an ISOGAL raster image produced with the improved data analysis method (Miville-Desch.enes et al. 2001). It shows a composite image of 7 (blue) and 15 m (red). Felli, M., Comoretto, G., Testi, L., Omont, A., Schuller, F., 2000, A&A 362, 199
+1 2002A&A...392..971F -- Felli, M., Testi, L., Schuller, F., Omont, A., 2002, A&A 392, 971
+1 1999MNRAS.308..127G -- Glass, I.S., Ganesh, S., Alard, Blommaert, J.A.D.L., Gilmore, G., et al, 1999, MNRAS 308 127
+1 1993PhDT.......175G -- Groenewegen, M.A.T., 1993, Ph D Thesis, Univ. of Amsterdam
+1 2001A&A...365..598H -- Hennebelle, P., P'erault, M., Teyssier, D., Ganesh, S. 2001, A&A 365, 598
+0 ................... -- Jiang, B., Omont, A., Ganesh, S., Simon, G. Schuller, F., 2002, sub-
+1 1976MNRAS.174..169E -- mitted to A&A Lloyd Evans, T., 1976,, MNRAS, 174, 169
+0 ................... -- Miville-Desch.enes, M.-A., Boulanger, F., Abergel, A., Bernard, J.-P., A&AS 146, 519
+1 1996A&A...315L.185N -- Nordh, L., Olofsson, G., Bontemps, S., et al. 1996, A&A 315, L185
+0 ................... -- Ojha, D.K., et al, 2002, submitted to A&A
+1 1999A&A...348..755O -- Omont A., Ganesh, S., Alard, C., Blommaert, J.A.D.L., Caillaud, B., et al, 1999, A&A 348 755
+0 ................... -- Omont A., et al, 2002, submitted to A&A
+1 1989A&A...218..169O -- Onaka, T., de Jong, T., Willems, F.J., 1989, A&A 218 169
+0 ................... -- Ott S., et al, 1997, ''Design and Implementation of CIA, the ISOCAM
+5 1996A&A...315L.165P -- Interactive Analysis System'', in ASP Conf. Ser. Vol. 125, Astro- nomical Data Analysis Software and Systems (ADASS) VI, ed. G. Hunt & H.E.Payne, (San Francisco: ASP), 34 P'erault, M., Omont, A., Simon, G., et al. 1996, A&A 315, L165
+1 2001AJ....121.2819P -- Price, S.D., Egan, M.P., Carey, S.J., et al. 2001, AJ 121, 2819
+1 2002PhDT........44S -- Schuller, F., 2002, PhD thesis, Paris VI, Pierre et Marie Curie Univer-
+0 ................... -- sity Schuller, F., Ganesh, S., Messineo, M., Moneti, A., Blommaert, J.A.D.L., et al., 2002, submitted to A&A
+1 1995ApJ...451..758S -- Sloan, G.C., Price, S.D., 1995, ApJ 451 758
+0 ................... -- Speck, A., Barlow, M.J., Sylvester, R.J., Hofmeister, A.M., 2000, A&AS 146, 437 Teyssier, D., Hennebelle, P., P'erault, M., 2002, A&A 382, 624
+1 1995AJ....110.2788T -- Tiede, G.P., Frogel, J.A., Terndrup, D.M., 1995, AJ 110, 2788
+0 ................... -- van Loon, J.Th., Gilmore, G.F., Omont, A., Blommaert, J.A.D.L., Glass, I.S., et al. 2002, MNRAS in press

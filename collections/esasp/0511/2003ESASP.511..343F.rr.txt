@@ -1,0 +1,9 @@
+---<2003eida.conf..343F>---
+0 ................... -- Remote Sensing VIII, Vol. 4131, pp 205--217, SPIE, San Diego,
+1 1992ESASP.356..167F -- Fouks, B. I.: 1992, in ESA SP-356 Photon Detectors for Space Instru- mentation, pp 167--174
+1 1995SPIE.2553..489F -- Fouks, B. I.: 1995, Proceedings of SPIE 2553, 489
+1 1995SPIE.2475..487F -- Fouks, B. I. and Schubert, J.: 1995, Proceedings of SPIE 2475, 487
+0 ................... -- Kester, D.: 1999, The impact of memory effects correction on SWS data, Technical report, SRON, Netherlands
+0 ................... -- Kester, D., Fouks, B. I., and Lahuis, F.: 2002, ESA SP-481, in press
+0 ................... -- Okumura, K.: 1998, ISOCAM PSF report, Technical report, ESA, Vilspa
+5 2000ESASP.455..348O -- Okumura, K.: 2000, ESA SP-455 348

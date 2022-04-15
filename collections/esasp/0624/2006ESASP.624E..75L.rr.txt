@@ -1,0 +1,16 @@
+---<2006ESASP.624E..75L>---
+1 1992A&A...265..106S -- Spiegel, E. A., & Zahn, J.-P. The solar tachocline, A&A, 265, 106-114, 1992.
+5 1999rfsm.conf..460C -- Charbonneau, P., et al. Helioseismic constraints on the structure of the solar tachocline,, ApJ, 527, 445- 460, 1999.
+0 ................... -- Rudiger, G., & Kichatinov, L. L. The internal solar rotation in its spindown histor,, ApJ, 466, 1078-1086, 1999.
+5 1998ASSL....5..755G -- Gough, D. O., & McIntyre, M. E. Inevitablity of a magnetic field in the Sun's radiative interior,, Nature, 394, 755-757, 1998.
+5 1999sota.conf..911M -- MacGregor, K. B., & Charbonneau, P. Ferraro's theorem and the solar tachocline,, ApJ, 519, 911-917, 1999.
+5 1993AIPC..851..707P -- Parker, E. N. A solar dynamo surface wave at the interface between convection and nonumiform rotation,, ApJ, 408, 707-719, 1993.
+0 ................... -- Kim, E., & Dubrulle, B. Turbulent transport and equilibrium profiles in two-dimensional magnetohydrodynamics with background shear, Phys. Plasmas, 8, 813-824, 2001.
+5 1939FrES....2...38R -- Rossby, C. G. Relation between variations in the intensity of the zonal circulation of the atmosphere and the displacements of the semi-permament centers of action, J. Mar. Res., 2, 38-55, 1939.
+0 ................... -- Kim, E., & Diamond, P.H. Zonal flows and transient dynamics of the L-H transition, Phys. Rev. Lett., 90, 185006, 2003.
+5 2006tqtm.book.4504K -- Kim, E. Consistent theory of turbulent transport in two-dimensional magnetohydrodynamics, Phys. Rev. Lett., 96, 084504, 2006.
+1 1978mfge.book.....M -- Moffatt, K. H. , Magnetic field generation in fluids (CUP), 1978.
+5 2005AIPC.1013..763K -- Kim, E. Self-consistent theory of turbulent transport in the solar tachocline, A&A, 441, 763-772, 2005.
+0 ................... -- Gilman, P. A. & Fox P. Joint Instability of Latitudinal Differential Rotation and Toroidal Magnetic Fields below the Solar Convection Zone,, ApJ, 484, 439-454, 1997.
+0 ................... -- Diamond, P. H., Itoh, S.-I., Itoh, K., & Silvers, L. J. , in The solar tachocline, in press (CUP), 2006.
+0 ................... -- Leprovost, N., & Kim, E. Tachocline confinement, A&A, 456, 617-621, 2006.

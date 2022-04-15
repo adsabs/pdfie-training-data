@@ -1,0 +1,13 @@
+---<2006ESASP.624E.135T>---
+5 1999SoPh.......186B -- Berghmans, D., & Clette, F. 1999, Sol. Phys., 186,
+1 2000A&A...355L..23D -- De Moortel, I., Ireland, J., & Walsh, R.W. 2000, A&A, 355, L23
+1 2005ApJ...624L..61D -- De Pontieu, B., Erdelyi, R., & De Moortel, I. 2005,, ApJ, 624, L61
+1 2003ApJ...595L..63D -- De Pontieu, B., Erdelyi, R., & De Wijn, A. G. 2003,, ApJ, 595, L63
+1 2004Natur.430..536D -- De Pontieu, B., Erdelyi, R., & James, S. P. 2004,, Nature, 430, 546
+1 2006ApJ...643..540M -- Marsh, M.S., Walsh, R.W., 2006, ApJ, 643, 540
+5 2004PrICA.......13R -- Roberts, B., 2004, in proceedings of SOHO 13, ESA
+0 ................... -- SP-547, 1
+0 ................... -- Vernazza, J. E., Avrett, E. H., Loeser, R., 1981, APJS,
+0 ................... -- 45, 635
+0 ................... -- Chen, P. F., Priest, E. R., 2006, Springer Science, (in
+0 ................... -- press)

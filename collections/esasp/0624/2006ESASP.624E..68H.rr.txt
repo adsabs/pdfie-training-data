@@ -1,0 +1,10 @@
+---<2006ESASP.624E..68H>---
+1 2000SoPh..192..363H -- B. Hindman, D. Haber, J. Toomre, and R. Bogart. Sol. Physics, 192,363-372, 2000.
+1 2001ApJ...563..410R -- S. P. Rajaguru, S. Basu, and H. M. Antia., ApJ, 563,410-418, 2001.
+1 2004ApJ...608..562H -- R. Howe, R. W. Komm, F. Hill, D. A. Haber, and B. W. Hindman., ApJ, 608,562-579, 2004.
+1 2002ApJ...570..855H -- D. A. Haber, B. W. Hindman, J. Toomre, R. S. Bogart, R. M. Larsen, and F. Hill., ApJ, 570,855-864, 2002.
+1 2006ApJ...638..576G -- I. Gonzalez Hernandez, R. Komm, F. Hill, R. Howe, T. Corbard, and D. A. Haber., ApJ, 638,576-583, 2006.
+1 1994SoPh..150..389R -- R. S. Ronan, K. Cadora, and B. J. Labonte. Sol. Physics, 150,389-392, 1994.
+0 ................... -- E. J. Rhodes, Jr., J. Reiter, and J. Schou. In A. Wilson, editor, ESA SP-508, From Solar Min to Max, Half a Solar Cycle with SOHO, pages 37-40, 2002. Figure 5. Rate of change of frequency (left), peak width (middle) and peak amplitude (right) with magnetic index. The ridges are colour-coded by radial order n, from blue for n = 0 to red for n = 9.
+0 ................... -- B. Gelly, M. Lazrek, G. Grec, A. Ayad, F. X.
+1 2002A&A...394..285G -- Schmider, C. Renaud, D. Salabert, and E. Fossat. Astron. Astrophys., 394,285-297, 2002.

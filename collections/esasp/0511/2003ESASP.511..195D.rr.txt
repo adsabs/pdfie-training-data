@@ -1,0 +1,9 @@
+---<2003eida.conf..195D>---
+1 1999A&A...347..640B -- Bernard J-.P., et al., 1999, A&A 347, 640
+0 ................... -- Boulanger F., et al., 1990, ApJ 364, 136Desert F.-X., Boulanger F. & Puget J. L., 1990, A&A 237, 215Dickman R. L. 1978, AJ, 83, 363
+5 1997auph.conf..108G -- Gabriel C., et al., 1997, in Proc. of the ADASS VI Conference (eds.: G. Hunt, H.E. Payne), 108
+1 1998ApJ...508...44K -- Kelsall T., et al., 1998, ApJ 508, 44
+1 1996A&A...315L..27K -- Kessler M.F., et al., 1996, A&A 315, L27
+1 1998A&A...333..709L -- Lagache G., et al., 1998, A&A 333, 709
+5 2002lase.book.1262L -- Laureijs, R. J., et al., 2002, The ISO Handbook Vol. IV (PHT), ESASP 1262
+1 1987A&A...184..269L -- Laureijs,R. J., et al., 1987, A&A, 184, 269Lemke D., et al., 1996, A&A 315, L64Mathis J.S. 1990, AAR&A 168, 271Stepnik et al. 2001, ESASP 460, 269

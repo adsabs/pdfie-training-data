@@ -1,0 +1,11 @@
+---<2006ESASP.624E.133F>---
+1 2002ApJ...570..855H -- Haber D.A., Hindman B.W., Toomre J., Bogart R.S., & Larsen R.M., 2002, ApJ 570, 855
+1 2002ApJ...570..865B -- Brun A.S., & Toomre J., 2002, ApJ 570, 865
+1 2004ApJ...614.1073B -- Brun A.S., Miesch M.S., & Toomre J., 2004,, ApJ, 614, 1073
+1 1993Natur.362..430D -- Duvall T.L., Jr., Jefferies S. M., Harvey J. W., & Pomerantz M. A., 1993,, Nature, 362, 430
+1 1997SoPh..170...63D -- Duvall T.L., Jr. et al. 1997, Sol. Phys. 170, 63
+1 2004ESASP.559..428F -- Featherstone N.A., Hindman B.W., Haber D.A., & Toomre J., 2004 ESA SP-559, 428
+1 2003PhDT.........9G -- Gizon L., 2003, Ph.D. Thesis, Stanford University
+5 2004ApJ.....0..608L -- Lisle J.P., Rast M.P., & Toomre J., 2004,, ApJ, 608,
+0 ................... -- Miesch M.S., Brun A.S., & Toomre J., 2006, ApJ, to
+0 ................... -- be submitted

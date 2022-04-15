@@ -1,0 +1,16 @@
+---<2003eida.conf..137L>---
+1 1990ApJ...365..620B -- Burton M.G., Hollenbach D.J., & Tielens A.G.G.M. 1990 ApJ 365, 620
+1 1996A&A...315L..38C -- Clegg P.E., Ade P.A.R., & Armand C. 1996 A&A 315, L38
+1 1983ApJ...264..485D -- Draine B.T., Roberge W.G., & Dalgarno A. 1983 ApJ 264, 485
+1 2001ApJ...555..950F -- Font A.S., Mitchell G.F., & Sandell G. 2001 ApJ 555, 950
+1 1999A&A...346..617G -- Giannini T., Lorenzetti D., Tommasi E., et al. 1999, A&A 346, 617
+1 1989ApJ...342..306H -- (Paper II) Hollenbach D., & McKee C.F. 1989 ApJ 342, 306
+1 1999ApJ...527..795K -- Kaufman M.J., Wolfire M.G., Hollenbach D.J., & Luhman M.L, 1999 ApJ 527, 795
+1 1996A&A...315L..27K -- Kessler M., Steinz J.A., & Anderegg M.E. 1996 A&A 315, L27
+1 1999A&A...346..604L -- Lorenzetti D., Tommasi E., Giannini T., et al. 1999 A&A 346, 604
+0 ................... -- (Paper I) Figure 5. Far IR lines luminosity vs. bolometric luminosity of the cen-
+0 ................... -- tral star. Nisini B., Giannini T., & Lorenzetti D. 2002, ApJ, in press
+0 ................... -- Pilbratt G.L. 2001 in: The promise of the Herschel Space Observa-
+5 1989HarRe.......13T -- tory - ESA-SP 460, Eds. G.L.Pilbratt, J.Cernicharo, A.M.Heras, T.Prusti, R.Harris, p.13
+0 ................... -- Swinyard B.M., Clegg P.E., Ade P.A.R. et al. 1996 A&A 315, L43 Th'e P.S., de Winter D., & P'erez M.R. 1994 A&AS 104, 315
+1 1998A&A...330..145V -- van den Ancker M.E., de Winter D., & Tjin A Djie, H.R.E. 1998 A&A 300, 145

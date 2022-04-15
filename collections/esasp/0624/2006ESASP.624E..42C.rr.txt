@@ -1,0 +1,12 @@
+---<2006ESASP.624E..42C>---
+1 1993Natur.362..430D -- Duvall, T.L., Jr., Jefferies, S.M., Harvey, J.W., and Pomerantz, M.A.,, Nature, 362, 430, 1993.
+1 2004ApJ...608..580B -- Birch, A.C., Kosovichev, A.G., and Duvall, T.L., Jr., Astrophys. J., 608, 580, 2004.
+1 1997SoPh..170...63D -- Duvall, T.L., et al., Solar Phys., 170, 63, 1997.
+1 2004SoPh..220..381R -- Rajaguru, S.P., Hughes, S.J., and Thompson, M.J., Solar Phys., 220, 381, 2004.
+1 2004ApJ...614..472G -- Gizon, L., and Birch, A.C., Astrophys. J., 614, 472, 2004.
+5 1997fpsa.proc....1K -- Kosovichev, A.G., and Duvall, T.L., Jr., in Proc. of SCORe'96 , Solar Convection and Oscillations and their Relationship, Kluwer Academic Publishers, vol. 225, Aarhus, Denmark, 241, 1997. Figure 5. Left panel, rms variation of the noise (diamonds) and signal mean travel-time perturbations (stars) for = 36.5 Mm. Right panel, S/N on the travel-time maps as a function of the ratio of the phase-speed filter width, v, to the central phase-speed, v. Figure 6. Travel-time maps at = 36.5 Mm for the solar active region NOAA 8243 of June 1998. Left panel, the phase-speed filter width is v = 3.151 km s-1 (usual width). Right panel, the phase-speed filter width is v = 6.303 km s-1 (optimum width).
+1 1995SoPh..162..129S -- Scherrer, P.H., et al., Solar Phys., 162, 129, 1995.
+1 2001PhDT........11J -- Jensen, J.M., PhD thesis, University of Aarhus, Denmark, 2001.
+1 2000SoPh..192..159K -- Kosovichev, A.G., Duvall, T.L., Jr., and Scherrer, P.H., Solar Phys., 192, 159, 2000.
+0 ................... -- Couvidat, S., Birch, A.C., and Kosovichev, A.G.,
+1 2006ApJ...640..516C -- Astrophys. J., 640, 516, 2006.

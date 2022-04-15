@@ -1,0 +1,5 @@
+---<2003eida.conf..339D>---
+0 ................... -- Laureijs, R. J., et al., 2002, The ISO Handbook Vol. IV.: PHT -- The
+5 1989Vasio...2....0I -- Imaging Photo-Polarimeter, SAI--99--069/Dc, Version 2.0
+1 1996A&A...315L..64L -- Lemke D., Klaas U., Abolins J., et al. 1996, A&A, 315, L64
+1 1993SPIE.2019..180S -- Silverberg, R. F., et al. 1993, Proc. SPIE, 2019, 180

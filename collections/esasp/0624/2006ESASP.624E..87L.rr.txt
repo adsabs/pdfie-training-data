@@ -1,0 +1,12 @@
+---<2006ESASP.624E..87L>---
+1 2005ASPC..336...25A -- Asplund, M., Grevesse, N., & Sauval, A. J. 2005, in ASP Conf. Ser. 336, Cosmic Abundances as Records of Stellar Evolution and Nucleosynthesis, ed. T. G. Barnes & F. N. Bash, 25
+1 2004A&A...417..751A -- Asplund, M., Grevesse, N., Sauval, A. J., Allende Prieto, C., & Kiselman, D. 2004, Astronomy & Astrophysics, 417, 751
+1 1997A&A...322L...5B -- Basu, S. & Christensen-Dalsgaard, J. 1997, Astronomy & Astrophysics, 322, L5
+0 ................... -- Christensen-Dalsgaard, J. & Dappen, W. 1992, Astron- omy & Astrophysics Review, 4, 267Eggleton, P. P., Faulkner, J., & Flannery, B. P. 1973, As- tronomy & Astrophysics, 23, 325
+0 ................... -- Grevesse, N. & Sauval, A. J. 1998, in Solar Composi-
+5 1989ioso.conf..161T -- tion and Its Evolution - From Core to Corona, ed. C. Frohlich, M. C. E. Huber, S. K. Solanki, & R. von Steiger, 161
+1 1992ApJ...387..372G -- Guenther, D. B., Demarque, P., Kim, Y.-C., & Pinson- neault, M. H. 1992, Astrophysics Journal, 387, 372
+0 ................... -- Rhodes, Jr., E. J., Reiter, J., Kosovichev, A. G., Schou, J., & Scherrer, P. H. 1998, in Structure and Dy-
+5 1998umassrept...73N -- namics of the Interior of the Sun and Sun-like Stars SOHO 6/GONG 98 Workshop Abstract, June 1-4, 1998, Boston, Massachusetts, p. 73, ed. S. Korzennik, 73
+0 ................... -- Schou, J., Christensen-Dalsgaard, J., Howe, R., et al. 1998, in Structure and Dynamics of the Interior of the
+5 1998umassrept..845S -- Sun and Sun-like Stars SOHO 6/GONG 98 Workshop Abstract, June 1-4, 1998, Boston, Massachusetts, p. 845, ed. S. Korzennik, 845

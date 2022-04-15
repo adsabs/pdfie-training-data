@@ -1,0 +1,66 @@
+---<2003eida.conf..307D>---
+1 1999A&A...343L..65A -- Altieri B., Metcalfe L., Kneib J-P. et al., 1999, A&A, 343, L65
+1 1999A&A...342..313A -- Aussel H., Cesarsky C.J., Elbaz D., et al., 1999, A&A, 342, 313
+1 2002astro.ph.10030B -- Balland C., Devriendt, J., Silk J., 2002,, MNRAS, Submitted, astro-ph/0210030
+1 1997A&A...323..685B -- Bertin E., Dennefeld, M. & Moshir, M., 1997, A&A, 323, 685
+0 ................... -- Sciences, Springer-Verlag, 2000 Cesarsky C., Abergel, A., Agnese P., et al., 1996, A&A, 315, L32
+1 2002ApJ...573...66C -- Chapman, S. C., Smail I., Ivison R., et al., 2002,, ApJ, 573, 66
+1 2001ApJ...556..562C -- Chary R., & Elbaz D., 2001,, ApJ, 556, 562
+1 1999MNRAS.302..222C -- Ciliegi P., McMahon R. G., Miley G., et al., 1999,, MNRAS, 302, 222
+1 1999A&A...346..383C -- Clements D., Desert F-X., Franceschini A., et al., 1999, A&A, 346, 383
+1 2000A&AS..141..533C -- Coulais A., & Abergel A., 2000, A&AS, 141, 533
+0 ................... -- Coulais A., Fouks B. I., Giovannelli J. F., et al., 2000, A&A, SPIE
+1 2000AJ....120..583D -- Dale D., Silbermann, N., Helou, G., et al., 2000, AJ, 120, 583
+1 1999A&A...342..363D -- D'esert F-X., Puget J-L., Clements D., et al., 1999, A&A, 342, 363
+1 2000A&A...363..851D -- Devriendt J.& Guiderdoni B., 2000, A&A, 363, 851
+1 2000LNP...548...54D -- Dole H., Gispert R., Lagache, G., et al., 2000, Springer Lect. Notes in Ph., v548, 54, astro-ph/0002283
+1 2001A&A...372..364D -- Dole H., Gispert R., Lagache, G., et al., 2001, A&A, 372, 364
+1 2002astro.ph.11312D -- Dole H., Lagache G., Puget J-L., 2003,, ApJ, in press, astro-ph/0211312
+1 2000MNRAS.319.1169E -- Efstatiou A., Oliver S., Rowan-Robinson M., et al., 2000,, MNRAS, 319, 1169
+1 1999A&A...351L..37E -- Elbaz D., Cesarsky C., Fadda D., et al., 1999, A&A, 351, L37
+0 ................... -- Elbaz D., Flores H., Chanial P., et al., 2002, A&A, 384, 848Ellis R. S., 1997, ARAA, 35, 389
+1 1999ApJ...517..148F -- Flores H., Hammer F., Thuan T. X., et al., 1999,, ApJ, 517, 148
+1 2001A&A...378....1F -- Franceschini A., Aussel H., Cesarsky C., et al., 2001, A&A, 378, 1
+1 2000ARA&A..38..761G -- Genzel R., & Cesarsky C., 2000, ARAA, 38, 761
+1 2000A&A...360....1G -- Gispert R., Lagache G., Puget J-L., 2000, A&A, 360, 1
+1 2002MNRAS.335..831G -- Gruppioni C., et al, 2002,, MNRAS, 335, 831
+1 1997Natur.390..257G -- Guiderdoni B., Bouchet F. R., Puget J-L., et al., 1997,, Nature, 390, 257
+0 ................... -- Hauser M.,& Dwek E., 2001, ARAA, 37, 249Helou G., Lu N. Y., Werner M. W., et al., 2000,, ApJ, 532, L21
+1 1998A&A...332..739H -- Herbstmeierer U., Abraham P., Lemke D., et al., 1998, A&A, 332, 739
+1 2000A&A...360..813J -- Juvela M., Mattila K., Lemke D., 2000, A&A, 360, 813
+0 ................... -- Kakazu Y., Sanders D., Jpseph R., et al., 2002, A&A, IAU184, astro-ph/0201326Kawara K., Sato Y., Matsuhara H., et al., 1998, A&A, 336, L9
+1 2001A&A...379.1161K -- Kiss C., Abraham P., Klaas, U., et al., 2001, A&A, 379, 1161
+0 ................... -- Kiss C., et al., 2002, this conference
+1 2000A&A...355...17L -- Lagache G. & Puget J-L., 2000 , A&A, 355, 17
+1 2001A&A...372..702L -- Lagache G. & Dole H., 2001, A&A, 372, 702
+1 2002astro.ph..9115L -- Lagache G., Dole H., Puget J-L., 2002, A&A,, MNRAS, in press, astro-ph/0209115
+1 2001MNRAS.325.1173L -- Lari C., Pozzi F., Gruppioni C., et al., 2001, A&A, 325, 1173
+0 ................... -- Lari C., et al., 2002, this conference
+1 1996A&A...315L..64L -- Lemke D., Klaas U., Abolins J., et al., 1996, A&A, 315, L64
+0 ................... -- Linden-Voernle M. J. D., Norgaard-Nielsen H. U., Jorgensenet H. E., al., 2000, A&A, 359, L51 Lutz D., 2000, New As. Rev., 44, L241
+1 2001ApJ...555..641M -- Malkan M., & Stecker F., 2001,, ApJ, 555, 641
+1 2000A&A...361..407M -- Matsuhara H., Kawara K., Sato Y., et al., 2000, A&A, 361, 407
+0 ................... -- Miville-Desch.enes M-A., Boulanger F., Abergel A., et al., 2000, 146, 519 Miville-Desch.enes M-A., Lagache G., Puget J-L., 2002, 393, 749
+1 2000MNRAS.316..749O -- Oliver S., Rowan-Robinson, M., Alexander D., et al., 2000,, MNRAS, 316, 749
+1 2002MNRAS.332..536O -- Oliver S., Mann R. G., Carballo R., et al., 2002,, MNRAS, 332, 536
+0 ................... -- Patris J., Dennefeld M., Lagache G., et al., 2002, A&A, submittedPearson C., 2001,, MNRAS, 325, 1511
+1 1996A&A...308L...5P -- Puget J-L., Abergel A., Bernard J-P., et al., 1996, A&A, 308, L5
+1 1999A&A...345...29P -- Puget J-L., Lagache G., Clements D., et al., 1999, A&A, 345, 29
+1 2001astro.ph..1105P -- Puget J-L.,& Lagache G., 2000, A&A, IAU204, astro-ph/0101105
+1 1999MNRAS.307..111R -- Roche N., & Eales S., 1999,, MNRAS, 307, 111
+0 ................... -- Rodighiero G., et al., 2002, this conference
+1 2001NewAR..45..631R -- Rowan-Robinson M., 2001a, New As. Rev., 45, 631
+1 2001ApJ...549..745R -- Rowan-Robinson M., 2001b,, ApJ, 549, 745
+1 1997MNRAS.289..457S -- Serjeant S., Eaton N., Oliver S., et al., 1997,, MNRAS, 289, 457
+1 2000MNRAS.316..768S -- Serjeant S., Oliver S., Rowan-Robinson M., et al., 2000,, MNRAS, 316, 768
+1 2001MNRAS.322..262S -- Serjeant S., Efstathiou A., Oliver S., et al., 2001,, MNRAS, 322, 262
+1 1998A&A...336..116S -- Stickel M., Bogun S., Lemke D., et al., 1998, A&A, 336, 116
+1 2000A&A...359..865S -- Stickel M., Lemke D., Klaas U., et al., 2000, A&A, 359, 865
+1 2001PASJ...53...37T -- Takeuchi T., Ishii T., Hirashita H., et al., 2001, PASJ, 53, 37
+1 1999ApJ...522..579T -- Tan J., Silk J., Balland C., 1999,, ApJ, 522, 579
+1 1997A&A...328L...9T -- Taniguchi Y., Cowie L., Sato Y., et al., 1997, A&A, 328, L9
+1 2002ApJ...570..470T -- Totani T., & Takeuchi T., 2002,, ApJ, 570, 470
+0 ................... -- Tuffs R., & Popescu C., 2002, this conference
+0 ................... -- Vaccari M., et al., 2002, this conference
+1 2001ApJ...562..179X -- Xu C., Lonsdale C., Shupe D., et al., 2001,, ApJ, 562, 179
+5 2000ARA&A.383..755W -- Wang Y., Biermann P., 2000, A&A, 356, 808 Wang Y., 2002, A&A, 383, 755

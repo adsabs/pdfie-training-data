@@ -1,0 +1,12 @@
+---<2003eida.conf..105J>---
+1 1984ApJ...278L..19L -- Low F.J., Neugebauer G., Walker R.G., Wesselius P.R., 1984, ApJ 278, L23
+0 ................... -- Backman D., Paresce F., 1993, in ``Protostars and Planets III'', eds E.
+5 1989merc.book.1304L -- Levy & J. Lunine, Tucson: University of Arizona press, pp.1253- 1304
+1 2001A&A...375..950B -- Bouwman J., Meeus G., de Koter A., Hony S., Dominik C., Waters L.B.F.M., 2001, A&A 375, 950
+1 1997ApJ...474L.115B -- Butler R.P., Marcy G.W., Williams E., Hauser H., Shirts P., 1997, ApJ 474, L115
+5 1997Sci........275C -- Crovisier J., Leech K., Bockelee-Morvan D., Brooke T.Y., Hanner M.S., Altieri B., Keller H.U., Lellouch E., 1997, Science 275,
+0 ................... -- 1904 Decin G., Dominik C., Malfait K., Mayor M., Waelkens C., 2000, A&A 357, 533
+1 1996A&A...315L..49D -- de Graauw Th., Haser L.N., Beintema D.A., Roelfsema P.R. et al., 1996, A&A 315, L49
+1 1998A&A...329L..53D -- Dominik C., Laureijs R.J., Jourdain de Muizon M., Habing H.J., 1998, A&A 329, L53
+1 1984ApJ...285...89D -- Draine B.T., Lee H.M., 1984, ApJ 285, 89
+5 1997ApJ.....0..487F -- Fajardo-Acosta S.B., Stencel R.E., Backman D.E., 1997, ApJ 487,

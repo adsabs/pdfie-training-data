@@ -1,0 +1,20 @@
+---<2006ESASP.624E..95M>---
+1 2005ASPC..336...25A -- Asplund M., Grevesse N., Sauval A.J., 2005, ASP Conference Series, 336, 25
+1 1998ApJ...506..913B -- Brun A.S., Turck-Chieze S., Morel P., 1998, ApJ 506, 913
+1 1999ApJ...525.1032B -- Brun A.S , Turck-Chieze S., Zahn J.P., 1999, ApJ 525, 1032
+1 1996Sci...272.1286C -- Christensen-Dalsgaard et al., 1996, Science, 272, 1286C
+0 ................... -- Christensen-Dalsgaard, J. 1997, Notes on adiabatic oscillation program, http,//www.obs.aau.dk/ jcd/adipack.n/
+1 2003ApJ...599.1434C -- Couvidat S., Turck-Chieze S. & Kosovichev S., 2003,, ApJ, 599, 1434
+1 1993A&A...271..587G -- Grevesse N., Noels A. & Sauval A.J., 1993, A&A 271, 587
+1 1991svoc.book.....H -- Hill et al., 1991, Solar interior and atmosphere, ed A. Cox, University of Arizona press, p 562-617
+1 1997A&AS..124..597M -- Morel P., 1997, A&AS, 124, 597
+1 2002ApJ...566..419P -- Piau L. & Turck-Chieze S., 2002,, ApJ, 566, 419
+1 1986A&A...165..218P -- Provost J., Berthomieu G., 1986, A&A, 165, 218
+1 2000A&A...353..775P -- Provost J., Berthomieu G., Morel P., 2000, A&A, 353,775
+1 2001ApJ...555L..69T -- Turck-Chieze S., Couvidat S., et al., 2001,, ApJ, 555, L69
+1 2004ApJ...604..455T -- Turck-Chieze, S., Garcia, R.A., Couvidat, S., et al., 2004a,, ApJ, 604, 455
+1 2004PhRvL..93u1102T -- Turck-Chieze S., Couvidat S., Piau L., et al., 2004, Phys. Rev. Lett., 93, 211102
+0 ................... -- Turck-Chieze S., in Neutrino 2006, Journal of
+0 ................... -- Physics, conference series, in press
+1 2005NuPhS.143...35T -- Turck-Chieze, S. , 2005, Nucl. Phys. Suppl., 143,35;
+0 ................... -- 145, 17.

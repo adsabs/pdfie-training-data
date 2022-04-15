@@ -1,0 +1,14 @@
+---<2003eida.conf..205P>---
+1 2002A&A...383..603C -- Ceccarelli, C., Baluteau, J.-P., Walmsley, M., et al., 2002, A&A, 383, 603
+1 2000ApJ...534L.199C -- Cernicharo, J., Goicoechea, J. R. & Caux, E., 2000,, ApJ, 534, L199
+1 1996A&A...315L..38C -- Clegg, P. E., Ade, P. A. R., Armand, C., et al., 1996, A&A, 315, L38
+0 ................... -- Goicoechea, J. R. & Cernicharo, J., 2002a, this volume
+1 2002ApJ...576L..77G -- Goicoechea, J. R. & Cernicharo, J., 2002b,, ApJ, 576, L77
+1 1994A&A...290..259G -- Greaves, J. S. & Williams, P. G., 1994, A&A, 290, 259
+0 ................... -- Figure 5. Wavelengths covered by useful prime (red) and non-prime data (green) for two L03 datasets. Full wavelength coverage was achieved in the prime data for Sgr B2 but Sgr A was not observed over the full wavelength range. These gaps can be filled using the non-
+5 2002hsf2.book...99P -- prime data. Gry, C., Swinyard, B., Harwood, A., et al., 2002, ISO Handbook Vol- ume III (LWS), Version 2.0, ESA SAI-99-077/Dc
+1 1981ApJ...244L..27S -- Storey, J. W. V., Watson, D. M. & Townes, C. H., 1981,, ApJ, 244, L27
+0 ................... -- Polehampton, E. T., Swinyard, B. M., Sidher, S. D. & Baluteau, J.-P., 2002a, in The Calibration Legacy of the ISO Mission, ESA SP- 481, in press
+1 2002A&A...388L..44P -- Polehampton, E. T., Baluteau, J.-P., Cecarrelli, C., Swinyard, B. M. & Caux, E., 2002b, A&A, 388, L44
+0 ................... -- Vastel, C., Polehampton, E. T., Baluteau, J.-P., et al., 2002,, ApJ, in
+1 2002astro.ph..8193V -- press, [astro-ph/0208193] (see also Vastel et al., this vol- ume)

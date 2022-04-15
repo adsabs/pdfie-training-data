@@ -1,0 +1,13 @@
+---<2003eida.conf...35Y>---
+5 2002wpst.conf...77B -- Bedding T. R., et al., 2002,, MNRAS, in pressCohen M., et al., 1998, AJ 115, 1671Hirao T., et al., 1996, PASJ 48, L77
+1 2001A&A...376..997L -- Le Bertre T., et al., 2001, A&A 376, 997
+1 2002A&A...382..600M -- Makiuti S., et al., 2002, A&A 382, 600
+1 1996PASJ...48L..47M -- Matsumoto T., et al., 1996, PASJ 48, L47
+1 1999A&A...348..579M -- Matsuura M., et al., 1999, A&A 348, 579
+1 1996PASJ...48L..41M -- Murakami H., et al., 1996, PASJ 48, L41
+0 ................... -- Murakami H., et al., 2002, ESA-SP 481, in press
+1 1996PASJ...48L.123O -- Okumura K., et al., 1996, PASJ 48, L123
+1 2000ESASP.456...55O -- Onaka T., et al., 2000, ESA-SP 456, 55
+0 ................... -- Onaka T., et al., 2002, ESA-SP 481, in press
+1 2000AdSpR..25.2163O -- Ootsubo T., et al., 2000, Advances in Space Research 25, 2163
+1 1996PASJ...48L..65Y -- Yamamura I., et al., 1996, PASJ 48, L65 SOLAR SYSTEM

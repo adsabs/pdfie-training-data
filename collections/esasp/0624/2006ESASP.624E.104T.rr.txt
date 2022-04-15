@@ -1,0 +1,15 @@
+---<2006ESASP.624E.104T>---
+1 1998IAUS..185...49H -- Harvey, J.W., Hill, F., Komm, R.W., Leibacher, J., Pohl, B., and the GONG team, 1998, in New Eyes to See Inside the Sun and Stars, eds. F.-L. Deubner, J. Christensen-Dalsgaard, and D. Kurtz, IAU publication, The Netherlands, p. 49.
+1 1997SoPh..175..311T -- Toutain, T. et al., 1997, Solar Phys., 175, 311.
+1 1998ESASP.418..973T -- Toutain, T., Appourchaux, T., Frohlich, C., Kosovichev, A.G., Nigam, R., and Scherrer, P.H., 1998, in Structure and Dynamics of the Interior of the Sun and Sun-like Stars, ESA-SP 418, p. 973.
+0 ................... -- Jain, K., Hill, F., and Toner, C., 2003, in Probing the Sun with High Resolution, eds. S.C. Tripathy and P. Venkatakrishnan, Narosa Publishing House, New Delhi, p. 31.
+1 2003BASI...31..321T -- Tripathy, S.C., Jain, K., Hill, F., and Toner, C., 2003, Bull. Astr. Soc. India, 31, 321.
+1 1993ApJ...410..829D -- Duvall, T. L., Jr., Jefferies, S. M., Harvey, J. W., Osaki, Y., and Pomerantz, M. A., 1993, Astrophys. J., 410, 829.
+1 2000ApJ...531.1088B -- Basu, S. and Antia, H. M., 2000, Astrophys. J., 531, 1088.
+1 2001ESASP.464..183B -- Basu, S., Antia, H. M., and Bogart, R.S., 2001, in Helioand Asteroseismology at the Dawn of the Millennium, ESA-SP 464, p. 183.
+1 1988ApJ...333..996H -- Hill, F., 1988, Astrophys. J., 333, 996.
+1 1998ApJ...495L.115N -- Nigam, R., Kosovichev, A. G., Scherrer, P. H., and Schou, J., 1998, Astrophys. J., 495, L115.
+1 2002ApJ...570..855H -- Haber, D., Hindman, B.W., Toomre, J., Bogart, R.S., Larsen, R.M., and Hill, F., 2002, Astrophys. J., 570, 885.
+1 1999ApJ...519..400A -- Basu, S. and Antia, H. M., 1999, Astrophys. J., 519, 400.
+0 ................... -- Nigam, R. and Kosovichev, A.G., 1998, Astrophys.
+0 ................... -- J., 505, L51.

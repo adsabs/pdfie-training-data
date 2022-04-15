@@ -1,0 +1,11 @@
+---<2003eida.conf....3S>---
+1 2003eida.conf...17A -- Ali, B., Kong, M., Salama, A., 2002, this volume
+1 1999ESABu..98..133A -- Arviset, C. & Prusti, T., 1999, ESA Bulletin 98, 133
+5 2002PASP..225..165A -- Arviset, C. et al, 2002a, PASP 225, 165
+0 ................... -- Arviset, C., et al., 2002b, in proceedings ADASS XI, ASP Conf. Ser.
+5 1989A&A.....4....9E -- 238, eds. F. R. Harnden, Jr., F. A. Primini, & H. E. Payne, [P-4] and [D-9]
+0 ................... -- Arviset, C., Guainazzi, M., Salama, A., et al., in Toward an Interna- tional Virtual Observatory, ESO Astrophys. Symp., Springer Ver- lag, in press. Genova, F., 2002, this volume
+1 1996A&A...315L..27K -- Kessler, M.F. et al. 1996, A&A 315, L27
+5 2002ESASP...0.2002K -- Kessler M.F., M&Dot;uller T., Leech K. et al., 2002, The ISO Handbook: Volume I, ISO - Mission & Satellite Overview, ESA SP-1262, SAI/2000-035/Dc, Version 2.0Matagne, J., 2002, this volume
+0 ................... -- Salama, A. et al., 2002, in proceedings ADASS XI, ASP Conf. Ser.
+5 1989IEEEP..52....8E -- 238, eds. F. R. Harnden, Jr., F. A. Primini, & H. E. Payne, [P-52] 8

@@ -1,0 +1,14 @@
+---<2003eida.conf..349L>---
+0 ................... -- Claret A. et al. 1998, Glitch Effects in ISOCAM Detectors, ISO Tech-
+0 ................... -- nical Report Coulais A. et al. 2000, Transient response of IR detectors used in space
+5 1999glv..book.2002A -- astronomy: what we have learned from ISO satellite, ISO Techni- cal Report D'esert F. X. et al. 1999, A&A, 342, 363Fadda D. et al. 2002, this volume
+5 1999ESASP.427....4G -- Gabriel C. and Acosta-Pulido J. A. 1999, ESA SP-427, 4
+1 2002astro.ph..5173G -- Gruppioni C. et al. 2002,, MNRAS, accepted, astro-ph/0205173
+1 2001MNRAS.325.1173L -- Lari C. et al. 2001,, MNRAS, 325, 1173
+1 2002MNRAS.332L..11M -- Matute I. et al. 2002,, MNRAS, 332, L11
+0 ................... -- Ott S., Gastaud R., Ali B., Delaney M., Miville-Desch.enes M.-A.,
+1 2001ASPC..238..170O -- Okumura K., Sauvage M., and Guest S. 2001, ASP Conf. Ser. 238, 170
+5 ...0............... -- Rodighiero G., Lari C. and Franceschini A. 2001, ESA SP-481
+1 2003eida.conf..321R -- Rodighiero G. et al. 2002, this volume
+1 1997A&A...319....7D -- de Ruiter H. R. et al. 1997, A&A, 319, 7
+5 1999glv..book.2002S -- Starck J. L. et al. 1999, A&AS, 138, 365Vaccari M. et al. 2002, this volume

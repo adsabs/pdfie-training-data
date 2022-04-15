@@ -1,0 +1,35 @@
+---<2006ESASP.624E..86J>---
+1 1983SoPh...82..205I -- Isaak, G.R., 1983,Sol. Phys., 82, 205.
+1 2006ApJ...646.1398J -- Jimenez, A., 2006,, ApJ, 646, 1398
+1 1990ApJ...362..256B -- Balmforth, N. J., & Gough, D. O. 1990,, ApJ, 362, 256.
+1 1988ESASP.286..279J -- Jefferies, S. M., et al. 1988, in Seismology of the Sun and Sun-like Stars, ed. E.Rolfe (Noordwijk, ESA SP- 286), 279.
+1 1988ApJ...334..510L -- Libbrecht, K. G. 1988,, ApJ, 334, 510.
+1 1991ApJ...373..308D -- Duvall, T. L., Harvey, J. W., Jefferies, S., M., & Pomerantz, M., A. 1991,, ApJ, 373, 308.
+1 1998ApJ...504L..51G -- Garcia, R. A., et al. 1998,, ApJ, 504, L51.
+1 2003ESASP.517..247C -- Chaplin, W. J., et al. 2002, in Local and Global Helio- seismology, The Present and Future, ed. H. Sawaya- Lacoste (Noordwijk, ESA SP- 517), 247.
+1 2005ApJ...623.1215J -- Jimenez, A., Jimenez-Reyes, S.J., & Garcia, R.A., 2005,, ApJ, 623,1215.
+1 1990LNP...367...87K -- Kumar, P., et al. 1990, in Lecture Notes in Physics, 367, Progress of Seismology of the Sun and Stars, ed. Y. Osaki and H. Shibahashi (Heidelberg, Springer), 87.
+1 1994ApJ...428..827K -- Kumar, P. 1994,, ApJ, 428, 827.
+1 1996ApJ...456..399J -- Jain, R., & Roberts, B. 1996,, ApJ, 456, 399.
+1 1981SoPh...74...51C -- Claverie, A., Isaak, G.R., McLeod, C.P., van der Raay, H.B. & Roca Cortes,T. 1981, Solar Physics ,74,51.
+1 1986A&A...169..313P -- Palle, P. L., Perez, J.C., Regulo, C., Roca Cortes, T. Isaak, G.R. Mc Leod, C.P. & van der Raay, H.B. 1986 , A&A, 169, 313.
+1 1992A&A...254..348P -- Palle, P. L., Regulo, C., Roca Cortes, T., Sanchez Duarte, L. & Schmider, F.X. 1992 , A&A, 254, 348.
+1 1992A&A...266..532F -- Fossat,E., Regulo,C., Roca Cortes, T.,Ehgamberdiev,S., Gelly,B., Khalikov,S., Khami- tov,I., Lazrek,M., Palle,P.L. & Sanchez Duarte, L. 1992,A&A,266, 532.
+1 1994ApJ...422L..29K -- Kumar, P., Fardal,M.A.,Jefferies,S.M.,Duvall,Jr. ,Harvey,J.W.& Pomerantz,M.A. 1994,, ApJ, 422, L29.
+1 1996BASI...24..195N -- Nigam,R. & Kosovichev,A.G. 1996, Bull.Astr.Soc.India,24,195.
+1 1999ApJ...525.1042J -- Jimenez, A., Roca Cortes, T., Severino, G., & Mar- molino, C. 1999,, ApJ, 525, 1042.
+1 1987A&A...175..263S -- Staiger,J. 1987 ,A&A, 175, 263.
+1 1977SoPh...54..269S -- Schmieder,B. 1977 Sol.Phys. 54, 269.
+1 1978SoPh...57..245S -- Schmieder,B. 1978 Sol.Phys. 57, 245.
+1 1991A&A...242..271M -- Marmolino, C., & Severino, G. 1991, A&A, 242, 271.
+1 1985ESASP.235..183G -- Gough, D. 1985, Proc. ESA Workshop on Future Missions in Solar, Heliospheric and Space Plasma Physics, Noordwijk, The Netherlands, ed. E.Rolfe & B.Battrick, ESA SP 235, 183.
+5 1995ESASP.376..447H -- Houdek, G., Balmforth, N. J., & Christensen- Dalsgaard, J. 1995, Proc. Fourth SOHO Workshop, Helioseismology, Pacific Grove, California, ed. J.T. Hoeksema, V.Domingo, B.Fleck & B.Battrick, ESA SP-376, 447.
+1 2002ApJ...581..736J -- Jimenez, A. 2002, ApJ, 581, 736.
+1 1995SoPh..162..101F -- Frohlich, C., et al. 1995, Sol.Phys., 162, 101.
+1 1997SoPh..170....1F -- Frohlich, C., et al. 1997, Sol.Phys., 170, 1.
+1 1995SoPh..162...61G -- Gabriel, A. H., et al. 1995, Sol.Phys., 162, 61.
+1 1997SoPh..175..207G -- Gabriel, A. H., et al. 1997, Sol. Phys., 175, 207.
+1 1999A&A...341..625P -- Palle, P. L., et al. 1999, A&A, 341, 625.
+1 2005A&A...442..385G -- Garcia, R. A., et al. 2005, A&A, 442, 385.
+1 2004ESASP.559..432G -- Garcia R. A., et al. 2004, in Helio- and Astero- seismology, Towards a Golden Future, ed. D. Danesy (Noordwijk), ESA SP-559, 432.
+1 1974sats.book.....K -- Koopmans, L.,H. 1974, The Spectral Analysis of Time Series (New York, Academic)

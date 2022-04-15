@@ -1,0 +1,90 @@
+---<2003eida.conf..199H>---
+0 ................... -- Abergel, A, Andre, P, Bacmann, A, Bernard, J. P, Bontemps, S,
+0 ................... -- Boulanger, F, Coulais, A, Desert, F. X, Falgarone, E, Kaas, A. A,
+0 ................... -- Huldtgren, M, Miville-Deschenes, M. A, Nordh, L, Olofsson, G,
+0 ................... -- Perault, M, & Puget, J. L. Spatial distribution of dust from cirrus
+1 1999ESASP.427..615A -- to dense clouds. In The Universe as seen by ISO, page 615, 1999.
+1 1994ApJ...427..822B -- Bakes, E. L. O & Tielens, A. G. G. M. 1994,, ApJ, 427:822.
+1 1993A&A...277..609B -- Bernard, J. P, Boulanger, F, & Puget, J. L. 1993, A&A, 277:609.
+0 ................... -- Bertoldi, F., 1997, Iso: A novel look at the photodissociated surfaces
+0 ................... -- of molecular clouds (invited paper). In First ISO Workshop on
+5 1989SPIE..834...67. -- Analytical Spectroscopy, page 67
+0 ................... -- Boulanger, F, Beichman, C, Desert, F. X, Helou, G, Perault, M, &
+1 1988ApJ...332..328B -- Ryter, C. 1988,, ApJ, 332:328.
+0 ................... -- Boulanger, F, Falgarone, E, Puget, J. L, & Helou, G. 1990,, ApJ,
+0 ................... -- 364:136.
+0 ................... -- 203
+1 1983ApJ...265..223B -- Burke, J. R & Hollenbach, D. J. 1983,, ApJ, 265:223.
+1 2002ApJ...575L..29C -- Cazaux, S & Tielens, A. G. G. M. 2002,, ApJ, 575:L29.
+0 ................... -- Draine, B. T & Bertoldi, F. Heating the gas in photodissociation re-
+0 ................... -- gions. In Cox, P & Kessler, M, editors, The Universe as seen by
+5 1999isoe.conf..553. -- ISO, page 553, 1999.
+0 ................... -- Draine, B & Bertoldi, F. Theoretical models of photodissociation
+5 2000gsa..symp..131. -- fronts. In H2 in Space, page 131, 2000.
+1 1978ApJS...36..595D -- Draine, B. T., 1978,, ApJS, 36:595
+0 ................... -- Draine, B. T. Interstellar extinction in the infrared. In Infrared Spec-
+1 1989ESASP.290...93D -- troscopy in Astronomy, page 93, 1989.
+1 1996MNRAS.279..591D -- Duley, W. W. 1996,, MNRAS, 279:591.
+0 ................... -- Falgarone, E, Verstraete, L, Hily-Blant, P, & Pineau Des For^ets, G. Hot
+0 ................... -- chemistry in the cold diffuse medium: spectral signatures in the
+0 ................... -- h2 rotational lines. In Molecular Hydrogen in Space, Cambridge
+5 2000iowa.rept..225. -- University Press, page 225, 2000.
+0 ................... -- Fuente, A, Martin Pintado, J, & Rodriguez Fernacute. 2000, A&A,
+0 ................... -- 354:1053.
+0 ................... -- Habart, E, Verstraete, L, Boulanger, F, Pineau Des For^ets, G, Le Pein-
+1 2001A&A...373..702H -- tre, F, & Bernard, J. P. 2001, A&A, 373:702.
+0 ................... -- Habart, E, Abergel, A, Boulanger, F, & Verstraete, L. 2002b, in prepa-
+0 ................... -- ration.
+0 ................... -- Habart, E, Boulanger, F, Verstraete, L, Abergel, A, Falgarone, E, &
+0 ................... -- Pineau des For^ets, G. 2002a, accepted to A&A.
+0 ................... -- Habart, E, Boulanger, F, Verstraete, L, Pineau des For^ets, G, & Walm-
+0 ................... -- sley, M. 2002c, in preparation.
+0 ................... -- Habart, E. 2001, Ph.D thesis, "Couplage entre le gaz et les grains
+5 1989Paras........7D -- dans le milieu interstellaire". University of Paris 7.
+1 1968BAN....19..421H -- Habing, H. J. 1968, Bull.Astron.Inst.Netherlands, 19:421.
+0 ................... -- Hollenbach, D. J & Tielens, A. G. G. M. 1999, Rev. in Modern
+5 1989physics....173. -- Physics, 71:173.
+1 1994A&A...282..605J -- Jansen, D. J, van Dishoeck, E. F, & Black, J. H. 1994, A&A, 282:605.
+0 ................... -- Jansen, D. J., van Dishoeck, E. F., Black, J. H., Spaans, M., & Sosin,
+1 1995A&A...302..243C -- C. 1995, A&A, 302:223.
+0 ................... -- Joulain, K., Falgarone, E., Des For^ets, G. P., & Flower, D. 1998, A&A,
+0 ................... -- 340:241.
+1 1975ApJ...197..575J -- Jura, M. 1975,, ApJ, 197:575.
+0 ................... -- Katz, N, Furman, I, Biham, O, Pirronello, V, & Vidali, G. 1999,, ApJ,
+0 ................... -- 522:305.
+0 ................... -- Kemper, C, Spaans, M, Jansen, D. J, Hogerheijde, M. R, van
+1 1999ApJ...515..649K -- Dishoeck, E. F, & Tielens, A. G. G. M. 1999,, ApJ, 515:649.
+0 ................... -- Kessler, M. F, Steinz, J. A, Anderegg, M. E, Clavel, J, Drechsel, G,
+0 ................... -- Estaria, P, Faelker, J, Riedinger, J. R, Robson, A, Taylor, B. G, &
+1 1996A&A...315L..27K -- Ximenez De Ferran, S. 1996, A&A, 315:L27.
+0 ................... -- Le Bourlot, J, Pineau des For^ets, G, Roueff, E, & Flower, D. R. 1993,
+5 1989A&A...267L.233. -- A&A, 267:L233.
+0 ................... -- Le Bourlot, J, Pineau des For^ets, G, & Flower, D. R. 1999,, MNRAS,
+0 ................... -- 305:L802.
+0 ................... -- Li, W, Evans, N. J. I, Jaffe, D. T, van Dishoeck, E. F, & Thi, W. F.
+1 2002ApJ...568..242L -- 2002,, ApJ, 568:242.
+0 ................... -- Liseau, R, White, G. J, Larsson, B, Sidher, S, Olofsson, G, Kaas, A,
+0 ................... -- Nordh, L, Caux, E, Lorenzetti, D, Molinari, S, Nisini, B, & Sibille,
+5 1999A&A...344L.342F -- F. 1999, A&A, 344:L342.
+0 ................... -- Moutou, C, Verstraete, L, Sellgren, K, & L&#xffff;eger, A. The rich spec-
+0 ................... -- troscopy of reflection nebulae. In The Universe as Seen by ISO,
+5 1999NaGe.......727. -- page 727, 1999.
+1 1991ApJ...372L..25P -- Parmar, P. S, Lacy, J. H, & Achtermann, J. M. 1991,, ApJ, 372:L25.
+1 1998A&A...334..363P -- Parneix, P & Brechignac, P. 1998, A&A, 334:363.
+1 1997ApJ...475L..69P -- Pirronello, V, Liu, C, Shen, L, & Vidali, G. 1997,, ApJ, 475:L69.
+1 1999A&A...344..681P -- Pirronello, V, Liu, C, Roser, J. E, & Vidali, G. 1999, A&A, 344:681.
+1 1997A&A...323..953S -- Spaans, M & van Dishoeck, E. F. 1997, A&A, 323:953.
+0 ................... -- Spaans, M. 1995, Ph.D thesis, 306:306.
+1 1998ApJ...495..853S -- Stoerzer, H & Hollenbach, D. 1998,, ApJ, 495:853.
+0 ................... -- Thi, W. F, van Dishoeck, E. F, Black, J. H, Jansen, D. J, Evans, N. J,
+0 ................... -- & Jaffe, D. T. Weak H&#xffff; emission from diffuse and translucent
+1 1999ESASP.427..529T -- clouds. In The Universe as Seen by ISO, page 529, 1999.
+0 ................... -- Timmermann, R, Bertoldi, F, Wright, C. M, Drapatz, S, Draine, B. T,
+1 1996A&A...315L.281T -- Haser, L, & Sternberg, A. 1996, A&A, 315:L281.
+0 ................... -- van Der Werf, P. P, Stutzki, J, Sternberg, A, & Krabbe, A. 1996, A&A,
+0 ................... -- 313:633.
+0 ................... -- Vastel, C, Spaans, M, Ceccarelli, C, Tielens, A. G. G. M, & Caux, E.
+1 2001A&A...376.1064V -- 2001, A&A, 376:1064.
+0 ................... -- Weingartner, J. C & Draine, B. T. Grain dynamics in photodissociation
+1 1999ESASP.427..783W -- regions. In The Universe as Seen by ISO, page 783, 1999.
+1 2001ApJS..134..263W -- Weingartner, J. C & Draine, B. T. 2001,, ApJS, 134:263.

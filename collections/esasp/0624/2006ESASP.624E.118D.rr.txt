@@ -1,0 +1,32 @@
+---<2006ESASP.624E.118D>---
+1 1994ApJ...437..879A -- Alexander D.R., Ferguson J.W. 1994, ApJ 437, 879
+1 2006ESASP.624E..30B -- Barban et al. these proceedings
+1 2000ApJ...532L.133B -- Buzasi D., Catanzarite J., Laher R., Conrow T., Shupe D., Gatier T. N., Kreidl T., Everett D. 2000, ApJ 532, L133
+1 2005ApJ...633..440B -- Bruntt H., Kjeldsen H., Buzasi D. L., Bedding T. R 2005, ApJ 633, 440
+1 1991ApJ...370..295C -- Canuto V. M., Mazzitelli I. 1991, ApJ 370, 295
+1 2004SoPh..220..137C -- Christensen-Dalsgaard J. 2004, Solar. Phys. 220, 137
+1 1991sia..book..401C -- Christensen-Dalsgaard J. and Berthomieu G., 1991, in Solar Interior and Atmosphere, eds. A. N. Cox, W. C. Livingston, and M. Matthews Univ. of Arizona Press, Space Science Series, Tucson, 401
+1 1995ApJ...443L..29C -- Christensen-Dalsgaard J., Bedding T. R. & Kjeldsen H. 1995. ApJ 443, L29
+5 2005MNRAS...0..363D -- D'Antona F., Cardini D., Di Mauro M. P., Maceroni C., Mazzitelli I., Montalban J. 2005, MNRAS 363,
+1 2001MNRAS.328..601D -- Dziembowski W. A., Gough D. O., Houdek G., Sienkiewicz R. 2001, MNRAS 328, 601
+1 2006A&A...448..689D -- De Ridder J., Barban C., Carrier F., Mazumdar A., Eggenberger P., Aerts C., Deruyter S., Vanautgaerder J. 2006, A&A 448, 689
+1 1996ApJ...464L.157E -- Edmonds P. D., Gilliland R. L. 1996, ApJ 464, L157
+1 1996ApJ...469..355F -- Flower P. J., 1996,, ApJ, 469, 355
+1 2002A&A...394L...5F -- Frandsen S., et al., 2002, A&A 394, L5
+1 2000ApJ...530L..45G -- Guenther D. B., Demarque P., Buzasi D., Catanzarite J., Laher R., Conrow T., Kreidl T. 2000, ApJ 530, L45
+1 1991LNP...380..386H -- Hatzes A. P., Cochran W. D. 1991, LNP 380, 386
+1 1994ApJ...432..763H -- Hatzes A. P., Cochran W. 1994, ApJ 432, 763
+1 1996ApJ...464..943I -- Iglesias C. A. & Rogers F. J. 1996, ApJ 64, 943
+1 2005A&A...433..267K -- Kallinger Th., Zwintz K, Pamyatnykh A. A., Guenther D. B., Weiss W. W. 2005, A&A 433, 267
+1 1979A&A....79..251M -- Mazzitelli I. 1979, A&A 79, 251
+1 1999ASPC..185..187M -- Merline W. J. 1999, ASP Conf. Ser. 185, 187
+1 2003ApJ...591L.151R -- Retter A., bedding T. R., Buzasi D. L., Kjeldsen H., Kiss L. L., 2003, ApJ 591, 151
+1 2004ApJ...601L..95R -- Retter A., Bedding T. R., Buzasi D. L., Kjeldsen H., Kiss L. L., 2004, ApJ 601, L95
+1 1999PhDT........16S -- Schlattl H., 1999, PhD thesis, Techn. Univ. Munchen
+1 2006MmSAI..77..510S -- Setiawan J., Roth M., Weise P., Dollinger M. P. 2006, Mem. SaIt 77, 510
+0 ................... -- da Silva L., Girardi L., Pasquini L., Setiawan J., von der Luhe O., de Medeiros J. R., Hatzes A., Dollinger M. P., Weiss A. 2006, A&A in press
+1 2004SoPh..220..207S -- Stello D., et al. 2004, Solar Phys. 220, 207
+0 ................... -- Teixeira T., Christensen-Dalsgaard J., Carrier F.,
+0 ................... -- Aerts C., Frandsen S., Stello D. , Maas T., Burnet M.,
+0 ................... -- Bruntt H., de Medeiros J. R., Bouchy F., Kjeldsen H.,
+1 2003Ap&SS.284..233T -- Pijpers F. 2003, Ap&SS 284, 233

@@ -1,0 +1,4 @@
+---<2003eida.conf..165L>---
+5 1998SPIE...33..359B -- Burgdorf, M.J., et al., 1998, Proc. SPIE, 33-49, 359
+5 1996A&A...315L..99C -- Clegg, P., 1996, A&A, 315, L99
+5 2002SPIE.2002..481G -- Gry, C., Swinyard, B. M., Harwood A. et al., 2002, 'The ISO Hand book version 2.0 Col III:LWS', SAI/1999-077/Dc Lim, T.L., et al., 1998, Proc. SPIE, 33-54, 888 Lloyd, C., 2002, ESA-SP 481, In Press

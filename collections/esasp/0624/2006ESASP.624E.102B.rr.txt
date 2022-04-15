@@ -1,0 +1,12 @@
+---<2006ESASP.624E.102B>---
+5 2004ESASP.353.2004B -- Burtseva, O.; Serebryanskiy, A.; Kholikov, S.; Chou, D.-Y.; The TON Team, Proceedings of the SOHO 14 / GONG 2004 Workshop (ESA SP-559), Editor, D. Danesy., 353, 2004.
+0 ................... -- Burtseva, O., Kholikov, S., Serebryanskiy, A., and Chou, D.-Y., Solar Phys., 2006 (in preparation).
+1 1995SoPh..160..237C -- Chou, D.-Y., Sun, M.T., Huang, T.Y., et al., Solar Phys., 160, 237, 1995.
+1 2001ApJ...554L.229C -- Chou, D.-Y., Serebryanskiy, A., Ye, Y.-J., Dai, D.-C., and Khalikov, S.,, ApJ, 554, L229, 2001.
+0 ................... -- Chou, D.-Y., and Ladenkov, O., Solar Phys., 2006 (in preparation).
+1 1998clel.book.....J -- Jackson, J.D., Classical Electrodynamics, 3rd ed., 1998.
+1 1991ApJ...377..330J -- Jefferies, S.M., Duvall, T.L., Jr., Harvey, J.W., et al.,, ApJ, 377, 330, 1991.
+1 1996Sci...272.1292H -- Hill, F., et al., Science, 272, 1292, 1996.
+1 1990PhDT........11K -- Korzennik, S.G., Ph.D. thesis, Univ. California, Los Angeles, 1990.
+5 1997scor.proc..241K -- Kosovichev, A.G. and Duvall, T.L.,Jr., in F.P. Pijpers, Christensen-Dalsgaard, and C.S. Rosenthal (eds.), 'Acoustic tomography of solar convective flows and structures', SCORe'96, Solar convection and oscillations and their relationship, Kluwer Academic Publishers, Dordrecht, Holland, 241, 1997.
+0 ................... -- Scherrer, P.H. et al.,, ApJ, 160, 237, 1995.

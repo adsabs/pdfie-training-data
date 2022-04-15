@@ -1,0 +1,6 @@
+---<2003eida.conf....9H>---
+1 2000A&AS..141..533C -- Coulais, A. & Abergel, A., 2000, A&A Supplement 141, 533
+5 2000saaa.conf..364D -- Decin, L. et al., 2000, A&A, 364, 137Dole, H. et al., 2001, A&A 372, 364
+1 1995SPIE.2475..487F -- Fouks, B. I. & Schubert, J., 1995, Proc. SPIE 2475, 487
+1 2000A&AS..146..519M -- Miville-Desch.enes, M.-A., Boulanger, F. Abergel, A. & Bernard, J.-P., 2000, A&A Supplement 146, 519
+0 ................... -- Valentijn, E. A. & Thi, W. F., 2000, Experimental Astronomy, 10, 215 12

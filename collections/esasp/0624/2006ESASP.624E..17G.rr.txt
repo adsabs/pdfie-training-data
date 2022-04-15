@@ -1,0 +1,57 @@
+---<2006ESASP.624E..17G>---
+0 ................... -- Alexander, D. & Ferguson, J. 1995, private
+1 1994ApJ...437..879A -- communication Alexander, D. & Ferguson, J. 1994,, ApJ, 437, 879
+1 1973asqu.book.....A -- Allen, C.W. 1973, Astrophysical Quantities, 3rd Edition (London, Athlone Press), 169
+0 ................... -- Angulo, C. et al. 1999, Nucl. Phys. A, 656, 3Antia, H.M. 1998, A&A, 330, 336
+1 2005ApJ...620L.129A -- Antia, H.M. & Basu, S. 2005,, ApJ, 620, L129
+1 2006ApJ...644.1292A -- Antia, H.M. & Basu, S. 2006,, ApJ, 644, 1292
+1 2005ASPC..336...25A -- Asplund, M., Grevesse N., & Sauval, A.J. 2005a, ASPC, 336, 25 (AGS05)
+1 2005astro.ph.10377A -- Asplund, M., Grevesse, N., Gudel, M., & Sauval, J. 2005b, astro-ph/0510377, submitted to Nature
+1 2005MNRAS.360..458B -- Badnell, N.R., Bautista, M.A., Butler, K., Delahaye, F., Mendoza, C., Palmeri, P., Zeippen, C.J., & Seaton, M.J. 2005,, MNRAS, 360, 458
+0 ................... -- Bahcall, J.N., Basu, S., Pinsonneault, M.H., & Serenelli, A.M. 2005,, ApJ, 618, 1049Bahcall, J.N., Basu, S., & Serenelli, A.M. 2005,, ApJ, 631, 1281
+1 2004PhRvL..92l1301B -- Bahcall, J.N & Pinsonneault, M.H. 2004, Phys. Rev. Lett., 92, 121301
+0 ................... -- Bahcall, J.N., Serenelli, A.M., & Pinsonneault, M.H. 2004,, ApJ, 614, 464Bahcall, J.N., Serenelli, A.M., & Basu, S. 2005,, ApJ, 621, L85Basu, S. 1997,, MNRAS, 288, 572Basu, S. 1998,, MNRAS, 298, 719
+1 2004ApJ...606L..85B -- Basu, S. & Antia, H.M. 2004a,, ApJ, 606, L85
+0 ................... -- Basu, S. & Antia, H.M. 2004b, in Helio- and
+5 2004ESASP.529.1084A -- Asteroseismology, Towards a Golden Future, proc. SOHO14/GONG 2004 Workshop, ed. D. Danesy, ESA SP-559, p. 317 Basu, S., Pinsonneault, M.H., & Bahcall, J.N. 2000,, ApJ, 529, 1084
+1 1958ZA.....46..108B -- Bohm-Vitense, E. 1958, Zeitschrift fur Astrophysik, 46, 108
+1 2003ApJ...583.1004B -- Boothroyd, A.I. & Sackmann, I.-J. 2003,, ApJ, 583, 1004
+1 1998ApJ...500L.195B -- Brown, T.M. & Christensen-Dalsgaard, J. 1998,, ApJ, 500, L195
+1 1969fecg.book.....B -- Burgers, J.M. 1969, Flow Equations for Composite Gases, New York, AcademicCastro, M., Vauclair, S., and Richard, O. 2006, A&A, in
+1 1998MNRAS.300.1077C -- preparation Chaplin, W.J., Elsworth, Y., Isaak, G.R., Lines, R., McLeod, C.P., Miller, B.A., & New R. 1998,, MNRAS, 300, 1077
+1 1992A&ARv...4..267C -- Christensen-Dalsgaard, J. & Dappen, W. 1992, A&A Rev., 4, 267 (CEFF)
+5 1986CODAB..63....1C -- Cohen, E.R. & Taylor, B.N. 1986, Codata Bulletin, 63 (Boulder, NBS), 1
+1 1989ApJ...342.1187C -- Cox, A.N., Guzik, J.A., & Kidman, R.B. 1989,, ApJ, 342, 1187 (CGK89).
+1 1988ApJ...332..261D -- Dappen, W., Mihalas, D., Hummer, D.G., & Mihalas, B. 1988,, ApJ, 332, 261 (MHD)
+1 2005astro.ph.11779D -- Delahaye, F. & Pinsonneault, M.H. 2005, astro-ph/0511779
+1 2005Natur.436..525D -- Drake, J.J. & Testa, P. 2005,, Nature, 436, 525
+1 2005ApJ...623..585F -- Ferguson, J.W., Alexander, D.R., Allard, F., Barman, T., Bodnarik, J., Hauschildt, P.H., Heffner-Wong, A., Tamanai, A. 2005,, ApJ, 623, 585
+1 2001SoPh..200..361G -- Garcia, R.A., et al. 2001, Sol. Phys., 200, 361
+1 1993oee..conf...15G -- Grevesse, N. & Noels, A. 1993, in Origin and Evolution of the Elements, Cambridge U. Press, 15 (GN93)
+1 1998SSRv...85..161G -- Grevesse, N. & Sauval, A.J. 1998, Spa. Sci. Rev., 85, 161 (GS98)
+1 2006JPhA...39.4459G -- Gryaznov, V.K., Ayukov, S.V., Baturin, V.A., Iosilevskiy, I.L., Starostin, A.N., & Fortov, V.E. 2006, J. Phys. A., Math. Gen. 39, 4459
+1 1992ApJ...387..372G -- Guenther, D.B., Demarque, P., Kim, Y.C., & Pinsonneault, M.H. 1992,, ApJ, 387, 372
+1 1996BASI...24..161G -- Guzik, J.A., Cox, A.N., & Swenson, F.J. 1996, Bull. Ast. Soc. India, 24, 161
+0 ................... -- Guzik, J.A. & Watson, L.S. 2004, in Helio- and
+5 2004ESASP.559..456G -- Asteroseismology, Towards a Golden Future, proc. SOHO14/GONG 2004 Workshop, ed. D. Danesy, ESA SP-559, 456
+1 2005ApJ...627.1049G -- Guzik, J.A., Watson, L.S., & Cox, A.N. 2005,, ApJ, 627, 1049
+1 2006MmSAI..77..389G -- Guzik, J.A., Watson, L.S., & Cox, A.N. 2006, Mem. S.A. It., 77, 389
+1 1997ApJ...491..967G -- Guzik, J.A. & Swenson, F.J. 1997,, ApJ, 491, 967
+1 1996ApJ...464..943I -- Iglesias, C. & Rogers, F.J. 1996,, ApJ, 464, 943
+1 2005ApJ...623..556L -- Lin, C.-H. & Dappen, W. 2005,, ApJ, 623, 556Lodders, K. 2003,, ApJ, 591, 1220
+0 ................... -- Montalban, J., Miglio, A., Noels, A., Grevesse, N., & Di Mauro, M.P. 2004, in Helio- and Asteroseismology,
+5 2004ESASP.559..574M -- Towards a Golden Future, proc. SOHO14/GONG2004 Workshop, ed. D. Danesy, ESA SP-559, 574
+0 ................... -- Montalban, J., Miglio, A., Theado, S., Noels, A., & Grevesse, N. 2006, Comm.. in Asteroseismology,
+1 2001ApJ...561..450N -- 147, 80 Neuforge-Verheecke, C., Guzik, J.A., Keady, J.J., Magee, N.H., Bradley, P.A., & Noels, A. 2001,, ApJ, 561, 450
+5 2006app..conf..286P -- Pinsonneault, M. & Delahaye, F. 2006, astro-ph/0606077Press, W.H. 1981,, ApJ, 245, 286
+0 ................... -- Press, W.H. & Rybicki, G.B. 1981,, ApJ, 248, 751Rempel, M. 2004,, ApJ, 607, 1046Rogers, F.J., Swenson, F.J., & Iglesias, C.A. 1996,, ApJ, 456, 902.
+1 2005ApJ...634L.197S -- Schmelz, J.T., Nasraoui, K., Roames, J.K., Lippner, L.A., & Garst, J.W. 2005,, ApJ, 634, L197
+5 1996MEdRJ........2S -- Schou, J., & Tomczyk, S. 1996, m2 table, http, //www.hao.ucar.edu/public/research/mlso/LowL/da
+5 1998ApJ...489L.197T -- ta.html Schou, J., Kosovichev, A.G., Goode, P.R., & Dziembowski, W., 1998,, ApJ, 489, L197
+1 2004MNRAS.354..457S -- Seaton, M.J. & Badnell, N.R. 2004,, MNRAS, 354, 457
+0 ................... -- Serenelli, A.M., Bahcall, J.N., Basu, S., & Pinsonneault, M.H. 2004, in Helio- and Asteroseismology,
+5 2004ESASP.559..623S -- Towards a Golden Future, proc. SOHO14/GONG 2004 Workshop, ed. D. Danesy, ESA SP-559, 623
+1 1994ApJ...421..828T -- Thoul, A.A., Bahcall, J.N., & Loeb, A. 1994,, ApJ, 421, 828
+1 1998ApJ...504..539T -- Turcotte, S., Richer, J., Michaud, G., Iglesias, C.A., & Rogers, F.J. 1998,, ApJ, 504, 539
+0 ................... -- Turck-Chieze, S., Couvidat, S., Piau, L., Ferguson, J., Lambert, P., Ballot, J., Garcia, R.A., & Nghiem, P. 2004, Phys. Rev. Lett., 93, 211102Turck-Chieze, S., Couvidat, S., & Piau, L. 2005, EAS Publication Series, 17, 149
+5 1986sis..book...45W -- Willson, R.C., Hudson, H.S., Frolich, C., & Brusa, R.W. 1986, Science, 234, 1114Young, P.R. 2005, A&A, 444, L45

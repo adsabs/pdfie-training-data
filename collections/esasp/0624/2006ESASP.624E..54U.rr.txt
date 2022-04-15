@@ -1,0 +1,13 @@
+---<2006ESASP.624E..54U>---
+1 1994ApJ...425..303C -- Canuto, V.M., Minotti, F.O., & Schilling, J.L., 1994, ApJ 425, 303
+5 2003RvMP..........C -- Christensen-Dalsgaard, J., 2003, Rev.Mod.Phys. 74,
+1 2006ApJ...638..576G -- Gonzalez Hernandez, I., Komm, R., Hill, F., Howe, R., Corbard, T., & Haber, D.A., 2006, ApJ 638, 576
+1 2002ApJ...570..855H -- Haber, D. A., Hindman, B. W., Toomre, J., Bogart, R. S., Larsen, R. M., & Hill, F. 2002,, ApJ, 570, 855
+1 1996ApJ...464..943I -- Iglesias, C.A., & Rogers, F.J., 1996, ApJ 464, 943
+1 2004ApJ...605..554K -- Komm, R. W., Corbard, T., Durney, B. R., Gonzalez Hernandez, I., Hill, F., Howe, R., & Toner, C. 2004,, ApJ, 605, 554
+1 2005ASPC..346...33K -- Komm, R., Howe, R., Gonzalez Hernandez, I., Hill, F., & Toner, C. 2005, ASP Conf. Ser. 346, Large-scale Structures and their Role in Solar Activity, 346, 33
+5 2006ESASP.617...12K -- Komm, R., Howe, R., Hill, F., Miesch, M., Haber, D., & HIndman, B. 2006, SOHO-17, 10 years of SOHO and Beyond, Ed. H. Lacoste, ESA Special Publication SP-617, p12
+1 1988JCoPh..77..439S -- Shu, C.W., & Osher, S., 1988, JCP 77, 439
+1 2006ApJ...642.1246S -- Stein, R.F., & Nordlund, A., 2006, ApJ 642, 1246
+0 ................... -- Yee, H.C., Kloppfer, G.H., & Montagne, J.L., 1990,
+0 ................... -- , 31

@@ -1,0 +1,19 @@
+---<2006ESASP.624E.103J>---
+1 2000ApJ...543..472K -- Komm, R., Howe, R. & Hill, F., 2000, ApJ 543, 1272
+1 2003SoPh..213..257J -- Jain, K. & Bhatnagar, A., 2003, Solar Phys. 213, 257
+1 2006MNRAS.369..933H -- Howe, R. Chaplin, W. J., Elsworth, Y. Hill, F.,Komm, R., Isaak, G.R. & New, R., 2006, MNRAS 369, 933
+1 2006ESASP.624E..93T -- Tripathy, S. C., Hill, F., Jain, K. & Leibacher, J., 2006, these proceedings
+1 2004ESASP.559...61R -- Reiter, J., Rhodes, Jr., E. J., Kosovichev, A. G. & Schou, J., 2004, in SOHO14/GONG2004, Helioand Asteroseismology, Towards a Golden Future, ed. D. Danesy (ESA SP-559, Noordwijk,ESA), 61
+5 2001ApJ.....0..563R -- Rajaguru, P., Basu, S.& Antia, H. M., 2001, ApJ 563,
+1 2004ApJ...608..562H -- Howe, R., Komm,R.W., Hill, F., Haber, D.A. & Hindman, B.W., 2004, ApJ 608, 562
+1 2001ESASP.464..183B -- Basu, S., Antia, H.M. & Bogart, R.S., 2000, in SOHO10/GONG2000, Helioand Asteroseismology at the Dawn of the Millennium, (ESA SP-464, Noordwijk,ESA), 183
+1 1998ESASP.418..311R -- Rhodes, Jr., E. J., Reiter, J., Kosovichev, A. G., Schou, J., Scherrer, P.H., Rose, P.J., Irish, S. & Jones, A. R., 1998, in SOHO6/GONG98, Structure and Dynamics of the Interior of the Sun and Sun-like Stars, ed. S.G. Korzennik and A. Wilson (ESA SP-418, Noordwijk,ESA), 311
+1 1996Sci...272.1292H -- Hill, F., Stark, P. B., Stebbins, R. T., Anderson, E. R., Antia, H. M., Brown, T. M., Duvall, T. L., Jr., Haber, D. A., Harvey, J. W., Hathaway, D. H., Howe, R., Hubbard, R., Jones, H. P., Kennedy, J. R., Korzennik, S. G., Kosovichev, A. G.; Leibacher, J. W. et al., 1996, Science, 272, 1292
+1 2004SoPh..220..317F -- Finsterle, W., Jefferries, S. M., Cacciani, A., Rapex, P., Giebink, C., Knox, A. & Dimartino, V, 2004, Solar Phys. 220, 317
+1 1988ApJ...333..996H -- Hill, F., 1988, ApJ 333, 996
+1 2002ApJ...570..855H -- Haber, D., Hindman, B.W., Toomre, J., Bogart, R.S., Larsen, R.M. & Hill, F., 2002, ApJ 570, 885
+1 1999ApJ...525..517B -- Basu, S.& Antia, H. M., 1999, ApJ 525, 517
+1 1998ApJ...505L..51N -- Nigam, R. & Kosovichev, A.G., 1998, ApJ 505, L51
+1 2000SoPh..192..363H -- Hindman, B.W., Haber, D.,Toomre & Hill, F., 2000, Sol Phys. 192, 363
+0 ................... -- Salabert, D., Fossat, E., Gelley, B. Tomczyk, S.
+1 2002A&A...390..717S -- et al., 2002, A&A 390, 717

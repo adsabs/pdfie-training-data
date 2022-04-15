@@ -1,0 +1,24 @@
+---<2006ESASP.624E..61Z>---
+1 2005ApJS..158..217C -- Couvidat, S., Gizon, L., Birch, A. C., Larsen, R. M. and Kosovichev, A. G.  . -- Astrophys.J. 158, 217-229. (2005)
+1 1993Natur.362..430D -- Duvall, T. L., Jefferies, S. M., Harvey, J. W. and Pomerantz, M. A.  . Nature 362, 430-432. (1993)
+1 1997SoPh..170...63D -- Duvall, T. L. et al  . Sol.Phys 170, 63-73. (1997)
+1 2005LRSP....2....6G -- Gizon, L. and Birch, A. C.  . Living Reviews in Solar Physics 2, 6-+. (2005)
+1 2001PhDT........11J -- Jensen, J.  . Ph.D. thesis. Univ. Aarhus. (2001)
+1 1998ESASP.418..635J -- Jensen, J., Jacobsen, B.H., & Christensen-Dalsgaard, J.  . in Proc SOHO 6/GONG98 Workshop, ed. S.Korzennik & A.Wilson. (ESA SP-418) (Noordwijk,ESA) , 635. (1998)
+5 2003AstL....5..461J -- Jensen, J. and Pijpers, F. P.  . A & A L5, 461. (2003)
+5 1997scor.proc...96K -- Kosovichev, A. G. and Duvall, T. L.  . In F. P. Pijpers, J. Christensen-Dalsgaard and C. S. Rosenthal, eds., ASSL Vol. 225, SCORe'96 , Solar Convection and Oscillations and their Relationship. (1997)
+1 2000SoPh..192..159K -- Kosovichev, A. G., Duvall, T. L., & Scherrer, P. H.  . Sol.Phys., 192, 159. (2000)
+1 2006ESASP.624E..60K -- Korzennik, S. G.   this volume. (2006)
+0 ................... -- NOAA # CR # AR History 0-crossing min(c/c) max(c/c) Comment
+0 ................... -- 7973 1910 new 2.47 -0.282 0.106
+0 ................... -- 8038 1922 new 2.11 -0.219 0.091 appearing
+5 1964oaaf.conf61965. -- 9056 1964 NOAA9017 CR1963 2.12 -0.176 0.078 # 9096CR1965
+0 ................... -- 9138 1966 NOAA9100 CR1965 2.06 -0.177 0.073
+5 1966oaaf.conf11968. -- 9142 1966 NOAA9105 CR1965 2.03 -0.141 0.077 # 9201CR1968
+0 ................... -- 9779 1985 new 2.35 -0.252 0.094
+0 ................... -- Tab. 2, Properties of the Active Regions. Zero-crossing depth, i.e. the depth where c/c changes from
+0 ................... -- negative to positive, is given in megameters.
+5 1989CBOAA.....8038F -- Fig. 4, Sound speed perturbation cut at z = 0.36Mm for (top row, left to right) NOAA7973, NOAA8038,
+5 1989CBOAA.....9779N -- NOAA9056, (bottom, left to right) NOAA9138, NOAA9142, NOAA9779.
+5 1989CBOAA.....8038F -- Fig. 5, Sound speed perturbation cut at z = 6.41Mm for (top row, left to right) NOAA7973, NOAA8038,
+5 1989CBOAA.....9779N -- NOAA9056 and (bottom, left to right) NOAA9138, NOAA9142, NOAA9779.

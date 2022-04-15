@@ -1,0 +1,8 @@
+---<2003eida.conf..225V>---
+1 1989ApJ...338..841G -- Garwood, R., & Dickey, J., 1989, ApJ 338, 841
+1 1994A&A...290..259G -- Greaves, J.S. & Williams, P.G., 1994, A&A 290, 259
+0 ................... -- Kaufman, M., Wolfire, M., Hollenbach, D., Luhman, D., 1999, ApJ 527, 795 Luhman, M., Satyapal, S., Fischer, J., Wolfire, M., et al., 1998, ApJ 504, L11
+1 1997ApJ...491L..27M -- Malhotra, S., Helou, G., Stacey, G., Hollenbach, D., et al., 1997, ApJ 491, L27
+0 ................... -- Usuda, K., Hasegawa, T. and White, G., in preparation Vastel, C., Caux, Ceccarelli, C., et al., 2000, A&A 357, 994
+1 2001A&A...376.1064V -- Vastel, C., Spaans, M., Ceccarelli, C., Tielens, X., Caux, E., 2001, A&A 376, 1064
+0 ................... -- Vastel, C., Polehampton, E., Baluteau, J.P., et al., to be published in ApJ in december 2002 Zmuidzinas, J., 1987, PhD Thesis GALAXIES

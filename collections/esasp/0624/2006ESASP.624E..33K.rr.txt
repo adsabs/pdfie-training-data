@@ -1,0 +1,13 @@
+---<2006ESASP.624E..33K>---
+1 2006MNRAS.365..153C -- Cunha, M. S. 2006,, MNRAS, 365, 153
+1 1998MNRAS.301...31G -- Gautschy, A., Saio, H., & Harzenmoser, H. 1998,, MNRAS, 301, 31
+1 2006A&A...446.1051K -- Kochukhov, O. 2006, A&A, 446, 1051
+1 2004A&A...424..935K -- Kochukhov, O., Drake, N. A., Piskunov, N. de la Reza, R., 2004, A&A, 424, 935
+0 ................... -- Kurtz, D. W., Elkin, V. G., Cunha, M., Mathys, G., Hubrig, S., Wolff, B., Savanov, I., 2006,, MNRAS, in press Figure 1. HD 9289, V = 9.38
+0 ................... -- P = 10.5 min; B = 3.5 mmag; H2 eff 1/2 = 0.22kG.
+5 2005EAS.........91K -- Kurtz, D. W., Elkin, V. G., & Mathys, G. 2005c, EAS Publication Series, 17, 91
+1 2006MNRAS.370.1274K -- Kurtz, D. W., Elkin, V. G., & Mathys, G. 2006,, MNRAS, 370, 1274
+1 2005MNRAS.360.1022S -- Saio, H. 2005,, MNRAS, 360, 1022
+1 2004MNRAS.350..485S -- Saio, H., & Gautschy, A. 2004,, MNRAS, 350, 485 Figure 2. HD 12932, V = 10.25
+0 ................... -- P = 11.6min; B = 4 mmag; H2 eff 1/2 = 0.53 kG. Figure 3. HD 19918, V = 9.34; P = 14.5min; B = 2 mmag; H2 eff 1/2 = 0.80 kG. Figure 4. HD 60435, V = 8.89; P = 11.4 - 23.5 min (multiperiodic); B = 16mmag; H2 eff 1/2 = 0.48kG. Figure 5. HD 99563, V = 8.16; P = 10.7min; B =
+0 ................... -- 10 mmag; H2 eff 1/2 = 0.57kG. Figure 6. HD 101065, V = 7.99; P = 12.1min; B = 13 mmag; Hs = 2.3 kG; H2 eff 1/2 = 1.22 kG. Figure 7. HD 122970, V = 8.31; P = 11.1min; B = 2 mmag; H2 eff 1/2 = 0.29 kG. Figure 8. HD 128898, V = 3.20; P = 6.8 min; B = 5 mmag; H2 eff 1/2 = 0.20 kG. Figure 9. HD 134214, V = 7.46; P = 5.65min; B = 7 mmag; Hs = 3.1 kG; H2 eff 1/2 = 0.40kG. Figure 10. HD 137949, V = 6.67; P = 8.3 min; B = 3 mmag; Hs = 4.7 kG; H2 eff 1/2 = 1.60kG.

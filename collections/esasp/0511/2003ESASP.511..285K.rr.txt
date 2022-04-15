@@ -1,0 +1,11 @@
+---<2003eida.conf..285K>---
+1 1996A&A...315L..71B -- Bogun, S., Lemke, D., Klaas, U. et al., 1996, A&A 315, L71
+1 1998AJ....116.2682C -- Condon, J.J., Yin, Q.F., Thuan, T.X. et al., 1998, ApJ 116, 2682
+5 2000A&AS....0....2C -- Cutri, R. M., et al. 2000, Explanatory Supplement to the 2MASS Sec-
+0 ................... -- ond Incremental Data Release Genzel, R., Tacconi, L., Rigopoulou, D., 2001, ApJ 563, 527Klaas, U. et al., 2001, A&A 379, 823Kennicutt, R., 1998, ARA&A 36, 189Lemke, D. et al, 1996, A&A 315, L64
+1 2000MNRAS.312..433L -- Lisenfeld, U. et al, 2000,, MNRAS, 312, 433
+1 1996ApJS..106..341M -- Moran, E. et al., 1996, ApJSS 106, 341
+1 1996ARA&A..34..749S -- Sanders, D. & Mirabel, I., 1996, ARA&A, 34, 749
+1 1997ApJ...478..144S -- Solomon, P.M., Downes, D., Radford, S.J.E. et al. 1997,, ApJ, 478, 144
+1 2003eida.conf..169S -- Stickel, M., Lemke, D., Klaas, U., Krause, O. et al., 2002, this volume
+1 1999ApJ...522..113V -- Veilleux, S., Kim, D., Sanders, D., 1999, ApJ 522, 113 288

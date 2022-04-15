@@ -1,0 +1,11 @@
+---<2003eida.conf..159O>---
+0 ................... -- Astrometric Standards, U.S. Naval Observatory Flagstaff Station (USNOFS) and Universities Space Research Association (USRA) stationed at USNOFS, 1998 Moshir, M., Copan, G., Conrow, T., et al., IRAS Faint Source Catalog,
+0 ................... -- b 10 Degrees, Version 2.0, IPAC, 1989 Ott, S., PhD Thesis, Universit'e Paris 6
+1 1989A&AS...80..299P -- Paturel G., Fouque P., Bottinelli L., et al.,2002, A&AS 80, 299
+0 ................... -- Pearson, C. & Rowan-Robinson, M.,, MNRAS,1989, 283, 175
+1 1995AAS...187.7507S -- Skrutskie, M.F., Beichman, C., Capps, R., et al.,1996, AAS, 187, #75.07
+1 2000MNRAS.316..768S -- Serjeant, S., Oliver, S., Rowan-Robinson, M., et al.,1995,, MNRAS, 316, 768
+5 2000A&A...169L1996S -- Siebenmorgen, R., Abergel, A., Altieri, B., et al.,2000, A&A 315, L169, 1996
+1 2003eida.conf..169S -- Stickel, M., Lemke, D., Klaas, U., et al., 2002, this volume
+1 1999A&A...349..389V -- Voges W., Aschenbach B., Boller T., et al., A&A 349, p. 389-405, 1999
+0 ................... -- Voges W., Aschenbach B., Boller T., et al., ROSAT All-Sky Survey Faint source catalogue (RASS-FSC), Max-Planck-Institut f&Dot;ur ex- traterrestrische Physik, Garching, 2000

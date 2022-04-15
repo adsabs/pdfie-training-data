@@ -1,0 +1,35 @@
+---<2003eida.conf..251L>---
+0 ................... -- Alexander D.M., et al. 1999,, MNRAS, 310, 78Chiar J., et al. 2000,, ApJ, 537, 749
+1 2000A&A...357..839C -- Clavel J., et al. 2000, A&A, 357, 839
+1 2003eida.conf..279C -- Contursi A., et al. 2002, this proceedings
+1 1999ESASP.427..631C -- Cox P., et al. 1999, in: The universe as seen by ISO, eds. P. Cox and M.F. Kessler, ESA-SP 427, p.631
+0 ................... -- Fischer J. 2001, in: The Promise of the Herschel Space Observatory,
+5 2001ApJ...552..544F -- eds. G.L.Pilbratt et al., ESA-SP460, p. 131 F&Dot;orster-Schreiber N., et al. 2001,, ApJ, 552, 544
+1 2002ApJ...566..880G -- Giveon U., et al. 2002,, ApJ, 566, 880
+1 1998ApJ...498..579G -- Genzel R., et al. 1998,, ApJ, 498, 579
+0 ................... -- Haas M., Klaas U., Bianchi S. 2002, A&A, 385, L23Helou G., et al. 2000,, ApJ, 532, L21
+1 2001ApJ...548L..73H -- Helou G., Malhotra S., Hollenbach D.J., Dale D.A., Contursi A. 2001,, ApJ, 548, L73
+1 2001ApJ...553..121H -- Hunter D.A., et al. 2001,, ApJ, 553, 121
+0 ................... -- Laurent O., et al., 2000, A&A, 359, 887 Le Floc'h E., et al. 2001, A&A, 367, 487
+1 1998ApJ...504L..11L -- Luhman M., et al. 1998,, ApJ, 504, L11
+0 ................... -- Luhman M., et al. 2002,, ApJ, submittedLutz D., et al. 1998,, ApJ, 505, L103
+1 1997ApJ...483..200M -- Madden S.C. et al., 1997,, ApJ, 483, 200
+1 1997ApJ...491L..27M -- Malhotra S., et al. 1997,, ApJ, 491, L27
+1 2002A&A...381..606M -- Martin-Hernandez N.L., et al. 2002, A&A, 381, 606
+1 1998A&A...333L...1M -- Mirabel I.F., et al., 1998, A&A, 331, L1
+1 1999A&A...341..667M -- Mirabel I.F., et al. 1999, A&A, 341, 667
+1 1999ESASP.427..825M -- Moorwood A.F.M., 1999, in: The Universe as seen by ISO, eds. P.Cox, M.F.Kessler, ESA-SP427, p. 825
+1 2001A&A...375..161P -- Pauldrach A.W.A., Hoffmann T.L., Lennon M., 2001, A&A, 375, 161
+1 2002A&A...381..571P -- Peeters E., et al. 2002, A&A, 381, 571
+1 1999AJ....118.2625R -- Rigopoulou D., et al. 1999, AJ, 118, 2625
+1 2002A&A...389..374R -- Rigopoulou D., Kunze D., Lutz D., Genzel R., Moorwood A.F.M. 2002, A&A, 389, 374
+1 2001A&A...372..427R -- Roussel H., Sauvage M., Vigroux L., Bosma A. 2001, A&A, 372, 427 256
+1 2000A&A...357..898S -- Spoon H.W.W., Koornneef J., Moorwood A.F.M., Lutz D., Tielens A.G.G.M. 2000, A&A, 357, 898
+1 2001A&A...365L.353S -- Spoon H.W.W., et al. 2001, A&A, 365, L353
+0 ................... -- Spoon H.W.W., et al. 2002, A&A, 385, 1022Sturm E., et al. 2000, A&A, 358, 481
+1 2002astro.ph..7381S -- Sturm E., et al. 2002, A&A, in press (astro-ph/0207381)
+1 2000ApJ...539..641T -- Thornley M.D., et al. 2000,, ApJ, 539, 641
+0 ................... -- Thuan T.X., Sauvage M., Madden S., 1999, A&A, 516, 783Tran D., et al., 2001,, ApJ, 552, 527
+1 1987ApJS...63..295V -- Veilleux S., Osterbrock D.E. 1987,, ApJS, 63, 295
+1 2003eida.conf..301V -- Verma A., et al., 2002, this proceedings
+1 1992ks3..book.....V -- Voit G.M. 1992a,, MNRAS, 258, 841 Voit G.M. 1992b,, ApJ, 399, 495

@@ -1,0 +1,17 @@
+---<2003eida.conf...93T>---
+1 1965ApJ...141..116D -- Danielson, R. E., Woolf, N. J., Gaustad, J. E. 1965, ApJ 141, 116
+1 1996A&A...315L..49D -- de Graauw, Th., Haser, L. N., Beintema, D. A., et al. 1996, A&A 315, L49
+1 1998A&A...330L..17J -- Jasttanont, K., Feuchtgruber, H., de Jong, T., et al. 1998, A&A 330, L17
+1 1998Sci...279..844J -- Jennings, D. E., Sada, P. V. 1998, Science 279, 844
+1 1996A&A...315L..27K -- Kessler, M. F., Steinz, J. A., Anderegg, M. E., et al. 1996, A&A 315, L27
+1 1999A&A...348..579M -- Matsuura, M., Yamamura, I., Murakami, H., et al. 1999, A&A 348, 579
+1 1980ApJ...235..126R -- Ridgway, S. T., Joyce, R. R., White, N. M., Wing, R. F. 1980, ApJ 235, 126
+0 ................... -- Rothman, L. S. 1997, High-temperature molecular spectroscopic database (CD-ROM) (Andover: ONTAR Co.)Russell, H. N. 1934, ApJ 79, 317
+0 ................... -- Ryde, N., Lambert, D., Richter, M. J., Lacy, H. 2002, preprint (astro-ph 0207368)
+0 ................... -- Strecker, D. W., Erickson, E. F., Witteborn, F. C. 1979, ApJS 41, 501Tsuji, T. 1978, A&A 62, 29Tsuji, T. 2000a, ApJ 538, 801Tsuji, T. 2000b, ApJ 540, L99Tsuji, T. 2001, A&A 376, L1
+1 1997A&A...320L...1T -- Tsuji, T., Ohnaka, K., Aoki, W., Yamamura, I. 1997, A&A 320, L1
+1 1998Ap&SS.255..293T -- Tsuji, T., Ohnaka, K., Aoki, W., Yamamura, I. 1998, Ap&SS 255, 293
+1 1999ESASP.427..229T -- Tsuji, T., Aoki, W., Ohnaka, K. 1999, ESA SP-427 229
+1 1970ApJ...159..973W -- Wing, R. F., Spinrad, H. 1970, ApJ 159, 973
+1 1964ApJ...140..833W -- Woolf, N. J., Schwarzschild, M., Rose, W. K. 1964, ApJ 140, 833
+1 1999A&A...341L...9Y -- Yamamura, I., de Jong, T., Onaka, T., et al. 1999, A&A 341, L9

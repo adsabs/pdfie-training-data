@@ -1,0 +1,22 @@
+---<2006ESASP.624E.101S>---
+5 1990SoPh.......128B -- Balmforth N.J., Gough D.O., 1990, Sol.Phys., 128,
+1 1990ApJ...362..256B -- Balmforth N.J., Gough D.O., 1990,, ApJ, 362, 256
+1 1992MNRAS.255..639B -- Balmforth N.J., 1992,, MNRAS, 225, 639
+1 1997MNRAS.287...51C -- Chaplin W.J., Elsworth Y.P., Howe R., Isaak G.R., McLeod C.P., Miller B.A., New R., 1997,, MNRAS, 287, 51-56
+1 1998A&A...339..261F -- Foglizzo T., 1998, A&A, 339, 261-271
+1 1998ApJ...504L..51G -- Garcia R.A., 1998,, ApJ, 504, L51
+1 1977ApJ...211..934G -- Goldreich P., Keeley D.A., 1977,, ApJ, 211, 934
+1 1990ApJ...363..694G -- Goldreich P., Kumar P., 1988,, ApJ, 363, 694
+1 1990ApJ...363..694G -- Goldreich P., Kumar P., 1990,, ApJ, 363, 694
+1 1994ApJ...424..480G -- Goldreich, P., Murray N., Kumar P., 1994,, ApJ, 424, 480
+1 1999MNRAS.303L..63G -- Gavryuseva E.A., Gavryusev V.G., 1999,, MNRAS, 303, L63
+1 1996ApJ...456..399J -- Jain R. & Roberts B., 1996,, ApJ, 456, 399
+1 2005ApJ...623.1215J -- Jimenez A., Jimenez-Reys S.; Garcia R., 2005,, ApJ, 623, 1215-1220
+1 1998Natur.393..317K -- Kosovichev A.G., Zharkova V.V., 1998,, Nature, 393, 317
+1 1981SoPh...74...43I -- Isaak G.R., 1981, Sol.Phys, 74, 43
+1 1999A&A...341..625P -- Palle P.L., Regulo Roca T., Garcia R.A., Jimenez A., Boumier P., Gabriel A., Grec G., Ropbillot J.M., Turck-Chieze S., Ulrich R.K., and SOI Team, 1999, A&A, 341, 625-633
+1 2001A&A...370..136S -- Samadi R., Goupil M.J., 2001, A&A, 370, 136-146
+1 2001A&A...370..147S -- Samadi R., Goupil M.J., Lebreton Y., 2001, A&A, 370, 147-156
+1 2004ApJ...616..594S -- Simoniello R., Chaplin W.J., Elsworth Y.P., Isaak G., New R., 2004,, ApJ, 616, 594S
+1 1972ApJ...176..833W -- Wolff C., 1972,, ApJ, 176, 833
+1 1985Natur.318..449W -- Woodard M.F., Noyes R.W., 1985,, Nature, 318, 449

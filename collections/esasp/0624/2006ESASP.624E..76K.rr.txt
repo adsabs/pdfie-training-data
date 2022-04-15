@@ -1,0 +1,17 @@
+---<2006ESASP.624E..76K>---
+1 1999ApJ...527..445C -- Charbonneau, P., Tomczyk, S., Schou, J., & Thompson, M. J. 1998,, ApJ, 527, 445
+0 ................... -- Schatzman, F. D. 1993, The stars (Springer-Verlag, Berlin; London)
+1 2004MPLB...18...11K -- Kim, E. 2004, Mod. Phys. Lett. B, 18, 1
+1 2005A&A...441..763K -- Kim, E. 2005, A&A, 441, 763
+1 2006PhRvL..96h4504K -- Kim, E. 2006, Phys. Rev. Lett., 96, 084504
+0 ................... -- Leprovost, N., & Kim, E. 2006, A&A, in press
+1 1978cup..book.....L -- Lighthill, M. J. 1978, Waves in Fluids (Cambridge, Cambridge Univ. Press)
+1 1977JAtS...34.1847P -- Plumb, R. A. 1977, J. Atmos. Sci., 34, 1847
+1 2001ApJ...556L.117K -- Kim, E., & MacGregor, K. B. 2001,, ApJ, 556, L117
+1 2003ApJ...588..645K -- Kim, E., & MacGregor, K. B. 2003,, ApJ, 588, 645
+1 2002ApJ...574L.175T -- Talon, S., Kumar, P., & Zahn, J.-P. 2002,, ApJ, 574, L175
+1 1981ApJ...248..751P -- Press, W. H., & Rybicki, G. B. 1981,, ApJ, 248, 751
+1 1991ApJ...377..268G -- Garcia Lopez, R. J., & Spruit, H. C. 1991, A&A, 377, 268
+5 2005Sci........309C -- Charbonnel, C., & Talon, S. 2005, Science, 309,
+1 2003ApJ...586..663M -- Miesch, M. S. 2003,, ApJ, 586, 663
+1 1997ARA&A..35..557P -- Pinsonneault, M. 1997, Annu. Rev. Astron. Astrophys., 35, 357

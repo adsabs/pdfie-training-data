@@ -1,0 +1,14 @@
+---<2006ESASP.624E..98S>---
+5 1998ibs..symp.3300A -- Appourchaux, T., Gizon, L., & Rabello-Soares, M.- C. 1998, A&AS, 132, 107 Figure 5. Fractional changes in mode height and mode width obtained from 2500 randomized F10.7 samples as a function of the correlation coefficients between the measured and randomized radio flux (top) and between the fill value and the randomized radio flux (bottom), averaged between l = 30 and l = 60 and over 2700 3300 Hz. The squares connected by a solid line correspond to the actual values.
+1 2000MNRAS.313...32C -- Chaplin, W. J., Elsworth, Y., Isaak, G. R., Miller, B. A., & New, R. 2000,, MNRAS, 313, 32
+5 1996Sci........272C -- Christensen-Dalsgaard, J., et al. 1996, Science, 272,
+1 1994ApJ...424..466G -- Goldreich, P., Murray, N., & Kumar, P. 1994,, ApJ, 424, 466
+1 2004ApJ...608..562H -- Howe, R., Komm, R. W., Hill, F., Haber, D. A., & Hindman, B. W. 2004,, ApJ, 608, 562
+5 2000ApJ.....0..531K -- Komm, R. W., Howe, R., & Hill, F. 2000a,, ApJ, 531,
+1 2000ApJ...543..472K -- Komm, R. W., Howe, R., & Hill, F. 2000b,, ApJ, 543,472
+1 2002ApJ...572..663K -- Komm, R., Howe, R., & Hill, F. 2002,, ApJ, 572, 663
+1 2003ApJ...595..446J -- Jimenez-Reyes, S. J., Garcia, R. A., Jimenez, A., & Chaplin, W. J. 2003,, ApJ, 595, 446
+5 1991ApJ.....0..369R -- Ritzwoller, M. H., & Lavely, E. M. 1991,, ApJ, 369,
+1 2003A&A...408..729S -- Salabert, D., Jimenez-Reyes, S. J., & Tomczyk, S. 2003, A&A, 408, 729
+0 ................... -- Salabert, D., Jimenez-Reyes, S. J. 2006,, ApJ, In press
+1 1992PhDT.......380S -- Schou, J. 1992, Ph.D. Thesis, Aarhus Univ.

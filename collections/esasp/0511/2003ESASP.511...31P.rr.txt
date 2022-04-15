@@ -1,0 +1,9 @@
+---<2003eida.conf...31P>---
+0 ................... -- the HIFI Consortium, 2002, Proc. SPIE 4850 (in press)
+5 2002RSPSA.....4850G -- Griffin M.J., Swinyard B.M., Vigroux L.G., 2002, Proc. SPIE 4850
+0 ................... -- (in press) Pilbratt G.L., Cernicharo J., Heras A.M., Prusti T., Harris R. (eds), 2001, ESA SP-460; available online
+0 ................... -- Pilbratt G.L., 2002, Proc. SPIE 4850 (in press)
+0 ................... -- Poglitsch A., Waelkens C., Geis N., 2002, Proc. SPIE 4850 (in press)
+5 ...0............... -- Rowan-Robinson M., Pilbratt G.L., Wilson A. (eds.), 1997, ESA SP- 401
+0 ................... -- Sein E., Toulemont Y., Safa F., Duran M., Deny P., 2002, Proc. SPIE 4850 (in press)
+0 ................... -- Passvogel T., Juillet J.-J., 2002, Proc. SPIE 4850 (in press)

@@ -1,0 +1,16 @@
+---<2006ESASP.624E..90S>---
+1 2001MNRAS.327.1029A -- Antia, H. M., Basu, S., Hill, F., Howe, R., Komm, R. W., & Schou, J. 2001,, MNRAS, 327, 1029
+1 1998A&AS..132..107A -- Appourchaux, T., Gizon, L., & Rabello-Soares, M.- C. 1998, A&AS, 132, 107
+1 1996MNRAS.278..437B -- Balmforth, N. J., Gough, D. O., & Merryfield, W. J. 1996,, MNRAS, 278, 437
+5 1996Sci........272C -- Christensen-Dalsgaard, J., et al. 1996, Science, 272,
+1 1988ApJ...324.1158D -- Duvall, T. L., Harvey, J. W., Libbrecht, K. G., Popp, B. D., & Pomerantz, M. A. 1988,, ApJ, 324, 1158
+1 1999ApJ...524.1084H -- Howe, R., Komm, R., & Hill, F. 1999,, ApJ, 524, 1084
+1 2002ApJ...580.1172H -- Howe, R., Komm, R., & Hill, F. 2002,, ApJ, 580, 1172
+1 1990Natur.345..779L -- Libbrecht, K. G., & Woodard, M. F. 1990,, Nature, 345, 779
+0 ................... -- Jimenez-Reyes, S. J. 2001, Ph.D. Thesis, Univ. La Laguna
+1 2001A&A...379..622J -- Jimenez-Reyes, S. J., Corbard, T., Palle, P. L., Roca Cortes, T., & Tomczyk, S. 2001, A&A, 379, 622
+5 1991ApJ.....0..369R -- Ritzwoller, M. H., & Lavely, E. M. 1991,, ApJ, 369,
+0 ................... -- Salabert, D., & Jimenez-Reyes, S. J. 2006,, ApJ, in press
+1 1992PhDT.......380S -- Schou, J. 1992, Ph.D. Thesis, Aarhus Univ.
+1 1995SoPh..159....1T -- Tomczyk, S., Streander, K., Card, G., Elmore, D., Hull, H., & Cacciani, A. 1995, Sol. Phys., 159, 1
+5 1985Natur......318W -- Woodard, M. F., & Noyes, R. W. 1985,, Nature, 318,

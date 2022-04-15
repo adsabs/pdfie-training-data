@@ -1,0 +1,37 @@
+---<2006ESASP.624E.116N>---
+1 1999A&A...350..617B -- J.-C., Baglin, A., Bertaux, J. L. 1999, A&A, 350, 617
+0 ................... -- Bertello, L., et al. 2000,, ApJ, 535, 1066Carrier, F., Eggenberger, P., & Bouchy. F. 2005, A&A,
+0 ................... -- 434,1085 Chaboyer, B., Demarque, P., & Guenther, D. B. 1999,, ApJ, 525, L41
+1 1995ApJ...443L..29C -- Christensen-Dalsgaard, J., Bedding, T. R. & Kjeldsen, H. 1995,, ApJ, 443, L29
+0 ................... -- Christensen-Dalsgaard, J. 1997, Notes on adiabatic
+5 2005A&A...429L..17C -- oscillation programme, (kindly made available by the author at http,//www.obs.aau.dk/~jcd/adipack.n/)Claudi et al. 2005, A&A, 429, L17
+1 2003ApJ...599.1434C -- Couvidat, S., Turck-Chieze, S., & Kosovichev, A. G. 2003,, ApJ, 599, 1434
+1 2003A&A...404..341D -- Di Mauro, M. P., Christensen-Dalsgaard, J., Kjeldsen, H., Bedding, T. R., Paterno, L. 2003, A&A, 404, 341
+1 2004SoPh..220..185D -- Di Mauro, M. P., Christensen-Dalsgaard, J., Paterno, L., D'Antona, F. 2004, Sol. Phys., 220, 185
+1 2004A&A...422..247E -- Eggenberger, P. Carrier, F., Bouchy, F., Blecha, A. 2004, A&A, 422, 247
+0 ................... -- Eggenberger, P. Carrier, F., Bouchy, F. 2005, New Ast.,
+1 1998ApJ...504L..51G -- 10, 195 Garcia, R. A., Palle, P. L., Turck-Chieze, S., et al. 1998,, ApJ, 504, L51-L54
+1 1996ApJ...456..798G -- Guenther, D. B., & Demarque, P. 1996,, ApJ, 456, 798Guenther, D. B. 2004,, ApJ, 612, 454
+1 2005ApJ...635..547G -- Guenther, D. B., et al. 2005,, ApJ, 635, 547
+5 2001SoPh.......200G -- Garcia, R. A., et al. 2001, Sol. Phys., 200
+1 2004A&A...413..251K -- Kervella, P., Thevenin, F., Morel, P., Berthomieu, G., Borde, P., Provost, J. 2004, A&A, 413, 251
+1 1995AJ....109.1313K -- Kjeldsen, H., Bedding, T. R., Viskum, M., Frandsen, S. 1995, Astron. J., 109 (3), 1313
+1 2003AJ....126.1483K -- Kjeldsen, H. et al. 2003, Astron. J., 126, 1483
+1 1999A&A...351..993M -- Martic, M. et al. 1999, A&A, 351, 993
+0 ................... -- Martic, M., Lebrun, J.-C., Appourchaux, T., & Korzennik, S. G. 2004, A&A, 418, 295Morel, P. 1997, A&AS, 124, 597
+5 2003RSLPS.......12N -- Nghiem, P. A. P. 2003a, in Proc. of SOHO12 /
+5 2002ESASP.517..155G -- GONG+2002 Workshop, ESA SP-517, Local and Global Helioseismology, the Present and Future, ed. H. Sawaya-Lacoste, 155
+5 2003RSLPS.......12N -- Nghiem, P. A. P. 2003b, in Proc. of SOHO12 /
+5 2002ESASP.517..353G -- GONG+2002 Workshop, ESA SP-517, Local and Global Helioseismology, the Present and Future, ed. H. Sawaya-Lacoste, 353
+5 2004sust.conf....1N -- Nghiem, P. A. P., Ballot, J., Piau, L., Turck-Chieze, S. 2004, in Proc. of 1st Eddington workshop, ESA SP-
+0 ................... -- 485, Stellar Structure and Habitable Planet Finding, ed. Favata, F. et al., 377
+1 2006astro.ph..6624N -- Nghiem, P. A. P. 2006, astro-ph/0606624 (Description
+0 ................... -- of Stellar Acoustic Modes with the Local-Wave Concept) Nghiem, P. A. P., Garcia, R. A., Jimenez-Reyes, S. J. 2006, these proceedings, and also on Astro-
+1 2002ESASP.485..309P -- Ph/0608109 (Solar Mean Magnetic Field Near the Surface and its Variation During a Cycle) Provost, J., Martic, M., Berthomieu, G., Morel, P. 2002, in Proc. of 1st Eddington workshop, ESA SP-485, Stellar Structure and Habitable Planet Finding, ed. Favata, F. et al., 309
+0 ................... -- Provost, J., Martic, M., Berthomieu, G. 2004, in Proc. of
+5 2004ESASP.559..594P -- SOHO 14 / GONG 2004 workshop, ESA SP-559, Helio- and Asteroseismology, Towards a Golden Future, ed. Danesy, D., 594
+1 2005MNRAS.362.1031R -- Robinson, F. J., Demarque, P., Guenther, D. B., Kim, Y.-C., & Chan, K. L. 2005, Mon. Not. R. Astron. Soc., 362, 1031
+1 1997SoPh..175..287R -- Rhodes, E. J., Kosovichev, A. G., Schou, J., Scherrer, P. H., Reiter, J. 1997, Sol. Phys., 175, 287
+1 2006ApJ...636.1078S -- Straka, C. W., Demarque, P., Guenther, D. B., Li, L., & Robinson, F. J. 2006,, ApJ, 636, 1078
+1 2005A&A...436..253T -- Thevenin, F., Kervella, P., Pichon, B., Morel, P., Di Folco, E., & Lebreton, Y. 2005, A&A, 436, 253
+1 2001ApJ...555L..69T -- Turck-Chieze, S., Couvidat, S., Kosovichev, A. G., Gabriel, A. H., Berthomieu, G., Brun, A. S., Christensen-Dalsgaard, J., Garcia, R. A., Gough, D. O., Provost, J., Roca-Cortes, T., Roxburgh, I. W., & Ulrich, R. K. 2001,, ApJ, 555, L69

@@ -1,0 +1,9 @@
+---<2003eida.conf..221P>---
+0 ................... -- Epchtein N., et al. 1997, The Messenger, 87, 27Hartigan P. 1993, AJ 105, 1511
+5 1998A&A.....0..337L -- Larson K.A., Whittet D.C.B., Prusti T., Chiar J.E. 1998, A&A 337,
+5 1989lmsf.conf..153M -- 465 Mattila K., Liljestr&Dot;om T., Toriseva M., 1989, in Low Mass Star Formation and Pre-Main Sequence Objects, ed.Reipurth (Garch- ing:ESO), 153
+5 1996apoi.conf..445N -- Nordh L., Olofsson G., Abergel A., et al. 1996, A&A 315, L185Persi P., Marenzi A.R., Kaas A.A., et al., 1999, AJ 117, 445
+1 2000A&A...357..219P -- Persi P., Marenzi A.R.,Olofsson G., et al. 2000, A&A 357, 219
+0 ................... -- Persi P., Marenzi A.R., G'omez M., Olofsson G., et al. 2002, A&A to
+0 ................... -- be submitted Prusti T., Whittet D.C,B., Assendorp R., Wesselius P.R. 1992, A&A 260, 151Schwartz R.D. 1977, ApJS 35, 161
+1 1991A&A...251..524W -- Whittet D.C.B., Assendorp R., Prusti T., et al. 1991, A&A 251, 524

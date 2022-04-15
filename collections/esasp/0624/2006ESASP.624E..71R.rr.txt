@@ -1,0 +1,12 @@
+---<2006ESASP.624E..71R>---
+5 1989hwgb.conf..249U -- Use of uninitialized value in split at /proj/ads/soft/adsperl/lib/perl5/5.8.6/Biblio/Document/Parser/Standard.pm line 249.
+1 1999ApJ...521..885B -- Bhatnagar, A., Jain, K., Thipathy, S.C., 1999, Ap. J. 512, 885
+1 2005ApJ...621L.153B -- Beck, J.G., Giles, P., 2005, Ap. J. 621, L153
+5 2001AGUFM..11..715B -- Bush R.I., Chu, K., Kuhn, J.R., 2001, AGU Fall Meeting, SH11B-0715
+1 2005ApJ...625..548D -- Dziembowski, W.A., Goode, P.R., 2005, Ap. J. 625, 548
+0 ................... -- Giles, P., 1999, PhD thesis, Stanford University, Stanford
+1 2004ApJ...602..481K -- Korzennik, S.G., Rabello-Soares, M.C., Schou, J., 2004, Ap. J. 602, 481
+1 2004ApJ...613.1241K -- Kuhn, J.R. et al., 2004, ApJ 613, 1241
+1 2000SoPh..193..345R -- Rabello-Soares, M.C., Basu, S., Christensen- Dalsgaard, J., Di Mauro, M.P., 2000, Sol. Phys. 193, 345
+5 2005AGUSM..11....8R -- Rabello-Soares, M. C., Korzennik, S.G., Schou, J. 2005, AGU Spring Meeting, SP11B-08
+1 1989ApJ...347.1176W -- Woodard, M.F., 1989, ApJ 347, 1176 A. COMPARISON OF NON-RADIAL DISTOR- TION ESTIMATION Let us compare our model of the image non-radial distor- tion [6] with the one estimated by Kuhn et al. [7] and dis- cuss the differences, in hope of finding a correct model of the image non-radial distortion. It should be noted that these models are based on different observational data. It is believed that the CCD detector is tilted with respect to the focal plane which would explain the near elliptical shape of the solar limb observed by MDI. Both models assume that the detector is tilted by an amount  which results in a distortion that can be expressed as, dx = - 2 4 x +

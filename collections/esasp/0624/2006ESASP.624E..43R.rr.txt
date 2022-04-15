@@ -1,0 +1,13 @@
+---<2006ESASP.624E..43R>---
+1 1993Natur.362..430D -- Duvall T.L., Jefferies S.M., Harvey J.W., Pomerantz M.A., 1993,, Nature, 362, 430
+1 2000SoPh..192..159K -- Kosovichev A.G., Duvall T.L., Scherrer P.H., 2000, Solar Physics 192, 159
+0 ................... -- Giles P., 1999, Probing Flows in the Upper Convection Zone, Ph.D. thesis, Stanford University
+1 2002ApJ...571..966G -- Gizon L., Birch A.C., 2002,, ApJ, 571, 966
+1 2004ApJ...608..580B -- Birch A.C., Kosovichev A.G., Duvall T.L., 2004, ApJ 608, 580
+1 2000SoPh..192..193B -- Birch A.C., Kosovichev A.G., 2000, Solar Physics 192, 193
+5 1996Sci........272C -- Christensen-Dalsgaard J. et al., 1996, Science 272,
+0 ................... -- Dahlen F.A., Tromp J., 1998, Theoretical Global Seismology, Princetion Univ. Press
+1 1991sia..book..401C -- Christensen-Dalsgaard J., Berthomieu G., 1991, in Solar interior and (Univ. Arizona Press), 401
+0 ................... -- Schou J., 2006, private communication
+1 2004ApJ...614..472G -- Gizon L., Birch A.C., 2004,, ApJ, 614, 472
+5 1998GeoJI......133Z -- Zhao L., Jordan T.H., 1998, Geophys. J. Int., 133,

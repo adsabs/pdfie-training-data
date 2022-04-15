@@ -1,0 +1,7 @@
+---<2003eida.conf...69L>---
+1 1998A&A...330.1127H -- Rouzaud J. N., 1998, A&A, 330, 1127
+0 ................... -- J&Dot;ager C., Henning Th., Schl&Dot;ogl R., and Spillecke O., 1999, Journal of Non-Crystalline Solids, 258, 161 Joblin C.,Tielens A., Allamandolla L.J., and Geballe T.,1996,, ApJ,458,610 2001, A&A, 597, 607
+1 1999A&A...350L..35K -- Kwok S., Volk K., and Hrivnak B.J., 1999, A&A, 350, L35
+1 2001ApJ...554L..87K -- Kwok S., Volk K., and Bernath P., 2001,, ApJ, 554, L87
+1 2002ApJS..138...75P -- Pendleton Y.J., and Allamandola L.J., 2002, A&ASS, 138, 75
+1 1999ApJ...519..687S -- Schnaiter M., Henning Th., Mutschke H., Kohn B., Ehbrecht M., and Huisken F., 1999,, ApJ, 519, 687

@@ -1,0 +1,19 @@
+---<2003eida.conf..149S>---
+1 1999ApJ...513L.135C -- Cohen, M., Barlow, M.J., Sylvester, R.J., et al., 1999, ApJ 513, L135
+1 2002MNRAS.332..879C -- Cohen, M., Barlow, M.J., Liu, X.-W., Jones, A.F., 2002, MNRAS 332, 879
+5 1996A&A.....0..315D -- de Graauw, Th., Haser, L.N., Beintema, D.A., et al., 1996, A&A 315,
+0 ................... -- L49 De Marco, 2002, in Planetary Nebulae, IAU Symp. 209, in press
+1 2002ApJ...574L..83D -- De Marco, O., Barlow, M.J., Cohen, M., 2002, ApJ 574, L83
+1 2002PASP..114..602D -- De Marco, O., Soker, N., 2002, PASP 114, 602
+0 ................... -- G'orny, S.K., Stasi'nska, G., 1995, A&A 284, 949 G'orny, S.K., Tylenda, R., 2000, A&A 362, 1008
+1 2001A&A...378L..41H -- Hony, S., Waters, L.B.F.M., Tielens, A.G.G.M., 2001, A&A 378, L41
+1 1996A&A...315L..27K -- Kessler, M.F., Steinz, J.A., Anderegg, M.E., et al., 1996, A&A 315, L27
+1 1994MNRAS.271..257K -- Kingsburgh, R.L., Barlow, M.J., 1994, MNRAS 271, 257
+1 2002ApJS..140..389K -- Kraemer, K.E., Sloan, G.C, Price, S.D., Walker, H.J., 2002, ApJS 140, 389
+0 ................... -- Kwok, S., Volk, K., Hrivnak, B.J, 2002, ApJ 573, 720 Leuenhagen, U. & Hamann, W.--R., 1998, A&A 330, 265
+0 ................... -- Molster, F.J., Yamamura, I., Waters, L.B.F.M., et al., 1999, Nature
+5 1994pao..conf...13R -- 401, 563 Rola, C., Stasi'nska, G., 1994, A&A 282, 199 Szczerba, R., G'orny, S.K., Stasi'nska, G., et al., 2001a, Ap&SS, 275, 113 Szczerba, R., G'orny, S.K., Zalfresso--Jundzillo, M., 2001b, in ASSL Vol. 265, Post-AGB objects as a Phase of Stellar Evolution, eds. R. Szczerba & S.K. G'orny, Kluwer Academic Publisher, Dor- drecht/Boston/London, 13
+1 1993A&AS..102..595T -- Tylenda, R., Acker, A., Stenholm, B., 1993, A&AS 102, 595
+1 1996ASPC...96..101T -- Tylenda, R., 1996, in ASP Conf. Ser. 96, Hydrogen-Deficient Stars, eds. C.S. Jeffery & U. Heber (San Francisco), 101
+1 1998A&A...331L..61W -- Waters, L.B.F.M., Beintema, D.A., Zijlstra, A.A., et al., 1998a, A&A 331, L61
+1 1998Natur.391..868W -- Waters, L.B.F.M., Waelkens, C., van Winckel, H., et al., 1998b, Nature 391, 868

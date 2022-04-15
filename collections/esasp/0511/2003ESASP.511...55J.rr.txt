@@ -1,0 +1,12 @@
+---<2003eida.conf...55J>---
+1 2002A&A...389..239A -- Abergel, A., Bernard, J. P., Boulanger, F., et al., 2002, A&A, 389, 239
+1 1985ApJ...290L..25A -- Allamandola, L. J., Tielens, A. G. G. M., & Barker, J. R., 1985,, ApJ, 290, L25
+1 1996ApJ...472..760B -- Bernatowicz, T. J., Cowsik, R., Gibbons, P. C., et al., 1996,, ApJ, 472, 760
+1 2001A&A...373L...5B -- Boissel, P., Joblin, C., & Pernot, P., 2001, A&A, 373, L5
+1 1996A&A...315L.377B -- Boogert, A. C. A., Schutte, W. A., Tielens, A. G. G. M., & Whittet, D. C. B., 1996, A&A, 315, L377
+0 ................... -- Boogert, A. C. A., Ehrenfreund, P., Gerakines, P. A., et al., 2000, A&A, 353, 349 Boogert, A. C. A., Hogerheijde, M. R., Ceccarelli, C., et al., 2002,, ApJ, 570, 708
+0 ................... -- Boulanger, F., Abergel, A., Bernard, J.-P., et al., 1998, in ASP Conf.
+5 1989JPhys.......15S -- Ser. 132, Star Formation with the Infrared Space Observatory, ed. J. Yun & R. Liseau, ASP Pub., San Francisco, 15
+1 2000A&A...360..213B -- Bouwman, J., de Koter, A., van den Ancker, M. E., & Waters, L. B. F. M., 2000, A&A, 360, 213
+1 2001MNRAS.325..886B -- Bowey, J. E., Lee, C., Tucker, C., et al., 2001,, MNRAS, 325, 886
+1 2002MNRAS.331L...1B -- Bowey, J. E., Barlow, M. J., Molster, F. J., et al., 2002,, MNRAS, 331, L1

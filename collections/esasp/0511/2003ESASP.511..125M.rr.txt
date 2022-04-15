@@ -1,0 +1,8 @@
+---<2003eida.conf..125M>---
+1 1994Ap&SS.217..189B -- Burton W.B., Hartmann D., 1994, Ap&SS 217, 189
+1 1997AJ....114.2095D -- Devine D., Bally J., Reipurth B., Heathcote S., 1997, AJ 114, 2095
+0 ................... -- Egret D., Wenger M., Dubois P., 1991, Ap&SS Library v. 171, p. 79
+0 ................... -- Helou G.X., Madore B., 1988, ESO Proceedings #28, p. 335Hodapp K.-W., 1994, ApJS 94, 615Loren R.B., 1976, ApJ 209, 466
+1 1985ApJ...292L..19S -- Solomon P.M., Sanders D.B., Rivolo A.R., 1985, ApJ 292, L19
+1 1976AJ.....81..314S -- Strom S.E., Vrba F.J., Strom K.M., 1976, AJ 81, 314
+0 ................... -- 128 Figure 1. Screen dump from a typical SFD prototype session. The region is NGC 1333. See text for more details.

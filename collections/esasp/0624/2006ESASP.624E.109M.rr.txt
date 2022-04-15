@@ -1,0 +1,16 @@
+---<2006ESASP.624E.109M>---
+1 1994ApJ...437..879A -- Alexander D.R., Ferguson J.W., 1994,, ApJ, 437, 879
+1 1992RvMP...64..885B -- Bahcall J.N., Pinsonneault M.H., 1992, Rev. Mod. Phys., 64, 885Ballot J., Turck-Chieze S., & Garcia R. A., 2004, A&A, 423, 1051
+0 ................... -- Basu S., Mazumdar A., Antia H. M., & Demarque, P., 2004,, MNRAS, 350, 277Christensen-Dalsgaard J. & Berthomieu G., 1991, Solar
+5 1989merc.book..401I -- interior and atmosphere, University of Arizona Press, 401
+1 1992ApJ...387..372G -- Guenther D.B., Demarque P., Kim Y.-C., Pinsonneault M.H., 1992,, ApJ, 387, 372
+5 1996ApJS..441.1079I -- Iglesias C.A., Rogers F.J., 1996,, ApJ, 464, 943Mazumdar A., 2005, A&A, 441, 1079
+1 2001A&A...377..192M -- Mazumdar A., Antia H.M., 2001, A&A, 377, 192
+0 ................... -- Mazumdar A., Basu S., Collier, B.L., & Demarque, P., 2006,, MNRAS, in press
+5 1998IAUS.1998..185M -- Monteiro M. J. P. F. G., Christensen-Dalsgaard J., & Thompson M. J., 1998, in Proc. IAU Symp. 185, New
+0 ................... -- eyes to see inside the Sun and stars, ed. F.-L. Deub- ner, J. Christensen-Dalsgaard & D. W. Kurtz (Kluwer, Dordrecht) 315
+1 2000MNRAS.316..165M -- Monteiro M. J. P. F. G., Christensen-Dalsgaard J., & Thompson M. J., 2000,, MNRAS, 316, 165
+1 2002ApJ...576.1064R -- Rogers F.J., Nayfonov A., 2002,, ApJ, 576, 1064
+1 2000MNRAS.317..151R -- Roxburgh I.W., Vorontsov S.V., 2000,, MNRAS, 317, 151
+1 2001MNRAS.322...85R -- Roxburgh I.W., Vorontsov S.V., 2001,, MNRAS, 322, 85
+1 1994ApJ...421..828T -- Thoul A.A., Bahcall J.N., Loeb A., 1994,, ApJ, 421, 828

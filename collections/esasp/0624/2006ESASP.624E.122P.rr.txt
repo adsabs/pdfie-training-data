@@ -1,0 +1,11 @@
+---<2006ESASP.624E.122P>---
+1 1990ApJ...349..667B -- Brown, T.M., Christensen-Dalsgaard, J.C., 1990 ApJ 349, 667
+1 2005A&A...442..567D -- Domiciano de Souza, A., Kervella, P., Jankov, S., et al., 2005, A&A, 442, 567
+0 ................... -- Fahlman, G.G., Ulrych, T.J., 1982, MNRAS 199, 53Fossat, E., Kholikov, Sh., Gelly, B., et al., 1999, A&A 343, 608
+5 2001MNRAS.309..769J -- Jankov, S., Vakili, F., Domiciano de Souza, A., Jr., Janot- Pacheco, E., 2001, A&A, 377, 721 Koen, C., MNRAS 309, 769
+1 1992A&A...262L..33P -- Pijpers, F.P., Thompson, M.J., 1992, A&A 262, L33
+5 1994lsms.proc..874P -- Pijpers, F.P., Thompson, M.J., 1994, A&A 281, 231Scargle, J.D., 1982, ApJ 263, 835Scargle, J.D., 1989, ApJ 343, 874
+1 2000AJ....120.2163S -- Stoica, P., Larsson, E.G., Li, J., 2000, AJ 120, 2163
+1 2004ApJ...604..455T -- Turck-Chieze, S., Garcia, R.A., Couvidat, S., et al., 2004, ApJ 604, 455
+1 2004MNRAS.351..215O -- Otazu, X., Ribo, M., Paredes, J.M., Peracaula, M., Nunez, J., 2004, MNRAS 351, 215
+1 2000PASP..112...74V -- Vio, R., Strohmer, T., Wamsteker, W., 2000, PASP 112, 74

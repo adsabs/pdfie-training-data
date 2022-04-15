@@ -1,0 +1,8 @@
+---<2006ESASP.624E..48W>---
+1 1999ApJ...525..517B -- Basu, S. & Antia, H. M., 1999, ApJ 525, 517
+1 1995ApJ...451..859B -- Braun, 1995,, ApJ, 451, 859
+1 2006ApJ...646..543R -- Rajaguru, S. P., Birch, A. C., Duvall, T. L. Jr., Thompson, M. J. & Zhao, J. 2006 ApJ 646, 543
+0 ................... -- Rajaguru et al. 2006 (in preparation)
+1 1995SoPh..162..129S -- Scherrer, P. H., et al. 1995, Sol. Phys., 162, 129
+0 ................... -- Wachter, R., Schou, J., & Sankarasubramanian, K.,
+0 ................... -- 2006, ApJ (in press)

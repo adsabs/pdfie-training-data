@@ -1,0 +1,7 @@
+---<2006ESASP.624E..67B>---
+1 1999ApJ...513L.143D -- Donea A.-C., Braun D.C., Lindsey C., 1999, ApJ 513, 143
+1 2005ApJ...630.1168D -- Donea A.-C., Lindsey C., 2005,, ApJ, 630, 1168.
+0 ................... -- Donea, A.-C. Besliu-Ionescu, D., Lindsey, C. & Zharkova, V. V., 2006, Solar Phys., in press.
+0 ................... -- Donea, A.-C. & Lindsey, C. 2004b "Seismic Waves from
+5 2003ESASP.559...29T -- the Solar Flares of 2003 October 28 and 29," Helio- and Asteroseismology, Towards a Golden Future, Pro-
+5 2004PAUTx..14..152C -- ceedings of the 2004 SOHO14/GONG Meeting ed. D. Danesy (ESA Publications, Darmstadt) p. 152.

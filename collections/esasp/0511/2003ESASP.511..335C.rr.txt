@@ -1,0 +1,17 @@
+---<2003eida.conf..335C>---
+0 ................... -- Remote Sensing VIII, Vol. 4131, pp 205--217, SPIE, San Diego,
+0 ................... -- USA Fouks, B., Coulais, A., and Normand, J.: 2002, this volume
+1 1995SPIE.2553..489F -- Fouks, B. I.: 1995, Proceedings of SPIE 2553, 489
+1 1996SPIE.2817..160F -- Fouks, B. I.: 1996, Proceedings of SPIE 2817, 160
+1 1995SPIE.2475..487F -- Fouks, B. I. and Schubert, J.: 1995, Proceedings of SPIE 2475, 487
+5 2001ESASP2003..481G -- Gallais, P.: 2001, in: Proceedings for The calibration legacy of the ISO Mission', Eds.: L. Melcalfe et al. 2003, ESA SP-481
+0 ................... -- Gastaud, R., Ott, S., Guest, S., Delaney, M., Sam-Lone, J., Starck, J.- L., Ali, B., Landriu, D., Miville-Desch.enes, M.-A., Sauvage, M., and Vivares, F.: 2002, ESA SP-481, in press
+1 1996A&A...315L..27K -- Kessler, M. F. et al.: 1996, Astron. Astrophys. 315, L27
+0 ................... -- Lari, C.: 1997, IRA model for ISOCAM LW transient correction, Tech- nical report, IRA
+0 ................... -- Lari, C., Vaccari, M., Fadda, D., and Rodighiero, G.: 2002, this vol- ume
+1 2000A&AS..146..519M -- Miville-Desch.enes, M.-A., Boulanger, F., Abergel, A., and Bernard, J.-P.: 2000, Astron. Astrophys. Suppl. Ser. 146, 519
+0 ................... -- Normand, J.: 2002, Etude et correction des transitoires des sources ponctuelles d'ISOCAM, Stage de 2i`eme ann'ee Ing'enieur, IAS, France Rodighiero, G. and Lari, C.: 2002, ESA SP-481, in press
+1 1995PhDT.......299S -- Schubert, J.: 1995, Ph.D. thesis, Max Planck-Institut f&Dot;ur Astronomie, Heidelberg
+1 1999A&AS..134..135S -- Starck, J.-L., Abergel, A., et al.: 1999, Astron. Astrophys. Suppl. Ser. 134, 135
+1 1993SPIE.1946..281V -- Vigroux, L. G., Cesarsky, C. J., Boulade, O., Rio, Y., Perault, M., Abergel, A., D'esert, F.-X., Rouan, D., and Lacombe, F.: 1993, Proceedings of SPIE 1946, 281
+0 ................... -- Vinokurov, L.A. and Fouks, B.I.: 1991, Sov. Phys. Semicond. 25 (11), 1207

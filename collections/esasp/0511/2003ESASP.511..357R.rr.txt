@@ -1,0 +1,11 @@
+---<2003eida.conf..357R>---
+1 1998A&AS..128..207H -- Hammersley P. L., et al., 1998, A&AS 128, 207
+0 ................... -- Klaas U.,Wilke K., Kiss C.,Radovich M. & Richards P.,2000, ``Re-
+5 2000Unive...2..225P -- port on the PHT Scientific Validation for OLP Version 9.0'', SAI/2000-014/Rp, Version 2.0, p225
+0 ................... -- Klaas U., & Richards P.J.,2002, Report on the Scientific Validation of
+0 ................... -- PHT OLP version 10.0, version 1.0, 09-April-2002, http://www.iso.vilspa.esa.es/users/expl lib/PHT list.htmlKlaas U., et al.,2002, this volume
+0 ................... -- Laureijs R. J., 1999, Point Spread Function Fractions Related to the
+0 ................... -- ISOPHOT C100 and C200 Arrays, IDC PHT Internal Calibration Report Laureijs R. J., Klaas U., Richards P. J.,Schulz B. & 'Abrah'am P., 2002, ISO Handbook Vol IV: PHT - The Imaging Photo-Polarimeter.
+0 ................... -- Richards P. J. et al., 2002, Proceedings of the Conference ''The Cal-
+5 1989NASSP......481I -- ibration Legacy of the ISO Mission'', L.Metcalfe et al.(eds), ESA SP-481
+1 1991MNRAS.248..606R -- Roche P. F., Aitken D. K.,Smith C. H. & Ward M. J., 1991,, MNRAS, 248, 606

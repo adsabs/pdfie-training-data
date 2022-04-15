@@ -1,0 +1,9 @@
+---<2003eida.conf...63K>---
+0 ................... -- & Walker, H. 1989 ''Automatic Classification of Spectra from the
+0 ................... -- Infrared Astronomical Satellite'' (NASA RP-1217) (Washington: GPO) IRAS Catalogs & Atlases, Vol. I: Explanatory Supplement 1988, (Washington:NASA)
+5 1986AAS....65..607I -- IRAS Science Team 1986, AAS, 65, 607
+5 2002A&ARv.......67H -- Heras, A. M., Shipman, R. F., Price, S. D., et al. 2002, A & A, submit- ted 67
+1 2002ApJS..140..389K -- Kraemer, K. E., Sloan, G. C., Price, S. D., & Walker, H. J. 2002,, ApJS, 140, 389
+5 1997shwa....1.2002K -- Kwok, S., Volk, K, & Bidelman, W. P. 1997,, ApJS, 112, 557Posch, T. 2002, this volume
+1 2001AAS...199.9204S -- Sloan, G. C., Goebel, J. H., Kraemer, K. E., & Price, S. D. 2001, BAAS, 199, 92.04
+0 ................... -- Sloan, G. C., Kraemer, K. E., Price, S. D., & Shipman, R. F., 2002,, ApJS, submitted 68

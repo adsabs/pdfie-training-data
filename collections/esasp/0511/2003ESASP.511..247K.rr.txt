@@ -1,0 +1,15 @@
+---<2003eida.conf..247K>---
+1 2001ApJ...555..338C -- Cecil, G., Bland-Hawthorn, J., Veilleux, S., & Filippenko, A.V. 2001,, ApJ, 555, 338 Haas, M., Klaas, U., M&Dot
+5 2001A&A...367L...9H -- Cecil, G., Bland-Hawthorn, J., Veilleux, S., & Filippenko, A.V., uller, S.A.H., et al. 2001, A&A, 367, L9
+1 2003eida.conf..283H -- Haas, M., Klaas, U., Bianchi, S. 2002, ESA SP-511, this volume
+1 2001A&A...379.1161K -- Kiss, Cs., 'Abrah'am, P., Klaas, U., Juvela, M., Lemke, D. 2001, A&A 379, 1161 Klaas, U., Haas, M., M&Dot
+1 2001A&A...379..823K -- Kiss, Cs., 'Abrah'am, P., Klaas, U., Juvela, M., Lemke, D., uller, S.A.H., et al. 2001, A&A, 379, 823
+0 ................... -- Klaas, U., & Richards, P.J. 2002, Report on the Scientific Vali-
+0 ................... -- dation of PHT OLP version 10.0, version 1.0, 09-April-2002, http://www.iso.vilspa.esa.es/users/expl lib/PHT list.html
+1 2002A&A...391..911K -- Klaas, U., & Walker, H.J. 2002, A&A, 391, 911 Kr&Dot
+1 1994A&A...288..929K -- Klaas, U., & Walker, H.J., ugel, E., & Siebenmorgen, R. 1994, A&A, 288, 929
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., et al. 1996, A&A, 315, L64
+1 1983A&A...128..212M -- Mathis, J.S., Mezger, P.G., & Panagia, N. 1983, A&A, 128, 212
+1 2003eida.conf..357R -- Richards, P.J., & Klaas, U. 2002, ESA SP-511, this volume
+5 2002PhST.......511S -- Salama, A. 2002, ESA SP-511, this volume
+1 2000MNRAS.312L...5S -- Stevens, J.A., & Gear, W.K., 2000,, MNRAS, 312, L5

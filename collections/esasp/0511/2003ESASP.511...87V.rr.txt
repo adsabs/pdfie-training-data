@@ -1,0 +1,13 @@
+---<2003eida.conf...87V>---
+0 ................... -- Aoki, W., Tsuji, T., & Ohnaka, K. 1998, A&A 340, 222 Aringer, B., J<<rgensen, U. G., Kerschbaum, F. et al., 2002, in ASP Conf. Ser. 259: Radial and Nonradial Pulsationsn as Probes of Stellar Physics, 538Cami, J. 2002, PhD thesis, Universiteit van Amsterdam
+5 1996DMKD.......153C -- Cheeseman, P. & Stutz, J. 1996, in Advances in Knowledge Discovery and Data Mining, 153--180
+1 1996A&A...315L..49D -- de Graauw, T., Haser, L. N., Beintema, D. A., et al. 1996, A&A 315, L49 F&Dot
+5 2000AJ....120.2089F -- de Graauw, T., Haser, L. N., Beintema, D. A., et al., orster Schreiber, N. M. 2000, AJ 120, 2089
+0 ................... -- Hanson, R., Stutz, J., & Cheeseman, P. 1991, Bayesian classification
+5 1991stct.proc..217T -- theory, NASA Tech. rep. Hoffleit, D. & Warren, J. W. H. 1991, The Bright Star Catalogue 5th Revised Ed. Lanc,on, A. & Wood, P. R. 2000, A&AS 146, 217
+1 2002A&A...386L...5L -- Lenorzer, A., de Koter, A., & Waters, L. B. F. M. 2002a, A&A 386, L5
+1 2002A&A...384..473L -- Lenorzer, A., Vandenbussche, B., Morris, P., et al. 2002b, A&A 384, 473
+1 1998ApJ...508..397M -- Meyer, M. R., Edwards, S., Hinkle, K. H., & Strom, S. E. 1998, ApJ 508, 397
+0 ................... -- Morgan, W. W., Keenan, P. C., & Kellman, E. 1943, in Astrophysics
+1 1999ESASP.427..247M -- monographs University of Chicago Press Morris, P. W., Bouwman, J., Crowther, P. A., et al. 1999, in ESA SP- 427: The Universe as Seen by ISO, Vol. 427, 247+
+0 ................... -- Olnon, F. M., Raimond, E., Neugebauer, G., et al. 1986, A&AS 65, 607Secchi, A. 1868, MNRAS 28, 196+

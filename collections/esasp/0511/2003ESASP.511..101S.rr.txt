@@ -1,0 +1,21 @@
+---<2003eida.conf..101S>---
+1 1999ESASP.427..861B -- Bradford C.M., Stacey G.J, Fischer J.A., et al. 1999, The Universe as seen by ISO, eds P. Cox and M.F. Kessler, ESA SP--427, 861
+1 2001A&A...368.1006C -- Chen P.S., Szczerba R., Kwok S., Volk K., 2001, A&A 368, 1006
+1 1996A&A...315L..49D -- de Graauw Th., Haser L.N., Beintema D.A., et al., 1996, A&A 315, L49
+1 1992ASSL..170.....E -- Elitzur M., 1992, Astronomical Masers, Kluwer, Dordrecht
+1 1976ApJ...205..384E -- Elitzur M., Goldreich P., Scoville N., 1976, ApJ 205, 384
+1 1980A&A....85L...1E -- Epchtein N., Guibert J., Nguyen-Q-Rieu et al., 1980 A&A 85, L1
+1 1977ApJ...217..729E -- Evans N.J., Beckwith S., 1977, ApJ 217, 729
+1 1996A&A...315L.217J -- Justtanont K., de Jong Th., Helmich F.P., et al., 1996, A&A 315, L217
+1 1996A&A...315L..27K -- Kessler M.F., Steinz J.A., Anderegg M.E., et al., 1996, A&A 315, L27
+1 1966PhRvL..17..821L -- Litvak M.M, Mc Whorter A.L., Meeks M.L., Zeiger H.J., 1966, Phys. Rev. Lett. 17, 821
+1 1996A&A...315L.269L -- Lutz D., Feuchtgruber H., Genzel, R, et al., 1996, A&A 315, L269
+1 1999ApJ...517L.147N -- Neufeld A.A., Feuchtgruber H., Harwit M., Melnick G.J., 1999, ApJ 517, L147
+1 1979A&A....75..351N -- Ngueyen-Q-Rieu, M., Laury-Micoulaut C., Winnberg A., Schultz G.V., 1979, A&A 75, 351
+1 1966ApJ...145..361P -- Perkins F., Gold T., Salpeter E.E., 1966, ApJ 145, 361
+5 1966ATsir...0..372S -- Shklovsky I.S., 1966, Astron. Tsirk., No. 372
+1 1998A&AS..128...35S -- Sjouwerman L.O., van Langevelde H.J., Winnberg A., Habing H.J, 1998, A&AS 128, 35
+1 1997Natur.386..472S -- Skinner, C.J., Smith, H.A., Sturm, E., et al., 1997, Nature 386, 472
+1 1997MNRAS.291L..42S -- Sylvester R.J., Barlow M.J., Nguyen-Q-Rieu et. al., 1997, MNRAS 291, L42
+0 ................... -- Thai-Q-Tung, Dinh-V-Trung, Nguyen-Q-Rieu, et al., 1998, A&A 331, 317Volk K., Cohen M., 1989, AJ 98, 931
+1 1965Natur.208...29W -- Weaver H., Williams D.R.W., Dieter N.,H., Lum W.T., 1965, Nature 208, 29

@@ -1,0 +1,45 @@
+---<2006ESASP.624E..37T>---
+1 1986A&A...163...97A -- Ando H., 1986, A&A 163, 97
+1 1992MNRAS.255..639B -- Balmforth N.J., 1992, MNRAS 255, 639
+1 1999ApJ...511..466B -- Barnes G., Charbonneau P., MacGregor K.B., 1999, ApJ 511, 466
+1 1997A&A...318..495B -- Bouvier J., Wichmann R., Grankin K., Allain S., Covino E., Fernandez M., Martin E.L., Terranegra L., Catalaneao S., Marilli E., 1997, A&A 318, 495
+0 ................... -- Brun A.S., Zahn J.-P., 2006, A&A in press
+1 2002MNRAS.337..713C -- Canuto V.M., 2002, MNRAS 337, 713
+1 1995ApJ...441..865C -- Chaboyer B., Demarque P., Pinsonneault M.H., 1995, ApJ 441, 865
+1 1999MNRAS.308..405C -- Chaplin W.J., Christensen-Dalsgaard J., Elsworth Y., Howe R., Isaak G.R., Larsen R.M., New R., Schou J., Thompson M.J., Tomczyk S., 1999, MNRAS 308, 405
+1 1993ApJ...417..762C -- Charbonneau P., MacGregor K.B., 1993, ApJ 417, 762
+1 2005Sci...309.2189C -- Charbonnel C., Talon S., 2005, Science 309, 2189
+1 2003ApJ...597L..77C -- Couvidat S., Garcia R.A., Turck-Chieze S., Corbard T., Henney C.J., Jimenez-Reyes S., 2003, ApJ 597, L77
+1 1983SoPh...82..259D -- Dziembowski W., 1983, Solar Physics 82, 259
+1 2005A&A...440L...9E -- Eggenberger P., Maeder A., Meynet G., 2005, A&A 440, L9
+1 1991ApJ...377..268G -- Garcia Lopez R.J., Spruit H.C., 1991, ApJ 377, 268
+1 1990ApJ...363..694G -- Goldreich P., Kumar P., 1990, ApJ 363, 694
+5 1994ApJ.....0..424G -- Goldreich P., Murray N., Kumar, P., 1994, ApJ 424,
+1 1989ApJ...342.1079G -- Goldreich P., Nicholson P.D., 1989, ApJ 342, 1079
+1 1998Natur.394..755G -- Gough D. O., McIntyre M.E., 1998, Nature 394, 755
+1 1986ApJ...311..563H -- Hurlburt N.E., Toomre J., Massaguer J.M., 1986, ApJ 311, 563
+1 1994ApJ...421..245H -- Hurlburt N.E., Toomre J., Massaguer J.M., Zahn J.- P., 1994, ApJ 421, 245
+1 2000AcA....50...93K -- Kiraga M., Rozyczka M., Stepien K., Jahn K., Muthsam H., 2000, Acta Astronomica 50, 93
+1 1997ApJ...475L.143K -- Kumar P., Quataert E.J., 1997, ApJ 475, L143
+1 1999ApJ...520..859K -- Kumar P., Talon S., Zahn J.-P., 1999, ApJ 520, 859
+5 1998ecs1.conf..103M -- Matias J., Zahn J.-P., 1998, in "Sounding Solar and Stellar Interiors", Eds. J. Provost, F.-X. Schmider, IAU symposium 181, poster volume, 103
+5 2005IJMeS......319M -- Mathis S., Zahn J.-P., 2005, in "SF2S-2005", Eds. F. Casoli, T. Contini, J.M. Hameury, L. Pagani., EdPSciences, 319
+5 2003pbes.coll..557M -- McIntyre M.E., 2003, in "Perspectives in Fluid Dynamics, A Collective Introduction to Current Research", Eds. G.K. Batchelor, H.K. Moffat, M.G. Worster, Cambridge Univ. Press, 557
+1 1994A&A...281..421M -- Montalban J., 1994, A&A 281, 421
+1 1981ApJ...245..286P -- Press W.H., 1981, ApJ 245, 286
+1 2005ApJ...620..432R -- Rogers T.M., Glatzmeier G.A., 2005a, ApJ 620, 432
+5 2005MNRAS...0..364R -- Rogers T.M., Glatzmeier G.A., 2005b, MNRAS 364,
+1 1998A&A...335L..89R -- Ringot O., 1998, A&A 335, 89
+1 1962AnAp...25...18S -- Schatzman E., 1962, Annales d'Astrophysique 25, 18
+1 1993A&A...279..431S -- Schatzman E., 1993, A&A 279, 431
+1 2002PhFl...14..721S -- Sutherland, B.R., Linden, F.R., 2002, Phys. Fluids 14, 721
+1 1997PhDT........18T -- Talon S., 1997, "Hydrodynamique des etoiles en rotation", PhD thesis, Universite Paris VII
+1 2003A&A...405.1025T -- Talon S., Charbonnel C., 2003, A&A 405, 1025
+1 2004A&A...418.1051T -- Talon S., Charbonnel C., 2004, A&A 418, 1051
+1 2005A&A...440..981T -- Talon S., Charbonnel C., 2005, A&A 440, 981
+1 2002ApJ...574L.175T -- Talon S., Kumar P., Zahn J.-P., 2002, ApJL 574, L175
+1 1958JFM.....4..361T -- Townsend A.A., 1958, J. Fluid Mech. 4, 361
+1 1965JFM....22..241T -- Townsend A.A., 1965, J. Fluid Mech. 22, 241
+1 2003ApJ...595.1114Y -- Young P.A., Knierman K.A., Rigby J.R., Arnett D., 2003, ApJ 595, 1114
+1 1992A&A...265..115Z -- Zahn J.-P., 1992, A&A 265, 115
+1 1997A&A...322..320Z -- Zahn J.-P., Talon S., Matias J., 1997, A&A 322, 320

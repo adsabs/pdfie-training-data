@@ -1,0 +1,12 @@
+---<2006ESASP.624E..40H>---
+5 1996Sci........272C -- Christensen-Dalsgaard, J., et al. 1996, Science, 272,
+1 1992JCoPh.103...16L -- Lele, S. K. 1992, Journal of Computational Physics, 103, 16
+5 2006CF.....35.1459B -- Berland, J., Bogey, C., Bailly, C. 2006, Computers and Fluids, 35, 1459
+5 1997JSCom..18..806F -- Foster, I. T., & Worley, P. H. 1997, SIAM Journal on Scientific Computation, 18, 806
+5 1970JFM.........41O -- Orszag, S. A. 1970, Journal of Fluid Mechanics, 41,
+0 ................... -- Lui, C. 2003, A Numerical Investigation of ShockAssociated Noise, Ph.D thesis, Department of Mechanical Engineering, Stanford University
+1 1990JCoPh..89..439T -- Thompson, K. W. 1990, Journal of Computational Physics, 89, 439
+0 ................... -- Hanasoge, S. M., Larsen, R. M., Duvall, T. L., Jr.,
+0 ................... -- DeRosa, M. L., Hurlburt, N. E., Schou, J., Roth,
+0 ................... -- M., Christensen-Dalsgaard, J., and Lele, S. K. 2006,
+0 ................... -- ApJ in press

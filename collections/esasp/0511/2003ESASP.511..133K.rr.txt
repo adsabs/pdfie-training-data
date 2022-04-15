@@ -1,0 +1,17 @@
+---<2003eida.conf..133K>---
+1 2002A&A...390..289B -- Beuther, H., Walsh, A., Schilke, P. et al., 2002, A&A 390, 289
+1 1996A&A...315L..71B -- Bogun, S., Lemke, D., Klaas, U. et al., 1996, A&A 315, L71
+1 1998ApJ...508..721C -- Carey, S., Clark, F., Egan, M., 1998, ApJ 508, 721
+1 1997A&A...325..725C -- Cesaroni, R., Felli, M., Testi, L., 1997, A&A 325, 725
+1 1998AJ....115.1693C -- Condon, J., Cotton, W., Greisen, E. et al., 1998, AJ 115, 1693
+0 ................... -- Evans , N. J. Shirley, Y.L., Mueller, K.E. et al, 2002, in Proc.''Hot Star
+0 ................... -- Workshop III: The earliest phases of massive star birth, ed. P.A. Crowther, ASP Conference Series Krause O., Lemke, D., T'oth, L.V. et al., 2002, A&A in press
+1 2001ApJS..136..137L -- Lee, Y., Stark, A., Kim, H. et al., 2001, ApJS 136, 137
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., 1996, A&A 315, L64
+1 1998ApJ...505L..39M -- Molinari, S., Testi, L., Brand, J., et al., 1998, ApJ 505, L39
+1 1993ApJ...418..414P -- Palla, F. & Stahler, S., 1993, ApJ 418, 414
+1 2000ApJ...535..833S -- Shepherd, D. S., Yu, K. C., Bally, J. et al, 2000, ApJ 535, 833
+1 1983A&A...122..164W -- Walmsley, C. M. & Ungerechts, H., 1983, A&A, 122.164.
+1 1989ApJ...340..265W -- Wood, D.O.S., Churchwell, E., 1989, ApJ 340, 265
+1 1989A&AS...80..149W -- Wouterloot, J. G. A., Brand, J., 1989, A&AS 80, 149
+1 2002ApJS..141..157Y -- Yang, J., Jiang, Z., Wang, M. et al., 2002, ApJS 141 ,157 136

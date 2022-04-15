@@ -1,0 +1,22 @@
+---<2003eida.conf..169S>---
+1 1996A&A...315L..71B -- Bogun S., Lemke D., Klaas U., et al. 1996, A&A 315, L71
+1 1992ApJS...80..257E -- Elvis M., Plummer D., Schachter J., Fabbiano G. 1992, ApJS 80, 257
+0 ................... -- Gabriel C., Acosta-Pulido J., Heinrichsen I., et al. 1997, Astronomical
+0 ................... -- Data Analysis Software and Systems VI, A.S.P. Conf. Ser., Vol. 125, eds. G. Hunt, H.E. Payne, p. 108 Hotzel S. 2001, PhD thesis, University of Heidelberg
+1 2001A&A...372..302H -- Hotzel, S., Harju J., Lemke D., et al. 2001, A&A 372, 302
+1 1996A&A...315L..27K -- Kessler M.F., Steinz J.A., Anderegg M.E., et al. 1996, A&A 315, L27
+1 2003eida.conf..285K -- Krause O., et al. 2002a, these proceedings
+1 2002astro.ph..9288K -- Krause O. Lemke D., T'oth L.V., et al. 2002b, A&A, in press (astro-ph/0209288)
+0 ................... -- Lemke D., Burgdorf M., 1992, Infrared Astronomy with ISO. T. Encre-
+5 1989fysx.conf...69N -- naz, M. Kessler, eds., Nova Science Publishers, Commack, New York, p. 69
+1 1996A&A...315L..64L -- Lemke D., Klaas U., Abolins J., et al. 1996, A&A 315L, 64 M&Dot
+1 2002A&A...389..665M -- uller T.G., Hotzel S., Stickel M. 2002, A&A 389, 665
+1 1999A&AS..134..287R -- Reynolds A.P., Parmar A.N., Hakala A.J. et al. 1999, A&AS 134, 287
+1 1998SPIE.3349..115S -- Stickel M., Lemke D., Bogun S., et al. 1998a, Proc. SPIE 3349, p. 115
+1 1998A&A...336..116S -- Stickel M., Bogun S., Lemke D., et al. 1998b, A&A 336, 116
+1 1999ESASP.427..839S -- Stickel M., Lemke D., Bogun S., et al. 1999 The Universe as seen by ISO, ESA SP 427, P. Cox, M.F. Kessler (eds.), p. 839
+0 ................... -- Stickel M., Lemke D., U. Klaas 2000a, ISO Survey of a Dusty Uni-
+5 1989LNP...548..251V -- verse D. Lemke et al. (eds) Lecture Notes in Physics, vol. 548, p.251
+1 2000A&A...359..865S -- Stickel M., Lemke D., Klaas U., et al. 2000b, A&A 359, 865
+0 ................... -- Stickel M., Lemke D., Klaas U., et al. 2001 The Promise of the Her-
+5 2000inma.conf..174S -- schel Space Observatory, ESA-SP 460, G.L. Pilbratt et al. (eds), p. 109 T'oth L.V., Hotzel S., Krause O., et al. 2000. A&A 364, 769 174 INTERSTELLAR MATTER

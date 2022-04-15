@@ -1,0 +1,13 @@
+---<2006ESASP.624E..78D>---
+1 1992MNRAS.255..603B -- Balmforth, N.J., 1992,, MNRAS, 255, 603
+1 1958ZA.....46..108B -- Bohm-Vitense, E., 1958, Z. Astrophys., 46, 108
+1 1991ApJ...370..295C -- Canuto, V. M., & Mazzitelli, I. 1991, ApJ 370, 295
+1 1996ApJ...473..550C -- Canuto, V. M., Goldman, I., Mazzitelli, I., 1996,, ApJ, 473, 550
+1 2006CoAst.147...85D -- Dupret, M.-A., Samadi, R., Grigahcene, A., et al., 2006, CoAst, 147, 85
+1 2006ESASP.624E..97D -- Dupret, M.-A., Barban, C., Goupil, M.-J., et al., these proceedings, paper III
+1 1987A&A...175..125G -- Gabriel, M., 1987, A&A, 175, 125
+1 1996BASI...24..233G -- Gabriel, M. 1996, Bull. Astron. Soc. of India 24, 233
+1 2005A&A...434.1055G -- Grigahcene, A., Dupret, M.-A., Gabriel, M., et al. 2005, A&A 434, 1055
+1 1963ApJ...138..216S -- Spiegel, E. A. 1963, ApJ 138, 216
+1 1998ApJ...499..914S -- Stein, R. F., & Nordlund, A. 1998,, ApJ, 499, 914
+1 1967PASJ...19..140U -- Unno, W., 1967, PASJ, 19, 140

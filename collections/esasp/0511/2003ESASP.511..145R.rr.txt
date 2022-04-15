@@ -1,0 +1,28 @@
+---<2003eida.conf..145R>---
+1 1998A&A...333..231B -- Bessell M.S., Castelli F., Plez B., 1998, A&A 333, 231
+1 1996A&A...315L..49D -- de Graauw T., Haser L.N., Beintema D.A., et al., 1996, A&A 315, L49
+1 1995A&A...300..503D -- Dorschner J., Begemann B., Henning Th., et al., 1995, A&A 300, 503
+1 1984ApJ...285...89D -- Draine B.T., Lee H.M., 1984, ApJ 285, 89
+0 ................... -- Fluks M.A., Plez B., The P.S., de Winter D., Westerlund B.E. 1994,
+5 1989A&AS..105..311. -- A&AS 105, 311
+1 1987A&A...177..186G -- Gail H.-P., Sedlmayr E., 1987, A&A 177, 186
+1 1997A&A...322..280H -- Hron J., Aringer B., Kerschbaum F., 1997, A&A 322, 280
+1 1995ApJ...445..415I -- Ivezic Z., Elitzur M., 1995, ApJ 445, 415
+0 ................... -- Ivezic Z., Nenkova M., Elitzur M., 1997, User Manual for
+0 ................... -- Dusty, Internal Report, University of Kentucky, accessible at
+0 ................... -- http://www.pa.uky.edu/ moshe/dusty
+1 1990ApJS...73..769J -- Jura M., Kleinmann S.G., 1990, ApJS 73, 769
+1 1994A&A...290..183K -- Kahane C., Jura M., 1994, A&A 290, 183
+1 1998A&A...334..173L -- Le Bertre T., Winters J.M., 1998, A&A 334, 173
+1 1993ApJ...410..701N -- Netzer N., Elitzur M., 1993, ApJ 410, 701
+1 1992A&A...261..567O -- Ossenkopf V., Henning Th., Mathis J.S., 1992, A&A, 261, 567
+1 1996A&A...315L..55S -- Schaeidt S.G., Morris P.W., Salama A., 1996, et al., A&A, 315, L55
+1 1999A&A...349..898S -- Schr&#xffff;oder K.-P., Winters J.M., Sedlmayr E., 1999, A&A, 349, 898
+0 ................... -- Sedlmayr E., 1994., in Jorgenson U.G., ed., Molecules in the Stellar
+0 ................... -- Environment, Springer-Verlag, Berlin, p.163
+0 ................... -- Smith B.J., Leisawitz D., Castelaz M.W., Luttermoser D., 2002, AJ,
+0 ................... -- 123, 948
+1 1983ApJ...271..702T -- Tielens A.G.G.M., 1983,, ApJ, 271, 702
+1 1988A&A...194..125V -- van der Veen W.E.C.J., Habing H.J., 1988, A&A 194, 125
+0 ................... -- Whitelock P., Menzies J., Feast M., Marang F., Carter B., Roberts G.,
+1 1994MNRAS.267..711W -- Catchpole R., Chapman J., 1994, MNRAS 267, 711

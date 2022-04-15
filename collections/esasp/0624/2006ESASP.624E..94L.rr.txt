@@ -1,0 +1,10 @@
+---<2006ESASP.624E..94L>---
+1 1995SoPh..162...61G -- Gabriel A. H., et al., 1995, Solar Physics 162, 61
+1 2005A&A...442..385G -- Garc&Acirc;&acute;&Auml;&plusmn;a R. A., et al., 2005, A&A 442, 385
+5 1985JPlEc.400..327H -- Harvey J. W., 1985, JPL 400, 327
+1 1993ASPC...42..111H -- Harvey J. W., et al., 1993, ASP Conf. Series 42, 111
+1 1999A&A...341..625P -- Pall&Acirc;&acute;e P. L., et al., 1999, A&A 341, 625
+5 2002suco.conf..889A -- R&Acirc;&acute;egulo C., Roca Cort&Acirc;&acute;es T. & V&Acirc;&acute;asquez Rami&Acirc;&acute;o, H., 2002,svco.conf, 889
+1 1995SoPh..162..129S -- Scherrer P. H., et al., 1995, Solar Physics 162, 129
+1 2005astro.ph.11126T -- Turck-Chi`eze S., et al.,2006, Adv. Sp. Res. 38, in press,astro-ph/0511126
+1 2002ESASP.506..897V -- V&Acirc;&acute;asquez Rami&Acirc;&acute;o H., Roca Cort&Acirc;&acute;es T., R&Acirc;&acute;egulo C., 2002,ESA-SP 506, 897

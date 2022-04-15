@@ -1,0 +1,11 @@
+---<2003eida.conf..365T>---
+1 1999ESASP.427...73G -- Gabriel, C., & Acosta-Pulido, J.A., 1999, ESA SP-427, p73.
+1 1997ESASP.401..273H -- Heinrichsen, I.H., Gabriel, C., Richards, P., & Klaas, U., 1997, ESA SP-401, p273.
+1 1996A&A...315L..27K -- Kessler, M.F., Steinz, J.A., Anderegg, M.E. et al. 1996, A&A 315, L27.
+1 1996A&A...315L..64L -- Lemke, D., Klaas, U., Abolins, J., et al. 1996, A&A 315, L64.
+0 ................... -- Lu, N., Khan, I., Schulz, B., et al. 2002, ESA SP-482, in press
+1 2002ApJ...567..221P -- Popescu, C.C., Tuffs, R.J., V&Dot;olk, H.J., Pierini, D. & Madore, B.F., 2002, ApJ 567, 221.
+5 2002NASSP......482S -- Schulz, B., Tuffs, R.J., Laureijs, R.J. et al. 2002a, ESA SP-482, in
+0 ................... -- press Schulz, B., Lu, N., Peschke, S.B. et al. 2002b, this volume
+0 ................... -- Tuffs, R.J. & Gabriel, C. 2002, ESA SP-482, in press
+1 2002ApJS..139...37T -- Tuffs, R.J., Popescu, C.C., Pierini, D., V&Dot;olk, H.J., Hippelein, H., Heinrichsen, I. & Xu, C., 2002, ApJS 139, 37

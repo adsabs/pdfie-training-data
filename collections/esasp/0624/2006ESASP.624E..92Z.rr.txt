@@ -1,0 +1,16 @@
+---<2006ESASP.624E..92Z>---
+1 2005ASPC..336...25A -- Asplund, M., Grevesse, N., & Sauval, A. J. 2005, Cosmic Abundances as Records of Stellar Evolution and Nucleosynthesis, ASP Conf. Ser., 336, 25
+5 2005ApJ.....0..631B -- Bahcall, J. N., Basu, S., Serenelli, A.M. 2005,, ApJ, 631,
+5 2004PhRvL..93...21T -- Turck-Chieze, S., Couvidat, L. et al. 2004 , Phys. Rev. Letters, 93, 21
+5 2005ApJ.....0..627G -- Guzik, J. A., Scott Watson, L., Cox, A. N. 2005,, ApJ, 627,
+1 1997A&AS..124..597M -- Morel, P., 1997, AAS, 124, 597
+1 1996Sci...272.1286C -- Christensen-Dalsgaard, J., et al. 1996, Science, 272, 1286
+1 1994ApJ...437..879A -- Alexander, D.R., Ferguson, J.W. 1994,, ApJ, 437, 879
+1 1991ApJ...370..295C -- Canuto V.M., Mazitelli I., 1991,, ApJ, 370, 295
+5 1993PhR...230...23T -- Turck-Chize, S. et al., 1993, Physics Reports, 230, 23
+1 1993oee..conf...15G -- Grevesse, N., Noels, A. 1993, in, Origin and Evolution of the elements, ed. by Prantzos, Vangioni-Flam and Casse, Cambridge Univ. press,15-25
+1 2005ApJ...620L.129A -- Antia, H.M. , Basu, S. 2005, ApJ, 620, 129
+0 ................... -- Lazrek M., Grec G., Fossat E., Renaud C., 2006, textitA&A,to be submitted
+1 2002A&A...394..285G -- Gelly et al., 2002, A&A, 394, 285
+0 ................... -- Gough D.O., 1991, In, Osaki Y. & Shibahashi H. (eds.)
+5 1989SSSSS......283P -- Progress of Seismology of the Sun and Stars, Springer Verlag, 283

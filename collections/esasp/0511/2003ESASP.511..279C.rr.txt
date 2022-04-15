@@ -1,0 +1,14 @@
+---<2003eida.conf..279C>---
+1 2002AJ....124..751C -- Contursi, A., Kaufman M. J., Helou G., et al, 2002, AJ, 124, 751
+1 1985ApJ...291..755C -- Crawford M. K., Genzel R., Townes C.H., et al., 1985,, ApJ, 291, 755
+1 2000AJ....120..583D -- Dale, D.A., Silbermann, N. Helou, G., et al., 2000,AJ, 120, 583
+5 1998HiA.........11H -- Helou, G., 1998, Highlights of Astronomy Vol. 11A, Ed. Johannes
+5 2001ApJ...548L..37H -- Andersen. Kluwer Academic Publishers, p.1134 Helou, G., Malhotra, S., Hollenbach, D., et al., 2001, ApJl, 548, L37
+1 1999RvMP...71..173H -- Hollenbach, D. J., ^2 Tielens, A.G.G.M., 1999, Rev. Modern Phys., 71, 173
+1 2000astro.ph.12354H -- Hunter, D. A., Kaufman, M.J., Hollenbach, D.J., et al., 2001,, ApJ, astro--ph/0012354
+5 1996ggr..conf..579K -- Kessler M. F., Steinz J. A., Anderegg M. E., 1996, A^2A, 315, 27LMadden S. C., Geis N., Genzel R. , et al., 1993,, ApJ, 407, 579
+1 1997ApJ...483..200M -- Madden S. C., Poglitsch A., Geis N., 1997,, ApJ, 483, 200
+1 2001ApJ...561..766M -- Malhotra, S., Kaufman, M.J., Hollenbach, D., et al., 2001,, ApJ, 561, 766
+0 ................... -- Nikola, T.; Genzel, R.; Herrmann, F, 1998,, ApJ, 504, 749Roussel, H., Vigroux, L., Bosma, A., et al., 2001, 369, 473
+1 1991ApJ...374L..33P -- Poglitsch A., Stacey G. J., Geis N., 1991,,, ApJ, 374, 33
+0 ................... -- Stacey, G.J., Geis, N., Genzel, R., et al., 1991,, ApJ, 373, 423 Sternberg, A., ^2 Dalgarno, A., 1989,, ApJ, 338, 197

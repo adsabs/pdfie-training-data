@@ -1,0 +1,16 @@
+---<2006ESASP.624E..97D>---
+1 1992MNRAS.255..603B -- Balmforth, N.J., 1992,, MNRAS, 255, 603
+1 2004ApJ...602..516B -- Barban, C., Hill, F., & Kras, S., 2004,, ApJ, 602, 516
+1 2005A&A...433..349B -- Baudin, F., Samadi, R., Goupil, M.-J., et al., 2005, A&A, 433, 349
+1 2002MNRAS.330..731C -- Chaplin W. J., Elsworth Y., Isaak G. R., et al., 2002,, MNRAS, 330, 731
+1 2002A&A...385..563D -- Dupret, M.-A., De Ridder, J., Neuforge, C., Aerts, C., and Scuflaire R., 2002, A&A 385, 563
+1 2006CoAst.147...85D -- Dupret, M.-A., Samadi, R., Grigahcene, A., et al., 2006, CoAst, 147, 85
+0 ................... -- Dupret, M.-A., Goupil, M.-J., Samadi, R. et al., these proceedings, paper II
+1 1996BASI...24..233G -- Gabriel, M. 1996, Bull. Astron. Soc. of India 24, 233
+1 1977ApJ...214..196G -- Gough, D. O., 1977,, ApJ, 214, 196
+1 2005A&A...434.1055G -- Grigahcene, A., Dupret, M.-A., Gabriel, M., et al. 2005, A&A 434, 1055
+5 1993sato.conf...13K -- Kurucz, R.L., 1993, ATLAS9 Stellar Atmosphere programs and 2 km/s grids. Kurucz CDROM No 13
+1 2001ApJ...561..444S -- Severino, G., Magri, M., Oliviero, M., et al., 2001,, ApJ, 561, 444
+1 1998ApJ...499..914S -- Stein, R. F., & Nordlund, A. 1998, ApJ 499, 914
+0 ................... -- Vernazza, J. E., Avrett, E. H., & Loeser, R., 1981,
+5 1981ApJS....0...45. -- ApJS, 45, 1981

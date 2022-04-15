@@ -1,0 +1,16 @@
+---<2003eida.conf..301V>---
+1 1998A&A...334L..73A -- Signore M., 1998, A&A, 334, L73
+1 1995A&A...296....1C -- Comastri A., Setti G., Zamorani G., & Hasinger G., 1995, A&A, 296, 1
+1 1991ApJ...378...65C -- Condon J.J. Huang Z., Yin Q.F., & Thuan, T.X., 1991,, ApJ, 378, 65, (C91)
+1 1998AJ....115.1693C -- Condon J.J., et al., 1998, AJ, 115, 1693
+1 1994ApJ...424L..65C -- Cutri R.M., Huchra J.P., Low F.J., Brown R.L., vanden Bout P.A., 1994,, ApJ, 424, L65
+1 1995MNRAS.277.1134E -- Efstathiou A., Hough J.H., & Young S., 1995,, MNRAS, 277, 1134 (EHY00)
+1 2000MNRAS.313..734E -- Efstathiou A., Rowan-Robinson M., Siebenmorgen R., 2000, MN- RAS, 313,734 (ERS00)
+0 ................... -- Fabian A.C., Barcons X., Almaini O., & Iwasawa K., 1998,, MNRAS, 297, L11Genzel et al., 1998,, ApJ, 514, L13
+5 1998Natur.394..291H -- Hughes et al., 1998,, Nature, 394, 291
+0 ................... -- Ivison et al., 1998,, MNRAS, 298, 583Klaas et al., 2001, A&A, 379, 823
+0 ................... -- Rowan-Robinson, 2000,, MNRAS, 316, 885, (RR00)Scott et al., 2002,, MNRAS, 331, 817
+1 1996ApJ...470..222S -- Shier L.M., Rieke M.J., Rieke G.H., 1996,, ApJ, 470, 222
+0 ................... -- Stanford S.A., Stern D., van Breugel W., & De Breuck C., 2000,, ApJS,
+1 2002MNRAS.335..574V -- 131, 185, (S00) Verma A., Rowan-Robinson M., McMahon R., Efstathiou A., 2002,, MNRAS, 335, 574
+1 1998ApJ...507..774Y -- Yun M.S., Scoville N.Z., 1998,, ApJ, 507, 774 COSMOLOGY AND DEEP SURVEYS
