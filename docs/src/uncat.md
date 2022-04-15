@@ -28,17 +28,17 @@ Relative to the repo root:
 
 The `docs/` tree contains this documentation.
 
-The `collections/` tree contains a mixture of Python code and the actual
-training data. Underneath `collections/` you can find one subdirectory for each
+The `pidata/` tree contains a mixture of Python code and the actual
+training data. Underneath `pidata/` you can find one subdirectory for each
 collection.
 
 Collection-level metadata and scripts live in the “collection subdirectory”, e.g.
-within `collections/esasp/` for the `esasp` collection.
+within `pidata/esasp/` for the `esasp` collection.
 
 All files in subdirectories of the collection subdirectory provide some kind of
 metadata for a document. The precise depth and name of the sub-sub-directory
 structure doesn’t matter. IDs are derived from filenames. For instance, the file
-`collections/esasp/foo/bar/123456.doc.toml` would automatically define a
+`pidata/esasp/foo/bar/123456.doc.toml` would automatically define a
 document in the `esasp` collection with collection ID `foo/bar/123456` and global
 ID `esasp/foo/bar/123456`.
 
