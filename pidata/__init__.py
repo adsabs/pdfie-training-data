@@ -29,7 +29,7 @@ class Document:
     bibcode: Optional[str]
     pdf_sha256_hex: Optional[str]
     pdf_n_bytes: Optional[int]
-    pdf_path_symbolic: Optional[str]
+    ads_pdf_path_symbolic: Optional[str]
 
     @classmethod
     def new_from_scan(cls, cname: str, cid: str, exts: Set[str]):
@@ -37,6 +37,10 @@ class Document:
             collection_name=cname,
             collection_id=cid,
             extensions=frozenset(exts),
+            bibcode=None,
+            pdf_sha256_hex=None,
+            pdf_n_bytes=None,
+            ads_pdf_path_symbolic=None,
         )
 
     @property
@@ -57,7 +61,7 @@ class Document:
         self.bibcode = info.get("bibcode")
         self.pdf_sha256 = info.get("pdf_sha256")
         self.pdf_n_bytes = info.get("pdf_n_bytes")
-        self.pdf_path_symbolic = info.get("pdf_path")
+        self.ads_pdf_path_symbolic = info.get("ads_pdf_path")
 
 
 def scan(bibcode=False, pdf_path=False) -> Generator[Document, None, None]:
@@ -105,7 +109,7 @@ def scan(bibcode=False, pdf_path=False) -> Generator[Document, None, None]:
                     if bibcode and doc.bibcode is None:
                         continue
 
-                    if pdf_path and doc.pdf_path is None:
+                    if pdf_path and doc.pdf_path_symbolic is None:
                         continue
 
                 yield doc
