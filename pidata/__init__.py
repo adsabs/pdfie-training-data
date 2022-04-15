@@ -30,6 +30,8 @@ class Document:
     pdf_sha256_hex: Optional[str]
     pdf_n_bytes: Optional[int]
     ads_pdf_path_symbolic: Optional[str]
+    pdf_is_raster: bool
+    random_index: int
 
     @classmethod
     def new_from_scan(cls, cname: str, cid: str, exts: Set[str]):
@@ -41,6 +43,8 @@ class Document:
             pdf_sha256_hex=None,
             pdf_n_bytes=None,
             ads_pdf_path_symbolic=None,
+            pdf_is_raster=False,
+            random_index=-1,
         )
 
     @property
@@ -62,12 +66,14 @@ class Document:
         self.pdf_sha256 = info.get("pdf_sha256")
         self.pdf_n_bytes = info.get("pdf_n_bytes")
         self.ads_pdf_path_symbolic = info.get("ads_pdf_path")
+        self.pdf_is_raster = info.get("pdf_is_raster", False)
+        self.random_index = info.get("random_index", -1)
 
     def ext_path(self, ext: str) -> Path:
         return COLLECTIONS_ROOT / self.collection_name / (self.collection_id + ext)
 
 
-def scan(bibcode=False, rr=False) -> Generator[Document, None, None]:
+def scan(bibcode=False, rr=False, no_raster=False) -> Generator[Document, None, None]:
     """
     Scan all of the documents in the database.
 
@@ -78,6 +84,8 @@ def scan(bibcode=False, rr=False) -> Generator[Document, None, None]:
 
     If *rr* is True, only documents with `.rr.txt` resolved-references files are
     yielded.
+
+    If *no_raster* is True, documents with raster-based PDFs are skipped.
     """
 
     for coll_item in COLLECTIONS_ROOT.iterdir():
@@ -87,6 +95,7 @@ def scan(bibcode=False, rr=False) -> Generator[Document, None, None]:
         collection_name = coll_item.name
         coll_item = str(coll_item)
         n_strip_prefix = len(coll_item) + 1
+        need_doc_def = bibcode or no_raster
 
         for dirpath, _dirnames, filenames in os.walk(coll_item):
             # Files in the toplevel collection subdirectory never correspond to
@@ -110,9 +119,13 @@ def scan(bibcode=False, rr=False) -> Generator[Document, None, None]:
                 if rr and ".rr.txt" not in exts:
                     continue
 
-                if bibcode:
+                if need_doc_def:
                     doc._augment_with_doc_def()
-                    if doc.bibcode is None:
+
+                    if bibcode and doc.bibcode is None:
+                        continue
+
+                    if no_raster and doc.pdf_is_raster:
                         continue
 
                 yield doc

@@ -31,7 +31,7 @@ def main():
 
     fulltext_prefix = "pdfietd"
 
-    docs = list(scan(bibcode=True, rr=True))
+    docs = list(scan(bibcode=True, rr=True, no_raster=True))
     print(f"Scan yielded {len(docs)} documents.")
 
     # Do the log files

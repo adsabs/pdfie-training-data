@@ -15,6 +15,13 @@ document from its collection name and some kind of sub-unique identifier within
 the collection. The globally unique ID is the “global ID”, the within-collection
 ID is the “collection ID”.
 
+**Raster PDF:** A PDF where the primary textual content is locked up inside
+bitmap images and not extractable as text. The opposite of a **vector PDF**. We
+don't have an automatic way to determine raster-ness, nor a fully precise
+definition of it. Note that some vector PDFs will contain text in raster images
+(e.g., figures delivered as bitmaps) and some raster PDFs will contain vector
+elements and/or text (e.g., a scanned PDF with a digital watermark applied).
+
 **Refstring:** the text of a single reference as it appears at the end of a
 scholarly paper. This information is not structured. TODO: figure out how
 Unicode-y to be and how to handle HTML (e.g., hyperlinks in the references found
