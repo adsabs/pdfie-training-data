@@ -1,39 +1,46 @@
 ---<2006ESASP.624E...1T>---
-0 ................... -- Brummell, N.H., Tobias, S.M. & Cattaneo, F., 2006, Astrophys. J., submitted Brummell, N.H., Hurlburt, N.E. & Toomre, J., 1998, Astrophys. J., 493, 955
+0 ................... -- Brummell, N.H., Tobias, S.M. & Cattaneo, F., 2006, Astrophys. J., submitted 
+1 1998ApJ...493..955B -- Brummell, N.H., Hurlburt, N.E. & Toomre, J., 1998, Astrophys. J., 493, 955
 1 2002ApJ...570..865B -- Brun, A.S. & Toomre, J., 2002, Astrophys. J., 570, 865
 1 2004ApJ...614.1073B -- Brun, A.S., Miesch, M.S. & Toomre, J., 2004, Astrophys. J., 614, 1073
 1 1999ApJ...515L..39C -- Cattaneo, F., 1999, Astrophys. J., 515, L39
 1 2003ApJ...588.1183C -- Cattaneo, F., Emonet, T. & Weiss, N., 2003, Astrophys. J., 588, 1183
-5 2005LRSP......2005C -- Charbonneau, P., 2005, Living Rev. Solar Phys., lrsp- 2005-2 (online)
-1 1995stf..book.....C -- Childress, S. & Gilbert, A.D., 1995, Stretch, Twist, Fold, The Fast Dynamo, SpringerCline, K.S., Brummell, N.H. & Cattaneo, F., 2003a, Astrophys. J., 588, 630Cline, K.S., Brummell, N.H. & Cattaneo, F., 2003b,
-1 1993SoPh..145..207D -- Astrophys. J., 599, 1449 Durney, B.R., deYoung, D.S. & Roxburgh, I.W., 1993, Solar Phys., 145, 207
-5 2001shpp.conf.2004E -- Emonet, T. & Cattaneo, F., 2001, Astrophys. J., 560, L197 Fan, Y., 2004, Living Rev. Solar Phys., lrsp-2004-1
-1 2000SoPh..192..119F -- (online) Fisher, G.H., Fan, Y., Longcope, D.W., Linton, M.G. & Pevtsov, A.A., 2000, Solar Phys., 192, 119
+5 2005LRSP......2005C -- Charbonneau, P., 2005, Living Rev. Solar Phys., lrsp-2005-2 (online)
+1 1995stf..book.....C -- Childress, S. & Gilbert, A.D., 1995, Stretch, Twist, Fold, The Fast Dynamo, Springer
+1 2003ApJ...588..630C -- Cline, K.S., Brummell, N.H. & Cattaneo, F., 2003a, Astrophys. J., 588, 630
+1 2003ApJ...599.1449C -- Cline, K.S., Brummell, N.H. & Cattaneo, F., 2003b, Astrophys. J., 599, 1449 
+1 1993SoPh..145..207D -- Durney, B.R., deYoung, D.S. & Roxburgh, I.W., 1993, Solar Phys., 145, 207
+5 2001shpp.conf.2004E -- Emonet, T. & Cattaneo, F., 2001, Astrophys. J., 560, L197
+1 2004LRSP....1....1F -- Fan, Y., 2004, Living Rev. Solar Phys., lrsp-2004-1 (online)
+1 2000SoPh..192..119F -- Fisher, G.H., Fan, Y., Longcope, D.W., Linton, M.G. & Pevtsov, A.A., 2000, Solar Phys., 192, 119
 1 2000ApJ...528..552G -- Gilman, P.A. & Dikpati, M., 2000, Astrophys. J., 528, 552
 5 2005LRSP......2005G -- Gizon, L., & Birch, A.C., 2005, Living Rev. Solar Phys., lrsp-2005-6 (online)
-1 1998Natur.394..755G -- Gough, D.O. & McIntyre, M.E., 1998,, Nature, 394, 755
+1 1998Natur.394..755G -- Gough, D.O. & McIntyre, M.E., 1998, Nature, 394, 755
 1 1991ARA&A..29..627G -- Gough, D.O. & Toomre, J., 1991, Annu. Rev. Astron. Astrophys., 29, 627
 1 2000SoPh..192..335H -- Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Thompson, M.J. & Hill, F., 2000, Solar Phys., 192, 335
 1 2002ApJ...570..855H -- Haber, D.H., Hindman, B.W., Toomre, J., Bogart, R.S. & Larsen, R.M., 2002, Astrophys. J., 570, 855
 1 2004SoPh..220..371H -- Haber, D.H., Hindman, B.W., Toomre, J., & Thompson, M.J., 2004, Solar Phys., 220, 371
-0 ................... -- Harvey, K.L., 1992, in The Solar Cycle, ed K.L.
-0 ................... -- Harvey, ASP, San Francisco Hindman, B.W., Haber, D.A. & Toomre, J. , 2006,
-0 ................... -- Astrophys. J., in press Howe, R., Christensen-Dalsgaard, J., Hill, F., Komm, R W., Larsen, R.M., Schou, J., Thompson, M.J. & Toomre, J., 2000a, Astrophys. J., 533, L163
+0 ................... -- Harvey, K.L., 1992, in The Solar Cycle, ed K.L. Harvey, ASP, San Francisco 
+0 ................... -- Hindman, B.W., Haber, D.A. & Toomre, J. , 2006, Astrophys. J., in press 
+1 2000ApJ...533L.163H -- Howe, R., Christensen-Dalsgaard, J., Hill, F., Komm, R W., Larsen, R.M., Schou, J., Thompson, M.J. & Toomre, J., 2000a, Astrophys. J., 533, L163
 1 2000Sci...287.2456H -- Howe, R., Christensen-Dalsgaard, J., Hill, F., Komm, R W., Larsen, R.M., Schou, J., Thompson, M.J. & Toomre, J., 2000b, Science, 287, 2456
-5 2005LRSP.2005.2006M -- Miesch, M.S., 2005, Living Rev. Solar Phys., lrsp-2005-1 (online) Miesch, M.S., 2006, in The Solar Tachocline,
-0 ................... -- Cambridge Univ. Press, Cambridge, in press Miesch, M.S., Brun., A.S. & Toomre, J., 2006a, Astrophys. J., 641, 618
+5 2005LRSP.2005.2006M -- Miesch, M.S., 2005, Living Rev. Solar Phys., lrsp-2005-1 (online)
+ Miesch, M.S., 2006, in The Solar Tachocline, Cambridge Univ. Press, Cambridge, in press 
+1 2006ApJ...641..618M -- Miesch, M.S., Brun., A.S. & Toomre, J., 2006a, Astrophys. J., 641, 618
 0 ................... -- Miesch, M.S., Brun., A.S., DeRosa, M.L. & Toomre, J., 2006b, Astrophys. J., submitted
-1 1978mfge.book.....M -- Moffatt, H.K., 1978, Magnetic Field Generation in
-5 1993ApJ...408..707P -- Electrically Conducting Fluids, Cambridge Univ. Press, Cambridge Parker, E.N., 1993, Astrophys. J., 408, 707
+1 1978mfge.book.....M -- Moffatt, H.K., 1978, Magnetic Field Generation in Electrically Conducting Fluids, Cambridge Univ. Press, Cambridge
+5 1993ApJ...408..707P -- Parker, E.N., 1993, Astrophys. J., 408, 707
 1 1998ApJ...505..390S -- Schou, J., et al. , 1998, Astrophys. J., 505, 390
 1 1997ApJ...487..424S -- Schrijver, C.J., Title, A.M., Van Ballegooigen, A.A., Hagenaar, H.G. & Shine, R.A., 1997, Astrophys. J., 487, 424
-1 1998Natur.394..152S -- Schrijver, C.J., et al., 1998,, Nature, 394, 152
-1 1992A&A...265..106S -- Spiegel, E.A. & Zahn, J.-P., 1992, Astron. Astrophys., 265, 106Steenbeck, M., Krause, F. & Radler, K.-H., 1966, Z. Naturforsch, 21a, 369
+1 1998Natur.394..152S -- Schrijver, C.J., et al., 1998, Nature, 394, 152
+1 1992A&A...265..106S -- Spiegel, E.A. & Zahn, J.-P., 1992, Astron. Astrophys., 265, 106
+1 1966ZNatA..21..369S -- Steenbeck, M., Krause, F. & Rädler, K.-H., 1966, Z. Naturforsch, 21a, 369
 1 2000SoPh..192...91S -- Stein, R. & Nordlund, A., 2000, Solar Phys., 192, 91
 1 2001ApJ...546..585S -- Stein, R. & Nordlund, A., 2001, Astrophys. J., 546, 585
 1 2002tsai.book.....S -- Stix, M., 2002, The Sun, Springer-Verlag, Berlin
 1 2002ApJ...574L.175T -- Talon, S., Kumar, P. & Zahn, J.-P., 2002, Astrophys. J., 574, L175
 1 1996Sci...272.1300T -- Thompson, M.J., et al., 1996, Science, 272, 1300
-1 2003ARA&A..41..599T -- Thompson, M.J., Christensen-Dalsgaard, J., Miesch, M.S. & Toomre, J., 2003, Annu. Rev. Astron. Astrophys., 41, 599Toomre, J., 2002, Science, 296, 64
+1 2003ARA&A..41..599T -- Thompson, M.J., Christensen-Dalsgaard, J., Miesch, M.S. & Toomre, J., 2003, Annu. Rev. Astron. Astrophys., 41, 599
+0 ................... -- Toomre, J., 2002, Science, 296, 64
 1 2002Sci...296..101V -- Vorontsov, S.V., Christensen-Dalsgaard, J., Schou, J., Strakhov, V.N. & Thompson, M.J., 2002, Science, 296, 101
 1 2005ApJ...623.1202V -- Vorontsov, S.V. & Jefferies, S.M., 2005, Astrophys. J., 623, 1202
