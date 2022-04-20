@@ -94,6 +94,12 @@ def main():
             shadow_ft_path = ft_dir / (ap.name + ".pdf")
 
             real_pdf_path = doc.ads_pdf_path_symbolic.replace("$ADS_ARTICLES", ARTICLES_PREFIX)
+
+            try:
+                shadow_ft_path.unlink()
+            except FileNotFoundError:
+                pass
+
             shadow_ft_path.symlink_to(real_pdf_path)
 
         print(f"Created symlinks in `{ft_root_dir}`")
