@@ -1,0 +1,26 @@
+Braun, D. C., Duvall, T. L. Jr. & LaBonte, B. J., 1988, ApJ 335, 1015
+Braun, D. C., 1995, ApJ 451, 859
+Brickhouse, N. S. & LaBonte, B. J., 1988, ApJ 115,
+Cally, P. S., 2000, SPh 192, 395
+Cally, P. S., 2005, MNRAS 358, 353
+Cally, P. S., Crouch, A. D. & Braun, D. C., 2003, MNRAS 346, 381
+Cally, P. S. & Bogdan, T. J., 1997, ApJ 486, L67
+Christensen-Dalsgaard, J., 2002, Reviews of Modern Physics 74, 1073
+Christensen-Dalsgaard, J., Proffitt, C. R. & Thompson, M. J., 1993, ApJ 403, L75
+Crouch, A. D., Cally, P. S., Charboneau, P., Braun, D. C. & Desjardins, M., 2005, MNRAS 363, 1188
+Duvall, T. L. Jr., D'Silva, S., Jefferies, S. M., Harvey, J. W. & Schou, J., 1996, Nature 379, 235
+Gizon, L. & Birch, A. C., 2005, Living Reviews in Solar Physics 2, No 6
+Harvey, J. H. & Harvey, K. L., 1976, SPh 47, 233
+Kosovichev, A. G., 1996, ApJ 461, L55
+Lindsey, C. & Braun, D. C., 1996, ApJ 470, 636
+Lindsey, C. & Braun, D. C., 2000, SPh 192, 261
+Lindsey, C. & Braun, D. C., 2005, ApJ 690, 1107
+Lindsey, C. & Braun, D. C., 2005, ApJ 690, 1120
+Schunker, H., Braun, Lindsey, C. & D. C., Cally, P. S., 2004, Proc SOHO 14/GONG 2004 Workshop (ESA SP-559), p 227
+Schunker, H., Braun, D. C., Cally, P. S. & Lindsey, C., 2005, ApJ 621, L49
+Schunker, H. & Cally, P. S., 2006, MNRAS accepted
+Schunker, H. et al., 2006, Proc. SOHO 18/GONG 2006/HELAS 1 Workshop, (ESA SP-624, these proceedings)
+Spruit, H. C. & Bogdan, T. J., 1992, ApJ 391, L109
+Zhao, J. & Kosovichev, A. G., 2001, ApJ 557, 384
+Zhao, J. & Kosovichev, A. G., 2003, ApJ 591, 446
+Zhao, J. & Kosovichev, A. G., 2006, ApJ 643, 1317
