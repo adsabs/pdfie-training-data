@@ -9,9 +9,9 @@ from dataclasses import dataclass
 import os.path
 from pathlib import Path
 import toml
-from typing import FrozenSet, Generator, Optional, Set
+from typing import FrozenSet, Generator, Optional, Set, Tuple, Union
 
-__all__ = ["COLLECTIONS_ROOT", "RECOGNIZED_EXTENSIONS", "Document", "scan"]
+__all__ = ["COLLECTIONS_ROOT", "RECOGNIZED_EXTENSIONS", "Document", "scan", "scan_for_ext"]
 
 COLLECTIONS_ROOT = Path(os.path.dirname(__file__))
 
@@ -129,3 +129,28 @@ def scan(bibcode=False, rs=False, no_raster=False) -> Generator[Document, None, 
                         continue
 
                 yield doc
+
+def scan_for_ext(rootdir: Union[Path, str], extension: str) -> Generator[Tuple[str, Path], None, None]:
+    """
+    Scan a directory tree for files with a given extension.
+
+    This function is a slightly more generalized version of `scan` that is aimed
+    at scanning trees of exported from the database. It simple walks a tree
+    starting from the specified root and yields paths with the specified
+    extension.
+
+    The yielded values are tuples of ``(global_id, filepath)``, where the
+    ``global_id`` is inferred from the filepath by removing the rootdir prefix
+    and the matched extension.
+    """
+
+    rootdir = str(rootdir)
+    n_strip_prefix = len(rootdir) + 1
+    tail_slice = -len(extension)
+
+    for dirpath, _dirnames, filenames in os.walk(rootdir):
+        for fn in filenames:
+            if fn.endswith(extension):
+                tail = fn[:tail_slice]
+                gid = dirpath[n_strip_prefix:] + "/" + tail
+                yield (gid, Path(dirpath) / fn)

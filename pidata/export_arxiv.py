@@ -72,7 +72,7 @@ def main():
         ap = Path(arxiv_id)
         ref_dir = gt_dir / fulltext_prefix / ap.parent
         ref_dir.mkdir(parents=True, exist_ok=True)
-        ref_path = ref_dir / (ap.name + ".txt")
+        ref_path = ref_dir / (ap.name + ".rs.txt")
         shutil.copy(doc.ext_path(".rs.txt"), ref_path)
 
     print(f"Wrote files in `{gt_dir}`")
