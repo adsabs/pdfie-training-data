@@ -54,7 +54,7 @@ data. Unrecognized extensions are ignored.
 
 **The `.doc.toml` extension** gives high-level document metadata.
 
-**The `.rr.txt` extension** gives resolved references: both a refstring and an
-ADS bibcode, if the refstring resolves to one. These use Unicode to match
-typography as precisely as possible, and do *not* use HTML.
-
+**The `.rs.txt` extension** gives the ground-truth refstrings, folded to one per
+line. These use Unicode to match typography as precisely as possible, and do
+*not* use HTML. Numbering typography such as leading `[3]` should not be
+included. Hyphens introduced for linebreaks should be removed.

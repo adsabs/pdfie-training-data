@@ -31,7 +31,7 @@ def main():
 
     fulltext_prefix = "pdfietd"
 
-    docs = list(scan(bibcode=True, rr=True, no_raster=True))
+    docs = list(scan(bibcode=True, rs=True, no_raster=True))
     print(f"Scan yielded {len(docs)} documents.")
 
     # Do the log files
@@ -58,11 +58,7 @@ def main():
 
     print(f"Wrote `{logs_dir / 'fulltextharvest.out'}`")
 
-    # Copy out the resolved references files. NOTE: The format that we write
-    # into `references/groundtruth` may (intentionally) not be exactly the same
-    # as what's used in `references/resolved`, since the former comes from this
-    # package and the latter comes from the production system. Normalize as
-    # appropriate!
+    # Copy out the ground-truth refstring files.
 
     gt_dir = out_dir / "references" / "groundtruth"
 
@@ -72,7 +68,7 @@ def main():
         ref_dir = gt_dir / fulltext_prefix / ap.parent
         ref_dir.mkdir(parents=True, exist_ok=True)
         ref_path = ref_dir / (ap.name + ".txt")
-        shutil.copy(doc.ext_path(".rr.txt"), ref_path)
+        shutil.copy(doc.ext_path(".rs.txt"), ref_path)
 
     print(f"Wrote files in `{gt_dir}`")
 

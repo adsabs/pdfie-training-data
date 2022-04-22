@@ -73,7 +73,7 @@ class Document:
         return COLLECTIONS_ROOT / self.collection_name / (self.collection_id + ext)
 
 
-def scan(bibcode=False, rr=False, no_raster=False) -> Generator[Document, None, None]:
+def scan(bibcode=False, rs=False, no_raster=False) -> Generator[Document, None, None]:
     """
     Scan all of the documents in the database.
 
@@ -82,7 +82,7 @@ def scan(bibcode=False, rr=False, no_raster=False) -> Generator[Document, None, 
     If *bibcode* is True, only documents with metadata that specify their ADS
     bibcodes are yielded.
 
-    If *rr* is True, only documents with `.rr.txt` resolved-references files are
+    If *rs* is True, only documents with `.rs.txt` refstring files are
     yielded.
 
     If *no_raster* is True, documents with raster-based PDFs are skipped.
@@ -116,7 +116,7 @@ def scan(bibcode=False, rr=False, no_raster=False) -> Generator[Document, None, 
             for cid, exts in doc_data.items():
                 doc = Document.new_from_scan(collection_name, cid, exts)
 
-                if rr and ".rr.txt" not in exts:
+                if rs and ".rs.txt" not in exts:
                     continue
 
                 if need_doc_def:
