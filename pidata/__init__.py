@@ -17,7 +17,7 @@ COLLECTIONS_ROOT = Path(os.path.dirname(__file__))
 
 RECOGNIZED_EXTENSIONS = [
     ".doc.toml",
-    ".rr.txt",
+    ".rs.txt",
 ]
 
 
