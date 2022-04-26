@@ -1,0 +1,41 @@
+Barban, C., de Ridder, J., Mazumdar, A., Carrier, F., Eggenberger, P., de Ruyter, S., Vanautgaerden, J., Bouchy, F., & Aerts, C., In SOHO 14/GONG 2004 Workshop, Helio- and Asteroseismology: Towards a Golden Future, page 113.
+Bazot, M., Bouchy, F., Kjeldsen, H., Charpinet, S., Laymand, M., & Vauclair, S., 2006, A&A. submitted.
+Bazot, M., Vauclair, S., Bouchy, F., & Santos, N. C., 2005, A&A, 440, 615.
+Bedding, T. R., 2003, Ap&SS, 284, 61.
+Bedding, T. R., Butler, R. P., Carrier, F., Bouchy, F., Brewer, B. J., Eggenberger, P., Grundahl, F., Kjeldsen, H., McCarthy, C., Bjorn Nielsen, T., Retter, A., & Tinney, C. G., 2006, ApJ, 647, 558.
+Bedding, T. R., Butler, R. P., Kjeldsen, H., Baldry, I. K., O’Toole, S. J., Tinney, C. G., Marcy, G. W., Kienzle, F., & Carrier, F., 2001, ApJ, 549, L105.
+Bedding, T. R., Kiss, L. L., Kjeldsen, H., Brewer, B. J., Dind, Z. E., Kawaler, S. D., & Zijlstra, A. A., 2005, MNRAS, 361, 1375.
+Bedding, T. R., & Kjeldsen, H., 2006, Mem. Soc. Astron. Ital., 77, 384.
+Bedding, T. R., Kjeldsen, H., Bouchy, F., Bruntt, H., Butler, R. P., Buzasi, D. L., Christensen-Dalsgaard, J., Frandsen, S., Lebrun, J.-C., Martić, M., & Schou, J., 2005, A&A, 432, L43.
+Bedding, T. R., Kjeldsen, H., Butler, R. P., McCarthy, C., Marcy, G. W., O’Toole, S. J., Tinney, C. G., & Wright, J. T., 2004, ApJ, 614, 380.
+Bouchy, F., Bazot, M., Santos, N. C., Vauclair, S., & Sosnowska, D., 2005, A&A, 440, 609.
+Bouchy, F., & Carrier, F., 2002, A&A, 390, 205.
+Bouchy, F., Maeder, A., Mayor, M., Mégevand, D., Pepe, F., & Sosnowska, D., 2004, Nat, 432, 7015. arXiv:astro-ph/0510303.
+Bruntt, H., Kjeldsen, H., Buzasi, D. L., & Bedding, T. R., 2005, ApJ, 633, 440.
+Butler, R. P., Bedding, T. R., Kjeldsen, H., McCarthy, C., O’Toole, S. J., Tinney, C. G., Marcy, G. W., & Wright, J. T., 2004, ApJ, 600, L75.
+Carrier, F., Bouchy, F., & Eggenberger, P., 2003, In Thompson, M. J., Cunha, M. S., & Monteiro, M. J. P. F. G., editors, Asteroseismology Across the HR Diagram, page P311. Kluwer.
+Carrier, F., Bouchy, F., Kienzle, F., Bedding, T. R., Kjeldsen, H., Butler, R. P., Baldry, I. K., O’Toole, S. J., Tinney, C. G., & Marcy, G. W., 2001, A&A, 378, 142.
+Carrier, F., & Bourban, G., 2003, A&A, 406, L23.
+Carrier, F., & Eggenberger, P., 2006, A&A, 450, 695.
+Carrier, F., Eggenberger, P., & Bouchy, F., 2005, A&A, 434, 1085.
+Carrier, F., Eggenberger, P., D’Alessandro, A., & Weber, L., 2005, NewA, 10, 315.
+Chaplin, W. J., Elsworth, Y., Houdek, G., & New, R., 2006, MNRAS. submitted.
+Christensen-Dalsgaard, J., Kjeldsen, H., & Mattei, J. A., 2001, ApJ, 562, L141.
+Claudi, R. U., Bonanno, A., Leccia, S., Ventura, R., Desidera, S., Gratton, R., Cosentino, R., Paterno, L., & Endl, M., 2005, A&A, 429, L17.
+De Ridder, J., Barban, C., Carrier, F., Mazumdar, A., Eggenberger, P., Aerts, C., Deruyter, S., & Vanautgaerden, J., 2006, A&A, 448, 689.
+Eggenberger, P., & Carrier, F., 2006, A&A, 449, 293.
+Fletcher, S. T., Chaplin, W. J., Elsworth, Y., Schou, J., & Buzasi, D., 2006, MNRAS, 371, 935.
+Frandsen, S., Carrier, F., Aerts, C., Stello, D., Maas, T., Burnet, M., Bruntt, H., Teixeira, T. C., de Medeiros, J. R., Bouchy, F., Kjeldsen, H., Pijpers, F., & Christensen-Dalsgaard, J., 2002, A&A, 394, L5.
+Guenther, D. B., Kallinger, T., Reegen, P., Weiss, W. W., Matthews, J. M., Kuschnig, R., Marchenko, S., Moffat, A. F. J., Rucinski, S. M., Sasselov, D., & Walker, G. A. H., 2005, ApJ, 635, 547.
+Hekker, S., Aerts, C., De Ridder, J., & Carrier, F., 2006, A&A. in press.
+Houdek, G., Balmforth, N. J., ChristensenDalsgaard, J., & Gough, D. O., 1999, A&A, 351, 582.
+Kiss, L. L., Szabo, G. M., & Bedding, T. R., 2006, MNRAS. in press, astro-ph/0608438.
+Kjeldsen, H., Bedding, T. R., Baldry, I. K., Bruntt, H., Butler, R. P., Fischer, D. A., Frandsen, S., Gates, E. L., Grundahl, F., Lang, K., Marcy, G. W., Misch, A., & Vogt, S. S., 2003, AJ, 126, 1483.
+Kjeldsen, H., Bedding, T. R., Butler, R. P., Christensen-Dalsgaard, J., Kiss, L., McCarthy, C., Marcy, G. W., Tinney, C. G., & Wright, J. T., 2005, ApJ, 635, 1281.
+Kjeldsen, H., Bedding, T. R., Viskum, M., & Frandsen, S., 1995, AJ, 109, 1313.
+Martić, M., Lebrun, J.-C., Appourchaux, T., & Korzennik, S. G., 2004, A&A, 418, 295.
+Martić, M., Lebrun, J. C., Appourchaux, T., & Schmitt, J., In SOHO 14/GONG 2004 Workshop, Helio- and Asteroseismology: Towards a Golden Future, page 563.
+Matthews, J. M., Kuschnig, R., Guenther, D. B., Walker, G. A. H., Moffat, A. F., Rucinski, S. M., Sasselov, D., & Weiss, W. W., 2004, Nat, 430, 51. Erratum: 430, 921.
+Mosser, B., Bouchy, F., Catala, C., Michel, E., Samadi, R., Thévenin, F., Eggenberger, P., Sosnowska, D., Moutou, C., & Baglin, A., 2005, A&A, 431, L13.
+Stello, D., Kjeldsen, H., Bedding, T. R., De Ridder, J., Aerts, C., Carrier, F., & Frandsen, S., 2004, Sol. Phys., 220, 207.
+Straka, C. W., Demarque, P., Guenther, D. B., Li, L., & Robinson, F. J., 2006, ApJ, 636, 1078.

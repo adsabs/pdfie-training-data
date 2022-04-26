@@ -1,0 +1,12 @@
+Christensen-Dalsgaard J., et al. The Current State of Solar Modeling, Science, Vol. 272, 1286 – 1292, 1996.
+Cowling T. G., The Non-Radial Oscillations of Polytropic Stars, MNRAS, Vol. 101, 367 – 375, 1941.
+Eckart C., Hydrodynamics of Oceans and Atmospheres, Pergamon Press, New York, USA, 1960.
+Eisenfeld J., A Completeness Theorem for an Integro-Differential Operator, J. Math. Anal. Applic., Vol. 26, 357 – 375, 1969.
+Gabriel M. and Scuflaire R., Properties of NonRadial Stellar Oscillations, Acta Astron., Vol. 29, 135 – 149, 1979.
+Lebovitz N. R., On Schwarzschild’s Criterion for the Stability of Gaseous Masses, ApJ, Vol. 142, 229 – 242, 1965.
+Osaki Y., Nonradial Oscillations of a 10 Solar Mass Star in the Main-Sequence Stage, PASJ, Vol. 27, 237 – 258, 1975.
+Scuflaire R., The Non Radial Oscillations of Condensed Polytropes, A&A, Vol. 36, 107 – 111, 1974.
+Takata M., Momentum Conservation and Mode Classification of the Dipolar Oscillations of Stars, PASJ, Vol. 57, 375 – 389, 2005.
+Takata M., First Integrals of Adiabatic Stellar Oscillations, PASJ, Vol. 58, 759 – 775, 2006.
+Takata M., Analysis of Adiabatic Dipolar Oscillations of Stars, PASJ, in press.
+Unno W., et al. Nonradial Oscillations of Stars, 2nd edition, University of Tokyo Press, Tokyo, Japan, 1989.

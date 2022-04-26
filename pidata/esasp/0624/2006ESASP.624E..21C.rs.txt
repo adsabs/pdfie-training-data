@@ -1,0 +1,35 @@
+Appourchaux T., Chang H-. Y., Gough D. O. & Sekii T., 2000, MNRAS, 319, 365
+Bahcall, J. N., Serenelli, A. M., & Basu, S. 2005, ApJ, 621, L85
+Basu S., Mandel A., 2004, ApJ, 617, L155
+Basu S., Chaplin W. J., Elsworth Y., New R., Serenelli A. M., Verner G. A., 2006, ApJ, submitted
+Baudin F., Samadi R., Goupil M.-J., Appourchaux T., Barban C., Boumier P., Chaplin W. J., Gouttebroze P., 2005, A&A, 433, 349
+Chaplin W. J., Elsworth Y., Isaak G. R., Marchenkov K. I., Miller B. A., New R., 2001, MNRAS, 327, 1127
+Chaplin W. J., Sekii T., Elsworth Y., Gough D. O., 2004a, MNRAS, 355, 535
+Chaplin W. J., Appourchaux T., Elsworth Y., Isaak G. R., Miller B. A., New R., Toutain T., 2004b, A&A, 416, 341
+Chaplin W. J., Elsworth Y., Miller B. A., New R., Verner G. A., 2005a, ApJ, 635, L105
+Chaplin W. J., Elsworth Y., Isaak G. R., Miller B. A., New R., Pinter B., 2005b, MNRAS, 359, 607
+Chaplin W. J., Houdek G., Elsworth Y., Gough D. O., Isaak G. R., New R., 2005c, MNRAS, 360, 859
+Chaplin W. J., et al., 2006, MNRAS, 369, 985
+Claverie A., Isaak G. R., McLeod C. P., van der Raay H. B., Cortes T. R., 1979, Nature, 282, 591
+Corbard T., Di Mauro M. P., Sekii T., and the GOLF team, 1998, in: Proc. SOHO6/GONG98 ‘Structure and Dynamics of the Sun and Sun-like Stars’, ESA SP-418, p. 741
+Couvidat S., Garcı́a R. A., Turck-Chieze S., Corbard T., Henney C. J., Jiménez-Reyes S. J., 2003, ApJ, 597, 77
+Garcı́a R. A., Corbard T., et al., 2004, SolPhys, 220, 269
+Garcı́a R. A., et al., 2005, A&A, 442, 385
+Guzik J. A., Watson L. S., Cox A. N., 2005, ApJ, 627, 1049
+Houdek G., Balmforth N. J., Christensen-Dalsgaard J., Gough D. O., 1999, A&A, 351, 582
+Houdek, G., et al. 2001, MNRAS, 327, 483
+Houdek G., Gough D. O., 2006, MNRAS, submitted
+Jiménez A., Jiménez-Reyes S. J., Garcı́a R. A., 2005, ApJ, 623, 1215
+Jiménez A., 2006, ApJ, 646, 1398
+Jiménez-Reyes S. J., Garcı́a R. A., Jiménez A., Chaplin W. J., 2003, ApJ, 595, 446
+Jiménez-Reyes S. J., Chaplin W. J., Elsworth Y., Garcı́a R. A., Howe R., Socas-Navarro H., Toutain T., 2006, ApJ, in press
+Otı́ Floranes H., Christensen-Dalsgaard J., Thompson M. J., 2005, MNRAS, 356, 671
+Roxburgh I. W., Vorontsov S. V., 2003, A&A, 411, 215
+Roxburgh I. W., 2005, A&A, 434, 665
+Salabert D., Chaplin W. J., Elsworth Y., New R., Verner G. A., 2006, A&A, submitted
+Samadi R., Kupka F., Goupil M. J., Lebreton Y., van’t Veer Menneret C., 2006, A&A, 445, 233
+Simoniello R., Chaplin W. J., Elsworth Y., Isaak G. R., New R., 2004, ApJ, 616, 594
+Toutain T., Elsworth Y., Chaplin W. J., 2006, MNRAS, in press
+Turck-Chièze S., et al., 2004, PhRvL, 93 1102
+Turck-Chièze S., Mathur S., Carton P. H., Garcı́a R. A., Pallé P., Ballot J., 2005, in: SF2A-2005: Semaine de l’Astrophysique Francaise, meeting held in Strasbourg, June/July 2005, ed. F. Casoli, T. Contini, J. M. Hameury, L. Pagani, EDP Conf. Ser., p. 167
+Verner G. A., Chaplin W. J., Elsworth Y., 2006, ApJ, 640, L95

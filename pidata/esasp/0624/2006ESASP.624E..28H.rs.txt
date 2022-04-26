@@ -1,0 +1,56 @@
+Balmforth N.J. 1992a, MNRAS 255, 603
+Balmforth N.J. 1992b, MNRAS 255, 639
+Batchelor G.K., 1953, Homogeneous Turbulence, Cambridge University Press, Cambridge
+Bedding T.R., Butler R.P., Kjeldsen H., et al. 2001, ApJ 549, L105
+Bedding T.R., Kjeldsen H., Butler R.P., et al. 2004, ApJ 614, 380
+Bohn H.U., 1984, A&A 136, 338
+Bouchy F., Carrier F. 2001, A&A 374, L5
+Chaplin W.J., Appourchaux T. 1999, MNRAS 309, 761
+Chaplin W.J., Houdek G., Elsworth Y., Gough D.O., Isaak, G.R., New R. 2005, MNRAS 360, 859
+Chaplin W.J., Elsworth Y., Isaak G.R., Lines R., McLeod C.P., Miller B.A., New R. 1998, MNRAS 298, L7
+Christensen-Dalsgaard J., Gough D. 1982, MNRAS 198, 141
+Christensen-Dalsgaard J., Frandsen S. 1983, Solar Phys. 82, 469
+Dupret M.-A., Grigahcène A., Garrido R., Gabriel M., Noels A., in Proc. SOHO 14/GONG 2004 Workshop, ed. D.Danesy, ESA SP-559, (Noordwijk: ESTEC), 207
+Frandsen S., Carrier F., Aerts C., et al. 2002, A&A 394, L5
+Gabriel M., Scuflaire R., Noels A, Boury A. 1975, A&A 208, 122
+Gabriel M., in Proc. SOHO 6/GONG 98 Workshop, eds S. Korzennik, A. Wilson, ESA SP-418 (Noordwijk: ESTEC), 863
+Goldreich P., Keeley D.A. 1977, ApJ 212, 243
+Goldreich P., Kumar P. 1990, ApJ 363, 694
+Goldreich P., Murray N., Kumar P. 1994, ApJ 423, 466
+Gough D.O. 1977a, in Problems of stellar convection, eds E. Spiegel, J.-P. Zahn (Berlin: SpringerVerlag), 15
+Gough D.O. 1977b, ApJ 214, 196
+Gough D.O. 1980, in Nonradial and Nonlinear Stellar Pulsation, eds H.A. Hill, W.A. Dziembowski, (Berlin: Springer-Verlag), 273
+Gough D.O. 1985, in Proc. Future Missions in Solar, Heliospheric and Space Plasma Physics, eds E. Rolfe, B. Battirck, ESA SP-235, (Noordwijk:ESTEC), 183
+Houdek G., Balmforth N., Christensen-Dalsgaard J. 1995, in Proc. 4th SOHO Workshop, eds J.T. Hoeksema, V. Domingo, B. Fleck, B. Battrick, ESA SP376, Vol. 2, (Noordwijk: ESTEC), 447
+Houdek G., Balmforth N.J., Christensen-Dalsgaard J., Gough D.O. 1999, A&A 351, 582
+Houdek G., Gough D.O. 2002, MNRAS 336, L65
+Jiménez A., ApJ 581, 736
+Kjeldsen H., Bedding T.R. 1995, A&A 293, 87
+Kjeldsen H., Bedding T.R., 2001, in Proc. SOHO 10/GONG 2000 Workshop, ed. A. Wilson, ESA SP464, (Noordwijk: ESTEC), 361
+Kjeldsen H., Bedding T.R., Butler R.P., et al. 2005, ApJ 635, 1281
+Kolmogorov A.N. 1941, Dokl. Akad. Nauk SSSR, 30, 299
+Kosovichev A.G. 1995, in Proc. of Fourth SOHO Workshop, eds J.T. Hoeksama, V. Domingo, B. Fleck, ESA SP-376, vol.2, (Noordwijk: ESTEC), 165
+Libbrecht K.G. 1988, ApJ 334, 510
+Lighthill M.J. 1952, Proc. Roy. Soc. London A211, 564
+Ludwig H.-G. 2005, personal communication
+Marmolino C., Stebbins R.T. 1989, Solar Phys. 124, 23
+Musielak Z.E., Rosner R., Stein R.F., Ulmschneider P. 1994, ApJ 423, 474
+Martic M., Schmitt J., Lebrun J.-C., Barban C., Connes P., Bouchy F., Michel E., Baglin A., Appourchaux T., Bertaux J.-L. 1999, A&A 351, 993
+Moore D.W., Spiegel E.A. 1964, ApJ 139, 48
+Osaki Y. 1990, in Progress of Seismology of the Sun and Stars, eds Y. Osaki Y., H. Shibahashi, (Berlin: Springer-Verlag), 145
+Samadi R., Goupil M.-J. 2001, A&A 370, 136
+Samadi R., Nordlund Å., Stein R.F., Goupil M.-J., Roxburgh I., 2003, A&A 404, 1129
+Samadi R., Goupil M.-J., Alecian E., et al. 2005, J. Astrophys Astr. 26, 171
+Schrijver C.J., Jiménez A., Däppen W. 1991, A&A 251, 655
+Spiegel E. 1962, J. Geophys. Res. 67, 3063
+Stein R.F. 1967, Solar Phys. 2, 385
+Stein R.F., Nordlund Å. 2001, ApJ 546, 585
+Stein R., Georgobani D., Trampedach R., Ludwig H.-G., Nordlund Å. 2004, Solar Phys. 220, 229
+Stello D., Kjeldsen H., Bedding T.R., et al. 2004, Solar Phys. 200, 207
+Stello D., Kjeldsen H., Bedding T.R., Buzasi D. 2006, A&A 448, 709
+Toutain T., Appourchaux T., Baudin F., et al. 1997, Solar Phys. 172, 311
+Trampedach R., Stein R.F., Christensen-Dalsgaard J., Nordlund Å. 1999, in Theory and Tests of Convection in Stellar Structure, eds A. Giménez, E.F. Guinan, B. Montesinos, ASP Conf. Ser. 173, 233
+Unno W. 1964, Trans. Int. astr. Un. XII(B), 555
+Unno W. 1967, PASJ 19, 140
+Unno W., Kato S. 1962, PASJ 14, 416
+Unno W., Spiegel E.A. 1966, PASJ 18, 85
