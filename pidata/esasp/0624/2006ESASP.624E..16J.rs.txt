@@ -1,0 +1,34 @@
+Alfvén, H. 1947, MNRAS, 107, 211
+Bel, N. & Leroy, B. 1977, Astron. & Astrophys., 55, 239
+Bloomfield, D. S. et al. 2004, ApJ, 604, 936
+Canfield, R.C. & Musman, S., 1973, ApJ, 184, L131
+Cattaneo, F., Emonet, T. & Weiss, N. 2003, ApJ, 588, 1183
+DeForest, C. E. & Gurman, J. B. 1998, ApJ, 501, L217
+Delaboudiniére, J.-P. et al. 1995, Solar Phys., 162, 291
+De Pontieu, B., Erdelyi, R., James, S.P., 2004a, Nature, 430, 536
+De Pontieu, B., Erdelyi, R., De Moortel, I., 2004b, ApJ, 624, L61
+Fawzy, D. et al. 2002, Astron. & Astrophys, 386, 971
+Finsterle, W., Jefferies, S. M., Cacciani, A., et al. 2004a, Solar Phys., 220, 317
+Finsterle, W., Jefferies, S. M., Cacciani, A., et al. 2004b, ApJ, 613, L185
+Fleck, B., Domingo, V., Poland, A. I. 1995, The SOHO mission, (Dordrecht: Kluwer)
+Fontenla, J.M., et al., ApJ, 1993b, 406, 319
+Fossum, A. & Carlsson, M., 2005, Nature, 435, 919
+Krijger, J. M., Roudier, T. & Rieutord, M. 2002, Astron. & Astrophys, 387, 672
+Lin, G., et al. 2003, Cytometry, 56A, 23
+McIntosh, S.W. & Jefferies, S. M. 2006, ApJ, 647, L77
+McLellan, A. & Winterberg, F. 1968, Solar Phys., 4, 401
+Parker, E. N., 1988, ApJ, 330, 474
+Priest, E. R., Heyvaerts, J. F. & Title, A. M. 2002, ApJ, 576, 533
+Rabin, D. & Moore, R. 1984, ApJ, 285, 359
+Scherrer, P. H., et al. 1995, Solar Phys., 162, 129
+Schrijver, C. J. & Title, A. M. 2003, ApJ , 597, L165
+Schwarzschild, M. 1948, ApJ, 107, 1
+Socas-Navarro, H. 2005, ApJ, 631, L167
+Socas-Navarro, H. 2005, ApJ, 633, L57
+Trujillio Bueno, J., Shchukina, N. & Asensio Ramos, A. 2004, Nature, 430, 326
+Uitenbroek, H. 2006, in Solar MHD: theory and observations a high spatial resolution perspective, eds. R.L. Stein, J. Leibacher and H. Uitenbroek (NSO Workshop 23; Sunspot: NSO), in press
+Ulmschneider, P., Theurer, J. & Musielak, Z. E. 1996, Astron. & Astrophys, 315, 212
+Ulmschneider, P. et al. 2005, ApJ, 631, L155
+Vernazza, J. E., Avrett, E. H. & Loeser, R. 1981, ApJ Supp., 48, 635
+Weigelmann, T., Lagg, A. Solanki, S. K., Inhester, B. & Woch, J. 2005, Astron. & Astrophys, 433, 701
+Zhugzhda, Y.D., & Dzhalilov, N.S., 1984, Astron. & Astrophys, 132, 45

@@ -1,0 +1,34 @@
+Basu, S., Antia, H. M., & Bogart, R. S. 2004, ApJ, 610, 1157
+Haber, D. A., Hindman, B. W., Toomre, J., & Thompson, M. J. 2004, Sol Phys, 220, 371
+Komm, R., Howe, R., Hill, F., González Hernández, I., & Toner, C. 2005, ApJ, 630, 1184
+Braun, D. C., & Lindsey, C. 2003, in Proceedings of SOHO 12/ GONG 2002, 15
+Lindsey, C., & Braun, D. C. 2005, ApJ, 620, 1107
+Sun, M.-T., Chou, D.-Y., & the TON Team 2002, Sol Phys, 209, 5
+Duvall, T. L., Jr., Jefferies, S. M., Harvey, J. W., & Pomerantz, M. A. 1993, Nature, 362, 430
+Duvall, T. L., Jr., D’Silva, S., Jefferies, S. M., Harvey, J. W., & Schou, J. 1996, Nature, 379, 235
+Giles, P. M., Duvall, T. L., Jr., Scherrer, P. H., & Bogart, R. S. 1997, Nature, 390, 52
+Zhao, J., & Kosovichev, A. G. 2004, ApJ, 603, 776
+Kosovichev, A. G. 1996, ApJ, 461, L55
+Kosovichev, A. G., Duvall, T. L., Jr., & Scherrer, P. H. 2000, Sol Phys, 192, 159
+Jensen, J. M., Jacobsen, B. H., & ChristensenDalsgaard, J. 2000, Sol Phys, 192, 231
+Birch, A. C., & Kosovichev, A. G. 2000, Sol Phys, 192, 193
+Gizon, L., & Birch, A. C. 2002, ApJ, 571, 966
+Zhao, J., Kosovichev, A. G., & Duvall, T. L., Jr. 2001, ApJ, 557, 384
+Hughes, S. J., Rajaguru, S. P., & Thompson, M. J. 2005, ApJ, 627, 1040
+Jacobsen, B. H., Møller, I., Jensen, J. M., & Effersø, F. 1999, Phys. Chem. Earth, 24, 15
+Couvidat, S., Birch, A. C., Kosovichev, A. G., & Zhao, J. 2004, ApJ, 607, 554
+Zhao, J., 2004, Ph.D. Thesis, Stanford University
+Giles, P. M. 1999, Ph.D. Thesis, Stanford University
+Paige, C. C., & Saunders, M. A. 1982, ACM Trans. Math. Software, 8, 43
+Zhao, J., & Kosovichev, A. G. 2003, ApJ, 591, 446
+Jensen, J. M., Duvall, T. L., Jr., Jacobsen, B. H., & Christensen-Dalsgaard, J. 2001, ApJ, 553, L193
+Birch, A. C., Kosovichev, A. G., & Duvall, T. L., Jr. 2004, ApJ, 608, 580
+Couvidat, S., Birch, A. C., & Kosovichev, A. G. 2006, ApJ, 640, 516
+Gizon, L., & Birch, A. C. 2005, Living Rev. Solar Phys., 2, 6, http://www.livingreviews.org/lrsp-2005-6
+Parker, E. N. 1979, ApJ, 230, 905
+Lindsey, C., & Braun, D. C. 2005, ApJ, 620, 1118
+Zhao, J., & Kosovichev, A. G. 2006, ApJ, 643, 1317
+Schunker, H., Braun, D. C., Cally, P. S., & Lindsey, C. 2005, ApJ, 621, L149
+Rajaguru, S. P., Birch, A. C., Duvall, T. L., Jr., Thompson, M. J., & Zhao, J. 2006, ApJ, 646, 543
+Braun, D. C. 1997, ApJ, 487, 447
+Braun, D. C., & Birch, A. C. 2006, ApJ, 647, L187

@@ -1,0 +1,56 @@
+Abramowitz, M. & Stegun, I. A. 1965 Handbook on Mathematical Functions, New York: Dover.
+Basu, S. 2002 What does helioseismology tell us about solar cycle related structural changes in the Sun? In A. Wilson (ed.) From solar min to max: half a solar cycle with SOHO ESA-SP 508, 7–17.
+Bi, S. L., Liao, Y. & Wang, J. X. 2003 Influence of turbulent magnetic fields on mode frequencies. Astron. Astrophys. 397, 1069–1074.
+Braun, D. C. & Fan, Y. 1998 Helioseismic measurements of the sub-surface meridional flow. Astrophys. J. 508, L105–L108.
+Campbell, W. R. & Roberts, B. 1989 The influence of a chromospheric magnetic field on the solar p- and f-modes. Astrophys. J. 338, 538–556.
+Chaplin, W. J., Elsworth, Y. Isaak, G. R., Miller, B. A. & New, R. Variations in the excitation and damping of low-l solar p modes over the solar activity cycle. MNRAS 313, 32-42.
+De Pontieu, B., Erdélyi, R. & James, S. 2004 Solar chromospheric spicules from the leakage of photospheric oscillations and flows, Nature 430, 536–539.
+De Pontieu, B., Erdélyi, R. & De Moortel, I. 2005 How to channel photospheric oscillations into the corona. Astrophys. J. 624, L61-L64.
+Deubner, F.-L. 1975 Observations of low wavenumber nonradial eigenmodes of the sun. Astron. Astrophys. 44, 371–375.
+Dziembowski, W. & Goode, P. R. 2005 Sources of oscillation frequency increase with rising solar activity. Astrophys. J. 625 548–555.
+Erdélyi, R., Kerekes, A. & Mole, N. 2004 Random flow effects on surface waves. In R. Erdélyi, J.L. Ballester & B. Fleck (sci. eds.) SOHO 13 - Waves, Oscillations and Small-Scale Transient Events in the Solar Atmosphere: A Joint View from SOHO and TRACE, ESA-SP 547, 75–80.
+Erdélyi, R., Kerekes, A. & Mole, N. 2005 Influence of random magnetic field on solar global oscillations: The incompressible f-mode. Astron. Astrophys. 431, 1083–1088.
+Erdélyi, R. & Taroyan, Y. 1999 The influence of a steady state on p- and f-modes. In A. Wilson (ed.) Magnetic Fields and Solar Processes, ESA-SP 448, 81–86.
+Erdélyi & Taroyan (2001) erd01 Erdélyi, R. & Taroyan, Y. 2001 Effect of a steady flow and an atmospheric magnetic field on the solar p- and f-modes. In P. Brekke, B.Fleck & J. B. Gurman (eds.) Recent Insights into the Physics of the Sun and Heliosphere: Highlights from SOHO and Other Space Missions, Proceedings of IAU Symposium 203, 208-211.
+Erdélyi et al. (1999) erd99b Erdélyi, R., Varga, E., Zétényi, M. 1999 Magnetoacoustic-gravity surface waves in steady plasmas. In A. Wilson (ed.) Magnetic Fields and Solar Processes, ESA-SP 448, 269–274.
+Evans, D. J. & Roberts, B. 1990 The influence of a chromospheric magnetic field on the solar p- and f-modes. II - Uniform chromospheric field Astrophys. J. 356, 704–719.
+Evans, D. J. & Roberts, B. 1991 The sensitivity of chromospherically induced p- and f-mode frequency shifts to the height of the magnetic canopy. Astrophys. J. 371, 387–395.
+Evans, D. J. & Roberts, B. 1992 Interpretation of solar-cycle variability in high-degree p-mode frequencies. Nature 355, 230-232.
+Ghosh, P., Antia, H. M. & Chitre, S. M. 1995 Seismology of the solar f-mode. I. Basic signatures of shearing velocity fields. Astrophys. J. 451, 851–858.
+Gonzales, A.G. & Gratton, J. 1991 Magnetoacoustic surface gravity waves. Solar Phys. 134, 211–232.
+Gruzinov, A. V. 1998 Sound speed in a random flow and turbulent shifts of the solar eigenfrequencies. Astrophys. J. 498, 458–464.
+Hagenaar, H. J., Schrijver, C. J. & Title, A. M. 2003 The properties of small magnetic regions on the solar surface and the implications for the solar dynamo(s). Astrophys. J. 584, 1107–1119.
+Hindman, B. W. & Zweibel, E. G. 1994 The effects of a hot outer atmosphere on acoustic-gravity waves. Astrophys J. 436, 929–940.
+Howe, R. Komm, R. & Hill, F. 2000 Variations in solar sub-surface rotation from GONG data 19951998. Solar Phys. 192, 472–435.
+Jain, R. & Roberts, B. 1993 Do p-mode frequency shifts suggest a hotter chromosphere at solar maximum? Astrophys. J. 414, 898–907.
+Jain, R. & Roberts, B. 1994a Effects of non-parallel propagation on p- and f-modes. Astron. Astrophys. 286, 243–253.
+Jain, R. & Roberts, B. 1994b Surface effects of a magnetic field on p-modes: two layer atmosphere. Astron. Astrophys. 286, 254–262.
+Jain, R. & Roberts, B. 1994c Solar cycle variations in p-modes and chromospheric magnetism. Sol. Phys. 152, 261–266.
+Komm, R. W., Howe, R. & Hill, F. 2000 Solar-cycle changes in Gong p-mode widths and amplitudes 19951998. Astrophys. J. 531, 1094-1108.
+Libbrecht, K. G. & Woodard, M. F. 1990 Solar-cycle effects on solar oscillation frequencies. Nature 345, 779-782.
+Leibacher, J. W & Stein, R. F 1971 A new description of the solar five-minute oscillation. Astrophys. Lett. 7, 191–192.
+Medrek, M., Murawski, K. & Roberts, B. 1999 Damping and frequency reduction of the f-mode due to turbulent motion in the solar convection zone. Astron. Astrophys. 349, 312–316.
+Miles, A. J. & Roberts, B. 1992 Magnetoacousticgravity surface waves. I - Constant Alfven speed. Solar Phys. 141, 205–234.
+Miles, A. J., Roberts, B. & Allen, H. R. 1992a Magnetoacoustic-gravity surface waves. II - Uniform magnetic field. Solar Phys. 141, 235–251.
+Murawski, K. & Roberts, B. 1993a Random velocity field corrections of the f-mode. I. Horizontal flows. Astron. Astrophys. 272, 595–600.
+Murawski, K. & Roberts, B. 1993b Random velocity field corrections of the f-mode. II. Vertical and horizontal flow. Astron. Astrophys. 272, 601–608.
+Murawski, K. & Goossens, M. 1993 Random velocity field corrections to the f-mode. III: A photospheric random flow and chromospheric magnetic field. Astron. Astrophys. 279, 225–234.
+Pintér, B. 1999 The influence of the atmospheric magnetic field on solar oscillation modes. PhD Thesis, Katholieke Universiteit Leuven, Belgium.
+Pintér, B., Erdélyi, R. & Goossens, M. 2006 Global oscillations in a magnetic solar model. II. Oblique propagation. Astron. Astrophys. (submitted).
+Pintér, B., Erdélyi, R. & New, R. 2001a Damping of helioseismic modes in steady state. Astron. Astrrophys 372, L17-L20.
+Pintér, B. & Goossens, M. 1999 Oscillations in a magnetic solar model. I. Parallel propagation in a chromospheric and coronal magnetic field with constant Alfvn speed. Astron. Astrophyhs. 347, 321–334.
+Pintér, B., New, R. & Erdélyi, R. 2001b Rotational splitting of helioseismic modes influenced by a magnetic atmosphere. Astron. Astrrophys 378, L1-L4.
+Roberts, B. 2004 MHD Waves in the Solar Atmosphere. In R. Erdélyi, J.L. Ballester & B. Fleck (sci. eds.) SOHO 13 - Waves, Oscillations and Small-Scale Transient Events in the Solar Atmosphere: A Joint View from SOHO and TRACE, ESA-SP 547, 1–14.
+Roberts, B. & Campbell, W. J. 1986 Magnetic field corrections to solar oscillation frequencies. Nature 303 603–605.
+Roberts, B. Edwin, P. M. & Benz, A. O. 1984 On coronal oscillations. Astrophys. J. 279, 957–865.
+Rosenthal, C. S. 1995 The role of photospheric magnetic fields in the variation of solar oscillation eigenfrequencies. Astrophys. J. 538, 434-444.
+Rosenthal, C. S., Christensen-Dalsgaard, J., Nordlund, A., Stein, R. F. & Trampedach, R. 1999 Convective contributions to the frequencies of solar oscillations. Astron. Astrophys. 351, 689–700.
+Taroyan, Y. A. 2003 MHD waves and resonant interactions in steady states. PhD Thesis, The University of Sheffield, United Kingdom.
+Thompson, M. J. 2006 Magnetohelioseismology. Phil. Trans. of The Royal Society A 364, 297.
+Tirry, W. J., Goossens, M., Pintér, B., Čadež, V. M. & Vanlommel, P. 1998 Resonant damping of solar p-modes by the chromospheric magnetic field. Astrophys. J. 503, 422–428.
+tit96) Title, A. M. & Schrijver, C. J. 1998 The Sun’s magnetic carpet. In (eds) R. A. Donahue & J. A. Bookbinder The Tenth Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, ASP-CS 154 345.
+Uberoi, C. & Narayanan, A. S. 1986 Effect of variation of magnetic field direction of hydromagnetic surface waves. Plasma Phys. Contr. Fusion 28, 1635–1643.
+Ulrich, R. K. 1970 The five-minute oscillations on the solar surface. Astrophys. J. 162, 993-1002.
+Woodard, M. F. & Libbrecht, K. G. 1991 Is there an acoustic resonance in the solar chromosphere? Astrophys. J. 374 L61–L63.
+Woodard, M. F. & Noyes, R. W. 1985 Change of solar oscillation eigenfrequencies with the solar cycle. Nature 318, 449
+Wright, A. N. & Thompson, M. J. 1992 On the effects of chromospheric magnetic perturbations on solar oscillation frequencies. Astron. Astrophys. 264, 701–707.

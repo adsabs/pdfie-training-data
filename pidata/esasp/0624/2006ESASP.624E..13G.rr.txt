@@ -1,6 +1,0 @@
----<2006ESASP.624E..13G>---
-1 1977Ap&SS..50..493A -- Adam, J. A. 1977, Ap&SS, 50, 493
-1 2004Chaos..14..803B -- Busse, F.H. 2004, Chaos, 14, 803
-1 2003Natur.421...43G -- Gizon, L., Duvall, T. L. Jr, & Schou, J. 2003,, Nature, 421, 43
-1 2006ApJ...641L..77G -- Green, C. A., & Kosovichev, A. G. 2006,, ApJ, 641, L77
-5 2004ApJ.....0..608R -- Rast, M.P., Lisle J.P. & Toomre, J. 2004,, ApJ, 608,

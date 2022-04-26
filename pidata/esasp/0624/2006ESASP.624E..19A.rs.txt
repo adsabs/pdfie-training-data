@@ -1,0 +1,16 @@
+Michaud, G. and Proffitt, C.R. 1993, in ”Inside the stars”, IAU Colloquium 137, ASP Conference Series 40, Eds. W.W.Weiss and A.Baglin, New York, 137.
+Rogers F.J., Iglesias C.A., 2005, http://wwwphys.llnl.gov/Research/OPAL/EOS 2005/, updated Feb. 22, 2006
+Gryaznov V.K., Ayukov S.V., Baturin V.A., Iosilevskiy I.L., Starostin A.N., and Fortov V.E., 2004, in ”Equation of State and Phase-Transition in Models of Ordinary Astrophysical Matter”, Eds. V. Celebonovic, W. Däppen, D. Gough, AIP Conference Proceedings 731, 147
+Gorshkov A.B., Baturin V.A., Ayukov S.V., 2006, Astronomicheskij Zhurnal, 83, No 12, 1
+Christensen-Dalsgaard J., Däppen W. et al., 1996, Science 272, 1286
+Provost J., Berthomieu G., Morel P., 2000, A&A 353, 775
+Couvidat S., Turck-Chieze S., Kosovichev A.G., 2003, ApJ, 599, 1434
+Iglesias C.A., Rogers F.J., 1995, ApJ 464, 943
+Alexander D.R., Ferguson J. W., 1994, ApJ, 437, 879
+Angulo C., Arnould M., Rayet M. et al., 1999, Nuclear Physics A, 656, 3 (http://pntpm.ulb.ac.be/Nacre/nacre.htm)
+Rogers F.J., Swenson F.J., Iglesias, C.A., 1996, ApJ 456, 902
+Grevesse N., Noels A. 1993, in ”Origin and evolution of the elements”, Eds. N. Pratzo, E. VangioniFlam, M. Casse, Cambridge University Press, Cambridge, 15
+Rogers F.J., Iglesias C.A., 1992, ApJ 401, 361
+Vorontsov S.V., 2004, in ”Equation of State and Phase-Transition in Models of Ordinary Astrophysical Matter”, Eds. V. Celebonovic, W. Dappen, D. Gough, AIP Conference Proceedings 731, 47.
+Rhodes E. J. Jr., Kosovichev A. G., Schou J., Scherrer P. H., Reiter J., 1997, Solar Phys. 175, 287
+Christensen-Dalsgaard J., 1997, http://astro.phys.au.dk/ jcd/adipack.n/
