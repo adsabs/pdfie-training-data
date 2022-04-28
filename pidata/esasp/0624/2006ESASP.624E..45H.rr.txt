@@ -1,7 +1,0 @@
----<2006ESASP.624E..45H>---
-0 ................... -- 1. Haber, D. A., Hindman, B. W., Toomre, J., Bogart, R. S., Thompson, M. J., & Hill, F., Solar Phys., 192, 335- 350, 2000.
-5 2002ASPC..491.2003H -- 2. Haber, D. A., Hindman, B. W., Toomre, J., Bogart, R. S., Larsen, R. M., & Hill, F., Astrophys. J., 570, 855- 864, 2002. Figure 4. Longitudinally-averaged meridional flows with latitude sampled at two depths for a single rotation from 4 different years. The B angle was nearly the same for the first 3 years, 1997, 1999, and 2001 and opposite for year 2003. The second cell is seen in 1999 but not in 1997, while in 2003 a cell in the southern hemisphere is not seen even though the sun was tilted in the opposite direction.
-1 2006SoPh..236..227Z -- 3. Zaatri, A., Komm, R., Gonzalez Hernandez, I., Howe, R., & Corbard, T., Sol. Phys., 236, 227-244, 2006.
-1 2004ApJ...603..776Z -- 4. Zhao, J. & Kosovichev, A. G., Astrophys. J., 603, 776-784, 2004.
-1 2003ApJ...585..553B -- 5. Basu, S. & Antia, H.M., Astrophys. J., 585, 553-565, 2003.
-0 ................... -- 6. Beckers, J. M. private communication 2006 (to be published).

@@ -1,0 +1,17 @@
+M. F. Woodard. Solar subsurface flow inferred directly from frequency-wavenumber correlations in the seismic velocity field. ApJ, 565:634, 2002.
+R. Howe, J. Christensen-Dalsgaard, F. Hill, R. Komm, J. Schou, and M. J. Thompson. Solar convection-zone dynamics, 1995-2004. ApJ, 634:1405, 2005.
+S. Tomczyk, J. Schou, and Thompson M. J. Measurement of the rotation rate in the deep solar interior. ApJ, 448:L57, 1995.
+B. J. Labonte and R. Howard. Solar rotation measurements at mount wilson. III. Meridional flow and limbshift. Solar Phys., 80:361, 1982.
+K. Topka, R. Moore, B. J. Labonte, and R. Howard. Evidence for a poleward meridional flow on the Sun. Solar Phys., 79:231, 1982.
+D. H. Hethaway. Doppler measurements of the Sun’s meridional flow. ApJ, 460:1027, 1996.
+D. C. Braun and Y. Fan. Helioseismic measurements of the subsurface meridional flow. ApJ, 508:105, 1998.
+P. M. Giles, T. L. Duvall, and P. H. Scherrer. Timedistance measurements of subsurface rotation and meridional flow. Solar Phys., 6:775, 1998.
+Chou D.-Y. and O. Ladenkov. Evolution of solar subsurface meridional flows in the declining phase of cycle 23. ApJ, 630:1206, 2005.
+G. Rüdiger, L. L. Kitchatinov, and R. Arlt. The penetration of meridional flow into the tachocline and its meaning for the solar dynamo. A&A, 444:L53, 2005.
+L. L. Kitchatinov and G. Rüdiger. Magnetic field confinement ny meridional flow and the solar tachocline. A&A, 453:329, 2006.
+M. Rempel. Flux-transport dynamos with Lorentz force feedback on differential rotation and meridional flow: Saturation mechanism and torsional oscillations. ApJ, 647:662, 2006.
+I. González Hernández, R. Komm, F. Hill, R. Howe, T. Corbard, and D. A. Haber. Meridional circulation variability from large-aperture ring-diagram analysis of global oscillation network group and Michelson Doppler imager data. ApJ, 638:576, 2006.
+J. Zhao and A. G. Kosovichev. Torsional oscillation, meridional flows, and vorticity inferred in the upper convection zone of the Sun by time-distance helioseismology. ApJ, 2004.
+M. F. Woodard. The seismic correlation signature of moderate-scale flow in the Sun. ApJ, 2006. in press.
+F.-L. Deubner. Observations of low wavenumber nonradial eigenmodes of the Sun. A&A, 44:371, 1975.
+R. S. Bogart and S. Basu. Zonally averaged meridional flows determined from long-term ”ringdiagram” analysis. Proceedings of the SOHO 14 / GONG 2004 Workshop, New Haven, Connecticut, USA, 12–16 July 2004, ESA SP-559(329), 2004.

@@ -1,8 +1,0 @@
----<2006ESASP.624E..56H>---
-1 2002ApJ...567.1234S -- Schou, J., Howe, R., Basu, S., et al., ApJ, vol. 567, 1234-1249, 2002.
-1 2000ApJ...533L.163H -- Howe, R., Christensen-Dalsgaard, J., Hill, F., et al., ApJ, vol. 533, L163-L166, 2000.
-1 1998ApJ...505..390S -- Schou, J., Antia, H. M., Basu, S., et al., ApJ, vol. 505, 390-417, 1998.
-1 1980ApJ...239L..33H -- Howard, R., Labonte, B. J., ApJ, vol. 239, L33-L36, 1980.
-1 2002Sci...296..101V -- Vorontsov, S. V., Christensen-Dalsgaard, J., Schou, J., et al. Science, vol. 296, 101-103, 2002.
-0 ................... -- Howe, R., Christensen-Dalsgaard, J., Hill, F., et al.
-1 2005ApJ...634.1405H -- ApJ, vol. 634, 1405-1415, 2005.

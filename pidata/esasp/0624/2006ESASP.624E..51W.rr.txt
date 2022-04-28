@@ -1,9 +1,0 @@
----<2006ESASP.624E..51W>---
-1 2002ApJ...565..634W -- Woodard, M. F., 2002, ApJ 565, 634.
-1 1993ApJ...403L..75C -- Christensen-Dalsgaard, J. Proffitt, C. R., & Thompson, M. J., 1993, ApJ 403, L75.
-0 ................... -- Woodard, M. F., 2006, ApJ (in press).
-1 2004ApJ...614..472G -- Gizon, L. & Birch, A. C., 2004, ApJ 614, 472.
-1 1998ESASP.418..581D -- Duvall, T. L., Jr., 1998, in SOHO6/GONG98, Structure and Dynamics of the Interior of the Sun and Sunlike Stars, S. Korzennik and A. Wilson (eds.), ESA SP-418, Noordwijk,ESA, p. 581.
-1 2003ESASP.517..417Z -- Zhao, J. & Kosovichev, A. G., 2003, in Local and Global Helioseismology, The Present and Future, H. Sawaya-LaCoste (ed.), ESA SP-517, p. 417.
-0 ................... -- Braun, D. C., 2003, in Local and Global Helioseismology, The Present and Future, H. Sawaya-LaCoste
-5 1989ESASP.517...15. -- (ed.), ESA SP-517, p. 15.

@@ -1,8 +1,0 @@
----<2006ESASP.624E..55Z>---
-1 1998ESASP.418..209H -- Harvey, J., Tucker, R., & Britanik, L., 1998, in S.G. Korzennik & A. Wilson (eds.), Structure and Dynamics of the Interior of the Sun and Sun-like Stars, ESA SP418, Noordwijk, ESA, 209
-1 1988ApJ...333..996H -- Hill, F., 1988 Astrophys. J. 339, 996
-1 2003ESASP.517..255C -- Corbard, T., Toner, C., Hill, F., Hanna, K.D., Haber, D.A., Hindman, B.W., & Bogard, R.S., 2003, in H. Sawaya-Lacoste (ed.), Local and Global Helioseismology, The present and Future, ESA SP-517, Noordwijk, ESA, 255.
-5 2002ApJ.....0..570H -- Haber D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Larsen, R.M., & Hill, F., 2002, Astrophys. J. 570,
-5 2006ApJ.....0..638G -- Gonzalez Hernandez, I., Komm, R., Hill, F., Howe, R., Corbard, T.,& Haber, D.A., 2006, Astrophys. J 638,
-0 ................... -- Zaatri A., Komm R., Gonzalez Hernandez I., Howe
-1 2006SoPh..236..227Z -- R., Corbard T., 2006, Solar physics 236, 227

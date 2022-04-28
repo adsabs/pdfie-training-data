@@ -1,0 +1,110 @@
+Aerts C., De Cat P., Kuschnig R., et al., 2006, ApJ, 642, L165
+Anders E. & Grevesse N., 1989, Geochim. Cosmochim. Acta, 53, 197
+Anderson E. R., Duvall T. L. & Jefferies S. M., 1990, ApJ, 364, 699
+Antia H. M. & Basu S., 2005, ApJ, 620, L129
+Antia H. M. & Basu S., 2006, ApJ, 644, 1292
+Appourchaux T., Fröhlich C., Andersen B., et al., 2000, ApJ, 538, 401
+Asplund M., 2005, Annu. Rev. Astron. Astrophys., 43, 481
+Asplund M., Grevesse N. & Sauval A. J., 2005, in Cosmic Abundances as Records of Stellar Evolution and Nucleosynthesis, eds T. G. Barnes III & F. N. Bash, ASP Conf. Ser. 336, p. 25
+Ausseloos M., Scuflaire R., Thoul A. & Aerts C., 2004, MNRAS, 355, 352
+Ayres T. R., Plymate C. & Keller C. U., 2006, ApJS, 165, 618
+Bachmann K. T. & Brown T. M., 1993, ApJ, 411, L45
+Bahcall J. N., Brown L. S., Gruzinov A. & Sawyer R. F., 2002, A&A, 383, 291
+Bahcall J. N., Basu S. & Serenelli A. M., 2005, ApJ, 631, 1281
+Bahcall J. N., Serenelli A. M. & Basu S., 2006, ApJS, 165, 400
+Balmforth N. J., 1992, MNRAS, 255, 603
+Basri G., Borucki W. J. & Koch D., 2005, New Astronomy Rev., 49, 478
+Basu S., Pinsonneault M. H. & Bahcall J. N., 2000, ApJ, 529, 1084
+Basu S. & Antia H. M., 2001, MNRAS, 324, 498
+Basu S., Mazumdar A., Antia H. M. & Demarque P., 2004, MNRAS, 350, 277
+Bazot M., Vauclair S., Bouchy F. & Santos N. C., 2005, A&A, 440, 615
+Belkacem K., Samadi R., Goupil M. J., Kupka F. & Baudin F., 2006, A&A, in the press [astro-ph/0607570 v3].
+Brüggen M. & Gough D. O., 1997, ApJ, 488, 867
+Braun D. C. & Birch A. C., 2006, ApJ, 647, L187
+Breger M., Lenz P., Antoci V., et al., 2005, A&A, 435, 955
+Brookes J. R., Isaak G. R. & van der Raay H. B., 1976, Nature, 259, 92
+Chaplin W. J., Christensen-Dalsgaard J., Elsworth Y., et al., 1999, MNRAS, 308, 405
+Chaplin W. J., Elsworth Y., Isaak G. R., Marchenkov K. I., Miller B. A. & New R., 2001, MNRAS, 322, 22
+Chaplin W. J., Houdek G., Elsworth Y., Gough D. O., Isaak G. R. & New R., 2005, MNRAS, 360, 859
+Christensen-Dalsgaard J. & Frandsen S., 1983, Solar Phys., 82, 165
+Christensen-Dalsgaard J. & Mullan D. J., 1994, MNRAS, 270, 921
+Christensen-Dalsgaard J., Däppen W. & Lebreton Y., 1988, Nature, 336, 634
+Christensen-Dalsgaard J., Däppen W., Ajukov S. V., et al., 1996, Science, 272, 1286
+Christensen-Dalsgaard J., Di Mauro M. P., Schlattl H. & Weiss A., 2005, MNRAS, 356, 587
+Cox J. P., 1974, Rep. Prog. Phys., 37, 563
+Daszyńska-Daszkiewicz J., Dziembowski W. A., Pamyatnykh A. A. & Goupil M.-J., 2002, A&A, 392, 151
+Daszyńska-Daszkiewicz J., Dziembowski W. A., Pamyatnykh A. A., Breger M., Zima W. & Houdek G., 2005, A&A, 438, 653
+Delache P. & Scherrer P. H., 1983, Nature, 306, 651
+Deupree R. G., 1990, ApJ, 357, 175
+Drake J. J. & Testa P., 2005, Nature, 436, 525
+Dupret M. A., 2001, A&A, 366, 166
+Dupret M.-A., Grigahcène A., Garrido R., Gabriel M. & Scuflaire R., 2005, A&A, 435, 927
+Dziembowski W. A., Gough D. O., Houdek G. & Sienkiewicz R., 2001, MNRAS, 328, 601
+Eggenberger P., Maeder A. & Meynet G., 2005, A&A, 440, L9
+Fletcher S. T., Chaplin W. J., Elsworth Y., Schou J. & Buzasi D., 2006, MNRAS, 371, 935
+Fontaine G., Brassard P., Charpinet S., Green E. M., Chayer P., Billères M. & Randall S. K., 2003, ApJ, 597, 518
+Fontaine G., Brassard P., Charpinet S. & Chayer P., 2006, Mem. Soc. Astron. Ital., 77, 49
+Fröhlich C. & Delache P. 1984, Mem. Soc. Astron. Ital., 55, 99
+Gabriel A. H., Grec G., Charra J., et al., 1995, Solar Phys., 162, 61
+Georgobiani D., Stein R. F. & Nordlund Å., 2003, ApJ, 596, 698
+Gough D. O., 1977, ApJ, 214, 196
+Gough D. O., 1985, in Future missions in solar, heliospheric and space plasma physics, eds E. Rolfe & B. Battrick, ESA SP-235, p. 183
+Gough D. O. & McIntyre M. E., 1998, Nature, 394, 755
+Grevesse N., Asplund M. & Sauval A. J., 2005, in Element stratification in stars: 40 years of atomic diffusion, eds G. Alecian, O. Richard & S. Vaclair, EAS Publ. Ser., 17, 21
+Guenther D. B., 1991, ApJ, 375, 352
+Guenther D. B., Kallinger T., Reegen P., et al., 2005, ApJ, 635, 547
+Guzik J. A., Kaye A. B., Bradley P. A., Cox A. N. & Neuforge C., 2000, ApJ, 542, L57
+Harvey J. W., 1988, in Proc. IAU Symposium No 123, Advances in helio- and asteroseismology, eds J. Christensen-Dalsgaard & S. Frandsen, Reidel, Dordrecht, p. 497
+Houdek G., 2000, in Delta Scuti and related stars, eds M. Breger & M. H. Montgomery, ASP Conf. Ser., 210, p. 454
+Houdek G. & Gough D. O., 2002, MNRAS, 336, L65
+Howard R. & LaBonte B. J., 1980, ApJ, 239, L33
+Howe R., Komm R. W. & Hill F., 2002, ApJ, 580, 1172
+Howe R., Komm R., Hill F., Ulrich R., Haber D. A., Hindman B. W., Schou J. & Thompson M. J., 2006, Solar Phys., 235, 1
+Jackson S., MacGregor K. B. & Skumanich A., 2005, ApJS, 156, 245
+Jiménez-Reyes S. J., Régulo C., Pallé P. L. & Roca Cortés T., 1998, A&A, 329, 1119
+Kiss L. L., Szabo G. M. & Bedding T. R., 2006, MNRAS, in the press [astro-ph/0608438]
+Kumar P., Quataert E. J. & Bahcall J. N., 1996, ApJ, 458, L83
+Libbrecht K. G., 1992, ApJ, 387, 712
+Lignières F., Rieutord M. & Reese D., 2006, A&A, 455, 607
+Lin C.-H. & Däppen W., 2005, ApJ, 623, 556
+Lindsey C. & Braun D. C., 2005, ApJ, 620, 1107
+Marsch E., Marsden R., Harrison R., Wimmer-Schweingruber R. & Fleck B., 2005, Adv. Space Res., 36, 1360
+Mazumdar A., Briquet M., Desmet M. & Aerts C., 2006, A&A, in the press astro-ph/0607261 v1
+Monteiro M. J. P. F. G. & Thompson M. J., 1998, in Proc. IAU Symp. 185: New eyes to see inside the Sun and stars, eds F.-L. Deubner, J. Christensen-Dalsgaard & D. W. Kurtz, Kluwer, Dordrecht, p. 317
+Monteiro M. J. P. F. G. & Thompson M. J., 2005, MNRAS, 361, 1187
+Nowakowski R. M., 2005, Acta Astron., 55, 1
+Osaki Y., 1975, Publ. Astron. Soc. Japan, 27, 237
+Otı́ Floranes H., Christensen-Dalsgaard J. & Thompson M. J., 2005, MNRAS, 356, 671
+Pamyatnykh A. A., Handler G. & Dziembowski W. A., 2004, MNRAS, 350, 1022
+Rabello-Soares M. C., Basu S., Christensen-Dalsgaard J. & Di Mauro M. P., 2000, Solar Phys., 193, 345
+Reese D., Lignières F. & Rieutord M., 2006, A&A, 455, 621
+Robinson F. J., Demarque P., Li L. H., Kim Y.-C., Chan K. L. & Guenther D. B., 2003, MNRAS, 340, 923
+Rosenthal C. S., Christensen-Dalsgaard J., Nordlund Å., Stein R. F. & Trampedach R., 1999, A&A, 351, 689
+Roxburgh I. W., 2004, A&A, 428, 171
+Roxburgh I. W., 2005, A&A, 434, 665
+Roxburgh I. W. & Vorontsov S. V., 2003, A&A, 411, 215
+Salpeter E. E., 1954, Austr. J. Phys., 7, 373
+Schatzman E., 1993, A&A, 279, 431
+Scherrer P. H., Wilcox J. M., Kotov V. A., Severny A. B. & Tsap T. T., 1979, Nature, 277, 635
+Schmelz J. T., Nasraoui K., Roames J. K., Lippner L. A. & Garst J. W., 2005, ApJ, 634, L197
+Schou J., 1992, On the analysis of helioseismic data, PhD Dissertation, Aarhus University.
+Schou J., 1999, ApJ, 523, L181
+Schunker H. & Cally P. S., 2006, MNRAS, in the press
+Scuflaire R., 1974, A&A, 36, 107
+Severny A. B., Kotov V. A. & Tsap T. T., 1976, Nature, 259, 87
+Shaviv G., 2004, A&A, 418, 801
+Shaviv G. & Shaviv N. J., 2000, ApJ, 529, 1054
+Shaviv N. J. & Shaviv G., 1996, ApJ, 468, 433
+Soufi F., Goupil M. J. & Dziembowski W. A., 1998, A&A, 334, 911
+Spruit H. C., 2002, A&A, 381, 923
+Stein R. F. & Nordlund Å., 2001, ApJ, 546, 585
+Stello D., Kjeldsen H., Bedding T. R. & Buzasi D., 2006, A&A, 448, 709
+Straka C. W., Demarque P., Guenther D. B., Li L. & Robinson F. J., 2006, ApJ, 636, 1078
+Takata M., 2005, Publ. Astron. Soc. Japan, 57, 375
+Tripathy S. C., Kumar B., Jain K. & Bhatnagar A., 2001, Solar Phys., 200, 3
+Tsytovich V. N., 2000, A&A, 356, L57
+Turck-Chièze S., Couvidat S., Kosovichev A. G., et al., 2001, ApJ, 555, L69
+Turck-Chièze S., Garcı́a R. A., Couvidat S., et al., 2004, ApJ, 604, 455 [Erratum: ApJ, 608, 610]
+Vorontsov S. V. & Jefferies S. M., 2005, ApJ, 623, 1202
+Walker G., Matthews J., Kuschnig R., et al., 2003, Publ. Astron. Soc. Pacific, 115, 1023
+Zahn J.-P., 1992, A&A, 265, 115

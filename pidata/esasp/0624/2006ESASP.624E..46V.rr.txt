@@ -1,9 +1,0 @@
----<2006ESASP.624E..46V>---
-5 1996Sci........272C -- Christensen-Dalsgaard J. et al, 1996, Science, 272,
-0 ................... -- Dahlen F. A., Tromp J., 1998, Theoretical Global Seismology, Princeton Univ. Press, Princeton
-1 2004ApJ...602..481K -- Korzennik S. G., Rabello-Soares M. C., Schou J. 2004, Apj, 602, 482
-1 1997SoPh..175..287R -- Rhodes E. J., Jr at al. 1997, Solar Phys., 175, 287
-1 1995MNRAS.272..850R -- Roxburgh I. W., Vorontsov S. V., 1995, Mon. Not. R. astr. Soc., 272, 850
-1 1997ApJ...489L.197S -- Schou J., Kosovichev A. G., Goode P. R., Dziembowski W. A. 1997,, ApJ, 489, L197
-0 ................... -- Vorontsov S. V., Baturin V. A., Pamiatnykh, A. A.
-1 1992MNRAS.257...32V -- 1992, Mon. Not. R. astr. Soc., 257, 32

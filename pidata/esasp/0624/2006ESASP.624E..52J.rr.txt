@@ -1,5 +1,0 @@
----<2006ESASP.624E..52J>---
-1 2000SoPh..192..177D -- Duvall T. L., Gizon L., 2000, Sol. Phys. 192, 177
-1 2002ApJ...571..966G -- Gizon L., Birch A. C., 2002, Astrophys. J. 571, 966
-1 1998GeoRL..25.1983T -- Tong J., Dahlen F. A., Nolet G., Marquering H., 1998, Geophys. Res. Lett. 25, 1983
-0 ................... -- Jackiewicz J., Gizon L., Birch A. C., 2006, in Ten Years of SOHO and Beyond, ESA SP-617, in press

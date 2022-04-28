@@ -1,0 +1,11 @@
+Canuto, V.M., Minotti, F.O., & Schilling, J.L., 1994, ApJ 425, 303
+Christensen-Dalsgaard, J., 2003, Rev.Mod.Phys. 74, 1073
+González Hernández, I., Komm, R., Hill, F., Howe, R., Corbard, T., & Haber, D.A., 2006, ApJ 638, 576
+Haber, D. A., Hindman, B. W., Toomre, J., Bogart, R. S., Larsen, R. M., & Hill, F. 2002, ApJ, 570, 855
+Iglesias, C.A., & Rogers, F.J., 1996, ApJ 464, 943
+Komm, R. W., Corbard, T., Durney, B. R., González Hernández, I., Hill, F., Howe, R., & Toner, C. 2004, ApJ, 605, 554
+Komm, R., Howe, R., González Hernández, I., Hill, F., & Toner, C. 2005, ASP Conf. Ser. 346: Large-scale Structures and their Role in Solar Activity, 346, 33
+Komm, R., Howe, R., Hill, F., Miesch, M., Haber, D., & HIndman, B. 2006, SOHO-17: 10 years of SOHO and Beyond, Ed. H. Lacoste, ESA Special Publication SP-617, p12
+Shu, C.W., & Osher, S., 1988, JCP 77, 439
+Stein, R.F., & Nordlund, A., 2006, ApJ 642, 1246
+Yee, H.C., Kloppfer, G.H., & Montagne, J.L., 1990, JCP 88, 31
