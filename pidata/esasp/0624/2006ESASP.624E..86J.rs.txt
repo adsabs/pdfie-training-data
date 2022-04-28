@@ -1,0 +1,34 @@
+Isaak, G.R., 1983,Sol. Phys., 82, 205.
+Jiménez, A., 2006, ApJ, 646, 1398.
+Balmforth, N. J., & Gough, D. O. 1990, ApJ, 362, 256.
+Jefferies, S. M., et al. 1988, in Seismology of the Sun and Sun-like Stars, ed. E.Rolfe (Noordwijk: ESA SP286), 279.
+Libbrecht, K. G. 1988, ApJ, 334, 510.
+Duvall, T. L., Harvey, J. W., Jefferies, S., M., & Pomerantz, M., A. 1991, ApJ, 373, 308.
+Garcı́a, R. A., et al. 1998, ApJ, 504, L51.
+Chaplin, W. J., et al. 2002, in Local and Global Helioseismology: The Present and Future, ed. H. SawayaLacoste (Noordwijk: ESA SP- 517), 247.
+Jiménez, A., Jiménez-Reyes, S.J., & Garcı́a, R.A., 2005, ApJ, 623,1215.
+Kumar, P., et al. 1990, in Lecture Notes in Physics, 367, Progress of Seismology of the Sun and Stars, ed. Y. Osaki and H. Shibahashi (Heidelberg: Springer), 87.
+Kumar, P. 1994, ApJ, 428, 827.
+Jain, R., & Roberts, B. 1996, ApJ, 456, 399.
+Claverie, A., Isaak, G.R., McLeod, C.P., van der Raay, H.B. & Roca Cortés,T. 1981, Solar Physics ,74,51.
+Pallé, P. L., Pérez, J.C., Régulo, C., Roca Cortés, T. Isaak, G.R. Mc Leod, C.P. & van der Raay, H.B. 1986 , A&A, 169, 313.
+Pallé, P. L., Régulo, C., Roca Cortés, T., Sanchez Duarte, L. & Schmider, F.X. 1992 , A&A, 254, 348.
+Fossat,E., Régulo,C., Roca Cortés, T.,Ehgamberdiev,S., Gelly,B., Khalikov,S., Khamitov,I., Lazrek,M., Pallé,P.L. & Sánchez Duarte, L. 1992,A&A,266, 532.
+Kumar, P., Fardal,M.A.,Jefferies,S.M.,Duvall,Jr. ,Harvey,J.W.& Pomerantz,M.A. 1994, ApJ, 422, L29.
+Nigam,R. & Kosovichev,A.G. 1996, Bull.Astr.Soc.India,24,195.
+Jiménez, A., Roca Cortés, T., Severino, G., & Marmolino, C. 1999, ApJ, 525, 1042.
+Staiger,J. 1987 ,A&A, 175, 263.
+Schmieder,B. 1977 Sol.Phys. 54, 269.
+Schmieder,B. 1978 Sol.Phys. 57, 245.
+Marmolino, C., & Severino, G. 1991, A&A, 242, 271.
+Gough, D. 1985, Proc. ESA Workshop on Future Missions in Solar, Heliospheric and Space Plasma Physics, Noordwijk, The Netherlands, ed. E.Rolfe & B.Battrick, ESA SP 235, 183.
+Houdek, G., Balmforth, N. J., & ChristensenDalsgaard, J. 1995, Proc. Fourth SOHO Workshop: Helioseismology, Pacific Grove, California, ed. J.T. Hoeksema, V.Domingo, B.Fleck & B.Battrick, ESA SP-376, 447.
+Jiménez, A. 2002 ApJ, 581, 736.
+Fröhlich, C., et al. 1995, Sol.Phys., 162, 101.
+Fröhlich, C., et al. 1997, Sol.Phys., 170, 1.
+Gabriel, A. H., et al. 1995, Sol.Phys., 162, 61.
+Gabriel, A. H., et al. 1997, Sol. Phys., 175, 207.
+Pallé, P. L., et al. 1999, A&A, 341, 625.
+Garcı́a, R. A., et al. 2005, A&A, 442, 385.
+Garcı́a R. A., et al. 2004, in Helio- and Asteroseismology: Towards a Golden Future, ed. D. Danesy (Noordwijk), ESA SP-559, 432.
+Koopmans, L.,H. 1974, The Spectral Analysis of Time Series (New York: Academic)
