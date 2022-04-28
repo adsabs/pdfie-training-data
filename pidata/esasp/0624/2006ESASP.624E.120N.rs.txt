@@ -1,0 +1,46 @@
+Abt, H.A., Levato, H., Grosso, M. 2002, ApJ, 573, 359
+Adelman, S.J., Cowley, C.R., Leckrone, D.S., Roby, S.W., Wahlgren, G.M. 1993, ApJ, 419, 276
+Aerts, C., Waelkens, C., De Pauw, M. 1994, A&A, 286, 136
+Andrievsky, S.M., Korotin, S.A., Luck, R.E., Kostynchuk, L.Yu. 1999, A&A, 350, 598
+Barnett, E.W., McKeith, C.D. 1988, MNRAS, 234, 325
+Bevington, P.R. 1969, in Data Reduction and Error Analysis for the Physical Science, New York: McGraw-Hill
+Chapellier, E., Le Contel, D., Le Contel, J.M., Mathias, P., Valtier, J.-C. 2006, 448, 697
+Cugier, H., Dziembowski, W.A., Pamyatnykh, A.A. 1994, A&A, 291,143
+Cunha, K., Hubeny, I., Lanz, T. 2006, ApJ, 647, L143
+Dekker, H., D’Odorico, S., Kaufer, A., et al. 2000, SPIE, 4008, 534
+De Ridder, J., Dupret, M.-A., Neuforge, C., Aerts, C. 2002, A&A, 385, 572
+Dziembowski, W.A., Pamyatnykh, A.A. 1993, MNRAS, 262, 204
+Gies, D.R., Lambert, D.L. 1992, ApJ 387, 673
+Gonzáles-Riestra, R., Cassatella, A., & Wemsteker, W. 2001, A&A, 373, 730
+Grevesse, N., Sauval, A.J. 1998, Space Sci. Rev., 85, 161
+Handler, G., Jerzykiewicz, M., Rodrguez, E., Uytterhoeven, K., et al. 2006, MNRAS, 365, 327
+de Jager, C., Burger, M., Neven, L., Sato, N. 1982, Ap&SS, 83, 411
+Kołaczkowski, Z., Pigulski, A., Soszyński, I., et al. 2004, in Variable Stars in the Local Group, ed. D. W. Kurtz & K. Pollard, ASP Conf. Ser., 310, 225
+Korotin, S.A., Andrievsky, S.M., Kostynchuk, L.Yu. 1999a, A&A, 342, 756
+Korotin, S.A., Andrievsky, S.M., Luck, R.E. 1999b, A&A, 351, 168
+Kurucz, R. 1993, CD-ROM, No.18
+Kurucz, R. 1993, CD-ROM, No.13
+Leone, F., Lanzafame, A.C. 1998, A&A, 330, 306
+McNamara, D.H. 1953, PASP, 65, 144
+Morel, T., Butler, K., Aerts, C., Neiner, C., Briquet, M. 2006, astro-ph/0607264
+Moultaka, J., Ilovaisky, S.A., Prugniel, P., Soubiran, C. 2004, PASP, 116, 693
+Niemczura E., Daszyńska-Daszkiewicz J. 2005, A&A, 433, 659
+Pamyatnykh, A.A. 1999, Acta Astron., 49, 119
+Pamyatnykh, A.A., Handler, G., Dziembowski, W.A. 2004, MNRAS, 350, 1022
+Peters, G.J. 1976, ApJS, 30, 551
+Pigulski, A., Kołaczkowski, Z. 2002, A&A, 388, 88
+Pintado, O.I., Adelman, S.J. 1993, MNRAS, 264, 63
+Proffitt, C.R., Jönsson, P., Litzen, U., Pickering, J.C., Wahlgren, G.M. 1999, ApJ, 516, 342
+Proffitt, C.R., Quigley, M.F. 2001, ApJ, 548, 429
+Ryans, R.S.I., Hambly, N.C., Dufton, P.L., Keenan, F.P. 1996, MNRAS, 278, 132
+Sareyan, J.-P., Valtier, J.-C., Le Contel, J.M. 1975, A&A, 44, 215
+Sbordone, L., Bonifacio, P., Castelli, F. 2005, http://wwwuser.oat.ts.astro.it/atmos/
+Smartt, S.J., Venn, K.A., Dufton, P.L., Lennon, D.J., et al. 2001, A&A, 367, 86
+Smith, K.C. 1993, A&A, 291, 521
+Smith, K.C., Dworetsky, M.M. 1993, A&A, 274, 335
+Smith, M.A., McCall, M.L. 1978, ApJ, 221, 861
+Stankov, A., Ilyin, I., Fridlund, C.V.M. 2003, A&A, 408, 1077
+Stankov, A., Handler, G. 2005, ApJS, 158, 193
+Takeda, Y. 1995, PASJ, 47, 287
+Venn, K.A., Brooks, A.M., Lambert, D.L., et al. 2002, ApJ, 565, 571
+Williams, A.D. 1954, PASP, 66, 25
