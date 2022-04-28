@@ -1,0 +1,36 @@
+Appourchaux T., 2003, Ap&SS, 284, 109
+Baker N., Kippenhahn R., 1965, ApJ, 142, 868
+Baliunas S. L., et al., 1985, ApJ, 294, 310
+Baliunas S. L., et al., 1995, ApJ, 438, 269
+Balmforth N.J., 1992a, MNRAS, 255, 603
+Balmforth N.J., 1992b, MNRAS, 255, 639
+Bedding T. R., Kjeldsen H., 2006, MmSAI, 77, 384
+Chaplin W. J., Elsworth Y., Isaak G. R., Miller B. A., New R., 2002, MNRAS, 330, 731
+Chaplin W. J., Elsworth Y., Isaak G. R., Miller B. A., New R., Pinter B., Thiery S., 2003, A&A, 398, 305
+Chaplin W. J., Houdek G., Elsworth Y., Gough D. O., Isaak G. R., & New R., 2005, MNRAS, 360, 859
+Chaplin W. J., et al., 2006, MNRAS, 369, 985
+Christensen-Dalsgaard J., 1982, MNRAS, 199, 735
+Christensen-Dalsgaard J., 1989, MNRAS, 239, 977
+Eggleton P., Faulkner J., Flannery B.P., 1973, A&A, 23, 325
+Goldreich P., Keeley D.A., 1977, ApJ 212, 243
+Gough D.O., 1977a, in Spiegel E., Zahn J.-P., eds, Problems of stellar convection. Springer-Verlag, Berlin, p. 15
+Gough D. O., 1977b, ApJ, 214, 196
+Hall J. C., 2002, in: Proc. SOHO 11 ‘From Solar Min to Solar Max: Half a Solar Cycle with SOHO, 11 - 15 March 2002, Davos, Switzerland, ed. A. Wilson, ESA SP-508, Noordwijk, Netherlands, p. 121
+Hall J. C., Lockwood G. W., 2004, ApJ, 614, 942
+Houdek G., Balmforth N. J., ChristensenDalsgaard J., Gough D. O., 1999, A&A, 351, 582
+Iglesias C. A., Rogers F. J., 1996, ApJ, 464, 943
+Kjeldsen H., et al., 2005, ApJ, 635, 1281
+Knaack R., Fligge M., Solanki S. K., Unruh Y. C., 1991, A&A, 376, 1080
+Kolmogorov A.N., 1941, Dokl. Akad. Nauk SSSR, 30, 299
+Kurucz R. L., 1991, in Crivellari L., Hubney I., Hummer D. G., eds, Stellar Atmospheres: Beyond Classical Models. Kluwer, Dordrecht, p. 441
+Libbrecht K. G., 1992, ApJ, 387, 712
+Lockwood G. W., 1998, in: Synoptic Solar Physics, 18th NSO/Sacramento Peak Summer Workshop, Sunspot, New Mexico September 1997, ed. K. S. Balasubramaniam, J. Harvey, D. Rabin, ASP Conf. Ser. Vol. 140, p. 261
+Noyes R. W., Hartmann L. W., Baliunas S. L., Duncan D. K., Vaughan A. H., 1984, ApJ, 279, 763
+Saar S.H., Brandenburg A., 2002 AN, 323, 357
+Toutain T., Appourchaux T., 1994, A&A, 289, 649
+Toutain T., Gouttebroze P., 1993, A&A, 268, 309
+Unno W., Spiegel E. A., 1966, PASJ, 18, 85
+Wilson O. C., 1968, ApJ, 153, 221
+Wilson O. C., 1978, ApJ, 226, 379
+Wright J. T., 2004a, AJ, 128, 1273
+Wright J. T., 2004b, AJ, 129, 1776

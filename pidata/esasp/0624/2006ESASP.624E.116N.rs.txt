@@ -1,0 +1,35 @@
+Barban, C., Michel, E., Martíc, M., Schmitt, J., Lebrun, J.-C., Baglin, A., Bertaux, J. L. 1999, A&A, 350, 617
+Bertello, L., et al. 2000, ApJ, 535, 1066
+Carrier, F., Eggenberger, P., & Bouchy. F. 2005, A&A, 434,1085
+Chaboyer, B., Demarque, P., & Guenther, D. B. 1999, ApJ, 525, L41
+Christensen-Dalsgaard, J., Bedding, T. R. & Kjeldsen, H. 1995, ApJ, 443, L29
+Christensen-Dalsgaard, J. 1997, Notes on adiabatic oscillation programme, (kindly made available by the author at http://www.obs.aau.dk/~jcd/adipack.n/)
+Claudi et al. 2005, A&A, 429, L17
+Couvidat, S., Turck-Chièze, S., & Kosovichev, A. G. 2003, ApJ, 599, 1434
+Di Mauro, M. P., Christensen-Dalsgaard, J., Kjeldsen, H., Bedding, T. R., Paternò, L. 2003, A&A, 404, 341
+Di Mauro, M. P., Christensen-Dalsgaard, J., Paternò, L., D'Antona, F. 2004, Sol. Phys., 220, 185
+Eggenberger, P. Carrier, F., Bouchy, F., Blecha, A. 2004, A&A, 422, 247
+Eggenberger, P. Carrier, F., Bouchy, F. 2005, New Ast., 10, 195
+García, R. A., Pallé, P. L., Turck-Chièze, S., et al. 1998, ApJ, 504, L51-L54
+Guenther, D. B., & Demarque, P. 1996, ApJ, 456, 798
+Guenther, D. B. 2004, ApJ, 612, 454
+Guenther, D. B., et al. 2005, ApJ, 635, 547
+García, R. A., et al. 2001, Sol. Phys., 200
+Kervella, P., Thévenin, F., Morel, P., Berthomieu, G., Bordé, P., Provost, J. 2004, A&A, 413, 251
+Kjeldsen, H., Bedding, T. R., Viskum, M., Frandsen, S. 1995, Astron. J., 109 (3), 1313
+Kjeldsen, H. et al. 2003, Astron. J., 126, 1483
+Martíc, M. et al. 1999, A&A, 351, 993
+Martíc, M., Lebrun, J.-C., Appourchaux, T., & Korzennik, S. G. 2004, A&A, 418, 295
+Morel, P. 1997, A&AS, 124, 597
+Nghiem, P. A. P. 2003a, in Proc. of SOHO12 / GONG+2002 Workshop, ESA SP-517, Local and Global Helioseismology: the Present and Future, ed. H. Sawaya-Lacoste, 155
+Nghiem, P. A. P. 2003b, in Proc. of SOHO12 / GONG+2002 Workshop, ESA SP-517, Local and Global Helioseismology: the Present and Future, ed. H. Sawaya-Lacoste, 353
+Nghiem, P. A. P., Ballot, J., Piau, L., Turck-Chièze, S. 2004, in Proc. of 1st Eddington workshop, ESA SP485, Stellar Structure and Habitable Planet Finding, ed. Favata, F. et al., 377
+Nghiem, P. A. P. 2006, astro-ph/0606624 (Description of Stellar Acoustic Modes with the Local-Wave Concept)
+Nghiem, P. A. P., García, R. A., Jiménez-Reyes, S. J. 2006, these proceedings, and also on Astro-Ph/0608109 (Solar Mean Magnetic Field Near the Surface and its Variation During a Cycle)
+Provost, J., Martíc, M., Berthomieu, G., Morel, P. 2002, in Proc. of 1st Eddington workshop, ESA SP-485, Stellar Structure and Habitable Planet Finding, ed. Favata, F. et al., 309
+Provost, J., Martíc, M., Berthomieu, G. 2004, in Proc. of SOHO 14 / GONG 2004 workshop, ESA SP-559, Helio- and Asteroseismology: Towards a Golden Future, ed. Danesy, D., 594
+Robinson, F. J., Demarque, P., Guenther, D. B., Kim, Y.-C., & Chan, K. L. 2005, Mon. Not. R. Astron. Soc., 362, 1031
+Rhodes, E. J., Kosovichev, A. G., Schou, J., Scherrer, P. H., Reiter, J. 1997, Sol. Phys., 175, 287
+Straka, C. W., Demarque, P., Guenther, D. B., Li, L., & Robinson, F. J. 2006, ApJ, 636, 1078
+Thévenin, F., Kervella, P., Pichon, B., Morel, P., Di Folco, E., & Lebreton, Y. 2005, A&A, 436, 253
+Turck-Chièze, S., Couvidat, S., Kosovichev, A. G., Gabriel, A. H., Berthomieu, G., Brun, A. S., Christensen-Dalsgaard, J., García, R. A., Gough, D. O., Provost, J., Roca-Cortés, T., Roxburgh, I. W., & Ulrich, R. K. 2001, ApJ, 555, L69

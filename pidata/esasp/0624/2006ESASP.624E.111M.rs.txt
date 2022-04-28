@@ -1,0 +1,15 @@
+M. Dikpati. Solar magnetic fields and the dynamo theory. Advances in Space Research, 35:322–328, 2005.
+M. Dikpati, G. de Toma, and P. A. Gilman. Predicting the strength of solar cycle 24 using a fluxtransport dynamo-based tool. Geophys. Res. Lett., 33:5102–5105, March 2006.
+S. L. Baliunas, R. A. Donahue, W. H. Soon, J. H. Horne, J. Frazer, L. Woodard-Eklund, M. Bradford, L. M. Rao, O. C. Wilson, Q. Zhang, W. Bennett, J. Briggs, S. M. Carroll, D. K. Duncan, D. Figueroa, H. H. Lanning, T. Misch, J. Mueller, R. W. Noyes, D. Poppe, A. C. Porter, C. R. Robinson, J. Russell, J. C. Shelton, T. Soyumer, A. H. Vaughan, and J. H. Whitney. Chromospheric variations in mainsequence stars. ApJ, 438:269–287, January 1995.
+R. B. Leighton. Observations of Solar Magnetic Fields in Plage Regions. ApJ, 130:366–380, September 1959.
+O. C. Wilson. Chromospheric variations in mainsequence stars. ApJ, 226:379–396, December 1978.
+S. Baliunas, P. Frick, D. Moss, E. Popova, D. Sokoloff, and W. Soon. Anharmonic and standing dynamo waves: theory and observation of stellar magnetic activity. MNRAS, 365:181–190, January 2006.
+R. W. Noyes, L. W. Hartmann, S. L. Baliunas, D. K. Duncan, and A. H. Vaughan. Rotation, convection, and magnetic activity in lower main-sequence stars. ApJ, 279:763–777, April 1984.
+R. W. Noyes, N. O. Weiss, and A. H. Vaughan. The relation between stellar rotation rate and activity cycle periods. ApJ, 287:769–773, December 1984.
+T. J. Henry, D. R. Soderblom, R. A. Donahue, and S. L. Baliunas. A Survey of Ca II H and K Chromospheric Emission in Southern Solar-Type Stars. AJ, 111:439–465, January 1996.
+A. H. Vaughan and G. W. Preston. A survey of chromospheric CA II H and K emission in field stars of the solar neighborhood. PASP, 92:385–391, August 1980.
+T. R. Bedding, H. Kjeldsen, R. P. Butler, C. McCarthy, G. W. Marcy, S. J. O’Toole, C. G. Tinney, and J. T. Wright. Oscillation Frequencies and Mode Lifetimes in α Centauri A. ApJ, 614:380–385, October 2004.
+H. Kjeldsen, T. R. Bedding, R. P. Butler, J. Christensen-Dalsgaard, L. L. Kiss, C. McCarthy, G. W. Marcy, C. G. Tinney, and J. T. Wright. Solarlike Oscillations in α Centauri B. ApJ, 635:1281–1290, December 2005.
+T. R. Bedding, R. P. Butler, H. Kjeldsen, I. K. Baldry, S. J. O’Toole, C. G. Tinney, G. W. Marcy, F. Kienzle, and F. Carrier. Evidence for Solarlike Oscillations in β Hydri. ApJ, 549:L105–L108, March 2001.
+J. Robrade, J. H. M. M. Schmitt, and F. Favata. Xrays from α Centauri - The darkening of the solar twin. A&A, 442:315–321, October 2005.
+M. J. P. F. G. Monteiro, J. Christensen-Dalsgaard, and M. J. Thompson. Seismic study of stellar convective regions: the base of the convective envelope in low-mass stars. MNRAS, 316:165–172, July 2000.

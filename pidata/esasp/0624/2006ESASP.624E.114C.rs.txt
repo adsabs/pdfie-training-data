@@ -1,0 +1,10 @@
+Pijpers, F. P., Teixeira, T. C., Garcia, P. J., Cunha, M. S., Monteiro, M. J. P. F. G., & ChristensenDalsgaard, J. 2003, A&A, 406, L15
+Thévenin, F., Bigot, L., Kervella, P., Lopez, B., Pichon, B., & Schmider, F.-X. 2006, Memorie della Societa Astronomica Italiana, 77, 411
+Di Folco, E., Thévenin, F., Kervella, P., Domiciano de Souza, A., Coudé du Foresto, V., Ségransan, D., & Morel, P. 2004, A&A, 426, 601
+Brown, T. M., Christensen-Dalsgaard, J., WeibelMihalas, B., & Gilliland, R. L. 1994, ApJ, 427, 1013
+Miglio, A., & Montalbán, J. 2005, A&A, 441, 615
+Numerical Recipes: The Art of Scientific Computing Press, W. H. Teukolsky, S. A., Vetterling, W. T., Flannery, B. P., 1992, 2nd Ed., Cambridge University Press.
+Christensen-Dalsgaard, J. 1982, MNRAS, 199, 735
+Eggleton, P. P., Faulkner, J., & Flannery, B. P. 1973, A&A, 23, 325
+Rogers, F. J., & Iglesias, C. A. 1992, ApJS, 79, 507
+Böhm-Vitense, E. 1958, Zeitschrift fur Astrophysik, 46, 108
