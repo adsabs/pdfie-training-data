@@ -1,6 +1,0 @@
----<2006ESASP.624E..73T>---
-0 ................... -- Brun A.S., Zahn J.-P., 2006, A&A in press
-1 1997A&A...327.1222E -- Elliott, 1997, A&A, 327, 1222
-1 1998Natur.394..755G -- Gough & McIntyre, 1998,, Nature, 394, 755
-1 1992A&A...265..106S -- Spiegel & Zahn, 1992, A&A, 265, 106
-5 2003LPICo1621....6T -- Talon, Vincent, Michaud & Richer, 2003, J. Comp. Phys., 184, 244 Figure 3. Evolution of the entropy perturbation. Figure 4. Evolution of the pressure perturbation. Figure 5. Evolution of the differential rotation. Figure 6. Streamlines showing the evolution of the large scale circulation developing in response to temperature fluctuations.

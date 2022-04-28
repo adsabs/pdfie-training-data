@@ -1,0 +1,9 @@
+[1] Watson, M., 1981, Geophys. Astrophys. Fluid Dyn., 16, 285
+[2] Arlt, R., Sule, A., & Rüdiger, G., 2005, A&A, 441, 1171
+[3] Tayler, R.J., 1973, MNRAS, 161, 365
+[4] Dikpati, M., Cally, P.S., Gilman, P.A., 2004, ApJ, 610, 597
+[5] Choudhuri, A.R., & Gilman, P.A., 1987, ApJ, 316, 788
+[6] D’Silva, S., Choudhuri, A.R., 1993, A&A, 272, 621
+[7] Ferriz-Mas, A., Schüssler, M., 1995, Geophys. Astrophys. Fluid Dyn., 81, 233
+[8] Fan, Y., Fisher, G.H., 1996, Solar Phys., 166, 17
+[9] Hollerbach, R., 2000, Int. J. Numer. Meth. Fluids, 32, 773

@@ -1,0 +1,15 @@
+Spiegel, E. A., & Zahn, J.-P. The solar tachocline, A&A, 265, 106-114, 1992.
+Charbonneau, P., et al. Helioseismic constraints on the structure of the solar tachocline, ApJ, 527, 445460, 1999.
+Rüdiger, G., & Kichatinov, L. L. The internal solar rotation in its spindown histor, ApJ, 466, 1078-1086, 1999.
+Gough, D. O., & McIntyre, M. E. Inevitablity of a magnetic field in the Sun’s radiative interior, Nature, 394, 755-757, 1998.
+MacGregor, K. B., & Charbonneau, P. Ferraro’s theorem and the solar tachocline, ApJ, 519, 911-917, 1999.
+Parker, E. N. A solar dynamo surface wave at the interface between convection and nonumiform rotation, ApJ, 408, 707-719, 1993.
+Kim, E., & Dubrulle, B. Turbulent transport and equilibrium profiles in two-dimensional magnetohydrodynamics with background shear, Phys. Plasmas, 8, 813-824, 2001.
+Rossby, C. G. Relation between variations in the intensity of the zonal circulation of the atmosphere and the displacements of the semi-permament centers of action, J. Mar. Res., 2, 38-55, 1939.
+Kim, E., & Diamond, P.H. Zonal flows and transient dynamics of the L-H transition, Phys. Rev. Lett., 90, 185006, 2003.
+Kim, E. Consistent theory of turbulent transport in two-dimensional magnetohydrodynamics, Phys. Rev. Lett., 96, 084504, 2006.
+Moffatt, K. H. , Magnetic field generation in fluids (CUP), 1978.
+Kim, E. Self-consistent theory of turbulent transport in the solar tachocline, A&A, 441, 763-772, 2005.
+Gilman, P. A. & Fox P. Joint Instability of Latitudinal Differential Rotation and Toroidal Magnetic Fields below the Solar Convection Zone, ApJ, 484, 439-454, 1997.
+Diamond, P. H., Itoh, S.-I., Itoh, K., & Silvers, L. J. , in The solar tachocline, in press (CUP), 2006.
+Leprovost, N., & Kim, E. Tachocline confinement, A&A, 456, 617-621, 2006.
