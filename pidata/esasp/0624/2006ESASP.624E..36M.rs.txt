@@ -1,0 +1,39 @@
+[1] Braithwaite J., Spruit H., 2005, Nature 431, 819
+[2] Brun A.-S., Zahn J.-P., 2006, Magnetic confinement of the solar tachocline, accepted for publication in A&A
+[3] Bullard E. C., Gellman H., 1954, Phil. Trans. R. Soc. London A 247, 213
+[4] Busse F. H., 1982, ApJ 259, 759
+[5] Chaboyer Z., Zahn J.-P., 1992, A&A 253, 173
+[6] Charbonneau P., MacGregor K. B., 1993, ApJ 417, 762
+[7] Decressin T., Mathis S., Palacios A., Siess L., Charbonnel C., Zahn J.-P., Secular hydrodynamics of rotating stars, in preparation for A&A
+[8] Garaud P., 2001, MNRAS 324, 68
+[9] Garaud P., 2002, MNRAS 329, 1
+[10] Garaud P., 2002, MNRAS 335, 707
+[11] Goldreich P., Nicholson P. D., 1989, ApJ 342, 1079
+[12] Kippenhahn R., Weigert A., 1990, Stellar Structure and Evolution, Springer-Verlag
+[13] Maeder A., Zahn J.-P., 1998, A&A 334, 1000
+[14] Maeder A., 1999, A&A 347, 185
+[15] Maeder A., 2003, A&A 399, 263
+[16] Maeder A., Meynet G., 2004, A&A 422, 225
+[17] Mathis S., Zahn J.-P., 2004, A&A 425, 229
+[18] Mathis S., Palacios A., Zahn J.-P., 2004, A&A 425, 243
+[19] Mathis S., Zahn J.-P., 2005, A&A 440, 653
+[20] Mathis S., Zahn J.-P., Transport and mixing in the radiation zones of rotating stars III. Gravito-inertial waves, in prep. for A&A
+[21] Mathis S., Zahn J.-P., The dynamical tide in a differentially rotating star, in prep. for A&A
+[22] Menou K., Balbus S. A., Spruit H. C., 2004, ApJ 607, 564
+[23] Palacios A., Talon S., Charbonnel C., Forestini M., 2003, A&A 399, 603
+[24] Palacios A., Charbonnel C., Talon S., Siess L., 2006, A&A 453, 261
+[25] Rieutord M., 1987, Geophys. Astrophys. Fluid Dynamics 39, 163
+[26] Rieutord M., 2006, Stellar Fluid Dynamics and Numerical Simulations: From the Sun to Neutron Stars, M. Rieutord and B. Dubrulle edts, EAS, vol 21, 275
+[27] Rogers T., Glatzmaier G., 2005, MNRAS 364, 1135
+[28] Spruit H. C., 1999, A&A 349, 189
+[29] Spruit H. C., 2002, A&A 381, 923
+[30] Siess L., Dufour E., Forestini M., 2000, A&A, 358, 593
+[31] Talon S., Zahn J.-P., 1997, A&A 317, 749
+[32] Talon S., Kumar P., Zahn J.-P., 2002, ApJ 574, L175
+[33] Talon S., Charbonnel C., 2003, A&A 405, 1025
+[34] Talon S., Charbonnel C. ,2004, A&A 418, 1051
+[35] Talon S., Charbonnel C., 2005, A&A 440, 981
+[36] Turck-Chièze S. et al., The magnetism of the solar interior for a complete MHD solar vision; 39th ESLAB Symposium, meeting held in Noordwijk, Netherland, April 19-21, 2005; Eds.: F. Favata, A. Gimenez; to be published (2005) [e-print: astro-ph/0510854]
+[37] Zahn J.-P. 1966, Annales dAstrophysique 29, 313 (I), 489 (II)
+[38] Zahn J.-P., 1975, A&A 41, 329
+[39] Zahn J.-P., 1992, A&A 265, 115

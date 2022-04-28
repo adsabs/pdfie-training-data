@@ -1,0 +1,11 @@
+Bogdan, T. J., Brown, T. M., Lites, B. W., & Thomas, J. H. 1993, ApJ, 406, 723
+Carpenter, M.H., Gottlieb, D., & Abarbanel, S. 1993, J. Comput. Phys. 108, 272
+Christensen-Dalsgaard, J., et al. 1996, Science, 272, 1286
+Hu, F.Q. 1996, in: 2nd AIAA/CEAS Aeroacoustic Conference, May 6-8, 1996/State College, PA, AIAA 96-1664
+Rosenthal, C. S. 1992, Sol. Phys., 139, 25
+Scherrer, P. H., et al. 1995, Sol. Phys., 162, 129
+Spruit, H. C., & Bogdan, T. J. 1992, ApJ, 391, L109
+Tam, C. & Webb, J. 1993, J. Comput. Phys. 107, 262
+Thomas, J. H., Cram, L. E., & Nye, A. H. 1982, Nature, 297, 485
+Thomas, J. 1993, ASP Conf. Ser. 46: IAU Colloq. 141: The Magnetic and Velocity Fields of Solar Active Regions, 46, 513
+Vernazza, J. E., Avrett, E. H., & Loeser, R. 1976, ApJS, 30, 1

@@ -1,0 +1,44 @@
+Ando H., 1986, A&A 163, 97
+Balmforth N.J., 1992, MNRAS 255, 639
+Barnes G., Charbonneau P., MacGregor K.B., 1999, ApJ 511, 466
+Bouvier J., Wichmann R., Grankin K., Allain S., Covino E., Fernández M., Martı́n E.L., Terranegra L., Catalaneao S., Marilli E., 1997, A&A 318, 495
+Brun A.S., Zahn J.-P., 2006, A&A in press
+Canuto V.M., 2002, MNRAS 337, 713
+Chaboyer B., Demarque P., Pinsonneault M.H., 1995, ApJ 441, 865
+Chaplin W.J., Christensen-Dalsgaard J., Elsworth Y., Howe R., Isaak G.R., Larsen R.M., New R., Schou J., Thompson M.J., Tomczyk S., 1999, MNRAS 308, 405
+Charbonneau P., MacGregor K.B., 1993, ApJ 417, 762
+Charbonnel C., Talon S., 2005, Science 309, 2189
+Couvidat S., Garcı́a R.A., Turck-Chièze S., Corbard T., Henney C.J., Jiménez-Reyes S., 2003, ApJ 597, L77
+Dziembowski W., 1983, Solar Physics 82, 259
+Eggenberger P., Maeder A., Meynet G., 2005, A&A 440, L9
+Garcı́a López R.J., Spruit H.C., 1991, ApJ 377, 268
+Goldreich P., Kumar P., 1990, ApJ 363, 694
+Goldreich P., Murray N., Kumar, P., 1994, ApJ 424, 466
+Goldreich P., Nicholson P.D., 1989, ApJ 342, 1079
+Gough D. O., McIntyre M.E., 1998, Nature 394, 755
+Hurlburt N.E., Toomre J., Massaguer J.M., 1986, ApJ 311, 563
+Hurlburt N.E., Toomre J., Massaguer J.M., Zahn J.P., 1994, ApJ 421, 245
+Kiraga M., Różyczka M., Stepien K., Jahn K., Muthsam H., 2000, Acta Astronomica 50, 93
+Kumar P., Quataert E.J., 1997, ApJ 475, L143
+Kumar P., Talon S., Zahn J.-P., 1999, ApJ 520, 859
+Matias J., Zahn J.-P., 1998, in “Sounding Solar and Stellar Interiors”, Eds. J. Provost, F.-X. Schmider, IAU symposium 181, poster volume, 103
+Mathis S., Zahn J.-P., 2005, in “SF2S-2005”, Eds. F. Casoli, T. Contini, J.M. Hameury, L. Pagani., EdPSciences, 319
+McIntyre M.E., 2003, in “Perspectives in Fluid Dynamics: A Collective Introduction to Current Research”, Eds. G.K. Batchelor, H.K. Moffat, M.G. Worster, Cambridge Univ. Press, 557
+Montalbán J., 1994, A&A 281, 421
+Press W.H., 1981, ApJ 245, 286
+Rogers T.M., Glatzmeier G.A., 2005a, ApJ 620, 432
+Rogers T.M., Glatzmeier G.A., 2005b, MNRAS 364, 1135
+Ringot O., 1998, A&A 335, 89
+Schatzman E., 1962, Annales d’Astrophysique 25, 18
+Schatzman E., 1993, A&A 279, 431
+Sutherland, B.R., Linden, F.R., 2002, Phys. Fluids 14, 721
+Talon S., 1997, “Hydrodynamique des étoiles en rotation”, PhD thesis, Université Paris VII
+Talon S., Charbonnel C., 2003, A&A 405, 1025
+Talon S., Charbonnel C., 2004, A&A 418, 1051
+Talon S., Charbonnel C., 2005, A&A 440, 981
+Talon S., Kumar P., Zahn J.-P., 2002, ApJL 574, L175
+Townsend A.A., 1958, J. Fluid Mech. 4, 361
+Townsend A.A., 1965, J. Fluid Mech. 22, 241
+Young P.A., Knierman K.A., Rigby J.R., Arnett D., 2003, ApJ 595, 1114
+Zahn J.-P., 1992, A&A 265, 115
+Zahn J.-P., Talon S., Matias J., 1997, A&A 322, 320

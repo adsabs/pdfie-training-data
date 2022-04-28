@@ -1,0 +1,45 @@
+Aerts, C., Jeffery, C.S., Fontaine, G., Dhillon, V.S., Marsh, T.R., & Groot, P. 2006, MNRAS, 367, 1317
+Baran, A., Pigulski, A., Koziel, D., Ogloza, W., Silvotti, R., & Zola, S. 2005, MNRAS, 360, 737
+Billères, M., & Fontaine, G. 2005, in 14th European Workshop on White Dwarfs, eds. D. Koester & Moehler, S., ASP Conf. Ser., 334, 635
+Blanchette, J.-P., Chayer, P., Wesemael, F., Fontaine, G., Fontaine, M., Dupuis. J., Kruk, J.W., & Green, E.M. 2006, Baltic Astronomy, 15, 301
+Brassard, P., Fontaine, G., Billères, M., Charpinet, S., Liebert, J., & Saffer, R.A. 2001, ApJ, 563, 1013
+Charpinet, S., Fontaine, G., & Brassard, P. 2001, PASP, 113, 775
+Charpinet, S., Fontaine, G., Brassard, P. 2003, in White Dwarfs, Proc. 13th European Workshop on White Dwarfs, ed. D. de Martino, R. Silvotti, J.-E. Solheim, & R. Kalytis, (NATO Sc. Ser. II, 105; Dordretch: Kluwer), 69
+Charpinet, S., Fontaine, G., Brassard, P., Billères, M., Green, E.M., & Chayer, P. 2005a, A&A, 437, 575
+Charpinet, S., Fontaine, G., Brassard, P., Chayer, P., Rogers, F.J., Iglesias, C.A., & Dorman, B. 1997, ApJ, 483, L123
+Charpinet, S., Fontaine, G., Brassard, P., & Dorman, B, 1996, ApJ, 471, L103
+Charpinet, S., Fontaine, G., Brassard, P., Billères, M., Green, E.M., & Chayer, P. 2005b, A&A, 443, 251
+Charpinet, S., Silvotti, R., Bonanno, A., Fontaine, G., et al. 2006, A&A, in press
+Chayer, P., Fontaine, G., Fontaine, M., Lamontagne, R., Wesemael, F., Dupuis, J., Heber, U., Napiwotzki, R., & Moehler, S. 2004, Ap&SS, 291, 359
+Dorman, B., Rood, R.T., & O'Connell, R.W. 1993, ApJ, 419, 596
+Fontaine, G., Brassard, P., Charpinet, S., Green, E.M., Chayer, P., Billères, M., & Randall, S.K. 2003, ApJ, 597, 518
+Fontaine, G., Charpinet, S., Brassard, P., Chayer, P., Rogers, F.J., Iglesias, C.A., Dorman, B. 1998, in IAU Symposium 185, New Eyes inside the Sun and Stars, ed. F. Deubner & D.W. Kurtz (Dordretch: Kluwer), 367
+Fontaine, G., Green, E.M., Chayer, P., Brassard, P., Charpinet, S., & Randall, S. 2006, Baltic Astronomy, 15, 211
+For, B.-Q., Green, E.M., O’Donoghue, D., Kiss, L.L., Randall, S.K., Fontaine, G., Jacob, A., O’Toole, S.J., Hyde, E.A., & Bedding, T.R. 2006, ApJ, 642, 1117
+Green, E.M., Fontaine, G., Reed, M.D., Callerame, K., Seitenzahl, I.R., White, B.A., Hyde, E.A., Ostensen, R., Cordes, O., Brassard, P., Falter, S., Jeffery, E.J., Dreizler, S., Schuh, S.L., Giovanni, M., Edelmann, H., Rigby, J., & Bronowska, A. 2003, ApJ, 583, L31
+Han, Z., Podsiadlowski, P., Maxted, P.F.L, & Marsh, T.R. 2003, MNRAS, 341, 669
+Han, Z., Podsiadlowski, P., Maxted, P.F.L, Marsh, T.R., & Ivanova, N. 2002, MNRAS, 336, 449
+Heber, U. 1986, A&A, 155, 33
+Heber, U., Reid, I.N., & Werner, K. 2000, A&A, 363, 198
+Jeffery, C.S., & Saio, H. 2006, MNRAS, in press
+Jeffery, C.S., Dhillon, V., Marsh, T., & Ramachandran, B. 2004, MNRAS, 352, 699
+Kilkenny, D., Koen, C., O’Donoghue, D., & Stobie, R.S. 1997, MNRAS, 285, 640
+Kilkenny, D., Billères, M., Stobie, R.S., Fontaine, G., et al. 2002, MNRAS, 331, 399
+Koen, C., Kilkenny, D., O’Donoghue, D., Van Wyk, F., & Stobie, R.S. 1997, MNRAS, 285, 645
+Koen, C., O’Donoghue, D., Pollacco, D.L., & Nitta, A. 1998, MNRAS, 300, 1105
+Michaud, G., Bergeron, P., Wesemael, F., & Fontaine, G. 1985, ApJ, 299, 741
+O’Donoghue, D., Lynas-Gray, A.E., Kilkenny, D., Stobie, R.S. & Koen, C. 1997, MNRAS, 285, 657
+Oreiro, R., Pérez Hernández, F., Ulla, A., Garrido, R., Ostensen, R., & MacDonald, J, 2005, A&A, 438, 257
+O’Toole, S.J., & Heber, U. 2006, A&A, 452, 579
+O’Toole, S.J., Heber, U., & Benjamin, R.A. 2004, A&A, 442, 1043
+O’Toole, S.J., Heber, U., Jeffery, C.S., Dreizler, S., et al. 2005, A&A, 440, 667
+Ramachandran, B., Jeffery, C.S., & Townsend, R.H.D. 2004, A&A, 428, 209
+Randall, S.K., Fontaine, G., Brassard, P., Bergeron, P. 2005, ApJS, 161, 456
+Randall, S.K., Fontaine, G., Charpinet, S., LynasGray, A.E., Lopes, I., O’Toole, S.J., & Brassard, P. 2006c, ApJ, in press
+Randall, S.K., Fontaine, G., Green, E.M., Brassard, P., Kilkenny, D., Crause, L., Terndrup, D.M., Daane, A., Kiss, L.L., Jacob, A.P., Bedding, T.R., For, B.-Q., Quirion, P.-O., & Chayer, P. 2006a, ApJ, 643, 1198
+Randall, S.K., Green, E.M., Fontaine, G., Brassard, P., Terndrup, D.M., Brown, N., Fontaine, M., Zacharias, P., & Chayer, P. 2006b, ApJ, 645, 1464
+Schuh, S., Huber, J., Dreizler, S., Heber, U., O’Toole, S.J., Green, E.M., & Fontaine, G. 2006, A&A, 445L, 31
+Stobie, R.S., Kawaler, S.D., Kilkenny, D., O’Donoghue, D., & Koen, C. 1997, MNRAS, 285, 651
+Tillich, A., Heber, U., & O’Toole, S.J. 2006, Proc. 15th European Workshop on White Dwarfs, eds. R. Napiwotzki & M. Burleigh, in press
+Tremblay, P.-E., Fontaine, G., Brassard, P., Bergeron, P., & Randall, S.K. 2006, ApJS, 165, 551
+Wood, J.H., & Saffer, R.A. 1999, MNRAS, 305, 820

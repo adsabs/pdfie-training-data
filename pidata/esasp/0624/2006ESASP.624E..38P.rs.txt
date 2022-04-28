@@ -1,0 +1,48 @@
+Aller, L. H. & Chapman, S. 1960, ApJ, 132, 461
+Bahcall, J. N., Pinsonneault, M. H., & Wasserburg, G. J. 1995, Reviews of Modern Physics, 67, 781
+Balachandran, S. 1995, ApJ, 446, 203
+Barnes, G., Charbonneau, P., & MacGregor, K. B. 1999, ApJ, 511, 466
+Boesgaard, A. M. & Tripicco, M. J. 1986, ApJL, 302, L49
+Brun, A. 1998, Ph.D. Thesis
+Brun, A. S., Browning, M. K., & Toomre, J. 2005, ApJ, 629, 461
+Brun, A. S. & Toomre, J. 2002, ApJ, 570, 865
+Brun, A. S., Turck-Chièze, S., & Zahn, J. P. 1999, ApJ, 525, 1032
+Chaboyer, B., Demarque, P., & Pinsonneault, M. H. 1995, ApJ, 441, 865
+Chaboyer, B. & Zahn, J.-P. 1992, A&A, 253, 173
+Charbonneau, P. & MacGregor, K. B. 1993, ApJ, 417, 762
+Charbonnel, C. & Talon, S. 2005, Science, 309, 2189
+Christensen-Dalsgaard, J., Di Mauro, M. P., Schlattl, H., & Weiss, A. 2005, MNRAS, 356, 587
+Couvidat, S., Garcı́a, R. A., Turck-Chièze, S., et al. 2003, ApJL, 597, L77
+Eddington, A. S. 1925, The Observatory, 48, 73
+Eggenberger, P., Maeder, A., & Meynet, G. 2005, A&A, 440, L9
+Endal, A. S. & Sofia, S. 1978, ApJ, 220, 279
+Grevesse, N. & Noels, A. 1993, Physica Scripta Volume T, 47, 133
+Heger, A., Langer, N., & Woosley, S. E. 2000, A&A, 528, 368
+Kawaler, S. D. 1988, ApJ, 333, 236
+Kippenhahn, R. & Thomas, H.-C. 1970, in IAU Colloq. 4: Stellar Rotation, ed. A. Slettebak, 20
+Kumar, P., Talon, S., & Zahn, J.-P. 1999, ApJ, 520, 859
+Lydon, T. J. & Sofia, S. 1995, ApJS, 101, 357
+Maeder, A. & Meynet, G. 2000, ARA&A, 38, 143
+Maeder, A. & Meynet, G. 2003, A&A, 411, 543
+Maeder, A. & Meynet, G. 2004, A&A, 422, 225
+Maeder, A. & Meynet, G. 2005, A&A, 440, 1041
+Maeder, A. & Zahn, J.-P. 1998, A&A, 334, 1000
+Mathis, S. & Zahn, J.-P. 2005, A&A, 440, 653
+Matias, J. & Zahn, J. P. 1997, in IAU Symp. 181: Sounding Solar and Stellar Interiors - Posters volume, ed. J. Provost & F.-X. Schmider, 103–104
+Meynet, G. & Maeder, A. 1997, A&A, 321, 465
+Palacios, A., Charbonnel, C., Talon, S., & Siess, L. 2006, A&A, 453, 261
+Palacios, A., Talon, S., Charbonnel, C., & Forestini, M. 2003, A&A, 399, 603
+Palacios, A., Turck-Chièze, S., Talon, S., & Charbonnel, C. 2007, A&A, in prep.
+Pinsonneault, M. H., Kawaler, S. D., Sofia, S., & Demarque, P. 1989, ApJ, 338, 424
+Proffitt, C. R. & Michaud, G. 1991, ApJ, 380, 238
+Richard, O., Vauclair, S., Charbonnel, C., & Dziembowski, W. A. 1996, A&A, 312, 1000
+Spruit, H. C. 2002, A&A, 381, 923
+Talon, S. 1997, Ph.D. Thesis
+Talon, S. 2005, in EAS Publications Series, ed. G. Alecian, O. Richard, & S. Vauclair, 187–196
+Talon, S. & Charbonnel, C. 1998, A&A, 335, 959
+Talon, S. & Charbonnel, C. 2003, A&A, 405, 1025
+Talon, S. & Charbonnel, C. 2004, A&A, 418, 1051
+Talon, S. & Charbonnel, C. 2005, A&A, 440, 981
+Turck-Chièze, S., Couvidat, S., Piau, L., et al. 2004, Physical Review Letters, 93, 211102
+Yang, W. M. & Bi, S. L. 2006, A&A, 449, 1161
+Zahn, J.-P. 1992, A&A, 265, 115

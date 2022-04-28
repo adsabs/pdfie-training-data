@@ -1,0 +1,28 @@
+Audard, N., Provost, J. 1994 A&A 282, 73
+Baglin, A. 2003, AdSpR, 31,345
+Bouchy, F., Carrier, F. 2003, Ap&SS, 284,21
+Buzasi, D., Catanzarite, J., Laher, R. et al. 2000 ApJ, 532, L133
+Castellani, V., Giannone, P., Renzini, A.1971a, Astrophys. Space Sci. 10,340
+Castellani, V., Giannone, P., Renzini, A.1971b, Astrophys. Space Sci. 10,355
+Chiosi, C., Bertelli, G., Bressan, A. 1992, Annu. Rev. Astron. Astrophys. 1992, 30, 235
+Chirstensen-Dalsgaard, J. 2004, SoPh, 220,137
+Christensen-Dalsgaard, J., Kjeldsen, H., Mattei, J. A. 2001, ApJ, 562, L141
+De Ridder, J., Barban, C., Carrier, F. et al. 2006, A&A, 448, 689
+Dupret, M. -A. 2002, PhD thesis
+Dupret, M.-A., Samadi, R., Grigahcene, A., Goupil, M.-J., Gabriel, M. 2006 CoAst, 147, 85
+Dziembowski, W. A. 1971, Acta Astron., 21, 289
+Dziembowski, W. A., Gough, D. O., Houdek, G., Sienkiewicz, R. 2001, MNRAS, 328, 601
+Frandsen, S., Carrier, F., Aerts, C. et al. 2002; A&A, 394, L5
+Grigahcène, A., Dupret, M.-A., Gabriel, M., Garrido, R., Scuflaire, R. 2005, A&A, 434,1055
+Hekker, S., Aerts, C., De Ridder, J., Carrier, F. 2006, accepted by A&A, eprint arXiv:astro-ph/0608452
+Kervella, P., Thévenin, F., Morel, P., Berthomieu, G., Bord, P., Provost, J. 2004, A&A,413,251
+Paczynski, B. 1971, Acta Astron. 20, 417 1998, IAUS, 185,317
+Pijpers, F. P., Teixeira, T. C., Garcia, P. J., Cunha, M. S., Monteiro, M. J. P. F. G., Christensen-Dalsgaard, J. 2003, A&A, 406, L15
+Roxburgh, I. W., Vorontsov, S. V. 2003, A&A 411,215
+Rucinski, C., Carroll, K., Kuschinig et al. 2003, AdSpR, 31,371
+Schwarzschild, M.1970 Q. J. R. Astron. Soc. 11,12
+Thévenin, F., Bigot, L., Kervella, P., Lopez, B., Pichon, B., Schmider, F.-X. 2006, MmSAI, 77, 411
+Unno, W., Osaki, Y., Ando, H., Saio, H., Shibahashi, H. 1989, University of Tokyo Press, 2nd ed
+Ventura, P., D’Antona, F. 2005, A&A, 431, 279.
+Ventura, P., Zeppieri, A., D’Antona, F., Mazzitelli, I. 1998, A&A, 334, 953.
+Weiss, W. W., Aerts, C., Aigrain S. et al. 2004, ESA SP-538, 435
