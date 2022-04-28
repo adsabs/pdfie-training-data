@@ -1,5 +1,0 @@
----<2006ESASP.624E..63C>---
-1 1997ApJ...486L..67C -- Cally P., Bogdan T.J., 1997, ApJ 486, L67
-1 1965ApJ...141..548D -- Deinzer W., 1965, ApJ 141, 548
-1 2005A&A...441..337S -- Schussler M., Rempel M., 2005, A&A 441, 337
-1 2004ESASP.559..172W -- Werne J., Birch A.C., Julien K., 2004, in Proc. SOHO 14, ESA SP-559, 172

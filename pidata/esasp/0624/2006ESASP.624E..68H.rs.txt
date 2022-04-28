@@ -1,0 +1,8 @@
+[1] B. Hindman, D. Haber, J. Toomre, and R. Bogart. Sol. Physics, 192:363–372, 2000.
+[2] S. P. Rajaguru, S. Basu, and H. M. Antia. ApJ, 563:410–418, 2001.
+[3] R. Howe, R. W. Komm, F. Hill, D. A. Haber, and B. W. Hindman. ApJ, 608:562–579, 2004.
+[4] D. A. Haber, B. W. Hindman, J. Toomre, R. S. Bogart, R. M. Larsen, and F. Hill. ApJ, 570:855–864, 2002.
+[5] I. González Hernández, R. Komm, F. Hill, R. Howe, T. Corbard, and D. A. Haber. ApJ, 638:576–583, 2006.
+[6] R. S. Ronan, K. Cadora, and B. J. Labonte. Sol. Physics, 150:389–392, 1994.
+[7] E. J. Rhodes, Jr., J. Reiter, and J. Schou. In A. Wilson, editor, ESA SP-508: From Solar Min to Max: Half a Solar Cycle with SOHO, pages 37–40, 2002.
+[8] B. Gelly, M. Lazrek, G. Grec, A. Ayad, F. X. Schmider, C. Renaud, D. Salabert, and E. Fossat. Astron. Astrophys., 394:285–297, 2002.

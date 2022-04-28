@@ -1,5 +1,0 @@
----<2006ESASP.624E..62B>---
-1 2004ApJ...610.1157B -- Basu, S., Antia, H.M., and Bogart, R.S. 2004. Ap.J. 610, 1157.
-1 1992A&A...262L..33P -- Pijpers, F.P. and Thompson, M.J. 1992. A&A 262, L33.
-1 1994A&A...281..231P -- Pijpers, F.P. and Thompson, M.J. 1994. A&A 281, 231.
-1 2001ApJ...563..410R -- Rajaguru, S. P., Basu, S., and Antia, H.M. 2001. Ap.J. 563, 410.

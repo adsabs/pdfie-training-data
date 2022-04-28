@@ -1,0 +1,7 @@
+Cally P. S. Local Magneto-Helioseismology of Active Regions, MNRAS, Vol. 358, 353–362, 2005.
+Cally P. S. Dispersion relations, rays and ray splitting in magnetohelioseismology, Phil. Trans. Roy. Soc. London A, Vol. 364, 333–349, 2006.
+Christensen-Dalsgaard J. et al. The Current State of Solar Modeling, Science, Vol. 272, 1286, 1996.
+Schmitz F and Fleck B. Towards an explanation of features in the diagnostic diagram of a model atmosphere, A&A, Vol. 399, 723–730, (2003).
+Schunker H., Cally, P. S., Braun D. C. and Lindsey C. Comparisons between observed and simulated surface velocities in the presence of inclined magnetic fields, proceedings of SOHO 18/GONG 2006/HelAs I Beyond the Spherical Sun: a new era of helio- and asteroseismology, Sheffield Aug 2006, (this volume).
+Schunker H. and Cally P. S. Magnetic Field Inclination and Atmospheric Oscillations above Solar Active Regions, MNRAS, in press, 2006.
+Tracy E. R., Kaufman A. N., Brizard A. J. Ray-based methods in multidimensional linear wave conversion, Phys. Plasmas, Vol. 10, 2147–2154, 2003.
