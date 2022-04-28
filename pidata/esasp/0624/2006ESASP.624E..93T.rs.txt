@@ -1,0 +1,21 @@
+Jain, K. and Bhatnagar, A.: 2003, Solar Phys. 213, 257.
+Jiménez-Reyes, S.J., Garcı́a, R.A., Chaplin, W.J., and Korzennik, S.G.: 2004, Astrophys. J. 610, L65.
+Howe, R., Chaplin, W.J., Elsworth, Y., Hill, F., Komm, R.W., Isaak, G.R., and New, R.: 2006, Mon. Not. Roy. Astron. Soc. in press.
+Kuhn, J.R.: 2001, in A. Wilson (ed.), Proc. of SOHO 10/GONG 2000 Workshop: Helio- and Asteroseismology at the Dawn of the Millennium, ESA Publications Division, Noordwijk, The Netherlands, ESA SP-464, p. 7.
+Rhodes, E.J., Jr., Reiter, J., and Schou, J.: 2003, in H. Sawaya-Lacoste (ed.), Proc. of SOHO 12/GONG+ 2002, Local and Global Helioseismology: the Present and Future, ESA Publications Division, Noordwijk, The Netherlands, ESA SP-517, p. 173.
+Komm, R.W., Gu, Y., Hill, F., Stark, P.B., and Fodor, I.K.: 1999, Astrophys. J. 519, 407.
+Anderson, E.R., Duvall, Jr., T.L., and Jefferies, S.M.: 1990, Astrophys. J. 364, 699.
+Hill, F. et al.: 1996, Science 272, 1292.
+Schou, J., Howe, R., Basu, S., ChristensenDalsgaard, J., Corbard, T., Hill, F., Komm, R., Larsen, R.M., Rabell-Soares, M.C., and Thompson, M.J.: 2002, Astrophys. J. 567, 1234.
+Ulrich, R.K.: 1991, Adv. Space Res. 11(4), 217.
+Bachmann, K.T. and Brown, T.M.: 1993, Astrophys. J. 411, L45.
+Bhatnagar, A., Jain, K., and Tripathy, S.C.: 1999, Astrophys. J. 521, 885.
+Woodard, M.F., Kuhn, J.R., Murray, N., and Libbrecht, K.G.: 1991, Astrophys. J. 373, L81.
+Christensen-Dalsgaard, J. and Berthomieu, J: 1991, in A.N. Cox, W.C. Livingston, and M. Matthews (eds.), Solar Interior and Atmosphere, Univ. Arizona Press, Tucson, p. 401.
+Libbrecht, K.G.: 1992, Astrophys. J. 387, 712.
+Chaplin, W.J., Elsworth, Y., Issak, G.R., Marchenkov, K.I., Miller, B.A., and New, R.: 2001, Mon. Not. Roy. Astron. Soc. 322, 22.
+Tripathy, S.C., Hill, F., Jain, K., and Leibacher, J.W.: 2006, Solar Phys. submitted.
+Ronan, R.S., Cadora, K., and LaBonte, B.J.: 1994, Solar Phys. 150, 389.
+Jefferies, S.M.: 1998, in F-L. Deubner, J. Christensen-Dalsgaard, and D. Kurtz (eds.), Proc. of IAU Symposium No. 185: New Eyes to See Inside the Sun and Stars, Kluwer Academic Press, Dordrecht, Netherlands, p. 415.
+Komm, R.W., Howe, R., and Hill, F.: 2000a, Astrophys. J. 531, 1094.
+Komm, R.W., Howe, R., and Hill, F.: 2000b, Astrophys. J. 543, 472.

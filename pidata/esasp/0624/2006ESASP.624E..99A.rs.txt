@@ -1,0 +1,3 @@
+Brookes, J. R., Isaak, G. R., and van der Raay, H. B. (1978). A resonant-scattering solar spectrometer. Monthly Notices of the Royal Astronomical Society, 185:1–17.
+Chaplin, W. J., Elsworth, Y. P., Howe, R., Isaak, G. R., McLeod, C. P., Miller, B. A., Wheeler, S. J., and New, R. (1996). BiSON performance. Solar Physics, 168:1–18.
+Elsworth, Y. P., Howe, R., Isaak, G. R., McLeod, C. P., Miller, B. A., New, R., and Wheeler, S. J. (1995). Techniques used in the analysis of solar oscillations data from the BiSON (University of Birmingham) network: I. Daily calibration. Astronomy and Astrophysics Supplement Series, 113:379–386.

@@ -1,0 +1,14 @@
+Balmforth, N.J., 1992, MNRAS, 255, 603
+Barban, C., Hill, F., & Kras, S., 2004, ApJ, 602, 516
+Baudin, F., Samadi, R., Goupil, M.-J., et al., 2005, A&A, 433, 349
+Chaplin W. J., Elsworth Y., Isaak G. R., et al., 2002, MNRAS, 330, 731
+Dupret, M.-A., De Ridder, J., Neuforge, C., Aerts, C., and Scuflaire R., 2002, A&A 385, 563
+Dupret, M.-A., Samadi, R., Grigahcène, A., et al., 2006, CoAst, 147, 85
+Dupret, M.-A., Goupil, M.-J., Samadi, R. et al., these proceedings, paper II
+Gabriel, M. 1996, Bull. Astron. Soc. of India 24, 233
+Gough, D. O., 1977, ApJ, 214, 196
+Grigahcène, A., Dupret, M.-A., Gabriel, M., et al. 2005, A&A 434, 1055
+Kurucz, R.L., 1993, ATLAS9 Stellar Atmosphere programs and 2 km/s grids. Kurucz CDROM No 13
+Severino, G., Magri, M., Oliviero, M., et al., 2001, ApJ, 561, 444
+Stein, R. F., & Nordlund, A. 1998, ApJ 499, 914
+Vernazza, J. E., Avrett, E. H., & Loeser, R., 1981, ApJS, 45, 1981

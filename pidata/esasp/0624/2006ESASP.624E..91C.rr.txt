@@ -1,6 +1,0 @@
----<2006ESASP.624E..91C>---
-1 1997MNRAS.287...51C -- Chaplin, W. J., Elsworth, Y., Isaak, G. R., McLeod, C. P., Miller, B. A., New, R., 1997,, MNRAS, 287, 51
-1 2003A&A...398..305C -- Chaplin, W. J., Elsworth, Y., Isaak, G. R., Miller, B. A., New, R., Pinter, B., Thiery, S., 2003, A&A, 398, 305
-1 2004MNRAS.352.1102C -- Chaplin, W. J., Elsworth, Y., Isaak, G. R., Miller, B. A., & New, R., 2004,, MNRAS, 352, 1102
-5 1998SPIE.9142....1N -- Nigam, R. & Kosovichev, A. G. 1998,, ApJ, 505, L51 Figure 3. Peak profiles expected for a single mode of width 1 Hz in the power spectrum of a time series across which the frequency changes in a cosinusoidal manner. The timeseries is assumed to have length equal to one cycle period
-5 1998SPIE.9142....0N -- Nigam, R. & Kosovichev, A. G., 1998,  while the amplitude of the cycle is /2 (giving a total peak-to-peak shift in frequency of ). Various linestyles are, no shift (solid line); = 0.15 Hz (dotted line); 0.40 Hz (dashed line); 1.50 Hz (dot-dashed line); and 3.0 Hz (dot-dot-dot-dashed line). Note that only at the two largest shifts do the profiles depart significantly from the unperturbed (Lorentzian) profile.

@@ -1,0 +1,13 @@
+[1] Appourchaux, T., Gizon, L., & Rabello-Soares, M.C. 1998, A&AS, 132, 107
+[2] Chaplin, W. J., Elsworth, Y., Isaak, G. R., Miller, B. A., & New, R. 2000, MNRAS, 313, 32
+[3] Christensen-Dalsgaard, J., et al. 1996, Science, 272, 1286
+[4] Goldreich, P., Murray, N., & Kumar, P. 1994, ApJ, 424, 466
+[5] Howe, R., Komm, R. W., Hill, F., Haber, D. A., & Hindman, B. W. 2004, ApJ, 608, 562
+[6] Komm, R. W., Howe, R., & Hill, F. 2000a, ApJ, 531, 1094
+[7] Komm, R. W., Howe, R., & Hill, F. 2000b, ApJ, 543,472
+[8] Komm, R., Howe, R., & Hill, F. 2002, ApJ, 572, 663
+[9] Jiménez-Reyes, S. J., Garcı́a, R. A., Jiménez, A., & Chaplin, W. J. 2003, ApJ, 595, 446
+[10] Ritzwoller, M. H., & Lavely, E. M. 1991, ApJ, 369, 557
+[11] Salabert, D., Jiménez-Reyes, S. J., & Tomczyk, S. 2003, A&A, 408, 729
+[12] Salabert, D., Jiménez-Reyes, S. J. 2006, ApJ, In press
+[13] Schou, J. 1992, Ph.D. Thesis, Aarhus Univ.
