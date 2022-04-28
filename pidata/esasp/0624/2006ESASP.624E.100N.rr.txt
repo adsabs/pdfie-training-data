@@ -1,5 +1,0 @@
----<2006ESASP.624E.100N>---
-1 2005MNRAS.359..607C -- Chaplin W.J., Elsworth Y.P., Isaak G.R., Miller B.A., New R.,  , MNRAS, 359, 607 (2005)
-1 2004ESASP.559..360C -- Chaplin W.J., Elsworth Y.P., Isaak G.R., Miller B.A., New R., Pint&Atilde;&copy;r B., ESA SP-559, 360 (2004)
-1 2005A&A...442..385G -- Garc&Atilde;&shy;a R.A., Turck-Chi&Atilde;&Dot;ze S., Boumier P., Robillot J.M., Bertello L., Charra J., Dzitko H., Gabriel A.H., Jim&Atilde;&copy;nez-Reyes S.J., Pall&Atilde;&copy; P.L., Renaud C., Roca Cort&Atilde;&copy;s T., Ulrich R.K., A&A, 442, 385 (2005)
-1 1998ESASP.418..353U -- Ulrich R.K., Garc&Atilde;&shy;a R.A., Robillot J.M., Boumier P., Bertello L., Turck-Chi&Atilde;&Dot;ze S., Charra J., Gabriel A.H., Grec G., Roca Cort&Atilde;&copy;s T., ESA SP-418, 353 (1998)

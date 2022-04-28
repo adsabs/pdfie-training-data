@@ -1,2 +1,0 @@
----<2006ESASP.624E.105S>---
-5 2004aspm.book.1992S -- N.Seghouani. Spectral analysis of unevenly spaced data, Application to helioseismology, SOHO-GONG, 2004. [2] J.Ciuciu, J.Idier. Regularized estimation of mixed spectra using a circular Gibbs-Markov model, IEEE Trans. Signal Processing, 2001. [3] P.C.Hansen. Analysis of discrete ill-posed problems by means of the L-curve, SIAM Review, 1992.
