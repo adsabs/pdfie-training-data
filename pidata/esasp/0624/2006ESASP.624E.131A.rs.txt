@@ -1,0 +1,57 @@
+Struve, O., 1955, PASP 67, 173
+Waelkens, C., Aerts, C., Kestens, E., et al., 1998, A&A 330, 215
+Watson, R.D., 1988, Ap&SS 140, 255
+Dziembowski, W. A., 1977, Acta Astronomica 27, 203
+Balona, L. A., Stobie, R. S., 1979a, MNRAS 190, 649
+Balona, L. A., Stobie, R. S., 1979b, MNRAS 190, 931
+Garrido, R., 2000, ASPC 210, 67
+Dupret, M.-A., De Ridder, J., De Cat, P., et al., 2003, A&A 398, 677
+Osaki, Y., 1971, PASJ 23, 485
+Pamyathnykh, A. A., 1999, Acta Astronomica 49, 119
+Dziembowski, W. A., Pamyatnykh, A. A., 1993, MNRAS 262, 204
+Pamyathnykh, A. A., 1999, Acta Astronomica 49, 119
+Stankov, A., Handler, G., 2005, ApJS 158, 193
+Kołaczkowski, Z., Pigulski, A., Soszyski, I., et al., 2006, Memorie della Societa Astronomica Italiana 77, 336
+Pigulski, A., 2005, Acta Astronomica, 55, 219
+Narwid, A., Kołaczkowski, Z., Pigulski, A., Ramza,T., 2006, Memorie della Societa Astronomica Italiana, 77, 342
+Jerzykiewicz, M., 1978, Acta Astronomica 28, 465
+Mathias, P., Aerts, C., Waelkens, C., Gillet, D., 1994, A&A 289, 875
+Handler, G., Jerzykiewicz, M., Rodrı̀guez, E., et al., 2006, MNRAS 365, 327
+Aerts, C., Thoul, A., Daszynska, J., et al., 2003, Sci 300, 1926
+Dziembowski, W. A., Jerzykiewicz, M., 1996, A&A 306, 436
+Dziembowski, W. A., Jerzykiewicz, M., 1999, A&A 341, 480
+Aerts, C., Waelkens, C., Daszynska-Daszkiewicz, J., et al., 2004a, A&A 415, 241
+Dupret, M.-A., Thoul, A., Scuflaire, R., et al., 2004, A&A 415, 251
+Handler, G., Shobbrook, R. R., Jerzykiewicz, M., et al., 2004, MNRAS 347, 454
+Aerts, C., De Cat, P., Handler, G., et al., 2004b, MNRAS 347, 463
+De Ridder, J., Telting, J. H., Balona, L. A., et al., 2004, MNRAS 351, 342
+Pamyatnykh, A. A., Handler, G., Dziembowski, W. A., 2004, MNRAS 350, 1022
+Ausseloos, M., Scuflaire, R., Thoul, A., Aerts, C., A&A 355, 352
+Charpinet, S., Fontaine, G., Brassard, P., et al., ApJ 483, L123
+Bourge, P.-O., Alecian, G., 2006, ASPC 349, 201
+Mazumdar, A., Briquet, M., Desmet, M., Aerts, C., A&A, in press
+Aerts, C., Marchenko, S. V., Matthews, J. M., et al., 2006a, ApJ 642, 470
+Handler, G., Shobbrook, R. R., Mokgwetsi, T., 2005, MNRAS 362, 612
+Briquet, M., Lefever, K., Uytterhoeven, K., Aerts, C., 2005, MNRAS 362, 619
+Waelkens, C., 1991, A&A 246, 453
+Aerts, C., De Cat, P., Peeters, E., et al., 1999, A&A 343, 872
+Mathias, P., Aerts, C., Briquet, M., et al., 2001, A&A 379, 905
+De Cat, P., 2002, ASPC 259, 196
+De Cat, P., Aerts, C., 2002, A&A 393, 965
+De Cat, P., Briquet, M., Daszynska-Daszkiewicz, J., et al., A&A 432, 1013
+Townsend, R., 2002, MNRAS 330, 855
+Aerts, C., De Cat, P., Kuschnig, R., et al., 2006b, ApJ 642, L165
+Porter, J. M., Rivinius, Th., 2003, PASP 115, 1153
+Neiner, C., Hubert, A. M., 2005, ASPC 337, 275
+Rivinius, Th., Baade, D., Štefl, S., 2003, A&A 411, 229
+Balona, L.A., 1995a, MNRAS 277, 1547
+Baade, D., 1982, A&A 114, 131
+Balona, L. A., 1995b, Ap&SS 230, 17
+Walker, G. A. H., Kuschnig, R., Matthews, J. M., et al., 2005a, ApJ 623, L145
+Walker, G. A. H., Kuschnig, R., Matthews, J. M., et al., 2005b, ApJ 635, L77
+Townsend, R., 2003, MNRAS 340, 1020
+Saio, H., Cameron, C., Kuschnig, R., et al., 2006a, ApJ, in press
+Saio, H., Kuschnig, R., Gautschy, A., et al., 2006b, ApJ, in press
+Lefever, K., Puls, J., Aerts, C., 2006, A&A, in press
+Guinan, E. F., Ribas, I., Fitzpatrick, E. L., et al., 2000, ApJ 544, 409
+Hubrig, S., Briquet, M., Schöller, M., et al., 2006, MNRAS 369, L61

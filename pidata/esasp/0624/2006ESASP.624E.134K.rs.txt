@@ -1,0 +1,25 @@
+Abdelatif, T.E., Lites, B.W., and Thomas, J.H.: 1986, Astrophys. J. 311, 1015
+Braun, D.C., Duvall, T.L., Jr., and LaBonte, B.J.: 1987, Astrophys. J. 319, L27.
+Donea, A.-C., Braun, D.C., and Lindsey, C.: 1999, Astrophys. J., 513, L143.
+Donea, A.-C. and Lindsey, C.: 2005, Astrophys. J., 630, 1168.
+Duvall, T.L., Jr., Kosovichev, A.G., Scherrer, P.H., Bogart, R.S., Bush, R.I., de Forest, C., Hoeksema, J.T., Schou, J., Saba, J.L.R., Tarbell, T.D., Title, A.M., Wolfson, C.J., and Milford, P.N.: 1997, Solar Phys. 170, 63.
+Fisher, G.H., Canfield, R.C., and McClymont, A.N.: 1985, Astrophys. J., 289, 434.
+Hurford, G. J., Schwartz, R. A., Krucker, S., Lin, R. P., Smith, D. M., & Vilmer, N. 2003, Astrophys. J., 595, L77.
+Hurford, G.J., Krucker, S., Lin, R., Schwartz, R., Share, G., and Smith, D.: 2004, in 35th COSPAR Scientific Assembly, Paris: COSPAR, p. 2402.
+Hurford, G.J., Krucker, S., Lin, R.P., Schwartz, R.A., Share, G.H., and Smith, D.M.: 2006, Astrophys. J. 644, L93.
+Kosovichev, A.G.: 1986, Bull. Crimean Astrophys. Obs., 75, 6.
+Kosovichev, A.G.: 2005, Properties of FlaresGenerated Seismic Waves on the Sun, arXiv:astroph/0601006.
+Kosovichev, A.G. and Zharkova, V.V.: 1995, in J.T. Hoeksema, V. Domingo, B. Fleck, and B. Battrick (eds), Helioseismology. Proceedings of the 4th Soho Workshop, Pacific Grove, California, USA, 2-6 April 1995, Paris: European Space Agency (ESA), p. 341.
+Kosovichev, A.G. and Zharkova, V.V.: 1998a, Nature, 393, 317.
+Kosovichev, A.G. and Zharkova, V.V.: 1998b, in: F.-L. Deubner, J. Christensen-Dalsgaard, D.W. Kurtz (eds), IAU Symp. 185: New Eyes to See Inside the Sun and Stars, Kluwer, Academic Publishers, Dordrecht, Holland, p. 191.
+Kosovichev, A.G., Duvall, T.L., Jr., and Scherrer, P.H.: 2000, Solar Phys., 192, 159.
+Kostiuk, N.D. and Pikelner, S.B.: 1975, Sov. Astr., 18, 590.
+Livshits, M.A., Badalian, O.G., Kosovichev, A.G., and Katsova, M.M.: 1981, Solar Phys., 73, 269.
+Medrek, M., Murawski, K., and Nakariakov, V.:2000, Acta Astron., 50, 405.
+Podesta, J.J.: 2003, Solar Phys., 218, 227.
+Podesta, J.J.: 2005, Solar Phys., 232, 1.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I., and MDI Engineering Team: 1995, Solar Phys. 162, 129.
+Shibata, K., Masuda, S., Shimojo, M., Hara, H., Yokoyama, T., Tsuneta, S., Kosugi, T., and Ogawara, Y.: 1995, Astrophys. J. 451, L83.
+Sturrock, P.A.: 1966, Nature 211, 695.
+Svestka, Z.: 1970, Solar Phys., 13, 471.
+Wolff, C.L.: 1972, Astrophys. J., 176, 833.
