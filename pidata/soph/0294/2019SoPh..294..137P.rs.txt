@@ -7,7 +7,7 @@ Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Revisiting the sun
 Covas, E., Peixinho, N., Fernandes, J.: 2019, Neural network forecast of the sunspot butterfly diagram. Solar Phys. 294, 24.
 Durrant, C.J.: 2002, Polar magnetic fields – Filaments and zero-flux contour. Solar Phys. 211, 83.
 Durrant, C.J., Wilson, P.R.: 2003, Observations and simulations of the polar field reversals in Cycle 23. Solar Phys. 214, 23.
-Duvall, T.L., Wilcox, J.M., Svalgaard, L., Scherrer, P.H., McIntosh, P.S.: 1977, Comparison of H\acute{\upalpha } synoptic charts with the large-scale solar magnetic field as observed at Stanford. Solar Phys. 55, 63.
+Duvall, T.L., Wilcox, J.M., Svalgaard, L., Scherrer, P.H., McIntosh, P.S.: 1977, Comparison of Hά synoptic charts with the large-scale solar magnetic field as observed at Stanford. Solar Phys. 55, 63.
 Gopalswamy, N., Yashiro, S., Akiyama, S.: 2016, Unusual polar conditions in Solar Cycle 24 and their implications for Cycle 25. Astrophys. J. 823, L15.
 Hale, G.E.: 1913, Preliminary results of an attempt to detect the general magnetic field of the Sun. Astrophys. J. 38, 27.
 Helal, H.R., Galal, A.A.: 2012, An early prediction of the maximum amplitude of the Solar Cycle 25. J. Advert. Res. 4, 275.

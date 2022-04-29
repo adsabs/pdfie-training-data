@@ -32,8 +32,8 @@ Querfeld, C.W., Smartt, R.N.: 1984, Comparison of coronal emission-line structur
 Ramesh, R., Kathiravan, C., Sastry, C.V.: 2010, Estimation of magnetic field in the solar coronal streamers through low frequency radio observations. Astrophys. J. 711, 1029.
 Sasikumar Raja, K., Ramesh, R.: 2013, Low-frequency observations of transient quasi-periodic radio emission from the solar atmosphere. Astrophys. J. 775, 38.
 Sasikumar Raja, K., Ramesh, R., Hariharan, K., Kathiravan, C., Wang, T.J.: 2014, An estimate of the magnetic field strength associated with a solar coronal mass ejection from low frequency radio observations. Astrophys. J. 796, 56.
-Sasikumar Raja, K., Ingale, M., Ramesh, R., Subramanian, P., Manoharan, P.K., Janardhan, P.: 2016, Amplitude of solar wind density turbulence from 10 to 45 R_{\odot }. J. Geophys. Res. 121, 11.
-Sasikumar Raja, K., Subramanian, P., Ramesh, R., Vourlidas, A., Ingale, M.: 2017, Turbulent density fluctuations and proton heating rate in the solar wind from 9-20 R_{\odot }. Astrophys. J. 850, 129.
+Sasikumar Raja, K., Ingale, M., Ramesh, R., Subramanian, P., Manoharan, P.K., Janardhan, P.: 2016, Amplitude of solar wind density turbulence from 10 to 45 R⊙. J. Geophys. Res. 121, 11.
+Sasikumar Raja, K., Subramanian, P., Ramesh, R., Vourlidas, A., Ingale, M.: 2017, Turbulent density fluctuations and proton heating rate in the solar wind from 9-20 R⊙. Astrophys. J. 850, 129.
 Sasikumar Raja, K., Subramanian, P., Ingale, M., Ramesh, R.: 2019, Dissipation scale lengths of solar wind turbulence. Astrophys. J. 872, 77.
 Sastry, C.V.: 2009, Polarization of the thermal radio emission from outer solar corona. Astrophys. J. 697, 1934.
 Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, A model of interplanetary and coronal magnetic fields. Solar Phys. 6, 442.

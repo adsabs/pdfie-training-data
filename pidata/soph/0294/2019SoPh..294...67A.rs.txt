@@ -9,4 +9,4 @@ Ghosh, O., Ghosh, T., Chatterjee, T.N.: 2014, Multi-technique analysis of the so
 Greenkorn, R.A.: 2012, A comparison of the 10.7-cm radio flux values and the international sunspot numbers for solar activity cycles 19, 20, and 21. Solar Phys. 280, 205.
 Heristchi, D., Mouradian, Z.: 2009, The global rotation of solar activity structures. Astron. Astrophys. 497, 835.
 Katz, R.W.: 2010, Statistics of extremes in climate change. Clim. Change 100, 71.
-Tapping, K.F.: 2013, The 10.7 cm solar radio flux (F_{10.7}). Space Weather 11, 394.
+Tapping, K.F.: 2013, The 10.7 cm solar radio flux (F10.7). Space Weather 11, 394.

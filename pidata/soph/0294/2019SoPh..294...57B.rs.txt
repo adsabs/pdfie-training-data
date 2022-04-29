@@ -67,4 +67,4 @@ Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, 
 Yurchyshyn, V., Yashiro, S., Abramenko, V., Wang, H., Gopalswamy, N.: 2005, Statistical distributions of speeds of coronal mass ejections. Astrophys. J. 619, 599.
 Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.
 Zhang, J., Dere, K.P., Howard, R.A., Vourlidas, A.: 2004, A study of the kinematic evolution of coronal mass ejections. Astrophys. J. 604, 420.
-Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst ≤ -100~nt) during 1996 – 2005. J. Geophys. Res. 112(A10), A10102.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst ≤ -100 nt) during 1996 – 2005. J. Geophys. Res. 112(A10), A10102.

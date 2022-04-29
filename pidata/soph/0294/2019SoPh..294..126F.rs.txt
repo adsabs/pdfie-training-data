@@ -1,7 +1,7 @@
 Artsimovich, L.A., Sagdeev, R.Z.: 1979, Plasma Physics for Physicists, Atomizdat, Moscow.
 Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
 Chen, P.F.: 2011, Coronal mass ejections: Models and their observational basis. Liv. Rev. Solar Phys. 8, 1.
-Doyle, J.G., Teriaca, L., Banerjee, D.: 1999, Coronal hole diagnostics out to 8~R_{Sun}. Astron. Astrophys. 349, 956.
+Doyle, J.G., Teriaca, L., Banerjee, D.: 1999, Coronal hole diagnostics out to 8 R⊙. Astron. Astrophys. 349, 956.
 Eselevich, V.G., Fainshtein, V.G., Rudenko, G.V.: 1999, Study of the structure of streamer belts and chains in the solar corona. Solar Phys. 188, 277.
 Fainshtein, V.G.: 1991, The interaction effect of fast and slow solar wind streams in interplanetary space on wind characteristics at the Earth’s orbit. Solar Phys. 136, 169.
 Fainshtein, V.G., Egorov, Y.I.: 2015, Initiation of CMEs associated with filament eruption, and the nature of CME related shocks. Adv. Space Res. 55, 798.
@@ -26,7 +26,7 @@ Priest, E.R.: 1982, Solar Magneto-Hydrodynamics, Dordrecht, Boston.
 Reames, D.V.: 2013, The two sources of solar energetic particles. Space Sci. Rev. 175, 53.
 Schwenn, R., Marsch, E.: 1990, Physics of the Inner Heliosphere I. Large-Scale Phenomena, Springer, Berlin, 103.
 Sedov, L.I.: 1959, Similarity and Dimensional Methods in Mechanics, Academic Press, Waltham.
-Sheeley, N.R. Jr., Wang, Y.-M., Hawley, S.H., Brueckner, G.E., Dere, K.P., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Paswaters, S.E., Socker, D.G., St. Cyr, O.C., Wang, D., Lamy, P.L., Llebaria, A., Schwenn, R., Simnett, G.M., Plunkett, S., Biesecker, D.A.: 1997, Measurements of flow speeds in the corona between 2 and 30~R_{\odot}. Astrophys. J. 484, 472.
+Sheeley, N.R. Jr., Wang, Y.-M., Hawley, S.H., Brueckner, G.E., Dere, K.P., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Paswaters, S.E., Socker, D.G., St. Cyr, O.C., Wang, D., Lamy, P.L., Llebaria, A., Schwenn, R., Simnett, G.M., Plunkett, S., Biesecker, D.A.: 1997, Measurements of flow speeds in the corona between 2 and 30 R⊙. Astrophys. J. 484, 472.
 Sheeley, N.R., Hakala, W.N., Wang, Y.-M.: 2000, Detection of coronal mass ejection associated shock waves in the outer corona. J. Geophys. Res. 105, 5081.
 Vourlidas, A., Bemporad, A.: 2012, A decade of coronagraphic and spectroscopic studies of CME-driven shocks. In: Heerikhuisen, J., Li, G., Pogorelov, N., Zank, G. (eds.), Physics of the Heliosphere: A 10 Year Retrospective, CS-1436, Am. Inst. Phys., Melville, 279.
 Vourlidas, A., Ontiveros, V.: 2009, A review of coronagraphic observations of shocks driven by coronal mass ejections. In: Ao, X., Burrows, G.Z.R. (eds.) Shock Waves in Space and Astrophysical Environments: 18th Ann. Internat. Astrophys. Conf., CS-1183, Am. Inst. Phys., Melville, 139.

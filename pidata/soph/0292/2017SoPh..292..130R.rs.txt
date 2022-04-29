@@ -13,7 +13,7 @@ Harrison, R.A., Carter, M.K., Clark, T.A., Lindsey, C., Jefferies, J.T., Sime, D
 Heinzel, P., Avrett, E.H.: 2012, Optical-to-radio continua in solar flares. Solar Phys. 277, 31.
 Heinzel, P., Schmieder, B., Vial, J.-C., Kotrč, P.: 2001, SOHO/SUMER observations and analysis of the hydrogen Lyman spectrum in solar prominences. Astron. Astrophys. 370, 281.
 Heinzel, P., Berlicki, A., Bárta, M., Karlický, M., Rudawy, P.: 2015a, On the visibility of prominence fine structures at radio millimeter wavelengths. Solar Phys. 290, 1981.
-Heinzel, P., Schmieder, B., Mein, N., Gunár, S.: 2015b, Understanding the Mg II and H{\upalpha} spectra in a highly dynamical solar prominence. Astrophys. J. Lett. 800, L13.
+Heinzel, P., Schmieder, B., Mein, N., Gunár, S.: 2015b, Understanding the Mg II and Hα spectra in a highly dynamical solar prominence. Astrophys. J. Lett. 800, L13.
 Irimajiri, Y., Takano, T., Nakajima, H., Shibasaki, K., Hanaoka, Y., Ichimoto, K.: 1995, Simultaneous multifrequency observations of an eruptive prominence at millimeter wavelengths. Solar Phys. 156, 363.
 John, T.L.: 1988, Continuous absorption by the negative hydrogen ion reconsidered. Astron. Astrophys. 193, 189.
 Karlický, M., Bárta, M., Da¸browski, B.P., Heinzel, P.: 2011, Solar research with ALMA. Solar Phys. 268, 165.

@@ -4,11 +4,11 @@ Brault, J.W.: 1985, Fourier transform spectroscopy. In: Benz, A.O., Huber, M., M
 Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
 Cameron, R.H., Dikpati, M., Brandenburg, A.: 2017, The global solar dynamo. Space Sci. Rev. 210, 367.
 Carrington, R.C.: 1858, On the distribution of the solar spots in latitudes since the beginning of the year 1854, with a map. Mon. Not. Roy. Astron. Soc. 19, 1.
-Chatterjee, S., Hegde, M., Banerjee, D., Ravindra, B.: 2017, Long-term study of the solar filaments from the synoptic maps as derived from H\upalpha spectroheliograms of the Kodaikanal Observatory. Astrophys. J. 849, 44.
+Chatterjee, S., Hegde, M., Banerjee, D., Ravindra, B.: 2017, Long-term study of the solar filaments from the synoptic maps as derived from Hα spectroheliograms of the Kodaikanal Observatory. Astrophys. J. 849, 44.
 Cliver, E.W.: 2014, The extended cycle of solar activity and the Sun’s 22-year magnetic cycle. Space Sci. Rev. 186, 169.
 Cortes, C., Vapnik, V.: 1995, Support-vector networks. Mach. Learn. 20, 273.
 Deng, H., Zhang, D., Wang, T., Ji, K., Wang, F., Liu, Z., Xiang, Y., Jin, Z., Cao, W.: 2015, Objective image-quality assessment for high-resolution photospheric images by median filter-gradient similarity. Solar Phys. 290, 1479.
-Denker, C., Johannesson, A., Marquette, W., Goode, P.R., Wang, H., Zirin, H.: 1999, Synoptic H\upalpha full-disk observations of the Sun from BigBear Solar Observatory – I. Instrumentation, image processing, data products, and first results. Solar Phys. 184, 87.
+Denker, C., Johannesson, A., Marquette, W., Goode, P.R., Wang, H., Zirin, H.: 1999, Synoptic Hα full-disk observations of the Sun from BigBear Solar Observatory – I. Instrumentation, image processing, data products, and first results. Solar Phys. 184, 87.
 Denker, C., Dineva, E., Balthasar, H., Verma, M., Kuckein, C., Diercke, A., González Manrique, S.J.: 2018, Image quality in high-resolution and high-cadence solar images. Solar Phys. 5, 236.
 Diercke, A., Arlt, R., Denker, C.: 2015, Digitization of sunspot drawings by Spörer made in 1861 – 1894. Astron. Nachr. 336, 53.
 Diercke, A., Kuckein, C., Verma, M., Denker, C.: 2018, Counter-streaming flows in a giant quiet-Sun filament observed in the extreme ultraviolet. Astron. Astrophys. 611, A64.
@@ -19,7 +19,7 @@ Gibson, S.E., Webb, D., Hewins, I.M., McFadden, R.H., Emery, B.A., Denig, W., Mc
 Gonzalez, R.C., Woods, R.E.: 2002, Digital Image Processing, Prentice Hall, Upper Saddle River.
 Goodfellow, I., Bengio, Y., Courville, A.: 2016, Deep Learning, MIT Press, Cambridge.
 Hanisch, R.J., Farris, A., Greisen, E.W., Pence, W.D., Schlesinger, B.M., Teuben, P.J., Thompson, R.W., Warnock, A.: 2001, Definition of the Flexible Image Transport System (FITS). Astron. Astrophys. 376, 359.
-Hao, Q., Fang, C., Cao, W., Chen, P.F.: 2015, Statistical analysis of filament features based on the H\upalpha solar images from 1988 to 2013 by computer automated detection method. Astrophys. J. Suppl. 221, 33.
+Hao, Q., Fang, C., Cao, W., Chen, P.F.: 2015, Statistical analysis of filament features based on the Hα solar images from 1988 to 2013 by computer automated detection method. Astrophys. J. Suppl. 221, 33.
 Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., Noyes, R.W., Title, A.M., Toomre, J., Ulrich, R.K., Bhatnagar, A., Kennewell, J.A., Marquette, W., Patron, J., Saa, O., Yasukawa, E.: 1996, The Global Oscillation Network Group (GONG) project. Science 272, 1284.
 Kentischer, T.J., Bethge, C., Elmore, D.F., Friedlein, R., Halbgewachs, C., Knölker, M., Peter, H., Schmidt, W., Sigwarth, M., Streander, K.: 2008, ChroTel: a robotic telescope to observe the chromosphere of the Sun. In: McLean, I.S., Casali, M.M. (eds.) Ground-based and Airborne Instrumentation for Astronomy II, Proc. SPIE 7014, 701413.
 Kuckein, C., Denker, C., Verma, M., Balthasar, H., González Manrique, S.J., Louis, R.E., Diercke, A.: 2017, sTools – a data reduction pipeline for the GREGOR Fabry-Pérot Interferometer and the High-resolution Fast Imager at the GREGOR Solar Telescope. In: Vargas Domínguez, S., Kosovichev, A.G., Antolin, P., Harra, L. (eds.) Fine Structure and Dynamics of the Solar Atmosphere, IAU Symp. 327, Cambridge University Press, Cambridge, 20.

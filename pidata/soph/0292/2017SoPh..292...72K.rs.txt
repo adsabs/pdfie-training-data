@@ -10,7 +10,7 @@ Kirk, M.S., Balasubramaniam, K.S., Jackiewicz, J., McAteer, R.T.J., McNamara, B.
 Kirk, M.S., Balasubramaniam, K.S., Jackiewicz, J., McAteer, R.T.J., Milligan, R.O.: 2012b, Properties of sequential chromospheric brightenings and associated flare ribbon. Astrophys. J. 750(2), 145.
 Kirk, M.S.: 2013, The anatomy of chromospheric flares and associated ephemeral brightenings. Doctoral Dissertation, New Mexico State Univ.
 Kirk, M.S., Balasubramaniam, K.S., Jackiewicz, J., McNamara, B.J., McAteer, R.T.J.: 2013, An automated algorithm to distinguish and characterize solar flares and associated sequential chromospheric brightenings. Solar Phys. 283(1), 97.
-Kirk, M.S., Balasubramaniam, K.S., Jackiewicz, J., McAteer, R.T.J.: 2014, Qualities of sequential chromospheric brightenings observed in H\upalpha and UV Images. Astrophys. J. 796, 78.
+Kirk, M.S., Balasubramaniam, K.S., Jackiewicz, J., McAteer, R.T.J.: 2014, Qualities of sequential chromospheric brightenings observed in Hα and UV Images. Astrophys. J. 796, 78.
 Neidig, D., Wiborg, P., Confer, M., Haas, B., Dunn, R., Balasubramaniam, K.S., Gullixson, C., Craig, D., Kaufman, M., Hull, W., McGraw, R., Henry, T., Rentschler, R., Keller, C., Jones, H., Coulter, R., Gregory, S., Schimming, R., Smaga, B.: 1998, The USAF Improved Solar Observing Optical Network (ISOON) and its impact on solar synoptic data bases. In: Balasubramaniam, K..S., Harvey, J., Rabin, D. (eds.) Synoptic Solar Physics, Astron. Soc. Pacific Conf. Proc. 140, 519.
 Pevtsov, A.A., Balasubramaniam, K.S., Hock, R.A.: 2007, Sequential chromospheric brightenings: The case for chromospheric evaporation. Adv. Space Res. 39(11), 1781.
 Priest, E.R., Forbes, T.G.: 2002, The magnetic nature of solar flares. Astron. Astrophys. Rev. 10(4), 313.

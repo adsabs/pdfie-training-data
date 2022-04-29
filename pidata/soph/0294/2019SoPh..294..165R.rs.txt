@@ -39,7 +39,7 @@ Kurucz, R.L.: 1970, Atlas: a computer program for calculating model stellar atmo
 Labs, D., Neckel, H.: 1972, Remarks on the convergency of photospheric model conceptions and the solar quasi continuum. Solar Phys. 22, 64.
 Leenaarts, J.: 2018, Tracing the evolution of radiation-MHD simulations of solar and stellar atmospheres in the Lagrangian frame. Astron. Astrophys. 616, A136.
 Leenaarts, J., Carlsson, M.: 2009, MULTI3D: a domain-decomposed 3D radiative transfer code. In: Lites, B., Cheung, M., Magara, T., Mariska, J., Reeves, K. (eds.) The Second Hinode Science Meeting: Beyond Discovery-Toward Understanding, CS-415, Astron. Soc. Pacific, San Francisco, 87.
-Leenaarts, J., Carlsson, M., Rouppe van der Voort, L.: 2012, The formation of the H\upalpha line in the solar chromosphere. Astrophys. J. 749, 136.
+Leenaarts, J., Carlsson, M., Rouppe van der Voort, L.: 2012, The formation of the Hα line in the solar chromosphere. Astrophys. J. 749, 136.
 Leenaarts, J., Rutten, R.J., Carlsson, M., Uitenbroek, H.: 2006, A comparison of solar proxy-magnetometry diagnostics. Astron. Astrophys. 452, L15.
 Leenaarts, J., Carlsson, M., Hansteen, V., Rutten, R.J.: 2007, Non-equilibrium hydrogen ionization in 2D simulations of the solar atmosphere. Astron. Astrophys. 473, 625.
 Lockyer, J.N.: 1868, Spectroscopic observation of the Sun, No. II. Proc. Roy. Soc. London Ser. I 17, 131.
@@ -55,16 +55,16 @@ Norris, C.M., Beeck, B., Unruh, Y.C., Solanki, S.K., Krivova, N.A., Yeo, K.L.: 2
 Paletou, F.: 2018, On Milne–Barbier–Unsöld relationships. Open Astron. J. 27, 76.
 Pereira, T.M.D.: 2019, The dynamic chromosphere: pushing the boundaries of observations and models. Adv. Space Res. 63, 1434.
 Pereira, T.M.D., Uitenbroek, H.: 2015, RH 1.5D: a massively parallel code for multi-level radiative transfer with partial frequency redistribution and Zeeman polarisation. Astron. Astrophys. 574, A3.
-Rouppe van der Voort, L., Leenaarts, J., De Pontieu, B., Carlsson, M., Vissers, G.: 2009, On-disk counterparts of type II spicules in the Ca II 854.2 nm and H\upalpha lines. Astrophys. J. 705, 272.
+Rouppe van der Voort, L., Leenaarts, J., De Pontieu, B., Carlsson, M., Vissers, G.: 2009, On-disk counterparts of type II spicules in the Ca II 854.2 nm and Hα lines. Astrophys. J. 705, 272.
 Rutten, R.J.: 1988, The NLTE formation of iron lines in the solar photosphere. In: Viotti, R., Vittone, A., Friedjung, M. (eds.) IAU Colloq. 94: Physics of Formation of Fe II Lines Outside LTE, Astrophys. Space Sci. Lib. 138, 185.
 Rutten, R.J.: 1999, (Inter-),network structure and dynamics. In: Schmieder, B., Hofmann, A., Staude, J. (eds.) Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations CS-184, Astron. Soc. Pacific, San Francisco, 181.
 Rutten, R.J.: 2003a, Epsilon. In: Andreasian, N. (ed.) Richard Nelson Thomas: NonEquilibrium Thermodynamical Astrophysicist, University of Colorado, Boulder, 78.
 Rutten, R.J.: 2003b, Radiative Transfer in Stellar Atmospheres.
-Rutten, R.J.: 2016, H\upalpha features with hot onsets. I. Ellerman bombs. Astron. Astrophys. 590, A124.
+Rutten, R.J.: 2016, Hα features with hot onsets. I. Ellerman bombs. Astron. Astrophys. 590, A124.
 Rutten, R.J.: 2017a, Solar ALMA predictions: tutorial. In: Vargas Domínguez, S., Kosovichev, A.G., Antolin, P., Harra, L. (eds.) IAU Symp. 327, Cambridge Univ. Press, Cambridge, 1.
 Rutten, R.J.: 2017b, Solar H-alpha features with hot onsets. III. Long fibrils in Lyman-alpha and with ALMA. Astron. Astrophys. 598, A89.
-Rutten, R.J., Rouppe van der Voort, L.H.M.: 2017, Solar H\upalpha features with hot onsets. II. A contrail fibril. Astron. Astrophys. 597, A138.
-Rutten, R.J., Uitenbroek, H.: 2012, Chromospheric backradiation in ultraviolet continua and H\upalpha . Astron. Astrophys. 540, A86.
+Rutten, R.J., Rouppe van der Voort, L.H.M.: 2017, Solar Hα features with hot onsets. II. A contrail fibril. Astron. Astrophys. 597, A138.
+Rutten, R.J., Uitenbroek, H.: 2012, Chromospheric backradiation in ultraviolet continua and Hα . Astron. Astrophys. 540, A86.
 Rybicki, G.B., Hummer, D.G.: 1992, An accelerated lambda iteration method for multilevel radiative transfer. II – Overlapping transitions with full continuum. Astron. Astrophys. 262, 209.
 Rybicki, G.B., Lightman, A.P.: 1986, Radiative Processes in Astrophysics, Wiley, New York, 400.
 Sekse, D.H., Rouppe van der Voort, L., De Pontieu, B., Scullion, E.: 2013, Interplay of three kinds of motion in the disk counterpart of type II spicules: upflow, transversal, and torsional motions. Astrophys. J. 769, 44.

@@ -21,8 +21,8 @@ Jiang, J., Wang, J.-X., Jiao, Q.-R., Cao, J.-B.: 2018, Predictability of the sol
 Kakad, B., Kakad, A., Ramesh, D.S.: 2017, Shannon entropy-based prediction of solar cycle 25. Solar Phys. 292, 95.
 Karak, B.B., Miesch, M.: 2017, Solar cycle variability induced by tilt angle scatter in a Babcock–Leighton solar dynamo model. Astrophys. J. 847, 69.
 Karak, B.B., Jiang, J., Miesch, M.S., Charbonneau, P., Choudhuri, A.R.: 2014, Flux transport dynamos: from kinematics to dynamics. Space Sci. Rev. 186, 561.
-Lemerle, A., Charbonneau, P.: 2017, A coupled 2{×}2d Babcock–Leighton solar dynamo model. II. Reference dynamo solutions. Astrophys. J. 834, 133.
-Lemerle, A., Charbonneau, P., Carignan-Dugas, A.: 2015, A coupled 2{×}2d Babcock–Leighton solar dynamo model. I. Surface magnetic flux evolution. Astrophys. J. 810, 78.
+Lemerle, A., Charbonneau, P.: 2017, A coupled 2×2d Babcock–Leighton solar dynamo model. II. Reference dynamo solutions. Astrophys. J. 834, 133.
+Lemerle, A., Charbonneau, P., Carignan-Dugas, A.: 2015, A coupled 2×2d Babcock–Leighton solar dynamo model. I. Surface magnetic flux evolution. Astrophys. J. 810, 78.
 Li, F.Y., Kong, D.F., Xie, J.L., Xiang, N.B., Xu, J.C.: 2018, Solar cycle characteristics and their application in the prediction of cycle 25. J. Atmos. Solar-Terr. Phys. 181, 110.
 Macario-Rojas, A., Smith, K.L., Roberts, P.C.E.: 2018, Solar activity simulation and forecast with a flux-transport dynamo. Mon. Not. Roy. Astron. Soc. 479, 3791.
 McClintock, B.H., Norton, A.A.: 2013, Recovering Joy’s law as a function of solar cycle, hemisphere, and longitude. Solar Phys. 287, 215.

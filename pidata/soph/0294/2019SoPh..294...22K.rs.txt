@@ -55,7 +55,7 @@ Ryan, J.: 2000, Long-duration solar gamma-ray flares. Space Sci. Rev. 93, 581.
 Ryan, J., Lockwood, J., Debrunner, H.: 2000, Solar energetic particles. Space Sci. Rev. 93, 35.
 Schwadron, N.A., Rahmanifard, F., Wilson, J., Jordan, A.P., Spence, H.E., Joyce, C.J., Blake, J.B., Case, A.W., de Wet, W., Farrell, W.M., Kasper, J.C., Looper, M.D., Lugaz, N., Mays, L., Mazur, J.E., Niehof, J., Petro, N., Smith, C.W., Townsend, L.W., Winslow, R., Zeitlin, C.: 2018, Update on the worsening particle radiation environment observed by CRaTER and 802 implications for future human deep-space exploration. Space Weather 16, 289.
 Seaton, D., Darnel, J.M.: 2018, Observations of an eruptive solar flare in the extended EUV solar corona. Astrophys. J. Lett. 852, L9.
-Share, G., Murphy, R., Tolbert, A.K., Dennis, B.R., White, S.M., Schwartz, R.A., Tylka, A.J.: 2018, Characteristics of sustained {>} 100~MeV gamma-ray emission associated with solar flares. Astrophys. J. 869, 182.
+Share, G., Murphy, R., Tolbert, A.K., Dennis, B.R., White, S.M., Schwartz, R.A., Tylka, A.J.: 2018, Characteristics of sustained >100 MeV gamma-ray emission associated with solar flares. Astrophys. J. 869, 182.
 Shea, M.A., Smart, D.F.: 1990, A summary of major solar proton events. Solar Phys. 127, 297.
 Shea, M.A., Smart, D.F., Pyle, K.R., Duldig, M.L., Humble, J.E.: 2001, Update on the GLE database; Solar Cycle 19. In: Proc. ICRC 2001, 3405.
 Souvatzoglou, G., Papaioannou, A., Mavromichalaki, H., Dimitroulakos, J., Sarlanis, C.: 2014, Optimizing the real-time ground level enhancement alert system based on neutron monitor measurements: Introducing GLE alert plus. Space Weather 12, 633.

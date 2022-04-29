@@ -59,7 +59,7 @@ Török, T., Kliem, B., Titov, V.S.: 2004, Ideal kink instability of a magnetic 
 Török, T., Panasenco, O., Titov, V.S., Mikić, Z., Reeves, K.K., Velli, M., Linker, J.A., De Toma, G.: 2011, A model for magnetically coupled sympathetic eruptions. Astrophys. J. Lett. 739, L63.
 van Ballegooijen, A.A., Martens, P.C.H.: 1989, Formation and eruption of solar prominences. Astrophys. J. 343, 971.
 Wang, J., Shi, Z.: 1993, The flare-associated magnetic changes in an active region. II: Flux emergence and cancellation. Solar Phys. 143, 119.
-Xu, Y., Jing, J., Wang, H.: 2010, Measurements of filament height in H\upalpha and EUV 304 Å. Solar Phys. 264, 81.
+Xu, Y., Jing, J., Wang, H.: 2010, Measurements of filament height in Hα and EUV 304 Å. Solar Phys. 264, 81.
 Yan, X.L., Pan, G.M., Liu, J.H., Qu, Z.Q., Xue, Z.K., Deng, L.H., Ma, L., Kong, D.F.: 2013, The contraction of overlying coronal loop and the rotating motion of a sigmoid filament during its eruption. Astron. J. 145, 153.
 Yan, X.L., Xue, Z.K., Liu, J.H., Ma, L., Kong, D.F., Qu, Z.Q., Li, Z.: 2014, Kink instability evidenced by analyzing the leg rotation of a filament. Astrophys. J. 782, 67.
 Young, C.A.: 2007, Mkit: An IDL multiscale toolbox. Bull. Amer. Astron. Soc. 39, 133.

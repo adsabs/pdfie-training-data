@@ -1,4 +1,4 @@
-Bastian, T.S., Ewell, M.W., Zirin, H.: 1993, The center-to-limb brightness variation of the sun at lambda = 850~microns. Astrophys. J. 415, 364.
+Bastian, T.S., Ewell, M.W., Zirin, H.: 1993, The center-to-limb brightness variation of the sun at lambda = 850 microns. Astrophys. J. 415, 364.
 Brajša, R., Benz, A.O., Temmer, M., Jurdana-Šepić, R., Šaina, B., Wöhl, H.: 2007, An interpretation of the coronal holes’ visibility in the millimeter wavelength range. Solar Phys. 245, 167.
 Brogan, C.L., Hunter, T.R.: 2014, ALMA Single-Dish Imaging Parameters. NAASC Memo 114 (draft).
 Broguière, D., Lucas, R., Pardo, J., Roche, J.-C.: 2011, TELCAL: The on-line calibration software for ALMA. In: Evans, I.N., Accomazzi, A., Mink, D.J., Rots, A.H. (eds.) Astronomical Data Analysis Software and Systems XX CS-442, Astron. Soc. Pacific, San Francisco, 277.

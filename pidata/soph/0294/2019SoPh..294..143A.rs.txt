@@ -6,9 +6,9 @@ Cho, K.-S., Marubashi, K., Kim, R.-S., Park, S.-H., Lim, E.-K., Kim, S.-J., Kuma
 Clyne, J., Rast, M.: 2005, A prototype discovery environment for analyzing and visualizing terascale turbulent fluid flow simulations. Proc. SPIE - Int. Soc. for Optical Eng. 5669, 284.
 Clyne, J., Mininni, P., Norton, A., Rast, M.: 2007, Interactive desktop analysis of high resolution simulations: application to turbulent plume dynamics and current sheet formation. New J. Phys. 9(8), 301.
 DeVore, C.R.: 2000, Magnetic helicity generation by solar differential rotation. Astrophys. J. 539, 944.
-Echer, E., Gonzalez, W.D., Tsurutani, B.T., Gonzalez, A.L.C.: 2008, Interplanetary conditions causing intense geomagnetic storms (Dst ≤ -100~nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113, A05221.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T., Gonzalez, A.L.C.: 2008, Interplanetary conditions causing intense geomagnetic storms (Dst ≤ -100 nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113, A05221.
 Filippov, B., Martsenyuk, O., Srivastava, A.K., Uddin, W.: 2015, Solar magnetic flux ropes. J. Astrophys. Astron. 36, 157.
-Gonzalez, W.D., Tsurutani, B.T.: 1987, Criteria of interplanetary parameters causing intense magnetic storms (D_{st} < -100 nT). Planet. Space Sci. 35, 1101.
+Gonzalez, W.D., Tsurutani, B.T.: 1987, Criteria of interplanetary parameters causing intense magnetic storms (Dst < -100 nT). Planet. Space Sci. 35, 1101.
 Gopalswamy, N., Yashiro, S., Michałek, G., Kaiser, M.L., Howard, R.A., Reames, D.V., Leske, R., von Rosenvinge, T.: 2002, Interacting coronal mass ejections and solar energetic particles. Astrophys. J. Lett. 572, L103.
 Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009, The SOHO/LASCO CME catalog. Earth Moon Planets 104, 295.
 Hayashi, K., Tokumaru, M., Fujiki, K.: 2016, MHD-IPS analysis of relationship among solar wind density, temperature, and flow speed. J. Geophys. Res. 121, 7367.

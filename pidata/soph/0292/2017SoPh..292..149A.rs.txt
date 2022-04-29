@@ -11,9 +11,9 @@ Cane, H.V., Richardson, I.G., Von Rosenvinge, T.T.: 1996, Cosmic ray decreases: 
 Chapagain, N.P.: 2016, Total ozone content over Kathmandu from TOMS observations. Int. J. Eng. Res. Appl. 6, 69.
 De Mendonça, R.R.S., Raulin, J.P., Echer, E., Makhmutov, V.S., Fernandez, G.: 2013, Analysis of atmospheric pressure and temperature effects on cosmic ray measurements. J. Geophys. Res. Space Phys. 118, 1403.
 Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6, 47.
-Echer, E., Gonzalez, W.D., Tsurutani, B.T., Clua-Gonzalez, A.L.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (Dst≤ {-}250~nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113(13), 17.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T., Clua-Gonzalez, A.L.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (Dst≤ -250 nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113(13), 17.
 Forbush, S.E.: 1937, On the effects in cosmic-ray intensity observed during the recent magnetic storm. Phys. Rev. 51(12), 1108.
-Gonzalez, W.D., Tsurutani, B.T.: 1987, Criteria of interplanetary parameters causing intense magnetic storms (dst<{-}100~nt). Planet. Space Sci. 35, 1101.
+Gonzalez, W.D., Tsurutani, B.T.: 1987, Criteria of interplanetary parameters causing intense magnetic storms (dst < -100 nt). Planet. Space Sci. 35, 1101.
 Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. Space Phys. 99(A4), 5771.
 Gonzalez, W.D., Tsurutani, B.T., Clua de Gonzalez, A.L.: 1999, Interplanetary origin of geomagnetic storms. Space Sci. Rev. 88, 529.
 Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
@@ -21,7 +21,7 @@ Gosling, J.T., Mccomas, D.K., Phillips, J.L., Bame, S.J.: 1991, Geomagnetic acti
 Guarnieri, F.L., Tsurutani, B.T., Gonzalez, W.D., Echer, E., Gonzalez, A.L.C., Grande, M., Soraas, F.: 2006, ICME and CIR storms with particular emphasis on HILDCAA events. In: ILWS Workshop, Goa.
 Hajra, R., Echer, E., Tsurutani, B.T., Gonzalez, W.D.: 2013, Solar cycle dependence of High-Intensity Long-Duration Continuous AE Activity (HILDCAA) events, relativistic electron predictors? J. Geophys. Res. Space Phys. 118, 5626.
 Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D.: 2014, Relativistic electron acceleration during high-intensity, long-duration, continuous AE activity (HILDCAA) events: Solar cycle phase dependences. Geophys. Res. Lett. 41, 1876.
-Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D., Gjerloev, J.W.: 2016, Supersubstorms (SML<-2500~nT): Magnetic storm and solar cycle dependences. J. Geophys. Res. Space Phys. 121, 7805.
+Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D., Gjerloev, J.W.: 2016, Supersubstorms (SML<-2500 nT): Magnetic storm and solar cycle dependences. J. Geophys. Res. Space Phys. 121, 7805.
 Hudson, H.S., Bougeret, J.-L., Burkepile, J.: 2006, Coronal mass ejections: Overview of observations. Space Sci. Rev. 123, 13.
 Kamide, Y., Richmond, A.D., Matsushita, S.: 1981, Estimation of ionospheric electric fields, ionospheric currents and field-aligned currents from ground magnetic records. J. Geophys. Res. 86, 801.
 Kozyra, J.U., et al.: 2014, Solar filament impact on 21 January 2005: Geospace consequences. J. Geophys. Res. Space Phys. 119, 5401.
@@ -43,5 +43,5 @@ Tanskanen, E., Pulkkinen, T.I., Koskinen, H.E.J.: 2002, Substorm energy budget d
 Tsurutani, B.T., Gonzalez, W.D., Tang, F., Akasofu, S.I., Smith, E.J.: 1988, Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar maximum (1978 – 1979). J. Geophys. Res. 93, 8519.
 Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L.C., Tang, F., Arballo, J.K., Okada, M.: 1995, Interplanetary origin of geomagnetic activity in the declining phase of the solar cycle. J. Geophys. Res. 100, 21717.
 Tsurutani, B.T., Gonzalez, W.D., Gonzalez, F.L., Kamide, Y., Zhou, X., Arballo, J.K.: 2004, Are High-Intensity Long-Duration Continuous AE Activity (HILDCAA) events substorm expansion events? J. Atmos. Solar-Terr. Phys. 66, 167.
-Tsurutani, B.T., Hajra, R., Echer, E., Gjerloev, J.W.: 2015, Extremely intense (SML ≤ {-}2500~nT) substorms: Isolated events that are externally triggered? Ann. Geophys. 33, 519.
+Tsurutani, B.T., Hajra, R., Echer, E., Gjerloev, J.W.: 2015, Extremely intense (SML ≤ -2500 nT) substorms: Isolated events that are externally triggered? Ann. Geophys. 33, 519.
 Zurbuchen, T.H., Richardson, I.: 2006, In-situ solar wind and field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

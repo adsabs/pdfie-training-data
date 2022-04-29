@@ -25,7 +25,7 @@ Lionello, R., Velli, M., Downs, C., Linker, J.A., Mikić, Z., Verdini, A.: 2014b
 Matthaeus, W.H., Minnie, J., Breech, B., Parhi, S., Bieber, J.W., Oughton, S.: 2004, Transport of cross helicity and radial evolution of Alfvénicity in the solar wind. Geophys. Res. Lett. 31, 12803.
 Mikić, Z., Linker, J.A., Schnack, D.D., Lionello, R., Tarditi, A.: 1999, Magnetohydrodynamic modeling of the global solar corona. Phys. Plasmas 6, 2217.
 Mikić, Z., Downs, C., Linker, J.A., Caplan, R.M., Mackay, D.H., Upton, L.A., Riley, P., Lionello, R., Török, T., Titov, V.S., Wijaya, J., Druckmüller, M., Pasachoff, J.M., Carlos, W.: 2018, Predicting the corona for the 21 August 2017 total solar eclipse. Nat. Astron.
-Ofman, L., Abbo, L., Giordano, S.: 2013, Observations and models of slow solar wind with Mg^{9 +} ions in quiescent streamers. Astrophys. J. 762, 18.
+Ofman, L., Abbo, L., Giordano, S.: 2013, Observations and models of slow solar wind with Mg9+ ions in quiescent streamers. Astrophys. J. 762, 18.
 Oran, R., Landi, E., van der Holst, B., Lepri, S.T., Vásquez, A.M., Nuevo, F.A., Frazin, R., Manchester, W., Sokolov, I., Gombosi, T.I.: 2015, A steady-state picture of solar wind acceleration and charge state composition derived from a global wave-driven MHD model. Astrophys. J. 806, 55.
 Shen, C., Raymond, J.C., Murphy, N.A., Lin, J.: 2015, A Lagrangian scheme for time-dependent ionization in simulations of astrophysical plasmas. Astron. Comput. 12, 1.
 Usmanov, A.V., Goldstein, M.L., Matthaeus, W.H.: 2012, Three-dimensional magnetohydrodynamic modeling of the solar wind including pickup protons and turbulence transport. Astrophys. J. 754, 40.

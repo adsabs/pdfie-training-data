@@ -8,7 +8,7 @@ Cannon, P., Angling, M., Barclay, L., Curry, C., Dyer, C., Edwards, R., Greene, 
 Carlin, J.B., Wolfe, R., Coffey, C., Patton, G.C.: 2005, Survival models: Analysis of binary outcomes in longitudinal studies using weighted estimating equations and discrete-time survival methods: Prevalence and incidence of smoking in an adolescent cohort. In: Tutorials in Biostatistics, Statistical Methods in Clinical Studies 1, 161.
 Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6, 47.
 Eastwood, J.P., Biffis, E., Hapgood, M.A., Green, L., Bisi, M.M., Bentley, R.D., Wicks, R., McKinnell, L.A., Gibbs, M., Burnett, C.: 2017, The economic impact of space weather: Where do we stand? Risk Anal. 37(2), 206.
-Echer, E., Gonzalez, W.D., Tsurutani, B.T.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (\mathit{Dst} ≤ -250~nT) during solar cycle 23. Geophys. Res. Lett. 35(6), L06S03.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (Dst ≤ -250 nT) during solar cycle 23. Geophys. Res. Lett. 35(6), L06S03.
 Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99(A4), 5771.
 Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
 Hutchinson, J.A., Wright, D.M., Milan, S.E.: 2011, Geomagnetic storms over the last solar cycle: A superposed epoch analysis. J. Geophys. Res. Space Phys. 116(9), 1.
@@ -17,10 +17,10 @@ Joselyn, J.A.: 1995, Geomagnetic activity forecasting: The state of the art. Rev
 Kilpua, E.K.J., Olspert, N., Grigorievskiy, A., Käpylä, M.J., Tanskanen, E.I., Miyahara, H., Kataoka, R., Pelt, J., Liu, Y.D.: 2015, Statistical study of strong and extreme geomagnetic disturbances and solar cycle characteristics. Astrophys. J. 806(2), 272.
 Lockwood, M.: 2013, Reconstruction and prediction of variations in the open Solar Magnetic Flux and interplanetary conditions. Living Rev. Solar Phys. 10, 4.
 Lockwood, M., Owens, M.J., Barnard, L.A., Bentley, S., Scott, C.J., Watt, C.E.: 2016, On the origins and timescales of geoeffective IMF. Space Weather 14(6), 406.
-Lockwood, M., Chambodut, A., Barnard, L.A., Owens, M.J., Mendel, V.: 2018a, A homogeneous \mathit{aa} index: 1. Secular variation. J. Space Weather Space Clim. 8, A53.
-Lockwood, M., Finch, I.D., Chambodut, A., Barnard, L.A., Owens, M.J., Clarke, E.: 2018b, A homogeneous \mathit{aa} index: 2. Hemispheric asymmetries and the equinoctial variation. J. Space Weather Space Clim. 8, A58.
+Lockwood, M., Chambodut, A., Barnard, L.A., Owens, M.J., Mendel, V.: 2018a, A homogeneous aa index: 1. Secular variation. J. Space Weather Space Clim. 8, A53.
+Lockwood, M., Finch, I.D., Chambodut, A., Barnard, L.A., Owens, M.J., Clarke, E.: 2018b, A homogeneous aa index: 2. Hemispheric asymmetries and the equinoctial variation. J. Space Weather Space Clim. 8, A58.
 Lockwood, M., Chambodut, A., Finch, I.D., Barnard, L.A., Owens, M.J., Haines, C.: 2019, Time-of-day/time-of-year response functions of planetary geomagnetic indices. J. Space Weather Space Clim. 9, A20.
-Lundstedt, H., Gleisner, H., Wintoft, P.: 2003, Operational forecasts of the geomagnetic \mathit{Dst} index. Geophys. Res. Lett. 29(24), 34.
+Lundstedt, H., Gleisner, H., Wintoft, P.: 2003, Operational forecasts of the geomagnetic Dst index. Geophys. Res. Lett. 29(24), 34.
 Mayaud, P.-N.: 1971, Une mesure planétaire d’activité magnetique, basée sur deux observatoires antipodaux. Ann. Geophys. 27, 67.
 Mayaud, P.-N.: 1980, Derivation, Meaning, and Use of Geomagnetic Indices, Geophysical Monograph Series 22, AGU, Washington.
 Mourenas, D., Artemyev, A.V., Zhang, X.J.: 2018, Statistics of extreme time-integrated geomagnetic activity. Geophys. Res. Lett. 45, 502.

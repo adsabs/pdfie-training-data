@@ -11,8 +11,8 @@ Grošelj, D., Mallet, A., Loureiro, N.F., Jenko, F.: 2018, Fully kinetic simulat
 Hellinger, P., Trávnícek, P.M., Kasper, J.C., Lazarus, A.J.: 2006, Solar wind proton temperature anisotropy: Linear theory and WIND/SWE observations. Geophys. Res. Lett. 46(17 – 18), 1.
 Jian, L.K., Russell, C.T., Luhmann, J.G., Strangeway, R.J., Leisner, J.S., Galvin, A.B.: 2009, Ion cyclotron waves in the solar wind observed by STEREO near 1 AU. Astrophys. J. Lett. 701, L105.
 Liewer, P.C., Velli, M., Goldstein, B.E.: 2001, Alfvén wave propagation and ion cyclotron interactions in the expanding solar wind: One-dimensional hybrid simulations. J. Geophys. Res. 106, 29261.
-Maneva, Y.G., Ofman, L., Viñas, A.: 2015, Relative drifts and temperature anisotropies of protons and \upalpha particles in the expanding solar wind: 2.5D hybrid simulations. Astron. Astrophys. 578, A85.
-Maneva, Y.G., Viñas, A.F., Ofman, L.: 2013, Turbulent heating and acceleration of He^{++} ions by spectra of Alfvén-cyclotron waves in the expanding solar wind: 1.5-D hybrid simulations. J. Geophys. Res. Space Phys. 118, 2842.
+Maneva, Y.G., Ofman, L., Viñas, A.: 2015, Relative drifts and temperature anisotropies of protons and α particles in the expanding solar wind: 2.5D hybrid simulations. Astron. Astrophys. 578, A85.
+Maneva, Y.G., Viñas, A.F., Ofman, L.: 2013, Turbulent heating and acceleration of He++ ions by spectra of Alfvén-cyclotron waves in the expanding solar wind: 1.5-D hybrid simulations. J. Geophys. Res. Space Phys. 118, 2842.
 Marsch, E.: 2006, Kinetic physics of the solar corona and solar wind. Living Rev. Solar Phys. 3, 1.
 Marsch, E., Ao, X.-Z., Tu, C.-Y.: 2004, On the temperature anisotropy of the core part of the proton velocity distribution function in the solar wind. J. Geophys. Res. Space Phys. 109(A4), A04102.
 Matteini, L., Landi, S., Hellinger, P., Pantellini, F., Maksimovic, M., Velli, M., Goldstein, B.E., Marsch, E.: 2007, Evolution of the solar wind proton temperature anisotropy from 0.3 to 2.5 AU. Geophys. Res. Lett. 34(20), L20105.
@@ -20,7 +20,7 @@ Ofman, L.: 2010, Hybrid model of inhomogeneous solar wind plasma heating by Alfv
 Ofman, L., Gary, S.P., Viñas, A.: 2002, Resonant heating and acceleration of ions in coronal holes driven by cyclotron resonant spectra. J. Geophys. Res. Space Phys. 107, 1461.
 Ofman, L., Viñas, A.F.: 2007, Two-dimensional hybrid model of wave and beam heating of multi-ion solar wind plasma. J. Geophys. Res. 112(A11), 6104.
 Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H
-Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-\upalpha drifts on the heating of the solar wind. J. Geophys. Res. Space Phys. 122, 5839.
+Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-α drifts on the heating of the solar wind. J. Geophys. Res. Space Phys. 122, 5839.
 Ozak, N., Ofman, L., Viñas, A.-F.: 2015, Ion heating in inhomogeneous expanding solar wind plasma: The role of parallel and oblique ion-cyclotron waves. Astrophys. J. 799, 77.
 Papini, E., Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2019, Can Hall magnetohydrodynamics explain plasma turbulence at sub-ion scales? Astrophys. J. 870(1), 52.
 Roberts, D.A.: 2010, Evolution of the spectrum of solar wind velocity fluctuations from 0.3 to 5 AU. J. Geophys. Res. Space Phys. 115, 12101.

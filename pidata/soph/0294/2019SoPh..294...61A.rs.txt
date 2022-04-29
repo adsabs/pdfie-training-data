@@ -52,7 +52,7 @@ Smolin, S.V.: 2010, Effect of magnetospheric convection on the energy distributi
 Søraas, F., Aarsnes, K., Lundblad, J., Evans, D.S.: 1999, Enhanced pitch angle scattering of protons at mid-latitudes during geomagnetic storms. Phys. Chem. Earth, Part C Solar-Terr. Planet. Sci. 24(1–3), 287.
 Spjeldvik, W.N.: 1977, Equilibrium structure of equatorially mirroring radiation belt protons. J. Geophys. Res. 82(19), 2801.
 Stauning, P.: 1996, Investigations of ionospheric radio wave absorption processes using imaging riometer techniques. J. Atmos. Terr. Phys. 58(6), 753.
-Tsurutani, B.T., Lin, R.P.: 1985, Acceleration of {>} 47~keV ions and {>} 2~keV electrons by interplanetary shocks at 1 AU. J. Geophys. Res. 90(A1), 1.
+Tsurutani, B.T., Lin, R.P.: 1985, Acceleration of >47 keV ions and >2 keV electrons by interplanetary shocks at 1 AU. J. Geophys. Res. 90(A1), 1.
 Tsurutani, B.T., Gould, T., Goldstein, B.E., Gonzalez, W.D., Sugiura, M.: 1990, Interplanetary Alfvén waves and auroral (substorm) activity: IMP 8. J. Geophys. Res. 95, 2241.
 Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L., Guarnieri, F.L., Gopalswamy, N., Grande, M., et al.: 2006, Corotating solar wind streams and recurrent geomagnetic activity: a review. J. Geophys. Res. 111(A7), A07S01.
 Tsurutani, B.T., Verkhoglyadova, O.P., Mannucci, A.J., Lakhina, G.S., Li, G., Zank, G.P.: 2009, A brief review of “solar flare effects” on the ionosphere. Radio Sci. 44(1), RS0A17.

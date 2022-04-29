@@ -5,11 +5,11 @@ Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A.L.: 2016, Deepl
 Chen, L.C., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A.L.: 2014, Semantic image segmentation with deep convolutional nets and fully connected crfs. Computer Science, 357.
 Fawcett, T.: 2006, An introduction to roc analysis. Pattern Recognit. Lett. 27(8), 861.
 Forbes, T.: 2000, A review on the genesis of coronal mass ejections. J. Geophys. Res. 105(A10), 23153.
-Fuller, N., Aboudarham, J., Bentley, R.: 2005, Filament recognition and image cleaning on meudon h\upalpha spectroheliograms. Solar Phys. 227(1), 61.
+Fuller, N., Aboudarham, J., Bentley, R.: 2005, Filament recognition and image cleaning on meudon hα spectroheliograms. Solar Phys. 227(1), 61.
 Gao, J., Wang, H., Zhou, M.: 2002, Development of an automatic filament disappearance detection system. Solar Phys. 205(1), 93.
 Gilbert, H.R., Holzer, T.E., Burkepile, J.T., Hundhausen, A.J.: 2000, Active and eruptive prominences and their relationship to coronal mass ejections. Astrophys. J. 537(1), 503.
 Gopalswamy, N., Shimojo, M., Lu, W., Yashiro, S., Shibasaki, K., Howard, R.: 2003, Prominence eruptions and coronal mass ejection: a statistical study using microwave observations. Astrophys. J. 586(1), 562.
-Hao, Q., Fang, C., Chen, P.: 2013, Developing an advanced automated method for solar filament recognition and its scientific application to a solar cycle of mlso h\upalpha data. Solar Phys. 286(2), 385.
+Hao, Q., Fang, C., Chen, P.: 2013, Developing an advanced automated method for solar filament recognition and its scientific application to a solar cycle of mlso hα data. Solar Phys. 286(2), 385.
 He, K., Zhang, X., Ren, S., Sun, J.: 2015, Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. In: 2015 IEEE International Conference on Computer Vision (ICCV), 1026.
 Hinton, G.E., Salakhutdinov, R.R.: 2006, Reducing the dimensionality of data with neural networks. Science 313(5786), 504.
 Jing, J., Yurchyshyn, V.B., Yang, G., Xu, Y., Wang, H.: 2004, On the relation between filament eruptions, flares, and coronal mass ejections. Astrophys. J. 614(2), 1054.
@@ -23,7 +23,7 @@ Noh, H., Hong, S., Han, B.: 2015, Learning deconvolution network for semantic se
 Priest, E., Forbes, T.: 2002, The magnetic nature of solar flares. Astron. Astrophys. Rev. 10(4), 313.
 Qu, M., Shih, F.Y., Jing, J., Wang, H.: 2005, Automatic solar filament detection using image processing techniques. Solar Phys. 228(1 – 2), 119.
 Ronneberger, O., Fischer, P., Brox, T.: 2015, U-net: Convolutional networks for biomedical image segmentation. In: International Conference on Medical Image Computing and Computer-Assisted Intervention, Springer, New York, 234.
-Shih, F.Y., Kowalski, A.J.: 2003, Automatic extraction of filaments in H\upalpha solar images. Solar Phys. 218(1 – 2), 99.
+Shih, F.Y., Kowalski, A.J.: 2003, Automatic extraction of filaments in Hα solar images. Solar Phys. 218(1 – 2), 99.
 Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R.: 2014, Dropout: a simple way to prevent neural networks from overfitting. J. Mach. Learn. Res. 15(1), 1929.
 Yu, F., Koltun, V.: 2016, Multi-scale context aggregation by dilated convolutions. In: ICLR.
 Yuan, Y., Shih, F., Jing, J., Wang, H., Chae, J.: 2011, Automatic solar filament segmentation and characterization. Solar Phys. 272(1), 101.

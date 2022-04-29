@@ -1,4 +1,4 @@
-Asai, A., Ishii, T.T., Isobe, H., Kitai, R., Ichimoto, K., UeNo, S., Nagata, S., Morita, S., Nishida, K., Shiota, D., Oi, A., Akioka, M., Shibata, K.: 2012, First simultaneous observation of an H\upalpha Moreton wave, EUV wave, and filament/prominence oscillations. Astrophys. J. Lett. 745, L18.
+Asai, A., Ishii, T.T., Isobe, H., Kitai, R., Ichimoto, K., UeNo, S., Nagata, S., Morita, S., Nishida, K., Shiota, D., Oi, A., Akioka, M., Shibata, K.: 2012, First simultaneous observation of an Hα Moreton wave, EUV wave, and filament/prominence oscillations. Astrophys. J. Lett. 745, L18.
 Attrill, G.D.R., Harra, L.K., van Driel-Gesztelyi, L., Démoulin, P.: 2007, Coronal “wave”: magnetic footprint of a coronal mass ejection? Astrophys. J. Lett. 656, L101.
 Attrill, G.D.R., Engell, A.J., Wills-Davey, M.J., Grigis, P., Testa, P.: 2009, Hinode/XRT and STEREO observations of a diffuse coronal “wave”-coronal mass ejection-dimming event. Astrophys. J. 704, 1296.
 Ballai, I.: 2007, Global coronal seismology. Solar Phys. 246, 177.

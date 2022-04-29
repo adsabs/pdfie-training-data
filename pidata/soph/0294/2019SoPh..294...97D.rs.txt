@@ -2,7 +2,7 @@ Araneda, J.A., Marsch, E., Viñas, A.F.: 2008, Proton core heating and beam form
 Bame, S.J., Asbridge, J.R., Feldman, W.C., Gosling, J.T.: 1977, Evidence for a structure-free state at high solar wind speeds. J. Geophys. Res. 82(10), 1487.
 Berger, L., Wimmer-Schweingruber, R.F., Gloeckler, G.: 2011, Systematic measurements of ion–proton differential streaming in the solar wind. Phys. Rev. Lett. 106, 151103.
 Daughton, W., Gary, S.P., Winske, D.: 1999, Electromagnetic proton/proton instabilities in the solar wind: simulations. J. Geophys. Res. 104(A3), 4657.
-Ďurovcová, T., Němeček, Z., Šafránková, J.: 2019, Evolution of the \upalpha –proton differential motion across stream interaction regions. Astrophys. J. 873(1), 24.
+Ďurovcová, T., Němeček, Z., Šafránková, J.: 2019, Evolution of the α–proton differential motion across stream interaction regions. Astrophys. J. 873(1), 24.
 Ebert, R.W., McComas, D.J., Elliott, H.A., Forsyth, R.J., Gosling, J.T.: 2009, Bulk properties of the slow and fast solar wind and interplanetary coronal mass ejections measured by Ulysses: three polar orbits of observations. J. Geophys. Res. 114(A1), 109.
 Feldman, W.C., Asbridge, J.R., Bame, S.J., Montgomery, M.D.: 1973, Double ion streams in the solar wind. J. Geophys. Res. 78(13), 2017.
 Feldman, W.C., Asbridge, J.R., Bame, S.J., Montgomery, M.D.: 1974, Interpenetrating solar wind streams. Rev. Geophys. 12(4), 715.

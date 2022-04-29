@@ -43,7 +43,7 @@ Neupert, W.M.: 1968, Comparison of solar X-ray line emission with microwave emis
 Patsourakos, S., Vourlidas, A.: 2012, On the nature and genesis of EUV waves: a synthesis of observations from SOHO, STEREO, SDO, and Hinode (Invited Review). Solar Phys. 281, 187.
 Patsourakos, S., Georgoulis, M.K., Vourlidas, A., Nindos, A., Sarris, T., Anagnostopoulos, G., et al.: 2016, The major geoeffective solar eruptions of 2012 March 7: comprehensive Sun-to-Earth analysis. Astrophys. J. 817, 14.
 Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
-Pötzi, W., Veronig, A.M., Riegler, G., Amerstorfer, U., Pock, T., Temmer, M., Polanec, W., Baumgartner, D.J.: 2015, Real-time flare detection in ground-based H\upalpha imaging at Kanzelhöhe Observatory. Solar Phys. 290, 951.
+Pötzi, W., Veronig, A.M., Riegler, G., Amerstorfer, U., Pock, T., Temmer, M., Polanec, W., Baumgartner, D.J.: 2015, Real-time flare detection in ground-based Hα imaging at Kanzelhöhe Observatory. Solar Phys. 290, 951.
 Priest, E.R., Forbes, T.G.: 1986, New models for fast steady state magnetic reconnection. J. Geophys. Res. 91, 5579.
 Qiu, J., Hu, Q., Howard, T.A., Yurchyshyn, V.B.: 2007, On the magnetic flux budget in low-corona magnetic reconnection and interplanetary coronal mass ejections. Astrophys. J. 659, 758.
 Richardson, I.G., Cane, H.V.: 1995, Regions of abnormally low proton temperature in the solar wind (1965 – 1991) and their association with ejecta. J. Geophys. Res. 100, 23397.
@@ -56,7 +56,7 @@ Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema,
 Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
 Schrijver, C.J., De Rosa, M.L., Metcalf, T.R., Liu, Y., McTiernan, J., Régnier, S., Valori, G., Wheatland, M.S., Wiegelmann, T.: 2006, Nonlinear force-free modeling of coronal magnetic fields part I: a quantitative comparison of methods. Solar Phys. 235, 161.
 Sheeley, N.R., Walters, J.H., Wang, Y.-M., Howard, R.A.: 1999, Continuous tracking of coronal outflows: two kinds of coronal mass ejections. J. Geophys. Res. 104, 24739.
-Temmer, M., Veronig, A.M., Vršnak, B., Miklenic, C.: 2007, Energy release rates along H{\upalpha} flare ribbons and the location of hard X-ray sources. Astrophys. J. 654, 665.
+Temmer, M., Veronig, A.M., Vršnak, B., Miklenic, C.: 2007, Energy release rates along Hα flare ribbons and the location of hard X-ray sources. Astrophys. J. 654, 665.
 Temmer, M., Veronig, A.M., Vršnak, B., Rybák, J., Gömöry, P., Stoiser, S., Maričić, D.: 2008, Acceleration in fast halo CMEs and synchronized flare HXR bursts. Astrophys. J. Lett. 673, L95.
 Temmer, M., Veronig, A.M., Kontar, E.P., Krucker, S., Vršnak, B.: 2010, Combined STEREO/RHESSI study of coronal mass ejection acceleration and particle acceleration in solar flares. Astrophys. J. 712, 1410.
 Thalmann, J.K., Inhester, B., Wiegelmann, T.: 2011, Estimating the relative helicity of coronal magnetic fields. Solar Phys. 272, 243.

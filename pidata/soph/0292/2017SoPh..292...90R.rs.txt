@@ -65,7 +65,7 @@ Shi, T., Wang, Y., Wan, L., Cheng, X., Ding, M., Zhang, J.: 2015, Predicting the
 Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.R., Margolies, D., Ormes, J.F., Snow, F.: 1998, The advanced composition explorer. Space Sci. Rev. 86, 1.
 Temmer, M., Vršnak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y., Bosman, E., Davies, J.A., Möstl, C., Žic, T., Veronig, A.M., Bothmer, V., Harrison, R., Nitta, N., Bisi, M., Flor, O., Eastwood, J., Odstrcil, D., Forsyth, R.: 2012, Characteristics of kinematics of a coronal mass ejection during the 2010 August 1 CME–CME interaction event. Astrophys. J. 749, 57.
 Urnov, A.M., Goryaev, F., Oparin, S.: 2012, On spectroscopic diagnostics of hot optically thin plasmas. In: Shevelko, V., Tawara, H. (eds.) Atomic Processes in Basic and Applied Physics, Springer Series on Atomic, Optical, and Plasma Physics 68, 249.
-Urnov, A.M., Goryaev, F.F., Bertschinger, G., Kunze, H.J., Marchuk, O.: 2007, On the verification of atomic data for K_{α} radiation spectra from the TEXTOR tokamak. JETP Lett. 85, 374.
+Urnov, A.M., Goryaev, F.F., Bertschinger, G., Kunze, H.J., Marchuk, O.: 2007, On the verification of atomic data for Kα radiation spectra from the TEXTOR tokamak. JETP Lett. 85, 374.
 Vršnak, B.: 2001, Deceleration of coronal mass ejections. Solar Phys. 202, 173.
 Vršnak, B., Žic, T.: 2007, Transit times of interplanetary coronal mass ejections and the solar wind speed. Astron. Astrophys. 472, 937.
 Vršnak, B., Vrbanec, D., Čalogović, J.: 2008, Dynamics of coronal mass ejections. The mass-scaling of the aerodynamic drag. Astron. Astrophys. 490, 811.
