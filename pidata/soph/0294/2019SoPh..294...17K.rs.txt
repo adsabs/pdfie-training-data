@@ -1,0 +1,47 @@
+Arge, C.N., Pizzo, V.J.: 2000, J. Geophys. Res. 105, 10465.
+Arge, C.N., Odstrcil, D., Pizzo, V.J., Mayer, L.R.: 2003, Solar Wind Ten 679, 190.
+Bemporad, A.: 2017, Astrophys. J. 846, 86.
+Bertaux, J.L., Kyrölä, E., Quémerais, E., Pellinen, R., Lallement, R., Schmidt, W., Berthé, M., Dimarellis, E., Goutail, J.P., Taulemesse, C., Bernard, C., Leppelmeier, G., Summanen, T., Hannula, H., Huomo, H., Kehlä, V., Korpela, S., Leppälä, K., Strömmer, E., Torsti, J., Viherkanto, K., Hochedez, J.F., Chretiennot, G., Peyroux, R., Holzer, T. (eds.): 1995, Solar Phys. 162, 403.
+Bruno, R., Villante, U., Bavassano, B., Schwenn, R., Mariani, F.: 1986, Solar Phys. 104, 431.
+Ebert, R.W., McComas, D.J., Elliott, H.A., Forsyth, R.J., Gosling, J.T.: 2009, J. Geophys. Res. 114, A01109.
+Gringauz, K.I., Bezrokikh, V.V., Ozerov, V.D., Rybchinskii, R.E.: 1960, Sov. Phys. Dokl. 5, 361.
+Hundhausen, A.J., Bame, S.J., Asbridge, J.R., Sydoriak, S.J.: 1970, J. Geophys. Res. 75, 4643.
+Izmodenov, V.V., Alexashov, D.B.: 2015, Astrophys. J. Suppl. Ser. 220, 32.
+Izmodenov, V.V., Katushkina, O.A., Quémerais, E., Bzowski, M.: 2013, Cross-Calibration of Far UV Spectra of Solar System Objects and the Heliosphere 7.
+Jian, L.K., MacNeice, P., Taktakishvili, A., Odstrcil, D., Jackson, B., Yu, H.-S., Riley, P., Sokolov, I.: 2015, Space Weather 13, 316.
+Jian, L.K., MacNeice, P., Mays, M.L., Taktakishvili, A., Odstrcil, D., Jackson, B., Yu, H.-S., Riley, P., Sokolov, I.: 2016, Space Weather 14, 592.
+Joselyn, J.A., Holzer, T.E.: 1975, J. Geophys. Res. 80, 903.
+Katushkina, O.A., Izmodenov, V.V., Quemerais, E., Sokół, J.M.: 2013, J. Geophys. Res. 118, 2800.
+Katushkina, O.A., Izmodenov, V.V., Alexashov, D.B., Schwadron, N.A., McComas, D.J.: 2015, Astrophys. J. Suppl. Ser. 220, 33.
+King, J.H., Papitashvili, N.E.: 2005, J. Geophys. Res. 110, A02104.
+Kramar, M., Jones, S., Davila, J., Inhester, B., Mierla, M.: 2009, Solar Phys. 259, 109.
+Kramar, M., Airapetian, V., Lin, H.: 2016, Front. Astron. Space Sci. 3, 25.
+Lallement, R., Bertaux, J.L., Kurt, V.G.: 1985a, J. Geophys. Res. 90, 1413.
+Lallement, R., Bertaux, J.L., Dalaudier, F.: 1985b, Astron. Astrophys. 150, 21.
+Lallement, R., Quémerais, E., Koutroumpa, D., Bertaux, J.-L., Ferron, S., Schmidt, W., Lamy, P.: 2010, Twelfth International Solar Wind Conference 1216, 555.
+Lamy, P., Barlyaeva, T., Llebaria, A., Floyd, O.: 2014, J. Geophys. Res. 119, 47.
+Lamy, P., Floyd, O., Quémerais, E., Boclet, B., Ferron, S.: 2017, J. Geophys. Res. 122, 50.
+Le Chat, G., Issautier, K., Meyer-Vernet, N.: 2012, Solar Phys. 279, 197.
+Lindsay, B.G., Stebbings, R.F.: 2005, J. Geophys. Res. 110, A12213.
+Lowder, C., Qiu, J., Leamon, R.: 2017, Solar Phys. 292, 18.
+McComas, D.J., Barraclough, B.L., Funsten, H.O., Gosling, J.T., Santiago-Muñoz, E., Skoug, R.M., Goldstein, B.E., Neugebauer, M., Riley, P., Balogh, A.: 2000, J. Geophys. Res. 105, 10419.
+McComas, D.J., Elliott, H.A., Gosling, J.T., Reisenfeld, D.B., Skoug, R.M., Goldstein, B.E., Neugebauer, M., Balogh, A.: 2002, Geophys. Res. Lett. 29, 1290.
+McComas, D.J.: 2003, Solar Wind Ten 679, 33.
+McComas, D.J., Elliott, H.A., Gosling, J.T., Skoug, R.M.: 2006, Geophys. Res. Lett. 33, L09102.
+McComas, D.J., Ebert, R.W., Elliott, H.A., Goldstein, B.E., Gosling, J.T., Schwadron, N.A., Skoug, R.M.: 2008, Geophys. Res. Lett. 35, L18103.
+McComas, D.J., Angold, N., Elliott, H.A., Livadiotis, G., Schwadron, N.A., Skoug, R.M., Smith, C.W.: 2013, Astrophys. J. 779, 2.
+McIntosh, S.W., Leamon, R.J., Krista, L.D., Title, A.M., Hudson, H.S., Riley, P., Harder, J.W., Kopp, G., Snow, M., Woods, T.N., Kasper, J.C., Stevens, M.L., Ulrich, R.K.: 2015, Nat. Commun. 6, 6491.
+Meier, R.R.: 1977, Astron. Astrophys. 55, 211.
+Neugebauer, M., Snyder, C.W.: 1962, Science 138, 1095.
+Neugebauer, M., Snyder, C.W.: 1966, J. Geophys. Res. 71, 4469.
+Odstrcil, D.: 2003, Adv. Space Res. 32, 497.
+Parker, E.N.: 1958, Astrophys. J. 128, 664.
+Pizzo, V., Millward, G., Parsons, A., Biesecker, D., Hill, S., Odstrcil, D.: 2011, Space Weather 9, S03004.
+Quémerais, E., Izmodenov, V.: 2002, Astron. Astrophys. 396, 269.
+Quémerais, E., Lamy, P.: 2002, Astron. Astrophys. 393, 295.
+Quémerais, E., Lallement, R., Ferron, S., Koutroumpa, D., Bertaux, J.-L., KyröLä, E., Schmidt, W.: 2006, J. Geophys. Res. 111, A09114.
+Schwenn, R.: 2006, Space Sci. Rev. 124, 51.
+Steinitz, R.: 1983, Solar Phys. 83, 379.
+Steinitz, R., Eyni, M.: 1980, Astrophys. J. 241, 417.
+Tokumaru, M., Kojima, M., Fujiki, K.: 2012, J. Geophys. Res. 117, A06108.
+Wu, F.M., Judge, D.L.: 1979, Astrophys. J. 231, 594.

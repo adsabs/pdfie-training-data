@@ -1,0 +1,41 @@
+Alissandrakis, C.E., Nindos, A., Kundu, M.R.: 1993, Solar Phys. 147, 343.
+Altyntsev, A.T., Fleishman, G.D., Huang, G.-L., Melnikov, V.F.: 2008, Astrophys. J. 677, 1367.
+Altyntsev, A., Meshalkina, N., Mészárosová, H., Karlický, M., Palshin, V., Lesovoi, S.: 2016, Solar Phys. 291, 445.
+Aptekar, R.L., Frederiks, D.D., Golenetskii, S.V., Ilynskii, V.N., Mazets, E.P., Panov, V.N., Sokolova, Z.J., Terekhov, M.M., Sheshin, L.O., Cline, T.L., Stilwell, D.E.: 1995, Space Sci. Rev. 71, 265.
+Bastian, T.S.: 2004, Solar and space weather radiophysics. Astrophys. Space Sci. Libr. 314, 47.
+Bastian, T.S., Benz, A.O., Gary, D.E.: 1998, Annu. Rev. Astron. Astrophys. 36, 131.
+Cohen, M.H.: 1960, Astrophys. J. 131, 664.
+Dulk, G.A., Marsh, K.A.: 1982, Astrophys. J. 259, 350.
+Fleishman, G.D., Altyntsev, A.T., Meshalkina, N.S.: 2013, Publ. Astron. Soc. Japan 65, S7.
+Fleishman, G.D., Kuznetsov, A.A.: 2010, Astrophys. J. 721, 1127.
+Fleishman, G.D., Melnikov, V.F.: 2003, Astrophys. J. 587, 823.
+Fleishman, G.D., Nita, G.M., Kontar, E.P., Gary, D.E.: 2016a, Astrophys. J. 826, 38F.
+Fleishman, G.D., Palshin, V.D., Meshalkina, N.S., Lysenko, A.L., Kashapova, L.K., Altyntsev, A.T.: 2016b, Astrophys. J. 822, 71F.
+Gary, D.E., Hurford, G.J.: 1994, Astrophys. J. 420, 903.
+Gary, D.E., Nita, G.M., Sane, N.: 2012, AAS Meeting 220, Abstract. id. 204.30.
+Grechnev, V.V.: 2003, Solar Phys. 213, 103.
+Grechnev, V.V., Lesovoi, S.V., Smolkov, G.Ya., Krissinel, B.B., Zandanov, V.G., Altyntsev, A.T., Kardapolova, N.N., Sergeev, R.Y., Uralov, A.M., Maksimov, V.P., Lubyshev, B.I.: 2003, Solar Phys. 216, 239.
+Guidice, D.A., Cliver, E.W., Barron, W.R., Kahler, S.: 1981, Bull. Am. Astron. Soc. 13, 553.
+Hanaoka, Y.: 1997, Solar Phys. 173, 319.
+Huang, G., Nakajima, H.: 2009, Astrophys. J. 696, 136.
+Lee, J., White, S.M., Kundu, M.R., Mikic, Z., McClymont, A.N.: 1998, Solar Phys. 180, 193L.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, Solar Phys. 275, 17.
+Lesovoi, S.V., Altyntsev, A.T., Ivanov, E.F., Gubin, A.V.: 2014, Res. Astron. Astrophys. 14, 864.
+Lesovoi, S.V., Altyntsev, A.T., Kochanov, A.A., Grechnev, V.V., Gubin, A.V., Zhdanov, D.A., Ivanov, E.F., Uralov, A.M., Kashapova, L.K., Kuznetsov, A.A., Meshalkina, N.S., Sych, R.A.: 2017, Solar-Terr. Phys. 3(1), 3.
+Lin, R.P., Dennis, B.R., Hurford, G.J., Smith, D.M., Zehnder, A., Harvey, P.R., et al.: 2002, Solar Phys. 210, 3.
+Lingenfelter, R.E., Ramaty, R.: 1967, Planet. Space Sci. 15, 1303.
+Morgachev, A.S., Kuznetsov, S.A., Melnikov, V.F.: 2014, Geomagn. Aeron. 54, 933.
+Nakajima, H., Nishio, M., Enome, S., Shibasaki, K., Takano, T., Hanaoka, Y., Torii, C., Sekiguchi, H., Bushimata, T., Kawashima, S., Shinohara, N., Irimajiri, Y., Koshiish, H., Kosugi, T., Shiomi, Y., Sawa, M., Kai, K.: 1994, Proc. IEEE 82(5), 705.
+Nishio, M., Yaji, K., Kosugi, T., Nakajima, H., Sakurai, T.: 1997, Astrophys. J. 489, 976.
+Palshin, V.D., Charikov, Yu.E., Aptekar, R.L., Golenetskii, S.V., Kokomov, A.A., Svinkin, D.S., Sokolova, Z.Ya., Ulanov M.V., Frederiks, D.D., Tsvetkova, A.E.: 2014, Geomagn. Aeron. 54, 943.
+Ramaty, R.: 1969, Astrophys. J. 158, 753.
+Rudenko, G.V., Myshyakov, I.I.: 2009, Solar Phys. 257, 287.
+Ryabov, B.I., Maksimov, V.P., Lesovoi, S.V., Shibasaki, K., Nindos, A., Pevtsov, A.: 2005, Solar Phys. 226, 223
+Sadykov, V.M., Kosovichev, A.G., Sharykin, I.N., Zimovets, I.V., Vargas Dominguez, S.: 2016, Astrophys. J. 828, 4S.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M.: 2012, Solar Phys. 275, 207
+Torii, C.: 1979, Proc. of the Res. Ist. of Atmospherics, Nagoya Univ. 26, 129.
+Trottet, G., Krucker, S., Luthi, T., Magun, A.: 2008, Astrophys. J. 678, 509.
+Wang, H., Liu, C., Ahn, K., Xu, Y., Jing, J., Deng, N., Huang, N., Liu, R., Kusano, K., Fleishman, G.D., Gary, D.E., Cao, W.: 2017, Nat. Astron. 1, 0085.
+Wheatland, M.S., Sturrock, P.A., Roumeliotis, G.: 2000, Astrophys. J. 540, 1150.
+Yan, Y., Wang, W., Liu, F., Geng, L., Chen, Z., Zhang, J.: 2013, Solar and Astrophysical Dynamos and Magnetic Activity, IAU Symposium 294, 489.
+Zheleznyakov, V.V., Zlotnik, E.Ya.: 1963, Astron. Zh. 40, 633.

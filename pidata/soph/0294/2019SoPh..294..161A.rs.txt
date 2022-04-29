@@ -1,0 +1,20 @@
+Alissandrakis, C.E., Valentino, A.: 2019a, Solar Phys. 294, 96.
+Alissandrakis, C.E., Valentino, A.: 2019b, Solar Phys. 294, 146.
+Alissandrakis, C.E., Vial, J.-C., Koukras, A., Buchlin, E., Chane-Yook, M.: 2018, Solar Phys. 293, 20.
+Avrett, E.H., Loeser, R.: 2008, Astrophys. J. Suppl. 175, 229.
+Battaglia, M., Hudson, H.S., Hurford, G.J., Krucker, S., Schwartz, R.A.: 2017, Astrophys. J. 843, 123.
+Boerner, P.F., Testa, P., Warren, H., Weber, M.A., Schrijver, C.J.: 2014, Solar Phys. 289, 2377.
+Deres, A.S., Anfinogentov, S.A.: 2015, Astron. Rep. 59, 959.
+Faurobert, M., Aime, C., Périni, C., Uitenbroek, H., Grec, C., Arnaud, J., Ricort, G.: 2009, Astron. Astrophys. 507, L29.
+Fossum, A., Carlsson, M.: 2005, Astrophys. J. 625, 556.
+Giménez de Castro, C.G., Varela Saraiva, A.C., Costa, J.E.R., Selhorst, C.L.: 2007, Astron. Astrophys. 476, 369.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., et al.: 2012, Solar Phys. 275, 17.
+Menezes, F., Valio, A.: 2017, Solar Phys. 292, 195.
+Nindos, A., Alissandrakis, C.E., Bastian, T.S., Patsourakos, S., De Pontieu, B., Warren, H., Ayres, T., Hudson, H.S., Shimizu, T., Vial, J.-C., Wedemeyer, S., Yurchyshyn, V.: 2018, Astron. Astrophys. 619, L6.
+Patsourakos, S., Alissandrakis, C.E., Nindos, A., Bastian, T.S.: 2020, Astron. Astrophys., submitted.
+Reeves, E.M., Foukal, P.V., Huber, M.C.E., Noyes, R.W., Schmahl, E.J., Timothy, J.G., Vernazza, J.E., Withbroe, G.L.: 1974, Astrophys. J. 188, L27.
+Selhorst, C.L., Silva, A.V.R., Costa, J.E.R.: 2004, Astron. Astrophys. 420, 1117.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., et al.: 2012, Solar Phys. 275, 229.
+Rozelot, J.P., Kosovichev, A., Kilcik, A.: 2015, Astrophys. J. 812, 91.
+Vernazza, J.E., Avrett, E.H., Loeser, R.: 1976, Astrophys. J. Suppl. 30, 1.
+Zirin, H.: 1966, The Solar Atmosphere. Blaisdell, Waltham.

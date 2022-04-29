@@ -1,0 +1,36 @@
+Bai, T.: 2003, Astrophys. J. 591, 406.
+Bazilevskaya, G., Broomhall, A.M., Elsworth, Y.: 2014, Space Sci. Rev. 186, 359.
+Bazilevskaya, G.A., Kalinin, M.S., Krainev, M.B., Makhmutov, V.S., Stozhkov, Y.I., Svirzhevskaya, A.K., et al.: 2015, J. Phys. Conf. Ser. 632, 01.
+Chang, L.C., Sun, Y-Y., Yue, J., Wang, J.C., Chien, S-H.: 2016, J. Geophys. Res. Space Phys. 121, 6970.
+Chowdhury, P., Dwivedi, B.N.: 2011, Solar Phys. 270, 365.
+Chowdhury, P., Khan, M., Ray, P.C.: 2010a, Planet. Space Sci. 58, 7.
+Chowdhury, P., Khan, M., Ray, P.C.: 2010b, Astrophys. Space Sci. 326, 191.
+Chowdhury, P., Kudela, K.: 2018, Astrophys. Space Sci. 363, 12.
+Chowdhury, P., Kudela, K., Moon, Y.J.: 2016, Solar Phys. 291, 581.
+Chowdhury, P., Chowdhury, D.P., Gosain, S., Moon, Y.J.: 2015, Astrophys. Space Sci. 356, 1.
+Chowdhury, P., Gokhale, M.H., Singh, J., Moon, Y.J.: 2016, Astrophys. Space Sci. 361, 54.
+De Moortel, I., Munday, S.A., Hood, A.W.: 2004, Solar Phys. 222, 203.
+Gil, A., Alania, M.V.: 2012, Solar Phys. 278, 2.
+Gray, L.J., Beer, J., Geller, M., Haigh, J.D., Lockwood, M., Matthes, K., et al.: 2010, Rev. Geophys. 48, 4001.
+Hathaway, D.H.: 2015, Living Rev. Solar Phys.12 4.
+Howe, R., Christensen-Dalsgaard, J., Hill, F., Komm, R.W., Larsen, R.M., Schou, J., et al.: 2000, Science 287, 2456.
+Javaraiah, J., Bertello, L.: 2016, Solar Phys. 291, 12.
+Kishore Kumar, G., Kishore Kumar, K., Singer, W., Zülicke, C., Gurubaran, S., Baumgarten, G., et al.: 2014, J. Geophys. Res., Atmos. 119, 5913.
+Kolotkov, D.Y., Broomhall, A.-M., Nakariakov, V.M.: 2015, Mon. Not. Roy. Astron. Soc. 451, 4.
+Krivova, N.A., Solanki, P.K.: 2002, Astron. Astrophys. 394, 701.
+Kudela, K., Ananth, A.G., Venkatesan, D.: 1991, J. Geophys. Res. 96, 49.
+Kudela, K., Mavromichalaki, H., Papaioannou, A., Gerontidou, M.: 2010, Solar Phys. 266, 1.
+Laurenza, M., Vecchio, A., Storini, M., Carbone, V.: 2012, Astrophys. J. 749, 167.
+Maraun, D., Kurths, J.: 2004, Nonlinear Process. Geophys. 11, 505.
+Mavromichalaki, H., Preka-Papadema, P., Petropoulos, B., Tsagouri, I., Georgakopoulos, S., Polygiannakis, J.: 2003, Ann. Geophys. 21, 1681.
+Morlet, J., Arehs, G., Forgeau, I., Giard, D.: 1982, Geophysics 47, 203.
+Mridula, N., Pant, T.K., Ajesh, A.: 2018, J. Atmos. Solar-Terr. Phys. 179, 114.
+Rieger, E., Kanbach, G., Reppin, C., Share, G.H., Forrest, D.J., Chupp, E.L.: 1984, Nature 312, 623.
+Singh, P.R., Saxena, A.K., Tiwari, C.M.: 2018, J. Astrophys. Astron. 39, 20.
+Singh, D., Singh, R.P., Singh, A.K., Kulkarni, M.N., Gautam, A.S., Singh, A.K.: 2011, Surv. Geophys. 32, 659.
+Singh, P.R., Tiwari, C.M., Saxena, A.K., Agrawal, S.L., Mishra, A.P.: 2019, Astrophys. Space Sci. 364, 59.
+Southworth, G.C.: 1945, In: Sulliwan, W.T. III (ed.) Classics in Radio Astrononomy, Springer, Dordrecht, 168.
+Torrence, C., Compo, G.: 1998, Bull. Am. Meteorol. Soc. 79, 61.
+Vecchio, A., Laurenza, M., Carbone, V., Storini, M.: 2010, Astrophys. J. Lett. 709, L1.
+Wauters, L., Dominique, M., Dammasch, I.E.: 2016, Solar Phys. 291, 7.
+Ye, N., Zhu, F.R., Zhou, X.M., Jia, H.Y.: 2012, Solar Phys. 279, 2.

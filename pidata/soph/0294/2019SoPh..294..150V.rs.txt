@@ -1,0 +1,47 @@
+Allred, J.C., Kowalski, A.F., Carlsson, M.: 2015, A unified computational model for solar and stellar flares. Astrophys. J. 809, 104.
+Antonucci, E., Gabriel, A.H., Dennis, B.R.: 1984, The energetics of chromospheric evaporation in solar flares. Astrophys. J. 287, 917.
+Bastian, T.S., Benz, A.O., Gary, D.E.: 1998, Radio emission from solar flares. Annu. Rev. Astron. Astrophys. 36, 131.
+Carlsson, M.: 1998, Radiative transfer and radiation hydrodynamics. In: Vial, J.C., Bocchialini, K., Boumier, P. (eds.) Space Solar Physics: Theoretical and Observational Issues in the Context of the SOHO Mission; Proc. of a Summer School, Lecture Notes in Physics 507, Springer, New York, 163.
+Carlsson, M., Stein, R.F.: 1995, Does a nonmagnetic solar chromosphere exist? Astrophys. J. Lett. 440, L29.
+Costa, J.E.R., Silva, A.V.R., Lüdi, A., Magun, A.: 2002, Beam profile determination by tomography of solar scans. Astron. Astrophys. 387, 1153.
+Cristiani, G., Martinez, G., Mandrini, C.H., Giménez de Castro, C.G., da Silva, C.W., Rovira, M.G., Kaufmann, P.: 2007, Spatial characterization of a flare using radio observations and magnetic field topology. Solar Phys. 240, 271.
+Dulk, G.A.: 1985, Radio emission from the Sun and stars. Annu. Rev. Astron. Astrophys. 23, 169.
+Fleishman, G.D., Kontar, E.P.: 2010, Sub-Thz radiation mechanisms in solar flares. Astrophys. J. Lett. 709, L127.
+Frost, K.J.: 1964, Comments on high energy X-ray bursts observed by OSO I. NASA SP-50, 139.
+Giménez de Castro, C.G., Raulin, J.-P., Makhmutov, V.S., Kaufmann, P., Costa, J.E.R.: 1999, Instantaneous positions of microwave solar bursts: Properties and validity of the multiple beam observations. Astron. Astrophys. Suppl. Ser. 140, 373.
+Giménez de Castro, C.G., Trottet, G., Silva-Valio, A., Krucker, S., Costa, J.E.R., Kaufmann, P., Correia, E., Levato, H.: 2009, Submillimeter and X-ray observations of an X class flare. Astron. Astrophys. 507, 433.
+Guidice, D.A., Cliver, E.W., Barron, W.R., Kahler, S.: 1981, The air force RSTN system. Bull. Am. Astron. Soc. 13, 553.
+Heinzel, P., Avrett, E.H.: 2012, Optical-to-radio continua in solar flares. Solar Phys. 277, 31.
+Herrmann, R., Magun, A., Costa, J.E.R., Correia, E., Kaufmann, P.: 1992, A multibeam antenna for solar mm-wave burst observations with high spatial and temporal resolution. Solar Phys. 142, 157.
+Hudson, H.S.: 1991, Differential emission-measure variations and the “Neupert effect”. Bull. Am. Astron. Soc. 23, 1064.
+Hudson, H.S., Ohki, K.: 1972, Soft X-ray and microwave observations of hot regions in solar flares. Solar Phys. 23, 155.
+Kašparová, J., Heinzel, P., Karlický, M., Moravec, Z., Varady, M.: 2009, Far-IR and radio thermal continua in solar flares. Cent. Eur. Astrophys. Bull. 33, 309.
+Kaufmann, P., Raulin, J.-P.: 2006, Can microbunch instability on solar flare accelerated electron beams account for bright broadband coherent synchrotron microwaves? Phys. Plasmas 13, 701.
+Kaufmann, P., Levato, H., Cassiano, M.M., Correia, E., Costa, J.E.R., Giménez de Castro, C.G., Godoy, R., Kingsley, R.K., Kingsley, J.S., Kudaka, A.S., Marcon, R., Martin, R., Marun, A., Melo, A.M., Pereyra, P., Raulin, J.-P., Rose, T., Silva Valio, A., Walber, A., Wallace, P., Yakubovich, A., Zakia, M.B.: 2008, New telescopes for ground-based solar observations at submillimeter and mid-infrared. In: Soc. Photo-Opt. Instrum. Eng. (SPIE) CS-7012.
+Kaufmann, P., White, S.M., Freeland, S.L., Marcon, R., Fernandes, L.O.T., Kudaka, A.S., de Souza, R.V., Aballay, J.L., Fernandez, G., Godoy, R., Marun, A., Valio, A., Raulin, J.-P., Giménez de Castro, C.G.: 2013, A bright impulsive solar burst detected at 30 THz. Astrophys. J. 768, 134.
+Kaufmann, P., Abrantes, A., Bortolucci, E., Caspi, A., Fernandes, L.O.T., Kropotov, G., Kudaka, A., Laurent, G.T., Machado, N., Marcon, R., Marun, A., Nicolaev, V., Hidalgo Ramirez, R.F., Raulin, J.-P., Saint-Hilaire, P., Shih, A., Silva, C., Timofeevsky, A.: 2016, Solar observations at THz frequencies on board of a trans-Antartic stratospheric balloon flight. In: AAS/Solar Phys. Div. Meet. 47, 6.11.
+Kleint, L., Heinzel, P., Judge, P., Krucker, S.: 2016, Continuum enhancements in the ultraviolet, the visible and the infrared during the X1 flare on 2014 March 29. Astrophys. J. 816, 88.
+Krucker, S., Giménez de Castro, C.G., Hudson, H.S., Trottet, G., Bastian, T.S., Hales, A.S., Kašparová, J., Klein, K.-L., Kretzschmar, M., Lüthi, T., Mackinnon, A., Pohjolainen, S., White, S.M.: 2013, Solar flares at submillimeter wavelengths. Astron. Astrophys. Rev. 21, 58.
+Lüthi, T., Lüdi, A., Magun, A.: 2004, Determination of the location and effective angular size of solar flares with a 210 GHz multibeam radiometer. Astron. Astrophys. 420, 361.
+Lüthi, T., Magun, A., Miller, M.: 2004, First observation of a solar X-class flare in the submillimeter range with KOSMA. Astron. Astrophys. 415, 1123.
+McAteer, R.T.J., Bloomfield, D.S.: 2013, The bursty nature of solar flare X-ray emission. II. The Neupert effect. Astrophys. J. 776, 66.
+Meegan, C., Lichti, G., Bhat, P.N., Bissaldi, E., Briggs, M.S., Connaughton, V., Diehl, R., Fishman, G., Greiner, J., Hoover, A.S., van der Horst, A.J., von Kienlin, A., Kippen, R.M., Kouveliotou, C., McBreen, S., Paciesas, W.S., Preece, R., Steinle, H., Wallace, M.S., Wilson, R.B., Wilson-Hodge, C.: 2009, The Fermi Gamma-ray Burst Monitor. Astrophys. J. 702, 791.
+Neupert, W.M.: 1968, Comparison of solar X-ray line emission with microwave emission during flares. Astrophys. J. Lett. 153, L59.
+Penn, M., Krucker, S., Hudson, H., Jhabvala, M., Jennings, D., Lunsford, A., Kaufmann, P.: 2016, Spectral and imaging observations of a white-light solar flare in the mid-infrared. Astrophys. J. Lett. 819, L30.
+Pick, M., Vilmer, N.: 2008, Sixty-five years of solar radioastronomy: Flares, coronal mass ejections and Sun Earth connection. Astron. Astrophys. Rev. 16, 6.
+Ramaty, R., Schwartz, R.A., Enome, S., Nakajima, H.: 1994, Gamma-ray and millimeter-wave emissions from the 1991 June X-class solar flares. Astrophys. J. 436, 941.
+Selhorst, C.L., Silva, A.V.R., Costa, J.E.R.: 2005, Solar atmospheric model with spicules applied to radio observation. Astron. Astrophys. 433, 365.
+Silva, A.V.R., Laganá, T.F., Gimenez Castro, C.G., Kaufmann, P., Costa, J.E.R., Levato, H., Rovira, M.: 2005, Diffuse component spectra of solar active regions at submillimeter wavelengths. Solar Phys. 227, 265.
+Simões, P.J.A., Kerr, G.S., Fletcher, L., Hudson, H.S., Giménez de Castro, C.G., Penn, M.: 2017, Formation of the thermal infrared continuum in solar flares. Astron. Astrophys. 605, A125.
+Simões, P.J.A., Reid, H.A.S., Milligan, R.O., Fletcher, L.: 2019, The spectral content of SDO/AIA 1600 and 1700 Å filters from flare and plage observations. Astrophys. J. 870(2), 114.
+Trottet, G., Rolli, E., Magun, A., Barat, C., Kuznetsov, A., Sunyaev, R., Terekhov, O.: 2000, The fast and slow H\upalpha chromospheric responses to non-thermal particles produced during the 1991 March 13 hard X-ray/gamma-ray flare at {∼} 08~UTC. Astron. Astrophys. 356, 1067.
+Trottet, G., Raulin, J.-P., Kaufmann, P., Siarkowski, M., Klein, K.-L., Gary, D.E.: 2002, First detection of the impulsive and extended phases of a solar radio burst above 200 GHz. Astron. Astrophys. 381, 694.
+Trottet, G., Raulin, J.-P., Giménez de Castro, C.G., Lüthi, T., Caspi, A., Mandrini, C., Luoni, M.L., Kaufmann, P.: 2011, Origin of the submillimeter radio emission during the time-extended phase of a solar flare. Solar Phys. 273(2), 340.
+Trottet, G., Raulin, J.-P., Mackinnon, A., Giménez de Castro, G., Simões, P.J.A., Cabezas, D., de La Luz, V., Luoni, M., Kaufmann, P.: 2015, Origin of the 30 THz emission detected during the solar flare on 2012 March 13 at 17:20 UT. Solar Phys. 290, 2809.
+Tsap, Y.T., Smirnova, V.V., Morgachev, A.S., Motorina, G.G., Kontar, E.P., Nagnibeda, V.G., Strekalova, P.V.: 2016, On the origin of 140 GHz emission from the 4 July 2012 solar flare. Adv. Space Res. 57, 1449.
+Vernazza, J.E., Avrett, E.H., Loeser, R.: 1981, Structure of the solar chromosphere. III – Models of the EUV brightness components of the quiet-sun. Astrophys. J. Suppl. Ser. 45, 635.
+Veronig, A., Vršnak, B., Dennis, B.R., Temmer, M., Hanslmeier, A., Magdalenić, J.: 2002a, Investigation of the Neupert effect in solar flares. I. Statistical properties and the evaporation model. Astron. Astrophys. 392, 699.
+Veronig, A., Vršnak, B., Temmer, M., Hanslmeier, A.: 2002b, Relative timing of solar flares observed at different wavelengths. Solar Phys. 208, 297.
+Veronig, A.M., Brown, J.C., Dennis, B.R., Schwartz, R.A., Sui, L., Tolbert, A.K.: 2005, Physics of the Neupert effect: Estimates of the effects of source energy, mass transport, and geometry using RHESSI and GOES data. Astrophys. J. 621, 482.
+Wedemeyer, S., Bastian, T., Brajša, R., Hudson, H., Fleishman, G., Loukitcheva, M., Fleck, B., Kontar, E.P., De Pontieu, B., Yagoubov, P., Tiwari, S.K., Soler, R., Black, J.H., Antolin, P., Scullion, E., Gunár, S., Labrosse, N., Ludwig, H.-G., Benz, A.O., White, S.M., Hauschildt, P., Doyle, J.G., Nakariakov, V.M., Ayres, T., Heinzel, P., Karlicky, M., Van Doorsselaere, T., Gary, D., Alissandrakis, C.E., Nindos, A., Solanki, S.K., Rouppe van der Voort, L., Shimojo, M., Kato, Y., Zaqarashvili, T., Perez, E., Selhorst, C.L., Barta, M.: 2016, Solar science with the Atacama Large Millimeter/Submillimeter Array – A new view of our Sun. Space Sci. Rev. 200, 1.
+White, W.A.: 1964, Solar X rays: A comparison with microwave radiation. NASA SP-50, 131.

@@ -1,0 +1,16 @@
+Beijing Observatory: 1988, Ancient Chinese Astronomical Records. Jiangsu Science and Technology Press, Jiangsu (In Chinese).
+Bekli, M. R., Zougab, N., Belabbas, A., Chadou, A.: 2017, Non-parametric data analysis of low-latitude auroras and naked-eye sunspots in the Medieval Epoch. Solar Phys. 292(4), 54.
+Carrasco, V. M. S., Vaquero, J. M., Trigo, R. M., Gallego, M. C.: 2018, A curious history of sunspot penumbrae: an update. Solar Phys. 293(7), 104.
+Eddy, J. A.: 1976, The Maunder minimum. Science 192(192), 1189.
+Hathaway, D. H.: 2015, The solar cycle. Living Rev. Solar Phys. 12(1), 4.
+Hoyt, D.V., Schatten, K.H.: 1998, Group sunspot numbers: a new solar activity reconstruction. Solar Phys. 179(1), 189.
+Jiang, J., Wang, J., Jiao, Q., Cao, J.,: 2018, Predictability of the solar cycle over one cycle. Astrophys. J. 863(2), 159.
+Pala, Z., Atici, R.: 2019, Forecasting sunspot time series using deep learning methods. Solar Phys. 294(5), 50.
+Schove, D.: 1955, The sunspot cycle, 649 B.C. to A.D. 2000. J. Geophys. Res. 60(2), 127.
+Usoskin, I. G.: 2017, A history of solar activity over millennia. Living Rev. Solar Phys. 14(1), 3.
+Usoskin, I. G., Mursula, J., Arlt, R., Kovaltsov, G. A.,: 2009, A solar cycle lost in 1793 – 1800: early sunspot observations resolve the old mystery. Astrophys. J. 700(2), L154.
+Vaquero, J.M.: 2007, Historical sunspot observations: a review. Adv. Space Res. 40, 929.
+Wang, H.R., Qi, J., Li, H.D., Fang, W.,: 2017, Initial in-flight results: the total solar irradiance monitor on the FY-3C satellite, an instrument with a pointing system. Solar Phys. 292(1), 9.
+Wittmann, A.D., Xu, Z.T.,: 1987, A catalogue of sunspot observations from 165 BC to AD 1684. Astron. Astrophys. Suppl. Ser. 70, 83.
+Xu, Z.T., Jiang, Y.T., 1990, Research and Modern Applications of the Sunspots’ Records in Ancient China, Nanjing University Press, Nanjing (In Chinese).
+Yau, K. K. C., Stephenson, F. R.,: 1988, A revised catalogue of far eastern observations of sunspots (165 BC to AD 1918). Q. J. Roy. Astron. Soc. 29, 175.

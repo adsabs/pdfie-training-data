@@ -1,0 +1,66 @@
+Aurass, H.: 1997, Coronal mass ejections and type II radio bursts. In: Trottet, G. (ed.) Coronal Physics from Radio and Space Observations, Lecture Notes in Physics, 483, Springer, Berlin, 135.
+Bakunin, L.M., Ledenev, V.G., Kosugi, T., McLean, D.J.: 1990, The harmonic structure of a type II burst on 12 May, 1983. Solar Phys. 129, 379.
+Bastian, T.S., Pick, M., Kerdraon, A., Maia, D., Vourlidas, A.: 2001, The coronal mass ejection of 1998 April 20: Direct imaging at radio wavelengths. Astrophys. J. Lett. 558, L65.
+Benz, A.O., Monstein, C., Meyer, H., Manoharan, P.K., Ramesh, R., Altyntsev, A., Lara, A., Paez, J., Cho, K.-S.: 2009, A world-wide net of solar radio spectrometers: e-CALLISTO. Earth Moon Planets 104, 277.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Cho, K.-S., Lee, J., Gary, D.E., Moon, Y.-J., Park, Y.D.: 2007, Magnetic field strength in the solar corona from type II band splitting. Astrophys. J. 665, 799.
+Collett, E.: 1992, Polarized Light. Fundamentals and Applications. Optical Engineering, Dekker, New York.
+Dulk, G.A., McLean, D.J.: 1978, Coronal magnetic fields. Solar Phys. 57, 279.
+Dulk, G.A., Suzuki, S.: 1980, The position and polarization of type III solar bursts. Astron. Astrophys. 88, 203.
+Ebenezer, E., Ramesh, R., Subramanian, K.R., SundaraRajan, M.S., Sastry, C.V.: 2001, A new digital spectrograph for observations of radio burst emission from the Sun. Astron. Astrophys. 367, 1112.
+Ebenezer, E., Subramanian, K.R., Ramesh, R., Sundararajan, M.S., Kathiravan, C.: 2007, Gauribidanur Radio Array Solar Spectrograph (GRASS). Bull. Astron. Soc. India 35, 111.
+Gary, D.E., Dulk, G.A., House, L.L., Illing, R., Wagner, W.J.: 1985, The type IV burst of 1980 June 29, 0233 UT – Harmonic plasma emission? Astron. Astrophys. 152, 42.
+Gelfreikh, G.B.: 2004, Coronal magnetic field measurements through Bremsstrahlung emission. In: Gary, D.E., Keller, C.U. (eds.) Astrophysics and Space Science Library, Astrophysics and Space Science Library 314, 115.
+Gopalswamy, N.: 2006, Coronal Mass Ejections and Type II Radio Bursts, Washington DC American Geophysical Union Geophysical Monograph Series 165, 207.
+Gopalswamy, N., Kundu, M.R.: 1990, Multiple moving magnetic structures in the solar corona. Solar Phys. 128, 377.
+Gopalswamy, N., Yashiro, S.: 2011, The strength and radial profile of the coronal magnetic field from the standoff distance of a coronal mass ejection-driven shock. Astrophys. J. Lett. 736, L17.
+Gopalswamy, N., Nitta, N., Akiyama, S., Mäkelä, P., Yashiro, S.: 2012, Coronal magnetic field measurement from EUV images made by the Solar Dynamics Observatory. Astrophys. J. 744, 72.
+Grognard, R.J.M., McLean, D.J.: 1973, Non-existence of linear polarization in type III solar bursts at 80 MHz. Solar Phys. 29, 149.
+Hariharan, K., Ramesh, R., Kathiravan, C.: 2015, Observations of near-simultaneous split-band solar type-II radio bursts at low frequencies. Solar Phys. 290, 2479.
+Hariharan, K., Ramesh, R., Kishore, P., Kathiravan, C., Gopalswamy, N.: 2014, An estimate of the coronal magnetic field near a solar coronal mass ejection from low-frequency radio observations. Astrophys. J. 795, 14.
+Hariharan, K., Ramesh, R., Kathiravan, C., Abhilash, H.N., Rajalingam, M.: 2016a, High dynamic range observations of solar coronal transients at low radio frequencies with a spectro-correlator. Astrophys. J. Suppl. 222, 21.
+Hariharan, K., Ramesh, R., Kathiravan, C., Wang, T.J.: 2016b, Simultaneous near-Sun observations of a moving type IV radio burst and the associated white-light coronal mass ejection. Solar Phys. 291, 1405.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., Korendyke, C.M., Cook, J.W., Hurley, A., Davila, J.M., Thompson, W.T., St Cyr, O.C., Mentzell, E., Mehalick, K., Lemen, J.R., Wuelser, J.P., Duncan, D.W., Tarbell, T.D., Wolfson, C.J., Moore, A., Harrison, R.A., Waltham, N.R., Lang, J., Davis, C.J., Eyles, C.J., Mapson-Menard, H., Simnett, G.M., Halain, J.P., Defise, J.M., Mazy, E., Rochus, P., Mercier, R., Ravet, M.F., Delmotte, F., Auchere, F., Delaboudiniere, J.P., Bothmer, V., Deutsch, W., Wang, D., Rich, N., Cooper, S., Stephens, V., Maahs, G., Baugh, R., McMullin, D., Carter, T.: 2008, Sun Earth connection coronal and heliospheric investigation (SECCHI). Space Sci. Rev. 136, 67.
+Kim, R.-S., Gopalswamy, N., Moon, Y.-J., Cho, K.-S., Yashiro, S.: 2012, Magnetic field strength in the upper solar corona using white-light shock structures surrounding coronal mass ejections. Astrophys. J. 746, 118.
+Kishore, P., Kathiravan, C., Ramesh, R., Rajalingam, M., Barve, I.V.: 2014, Gauribidanur low-frequency solar spectrograph. Solar Phys. 289, 3995.
+Kishore, P., Ramesh, R., Kathiravan, C., Rajalingam, M.: 2015, A low-frequency radio spectropolarimeter for observations of the solar corona. Solar Phys. 290, 2409.
+Kishore, P., Ramesh, R., Hariharan, K., Kathiravan, C., Gopalswamy, N.: 2016, Constraining the solar coronal magnetic field strength using split-band type II radio burst observations. Astrophys. J. 832, 59.
+Kliem, B., Krueger, A., Treumann, R.A.: 1992, Third plasma harmonic radiation in type II bursts. Solar Phys. 140, 149.
+Kumari, A., Ramesh, R., Kathiravan, C., Gopalswamy, N.: 2017, New evidence for a coronal mass ejection-driven high frequency type II burst near the Sun. Astrophys. J. 843, 10.
+Kwon, R.-Y., Kramar, M., Wang, T., Ofman, L., Davila, J.M., Chae, J., Zhang, J.: 2013a, Global coronal seismology in the extended solar corona through fast magnetosonic waves observed by STEREO SECCHI COR1. Astrophys. J. 776, 55.
+Kwon, R.-Y., Ofman, L., Olmedo, O., Kramar, M., Davila, J.M., Thompson, B.J., Cho, K.-S.: 2013b, STEREO observations of fast magnetosonic waves in the extended solar corona associated with EIT/EUV waves. Astrophys. J. 766, 55.
+Lin, H., Penn, M.J., Tomczyk, S.: 2000, A new precise measurement of the coronal magnetic field strength. Astrophys. J. Lett. 541, L83.
+Mancuso, S., Garzelli, M.V.: 2013, Radial profile of the inner heliospheric magnetic field as deduced from Faraday rotation observations. Astron. Astrophys. 553, A100.
+Mancuso, S., Raymond, J.C., Kohl, J., Ko, Y.-K., Uzzo, M., Wu, R.: 2003, Plasma properties above coronal active regions inferred from SOHO/UVCS and radio spectrograph observations. Astron. Astrophys. 400, 347.
+Mann, G., Classen, T., Aurass, H.: 1995, Characteristics of coronal shock waves and solar type II radio bursts. Astron. Astrophys. 295, 775.
+Monstein, C., Ramesh, R., Kathiravan, C.: 2007, Radio spectrum measurements at the Gauribidanur observatory. Bull. Astron. Soc. India 35, 473.
+Nelson, G.J., Melrose, D.B.: 1985, In: McLean, D.J., Labrum, N.R. (eds.) Type II Bursts, 333.
+Patzold, M., Bird, M.K., Volland, H., Levy, G.S., Seidel, B.L., Stelzried, C.T.: 1987, The mean coronal magnetic field determined from HELIOS Faraday rotation measurements. Solar Phys. 109, 91.
+Poomvises, W., Gopalswamy, N., Yashiro, S., Kwon, R.-Y., Olmedo, O.: 2012, Determination of the heliospheric radial magnetic field from the standoff distance of a CME-driven shock observed by the STEREO spacecraft. Astrophys. J. 758, 118.
+Ramesh, R.: 2011, Low frequency solar radio astronomy at the Indian Institute of Astrophysics (IIA). In: Astronomical Society of India Conference Series, Astronomical Society of India Conference Series 2.
+Ramesh, R., Kathiravan, C., Narayanan, A.S.: 2011, Low-frequency observations of polarized emission from long-lived non-thermal radio sources in the solar corona. Astrophys. J. 734, 39.
+Ramesh, R., Kathiravan, C., Sastry, C.V.: 2003, Metric radio observations of the evolution of a “Halo” coronal mass ejection close to the Sun. Astrophys. J. Lett. 591, L163.
+Ramesh, R., Kathiravan, C., Sastry, C.V.: 2010, Estimation of magnetic field in the solar coronal streamers through low frequency radio observations. Astrophys. J. 711, 1029.
+Ramesh, R., Kathiravan, C., Satya Narayanan, A.: 2004, Seismology of the solar corona through observations of metric type IV radio burst emission. Asian J. Phys. 13, 277.
+Ramesh, R., Kathiravan, C., Narayanan, A.S., Ebenezer, E.: 2003, Metric observations of transient, quasi-periodic radio emission from the solar corona in association with a “Halo” CME and an “EIT wave” event. Astron. Astrophys. 400, 753.
+Ramesh, R., Kathiravan, C., Barve, I.V., Beeharry, G.K., Rajasekara, G.N.: 2010a, Radio observations of weak energy releases in the solar corona. Astrophys. J. 719, L41.
+Ramesh, R., Kathiravan, C., Kartha, S.S., Gopalswamy, N.: 2010b, Radioheliograph observations of metric type II bursts and the kinematics of coronal mass ejections. Astrophys. J. 712, 188.
+Ramesh, R., Anna Lakshmi, M., Kathiravan, C., Gopalswamy, N., Umapathy, S.: 2012, The location of solar metric type II radio bursts with respect to the associated coronal mass ejections. Astrophys. J. 752, 107.
+Ramesh, R., Kishore, P., Mulay, S.M., Barve, I.V., Kathiravan, C., Wang, T.J.: 2013, Low-frequency observations of drifting, non-thermal continuum radio emission associated with the solar coronal mass ejections. Astrophys. J. 778, 30.
+Roberts, J.A.: 1959, Solar radio bursts of spectral type II. Aust. J. Phys. 12, 327.
+Ryabov, B.: 2004, Coronal magnetic field measurements through quasi-transverse propagation. In: Gary, D.E., Keller, C.U. (eds.) Astrophysics and Space Science Library, Astrophysics and Space Science Library 314, 135.
+Saito, K., Poland, A.I., Munro, R.H.: 1977, A study of the background corona near solar minimum. Solar Phys. 55, 121.
+Sasikumar Raja, K., Ramesh, R.: 2013, Low-frequency observations of transient quasi-periodic radio emission from the solar atmosphere. Astrophys. J. 775, 38.
+Sasikumar Raja, K., Ramesh, R., Hariharan, K., Kathiravan, C., Wang, T.J.: 2014, An estimate of the magnetic field strength associated with a solar coronal mass ejection from low frequency radio observations. Astrophys. J. 796, 56.
+Sastry, C.V.: 2009, Polarization of the thermal radio emission from outer solar corona. Astrophys. J. 697, 1934.
+Smerd, S.F., Sheridan, K.V., Stewart, R.T.: 1975, Split-band structure in type II radio bursts from the Sun. Astrophys. Lett. 16, 23.
+Smerd, S.F., Wild, J.P., Sheridan, K.V.: 1962, On the relative position and origin of harmonics in the spectra of solar radio bursts of spectral types II and III. Aust. J. Phys. 15, 180.
+Spangler, S.R.: 2005, The strength and structure of the coronal magnetic field. Space Sci. Rev. 121, 189.
+Tun, S.D., Vourlidas, A.: 2013, Derivation of the magnetic field in a coronal mass ejection core via multi-frequency radio imaging. Astrophys. J. 766, 130.
+van de Hulst, H.C.: 1950, The electron density of the solar corona. Bull. Astron. Inst. Neth. 11, 135.
+Vršnak, B.: 2001, Solar flares and coronal shock waves. J. Geophys. Res. 106, 25291.
+Vršnak, B., Magdalenić, J., Aurass, H., Mann, G.: 2002, Band-splitting of coronal and interplanetary type II bursts. II. Coronal magnetic field and Alfvén velocity. Astron. Astrophys. 396, 673.
+Wang, T., Davila, J.M.: 2014, Validation of spherically symmetric inversion by use of a tomographically reconstructed three-dimensional electron density of the solar corona. Solar Phys. 289, 3723.
+White, S.M.: 2004, Coronal magnetic field measurements through gyroresonance emission. In: Gary, D.E., Keller, C.U. (eds.) Astrophysics and Space Science Library, Astrophysics and Space Science Library 314, 89.
+Wild, J.P., Smerd, S.F., Weiss, A.A.: 1963, Solar bursts. Annu. Rev. Astron. Astrophys. 1, 291.
+Zlotnik, E.Y., Klassen, A., Klein, K.-L., Aurass, H., Mann, G.: 1998, Third harmonic plasma emission in solar type II radio bursts. Astron. Astrophys. 331, 1087.

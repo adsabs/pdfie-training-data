@@ -1,0 +1,53 @@
+Afanasyev, A.N., Uralov, A.M.: 2011, Coronal shock waves, EUV waves, and their relation to CMEs. II. Modeling MHD shock wave propagation along the solar surface, using nonlinear geometrical acoustics. Solar Phys. 273, 479.
+Afanasyev, A.N., Uralov, A.M.: 2012, Modelling the propagation of a weak fast-mode MHD shock wave near a 2D magnetic null point using nonlinear geometrical acoustics. Solar Phys. 280, 561.
+Afanasyev, A.N., Uralov, A.M., Grechnev, V.V.: 2013, Propagation of a fast magnetoacoustic shock wave in the magnetosphere of an active region. Astron. Rep. 57, 594.
+Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Formation of torus-unstable flux ropes and electric currents in erupting sigmoids. Astrophys. J. 708(1), 314.
+Bain, H.M., Krucker, S., Glesener, L., Lin, R.P.: 2012, Radio imaging of shock-accelerated electrons associated with an erupting plasmoid on 2010 November 3. Astrophys. J. 750, 44.
+Chen, Y., Du, G., Feng, L., Feng, S., Kong, X., Guo, F., Wang, B., Li, G.: 2014, A solar type II radio burst from coronal mass ejection–coronal ray interaction: Simultaneous radio and extreme ultraviolet imaging. Astrophys. J. 787, 59.
+Cunha-Silva, R.D., Fernandes, F.C.R., Selhorst, C.L.: 2015, Solar type II radio bursts associated with CME expansions as shown by EUV waves. Astron. Astrophys. 578, A38.
+Eselevich, V., Eselevich, M.: 2012, Disturbed zone and piston shock ahead of coronal mass ejection. Astrophys. J. 761(1), 68.
+Evans, R.M., Opher, M., Manchester, I., Gombosi, T.I.: 2008, Alfvén profile in the lower corona: Implications for shock formation. Astrophys. J. 687(2), 1355.
+Feng, S.W., Chen, Y., Kong, X.L., Li, G., Song, H.Q., Feng, X.S., Guo, F.: 2013, Diagnostics on the source properties of a type II radio burst with spectral bumps. Astrophys. J. 767, 29.
+Gopalswamy, N., Nitta, N., Akiyama, S., Mäkelä, P., Yashiro, S.: 2012, Coronal magnetic field measurement from EUV images made by the Solar Dynamics Observatory. Astrophys. J. 744, 72.
+Grechnev, V.V., Uralov, A.M., Slemzin, V.A., Chertok, I.M., Kuzmenko, I.V., Shibasaki, K.: 2008, Absorption phenomena and a probable blast wave in the 13 July 2004 eruptive event. Solar Phys. 253, 263.
+Grechnev, V.V., Uralov, A.M., Chertok, I.M., Kuzmenko, I.V., Afanasyev, A.N., Meshalkina, N.S., Kalashnikov, S.S., Kubo, Y.: 2011a, Coronal shock waves, EUV waves, and their relation to CMEs. I. Reconciliation of “EIT waves”, type II radio bursts, and leading edges of CMEs. Solar Phys. 273, 433.
+Grechnev, V.V., Afanasyev, A.N., Uralov, A.M., Chertok, I.M., Eselevich, M.V., Eselevich, V.G., Rudenko, G.V., Kubo, Y.: 2011b, Coronal shock waves, EUV waves, and their relation to CMEs. III. Shock-associated CME/EUV wave in an event with a two-component EUV transient. Solar Phys. 273, 461.
+Grechnev, V.V., Uralov, A.M., Chertok, I.M., Slemzin, V.A., Filippov, B.P., Egorov, Y.I., Fainshtein, V.G., Afanasyev, A.N., Prestage, N.P., Temmer, M.: 2014, A challenging solar eruptive event of 18 November 2003 and the causes of the 20 November geomagnetic superstorm. II. CMEs, shock waves, and drifting radio bursts. Solar Phys. 289, 1279.
+Grechnev, V.V., Uralov, A.M., Kuzmenko, I.V., Kochanov, A.A., Chertok, I.M., Kalashnikov, S.S.: 2015, Responsibility of a filament eruption for the initiation of a flare, CME, and blast wave, and its possible transformation into a bow shock. Solar Phys. 290, 129.
+Grechnev, V.V., Uralov, A.M., Kochanov, A.A., Kuzmenko, I.V., Prosovetsky, D.V., Egorov, Y.I., Fainshtein, V.G., Kashapova, L.K.: 2016, A tiny eruptive filament as a flux-rope progenitor and driver of a large-scale CME and wave. Solar Phys. 291, 1173.
+Grechnev, V.V., Kiselev, V.I., Uralov, A.M., Klein, K.-L., Kochanov, A.A.: 2017, The 26 December 2001 solar eruptive event responsible for GLE63: III. CME, shock waves, and energetic particles. Solar Phys. 292, 102.
+Grechnev, V.V., Lesovoi, S.V., Kochanov, A.A., Uralov, A.M., Altyntsev, A.T., Gubin, A.V., Zhdanov, D.A., Ivanov, E.F., Smolkov, G.Y., Kashapova, L.K.: 2018, Multi-instrument view on solar eruptive events observed with the Siberian Radioheliograph: From detection of small jets up to development of a shock wave and CME. J. Atmos. Solar-Terr. Phys. 174, 46.
+Greifinger, C., Cole, J.D.: 1961, On cylindrical magnetohydrodynamic shock waves. Phys. Fluids 4, 527.
+Haw, M.A., Wongwaitayakornkul, P., Li, H., Bellan, P.M.: 2018, Reverse current model for coronal mass ejection cavity formation. Astrophys. J. Lett. 862, L15.
+Hirayama, T.: 1974, Theoretical model of flares and prominences. I: Evaporating flare model. Solar Phys. 34, 323.
+Kliem, B., Forbes, T.G., Patsourakos, S., Vourlidas, A.: 2014, Rapid CME cavity formation and expansion. In: Am. Astron. Soc. Meet. Abst. 224, 212.06.
+Knock, S.A., Cairns, I.H.: 2005, Type II radio emission predictions: Sources of coronal and interplanetary spectral structure. J. Geophys. Res. 110, A01101.
+Korobeinikov, V.P.: 1960, On one-dimensional motions of gas in magnetic field accompanied by shock waves. J. Appl. Mech. Tech. Phys. 1, 47 (in Russian).
+Korobeinikov, V.P.: 1991, Problems of Point-Blast Theory, American Institute of Physics, New York.
+Korobeinikov, V.P., Riazanov, E.V.: 1960, Some solutions to equations of one-dimensional magnetohydrodynamics and their applications to problems of shock-wave propagation. J. Appl. Math. Mech. 24, 144.
+Kouloumvakos, A., Patsourakos, S., Hillaris, A., Vourlidas, A., Preka-Papadema, P., Moussas, X., Caroubalos, C., Tsitsipis, P., Kontogeorgos, A.: 2014, CME expansion as the driver of metric type II shock emission as revealed by self-consistent analysis of high-cadence EUV images and radio spectrograms. Solar Phys. 289, 2123.
+Kozarev, K.A., Korreck, K.E., Lobzin, V.V., Weber, M.A., Schwadron, N.A.: 2011, Off-limb solar coronal wavefronts from SDO/AIA extreme-ultraviolet observations – implications for particle production. Astrophys. J. 733(2), L25.
+Landau, L.D., Lifshitz, E.M.: 1987, Fluid Mechanics, Pergamon, Oxford.
+Lependin, L.F.: 1978, Acoustics, Graduate School, Moscow.
+Low, B.C.: 1982, Self-similar magnetohydrodynamics. I: The γ = 4/3 polytrope and the coronal transient. Astrophys. J. 254, 796.
+Low, B.C.: 1984, Self-similar magnetohydrodynamics. III: The subset of spherically symmetric gasdynamic flows. IV: The physics of coronal transients. Astrophys. J. 281, 381.
+Ma, S., Raymond, J.C., Golub, L., Lin, J., Chen, H., Grigis, P., Testa, P., Long, D.: 2011, Observations and interpretation of a low coronal shock wave observed in the EUV by the SDO/AIA. Astrophys. J. 738, 160.
+Mancuso, S., Raymond, J.C.: 2004, Coronal transients and metric type II radio bursts. I. Effects of geometry. Astron. Astrophys. 413, 363.
+Parker, E.N.: 1961, Sudden expansion of the corona following a large solar flare and the attendant magnetic field and cosmic-ray effects. Astrophys. J. 133, 1014.
+Patsourakos, S., Vourlidas, A.: 2012, On the nature and genesis of EUV waves: A synthesis of observations from SOHO, STEREO, SDO, and Hinode (invited review). Solar Phys. 281, 187.
+Patsourakos, S., Vourlidas, A., Kliem, B.: 2010, Toward understanding the early stages of an impulsively accelerated coronal mass ejection. SECCHI observations. Astron. Astrophys. 522, A100.
+Patsourakos, S., Vourlidas, A., Stenborg, G.: 2010, The genesis of an impulsive coronal mass ejection observed at ultra-high cadence by AIA on SDO. Astrophys. J. Lett. 724, L188.
+Reiner, M.J., Vourlidas, A., Cyr, O.C.S., Burkepile, J.T., Howard, R.A., Kaiser, M.L., Prestage, N.P., Bougeret, J.-L.: 2003, Constraints on coronal mass ejection dynamics from simultaneous radio and white-light observations. Astrophys. J. 590, 533.
+Sedov, L.I.: 1977, Similarity Methods and Dimensional Analysis in Mechanics, 8th revised edition, Izdatelstvo Nauka, Moscow.
+Temmer, M., Vršnak, B., Žic, T., Veronig, A.M.: 2009, Analytic modeling of the Moreton wave kinematics. Astrophys. J. 702, 1343.
+Thompson, B.J., Gurman, J.B., Neupert, W.M., Newmark, J.S., Delaboudinière, J.-P., Cyr, O.C.S., Stezelberger, S., Dere, K.P., Howard, R.A., Michels, D.J.: 1999, SOHO/EIT observations of the 1997 April 7 coronal transient: Possible evidence of coronal Moreton waves. Astrophys. J. Lett. 517, L151.
+Uchida, Y.: 1968, Propagation of hydromagnetic disturbances in the solar corona and Moreton’s wave phenomenon. Solar Phys. 4, 30.
+Uralov, A.M., Grechnev, V.V., Hudson, H.S.: 2005, Initial localization and kinematic characteristics of the structural components of a coronal mass ejection. J. Geophys. Res. 110, A05104.
+Uralova, S.V., Uralov, A.M.: 1994, WKB approach to the problem of MHD shock propagation through the heliospheric current sheet. Solar Phys. 152, 457.
+Vasanth, V., Umapathy, S., Vršnak, B., Žic, T., Prakash, O.: 2014, Investigation of the coronal magnetic field using a type II solar radio burst. Solar Phys. 289, 251.
+Vourlidas, A., Wu, S.T., Wang, A.H., Subramanian, P., Howard, R.A.: 2003, Direct detection of a coronal mass ejection-associated shock in Large Angle and Spectrometric Coronagraph experiment white-light images. Astrophys. J. 598, 1392.
+Vršnak, B., Cliver, E.W.: 2008, Origin of coronal shock waves. Invited review. Solar Phys. 253, 215.
+Vršnak, B., Žic, T., Lulić, S., Temmer, M., Veronig, A.M.: 2016, Formation of coronal large-amplitude waves and the chromospheric response. Solar Phys. 291, 89.
+Warmuth, A., Vršnak, B., Magdalenić, J., Hanslmeier, A., Otruba, W.: 2004, A multiwavelength study of solar flare waves. II. Perturbation characteristics and physical interpretation. Astron. Astrophys. 418, 1117.
+Wongwaitayakornkul, P., Haw, M.A., Li, H., Bellan, P.M.: 2019, Magnetically induced current piston for generating extreme-ultraviolet fronts in the solar corona. Astrophys. J. 874(2), 137.
+Zimovets, I., Vilmer, N., Chian, A.C.-L., Sharykin, I., Struminsky, A.: 2012, Spatially resolved observations of a split-band coronal type II radio burst. Astron. Astrophys. 547, A6.

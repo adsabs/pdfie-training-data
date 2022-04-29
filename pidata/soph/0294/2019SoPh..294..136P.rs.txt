@@ -1,0 +1,24 @@
+Aschwanden, M.J., Boerner, P., Schrijver, C.J., Malanushenko, A.: 2013, Automated temperature and emission measure analysis of coronal loops and active regions observed with the atmospheric imaging assembly on the solar dynamics observatory (SDO/AIA). Solar Phys. 283(1), 5.
+Boerner, P.F., Testa, P., Warren, H., Weber, M.A., Schrijver, C.J.: 2014, Photometric and thermal cross-calibration of solar EUV instruments. Solar Phys. 289(6), 2377.
+Cheng, X., Zhang, J., Saar, S.H., Ding, M.D.: 2012, Differential emission measure analysis of multiple structural components of coronal mass ejections in the inner corona. Astrophys. J. 761(1), 62.
+Cheung, M.C.M., Boerner, P., Schrijver, C.J., Testa, P., Chen, F., Peter, H., Malanushenko, A.: 2015, Thermal diagnostics with the atmospheric imaging assembly on board the solar dynamics observatory: A validated method for differential emission measure inversions. Astrophys. J. 807, 143.
+Cirtain, J.W., Golub, L., Winebarger, A.R., de Pontieu, B., Kobayashi, K., Moore, R.L., Walsh, R.W., Korreck, K.E., Weber, M., McCauley, P., Title, A., Kuzin, S., Deforest, C.E.: 2013, Energy release in the solar corona from spatially resolved magnetic braids. Nature 493, 501.
+Del Zanna, G.: 2013, The multi-thermal emission in solar active regions. Astron. Astrophys. 558, A73.
+Dudík, J., Janvier, M., Aulanier, G., Del Zanna, G., Karlický, M., Mason, H.E., Schmieder, B.: 2014, Slipping magnetic reconnection during an X-class solar flare observed by SDO/AIA. Astrophys. J. 784(2), 144.
+Fletcher, L., Hannah, I.G., Hudson, H.S., Innes, D.E.: 2013, Flare ribbon energetics in the early phase of an SDO flare. Astrophys. J. 771(2), 104.
+Hannah, I.G., Kontar, E.P.: 2012, Differential emission measures from the regularized inversion of Hinode and SDO data. Astron. Astrophys. 539, A146.
+Hannah, I.G., Kontar, E.P.: 2013, Multi-thermal dynamics and energetics of a coronal mass ejection in the low solar atmosphere. Astron. Astrophys. 553, A10.
+Hernandez-Perez, A., Su, Y., Veronig, A.M., Thalmann, J., Gömöry, P., Joshi, B.: 2019, Pre-eruption processes: Heating, particle acceleration, and the formation of a hot channel before the 2012 October 20 M9.0 limb flare. Astrophys. J. 874(2), 122.
+Kozarev, K.A., Korreck, K.E., Lobzin, V.V., Weber, M.A., Schwadron, N.A.: 2011, Off-limb solar coronal wavefronts from SDO/AIA extreme-ultraviolet observations – Implications for particle production. Astrophys. J. Lett. 733(2), L25.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275(1 – 2), 17.
+Morgan, H., Druckmüller, M.: 2014, Multi-scale Gaussian normalization for solar image processing. Solar Phys. 289(8), 2945.
+Morgan, H., Pickering, J.: 2019, Sites: Solar iterative temperature emission solver for differential emission measure inversion of EUV observations. Solar Phys.
+Morgan, H., Taroyan, Y.: 2017, Global conditions in the solar corona from 2010 to 2017. Sci. Adv. 3(7), e1602056.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Plowman, J., Kankelborg, C., Martens, P.: 2013, Fast differential emission measure inversion of solar coronal data. Astrophys. J. 771, 2.
+Su, Y., Veronig, A.M., Hannah, I.G., Cheung, M.C.M., Dennis, B.R., Holman, G.D., Gan, W., Li, Y.: 2018, Determination of differential emission measure from solar extreme ultraviolet images. Astrophys. J. Lett. 856(1), L17.
+Sun, J.Q., Cheng, X., Ding, M.D.: 2014, Differential emission measure analysis of a limb solar flare on 2012 July 19. Astrophys. J. 786(1), 73.
+Vanninathan, K., Veronig, A.M., Dissauer, K., Madjarska, M.S., Hannah, I.G., Kontar, E.P.: 2015, Coronal response to an EUV wave from DEM analysis. Astrophys. J. 812(2), 173.
+Vanninathan, K., Veronig, A.M., Dissauer, K., Temmer, M.: 2018, Plasma diagnostics of coronal dimming events. Astrophys. J. 857(1), 62.
+Veronig, A.M., Gömöry, P., Dissauer, K., Temmer, M., Vanninathan, K.: 2019, Spectroscopy and differential emission measure diagnostics of a coronal dimming associated with a fast halo CME. Astrophys. J. 879(2), 85.
+Warren, H.P., Winebarger, A.R., Brooks, D.H.: 2012, A systematic survey of high-temperature emission in solar active regions. Astrophys. J. 759(2), 141.

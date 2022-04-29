@@ -1,0 +1,19 @@
+Bowman, J.D., Cairns, I., Kaplan, D.L., Murphy, T., Oberoi, D., et al.: 2013, Science with the Murchison widefield array. Publ. Astron. Soc. Aust. 30, 31.
+Chen, B., Bastian, T.S., Shen, C., Gary, D.E., Krucker, S., Glesener, L.: 2015, Particle acceleration by a solar flare termination shock. Science 350, 1238.
+de Lera Acedo, E., Razavi-Ghods, N., Troop, N., Drought, N., Faulkner, A.J.: 2015, SKALA, a log-periodic array antenna for the SKA-low instrument: design, simulations, tests and system considerations. Exp. Astron. 39, 567.
+Kassim, N., White, S., Rodriquez, P., Hartman, J., Hicks, B., et al.: 2010, The Long Wavelength Array (LWA): A large HF/VHF array for solar physics, ionospheric science, and solar radar. In: Advanced Maui Optical and Space Surveillance Technologies Conference, E59.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lonsdale, C.J., Cappallo, R.J., Morales, M.F., Briggs, F.H., Benkevitch, L., et al.: 2009, The Murchison widefield array: Design overview. IEEE Proc. 97, 1497.
+McMullin, J.P., Waters, B., Schiebel, D., Young, W., Golap, K.: 2007, CASA architecture and applications. In: Shaw, R.A., Hill, F., Bell, D.J. (eds.) Astronomical Data Analysis Software and Systems XVI, Astronomical Society of the Pacific Conference Series 376, 127.
+Morosan, D.E., Gallagher, P.T., Zucca, P., Fallows, R., Carley, E.P., et al.: 2014, LOFAR tied-array imaging of type III solar radio bursts. Astron. Astrophys. 568, A67.
+Morosan, D.E., Gallagher, P.T., Zucca, P., O’Flannagain, A., Fallows, R., et al.: 2015, LOFAR tied-array imaging and spectroscopy of solar S bursts. Astron. Astrophys. 580, A65.
+Oberoi, D., Sharma, R., Rogers, A.E.E.: 2017, Estimating solar flux density at low radio frequencies using a sky brightness model. Solar Phys. 292, 75.
+Oberoi, D., Matthews, L.D., Cairns, I.H., Emrich, D., Lobzin, V., Lonsdale, C.J., et al.: 2011, First spectroscopic imaging observations of the Sun at low radio frequencies with the Murchison widefield array prototype. Astrophys. J. Lett. 728, L27.
+Offringa, A.R., Wayth, R.B., Hurley-Walker, N., Kaplan, D.L., Barry, N., et al.: 2015, The low-frequency environment of the Murchison widefield array: Radio-frequency interference analysis and mitigation. Publ. Astron. Soc. Aust. 32, e008.
+Ord, S.M., Crosse, B., Emrich, D., Pallot, D., Wayth, R.B., et al.: 2015, The Murchison widefield array correlator. Publ. Astron. Soc. Aust. 32, e006.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., et al.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Suresh, A., Sharma, R., Oberoi, D., Das, S.B., Pankratius, V., et al.: 2017, Wavelet-based characterization of small-scale solar emission features at low radio frequencies. Astrophys. J. 843, 19.
+Tingay, S.J., Oberoi, D., Cairns, I., Donea, A., Duffin, R., et al.: 2013, The Murchison widefield array: Solar science with the low frequency SKA precursor. J. Phys. Conf. Ser. 440, 012033.
+Tun Beltran, S.D., Cutchin, S., White, S.: 2015, A new look at type-III bursts and their use as coronal diagnostics. Solar Phys. 290, 2423.
+van Haarlem, M.P., Wise, M.W., Gunst, A.W., Heald, G., McKean, J.P., et al.: 2013, LOFAR: The LOw-Frequency ARray. Astron. Astrophys. 556, A2.

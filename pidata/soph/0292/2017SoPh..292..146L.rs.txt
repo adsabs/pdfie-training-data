@@ -1,0 +1,30 @@
+Arge, C.N., Henney, C.J., González Hernández, I., Toussaint, W.A., Koller, J., Godinez, H.C.: 2013, Solar wind 13. AIP Conf. Proc. 1539, 11.
+Braun, D.C., Duvall, T.L. Jr., LaBonte, B.J.: 1988, Astrophys. J. 335, 101.
+Braun, D.C., Duvall, T.L. Jr., LaBonte, B.J., Jefferies, S.M., Harvey, J.W., Pomerantz, M.A.: 1992, Astrophys. J. Lett. 391, L113.
+Braun, D.C., Lindsey, C.: 2001, Astrophys. J. Lett. 560, L189.
+Braun, D.C., Lindsey, C.: 2000, Solar Phys. 192, 307.
+Fontenla, J.M., Quémerais, E., González Hernández, I., Lindsey, C., Haberreiter, M.: 2009, Adv. Space Res. 44, 457.
+González Hernández, I., Hill, F., Lindsey, C.: 2007, Astrophys. J. 669, 1382.
+Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., Noyes, R.W., Title, A.M., Toomre, J., Ulrich, R.K., Bhatnagar, A., Kennewell, J.A., Marquette, W., Patron, J., Saa, O., Yasukawa, E.: 1996, Science 272, 1284.
+Henney, C.J., Hock, R.A., Schooley, A.K., Toussaint, W.A., White, S.M., Arge, C.N.: 2015, Space Weather 13, 141.
+Hickmann, K.S., Godinez, H.C., Henney, C.J., et al.: 2015, Solar Phys. 290, 1105.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Space Sci. Rev. 136, 67.
+Ilonidis, S., Zhao, J., Hartlep, T.: 2009, Solar Phys. 258, 181.
+Liewer, P.C., González Hernández, I., Hall, J.R., Thompson, W.T., Misrak, A.: 2012, Solar Phys. 281, 3.
+Liewer, P.C., Hall, J.R., Lindsey, C., Lin, X.: 2014, Solar Phys. 289, 3617.
+Lindsey, C., Braun, D.C.: 1997, Astrophys. J. 485, 895.
+Lindsey, C., Braun, D.C.: 2000, Science 287, 1799.
+Lindsey, C., Braun, D.C.: 2017, Space Weather 15, 761.
+MacDonald, G.A., Henney, C.J., Diaz Alfaro, M., González Hernández, I., Arge, C.N., Lindsey, C., McAteer, R.T.: 2015, Astrophys. J. 807, 21.
+Odstrcil, D., Riley, P., Zhao, X.P.: 2004, J. Geophys. Res. 109, A02116.
+Parker, D.G., Ulrich, R.K., Pap, J.M.: 1998, Solar Phys. 177, 229.
+Qiu, J., Liu, W., Hill, N., Kazachenko, M.: 2010, Astrophys. J. 725, 319.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., et al.: 1995, Solar Phys. 162, 129.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., et al.: 2012, Solar Phys. 275, 229.
+Ugarte-Urra, I., Upton, L., Warren, H.P., Hathaway, D.H.: 2015, Astrophys. J. 815, 90.
+Upton, L., Hathaway, D.H.: 2014a, Astrophys. J. 792, 142.
+Upton, L., Hathaway, D.H.: 2014b, Astrophys. J. 780, 5.
+van Driel-Gesztelyi, L., Green, L.M.: 2015, Evolution of active regions. Living Rev. Solar Phys. 12, 1.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1989, Solar Phys. 124, 81.
+Wuelser, J.-P., Lemen, J.R., Tarbell, T.D., Wolfson, C.J., Cannon, J.C., Carpenter, B.A., et al.: 2004, In: Fineschi, S., Gummin, M.A. (eds.) Telescopes and Instrumentation for Solar Astrophysics, Proc. SPIE 5171, 111.
+Zhao, J.W.: 2007, Astrophys. J. Lett. 664, L139.

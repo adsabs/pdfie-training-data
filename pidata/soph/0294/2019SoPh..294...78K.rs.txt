@@ -1,0 +1,20 @@
+Arlt, R.: 2008, Digitization of sunspot drawings by Staudacher in 1749 – 1796. Solar Phys. 247, 399.
+Arlt, R.: 2009, The butterfly diagram in the eighteenth century. Solar Phys. 255, 143.
+Arlt, R., Senthamizh Pavai, V., Schmiel, C., Spada, F.: 2016, Sunspot positions, areas, and group tilt angles for 1611 – 1631 from observations by Christoph Scheiner. Astron. Astrophys. 595, A104.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: assembling all corrections. Solar Phys. 291, 2629.
+Dikpati, M., Charbonneau, P.: 1999, A Babcock–Leighton flux transport dynamo with solar-like differential rotation. Astrophys. J. 518, 508.
+Hathaway, D.H.: 2015, The solar cycle. Living Rev. Solar Phys. 12, 4.
+Hoyt, D.V., Schatten, K.H.: 1995, A new interpretation of Christian Horrebow’s sunspot observations from 1761 to 1777. Solar Phys. 160, 387.
+Hoyt, D.V., Schatten, K.H.: 1998a, Group sunspot numbers: a new solar activity reconstruction. Solar Phys. 179, 189.
+Hoyt, D.V., Schatten, K.H.: 1998b, Group sunspot numbers: a new solar activity reconstruction. Solar Phys. 181, 491.
+Jørgensen, C.S., Karoff, C., Senthamizh Pavai, V., Rainer, A.: 2019, Christian Horrebow’s sunspot observations – I. Life and published writings. Solar Phys.
+Karoff, C., Inceoglu, F., Knudsen, M.F., Olsen, J., Fogtmann-Schulz, A.: 2015, The lost sunspot cycle: new support from
+Neuhäuser, R., Neuhäuser, D.L.: 2016, Sunspot numbers based on historic records in the 1610s: early telescopic observations by Simon Marius and others. Astron. Nachr. 337, 581.
+Neuhäuser, R., Arlt, R., Richter, S.: 2018, Reconstructed sunspot positions in the Maunder minimum based on the correspondence of Gottfried Kirch. Astron. Nachr. 339, 219.
+Pedersen, K.M., Schneider, A.: 2018, Dansk Biografisk Leksikon.
+Senthamizh Pavai, V., Arlt, R., Dasi-Espuig, M., Krivova, N.A., Solanki, S.K.: 2015a, Sunspot areas and tilt angles for solar cycles 7 – 10. Astron. Astrophys. 584, A73.
+Senthamizh Pavai, V., Arlt, R., Diercke, A., Denker, C., Vaquero, J.M.: 2016b, Sunspot group tilt angle measurements from historical observations. Adv. Space Res. 58, 1468.
+Svalgaard, L., Schatten, K.H.: 2016, Reconstruction of the sunspot group number: the backbone method. Solar Phys. 291, 2653.
+Thiele, T.N.: 1859, De Macularum Solis antiquioribus quibusdam obstervationibus Hafniae institutis, scripsit Th. N. Thiele, astr. stud. Astron. Nachr. 50, 257.
+Usoskin, I.G., Mursula, K., Arlt, R., Kovaltsov, G.A.: 2009, A solar cycle lost in 1793 – 1800: early sunspot observations resolve the old mystery. Astrophys. J. Lett. 700, L154.
+Wolf, R.: 1873, Astronomische Mittheilungen XXIII. Astron. Mitt. Eidgenöss. Sternwarte Zür. 4, 77.

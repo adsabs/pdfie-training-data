@@ -1,0 +1,47 @@
+Antolin, P., Vissers, G., Pereira, T.M.D., Rouppe van der Voort, L., Scullion, E.: 2015, The multithermal and multi-stranded nature of coronal rain. Astrophys. J. 806, 81.
+Artemyev, A.V., Zimovets, I.V., Rankin, R.: 2016, Electron trapping and acceleration by kinetic Alfvén waves in solar flares. Astron. Astrophys. 589, A101.
+Banerjee, D., Teriaca, L., Doyle, J.G., Wilhelm, K.: 1998, Broadening of SI VIII lines observed in the solar polar coronal holes. Astron. Astrophys. 339, 208.
+Benz, A.O., Wentzel, D.G.: 1981, Coronal evolution and solar type I radio bursts – an ion-acoustic wave model. Astron. Astrophys. 94, 100.
+Bian, N.H., Kontar, E.P.: 2010, A gyrofluid description of Alfvénic turbulence and its parallel electric field. Phys. Plasmas 17(6), 062308.
+Bian, N.H., Kontar, E.P.: 2011, Parallel electric field amplification by phase mixing of Alfvén waves. Astron. Astrophys. 527, A130.
+Bian, N.H., Tsiklauri, D.: 2009, Compressible Hall magnetohydrodynamics in a strong magnetic field. Phys. Plasmas 16(6), 064503.
+Bian, N.H., Kontar, E.P., Brown, J.C.: 2010, Parallel electric field generation by Alfvén wave turbulence. Astron. Astrophys. 519, A114.
+Bruno, R., Carbone, V.: 2013, The solar wind as a turbulence laboratory. Living Rev. Solar Phys. 10, 2.
+Chaston, C.C., Salem, C., Bonnell, J.W., Carlson, C.W., Ergun, R.E., Strangeway, R.J., McFadden, J.P.: 2008, The Turbulent Alfvénic Aurora. Phys. Rev. Lett. 100(17), 175003.
+Chen, C.H.K., Salem, C.S., Bonnell, J.W., Mozer, F.S., Bale, S.D.: 2012, Density fluctuation spectrum of solar wind turbulence between ion and electron scales. Phys. Rev. Lett. 109(3), 035001.
+Dulk, G.A., McLean, D.J.: 1978, Coronal magnetic fields. Solar Phys. 57, 279.
+Elgarøy, E.Ø.: 1977, Solar Noise Storms, Pergamon Press, Oxford.
+Goertz, C.K., Boswell, R.W.: 1979, Magnetosphere-ionosphere coupling. J. Geophys. Res. 84, 7239.
+Gopalswamy, N., Thejappa, G., Sastry, C.V., Tlamicha, A.: 1986, Estimation of coronal magnetic fields using Type-I emission. Bull. Astron. Inst. Czechoslov. 37, 115.
+Hamilton, R.J., Petrosian, V.: 1987, Generation of plasma waves by thick-target electron beams, and the expected radiation signature. Astrophys. J. 321, 721.
+Hasegawa, A., Chen, L.: 1975, Kinetic process of plasma heating due to Alfvén wave excitation. Phys. Rev. Lett. 35, 370.
+He, J., Tu, C., Marsch, E., Yao, S.: 2012, Do oblique Alfvén/Ion-cyclotron or fast-mode/Whistler waves dominate the dissipation of solar wind turbulence near the proton inertial length? Astrophys. J. Lett. 745, L8.
+Kontar, E.P., Ratcliffe, H., Bian, N.H.: 2012, Wave-particle interactions in non-uniform plasma and the interpretation of hard X-ray spectra in solar flares. Astron. Astrophys. 539, A43.
+Lysak, R.L., Lotko, W.: 1996, On the kinetic dispersion relation for shear Alfvén waves. J. Geophys. Res. 101, 5085.
+Marsch, E., Tu, C.-Y.: 1990, Spectral and spatial evolution of compressible turbulence in the inner solar wind. J. Geophys. Res. 95, 11945.
+Matthaeus, W.H., Zank, G.P., Oughton, S., Mullan, D.J., Dmitruk, P.: 1999, Coronal heating by magnetohydrodynamic turbulence driven by reflected low-frequency waves. Astrophys. J. Lett. 523, L93.
+McLean, D.J., Labrum, N.R.: 1985, Solar Radiophysics: Studies of Emission from the Sun at Metre Wavelengths, Cambridge University Press, Cambridge.
+Melrose, D.B.: 1980a, A plasma-emission mechanism for type I solar radio emission. Solar Phys. 67, 357.
+Melrose, D.B.: 1980b, Plasma Astrophysics: Nonthermal Processes in Diffuse Magnetized Plasmas. Astrophysical Applications 2, Gordon and Breach Science Publishers, New York.
+Melrose, D.B., Stenhouse, J.E.: 1977, Emission and absorption of Langmuir waves by anisotropic unmagnetized particles. Aust. J. Phys. 30, 481.
+Melrose, D.B., Wheatland, M.S.: 2014, Bulk energization of electrons in solar flares by Alfvén waves. Solar Phys. 289, 881.
+Morton, R.J., Tomczyk, S., Pinto, R.: 2015, Investigating Alfvénic wave propagation in coronal open-field regions. Nat. Commun. 6, 7813.
+Pierrard, V., Voitenko, Y.: 2013, Modification of proton velocity distributions by Alfvénic turbulence in the solar wind. Solar Phys. 288, 355.
+Ratcliffe, H.: 2013, Electron beam evolution and radio emission in the inhomogeneous solar corona. PhD thesis, University of Glasgow, United Kingdom.
+Ratcliffe, H., Kontar, E.P.: 2014, Plasma radio emission from inhomogeneous collisional plasma of a flaring loop. Astron. Astrophys. 562, A57.
+Reid, H.A.S., Kontar, E.P.: 2010, Solar wind density turbulence and solar flare electron transport from the Sun to the Earth. Astrophys. J. 721, 864.
+Rudakov, L., Crabtree, C., Ganguli, G., Mithaiwala, M.: 2012, Quasilinear evolution of plasma distribution functions and consequences on wave spectrum and perpendicular ion heating in the turbulent solar wind. Phys. Plasmas 19(4), 042704.
+Ryutov, D.D.: 1969, Quasilinear relaxation of an electron beam in an inhomogeneous plasma. Sov. Phys. JETP 30, 131.
+Schad, T.A., Penn, M.J., Lin, H., Judge, P.G.: 2016, Vector magnetic field measurements along a cooled stereo-imaged coronal loop. Astrophys. J. 833, 5.
+Spicer, D.S., Benz, A.O., Huba, J.D.: 1982, Solar type I noise storms and newly emerging magnetic flux. Astron. Astrophys. 105, 221.
+Stasiewicz, K., Bellan, P., Chaston, C., Kletzing, C., Lysak, R., Maggs, J., Pokhotelov, O., Seyler, C., Shukla, P., Stenflo, L., Streltsov, A., Wahlund, J.-E.: 2000, Small scale Alfvénic structure in the aurora. Space Sci. Rev. 92, 423.
+Thejappa, G.: 1991, A self-consistent model for the storm radio emission from the Sun. Solar Phys. 132, 173.
+Tsytovich, V.N., ter Haar, D.: 1995, Lectures on Non-linear Plasma Kinetics, Springer, Berlin.
+Vedenov, A.A., Velikhov, E.P.: 1963, Quasilinear approximation in the kinetic theory of a low-density plasma. Sov. Phys. JETP 16, 682.
+Voitenko, Y., De Keyser, J.: 2016, MHD-kinetic transition in imbalanced Alfvénic turbulence. Astrophys. J. Lett. 832, L20.
+Voitenko, Y., Goossens, M.: 2000, Nonlinear decay of phase-mixed Alfvén waves in the solar corona. Astron. Astrophys. 357, 1073.
+Voitenko, Y., Goossens, M.: 2006, Energization of plasma species by intermittent kinetic Alfvén waves. Space Sci. Rev. 122, 255.
+Voitenko, Y., Pierrard, V.: 2013, Velocity-space proton diffusion in the solar wind turbulence. Solar Phys. 288, 369.
+Voitenko, Y.M.: 1998, Excitation of kinetic Alfvén waves in a flaring loop. Solar Phys. 182, 411.
+Warmuth, A., Mann, G.: 2005, A model of the Alfvén speed in the solar corona. Astron. Astrophys. 435, 1123.
+Wentzel, D.G.: 1986, A theory for the solar type-I radio continuum. Solar Phys. 103, 141.

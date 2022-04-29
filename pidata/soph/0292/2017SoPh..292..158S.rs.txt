@@ -1,0 +1,62 @@
+Beckers, J.M.: 1998, Astron. Astrophys. Suppl. 129, 191.
+Bershady, M.A.: 2009, ArXiv e-prints.
+Breckinridge, J.B.: 1971, Appl. Opt. 10, 286.
+Calcines, A., López, R.L., Collados, M., Vega Reyes, N.: 2014, In: Ground-Based and Airborne Instrumentation for Astronomy V, Proc. SPIE 9147, 91473I.
+Cao, W., Denker, C.J., Wang, H., Ma, J., Qu, M., Wang, J., Goode, P.R.: 2004, In: Fineschi, S., Gummin, M.A. (eds.) Telescopes and Instrumentation for Solar Astrophysics, Proc. SPIE 5171, 307.
+Cao, W., Jing, J., Ma, J., Xu, Y., Wang, H., Goode, P.R.: 2006, Publ. Astron. Soc. Pac. 118, 838.
+Cao, W., Goode, P.R., Ahn, K., Gorceix, N., Schmidt, W., Lin, H.: 2012, In: Rimmele, T.R., Tritschler, A., Wöger, F., Collados Vera, M., Socas-Navarro, H., Schlichenmaier, R., Carlsson, M., Berger, T., Cadavid, A., Gilbert, P.R., Goode, P.R., Knölker, M. (eds.) Second ATST-EAST Meeting: Magnetic Fields from the Photosphere to the Corona, Astronomical Society of the Pacific Conference Series 463, 291.
+Casini, R., Judge, P.G., Schad, T.A.: 2012, Astrophys. J. 756, 194.
+Cavallini, F.: 2006, Solar Phys. 236, 415.
+Chae, J., Park, H.-M., Ahn, K., Yang, H., Park, Y.-D., Nah, J., Jang, B.H., Cho, K.-S., Cao, W., Goode, P.R.: 2013, Solar Phys. 288(1), 1.
+Collados, M., López, R., Páez, E., Hernández, E., Reyes, M., Calcines, A., Ballesteros, E., Díaz, J.J., Denker, C., Lagg, A., Schlichenmaier, R., Schmidt, W., Solanki, S.K., Strassmeier, K.G., von der Lühe, O., Volkmer, R.: 2012, Astron. Nachr. 333, 872.
+Doerr, H.-P., von der Lühe, O. II, Kentischer, T.J.: 2008, In: Ground-Based and Airborne Instrumentation for Astronomy II, Proc. SPIE 7014, 701417.
+Dunn, R.B.: 1964, Appl. Opt. 3, 1353.
+Dunn, R.B., Smartt, R.N.: 1991, Adv. Space Res. 11, 139.
+Erickson, E.F., Rabanus, D.: 2000, Appl. Opt. 39(25), 4486.
+Freeland, S.L., Handy, B.N.: 1998, Solar Phys. 182, 497.
+Harvey, J., Hall, D.: 1971, In: Howard, R. (ed.) Solar Magnetic Fields, IAU Symposium 43, 279.
+Jaeggli, S.A., Lin, H., Mickey, D.L., Kuhn, J.R., Hegwer, S.L., Rimmele, T.R., Penn, M.J.: 2010, Mem. Soc. Astron. Ital. 81, 763.
+Johanneson, A., Bida, T., Lites, B., Scharmer, G.B.: 1992, Astron. Astrophys. 258, 572.
+Katsukawa, Y., Kamata, Y., Anan, T., Hara, H., Suematsu, Y., Bando, T., Ichimoto, K., Shimizu, T.: 2016, In: Space Telescopes and Instrumentation 2016: Optical, Infrared, and Millimeter Wave, Proc. SPIE 9904, 99045I.
+Keller, C.U., Johannesson, A.: 1995, Astron. Astrophys. Suppl. 110, 565.
+Kentischer, T.J., Schmidt, W.., von der Lühe, O., Sigwarth, M., Bell, A., Halbgewachs, C., Fischer, A.: 2012, The Visible Tunable Filtergraph for the ATST. 8446, 844677.
+Kiselman, D., Pereira, T.M.D., Gustafsson, B., Asplund, M., Meléndez, J., Langhans, K.: 2011, Astron. Astrophys. 535, A14.
+Kleint, L., Gandorfer, A.: 2015, Space Sci. Rev.
+Kuckein, C., Martínez Pillet, V., Centeno, R.: 2012, Astron. Astrophys. 542, A112.
+Lagg, A., Lites, B., Harvey, J., Gosain, S., Centeno, R.: 2015, Space Sci. Rev.
+Lee, D.T., Schachter, B.J.: 1980, Int. J. Comput. Inf. Sci. 9(3), 219.
+Leenaarts, J., Golding, T., Carlsson, M., Libbrecht, T., Joshi, J.: 2016, Astron. Astrophys. 594, A104.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, Solar Phys. 275, 17.
+Lin, H.: 2014, mxSPEC: A Massively Multiplexed Full-Disk Spectroheliograph for Solar Physics Research. 9147, 914712.
+Lin, H.: 2016, Front. Astron. Space Sci. 3, 9.
+Lin, H., Versteegh, A.: 2006, In: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Proc. SPIE 6269, 62690K.
+López Ariste, A., Le Men, C., Gelly, B., Asensio Ramos, A.: 2010, Astron. Nachr. 331, 658.
+Marino, J., Rimmele, T.: 2010, Appl. Opt. 49(31), G95.
+Martin, S.F., Ramsey, H.E., Carroll, G.A., Martin, D.C.: 1974, Solar Phys. 37, 343.
+Mein, P.: 1977, Solar Phys. 54, 45.
+Mein, P.: 1991, Astron. Astrophys. 248, 669.
+November, L.J., Simon, G.W.: 1988, Astrophys. J. 333, 427.
+Penn, M.J.: 2014, Living Rev. Solar Phys. 11(1), 2.
+Reardon, K.P., Cavallini, F.: 2008, Astron. Astrophys. 481, 897.
+Rimmele, T.R.: 1994, Astron. Astrophys. 290, 972.
+Rimmele, T.R., Marino, J.: 2011, Living Rev. Solar Phys. 8(1), 2.
+Rimmele, T.R., Richards, K., Hegwer, S., Fletcher, S., Gregory, S., Moretto, G., Didkovsky, L.V., Denker, C.J., Dolgushin, A., Goode, P.R., Langlois, M., Marino, J., Marquette, W.: 2004, In: Fineschi, S., Gummin, M.A. (eds.) Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series 5171, 179.
+Rimmele, T., McMullin, J., Warner, M., Craig, S., Woeger, F., Tritschler, A., Cassini, R., Kuhn, J., Lin, H., Schmidt, W., Berukoff, S., Reardon, K., Goode, P., Knoelker, M., Rosner, R., Mathioudakis, M. (DKIST TEAM): 2015, In: IAU General Assembly 22, 2255176.
+Robertson, J.G.: 2013, Publ. Astron. Soc. Aust. 30, e048.
+Schad, T.A.: 2016, AGU Fall Meeting Abstracts.
+Schad, T.A., Penn, M.J., Lin, H., Judge, P.G.: 2016, Astrophys. J. 833, 5.
+Schad, T., Lin, H., Ichimoto, K., Katsukawa, Y.: 2014, In: Ground-Based and Airborne Instrumentation for Astronomy V, Proc. SPIE 9147, 91476E.
+Scharmer, G.B., Narayan, G., Hillberg, T., de la Cruz Rodriguez, J., Löfdahl, M.G., Kiselman, D., Sütterlin, P., van Noort, M., Lagg, A.: 2008, Astrophys. J. Lett. 689, L69.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, Solar Phys. 275, 207.
+Schmidt, D., Gorceix, N., Goode, P.R., Marino, J., Rimmele, T., Berkefeld, T., Wöger, F., Zhang, X., Rigaut, F., von der Lühe, O.: 2017, Astron. Astrophys. 597, L8.
+Schmidt, W., Schubert, M., Ellwarth, M., Baumgartner, J., Bell, A., Fischer, A., Halbgewachs, C., Heidecke, F., Kentischer, T., von der Lühe, O., Scheiffelen, T., Sigwarth, M.: 2016, In: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Proc. SPIE 9908, 99084N.
+Semel, M.: 2003, Astron. Astrophys. 401, 1.
+Sigwarth, M., Baumgartner, J., Bell, A., Cagnoli, G., Fischer, A., Halbgewachs, C., Heidecke, F., Kentischer, T.J., Kestner, B., Kuschnir, P., von der Lühe, O., Pinard, L., Michel, C., Reichman, W.J., Sassolas, B., Scheiffelen, T., Schmidt, W.: 2016, Development of High Reflectivity Coatings for Large Format Fabry–Perot Etalons. 9908, 99084F.
+Socas-Navarro, H.: 2010, Astron. Nachr. 331, 581.
+Srivastava, N., Mathew, S.K.: 1999, Solar Phys. 185, 61.
+Suematsu, Y., Saito, K., Koyama, M., Enokida, Y., Okura, Y., Nakayasu, T., Sukegawa, T.: 2016, In: Space Telescopes and Instrumentation 2016: Optical, Infrared, and Millimeter Wave, Proc. SPIE 9904, 990411.
+van Noort, M., Rouppe van der Voort, L., Löfdahl, M.G.: 2005, Solar Phys. 228, 191.
+Vissers, G., Rouppe van der Voort, L.: 2012, Astrophys. J. 750, 22.
+von der Lühe, O., Kentischer, T.J.: 2000, Astron. Astrophys. Suppl. 146, 499.
+Wallace, L., Livingston, W., Hinkle, K., Bernath, P.: 1996, Astrophys. J. Suppl. 106, 165.
+Wöger, F., von der Lühe, O., Reardon, K.: 2008, Astron. Astrophys. 488, 375.

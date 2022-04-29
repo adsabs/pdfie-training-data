@@ -1,0 +1,71 @@
+Atwood, W.B., Abdo, A.A., Ackermann, M., Althouse, W., Anderson, B., Axelsson, M., Baldini, L., Ballet, J., Band, D.L., Barbiellini, G., et al.: 2009, The large area telescope on the Fermi gamma-ray space telescope mission. Astrophys. J. 697, 1071.
+Augusto, C.R.A., Navia, C.E., de Oliveira, M.N., Nepomuceno, A.A., Fauth, A.C., Kopenkin, V., Sinzi, T.: 2019, Relativistic proton levels from region AR2673 (GLE #72) and the heliospheric current sheet as a Sun – Earth magnetic connection. Publ. Astron. Soc. Pac. 131, 024401.
+Belov, A., Eroshenko, E., Kryakunova, O., Kurt, V., Yanke, V.: 2010, Ground level enhancements of solar cosmic rays during the last three solar cycles. Geomagn. Aeron. 50, 21.
+Berger, T., Matthiä, D., Burmeister, S., Rios, R., Lee, K., Semones, E., Hassler, D.H., Stoffle, N., Zeitlin, C.: 2018, The solar particle event on 10 September 2017 as observed on-board the International Space Station (ISS). Space Weather.
+Bieber, J.W., Evenson, P.: 1995, Spaceship Earth – An optimized network of neutron monitors. In: Proc. 24th ICRC 4, 1316.
+Bütikofer, R., Flückiger, E.O., for the NMDB team: 2009, Near real-time determination of ionization and radiation dose rates induced by cosmic rays in the Earth’s atmosphere – a NMDB application. In: Proc. 31st ICRC (in CD), icrc1137.
+Bütikofer, R., Flückiger, E.O., Desorgher, L., Moser, M.R., Pirard, B.: 2009, The solar cosmic ray ground-level enhancements on 20 January 2005 and 13 December 2006. Adv. Space Res. 43, 499.
+Chertok, I.: 2018, Diagnostic analysis of the solar proton flares of September 2017 by their radio bursts. Geomagn. Aeron. 58, 457.
+Cohen, C.M.S., Mewaldt, R.A.: 2018, The ground-level enhancement event of September 2017 and other large solar energetic particle events of Cycle 24. Space Weather 16, 10.
+Copeland, K., Matthiä, D., Meier, M.: 2018, Solar cosmic ray dose rate assessments during GLE 72 using MIRA and PANDOCA. Space Weather 16, 969.
+Cramp, J.L., Duldig, M.L., Flückiger, E.O., Humble, J.E., Shea, M.A., Smart, D.F.: 1997, The October 22, 1989, solar cosmic ray enhancement: An analysis of the anisotropy and spectral characteristics. J. Geophys. Res. 102, 24237.
+Dennis, B.R., Zarro, D.M.: 1993, The Neupert effect – What can it tell us about the impulsive and gradual phases of solar flares? Solar Phys. 146, 177.
+Dennis, B., Veronig, A., Schwartz, R.A., Sui, L., Tolbert, A.K., Zarro, D.M. (RHESSI Team): 2003, The Neupert effect and new RHESSI measures of the total energy in electrons accelerated in solar flares. Adv. Space Res. 32, 2459.
+Duldig, M.L., Watts, D.J.: 2001, The new international GLE database. In: Proc. ICRC 2001 8, 3409.
+Ehresmann, B., Hassler, D.M., Zeitlin, C., Guo, J., Wimmer-Schweingruber, R.F., Matthiä, D., Lohf, H., Burmeister, S., Rafkin, S.C.R., Berger, T., Reitz, G.: 2018, Energetic particle radiation environment observed by RAD on the surface of Mars during the September 2017 event. Geophys. Res. Lett. 45, 5305.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., Battaglia, M., Bone, L., Caspi, A., Chen, Q., Gallagher, P., Grigis, P.T., Ji, H., Liu, W., Milligan, R.O., Temmer, M.: 2011, An observational overview of solar flares. Space Sci. Rev. 159, 19.
+Forbush, S.: 1946, Three unusual cosmic-ray increases possibly due to charged particles from the Sun. Phys. Rev. 70, 771.
+Gary, D.E., Chen, B., Dennis, B.R., Fleishman, G.D., Hurford, G.J., Krucker, S., McTiernan, J.M., Nita, G.M., Shih, A.Y., White, S.M., Yu, S.: 2018, Microwave and hard X-ray observations of the 2017 September Solar limb flare. Astrophys. J. 863, 83.
+Gopalswamy, N., Xie, H., Mäkelä, P., Yashiro, S., Akiyama, S., Uddin, W., Srivastava, A.K., Joshi, N.C., Chandra, R., Manoharan, P.K., Mahalakshmi, K., Dwivedi, V.C., Jain, R., Awasthi, A.K., Nitta, N.V., Aschwanden, M.J., Choudhary, D.P.: 2013, Height of shock formation in the solar corona inferred from observations of type II radio bursts and coronal mass ejections. Adv. Space Res. 51, 1981.
+Gopalswamy, N., Mäkelä, P., Akiyama, S., Yashiro, S., Xie, H., Thakur, N.: 2018, Extreme kinematics of the 2017 September 10 solar eruption and the spectral characteristics of the associated energetic particles. Astrophys. J. Lett. 863, L39.
+Hurford, G.J., Schmahl, E.J., Schwartz, R.A., Conway, A.J., Aschwanden, M.J., Csillaghy, A., Dennis, B.R., Johns-Krull, C., Krucker, S., Lin, R.P., McTiernan, J., Metcalf, T.L., Sato, J., Smith, D.M.: 2002, The RHESSI imaging concept. Solar Phys. 210, 61.
+Kallenrode, M.-B., Wibberenz, G.: 1990, Influence of interplanetary propagation on particle onsets. In: Proc. 21st ICRC 5, 229.
+Kopp, R.A., Pneuman, G.W.: 1976, Magnetic reconnection in the corona and the loop prominence phenomenon. Solar Phys. 50, 85.
+Kopp, R.A., Poletto, G.: 1984, Extension of the reconnection theory of two-ribbon solar flares. Solar Phys. 93, 351.
+Kurt, V., Yushkov, B., Belov, A., Chertok, I., Grechnev, V.: 2013a, Determination of acceleration time of protons responsible for the GLE onset. J. Phys. Conf. Ser. 409, 012151.
+Kurt, V.G., Kudela, K., Yushkov, B.Y., Galkin, V.I.: 2013b, On the onset time of several SPE/GLE events: indications from high-energy gamma-ray and neutron measurements by CORONAS-F. Adv. Astron. 2013, 690921.
+Kurt, V., Belov, A., Kudela, K., Yushkov, B.: 2018, Some characteristics of the GLE on 10 September 2017. Contrib. Astron. Obs. Skaln. Pleso 48, 329.
+Kuwabara, K., Bieber, J., Clem, J., Evenson, P., Pyle, R., Munakata, K., Yasue, S., Kato, C., Akahane, S., Koyama, M., Fujii, F., Duldig, M.L., Humble, J.E., Silva, M.R., Trivedi, N.B., Gonzalez, W.D., Schuch, N.J.: 2006, Real-time cosmic ray monitoring system for space weather. Space Weather 4, S08001.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, Ch.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Li, Y.-P., Gan, W.-Q.: 2005, A scenario of the X4.8 flare of 2002 July 23 based on RHESSI and TRACE observations. Chin. Astron. Astrophys. 29, 61.
+Litvinenko, Yu., Somov, B.: 1995, Relativistic acceleration of protons in reconnecting current sheets of solar flares. Solar Phys. 158, 317.
+Liu, W., Jin, M., Downs, C., Ofman, L., Cheung, M.C.M., Nitta, N.V.: 2018, A truly global EUV wave from the SOL2017-09-10 X8.2 solar flare-CME eruption. Astrophys. J. Lett. 864, L24.
+Mavromichalaki, H., Papaioannou, A., Plainaki, C., Sarlanis, C., Souvatzoglou, G., Gerontidou, M., Papailiou, M., Eroshenko, E., Belov, A., Yanke, V., Flückiger, E.O., Bütikofer, R., Parisi, M., Storini, M., Klein, K.-L., Fuller, N., Steigies, C.T., Rother, O.M., Heber, B., Wimmer-Schweingruber, R.F., Kudela, K., Strharsky, I., Langer, R., Usoskin, I., Ibragimov, A., Chilingaryan, A., Hovsepyan, G., Reymers, A., Yeghikyan, A., Kryakunova, O., Dryn, E., Nikolayevskiy, N., Dorman, L., Pustil’nik, L.: 2011, Applications and usage of the real-time neutron monitor database. Adv. Space Res. 47, 2210.
+Mavromichalaki, H., Gerontidou, M., Paschalis, P., Paouris, E., Tezari, A., Sgouropoulos, C., Crosby, N., Dierckxsens, M.: 2018, Real-time detection of the ground level enhancement on 10 September 2017 by A.Ne.Mo.S.: System report. Space Weather 16, 1797.
+Miroshnichenko, L.I.: 2015, Solar Cosmic Rays: Fundamentals and Applications, Astrophys. and Space Scie. Lib. 405, Springer, Berlin.
+Mishev, A., Poluianov, S., Usoskin, I.: 2017, Assessment of spectral and angular characteristics of sub- GLE events using the global neutron monitor network. J. Space Weather Space Clim. 7, A28.
+Mishev, A.L., Usoskin, I.G.: 2018, Assessment of the radiation environment at commercial jet-flight altitudes during GLE 72 on September 10, 2017 using neutron monitor data. Space Weather 16, 1921.
+Mishev, A., Tuohino, S., Usoskin, I.: 2018, Neutron monitor count rate increase as a proxy for dose rate assessment at aviation altitudes during GLEs. J. Space Weather Space Clim. 8, A46.
+Mishev, A., Usoskin, I., Raukunen, O., Paassilta, M., Valtonen, E., Kocharov, L., Vainio, R.: 2018, First analysis of Ground-Level Enhancement (GLE) 72 on September 2017: Spectral and anisotropy characteristics. Solar Phys. 293, 136.
+Moraal, H., McCracken, K.: 2012, The time structure of ground level enhancements in Solar Cycle 23. Space Sci. Rev. 171, 85.
+Murphy, R., Dermer, C., Ramaty, R.: 1987, High-energy processes in solar flares. Astron. Astrophys. Suppl. Ser. 63, 721.
+Neupert, W.: 1968, Comparison of solar X-ray line emission with microwave emission during flares. Astrophys. J. Lett. 153, L59.
+Omodei, N., Pesce-Rollins, M., Longo, F., Allafort, A., Krucker, S.: 2018, Fermi-LAT observations of the 2017 September 10th solar flare. Astrophys. J. Lett. 865, L7.
+Petrosian, V.: 2012, Stochastic acceleration by turbulence. Space Sci. Rev. 173, 535.
+Plainaki, C., Mavromichalaki, H., Belov, A., Eroshenko, E., Yanke, V.: 2009, Neutron monitor asymptotic directions of viewing during the event of 13 December 2006. Adv. Space Res. 43, 518.
+Plotnikov, I., Rouillard, A., Share, G.: 2017, The magnetic connectivity of coronal shocks from behind-the-limb flares to the visible solar surface during gamma-ray events. Astron. Astrophys. 608, A43.
+Poletto, G., Kopp, R.A.: 1986, Macroscopic electric fields during two-ribbon flares. In “The lower atmosphere of solar flares”. In: Neidig, D. (ed.) Proc. Solar Maximum Mission Symp., 453.
+Polito, V., Dudík, J., Kašparová, J., Dzifčáková, E., Reeves, K.K., Testa, P., Chen, B.: 2018, Broad non-Gaussian Fe XXIV line profiles in the impulsive phase of the 2017 September 10 X8.3 class flare observed by Hinode/EIS. Astrophys. J. 864, 63.
+Poluianov, S., Usoskin, I., Mishev, A., Shea, M., Smart, D.F.: 2017, GLE and sub-GLE redefinition in the light of high-altitude polar neutron monitors. Solar Phys. 292, 176.
+Ramaty, R., Murphy, R.: 1987, Nuclear processes and accelerated particles in solar flares. Space Sci. Rev. 45, 213.
+Reames, D.: 2013, The two sources of solar energetic particles. Space Sci. Rev. 175, 53.
+Reames, D.V.: 2009a, Solar release time of energetic particles in ground-level events. Astrophys. J. 693, 812.
+Reames, D.V.: 2009b, Solar energetic-particle release times in historical ground-level events. Astrophys. J. 706, 844.
+Ryan, J.: 2000, Long-duration solar gamma-ray flares. Space Sci. Rev. 93, 581.
+Ryan, J., Lockwood, J., Debrunner, H.: 2000, Solar energetic particles. Space Sci. Rev. 93, 35.
+Schwadron, N.A., Rahmanifard, F., Wilson, J., Jordan, A.P., Spence, H.E., Joyce, C.J., Blake, J.B., Case, A.W., de Wet, W., Farrell, W.M., Kasper, J.C., Looper, M.D., Lugaz, N., Mays, L., Mazur, J.E., Niehof, J., Petro, N., Smith, C.W., Townsend, L.W., Winslow, R., Zeitlin, C.: 2018, Update on the worsening particle radiation environment observed by CRaTER and 802 implications for future human deep-space exploration. Space Weather 16, 289.
+Seaton, D., Darnel, J.M.: 2018, Observations of an eruptive solar flare in the extended EUV solar corona. Astrophys. J. Lett. 852, L9.
+Share, G., Murphy, R., Tolbert, A.K., Dennis, B.R., White, S.M., Schwartz, R.A., Tylka, A.J.: 2018, Characteristics of sustained {>} 100~MeV gamma-ray emission associated with solar flares. Astrophys. J. 869, 182.
+Shea, M.A., Smart, D.F.: 1990, A summary of major solar proton events. Solar Phys. 127, 297.
+Shea, M.A., Smart, D.F., Pyle, K.R., Duldig, M.L., Humble, J.E.: 2001, Update on the GLE database; Solar Cycle 19. In: Proc. ICRC 2001, 3405.
+Souvatzoglou, G., Papaioannou, A., Mavromichalaki, H., Dimitroulakos, J., Sarlanis, C.: 2014, Optimizing the real-time ground level enhancement alert system based on neutron monitor measurements: Introducing GLE alert plus. Space Weather 12, 633.
+Strauss, R.D., Ogunjobi, O., Moraal, H., McCracken, G., Caballero-Lopez, R.A.: 2017, On the pulse shape of ground-level enhancements. Solar Phys. 292, 51.
+Sui, L., Holman, D.: 2003, Evidence for the formation of a large-scale current sheet in a solar flare. Astrophys. J. 596, L251.
+Temmer, M., Veronig, A., Vršnak, B., Rybák, J., Gömöry, P., Stoiser, S., Maričić, D.: 2008, Acceleration in fast halo CMEs and synchronized flare HXR bursts. Astrophys. J. Lett. 673, L95.
+Tsyganenko, N.A.: 1989, Magnetospheric magnetic field model with a warped tail current sheet. Planet. Space Sci. 37, 5.
+Tylka, A., Lee, M.: 2006, A model for spectral and compositional variability at high energiesin large, gradual solar particle events. Astrophys. J. 646, 1319.
+Veronig, A., Vršnak, B., Dennis, B.R., Temmer, M., Hanslmeier, A., Magdalenic, J.: 2002, Investigation of the Neupert effect in solar flares. I. Statistical properties and the evaporation model. Astron. Astrophys. 392, 699.
+Warren, H.P., Brooks, D.H., Ugarte-Urra, I., Reep, J.W., Crump, N.A., Doschek, G.A.: 2018, Spectroscopic observations of current sheet formation and evolution. Astrophys. J. 854, 122.
+Yan, X.L., Yang, L.H., Xue, Z.K., Mei, Z.X., Kong, D.F., Wang, J.C., Li, Q.L.: 2018, Simultaneous observation of a flux rope eruption and magnetic reconnection during an X-class solar flare. Astrophys. J. Lett. 853, L18.
+Zhao, M.-X., Le, G.-M., Chi, Y.-T.: 2018, Investigation of the possible source for the solar energetic particle event on 2017 September 10. Res. Astron. Astrophys. 18, 74.
+Zharkova, V.V., Arzner, K., Benz, A.O., Browning, P., Dauphin, C., Emslie, A.G., Fletcher, L., Kontar, E.P., Mann, G., Onofri, M., Petrosian, V., Turkmani, R., Vilmer, N., Vlahos, L.: 2011, Recent advances in understanding particle acceleration processes in solar flares. Space Sci. Rev. 159, 357.

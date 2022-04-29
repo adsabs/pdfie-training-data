@@ -1,0 +1,29 @@
+Bronarska, K., Michalek, G.: 2018, Determination of projection effects of CMEs using quadrature observations with the two STEREO spacecraft. Adv. Space Res. 62, 408.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Gopalswamy, N.: 2002, Relation between coronal mass ejections and their interplanetary counterparts. In: Wang, H., Xu, R. (eds.) Solar-Terrestrial Magnetic Activity Space Environ. 14, 157.
+Gopalswamy, N., Kaiser, M.L., Lepping, R.P., Kahler, S.W., Ogilvie, K., Berdichevsky, D., Kondo, T., Isobe, T., Akioka, M.: 1998, Origin of coronal and interplanetary shocks: a new look with WIND spacecraft data. J. Geophys. Res. 103, 307.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000a, Interplanetary acceleration of coronal mass ejections. Geophys. Res. Lett. 27, 145.
+Gopalswamy, N., Kaiser, M.L., Thompson, B.J., Burlaga, L.F., Szabo, A., Lara, A., Vourlidas, A., Yashiro, S., Bougeret, J.-L.: 2000b, Radio-rich solar eruptive events. Geophys. Res. Lett. 27, 1427.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2001a, Characteristics of coronal mass ejections associated with long-wavelength type II radio bursts. J. Geophys. Res. 106, 29219.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001b, Predicting the 1-AU arrival times of coronal mass ejections. J. Geophys. Res. 106, 29207.
+Gopalswamy, N., Yashiro, S., Michałek, G., Kaiser, M.L., Howard, R.A., Reames, D.V., Leske, R., von Rosenvinge, T.: 2002, Interacting coronal mass ejections and solar energetic particles. Astrophys. J. 572, L103.
+Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009, The SOHO/LASCO CME catalog. Earth Moon Planets 104, 295.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: an introduction. Space Sci. Rev. 136, 5.
+Kim, R.-S., Cho, K.-S., Moon, Y.-J., Kim, Y.-H., Yi, Y., Dryer, M., Bong, S.-C., Park, Y.-D.: 2005, Forecast evaluation of the coronal mass ejection (CME) geoeffectiveness using halo CMEs from 1997 to 2003. J. Geophys. Res. 110, A11104.
+Manoharan, P.K.: 2006, Evolution of coronal mass ejections in the inner heliosphere: a study using white-light and scintillation images. Solar Phys. 235, 345.
+Manoharan, P.K.: 2010, Solar cycle changes of large-scale solar wind structure. In: Kosovichev, A.G., Andrei, A.H., Rozelot, J.-P. (eds.) Solar and Stellar Variability: Impact on Earth and Planets, IAU Symp. 264, Cambridge Univ. Press, Cambridge, 356.
+Manoharan, P.K., Mujiber Rahman, A.: 2011, Coronal mass ejections – propagation time and associated internal energy. J. Atmos. Solar-Terr. Phys. 73, 671.
+Manoharan, P.K., Gopalswamy, N., Yashiro, S., Lara, A., Michalek, G., Howard, R.A.: 2004, Influence of coronal mass ejection interaction on propagation of interplanetary shocks. J. Geophys. Res. 109, A06109.
+Michałek, G., Gopalswamy, N., Yashiro, S.: 2003, A new method for estimating widths, velocities, and source location of halo coronal mass ejections. Astrophys. J. 584, 472.
+Michalek, G., Gopalswamy, N., Yashiro, S.: 2017, CME velocity and acceleration error estimates using the bootstrap method. Solar Phys. 292, 114.
+Michałek, G., Gopalswamy, N., Lara, A., Manoharan, P.K.: 2004, Arrival time of halo coronal mass ejections in the vicinity of the Earth. Astron. Astrophys. 423, 729.
+Moon, Y., Cho, K., Dryer, M., Kim, Y., Bong, S., Chae, J., Park, Y.: 2005, New geoeffective parameters of very fast Halo Coronal Mass. In: AGU Spring Meeting Abstracts, SH23A.
+Shanmugaraju, A., Vršnak, B.: 2014, Transit time of coronal mass ejections under different ambient solar wind conditions. Solar Phys. 289, 339.
+Shanmugaraju, A., Syed Ibrahim, M., Moon, Y.-J., Mujiber Rahman, A., Umapathy, S.: 2015, Empirical relationship between CME parameters and geo-effectiveness of halo CMEs in the rising phase of Solar Cycle 24 (2011 – 2013). Solar Phys. 290, 1417.
+Smart, D.F., Shea, M.A.: 1985, A simplified model for timing the arrival of solar flare-initiated shocks. J. Geophys. Res. 90, 183.
+Smith, Z., Dryer, M.: 1990, Magnetohydrodynamic study of temporal and spatial evolution of simulated interplanetary shocks in the ecliptic plane within 1-A.U. Solar Phys. 129, 387.
+Srivastava, N., Venkatakrishnan, P.: 2002, Relationship between CME speed and geomagnetic storm intensity. Geophys. Res. Lett. 29, 1287.
+Syed Ibrahim, M., Manoharan, P.K., Shanmugaraju, A.: 2017, Propagation of coronal mass ejections observed during the rising phase of Solar Cycle 24. Solar Phys. 292, 133.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: the drag-based model. Solar Phys. 285, 295.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, A catalog of white light coronal mass ejections observed by the SOHO spacecraft. J. Geophys. Res. 109, A07105.
+Yashiro, S., Gopalswamy, N., Akiyama, S., Makela, P.A., Xie, H.: 2014, Association rate of major SEP events as a function of CME speed and source longitude. In: AGU Fall Meeting Abstracts 2014, SH43A.

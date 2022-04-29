@@ -1,0 +1,71 @@
+Arge, C., Henney, C., Koller, J., Compeau, C., Young, S., MacKenzie, D., Fay, J., Harvey, A.: 2010, In: Maksimovic, M., Issautier, K., Meyer-Vernet, N., Moncuquet, M., Pantellini, F. (eds.) Twelfth Int. Solar Wind Conf. CP-1216, AIP, Melville, 343.
+Arge, C.N., Henney, C.J., Gonzalez-Hernandez, I., Toussaint, W.A., Koller, J., Godinez, H.C.: 2013, In: Zank, G.P., Borovsky, J., Bruno, R., Cirtain, J., Cranmer, S., Elliott, H., et al. (eds.) Solar Wind 13: Proc. 13th Int. Solar Wind Conf., CS-1539, AIP, Melville, 11.
+Bavassano, B., Woo, R., Bruno, R.: 1997, Geophys. Res. Lett. 24, 1655.
+Belcher, J.W., Davis, L. Jr.: 1971, J. Geophys. Res. 76, 3534.
+Borovsky, J.E., Denton, M.H.: 2013, J. Geophys. Res. 118, 5506.
+Chi, Y., Shen, C., Wang, Y., Xu, M., Ye, P., Wang, S.: 2016, Solar Phys. 291, 2419.
+Crooker, N.U., McPherron, R.L., Owens, M.J.: 2014, J. Geophys. Res. 119, 4157.
+Crooker, N.U., Huang, C.-L., Lamassa, S.M., Larson, D.E., Kahler, S.W., Spence, H.E.: 2004a, J. Geophys. Res. 109, A03107.
+Crooker, N.U., Kahler, S.W., Larson, D.E., Lin, R.P.: 2004b, J. Geophys. Res. 109, A03108.
+Crooker, N.U., Antiochos, S.K., Zhao, X., Neugebauer, M.: 2012, J. Geophys. Res. 117, A04104.
+Feldman, W.C., Asbridge, J.R., Bame, S.J., Fenimore, E.E., Gosling, J.T.: 1981, J. Geophys. Res. 86, 5408.
+Foullon, C., Lavraud, B., Luhmann, J.G., Farrugia, C.J., Retinò, A., Simunac, K.D.C., et al.: 2011, Astrophys. J. 737(1), 16.
+Fränz, M., Harper, D.: 2002, Planet. Space Sci. 50(2), 217.
+Galvin, A.B., Kistler, L.M., Popecki, M.A., Farrugia, C.J., Simunac, K.D.C., Ellis, L., et al.: 2008, Space Sci. Rev. 136, 437.
+Galvin, A.B., Popecki, M.A., Simunac, K.D.C., Kistler, L.M., Ellis, L., Barry, J., et al.: 2009, Ann. Geophys. 27, 3909.
+Gómez-Herrero, R., Klassen, A., Müller-Mellin, R., Heber, B., Wimmer-Schweingruber, R., Böttcher, S.: 2009, J. Geophys. Res. 114, A05101.
+Gosling, J.T., Pizzo, V.J.: 1999, Space Sci. Rev. 89, 21.
+Gosling, J.T., Asbridge, J.R., Bame, S.J., Feldman, W.C.: 1978, J. Geophys. Res. 83, 1401.
+Gosling, J.T., Borrini, G., Asbridge, J.R., Bame, S.J., Feldman, W.C., Hansen, R.T.: 1981, J. Geophys. Res. 86, 5438.
+Gosling, J.T., McComas, D.J., Skoug, R.M., Forsyth, R.J.: 2001, Space Sci. Rev. 97, 189.
+Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., et al.: 1996, Science 272(5266), 1284.
+Heinemann, S.G., Temmer, M., Hofmeister, S.J., Veronig, A.M., Vennerstrøm, S.: 2018, Astrophys. J. 861, 151.
+Jian, L.: 2008, Radial evolution of large-scale solar wind structures. Ph.D. Thesis, UCLA.
+Jian, L.K., Russell, C.T., Luhmann, J.G.: 2011, Solar Phys. 274, 321.
+Jian, L., Russell, C.T., Gosling, J.T., Luhmann, J.G.: 2005, In: Fleck, B., Zurbuchen, T.H., Lacoste, H. (eds.) Proc. Solar Wind 11-SOHO 16, Connecting Sun and Heliosphere, SP-592, ESA, Noordwijk, 491.
+Jian, L., Russell, C.T., Luhmann, J.G., Skoug, R.M.: 2006a, Solar Phys. 239, 337.
+Jian, L., Russell, C.T., Luhmann, J.G., Skoug, R.M.: 2006b, Solar Phys. 239, 393.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Skoug, R.M., Steinberg, J.T.: 2008a, Solar Phys. 249, 85.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Skoug, R.M.: 2008b, Adv. Space Res. 41, 259.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Skoug, R.M., Steinberg, J.T.: 2008c, Solar Phys. 250, 375.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Galvin, A.B., MacNeice, P.J.: 2009, Solar Phys. 259, 345.
+Jian, L.K., Russell, C.T., Luhmann, J.G., MacNeice, P.J., Odstrcil, D., Riley, P., Linker, J.A., Skoug, R.M., Steinberg, J.T.: 2011, Solar Phys. 273, 179.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Galvin, A.B., Simunac, K.D.C.: 2013, In: Zank, G.P., Borovsky, J., Bruno, R., Cirtain, J., Cranmer, S., Elliott, H., et al. (eds.) Solar Wind 13: Proc. 13th Int. Solar Wind Conf., CS-1539, AIP, Melville, 191.
+Jian, L.K., MacNeice, P.J., Taktakishvili, A., Odstrcil, D., Jackson, B., Yu, H.-S., et al.: 2015, Space Weather 13, 316.
+Jian, L.K., MacNeice, P.J., Mays, M.L., Taktakishvili, A., Odstrcil, D., Jackson, B., et al.: 2016, Space Weather 14, 592.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Galvin, A.B.: 2018, Astrophys. J. 855, 114.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, Space Sci. Rev. 136, 5.
+Kilpua, E.K.J., Luhmann, J.G., Gosling, J., Li, Y., Elliott, H., Russell, C.T., et al.: 2009, Solar Phys. 256, 327.
+King, J.H., Papitashvili, N.E.: 2005, J. Geophys. Res. 110, A02104.
+Leibacher, J.W.: 1999, Adv. Space Res. 24, 173.
+Linker, J.A., Caplan, R.M., Downs, C., Lionello, R., Riley, P., Mikic, Z., et al.: 2016, J. Phys. CS-719, 012012.
+Lionello, R., Velli, M., Downs, C., Linker, J.A., Mikic, Z., Verdini, A.: 2014, Astrophys. J. 784, 120.
+Lugaz, N., Farrugia, C.J., Winslow, R.M., Al-Haddad, N., Galvin, A.B., Nieves-Chinchilla, T., Lee, C.O., Janvier, M.: 2018, Astrophys. J. Lett. 864, L7.
+Luhmann, J.G., Curtis, D.W., Schroeder, P., McCauley, J., Lin, R.P., Larson, D.E., et al.: 2008, Space Sci. Rev. 136, 117.
+MacNeice, P., Jian, L.K., Antiochos, S.K., Arge, C.N., Bussy-Virat, C.D., DeRosa, M.L., et al.: 2018, Space Weather 16, 1644.
+McComas, D.J., Riley, P., Gosling, J.T., Balogh, A., Forsyth, R.: 1998, J. Geophys. Res. 103, 1955.
+Merkin, V.G., Lyon, J.G., Lario, D., Arge, C.N., Henney, C.J.: 2016, J. Geophys. Res. 121, 2866.
+Neugebauer, M., Liewer, P.C., Goldstein, B.E., Zhou, X., Steinberg, J.T.: 2004, J. Geophys. Res. 109, A10102.
+Newton, H.W., Nunn, M.L.: 1951, Mon. Not. Roy. Astron. Soc. 111, 413.
+Opitz, A., Karrer, R., Wurz, P., Galvin, A.B., Bochsler, P., Blush, L.M., et al.: 2009, Solar Phys. 256, 365.
+Owens, M.J., Crooker, N.U., Lockwood, M.: 2013, J. Geophys. Res. 118, 1868.
+Owens, M.J., Crooker, N.U., Lockwood, M.: 2014, J. Geophys. Res. 119, 36.
+Richardson, I.G., Mazur, J.E., Mason, G.M.: 1998, J. Geophys. Res. 103(A2), 2115.
+Riley, P., Lionello, R., Linker, J.A., Mikic, Z., Luhmann, J., Wijaya, J.: 2011, Solar Phys. 274, 361.
+Roberts, D.A., Thieman, J., Génot, V., King, T., Gangloff, M., Perry, C., et al.: 2018, Space Weather 16, 1899.
+Rouillard, A.P., Davies, J.A., Lavraud, B., Forsyth, R.J., Savani, N.P., Bewsher, D., et al.: 2010a, J. Geophys. Res. 115, A04103.
+Rouillard, A.P., Lavraud, B., Davies, J.A., Savani, N.P., Burlaga, L.F., Forsyth, R.J., et al.: 2010b, J. Geophys. Res. 115, A04104.
+Russell, C.T., Shinde, A.A., Jian, L.: 2005, Adv. Space Res. 35, 2178.
+Sheeley, N.R. Jr., Lee, D.D.-H., Casto, K.P., Wang, Y.-M., Rich, N.B.: 2009, Astrophys. J. 94, 1471.
+Simunac, K.D.C., Kistler, L.M., Galvin, A.B., Lee, M.A., Popecki, M.A., Farrugia, C., et al.: 2009, Solar Phys. 259, 323.
+Song, H.Q., Chen, Y., Liu, K., Feng, S.W., Xia, L.D.: 2009, Solar Phys. 258, 129.
+Sonnerup, B.U.O., Cahill, L.J.: 1967, J. Geophys. Res. 72, 171.
+Temmer, M., Rybák, J., Bendík, P., Veronig, A., Vogler, F., Otruba, W., Pötzi, W., Hanslmeier, A.: 2006, Astron. Astrophys. 447, 735.
+van Hollebeke, M.A.I., McDonald, F.B., Trainor, J.H., von Rosenvinge, T.T.: 1978, J. Geophys. Res. 83, 4723.
+Wang, Y.-M., Sheeley N.R. Jr., Rich, N.B.: 2007, Astrophys. J. 658, 1340.
+Wang, Y.-M., Sheeley N.R. Jr., Socker, D.G., Howard, R.A., Rich, N.B.: 2000, J. Geophys. Res. 105, 25133.
+Wang, Y.-M., Grappin, R., Robbecht, E., Sheeley, N.R.: 2012, Astrophys. J. 749, 182.
+Winterhalter, D., Smith, E.J., Burton, M.E., Murphy, N., McComas, D.J.: 1994, J. Geophys. Res. 99, 6667.
+Yu, W., Farrugia, C.J., Lugaz, N., Galvin, A.B., Kilpua, E.K.J., Kucharek, H., et al.: 2014, J. Geophys. Res. 119, 689.
+Yu, W., Farrugia, C.J., Galvin, A.B., Lugaz, N., Luhmann, J.G., Simunac, K.D.C., Kilpua, E.: 2016, J. Geophys. Res. 121, 5005.
+Zhao, L., Landi, E., Lepri, S.T., Gilbert, J.A., Zurbuchen, T.H., Fisk, L.A., Raines, J.M.: 2017, Astrophys. J. 846, 135.

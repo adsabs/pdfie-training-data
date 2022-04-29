@@ -1,0 +1,42 @@
+Babcock, H.D.: 1959, The Sun’s polar magnetic field. Astrophys. J. 130, 364.
+Babcock, H.W.: 1961, The topology of the Sun’s magnetic field and the 22-year cycle. Astrophys. J. 133, 572.
+Bhowmik, P., Nandy, D.: 2018, Prediction of the strength and timing of sunspot cycle 25 reveal decadal-scale space environmental conditions. Nat. Commun. 9, A5209.
+Cameron, R.H., Jiang, J., Schüssler, M.: 2016, Solar Cycle 25: Another moderate cycle? Astrophys. J. Lett. 823, L22.
+Charbonneau, P.: 2010, Dynamo models of the solar cycle. Living Rev. Solar Phys. 7, 3.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Revisiting the sunspot number. A 400-year perspective on the solar cycle. Space Sci. Rev. 186, 35.
+Covas, E., Peixinho, N., Fernandes, J.: 2019, Neural network forecast of the sunspot butterfly diagram. Solar Phys. 294, 24.
+Durrant, C.J.: 2002, Polar magnetic fields – Filaments and zero-flux contour. Solar Phys. 211, 83.
+Durrant, C.J., Wilson, P.R.: 2003, Observations and simulations of the polar field reversals in Cycle 23. Solar Phys. 214, 23.
+Duvall, T.L., Wilcox, J.M., Svalgaard, L., Scherrer, P.H., McIntosh, P.S.: 1977, Comparison of H\acute{\upalpha } synoptic charts with the large-scale solar magnetic field as observed at Stanford. Solar Phys. 55, 63.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2016, Unusual polar conditions in Solar Cycle 24 and their implications for Cycle 25. Astrophys. J. 823, L15.
+Hale, G.E.: 1913, Preliminary results of an attempt to detect the general magnetic field of the Sun. Astrophys. J. 38, 27.
+Helal, H.R., Galal, A.A.: 2012, An early prediction of the maximum amplitude of the Solar Cycle 25. J. Advert. Res. 4, 275.
+Janardhan, P., Fujiki, K., Ingale, M., Bisoi, S.K., Rout, D.: 2018, Solar Cycle 24: An unusual polar field reversal. Astron. Astrophys. 618, A148.
+Javaraiah, J.: 2017, Will Solar Cycles 25 and 26 be weaker than Cycle 24? Solar Phys. 292, 172.
+Karna, N., Hess Webber, S.A., Pesnell, W.D.: 2014, Using polar coronal hole area measurements to determine the solar polar magnetic field reversal in Solar Cycle 24. Solar Phys. 289, 3381.
+Leighton, R.B.: 1969, A magneto-kinematic model of the solar cycle. Astrophys. J. 156, 1.
+Makarov, V.I., Fatianov, M.P., Sivaraman, K.R.: 1983, Poleward migration of the magnetic neutral line and the reversal of the polar fields on the Sun. I – Period 1945 – 1981. Solar Phys. 85, 215.
+Makarov, V.I., Sivaraman, K.R.: 1983, Poleward migration of the magnetic neutral line and the reversal of the polar fields on the Sun. II – Period 1904 – 1940. Solar Phys. 85, 227.
+Makarov, V.I., Sivaraman, K.R.: 1986, On epochs of polarity reversals of the polar magnetic field of the Sun during 1870 – 1982. Bull. Astron. Soc. India 14, 163.
+Mordvinov, A.V., Kitchatinov, L.L.: 2019, Evolution of the Sun’s polar fields and the poleward transport of remnant magnetic flux. Solar Phys. 294, 21.
+Mordvinov, A.V., Yazev, S.A.: 2014, Reversals of the Sun’s polar magnetic fields in relation to activity complexes and coronal holes. Solar Phys. 289, 1971.
+Okoh, D.I., Seemala, G.K., Rabiu, A.B., Uwamahoro, J.B., Habarulema, J.B., Aggarwal, M.: 2018, A hybrid regression-neural network (HR-NN) method for forecasting the solar activity. Space Weather 16, 1424.
+Ossendrijver, M.: 2003, The solar dynamo. Astron. Astrophys. Rev. 11, 287.
+Pastor Yabar, A., Martínez González, M.J., Collados, M.: 2015, Where are the solar magnetic poles? Mon. Not. Roy. Astron. Soc. 453, L69.
+Pesnell, W.D., Schatten, K.H.: 2018, An early prediction of amplitude of Solar Cycle 25. Solar Phys. 293, 112.
+Petrie, G.J.D.: 2015, Solar magnetism in the polar regions. Living Rev. Solar Phys. 12, 5.
+Petrie, G.J.D., Petrovay, K., Schatten, K.: 2014, Solar polar fields and the 22-year activity cycle: Observations and models. Space Sci. Rev. 186(1 – 4), 325.
+Pishkalo, M.I.: 2016, Revisited sunspot numbers and prediction of Solar Cycle 25. Bull. Taras Shevchenko Nat. Univ. Kyiv Astron. 53, 49.
+Pishkalo, M.I., Babii, V.P., Ivanchuk, V.G.: 2005, North-south asymmetry of solar activity and Sun’s global magnetic field reversals during 21, 22 and 23 cycles of activity. Visn. Kyiv Univ. Astron. 41–42, 98.
+Pishkalo, M.I., Leiko, U.M.: 2016, Dynamics of the circumpolar magnetic field of the Sun at a maximum of Cycle 24. Kinemat. Phys. Celest. Bodies 32, 78.
+Schatten, K.H., Scherrer, P.H., Svalgaard, L., Wilcox, J.M.: 1978, Using dynamo theory to predict the sunspot number during Solar Cycle 21. Geophys. Res. Lett. 5, 411.
+Shiota, D., Tsuneta, S., Shimojo, M., Sako, N., Orozco Suarez, D., Ishikawa, R.: 2012, Polar field reversal observations with Hinode. Astrophys. J. 753, 157.
+Snodgrass, H.B., Kress, J.M., Wilson, P.R.: 2000, Observations of the polar magnetic fields during the polarity reversals of Cycle 22. Solar Phys. 191, 1.
+Sun, X., Hoeksema, J.T., Liu, Y., Zhao, J.: 2015, On polar magnetic field reversal and surface flux transport during Solar Cycle 24. Astrophys. J. 798, 114.
+Svalgaard, L., Kamide, Y.: 2013, Asymmetric solar polar field reversals. Astrophys. J. 763, 23.
+Temmer, M., Veronig, A., Hanslmeier, A.: 2002, Hemispheric sunspot numbers R
+Upton, L., Hathaway, D.H.: 2014, Predicting the Sun’s polar magnetic fields with a surface flux transport model. Astrophys. J. 780, 5.
+Upton, L., Hathaway, D.H.: 2018, An updated Solar Cycle 25 prediction with AFT: The modern minimum. Geophys. Res. Lett. 45, 8091.
+Wang, Y.-M.: 2017, Surface flux transport and the evolution of the Sun’s polar fields. Space Sci. Rev. 210, 351.
+Wang, Y.-M., Nash, A.G., Sheeley, N.R.: 1989, Magnetic flux transport on the Sun. Science 245, 712.
+Webb, D.F., Davis, J.M., McIntosh, P.S.: 1984, Observations of the reappearance of polar coronal holes and the reversal of the polar magnetic field. Solar Phys. 92, 109.

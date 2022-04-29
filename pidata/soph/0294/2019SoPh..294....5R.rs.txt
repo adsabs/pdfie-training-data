@@ -1,0 +1,25 @@
+Aime, C.: 1974, Measurement of averaged modulus of atmospheric-lens modulation transfer function. J. Opt. Soc. Am. 64, 1129.
+Aime, C., Ricort, G., Roddier, C., Lago, G.: 1978, Changes in the atmospheric-lens modulation transfer function used for calibration in solar speckle interferometry. J. Opt. Soc. Am. 68, 1063.
+Beckers, J.M.: 1989, Some thoughts on the combination of beams in interferometers using telescopes of unequal size. In: Alloin, D.M., Mariotti, J.-M. (eds.) NATO Advanced Science Institutes (ASI) Series C, NATO Advanced Science Institutes (ASI) Series C 274, 365.
+Beckers, J.M.: 2001, A seeing monitor for solar and other extended object observations. Exp. Astron. 12, 1.
+Beckers, J.M., Liu, Z., Jin, Z.: 2003, ATST seeing monitor: February 2002 observations at Fuxian Lake. In: Keil, S.L., Avakyan, S.V. (eds.) Innovative Telescopes and Instrumentation for Solar Astrophysics, Proc. SPIE 4853, 273.
+Brandt, P.N., Mauter, H.A., Smartt, R.: 1987, Day-time seeing statistics at Sacramento Peak Observatory. Astron. Astrophys. 188, 163.
+Fried, D.L.: 1965, Statistics of a geometric representation of wavefront distortion. J. Opt. Soc. Am. 55, 1427.
+Fried, D.L.: 1966, Optical resolution through a randomly inhomogeneous medium for very long and very short exposures. J. Opt. Soc. Am. 56, 1372.
+Gonzalez, R.C., Wintz, P.: 1977, Digital Image Processing.
+Hasan, S.S., Saxena, A.K., Bagare, S.P., Samson, J.P.A., Ismail, M.M., Rajendra, B.S., Aditya, T., Jabilullah, R.I., Tsewang, D.: 2010, Development of Solar Differential Image Motion Monitor at IIA for the NLST Site Characterization Program, IIA Technical Report Series, Indian Institute of Astrophysics, Bengaluru, India.
+Irbah, A., Borgnino, J., Djafer, D., Damé, L., Keckhut, P.: 2016, Solar seeing monitor MISOLFA: a new method for estimating atmospheric turbulence parameters. Astron. Astrophys. 591, A150.
+Kellerer, A., Gorceix, N., Marino, J., Cao, W., Goode, P.R.: 2012, Profiles of the daytime atmospheric turbulence above Big Bear solar observatory. Astron. Astrophys. 542, A2.
+Pickering, T.E.: 2018, Seeing statistics and characteristics at the MMT Observatory 2003–2018. In: Ground-Based and Airborne Telescopes VII, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series 10700, 107005C.
+Ravindra, B., Kesavan, P., Thulasidharen, K.C., Rajalingam, M., Sagayanathan, K., Kamath, P.U., Dorjey, N., Dorjee, A., Kemkar, P.M.M., Dorjai, T., Banyal, R.K.: 2018, Installation of solar chromospheric telescope at the Indian astronomical observatory, Merak. J. Astrophys. Astron. 39, 60.
+Ren, D., Zhao, G., Zhang, X., Dou, J., Chen, R., Zhu, Y., Yang, F.: 2015, Multiple-aperture-based solar seeing profiler. Publ. Astron. Soc. Pac. 127, 870.
+Roddier, F.: 1981, The effects of atmospheric turbulence in optical astronomy. Prog. Opt. 19, 281.
+Scharmer, G.B., van Werkhoven, T.I.M.: 2010, S-DIMM+ height characterization of day-time seeing using solar granulation. Astron. Astrophys. 513, A25.
+Seykora, E.J.: 1993, Solar scintillation and the monitoring of solar seeing. Solar Phys. 145, 389.
+Sridharan, R., Dashora, N., Venkatakrishnan, P.: 2004, Estimation of Fried’s parameter from long-exposure solar images. Solar Phys. 222, 35.
+Sridharan, R., Venkatakrishnan, P., Verma, V.K.: 2002, Estimation of Fried’s parameter from specklegrams of solar features. Solar Phys. 211, 395.
+Teare, S.W., Thompson, L.A., Gino, M.C., Palmer, K.A.: 2000, Eight decades of astronomical seeing measurements at Mount Wilson Observatory. Publ. Astron. Soc. Pac. 112, 1496.
+von der Luehe, O.: 1984, Estimating Fried’s parameter from a time series of an arbitrary resolved object imaged through atmospheric turbulence. J. Opt. Soc. Am. A 1, 510.
+Walker, M.F.: 1984, High quality astronomical sites around the world. In: Ardeberg, A., Woltjer, L. (eds.) European Southern Observatory Conference and Workshop Proceedings, European Southern Observatory Conference and Workshop Proceedings 18, 3.
+Wang, Z., Zhang, L., Kong, L., Bao, H., Guo, Y., Rao, X., Zhong, L., Zhu, L., Rao, C.: 2018, A modified S-DIMM+: applying additional height grids for characterizing daytime seeing profiles. Mon. Not. Roy. Astron. Soc. 478, 1459.
+Zhong, L., Beckers, J.M.: 2001, Comparative solar seeing and scintillation studies at the Fuxian Lake solar station. Solar Phys. 198, 197.

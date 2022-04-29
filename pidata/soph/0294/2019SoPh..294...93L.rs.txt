@@ -1,0 +1,21 @@
+Conlon, T.M., Milan, S.E., Davies, J.A.: 2014, Solar Phys. 289, 3935.
+Davies, J.A., Harrison, R.A., Perry, C.H., Möstl, C., Lugaz, N., Rollett, T., et al.: 2012, Astrophys. J. 750, 23.
+Davies, J.A., Perry, C.H., Trines, R.M.G.M., Harrison, R.A., Lugaz, N., Möstl, C., Liu, Y.D., Steed, K.: 2013, Astrophys. J. 777, 67.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., et al.: 2016, Space Sci. Rev. 204, 7.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Space Sci. Rev. 136, 67.
+Lugaz, N.: 2010, Solar Phys. 267, 411.
+Lugaz, N., Vourlidas, A., Roussev, I.I.: 2009, Ann. Geophys. 27, 3479.
+Rouillard, A.P., Davies, J.A., Forsyth, R.J., Rees, A., Davis, C.J., Harrison, R.A., et al.: 2008, Geophys. Res. Lett. 35, L10110.
+Rouillard, A.P., Sheeley, N.R. Jr., Cooper, T.J., Davies, J.A., Lavraud, B., Kilpua, E.K.J., et al.: 2011, Astrophys. J. 734, 7.
+Sanchez-Diaz, E., Rouillard, A.P., Davies, J.A., Lavraud, B., Pinto, R.F., Kilpua, E.: 2017, Astrophys. J. 851, 32.
+Sheeley, N.R., Walters, J.H.: 1999, J. Geophys. Res. 104, 24739.
+Sheeley, N.R. Jr., Herbst, A.D., Palatchi, C.A., Wang, Y.-M., Howard, R.A., Moses, J.D., et al.: 2008, Astrophys. J. 675, 853.
+Sheeley, N.R. Jr., Wang, Y.-M., Hawley, S.H., Brueckner, G.E., Dere, K.P., Howard, R.A., et al.: 1997, Astrophys. J. 484, 472.
+Sheeley, N.R. Jr., Lee, D.D.-H., Casto, K.P., Wang, Y.-M., Rich, N.B.: 2009, Astrophys. J. 694, 1471.
+Thernisien, A.: 2011, Astrophys. J. Suppl. 194, 763.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Astrophys. J. 652, 763.
+Thernisien, A., Vourlidas, A., Howard, R.A.: 2009, Solar Phys. 256, 111.
+Thernisien, A., Vourlidas, A., Howard, R.A.: 2011, J. Atmos. Solar-Terr. Phys. 73, 1156.
+Viall, N.M., Spence, H.E., Vourlidas, A., Howard, R.: 2010, Solar Phys. 261, 175.
+Viall, N.M., Vourlidas, A.: 2015, Astrophys. J. 807, 176.
+Vourlidas, A., Howard, R., Plunkett, S., Korendyke, C., Thernisien, A., Wang, D., et al.: 2016, Space Sci. Rev. 204, 83.

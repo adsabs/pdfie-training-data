@@ -1,0 +1,42 @@
+Baranyi, T., Győri, L., Ludmány, A.: 2016, On-line tools for solar data compiled at the Debrecen Observatory and their extensions with the Greenwich sunspot data. Solar Phys. 291, 3081.
+Bershadskii, A.G.: 1990, Large-scale fractal structure in laboratory turbulence, astrophysics, and the ocean. Sov. Phys. Usp. 33, 1073.
+Boffetta, G., Carbone, V., Giuliani, P., Veltri, P., Vulpiani, A.: 1999, Power laws in solar flares: self-organized criticality or turbulence? Phys. Rev. Lett. 83, 4662.
+Chumak, O.: 2005, Self-similar and self-affine structures in the observational data on solar activity. Astron. Astrophys. Trans. 24, 93.
+Chumak, O.V., Chumak, Z.N.: 1996, Sunspots. The model of “elastic sceletons”. Estimation of sunspot umbra fractal dimension. Astron. Astrophys. Trans. 10, 329.
+Chumak, O.V., Zhang, H.Q.: 2003, Size-flux relation in solar active regions. Chin. J. Astron. Astrophys. 3, 175.
+Conlon, P.A., Gallagher, P.T., McAteer, R.T.J., Ireland, J., Young, C.A., Kestener, P., Hewett, R.J., Maguire, K.: 2008, Multifractal properties of evolving active regions. Solar Phys. 248, 297.
+De Toma, G., Chapman, G.A., Preminger, D.G., Cookson, A.M.: 2013, Analysis of sunspot area over two Solar Cycles. Astrophys. J. 770, 89.
+Deng, L.: 2016, Multi-fractal property and long-range correlation of chaotic time series. In: 2016 3rd International Conference on Information Science and Control Engineering (ICISCE), IEEE Press, New York, 1361.
+Deng, L.H., Qu, Z.Q., Yan, X.L., Wang, K.R.: 2013, Phase analysis of sunspot group numbers on both solar hemispheres. Res. Astron. Astrophys. 13, 104.
+Deng, L.H., Li, B., Xiang, Y.Y., Dun, G.T.: 2014, On mid-term periodicities of high-latitude solar activity. Adv. Space Res. 54, 125.
+Deng, L.H., Li, B., Xiang, Y.Y., Dun, G.T.: 2016a, Comparison of chaotic and fractal properties of polar faculae with sunspot activity. Astron. J. 151, 2.
+Deng, L.H., Xiang, Y.Y., Qu, Z.N., An, J.M.: 2016b, Systematic regularity of hemispheric sunspot areas over the past 140 years. Astron. J. 151, 70.
+Feng, S., Xu, Z., Wang, F., Deng, H., Yang, Y., Ji, K.: 2014, Automated detection of low-contrast solar features using the phase-congruency algorithm. Solar Phys. 289, 3985.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., Gallagher, P.: 2011, An observational overview of solar flares. Space Sci. Rev. 159, 19.
+Gayathri, R., Selvaraj, R.S.: 2010, Predictability of solar activity using fractal analysis. J. Indian Geophys. Union 14, 89.
+Georgoulis, M.K.: 2005, Turbulence in the solar atmosphere: manifestations and diagnostics via solar image processing. Solar Phys. 228, 5.
+Georgoulis, M.K.: 2012, Are solar active regions with major flares more fractal, multifractal, or turbulent than others? Solar Phys. 276, 161.
+Greenkorn, R.A.: 2009, Analysis of sunspot activity cycles. Solar Phys. 255, 301.
+Issa, M.A., Issa, M.A., Islam, M.S., Chudnovsky, A.: 2003, Fractal dimension—a measure of fracture roughness and toughness of concrete. Eng. Fract. Mech. 70, 125.
+Jaeggli, S., Lin, H., Uitenbroek, H.: 2012, On molecular hydrogen formation and the magnetohydrostatic equilibrium of sunspots. Astrophys. J. 745, 133.
+Lawrence, J.K., Cadavid, A.C., Ruzmaikin, A.A.: 1995, Turbulent and chaotic dynamics underlying solar magnetic variability. Astrophys. J. 455, 366.
+Losa, G.A.: 2012, Fractals and their contribution to biology and medicine. Medicographia 34, 364.
+Mandelbrot, B.B.: 1983, The Fractal Geometry of Nature, Macmillan & Co., London.
+Mazzi, B., Vassilicos, J.C.: 2004, Fractal-generated turbulence. J. Fluid Mech. 502, 65.
+Morse, D., Lawton, J.H., Dodson, M., Williamson, M.H.: 1985, Fractal dimension of vegetation and the distribution of anthropod body lengths. Nature 314, 73.
+Panas, E.: 2001, Estimating fractal dimension using stable distributions and exploring long memory through ARFIMA models in Athens Stock Exchange. Appl. Financ. Econ. 11, 395.
+Preminger, D.G., Walton, S.R.: 2006, Modeling solar spectral irradiance and total magnetic flux using sunspot areas. Solar Phys. 235, 387.
+Price, C.P., Prichard, D., Hogenson, E.A.: 1992, Do the sunspot numbers form a chaotic set. J. Geophys. Res. 97, 113.
+Qin, Z.: 1994, A fractal study on sunspot relative number. Chin. Astron. Astrophys. 18, 313.
+Qin, Z.: 1996, A nonlinear prediction of the smoothed monthly sunspot numbers. Astron. Astrophys. 310, 646.
+Rempel, M.: 2011, Subsurface magnetic field and flow structure of simulated sunspots. Astrophys. J. 740, 15.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., et al.: 2012, Solar Phys. 275, 207.
+Shenshi, G., Zhiqian, W., Jitai, C.: 1999, The fractal research and predicating on the times series of sunspot relative number. Appl. Math. Mech. 20, 84.
+Solanki, S.K.: 2003, Sunspots: an overview. Astron. Astrophys. Rev. 11, 153.
+Uritsky, V.M., Davila, J.M.: 2012, Multiscale dynamics of solar magnetic structures. Astrophys. J. 748, 60.
+Vertyagina, Y., Kozlovskiy, A.: 2013, Study of solar activity from the position of multifractal analysis. New Astron. 23, 36.
+Watari, S.: 1995, Fractal dimensions of solar activity. Solar Phys. 158, 365.
+Weitz, D.A., Huang, J.S., Lin, M.Y., Sung, J.: 1985, Limits of the fractal dimension for irreversible kinetic aggregation of gold colloids. Phys. Rev. Lett. 54, 1416.
+Yan, X.L., Qu, Z.Q.: 2007, Rapid rotation of a sunspot associated with flares. Astron. Astrophys. 468, 1083.
+Yan, X.L., Qu, Z.Q., Xu, C.L., Xue, Z.K., Kong, D.F.: 2009, The causality between the rapid rotation of a sunspot and an X3.4 flare. Res. Astron. Astrophys. 9, 596.
+Zelenyi, L.M., Milovanov, A.V.: 1991, Fractal properties of sunspots. Sov. Astron. Lett. 17, 425.

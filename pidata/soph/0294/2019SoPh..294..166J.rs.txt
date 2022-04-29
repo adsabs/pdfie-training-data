@@ -1,0 +1,36 @@
+Allen, C.W.: 1973, Astrophysical quantities, Athlone Press, London.
+Ayres, T.R., Rabin, D.: 1996, Astrophys. J. 460, 1042.
+Billings, D.E.: 1966, A guide to the solar corona, Academic Press, New York.
+Casini, R., White, S.M., Judge, P.G.: 2017, Space Sci. Rev. 210, 145.
+Coffey, M.T., Hannigan, J.W., Goldman, A.: 2006, J. Geophys. Res., Atmos. 111.
+De Mazière, M., Thompson, A.M., Kurylo, M.J., Wild, J.D., Bernhard, G., Blumenstock, T., et al.: 2018, Atmos. Chem. Phys. 18, 4935.
+de Pontieu, B., McIntosh, S., Hansteen, V.H., et al.: 2007, Publ. Astron. Soc. Japan 59, 655.
+Del Zanna, G., DeLuca, E.E.: 2018, Astrophys. J. 852, 52.
+Eddy, J.A.: 2009, The Sun, the Earth and Near-Earth Space: A Guide to the Sun-Earth System (NASA).
+Golub, L., Pasachoff, J.M.: 2009, The Solar Corona, 2nd edn. Cambridge University Press, Cambridge.
+Grotrian, W.: 1933, Z. Astrophys. 7, 26.
+Habbal, S.R., Ding, A., Druckmuller, M., Solar Wind Sherpas: 2018, In: Observations of the Dynamics and Thermodynamics of the Corona during the 21 August 2017 Total Solar Eclipse, American Astronomical Society Meeting Abstracts 231, 220.07.
+Hase, F., Wallace, L., McLeod, S.D., Harrison, J.J., Bernath, P.F.: 2010, J. Quant. Spectrosc. Radiat. Transf. 111, 521.
+Hoyle, F.: 1955, Frontiers of Astronomy, Heinemann Educational Books, London.
+Judge, P., Casini, R., Tomczyk, S., Edwards, D.P., Francis, E.: 2001, Coronal Magnetogmetry: A feasibility study. Tech. Rep. NCAR/TN-446-STR, National Center for Atmospheric Research.
+Judge, P.G.: 1998, Astrophys. J. 500, 1009.
+Judge, P.G., Carlsson, M.: 2010, Astrophys. J. 719, 469.
+Judge, P.G., Reardon, K., Cauzzi, G.: 2012, Astrophys. J. 755, L11.
+Judge, P.G., Tomczyk, S., Hannigan, J., Sewell, S.: 2019, Astrophys. J. 877, 10.
+Judge, P.G., Tomczyk, S., Livingston, W.C., Keller, C.U., Penn, M.J.: 2002, Astrophys. J. 576, L157.
+Judge, P.G., Tritschler, A., Low, B.C.: 2011, Astrophys. J. 730, L4.
+Kuhn, J.R., Penn, M.J., Mann, I.: 1996, Astrophys. J. 456, L67.
+Lin, H., Penn, M.J., Tomczyk, S.: 2000, Astrophys. J. 541, L83.
+Lipartito, I., Judge, P.G., Reardon, K., Cauzzi, G.: 2014, Astrophys. J. 785, 109.
+Moise, E., Raymond, J., Kuhn, J.R.: 2010, Astrophys. J. 722, 1411.
+Münch, G., Neugebauer, G., McCammon, D.: 1967, Astrophys. J. 149, 681.
+Penn, M.J., Arnaud, J., Mickey, D.L., Labonte, B.J.: 1994, Astrophys. J. 436, 368.
+Penn, M.J., Kuhn, J.R.: 1994, ApJ 434, 807.
+Penn, M.J., Kuhn, J.R.: 1994b, Solar Phys. 151, 511.
+Penn, M.J., Lin, H., Tomczyk, S., Elmore, D., Judge, P.G.: 2004, Solar Phys. 222, 61.
+Sakurai, T.: 2017, Proc. Japan Acad. Ser. B 93, 87.
+Samra, J.E.: 2018, PhD thesis, Harvard University.
+Samra, J.E., Judge, P.G., DeLuca, E.E., Hannigan, J.W.: 2018, Astrophys. J. 856, L29.
+Samra, J.E., Judge, P.G., DeLuca, E.E., Hannigan, J.W.: 2019, Astrophys. J. Lett. 873, L25.
+York, T., Powell, S.B., Gao, S., et al.: 2014, Proc. IEEE 102, 1450.
+Zaitsev, V.V., Shibasaki, K.: 2005, Astron. Rep. 49, 1009.

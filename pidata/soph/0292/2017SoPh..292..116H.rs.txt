@@ -1,0 +1,41 @@
+Burlaga, L.F.: 1995, Interplanetary Magnetohydrodynamics, Inter. Ser. Astron. Astrophys. 3, Oxford Univ. Press, New York.
+Cerfon, A.J., Freidberg, J.P.: 2010, “One size fits all” analytic solutions to the Grad–Shafranov equation. Phys. Plasmas 17(3), 032502.
+Du, D., Wang, C., Hu, Q.: 2007, Propagation and evolution of a magnetic cloud from ACE to Ulysses. J. Geophys. Res. 112, A09101.
+Freidberg, J.P.: 1987, Ideal Magnetohydrodynamics, Plenum Press, New York.
+Hara, T., Luhmann, J.G., Halekas, J.S., Espley, J.R., Seki, K., Brain, D.A., Hasegawa, H., McFadden, J.P., Mitchell, D.L., Mazelle, C., Harada, Y., Livi, R., DiBraccio, G.A., Connerney, J.E.P., Andersson, L., Jakosky, B.M.: 2016, MAVEN observations of magnetic flux ropes with a strong field amplitude in the Martian magnetosheath during the ICME passage on 8 March 2015. Geophys. Res. Lett. 43, 4816.
+Hau, L.-N., Sonnerup, B.U.Ö.: 1999, Two-dimensional coherent structures in the magnetopause: Recovery of static equilibria from single-spacecraft data. J. Geophys. Res. 104, 6899.
+Hu, Q.: 2001, Reconstruction of two-dimensional coherent structures in space plasmas from spacecraft data. Ph.D. thesis, Dartmouth College.
+Hu, Q.: 2016, On the Grad–Shafranov (GS) reconstruction of toroidal magnetic flux ropes. In: Wang, L., Bruno, R., Möbius, E., Vourlidas, A., Zank, G. (eds.) AIP Conf. Series 1720, 040005.
+Hu, Q.: 2017, The Grad–Shafranov reconstruction in twenty years: 1996 – 2016. Sci. China Earth Sci. 60, 1466.
+Hu, Q., Sonnerup, B.U.Ö.: 2000, Magnetopause transects from two spacecraft: A comparison. Geophys. Res. Lett. 27, 1443.
+Hu, Q., Sonnerup, B.U.Ö.: 2001, Reconstruction of magnetic flux ropes in the solar wind. Geophys. Res. Lett. 28, 467.
+Hu, Q., Sonnerup, B.U.Ö.: 2002, Reconstruction of magnetic clouds in the solar wind: Orientations and configurations. J. Geophys. Res. 107, 1142.
+Hu, Q., Sonnerup, B.U.Ö.: 2003, Reconstruction of two-dimensional structures in the magnetopause: Method improvements. J. Geophys. Res. 108, 1011.
+Hu, Q., Qiu, J., Krucker, S.: 2015, Magnetic field-line lengths inside interplanetary magnetic flux ropes. J. Geophys. Res. 120, 1.
+Hu, Q., Smith, C.W., Ness, N.F., Skoug, R.M.: 2004, Multiple flux rope magnetic ejecta in the solar wind. J. Geophys. Res. 109, 3102.
+Hu, Q., Qiu, J., Dasgupta, B., Khare, A., Webb, G.M.: 2014, Structures of interplanetary magnetic flux ropes and comparison with their solar sources. Astrophys. J. 793, 53.
+Hu, H., Liu, Y.D., Wang, R., Möstl, C., Yang, Z.: 2016, Sun-to-Earth characteristics of the 2012 July 12 coronal mass ejection and associated geo-effectiveness. Astrophys. J. 829, 97.
+Kahler, S.W., Krucker, S., Szabo, A.: 2011, Solar energetic electron probes of magnetic cloud field line lengths. J. Geophys. Res. 116, 1104.
+Kilpua, E.K.J., Liewer, P.C., Farrugia, C., Luhmann, J.G., Möstl, C., Li, Y., Liu, Y., Lynch, B.J., Russell, C.T., Vourlidas, A., Acuna, M.H., Galvin, A.B., Larson, D., Sauvaud, J.A.: 2009, Multispacecraft observations of magnetic clouds and their solar origins between 19 and 23 May 2007. Solar Phys. 254, 325.
+Larson, D.E., Lin, R.P., McTiernan, J.M., McFadden, J.P., Ergun, R.E., McCarthy, M., Rème, H., Sanderson, T.R., Kaiser, M., Lepping, R.P., Mazur, J.: 1997, Tracing the topology of the October 18 – 20, 1995, magnetic cloud with 0.1 – 100 keV electrons. Geophys. Res. Lett. 24, 1911.
+Liu, Y., Luhmann, J.G., Huttunen, K.E.J., Lin, R.P., Bale, S.D., Russell, C.T., Galvin, A.B.: 2008, Reconstruction of the 2007 May 22 magnetic cloud: How much can we trust the flux-rope geometry of CMEs? Astrophys. J. Lett. 677, L133.
+Lundquist, S.: 1950, On force-free solution. Ark. Fys. 2, 361.
+Marubashi, K., Akiyama, S., Yashiro, S., Gopalswamy, N., Cho, K.-S., Park, Y.-D.: 2015, Geometrical relationship between interplanetary flux ropes and their solar sources. Solar Phys. 290, 1371.
+Möstl, C., Miklenic, C., Farrugia, C.J., Temmer, M., Veronig, A., Galvin, A.B., Vršnak, B., Biernat, H.K.: 2008, Two-spacecraft reconstruction of a magnetic cloud and comparison to its solar source. Ann. Geophys. 26, 3139.
+Möstl, C., Farrugia, C.J., Biernat, H.K., Kiehas, S.A., Nakamura, R., Ivanova, V.V., Khotyaintsev, Y.: 2009a, The structure of an earthward propagating magnetic flux rope early in its evolution: Comparison of methods. Ann. Geophys. 27, 2215.
+Möstl, C., Farrugia, C.J., Biernat, H.K., Leitner, M., Kilpua, E.K.J., Galvin, A.B., Luhmann, J.G.: 2009b, Optimized Grad–Shafranov reconstruction of a magnetic cloud using STEREO-wind observations. Solar Phys. 256, 427.
+Möstl, C., Farrugia, C.J., Kilpua, E.K.J., Jian, L.K., Liu, Y., Eastwood, J.P., Harrison, R.A., Webb, D.F., Temmer, M., Odstrcil, D., Davies, J.A., Rollett, T., Luhmann, J.G., Nitta, N., Mulligan, T., Jensen, E.A., Forsyth, R., Lavraud, B., de Koning, C.A., Veronig, A.M., Galvin, A.B., Zhang, T.L., Anderson, B.J.: 2012, Multi-point shock and flux rope analysis of multiple interplanetary coronal mass ejections around 2010 August 1 in the inner heliosphere. Astrophys. J. 758, 10.
+Press, W.H., Teukolsky, S.A., Vetterling, W.T., Flannery, B.P.: 2007, Numerical Recipes in C++: The Art of Scientific Computing, Cambridge University Press, New York, 778.
+Priest, E.R., Longcope, D.W.: 2017, Flux-rope twist in eruptive flares and CMEs: Due to zipper and main-phase reconnection. Solar Phys. 292, 25.
+Priest, E.R., Longcope, D.W., Janvier, M.: 2016, Evolution of magnetic helicity during eruptive flares and coronal mass ejections. Solar Phys. 291, 2017.
+Qiu, J., Hu, Q., Howard, T.A., Yurchyshyn, V.B.: 2007, On the magnetic flux budget in low-corona magnetic reconnection and interplanetary coronal mass ejections. Astrophys. J. 659, 758.
+Riley, P., Linker, J.A., Lionello, R., Mikić, Z., Odstrcil, D., Hidalgo, M.A., Cid, C., Hu, Q., Lepping, R.P., Lynch, B.J., Rees, A.: 2004, Fitting flux ropes to a global MHD solution: A comparison of techniques. J. Atmos. Solar-Terr. Phys. 66, 1321.
+Romashets, E.P., Vandas, M.: 2003, Force-free field inside a toroidal magnetic cloud. Geophys. Res. Lett. 30, 2065.
+Sharma, R., Srivastava, N., Chakrabarty, D., Möstl, C., Hu, Q.: 2013, Interplanetary and geomagnetic consequences of 5 January 2005 CMEs associated with eruptive filaments. J. Geophys. Res. 118, 3954.
+Shiota, D., Kataoka, R.: 2016, Magnetohydrodynamic simulation of interplanetary propagation of multiple coronal mass ejections with internal magnetic flux rope (SUSANOO-CME). Space Weather 14, 56.
+Sonnerup, B.U.Ö., Guo, M.: 1996, Magnetopause transects. Geophys. Res. Lett. 23, 3679.
+Sonnerup, B.U.Ö., Scheible, M.: 1998, Minimum and Maximum Variance Analysis, ISSI Scientific Reports Series 1, 185.
+Sonnerup, B.U.Ö., Teh, W.-L.: 2008, Reconstruction of two-dimensional coherent MHD structures in a space plasma: The theory. J. Geophys. Res. 113, A05202.
+Sonnerup, B.U.Ö., Teh, W.-L.: 2009, Reconstruction of two-dimensional coherent structures in ideal and resistive Hall MHD: The theory. J. Geophys. Res. 114, A04206.
+Vemareddy, P., Möstl, C., Amerstorfer, T., Mishra, W., Farrugia, C., Leitner, M.: 2016, Comparison of magnetic properties in a magnetic cloud and its solar source on 2013 April 11 – 14. Astrophys. J. 828, 12.
+Wang, Y., Zhang, Q., Liu, J., Shen, C., Shen, F., Yang, Z., Zic, T., Vrsnak, B., Webb, D.F., Liu, R., Wang, S., Zhang, J., Hu, Q., Zhuang, B.: 2016, On the propagation of a geoeffective coronal mass ejection during 15 – 17 March 2015. J. Geophys. Res. 121, 7423.

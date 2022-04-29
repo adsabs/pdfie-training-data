@@ -1,0 +1,31 @@
+Anstee, S.D., O’Mara, B.J.: 1991, An investigation of Brueckner’s theory of line broadening with application to the sodium D lines. Mon. Not. Roy. Astron. Soc. 253, 549.
+Bard, A., Kock, M.: 1994, Fe I oscillator strengths for lines with excitation energies between 3 and 7eV. Astron. Astrophys. 282, 1014. (BK).
+Bard, A., Kock, A., Kock, M.: 1991, Fe I oscillator strengths of lines of astrophysical interest. Astron. Astrophys. 248, 315. (BKK).
+Barklem, P.S., Piskunov, N., O’Mara, B.J.: 2000, A list of data for the broadening of metallic lines by neutral hydrogen collisions. Astron. Astrophys. Suppl. Ser. 142, 467. (BPM).
+Belmonte, M.T., Pickering, J.C., Ruffoni, M.P., Den Hartog, E.A., Lawler, J.E., Guzman, A., Heiter, U.: 2017, Fe I oscillator strengths for transitions from high-lying odd-parity levels. Astrophys. J. 848, 125.
+Bikmaev, I.F., Ryabchikova, T.A., Bruntt, H., Musaev, F.A., Mashonkina, L.I., Belyakova, E.V., Shimansky, V.V., Barklem, P.S., Galazutdinov, G.: 2002, Abundance analysis of two late A-type stars HD 32115 and HD 37594. Astron. Astrophys. 389, 537.
+Blackwell, D.E., Collins, B.S.: 1972, Precision measurement of relative oscillator strengths-1. Fundamental technique: A first application to MN i. Mon. Not. Roy. Astron. Soc. 157, 255.
+Blackwell, D.E., Ibbetson, P.A., Petford, A.D., Shallis, M.J.: 1979, Precision measurement of relative oscillator strengths. IV – Attainment of 0.5 per cent accuracy: Fe I transitions from levels a5 D/0-4/ /0.00-0.12 eV/. Mon. Not. Roy. Astron. Soc. 186, 633. (BIPS).
+Blackwell, D.E., Booth, A.J., Haddock, D.J., Petford, A.D., Leggett, S.K.: 1986, Measurement of the oscillator strengths of very weak 1 eV Fe I lines. Mon. Not. Roy. Astron. Soc. 220, 549.
+Butler, K., Giddings, J.: 1985, A grid of MARCS model atmospheres for late-type stars. I. Methods and general properties. Newsletter on the analysis of astronomical spectra No. 9, University of London.
+Den Hartog, E.A., Ruffoni, M.P., Lawler, J.E., Pickering, J.C., Lind, K., Brewer, N.R.: 2014, Fe I oscillator strengths for transitions from high-lying even-parity levels. Astrophys. J. Suppl. 215, 23.
+Fossati, L., Ryabchikova, T., Bagnulo, S., Alecian, E., Grunhut, J., Kochukhov, O., Wade, G.: 2009, The chemical abundance analysis of normal early A- and late B-type stars. Astron. Astrophys. 503, 945.
+Gustafsson, B., Edvardsson, B., Eriksson, K., Jørgensen, U.G., Nordlund, Å., Plez, B.: 2008, A grid of MARCS model atmospheres for late-type stars. I. Methods and general properties. Astron. Astrophys. 486, 951.
+Kobayashi, C., Karakas, A.I., Umeda, H.: 2011, The evolution of isotope ratios in the Milky Way Galaxy. Mon. Not. Roy. Astron. Soc. 414(4), 3231.
+Kochukhov, O.: 2018, BinMag: Widget for comparing stellar observed with theoretical spectra, Astrophysics Source Code Library.
+Kramida, A., Ralchenko, Y., Reader, J., NIST ASD Team: 2018, NIST Atomic Spectra Database (ver. 5.6.1).
+Kupka, F., Piskunov, N., Ryabchikova, T.A., Stempels, H.C., Weiss, W.W.: 1999, VALD-2: Progress of the Vienna atomic line data base. Astron. Astrophys. Suppl. Ser. 138, 119.
+Kurucz, R.L., Furenlid, I., Brault, J., Testerman, L.: 1984. Solar flux atlas from 296 to 1300 nm.
+Mashonkina, L., Gehren, T., Shi, J.-R., Korn, A.J., Grupp, F.: 2011, A non-LTE study of neutral and singly-ionized iron line spectra in 1D models of the Sun and selected late-type stars. Astron. Astrophys. 528, A87.
+Mashonkina, L., Jablonka, P., Sitnova, T., Pakhomov, Y., North, P.: 2017, The formation of the Milky Way halo and its dwarf satellites; a NLTE-1D abundance analysis. II. Early chemical enrichment. Astron. Astrophys. 608, A89.
+May, M., Richter, J., Wichelmann, J.: 1974, Experimental oscillator strengths of weak FeI lines. Astron. Astrophys. Suppl. Ser. 18, 405.
+O’Brian, T.R., Wickliffe, M.E., Lawler, J.E., Whaling, W., Brault, J.W.: 1991, Lifetimes, transition probabilities, and level energies in Fe i. J. Opt. Soc. Am. B, Opt. Phys. 8, 1185.
+Przybilla, N., Nieva, M.-F., Butler, K.: 2011, Testing common classical LTE and NLTE model atmosphere and line-formation codes for quantitative spectroscopy of early-type stars. J. Phys. CS-328(1), 012015.
+Ruffoni, M.P., Den Hartog, E.A., Lawler, J.E., Brewer, N.R., Lind, K., Nave, G., Pickering, J.C.: 2014, Fe I oscillator strengths for the Gaia-ESO survey. Mon. Not. Roy. Astron. Soc. 441, 3127.
+Ryabchikova, T., Pakhomov, Y., Piskunov, N.: 2018, VALD: The meeting point of data producers and data users. Galaxies 6(3), 93.
+Ryabchikova, T., Piskunov, N., Shulyak, D.: 2015, On the accuracy of atmospheric parameter determination in BAFGK stars. In: Balega, Y.Y., Romanyuk, I.I., Kudryavtsev, D.O. (eds.) Physics and Evolution of Magnetic and Related Stars CS-494, Astron. Soc. Pacific, San Francisco, 308.
+Ryabchikova, T., Piskunov, N., Pakhomov, Y., Tsymbal, V., Titarenko, A., Sitnova, T., Alexeeva, S., Fossati, L., Mashonkina, L.: 2016, Accuracy of atmospheric parameters of FGK dwarfs determined by spectrum fitting. Mon. Not. Roy. Astron. Soc. 456, 1221.
+Scott, P., Asplund, M., Grevesse, N., Bergemann, M., Sauval, A.J.: 2015, The elemental composition of the Sun. II. The iron group elements Sc to Ni. Astron. Astrophys. 573, A26.
+Shulyak, D., Tsymbal, V., Ryabchikova, T., Stütz, C., Weiss, W.W.: 2004, Line-by-line opacity stellar model atmospheres. Astron. Astrophys. 428, 993.
+Sitnova, T., Zhao, G., Mashonkina, L., Chen, Y., Liu, F., Pakhomov, Y., Tan, K., Bolte, M., Alexeeva, S., Grupp, F., Shi, J.-R., Zhang, H.-W.: 2015, Systematic non-LTE study of the -2.6 < [Fe/H] < 0.2 F and G dwarfs in the solar neighborhood. I. Stellar atmosphere parameters. Astrophys. J. 808, 148.
+Tsymbal, V., Ryabchikova, T., Sitnova, T.: 2019, Software for NLTE spectrum fitting. In: Romanyuk, I.I., Yakunin, I.A., Kudryavtsev, D.O. (eds.) Physics of Magnetic Stars CS-518, Astron. Soc. Pacific, San Francisco, 247.

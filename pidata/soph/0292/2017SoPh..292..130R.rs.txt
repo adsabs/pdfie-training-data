@@ -1,0 +1,29 @@
+Alissandrakis, C.E., Patsourakos, S., Nindos, A., Bastian, T.S.: 2017, Center-to-limb observations of the Sun with ALMA. ArXiv e-prints.
+Anzer, U., Heinzel, P.: 1999, the energy balance in solar prominences. Astron. Astrophys. 349, 974.
+Bastian, T.S.: 2002, ALMA and the Sun. Astron. Nachr. 323, 271.
+Bastian, T.S., Ewell, M.W. Jr., Zirin, H.: 1993, A study of solar prominences near lambda = 1 millimeter. Astrophys. J. 418, 510.
+Chiuderi Drago, F., Alissandrakis, C.E., Bastian, T., Bocchialini, K., Harrison, R.A.: 2001, Joint EUV/radio observations of a solar filament. Solar Phys. 199, 115.
+Dulk, G.A.: 1985, Radio emission from the sun and stars. Annu. Rev. Astron. Astrophys. 23, 169.
+Fontenla, J.M., Rovira, M., Vial, J.-C., Gouttebroze, P.: 1996, Prominence thread models including ambipolar diffusion. Astrophys. J. 466, 496.
+Gouttebroze, P.: 2005, Radiative transfer in cylindrical threads with incident radiation. II. 2D azimuth-dependent case. Astron. Astrophys. 434, 1165.
+Gouttebroze, P., Labrosse, N.: 2009, Radiative transfer in cylindrical threads with incident radiation. VI. A hydrogen plus helium system. Astron. Astrophys. 503, 663.
+Gunár, S., Heinzel, P., Anzer, U., Schmieder, B.: 2008, On Lyman-line asymmetries in quiescent prominences. Astron. Astrophys. 490, 307.
+Gunár, S., Heinzel, P., Mackay, D.H., Anzer, U.: 2016, Quiescent prominences in the era of ALMA: Simulated observations using the 3D whole-prominence fine structure model. Astrophys. J. 833, 141.
+Harrison, R.A., Carter, M.K., Clark, T.A., Lindsey, C., Jefferies, J.T., Sime, D.G., Watt, G., Roellig, T.L., Becklin, E.E., Naylor, D.A., Tompkins, G.J., Braun, D.: 1993, An active solar prominence in 1.3 MM radiation. Astron. Astrophys. 274, L9.
+Heinzel, P., Avrett, E.H.: 2012, Optical-to-radio continua in solar flares. Solar Phys. 277, 31.
+Heinzel, P., Schmieder, B., Vial, J.-C., Kotrč, P.: 2001, SOHO/SUMER observations and analysis of the hydrogen Lyman spectrum in solar prominences. Astron. Astrophys. 370, 281.
+Heinzel, P., Berlicki, A., Bárta, M., Karlický, M., Rudawy, P.: 2015a, On the visibility of prominence fine structures at radio millimeter wavelengths. Solar Phys. 290, 1981.
+Heinzel, P., Schmieder, B., Mein, N., Gunár, S.: 2015b, Understanding the Mg II and H{\upalpha} spectra in a highly dynamical solar prominence. Astrophys. J. Lett. 800, L13.
+Irimajiri, Y., Takano, T., Nakajima, H., Shibasaki, K., Hanaoka, Y., Ichimoto, K.: 1995, Simultaneous multifrequency observations of an eruptive prominence at millimeter wavelengths. Solar Phys. 156, 363.
+John, T.L.: 1988, Continuous absorption by the negative hydrogen ion reconsidered. Astron. Astrophys. 193, 189.
+Karlický, M., Bárta, M., Da¸browski, B.P., Heinzel, P.: 2011, Solar research with ALMA. Solar Phys. 268, 165.
+Labrosse, N.: 2015, Derivation of the major properties of prominences using NLTE modelling. In: Vial, J.-C., Engvold, O. (eds.) Solar Prominences, Astrophysics and Space Science Library 415, 131.
+Labrosse, N., Gouttebroze, P.: 2004, Non-LTE radiative transfer in model prominences. I. Integrated intensities of He I triplet lines. Astrophys. J. 617, 614.
+Labrosse, N., Rodger, A.S.: 2016, Radiative transfer in cylindrical threads with incident radiation. VII. Multi-thread models. Astron. Astrophys. 587, A113.
+Labrosse, N., Heinzel, P., Vial, J.-C., Kucera, T., Parenti, S., Gunár, S., Schmieder, B., Kilper, G.: 2010, Physics of solar prominences: I – Spectral diagnostics and non-LTE modelling. Space Sci. Rev. 151, 243.
+Loukitcheva, M., Solanki, S.K., Carlsson, M., Stein, R.F.: 2004, Millimeter observations and chromospheric dynamics. Astron. Astrophys. 419, 747.
+Loukitcheva, M., Solanki, S.K., Carlsson, M., White, S.M.: 2015, Millimeter radiation from a 3D model of the solar atmosphere. I. Diagnosing chromospheric thermal structure. Astron. Astrophys. 575, A15.
+Parenti, S.: 2014, Solar prominences: Observations. Living Rev. Solar Phys. 11, 1.
+Vrsnak, B., Pohjolainen, S., Urpo, S., Terasranta, H., Brajsa, R., Ruzdjak, V., Mouradian, Z., Jurac, S.: 1992, Large-scale patterns on the sun observed in the millimetric wavelength range. Solar Phys. 137, 67.
+Wedemeyer, S., Bastian, T., Brajša, R., Hudson, H., Fleishman, G., Loukitcheva, M., Fleck, B., Kontar, E.P., De Pontieu, B., Yagoubov, P., Tiwari, S.K., Soler, R., Black, J.H., Antolin, P., Scullion, E., Gunár, S., Labrosse, N., Ludwig, H.-G., Benz, A.O., White, S.M., Hauschildt, P., Doyle, J.G., Nakariakov, V.M., Ayres, T., Heinzel, P., Karlicky, M., Van Doorsselaere, T., Gary, D., Alissandrakis, C.E., Nindos, A., Solanki, S.K., Rouppe van der Voort, L., Shimojo, M., Kato, Y., Zaqarashvili, T., Perez, E., Selhorst, C.L., Barta, M.: 2016, Solar science with the Atacama Large Millimeter/submillimeter Array – A new view of our Sun. Space Sci. Rev. 200, 1.
+White, S.M., Iwai, K., Phillips, N.M., Hills, R.E., Hirota, A., Yagoubov, P., Siringo, G., Shimojo, M., Bastian, T.S., Hales, A.S., Sawada, T., Asayama, S., Sugimoto, M., Marson, R.G., Kawasaki, W., Muller, E., Nakazato, T., Sugimoto, K., Brajša, R., Skokić, I., Bárta, M., Kim, S., Remijan, A.J., de Gregorio, I., Corder, S.A., Hudson, H.S., Loukitcheva, M., Chen, B., De Pontieu, B., Fleishmann, G.D., Gary, D.E., Kobelski, A., Wedemeyer, S., Yan, Y.: 2017, Observing the Sun with the Atacama Large Millimeter/submillimeter Array (ALMA): Fast-scan single-dish mapping. Solar Phys. 292, 87.

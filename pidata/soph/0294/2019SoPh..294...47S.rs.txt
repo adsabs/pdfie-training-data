@@ -1,0 +1,34 @@
+Burlaga, L., Skoug, R.M., Smith, C.W., Webb, D.F., Zurbuchen, T.H., Reinard, A.: 2001, Fast ejecta during the ascending phase of solar cycle 23: ACE observations, 1998–1999. J. Geophys. Res. 106, 957.
+Cane, H.V., Richardson, I.G.: 2003, Interplanetary coronal mass ejections in the near-Earth solar wind during. J. Geophys. Res. 1996–2002(2003), 1156.
+Cargill, P.J.: 2004, On the aerodynamic drag force acting on interplanetary coronal mass ejections. Solar Phys. 221, 135.
+Cliver, E.W., Feynman, J., Garrett, H.B.: 1990, J. Geophys. Res. 95, 17103.
+Cranmer, S.R.: 2009, Living Rev. Solar Phys. 6, 66.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000, Geophys. Res. Lett. 27, 145.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001, J. Geophys. Res. 106, 29207.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2002, Geophys. Res. Lett. 29, 106.
+Gopalswamy, N., Lara, A., Manoharan, P.K., Howard, R.A.: 2005, Adv. Space Res. 36, 2289.
+Gopalswamy, N., Makela, P., Xie, H., Yashiro, S.: 2013, Testing the empirical shock arrival model using quadrature observations. Space Weather 11, 661.
+Gopalswamy, N., Akiyama, S., Yashiro, S., Xie, H., Makela, P., Michalek, G.: 2014, Anomalous expansion of CMEs during solar cycle 24 and its space weather implementations. Geophys. Res. Lett. 41, 2673.
+Gopalswamy, N., Xie, H., Akiyama, S., Makela, P., Yashiro, S., Michalek, G.: 2015, The peculiar behavior of halo coronal mass ejections in solar cycle 24. Astrophys. J. Lett. 804, L23.
+Makela, P., Gopalswamy, N., Yashiro, S.: 2016, Space Weather 14, 368.
+Manchester, W., Kilpua, E.K.J., Liu, Y.D., Lugaz, N., Riley, P., Török, T., Vršnak, B.: 2017, The physical processes of CME/ICME evolution. Space Sci. Rev. 212, 1159.
+Manoharan, P.K., Gopalswamy, N., Yashiro, S., Lara, A., Michalek, G., Howard, R.A.: 2004, Influence of coronal mass ejection interaction on propagation of IP shocks. J. Geophys. Res. 109, A06109.
+Manoharan, P.K.: 2006, Evolution of CME in the inner heliosphere-a study using white light and scintillation images. Solar Phys. 235, 345.
+Michalek, G., Gopalswamy, N., Lara, A., Manoharan, P.K.: 2004, Transit time of halo coronal mass ejections in the vicinity of the Earth. Astron. Astrophys. 423, 729.
+Mujiber Rahman, A., Shanmugaraju, A., Umapathy, S., Moon, Y.-J.: 2013, A statistical study of the stand-off distances in interplanetary coronal mass ejections. J. Atmos. Solar-Terr. Phys. 105, 181.
+Prasanna Subramanian, S., Shanmugaraju, A., Vršnak, B.: 2016, Comparison of ICME parameters using drag based model for interacting and non-interacting CMEs. Cent. Eur. Astrophys. Bull. 40, 177.
+Prasanna Subramanian, S., Shanmugaraju, A.: 2016, Study of intensive solar flares in the rise phase of solar cycle 23 and 24 and other activities. Astrophys. Space Sci. 361, 78.
+Rollett, T., Temmer, M., Mostl, C., Lugaz, N., Veronig, A.M., Mostl, U.V.: 2013, Assessing the constrained harmonic mean method for deriving kinematics of ICMEs with a numerical simulation. Solar Phys. 283, 541.
+Shanmugaraju, A., Vršnak, B.: 2014, Transit time of coronal mass ejections under different ambient solar wind conditions. Solar Phys. 389, 339.
+Shanmugaraju, A., Moon, Y.J., Prasanna Subramanian, S.: 2013, Kinematics of strongly decelerated and strongly decelerated DH type II associated CMEs. Cent. Eur. Astrophys. Bull. 37, 673.
+Shanmugaraju, A., Bendict Lawrance, M.: 2015, Halo coronal mass ejections and their relation to DH type II radio bursts. Solar Phys. 290, 2963.
+Subramanian, P., Arunbabu, K.P., Vourlidas, A., Mauriya, A.: 2014, Self-similar expansion of solar coronal mass ejections: implications for Lorentz self-force driving. Astrophys. J. 790, 125.
+Syed Ibrahim, M., Manoharan, P.K., Shanmugaraju, A.: 2017, Propagation of coronal mass ejections observed during the rising phase of solar cycle 24. Solar Phys. 292, 193.
+Vršnak, B., Gopalswamy, N.: 2002, Influence of the aerodynamic drag on the motion of interplanetary ejecta. J. Geophys. Res. 107, A2.
+Vršnak, B., Žic, T.: 2007, Transit times of interplanetary coronal mass ejections and the solar wind speed. Astron. Astrophys. 472, 937.
+Vršnak, B., Zic, T., Falkenberg, T.V., Mostl, C., Vennerstrom, S., Vrbanec, D.: 2010, The role of aerodynamic drag in propagation of interplanetary coronal mass ejections. Astron. Astrophys. 512, A43.
+Vršnak, B., Zic, T., Vrbanec, D., Temmer, M., Rollett, T., Mostl, C., Vernoig, A.M., Calogovic, J., Dumbovic, M., Lulic, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: the drag based model. Solar Phys. 285, 295.
+Vršnak, B., Temmer, M., Žic, T., Taktakishvili, A., Dumbović, M., Möstl, C., Zic, T., et al.: 2014, Heliospheric propagation of coronal mass ejections: comparison of numerical WSA-ENLIL+Cone model and analytical drag-based model. Astrophys. J. Suppl. 213, 21.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, J. Geophys. Res. 109, 07105.
+Zhao, X.H., Feng, X.S.: 2012, Shock propagation model version 2 and its application in predicting the arrivals at Earth of interplanetary shocks during solar cycle 23. J. Geophys. Res.
+Zhao, X.H., Dryer, M.: 2014, Current status of CME/shock arrival time prediction. Space Weather 12, 448.

@@ -1,0 +1,42 @@
+Beresnyak, A.: 2012, Basic properties of magnetohydrodynamic turbulence in the inertial range. Mon. Not. Roy. Astron. Soc. 422, 3495.
+Bruno, R., Carbone, V.: 2013, The solar wind as a turbulence laboratory. Living Rev. Solar Phys. 10, 2.
+Buchlin, E., Velli, M.: 2007, Shell models of RMHD turbulence and the heating of solar coronal loops. Astrophys. J. 662, 701.
+Chandran, B.D.G., Dennis, T.J., Quataert, E., Bale, S.D.: 2011, Incorporating kinetic physics into a two-fluid solar-wind model with temperature anisotropy and low-frequency Alfvén-wave turbulence. Astrophys. J. 743, 197.
+Cranmer, S.R., van Ballegooijen, A.A., Edgar, R.J.: 2007, Self-consistent coronal heating and solar wind acceleration from anisotropic magnetohydrodynamic turbulence. Astrophys. J. Suppl. Ser. 171, 520.
+Del Zanna, L., Matteini, L., Landi, S., Verdini, A., Velli, M.: 2015, Parametric decay of parallel and oblique Alfvén waves in the expanding solar wind. J. Plasma Phys. 81(1), 325810102.
+Dmitruk, P., Milano, L.J., Matthaeus, W.H.: 2001, Wave-driven turbulent coronal heating in open field line regions: Nonlinear phenomenological model. Astrophys. J. 548, 482.
+Dmitruk, P., Matthaeus, W.H., Milano, L.J., Oughton, S., Zank, G.P., Mullan, D.J.: 2002, Coronal heating distribution due to low-frequency, wave-driven turbulence. Astrophys. J. 575, 571.
+Dong, Y., Verdini, A., Grappin, R.: 2014, Evolution of turbulence in the expanding solar wind, a numerical study. Astrophys. J. 793(2), 118.
+Giuliani, P., Carbone, V.: 1998, A note on shell models for MHD turbulence. Europhys. Lett. 43, 527.
+Gledzer, E.B.: 1973, System of hydrodynamic type admitting two quadratic integrals of motion. Sov. Phys. Dokl. 18, 216.
+Grappin, R., Velli, M., Mangeney, A.: 1993, Nonlinear wave evolution in the expanding solar wind. Phys. Rev. Lett. 70(1), 2190.
+Hossain, M., Gray, P.C., Pontius, D.H.J., Matthaeus, W.H., Oughton, S.: 1995, Phenomenology for the decay of energy-containing eddies in homogeneous MHD turbulence. Phys. Fluids 7(1), 2886.
+Lionello, R., Velli, M., Downs, C., Linker, J.A., Mikić, Z., Verdini, A.: 2014, Validating a time-dependent turbulence-driven model of the solar wind. Astrophys. J. 784(2), 120.
+Matsumoto, T., Suzuki, T.K.: 2012, Connecting the Sun and the solar wind: The first 2.5-dimensional self-consistent MHD simulation under the Alfvén wave scenario. Astrophys. J. 749, 8.
+Matthaeus, W.H., Minnie, J., Breech, B., Parhi, S., Bieber, J., Oughton, S.: 2004, Transport of cross helicity and radial evolution of Alfvénicity in the solar wind. Geophys. Res. Lett. 31(1), L12803.
+Montagud-Camps, V., Grappin, R., Verdini, A.: 2018, Turbulent heating between 0.2 and 1 AU: A numerical study. Astrophys. J. 853(2), 153.
+Nigro, G., Malara, F., Carbone, V., Veltri, P.: 2004, Nanoflares and MHD turbulence in coronal loops: A hybrid shell model. Phys. Rev. Lett. 92(19), 194501.
+Perez, J.C., Chandran, B.D.G.: 2013, Direct numerical simulations of reflection-driven, reduced magnetohydrodynamic turbulence from the Sun to the Alfvén critical point. Astrophys. J. 776(2), 124.
+Politano, H., Pouquet, A.G.: 1998, Von Kármán–Howarth equation for magnetohydrodynamics and its consequences on third-order longitudinal structure and correlation functions. Phys. Rev. E, Stat. Phys. 57(1), 21.
+Shoda, M., Yokoyama, T.: 2016, Nonlinear reflection process of linearly polarized, broadband Alfvén waves in the fast solar wind. Astrophys. J. 820, 123.
+Shoda, M., Yokoyama, T., Suzuki, T.K.: 2018a, A self-consistent model of the coronal heating and solar wind acceleration including compressible and incompressible heating processes. Astrophys. J. 853(2), 190.
+Shoda, M., Yokoyama, T., Suzuki, T.K.: 2018b, Frequency-dependent Alfvén-wave propagation in the solar wind: Onset and suppression of parametric decay instability. Astrophys. J. 860, 17.
+Suzuki, T.K., Inutsuka, S.-i.: 2005, Making the corona and the fast solar wind: A self-consistent simulation for the low-frequency Alfvén waves from the photosphere to 0.3 AU. Astrophys. J. 632(1), L49.
+Suzuki, T.K., Inutsuka, S.-I.: 2006, Solar winds driven by nonlinear low-frequency Alfvén waves from the photosphere: Parametric study for fast/slow winds and disappearance of solar winds. J. Geophys. Res. Space Phys. 111, A06101.
+Tenerani, A., Velli, M.: 2017, Evolving waves and turbulence in the outer corona and inner heliosphere: The accelerating expanding box. Astrophys. J. 843, 26.
+Usmanov, A.V., Goldstein, M.L., Matthaeus, W.H.: 2014, Three-fluid, three-dimensional magnetohydrodynamic solar wind model with eddy viscosity and turbulent resistivity. Astrophys. J. 788, 43.
+van Ballegooijen, A.A., Asgari-Targhi, M.: 2016, Heating and acceleration of the fast solar wind by Alfvén wave turbulence. Astrophys. J. 821, 106.
+van Ballegooijen, A.A., Asgari-Targhi, M.: 2017, Direct and inverse cascades in the acceleration region of the fast solar wind. Astrophys. J. 835, 10.
+van der Holst, B., Sokolov, I.V., Meng, X., Jin, M., Manchester, W.B. IV, Tóth, G., Gombosi, T.I.: 2014, Alfvén Wave Solar Model (AWSoM): Coronal heating. Astrophys. J. 782, 81.
+Vasquez, B.J., Smith, C.W., Hamilton, K., MacBride, B.T., Leamon, R.J.: 2007, Evaluation of the turbulent energy cascade rates from the upper inertial range in the solar wind at 1 AU. J. Geophys. Res. 112(A7), A07101.
+Verdini, A., Grappin, R.: 2012, Transition from weak to strong cascade in MHD turbulence. Phys. Rev. Lett. 109(2), 025004.
+Verdini, A., Grappin, R., Velli, M.: 2012, Coronal heating in coupled photosphere-chromosphere-coronal systems: Turbulence and leakage. Astron. Astrophys. 538, A70.
+Verdini, A., Velli, M.: 2007, Alfvén waves and turbulence in the solar atmosphere and solar wind. Astrophys. J. 662, 669.
+Verdini, A., Velli, M., Buchlin, É.: 2009, Turbulence in the sub-Alfvénic solar wind driven by reflection of low-frequency Alfvén waves. Astrophys. J. Lett. 700(1), L39.
+Verdini, A., Velli, M., Matthaeus, W.H., Oughton, S., Dmitruk, P.: 2010, A turbulence-driven model for heating and acceleration of the fast wind in coronal holes. Astrophys. J. Lett. 708, L116.
+Verdini, A., Grappin, R., Pinto, R.F., Velli, M.: 2012, On the origin of the 1/f spectrum in the solar wind magnetic field. Astrophys. J. Lett. 750(2), L33.
+Verdini, A., Grappin, R., Hellinger, P., Landi, S., Müller, W.-C.: 2015, Anisotropy of third-order structure functions in MHD turbulence. Astrophys. J. 804(2), 119.
+Wang, Y.-M.: 1994, Polar plumes and the solar wind. Astrophys. J. 435, L153.
+Wang, Y.-M., Grappin, R., Robbrecht, E., Sheeley, N.R. Jr.: 2012, On the nature of the solar wind from coronal pseudostreamers. Astrophys. J. 749, 182.
+Woolsey, L.N., Cranmer, S.R.: 2015, Time-dependent turbulent heating of open flux tubes in the chromosphere, corona, and solar wind. Astrophys. J. 811, 136.
+Yamada, M., Ohkitani, K.: 1987, Lyapunov spectrum of a chaotic model of three-dimensional turbulence. J. Phys. Soc. Japan 56, 4210.

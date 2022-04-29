@@ -1,0 +1,43 @@
+Abramenko, V.I., Yurchyshyn, V.B., Wang, H., Spirock, T.J., Goode, P.R.: 2002, Astrophys. J. 577, 487.
+Abramenko, V.I., Yurchyshyn, V.B., Wang, H., Spirock, T.J., Goode, P.R.: 2003, Astrophys. J. 597, 1135.
+Alberti, T., Laurenza, M., Cliver, E.W., Storini, M., Consolini, G., Lepreti, F.: 2017, Astrophys. J. 838(1), 59.
+Anastasiadis, A.: 2002, J. Atmos. Solar-Terr. Phys. 64, 481.
+Balch, C.C.: 1999, Radiat. Meas. 30(3), 231.
+Balch, C.C.: 2008, Space Weather 6(1), S01001.
+Bütikofer, R., Flückiger, E., Desorgher, L., Moser, M.: 2008, Sci. Total Environ. 391(2), 177.
+Cane, H.V., Lario, D.: 2006, Space Sci. Rev. 123, 45.
+Dimitropoulou, M., Georgoulis, M., Isliker, H., Vlahos, L., Anastasiadis, A., Strintzi, D., Moussas, X.: 2009, Astron. Astrophys. 505, 1245.
+Falconer, D., Moore, R., Gary, A.: 2007, In: American Astronomical Society Meeting Abstracts #210, Bulletin of the American Astronomical Society 39, 135.
+Georgoulis, M.K.: 2005, Solar Phys. 228, 5.
+Georgoulis, M.K.: 2008, Geophys. Res. Lett. 35, L06S02.
+Georgoulis, M.K.: 2012, Astrophys. Space Sci. Proc. 30, 93.
+Georgoulis, M.K., Rust, D.M.: 2007, Astrophys. J. Lett. 661, 109.
+Georgoulis, M., Raouafi, N.-E., Henney, C.: 2008, ASP Conf. Ser. 383, 107.
+Hapgood, M., Thomson, A.: 2010, Space weather: Its impact on earth and implications for business, Lloyd’s 360 Risk Insight.
+Holmes-Siedle, A., Adams, L.: 1993, Handbook of radiation effects.
+James, T., Subramanian, P., Kontar, E.P.: 2017, Mon. Not. Roy. Astron. Soc. 471(1), 89.
+Jiggens, P., Chavy-Macdonald, M.-A., Santin, G., Menicucci, A., Evans, H., Hilgers, A.: 2014, J. Space Weather Space Clim. 4, A20.
+Kraaikamp, E., Verbeeck, C.: 2015, J. Space Weather Space Clim. 5, A18.
+Krucker, S., White, S.M., Lin, R.P.: 2007, Astrophys. J. Lett. 669(1), L49.
+LaBonte, B., Georgoulis, M., Rust, D.: 2007, Astrophys. J. 671(1), 955.
+Laurenza, M., Cliver, E.W., Hewitt, J., Storini, M., Ling, A.G., Balch, C.C., Kaiser, M.L.: 2009, Space Weather 7, S04008.
+Leka, K.D., Barnes, G.: 2007, Astrophys. J. 656, 1173.
+Mason, J.P., Hoeksema, J.T.: 2010, Astrophys. J. 723, 634.
+McAteer, R.T.J., Gallagher, P.T., Ireland, J.: 2005, Astrophys. J. 631, 628.
+Moon, Y.-J., Choe, G.S., Yun, H.S., Park, Y.D.: 2001, J. Geophys. Res. 106, 29951.
+Núñez, M.: 2011, Space Weather 9(7).
+Papaioannou, A., Anastasiadis, A., Sandberg, I., Georgoulis, M.K., Tsiropoula, G., Tziotziou, K., Jiggens, P., Hilgers, A.: 2015, J. Phys. Conf. Ser. 632(1), 012075.
+Papaioannou, A., Sandberg, I., Anastasiadis, A., Kouloumvakos, A., Georgoulis, M.K., Tziotziou, K., Tsiropoula, G., Jiggens, P., Hilgers, A.: 2016, J. Space Weather Space Clim. 6(27), A42.
+Papaioannou, A., Anastasiadis, A., Sandberg, I., Jiggens, P.: 2017, J. Space Weather Space Clim.
+Patsourakos, S., Georgoulis, M., Vourlidas, A., Nindos, A., Sarris, T., Anagnostopoulos, G., Anastasiadis, A., Chintzoglou, G., Daglis, I., Gontikakis, C., et al.: 2016, Astrophys. J. 817(1), 14.
+Qahwaji, R., Colak, T.: 2007, Solar Phys. 241, 195.
+Robbrecht, E., Berghmans, D.: 2004, Astron. Astrophys. 425(3), 1097.
+Robbrecht, E., Berghmans, D., Van der Linden, R.: 2009, Astrophys. J. 691(2), 1222.
+Sandberg, I., Jiggens, P., Heynderickx, D., Daglis, I.A.: 2014, Geophys. Res. Lett. 41, 4435.
+Schrijver, C.J.: 2007, Astrophys. J. Lett. 655, 117.
+Smart, D.F., Shea, M.A.: 1989, J. Spacecr. Rockets 26, 403.
+Srour, J.R., McGarrity, J.M.: 1988, Proc. IEEE 76(11), 1443.
+Uritsky, V.M., Paczuski, M., Davila, J.M., Jones, S.I.: 2007, Phys. Rev. Lett. 99(2), 025001.
+Uritsky, V.M., Davila, J.M., Ofman, L., Coyner, A.J.: 2013, Astrophys. J. 769, 62.
+Vainio, R., Valtonen, E., Heber, B., Malandraki, O.E., Papaioannou, A., Klein, K.-L., Afanasiev, A., Agueda, N., Aurass, H., Battarbee, M., Braune, S., Dröge, W., Ganse, U., Hamadache, C., Heynderickx, D., Huttunen-Heikinmaa, K., Kiener, J., Kilian, P., Kopp, A., Kouloumvakos, A., Maisala, S., Mishev, A., Miteva, R., Nindos, A., Oittinen, T., Raukunen, O., Riihonen, E., Rodríguez-Gasén, R., Saloniemi, O., Sanahuja, B., Scherer, R., Spanier, F., Tatischeff, V., Tziotziou, K., Usoskin, I.G., Vilmer, N.: 2013, J. Space Weather Space Clim. 3(27), A12.
+Yashiro, S., Gopalswamy, N., Akiyama, S., Michalek, G., Howard, R.A.: 2005, J. Geophys. Res. 110, A12S05.

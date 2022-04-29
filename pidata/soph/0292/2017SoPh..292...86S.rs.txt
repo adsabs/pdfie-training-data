@@ -1,0 +1,70 @@
+Arevalo, M.J., Gomez, R., Vazquez, M., Balthasar, H., Wöhl, H.: 1982, Differential rotation and meridional motions of sunspots from 1874 to 1902. Astron. Astrophys. 111, 266.
+Balthasar, H., Vázquez, M., Wöhl, H.: 1986, Differential rotation of sunspot groups in the period from 1874 through 1976 and changes of the rotation velocity within the solar cycle. Astron. Astrophys. 155, 87.
+Balthasar, H., Wöhl, H.: 1980, Differential rotation and meridional motions of sunspots in the years 1940 – 1968. Astron. Astrophys. 92, 111.
+Balthasar, H., Wöhl, H.: 1983, On the determination of heliographic positions and rotation velocities of sunspots. II – Systematic effects caused by the Wilson depression. Solar Phys. 88, 71.
+Balthasar, H., Lustig, G., Wöhl, H., Stark, D.: 1986, The solar rotation elements i and omega derived from sunspot groups. Astron. Astrophys. 160, 277.
+Baranyi, T., Győri, L., Ludmány, A.: 2016, On-line tools for solar data compiled at the Debrecen observatory and their extensions with the Greenwich sunspot data. Solar Phys.
+Basu, S., Antia, H.M.: 2003, Changes in solar dynamics from 1995 to 2002. Astrophys. J. 585, 553.
+Beck, J.G.: 2000, A comparison of differential rotation measurements – (Invited Review). Solar Phys. 191, 47.
+Belvedere, G., Godoli, G., Motta, S., Paterno, L., Zappala, R.A.: 1976, Surface Reynolds stresses determined from the analysis of facular motions and the maintenance of the sun’s differential rotation. Solar Phys. 46, 23.
+Brajša, R., Wöhl, H., Vršnak, B., Ruždjak, D., Sudar, D., Roša, D., Hržina, D.: 2002, Differential rotation of stable recurrent sunspot groups. Solar Phys. 206, 229.
+Brajša, R., Wöhl, H., Ruždjak, D., Schawinski-Guiton, K.: 2004, Variation of the solar rotation during the activity cycle applying the residual method to Greenwich data. Hvar Obs. Bull. 28, 55.
+Brajša, R., Wöhl, H., Ruždjak, D., Vršnak, B., Verbanac, G., Svalgaard, L., Hochedez, J.-F.: 2007, On the solar rotation and activity. Astron. Nachr. 328, 1013.
+Canuto, V.M., Minotti, F.O., Schilling, O.: 1994, Differential rotation and turbulent convection: a new Reynolds stress model and comparison with solar data. Astrophys. J. 425, 303.
+Duvall, T.L. Jr.: 1979, Large-scale solar velocity fields. Solar Phys. 63, 3.
+Foukal, P.V.: 2013, Solar Astrophysics, 3rd, 216. Revised edition.
+Gilman, P.A.: 1981, Global circulation and the solar dynamo. NASA Spec. Publ. 450.
+Gilman, P.A., Howard, R.: 1984, On the correlation of longitudinal and latitudinal motions of sunspots. Solar Phys. 93, 171.
+González Hernández, I., Kholikov, S., Hill, F., Howe, R., Komm, R.: 2008, Subsurface meridional circulation in the active belts. Solar Phys. 252, 235.
+González Hernández, I., Howe, R., Komm, R., Hill, F.: 2010, Meridional circulation during the extended solar minimum: another component of the torsional oscillation? Astrophys. J. Lett. 713, L16.
+Gupta, S.S., Sivaraman, K.R., Howard, R.F.: 1999, Measurement of Kodaikanal white-light images – III. Rotation rates and activity cycle variations. Solar Phys. 188, 225.
+Győri, L., Ludmány, A., Baranyi, T.: 2017, Comparative analysis of Debrecen sunspot catalogues. Mon. Not. Roy. Astron. Soc. 465, 1259.
+Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Larsen, R.M., Hill, F.: 2002, Evolving submerged meridional circulation cells within the upper convection zone revealed by ring-diagram analysis. Astrophys. J. 570, 855.
+Harvey, K.L.: 1993, Properties of emerging bipolar active regions. In: Zirin, H., Ai, G., Wang, H. (eds.) IAU Colloq. 141: The Magnetic and Velocity Fields of Solar Active Regions, Astronomical Society of the Pacific Conference Series 46, 488.
+Hathaway, D.H.: 1996, Doppler measurements of the Sun’s meridional flow. Astrophys. J. 460, 1027.
+Howard, R.: 1979, Evidence for large-scale velocity features on the sun. Astrophys. J. Lett. 228, L45.
+Howard, R.F.: 1991a, Cycle latitude effects for sunspot groups. Solar Phys. 135, 327.
+Howard, R.F.: 1991b, The magnetic fields of active regions – part four. Solar Phys. 131, 259.
+Howard, R., Gilman, P.A.: 1986, Meridional motions of sunspots and sunspot groups. Astrophys. J. 307, 389.
+Howard, R., Labonte, B.J.: 1980, The sun is observed to be a torsional oscillator with a period of 11 years. Astrophys. J. Lett. 239, L33.
+Howe, R., Christensen-Dalsgaard, J., Hill, F., Komm, R.W., Larsen, R.M., Schou, J., Thompson, M.J., Toomre, J.: 2000, Deeply penetrating banded zonal flows in the solar convection zone. Astrophys. J. Lett. 533, L163.
+Javaraiah, J.: 2003, Long-term variations in the solar differential rotation. Solar Phys. 212, 23.
+Javaraiah, J.: 2010, Long-term variations in the mean meridional motion of the sunspot groups. Astron. Astrophys. 509, A30.
+Javaraiah, J., Bertello, L., Ulrich, R.K.: 2005, Long-term variations in solar differential rotation and sunspot activity. Solar Phys. 232, 25.
+Kambry, M.A., Nishikawa, J.: 1990, Solar differential rotation derived from sunspot observations. Solar Phys. 126, 89.
+Kambry, M.A., Nishikawa, J., Sakurai, T., Ichimoto, K., Hiei, E.: 1991, Solar meridional motions derived from sunspot observations. Solar Phys. 132, 41.
+Khutsishvili, E.V., Gigolashvili, M.S., Kvernadze, T.M.: 2002, Differential rotation of the sun determined tracing sunspots and oscillations of sunspot tilt angle. Solar Phys. 206, 219.
+Komm, R.W., Howard, R.F., Harvey, J.W.: 1993, Rotation rates of small magnetic features from two- and one-dimensional cross-correlation analyses. Solar Phys. 145, 1.
+Kosovichev, A.G., Zhao, J.: 2016, Reconstruction of solar subsurfaces by local helioseismology. In: Rozelot, J.-P., Neiner, C. (eds.) Lecture Notes in Physics 914, Springer, Berlin, 25.
+Lustig, G.: 1983, Solar rotation 1947 – 1981 – determined from sunspot data. Astron. Astrophys. 125, 355.
+Lustig, G., Wöhl, H.: 1990, Solar meridional plasma motions from 1982 until 1986. Astron. Astrophys. 229, 224.
+Newton, H.W., Nunn, M.L.: 1951, The Sun’s rotation derived from sunspots 1934 – 1944 and additional results. Mon. Not. Roy. Astron. Soc. 111, 413.
+Olemskoy, S.V., Kitchatinov, L.L.: 2005, On the determination of meridional flow on the Sun by the method of tracers. Astron. Lett. 31, 706.
+Pérez Garde, M., Vázquez, M., Schwan, H., Wöhl, H.: 1981, Large-scale solar motions as determined by Doppler shift measurements using a linear photodiode array. Astron. Astrophys. 93, 67.
+Pulkkinen, P., Tuominen, I.: 1998a, Velocity structures from sunspot statistics in cycles 10 to 22. I. Rotational velocity. Astron. Astrophys. 332, 748.
+Pulkkinen, P., Tuominen, I.: 1998b, Velocity structures from sunspot statistics in cycles 10 to 22. II. Latitudinal velocity and correlation functions. Astron. Astrophys. 332, 755.
+Rüdiger, G.: 1980, Reynolds stresses and differential rotation. I – On recent calculations of zonal fluxes in slowly rotating stars. Geophys. Astrophys. Fluid Dyn. 16, 239.
+Ruždjak, D., Ruždjak, V., Brajša, R., Wöhl, H.: 2004, Deceleration of the rotational velocities of sunspot groups during their evolution. Solar Phys. 221, 225.
+Ruždjak, D., Brajša, R., Sudar, D., Wöhl, H.: 2005, The influence of the evolution of sunspot groups on the determination of the solar velocity field. Solar Phys. 229, 35.
+Schröter, E.H.: 1985, The solar differential rotation – present status of observations. Solar Phys. 100, 141.
+Schröter, E.H., Wöhl, H.: 1976, Differential rotation and giant cell circulation of solar Ca
+Sivaraman, K.R., Sivaraman, H., Gupta, S.S., Howard, R.F.: 2010, Return meridional flow in the convection zone from latitudinal motions of umbrae of sunspot groups. Solar Phys. 266, 247.
+Skokić, I., Brajša, R., Roša, D., Hržina, D., Wöhl, H.: 2014, Validity of the relations between the synodic and sidereal rotation velocities of the sun. Solar Phys. 289, 1471–1476.
+Snodgrass, H.B., Dailey, S.B.: 1996, Meridional motions of magnetic features in the solar photosphere. Solar Phys. 163, 21.
+Snodgrass, H.B., Howard, R.: 1985, Torsional oscillations of low mode. Solar Phys. 95, 221.
+Stark, D., Wöhl, H.: 1981, On the solar rotation elements as determined from sunspot observations. Astron. Astrophys. 93, 241.
+Stix, M.: 1989, The Sun’s differential rotation. In: Klare, G. (ed.) Reviews in Modern Astronomy, Reviews in Modern Astronomy 2, 248.
+Sudar, D., Skokić, I., Ruždjak, D., Brajša, R., Wöhl, H.: 2014, Tracing sunspot groups to determine angular momentum transfer on the Sun. Mon. Not. Roy. Astron. Soc. 439, 2377.
+Sudar, D., Skokić, I., Brajša, R., Saar, S.H.: 2015, Steps towards a high precision solar rotation profile: results from SDO/AIA coronal bright point data. Astron. Astrophys. 575, A63.
+Sudar, D., Saar, S.H., Skokić, I., Poljančić Beljan, I., Brajša, R.: 2016, Meridional motions and Reynolds stress from SDO/AIA coronal bright points data. Astron. Astrophys. 587, A29.
+Tuominen, I., Virtanen, H.: 1984, Oscillatory motions in the sun corresponding to the solar cycle. Astron. Nachr. 305, 225.
+Ulrich, R.K., Boyden, J.E., Webster, L., Padilla, S.P., Snodgrass, H.B.: 1988, Solar rotation measurements at Mount Wilson. V – Reanalysis of 21 years of data. Solar Phys. 117, 291.
+Vršnak, B., Brajša, R., Wöhl, H., Ruždjak, V., Clette, F., Hochedez, J.-F.: 2003, Properties of the solar velocity field indicated by motions of coronal bright points. Astron. Astrophys. 404, 1117.
+Ward, F.: 1965, The general circulation of the solar atmosphere and the maintenance of the equatorial acceleration. Astrophys. J. 141, 534.
+Ward, F.: 1966, Determination of the solar-rotation rate from the motion of identifiable features. Astrophys. J. 145, 416.
+Wayman, P.A.: 1980, Transactions of the International Astronomical Union, Volume XVIIB: Proceedings of the Seventeenth General Assembly, Montreal, 1979.
+Wöhl, H.: 1983, On the determination of heliographic positions and rotation velocities of sunspots. I – Comparison of results from different observatories and different observing procedures. Solar Phys. 88, 65.
+Wöhl, H., Brajša, R.: 2001, Meridional motions of stable recurrent sunspot groups. Solar Phys. 198, 57.
+Wöhl, H., Brajša, R., Hanslmeier, A., Gissot, S.F.: 2010, A precise measurement of the solar differential rotation by tracing small bright coronal structures in SOHO-EIT images. Results and comparisons for the period 1998 – 2006. Astron. Astrophys. 520, A29.
+Zhao, J., Kosovichev, A.G.: 2004, Torsional oscillation, meridional flows, and vorticity inferred in the upper convection zone of the sun by time-distance helioseismology. Astrophys. J. 603, 776.
+Zuccarello, F., Zappalá, R.A.: 2003, Angular velocity during the cycle deduced using the sunspot group age selection methodology. Astron. Nachr. 324, 464.

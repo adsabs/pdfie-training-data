@@ -1,0 +1,31 @@
+Antalová, A.: 1971, The ratio of penumbral and umbral areas of sun-spots in the 11-year solar activity cycle. Bull. Astron. Inst. Czechoslov. 22, 352.
+Baranyi, T., Győri, L., Ludmány, A.: 2016, On-line tools for solar data compiled at the Debrecen observatory and their extensions with the Greenwich sunspot data. Solar Phys. 291, 3081.
+Beck, J.G., Chapman, G.A.: 1993, A study of the contrast of sunspots from photometric images. Solar Phys. 146, 49.
+Brandt, P.N., Schmidt, W., Steinegger, M.: 1990, On the umbra–penumbra area ratio of sunspots. Solar Phys. 129, 191.
+Carrasco, V.M.S., Vaquero, J.M., Trigo, R.M., Gallego, M.C.: 2018, A curious history of sunspot penumbrae: An update. Solar Phys. 293, 104.
+Fröhlich, C.: 1977, Contemporary measures of the solar constant. In: White, O.R. (ed.) The Solar Output and Its Variation, 93.
+Győri, L., Ludmány, A., Baranyi, T.: 2017, Comparative analysis of Debrecen sunspot catalogues. Mon. Not. Roy. Astron. Soc. 465(2), 1259.
+Hale, G.E.: 1908, On the probable existence of a magnetic field in sun-spots. Astrophys. J. 28, 315.
+Hathaway, D.H.: 2013, A curious history of sunspot penumbrae. Solar Phys. 286, 347.
+Hathaway, D.H.: 2015, The solar cycle. Living Rev. Solar Phys. 12(1), 4.
+Hudson, H.S., Silva, S., Woodard, M., Willson, R.C.: 1982, The effects of sunspots on solar irradiance. Solar Phys. 76(2), 211.
+Jensen, E., Nordø, J., Ringnes, T.S.: 1955, Variations in the structure of sunspots in relation to the sunspot cycle. Astrophys. Nor. 5, 167.
+Jensen, E., Nordø, J., Ringnes, T.S.: 1956, Variations in the relative size of penumbra and umbra of sunspots in the years 1878 – 1954. Ann. Astrophys. 19, 165.
+Jha, B.K., Mandal, S., Banerjee, D.: 2018, Long-term variation of sunspot penumbra to umbra area ratio: A study using Kodaikanal white-light digitized data. Proc. Int. Astron. Union 13(S340), 185.
+Mandal, S., Banerjee, D.: 2016, Sunspot sizes and the solar cycle: Analysis using Kodaikanal white-light digitized data. Astrophys. J. Lett. 830, L33.
+Mandal, S., Hegde, M., Samanta, T., Hazra, G., Banerjee, D., Ravindra, B.: 2017, Kodaikanal digitized white-light data archive (1921 – 2011): Analysis of various solar cycle features. Astron. Astrophys. 601, A106.
+Mathew, S.K., Lagg, A., Solanki, S.K., Collados, M., Borrero, J.M., Berdyugina, S., Krupp, N., Woch, J., Frutiger, C.: 2003, Three dimensional structure of a regular sunspot from the inversion of IR Stokes profiles. Astron. Astrophys. 410, 695.
+Nicholson, S.B.: 1933, The area of a sun-spot and the intensity of its magnetic field. Publ. Astron. Soc. Pac. 45, 51.
+Otsu, N.: 1979, A threshold selection method from gray-level histograms. IEEE Trans. Syst. Man Cybern. 9(1), 62.
+Pettauer, T., Brandt, P.N.: 1997, On novel methods to determine areas of sunspots from photoheliograms. Solar Phys. 175, 197.
+Pucha, R., Hiremath, K.M., Gurumath, S.R.: 2016, Development of a code to analyze the solar white-light images from the Kodaikanal observatory: Detection of sunspots, computation of heliographic coordinates and area. J. Astrophys. Astron. 37, 3.
+Ravindra, B., Priya, T.G., Amareswari, K., Priyal, M., Nazia, A.A., Banerjee, D.: 2013, Digitized archive of the Kodaikanal images: Representative results of solar cycle variation from sunspot area determination. Astron. Astrophys. 550, A19.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I. (MDI Engineering Team): 1995, The solar oscillations investigation – Michelson Doppler imager. Solar Phys. 162, 129.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Solanki, S.K.: 2003, Sunspots: An overview. Astron. Astrophys. Rev. 11(2), 153.
+Steinegger, M., Bonet, J.A., Vázquez, M.: 1997a, A new method for the photometric determination of umbral and total sunspot areas. In: JOSO Annu. Rep., 1996, 89.
+Steinegger, M., Bonet, J.A., Vázquez, M.: 1997b, Simulation of seeing influences on the photometric determination of sunspot areas. Solar Phys. 171(2), 303.
+Tandberg-Hanssen, E.: 1956, A study of the penumbra–umbra ratio of sunspot pairs. Astrophys. Nor. 5, 207.
+Waldmeier, M.: 1939, Über die Struktur der Sonnenflecken. Astron. Mitt. Eidgenöss. Sternwarte Zür. 14, 439.
+Watson, F.T., Fletcher, L., Marshall, S.: 2011, Evolution of sunspot properties during solar cycle 23. Astron. Astrophys. 533, A14.
+Watson, F., Fletcher, L., Dalla, S., Marshall, S.: 2009, Modelling the longitudinal asymmetry in sunspot emergence: The role of the Wilson depression. Solar Phys. 260(1), 5.

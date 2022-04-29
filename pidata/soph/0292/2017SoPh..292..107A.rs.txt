@@ -1,0 +1,53 @@
+Angelopoulos, V., McFadden, J.P., Larson, D., Carlson, C.W., Mende, S.B., Frey, H., et al.: 2008, Science 321, 931.
+Augusto, C.R.A., Kopenkin, V., Navia, C.E., Tsui, K.H., Shigueoka, H., Fauth, A.C., et al.: 2012, Astrophys. J. 759, 143.
+Bartels, J.: 1963, Ann. Geophys. 19, 1.
+Barton, C.E.: 1997, J. Geomagn. Geoelectr. 4942002, 123.
+Belov, A., Abunin, A., Abunina, M., Eroshenko, E., Oleneva, V., Yanke, V., et al.: 2014, Solar Phys. 289, 3949.
+Cane, V.H.: 2000, Space Sci. Rev. 93, 55.
+Cliver, E.W., Cane, V.H.: 1996, J. Geophys. Res. 101, 15197.
+Dungey, J.W.: 1961, Phys. Rev. Lett. 6, 47.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., et al.: 2011, Space Sci. Rev. 159, 357.
+Forbush, S.E.: 1937, Phys. Rev. 51, 1108.
+Forbush, S.E.: 1938, Phys. Rev. 54, 975.
+Frey, H.U., Phan, T.D., Fuselier, S.A., Mende, S.B.: 2003, Nature 426, 533.
+Gaisser, T.K., Stanev, T.: 2010, J. Phys. G 37, 269.
+Gonzalez, W.D., Tsurutani, B.T.: 1987, Planet. Space Sci. 35, 1101.
+Gonzalez, W.D., Tsurutani, B.T., Clua de Gonzalez, A.L.: 1999, Space Sci. Rev. 88, 529.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, J. Geophys. Res. 99, 5771.
+Gopalswamy, N., Mäkelä, P., Akiyama, S., Yashiro, S., Xie, H., Thakur, N., Kahler, S.W.: 2015, J. Phys. Conf. Ser. 642, 012012.
+Gosling, J., McComas, D.J., Phillips, J.L., Bame, S.: 1991, J. Geophys. Res. 96, 7831.
+Heber, B., Wallmann, C., Galsdorf, D., Herbst, K., Kuhl, P., Dumbovic, M., et al.: 2015, Eur. Astrophys. Bull. 39, 75.
+Kavanagh, A., Denton, M.: 2007, Astron. Geophys. 48, 24.
+Kim, R.S., Cho, K.S., Kim, K.H., Park, Y.D., Moon, Y.J., Yi, Y., et al.: 2008, Astrophys. J. 677, 1378.
+Kim, Y.H., Kang, J., Jang, D.Y., Son, J.B., Kim, Y.K.: 2012, J. Korean Phys. Soc. 61, 647.
+Larsen, B.A., Klumpar, D.M., Gurgiolo, C.: 2007, J. Atmos. Solar-Terr. Phys. 69(3), 334.
+Lockwood, J.A.: 1971, Space Sci. Rev. 12, 658.
+Lockwood, J.A., Webber, W.R., Debrunner, H.: 1991, J. Geophys. Res. 96(A4), 5447.
+Mayaud, P.N.: 1980, AGU Monograph 22, 607.
+Molinski, T.S., Hydro, M., Feero, W.E., Damsky, B.L.: 2000, IEEE Spectr. 37, 55.
+Ostgaard, N., Mende, S.B., Frey, H.U., Sigwarth, J.B., Aasnes, A., Weygand, J.M.: 2007, J. Atmos. Solar-Terr. Phys. 69(3), 249.
+Pal, S., Acharya, B.S., Majumder, G., Mondal, N.K., Samuel, D., Satyanarayana, B.: 2012, J. Cosmol. Astropart. Phys. 7, 33.
+Parker, E.N.: 1963, Interplanetary Dynamical Processes, Monographs and Texts in Physics and Astrophysics Interscience, New York.
+Phillips, J.L., Bame, S.J., Feldman, W.C., Goldstein, B.E., Gosling, J.T., Hammond, C.M., et al.: 1995, Science 268, 1030.
+Raghav, A., Bhaskar, A., Lotekar, A., Vichare, G., Yadav, V.: 2014, J. Cosmol. Astropart. Phys. 10, 074.
+Richardson, I.G.: 2004, Space Sci. Rev. 111, 267.
+Rostoker, G.: 1972, Rev. Geophys. Space Phys. 10, 935.
+Rouillard, A., Lockwood, M.: 2007, Solar Phys. 245, 191.
+Rybak, J., Antalova, A., Storini, M.: 2001, Space Sci. Rev. 97, 359.
+Sakurai, K.: 1971, Solar Phys. 20, 147.
+Seppala, A., Verronen, P.T., Clilverd, M.A., Randall, C.E., Tamminen, J., Sofieva, V., et al.: 2007, Geophys. Res. Lett. 34, L12810.
+Smith, E.N.: 2001, J. Geophys. Res. 106, 15819.
+Smith, E.J., Wolf, J.H.: 1976, Geophys. Res. Lett. 3, 137.
+Smith, C.W., L’Heureux, J., Ness, N.F., Acuña, M.H., Burlaga, L.F., Scheifele, J.: 1998, Space Sci. Rev. 86, 613.
+Sugiura, M.: 1964, Ann. Int. Geophys. Year 35, 9.
+Sullivan, J.D.: 1971, Nucl. Instrum. Methods 95, 5.
+Tang, F., Tsurutani, B.T., Smith, E.J., Gonzalez, W.D., Akasofu, S.I.: 1989, J. Geophys. Res. 94, 3535.
+Thomas, S.R., Owens, M.J., Lockwood, M., Scott, C.J.: 2014, Solar Phys. 289, 2653.
+Torrence, C., Compo, G.P.: 1998, Bull. Am. Meteorol. Soc. 79, 61.
+Tsurutani, B.T., Echer, E., Gonzalez, W.D.: 2011, Ann. Geophys. 29, 839.
+Tsurutani, B.T., Smith, E.J., Gonzalez, W.D., Tang, F., Akasofu, S.I.: 1988, J. Geophys. Res. 93, 8519.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L.C., Tang, F., Arballo, J.K., Okada, M.: 1995, J. Geophys. Res. 100, 21717.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L., Guarnieri, F.L., Gopalswamy, N., Grande, M., et al.: 2006, J. Geophys. Res. 111, A07S01.
+Usoskin, I.G., Braun, I., Gladysheva, O.G., Horandel, J.R., Jamsen, T., Kovaltsov, G.A., Starodubtsev, S.A.: 2008, J. Geophys. Res. 117(A7), A07102.
+Villante, U., Bruno, R., Mariani, F., Burlaga, L.F., Ness, N.F.: 1979, J. Geophys. Res. 84, 6641.
+Willcox, E.J., Ness, N.F.: 1965, J. Geophys. Res. 70, 5793.

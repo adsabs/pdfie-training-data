@@ -1,0 +1,31 @@
+Araneda, J.A., Marsch, E., Viñas, A.F.: 2008, Proton core heating and beam formation via parametrically unstable Alfvén-cyclotron waves. Phys. Rev. Lett. 100, 125003.
+Bame, S.J., Asbridge, J.R., Feldman, W.C., Gosling, J.T.: 1977, Evidence for a structure-free state at high solar wind speeds. J. Geophys. Res. 82(10), 1487.
+Berger, L., Wimmer-Schweingruber, R.F., Gloeckler, G.: 2011, Systematic measurements of ion–proton differential streaming in the solar wind. Phys. Rev. Lett. 106, 151103.
+Daughton, W., Gary, S.P., Winske, D.: 1999, Electromagnetic proton/proton instabilities in the solar wind: simulations. J. Geophys. Res. 104(A3), 4657.
+Ďurovcová, T., Němeček, Z., Šafránková, J.: 2019, Evolution of the \upalpha –proton differential motion across stream interaction regions. Astrophys. J. 873(1), 24.
+Ebert, R.W., McComas, D.J., Elliott, H.A., Forsyth, R.J., Gosling, J.T.: 2009, Bulk properties of the slow and fast solar wind and interplanetary coronal mass ejections measured by Ulysses: three polar orbits of observations. J. Geophys. Res. 114(A1), 109.
+Feldman, W.C., Asbridge, J.R., Bame, S.J., Montgomery, M.D.: 1973, Double ion streams in the solar wind. J. Geophys. Res. 78(13), 2017.
+Feldman, W.C., Asbridge, J.R., Bame, S.J., Montgomery, M.D.: 1974, Interpenetrating solar wind streams. Rev. Geophys. 12(4), 715.
+Gary, S.P.: 1993, Theory of Space Plasma Microinstabilities, Cambridge Atmospheric and Space Science Series. Cambridge University Press, Cambridge, ISBN 9780511551512.
+Hellinger, P., Trávníček, P.M.: 2014, Solar wind protons at 1 AU: trends and bounds, constraints and correlations. Astrophys. J. Lett. 784(1), L15.
+Hellinger, P., Matteini, L., Štverák, Š., Trávníček, P.M., Marsch, E.: 2011, Heating and cooling of protons in the fast solar wind between 0.3 and 1 AU: Helios revisited. J. Geophys. Res. 116(A9), 105.
+Hellinger, P., Trávníček, P.M., Štverák, Š., Matteini, L., Velli, M.: 2013, Proton thermal energetics in the solar wind: Helios reloaded. J. Geophys. Res. 118(4), 1351.
+Kasper, J.C., Stevens, M.L., Lazarus, A.J., Steinberg, J.T., Ogilvie, K.W.: 2007, Solar wind helium abundance as a function of speed and heliographic latitude: variation through a solar cycle. Astrophys. J. 660(1), 901.
+Landi, S., Hellinger, P., Velli, M.: 2006, Heliospheric magnetic field polarity inversions driven by radial velocity field structures. Geophys. Res. Lett. 33(14), L14101.
+Leubner, M.P.: 2004, Core-halo distribution functions: a natural equilibrium state in generalized thermostatistics. Astrophys. J. 604(1), 469.
+Livi, S., Marsch, E.: 1987, Generation of solar wind proton tails and double beams by coulomb collisions. J. Geophys. Res. 92(A7), 7255.
+Markwardt, C.B.: 2009, Non-linear least-squares fitting in IDL with MPFIT. In: Astronomical Data Analysis Software and Systems (ADASS XVIII), Quebec, Canada, ASP Conference Series 411, 251.
+Marsch, E.: 2006, Kinetic physics of the solar corona and solar wind. Living Rev. Solar Phys. 3(1), 1.
+Marsch, E.: 2012, Helios: evolution of distribution functions 0.3 – 1 AU. Space Sci. Rev. 172(1), 23.
+Marsch, E., Mühlhäuser, K.-H., Rosenbauer, H., Schwenn, R., Neubauer, F.M.: 1982a, Solar wind helium ions: observations of the Helios solar probes between 0.3 and 1 AU. J. Geophys. Res. 87(A1), 35.
+Marsch, E., Mühlhäuser, K.-H., Schwenn, R., Rosenbauer, H., Pilipp, W., Neubauer, F.M.: 1982b, Solar wind protons: three-dimensional velocity distributions and derived plasma parameters measured between 0.3 and 1 AU. J. Geophys. Res. 87(A1), 52.
+Matteini, L., Hellinger, P., Goldstein, B.E., Landi, S., Velli, M., Neugebauer, M.: 2013, Signatures of kinetic instabilities in the solar wind. J. Geophys. Res. 118(6), 2771.
+Matteini, L., Horbury, T.S., Neugebauer, M., Goldstein, B.E.: 2014, Dependence of solar wind speed on the local magnetic field orientation: role of Alfvénic fluctuations. Geophys. Res. Lett. 41(2), 259.
+Musmann, G., Neubauer, F.M., Maier, A., Lammers, E.: 1975, The foerstersonden magnetic field experiment /E 2/. Raumfahrtforschung 19, 232.
+Neugebauer, M., Goldstein, B.E.: 2013, Double-proton beams and magnetic switchbacks in the solar wind. AIP Conf. Proc. 1539(1), 46.
+Neugebauer, M., Goldstein, B.E., Smith, E.J., Feldman, W.C.: 1996, Ulysses observations of differential alpha-proton streaming in the solar wind. J. Geophys. Res. 101(A8), 17047.
+Rosenbauer, H., Schwenn, R., Miggenrieder, H., Meyer, B., Gründwaldt, H., Mühlhäuser, K.-H., Pellkofer, H., Wolfe, J.H.: 1981. Helios E1 (plasma) instrument technical, document.
+Salem, C.: 2018, HELIOS data archive, the Helios 1 & 2 data revisited.
+Stansby, D., Horbury, T.S.: 2018, Number density structures in the inner heliosphere. Astron. Astrophys. 613(A62), A62.
+Stansby, D., Salem, C., Matteini, L., Horbury, T.: 2018, A new inner heliosphere proton parameter dataset from the Helios mission. Solar Phys. 293(11), 155.
+Tu, C.-Y., Marsch, E., Qin, Z.-R.: 2004, Dependence of the proton beam drift velocity on the proton core plasma beta in the solar wind. J. Geophys. Res. 109(A5), A05101.

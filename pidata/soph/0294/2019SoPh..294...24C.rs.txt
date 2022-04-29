@@ -1,0 +1,80 @@
+Abarbanel, H.D.I., Gollub, J.P.: 1996, Analysis of observed chaotic data. Phys. Today 49, 86.
+Acero, F.J., Carrasco, V.M.S., Gallego, M.C., García, J.A., Vaquero, J.M.: 2017, Extreme value theory and the new sunspot number series. Astrophys. J. 839, 98.
+Arlt, R.: 2009, The butterfly diagram in the eighteenth century. Solar Phys. 255, 143.
+Arlt, R., Weiss, N.: 2014, Solar activity in the past and the chaotic behaviour of the dynamo. Space Sci. Rev. 186, 525.
+Ashwin, P., Covas, E., Tavakol, R.: 1999, Transverse instability for non-normal parameters. Nonlinearity 12, 563.
+Beer, J., Tobias, S., Weiss, N.: 1998, An active sun throughout the Maunder Minimum. Solar Phys. 181, 237.
+Broomhall, A.-M., Nakariakov, V.M.: 2015, A comparison between global proxies of the Sun’s magnetic activity cycle: inferences from helioseismology. Solar Phys. 290, 3095.
+Cameron, R.H., Jiang, J., Schüssler, M.: 2016, Solar cycle 25: another moderate cycle? Astrophys. J. Lett. 823, L22.
+Chandra, R., Zhang, M.: 2012, Cooperative coevolution of Elman recurrent neural networks for chaotic time series prediction. Neurocomputing 86, 116.
+Cheng, T., Wang, J., Haworth, J., Heydecker, B., Chow, A.: 2014, A dynamic spatial weight matrix and localized space-time autoregressive integrated moving average for network modeling. Geogr. Anal. 46(1), 75.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: assembling all corrections. Solar Phys. 291(9-10), 2629.
+Covas, E.: 2017, Spatial-temporal forecasting the sunspot diagram. Astron. Astrophys. 605, A44.
+Covas, E.O., Mena, F.C.: 2011, Forecasting of yield curves using local state space reconstruction. In: Dynamics, Games and Science I, Springer Berlin/Heidelberg, 243.
+Cun, Y.L., Denker, J.S., Solla, S.A.: 1990, Optimal brain damage. In: Toureztky, D.S. (ed.), Advances in Neural Information Processing Systems 2, 598. ISBN 1-55-860100-7.
+Elman, J.L.: 1990, Finding structure in time. Cogn. Sci. 14(2), 179.
+Frank, R.J., Davey, N., Hunt, S.P.: 2001, Time series prediction and neural networks. J. Intell. Robot. Syst. 31(1), 91.
+Fraser, A.M., Swinney, H.L.: 1986, Independent coordinates for strange attractors from mutual information. Phys. Rev. A 33(2), 1134.
+Hale, G.E.: 1908, On the probable existence of a magnetic field in sun-spots. Astrophys. J. 28, 315.
+Han, M., Xi, J., Xu, S., Yin, F.-L.: 2004, Prediction of chaotic time series based on the recurrent predictor neural network. IEEE Trans. Signal Process. 52(12), 3409.
+Hassibi, B., Stork, D.G., Wolff, G.J.: Optimal brain surgeon and general network pruning. In: IEEE International Conference on Neural Networks, IEEE, 2002.
+Hathaway, D.H.: 2015a, Sunspot area butterfly diagram data. Original data in
+Hathaway, D.H.: 2015b, The solar cycle. Living Rev. Solar Phys. 12, 4.
+Hathaway, D.H., Upton, L.A.: 2016, Predicting the amplitude and hemispheric asymmetry of solar cycle 25 with surface flux transport. J. Geophys. Res. 121(11), 10,744.
+Hathaway, D.H., Nandy, D., Wilson, R.M., Reichmann, E.J.: 2003, Evidence that a deep meridional flow sets the sunspot cycle period. Astrophys. J. 589, 665.
+Ilonidis, S., Zhao, J., Hartlep, T.: 2013, Helioseismic investigation of emerging magnetic flux in the solar convection zone. Astrophys. J. 777, 138.
+Ivanov, V.G., Miletsky, E.V.: 2011, Width of sunspot generating zone and reconstruction of butterfly. Solar Phys. 268, 231.
+Jiang, J., Cao, J.: 2018, Predicting solar surface large-scale magnetic field of cycle 24. J. Atmos. Solar-Terr. Phys. 176, 34.
+Jiang, J., Cameron, R.H., Schmitt, D., Schüssler, M.: 2011, The solar magnetic field since 1700. I. Characteristics of sunspot group emergence and reconstruction of the butterfly diagram. Astron. Astrophys. 528, A82.
+Kennel, M.B., Brown, R., Abarbanel, H.D.I.: 1992, Determining embedding dimension for phase-space reconstruction using a geometrical construction. Phys. Rev. A 45, 3403.
+Kim, H.S., Eykholt, R., Salas, J.D.: 1999, Nonlinear dynamics, delay times, and embedding windows. Physica D 127, 48.
+Krizhevsky, A., Sutskever, I., Hinton, G.E.: 2017, ImageNet classification with deep convolutional neural networks. Commun. ACM 60(6), 84.
+Lecun, Y., Bottou, L., Bengio, Y., Haffner, P.: 1998, Gradient-based learning applied to document recognition. Proc. IEEE 86(11), 2278.
+Letellier, C., Aguirre, L.A., Maquet, J., Gilmore, R.: 2006, Evidence for low dimensional chaos in sunspot cycles. Astron. Astrophys. 449, 379.
+Lockwood, M., Owens, M., Barnard, L., Davis, C., Thomas, S.: 2012, Solar cycle 24: what is the sun up to? Astron. Geophys. 53(3), 3.09.
+Lu, Z., Pathak, J., Hunt, B., Girvan, M., Brockett, R., Ott, E.: 2017, Reservoir observers: model-free inference of unmeasured variables in chaotic systems. Chaos 27(4), 041102.
+Luk, K.C., Ball, J.E., Sharma, A.: 2000, A study of optimal model lag and spatial inputs to artificial neural network for rainfall forecasting. J. Hydrol. 227(1-4), 56.
+Luthardt, L., Rößler, R.: 2017, Fossil forest reveals sunspot activity in the early Permian. Geology 45, 279.
+Mayaud, P.-N.: 1972, The aa indices: a 100-year series characterizing the magnetic activity. J. Geophys. Res. 77, 6870.
+McDermott, P.L., Wikle, C.K.: 2017, An ensemble quadratic echo state network for non-linear spatio-temporal forecasting. Statistics 6(1), 315.
+McIntosh, S.W., Wang, X., Leamon, R.J., Davey, A.R., Howe, R., Krista, L.D., Malanushenko, A.V., Markel, R.S., Cirtain, J.W., Gurman, J.B., Pesnell, W.D., Thompson, M.J.: 2014a, Deciphering solar magnetic activity. I. On the relationship between the sunspot cycle and the evolution of small magnetic features. Astrophys. J. 792, 12.
+McIntosh, S.W., Wang, X., Leamon, R.J., Scherrer, P.H.: 2014b, Identifying potential markers of the Sun’s giant convective scale. Astrophys. J. Lett. 784, L32.
+Mundt, M.D., Maguire, W.B. II, Chase, R.R.P.: 1991, Chaos in the sunspot cycle – analysis and prediction. J. Geophys. Res. 96, 1705.
+Muñoz-Jaramillo, A., Balmaceda, L.A., DeLuca, E.E.: 2013, Using the dipolar and quadrupolar moments to improve solar-cycle predictions based on the polar magnetic fields. Phys. Rev. Lett. 111(4), 041106.
+Muñoz-Jaramillo, A., Sheeley, N.R., Zhang, J., DeLuca, E.E.: 2012, Calibrating 100 years of polar faculae measurements: implications for the evolution of the heliospheric magnetic field. Astrophys. J. 753, 146.
+Nevanlinna, H., Kataja, E.: 1993, An extension of the geomagnetic activity index series aa for two solar cycles (1844 – 1868). Geophys. Res. Lett. 20, 2703.
+Oh, K.: 2002, Analyzing stock market tick data using piecewise nonlinear model. Expert Syst. Appl. 22(3), 249.
+Owens, B.: 2013, Long-term research: slow science. Nature 495, 300.
+Parlitz, U., Merkwirth, C.: 2000, Prediction of spatiotemporal time series based on reconstructed local states. Phys. Rev. Lett. 84, 1890.
+Pathak, J., Lu, Z., Hunt, B.R., Girvan, M., Ott, E.: 2017, Using machine learning to replicate chaotic attractors and calculate Lyapunov exponents from data. Chaos 27(12), 121102.
+Pathak, J., Hunt, B., Girvan, M., Lu, Z., Ott, E.: 2018a, Model-free prediction of large spatiotemporally chaotic systems from data: a reservoir computing approach. Phys. Rev. Lett. 120, 024102.
+Pathak, J., Wikner, A., Fussell, R., Chandra, S., Hunt, B.R., Girvan, M., Ott, E.: 2018b, Hybrid forecasting of chaotic processes: using machine learning in conjunction with a knowledge-based model. Chaos 28(4), 041101.
+Pesnell, W.D.: 2008, Predictions of solar cycle 24. Solar Phys. 252(1), 209.
+Pesnell, W.D.: 2012, Solar cycle predictions (invited review). Solar Phys. 281, 507.
+Pesnell, W.D.: 2016, Predictions of solar cycle 24: how are we doing? Space Weather 14(1), 10.
+Petrosian, A., Prokhorov, D., Homan, R., Dasheiff, R., Wunsch, D.: 2000, Recurrent neural network based prediction of epileptic seizures in intra- and extracranial EEG. Neurocomputing 30(1-4), 201.
+Raissi, M.: 2018, Deep hidden physics models: deep learning of nonlinear partial differential equations. ArXiv e-prints.
+Raissi, M., Karniadakis, G.E.: 2018, Hidden physics models: machine learning of nonlinear partial differential equations. J. Comput. Phys. 357, 125.
+Raissi, M., Perdikaris, P., Karniadakis, G.E.: 2017a, Physics informed deep learning (Part I): data-driven solutions of nonlinear partial differential equations. ArXiv e-prints.
+Raissi, M., Perdikaris, P., Karniadakis, G.E.: 2017b, Physics informed deep learning (part II): data-driven discovery of nonlinear partial differential equations. ArXiv e-prints.
+Reed, R., Marks II, R.J.: 1999, Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks, A Bradford Book, Mit Press, Massachusetts. ISBN 0-26-252701-4.
+Rumelhart, D.E., Hinton, G.E., Williams, R.J.: 1986, Learning representations by back-propagating errors. Nature 323, 533.
+Rumelhart, D.E., McClelland, J.L., Group, P.R.: 1986, Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations (Volume 1), A Bradford Book, Massachusetts. ISBN 0-26-218120-7.
+Santos, A.R.G., Cunha, M.S., Avelino, P.P., Campante, T.L.: 2015, Spot cycle reconstruction: an empirical tool. Application to the sunspot cycle. Astron. Astrophys. 580, A62.
+Schwabe, H.: 1844, Sonnenbeobachtungen im Jahre 1843. Von Herrn Hofrath Schwabe in Dessau. Astron. Nachr. 21, 233.
+Sheng, Z., Hong-Xing, L., Dun-Tang, G., Si-Dan, D.: 2003, Determining the input dimension of a neural network for nonlinear time series prediction. Chin. Phys. 12(6), 594.
+Solanki, S.K., Usoskin, I.G., Kromer, B., Schüssler, M., Beer, J.: 2004, Unusual activity of the Sun during recent decades compared to the previous 11,000 years. Nature 431, 1084.
+Spiegel, E.A.: 2009, Chaos and intermittency in the solar cycle. Space Sci. Rev. 144, 25.
+Stathakis, D.: 2009, How many hidden layers and nodes? Int. J. Remote Sens. 30(8), 2133.
+Sunspot Index and Long-Term Solar Observations (SILSO) World Data Center, The international sunspot number, 13-month smoothed monthly sunspot number in
+Upton, L.A., Hathaway, D.H.: 2018, An updated solar cycle 25 prediction with AFT: the modern minimum. Geophys. Res. Lett. 45(16), 8091.
+Usoskin, I.G., Mursula, K., Arlt, R., Kovaltsov, G.A.: 2009, A solar cycle lost in 1793-1800: early sunspot observations resolve the old mystery. Astrophys. J. Lett. 700, L154.
+Waibel, A., Hanazawa, T., Hinton, G., Shikano, K., Lang, K.J.: 1990, Phoneme recognition using time-delay neural networks. In: Readings in Speech Recognition, Elsevier, Amsterdam, 393.
+Wang, Y.-M., Sheeley, N.R.: 2009, Understanding the geomagnetic precursor of the solar cycle. Astrophys. J. Lett. 694, L11.
+Wang, Z., Bovik, A.C., Sheikh, H.R., Simoncelli, E.P.: 2004, Image quality assessment: from error visibility to structural similarity. IEEE Trans. Image Process. 13(4), 600.
+Weiss, N.O.: 1988, Is the solar cycle an example of deterministic chaos? In: Stephenson, F.R., Wolfendale, A.W. (eds.) Secular Solar and Geomagnetic Variations in the Last 10,000 Years, 69.
+Weiss, N.O.: 1990, Periodicity and aperiodicity in solar magnetic activity. Phil. Trans. Roy. Soc. London Ser. A, Math. Phys. Sci. 330, 617.
+Wilson, R.M., Hathaway, D.H.: 2006, On the relation between sunspot area and sunspot number. NASA STI/Recon Technical Report N 6.
+Wilson, D.R., Martinez, T.R.: 2003, The general inefficiency of batch training for gradient descent learning. Neural Netw. 16(10), 1429.
+Zhang, Y.: 2009, Recurrent Neural Networks: Design, Analysis, Applications to Control and Robotic Systems, LAP Lambert Academic Publishing, Riga. ISBN 3-83-830382-2.
+Zhang, J.-S., Xiao, X.-C.: 2000, Predicting chaotic time series using recurrent neural network. Chin. Phys. Lett. 17(2), 88.

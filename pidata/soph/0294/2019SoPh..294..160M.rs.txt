@@ -1,0 +1,95 @@
+Amblard, P.-O., Moussaoui, S., Dudok De Wit, T., Aboudarham, J., Kretzschmar, M., Lilensten, J., Auchère, F.: 2008, The EUV Sun as the superposition of elementary Suns. Astron. Astrophys. 487, L13.
+Ball, W., Schmutz, W., Fehlmann, A., Finsterle, W., Walter, B.: 2016, Assessing the beginning to end-of-mission sensitivity change of the PREcision MOnitor Sensor total solar irradiance radiometer (PREMOS/PICARD). J. Space Weather Space Clim. 6, A32.
+Balmaceda, L.A., Solanki, S.K., Krivova, N.A., Foster, S.: 2009, A homogeneous database of sunspot areas covering more than 130 years. J. Geophys. Res. 114, 1.
+Beaufays, F., Sak, H., Senior, A.: 2014, Long Short-Term Memory Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition.
+Breiman, L.: 1996, Bagging predictors. Mach. Learn. 24, 123.
+Brueckner, G.E., Edlow, K.L., Floyd, L.E. IV, Lean, J.L., VanHoosier, M.E.: 1993, The Solar Ultraviolet Spectral Irradiance Monitor (SUSIM) experiment on board the Upper Atmosphere Research Satellite (UARS). J. Geophys. Res., Atmos. 98, 10695.
+Carlisle, C., Wedge, R., Wu, D., Stello, H., Robinson, R.: 2015, Total and Spectral Solar Irradiance Sensor (TSIS) Project Overview.
+Carroll, R.J., Ruppert, D.: 1996, The use and misuse of orthogonal regression in linear errors-in-variables models. Am. Stat. 50, 1.
+Cherkauer, K.J.: 1996, Human expert-level performance on a scientific image analysis task by a system using combined artificial neural networks. In: Working notes of the AAAI workshop on integrating multiple learned models, AAAI Press, Portland.
+Clevert, D.-A., Unterthiner, T., Hochreiter, S.: 2015, Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs).
+Coddington, O., Lean, J.L., Pilewskie, P., Snow, M., Lindholm, D.: 2015, A solar irradiance climate data record. Bull. Am. Meteorol. Soc. 97, 1265.
+Crommelynck, D., Domingo, V.: 1984, Solar irradiance observations. Science 225, 180.
+Dewitte, S., Nevens, S.: 2016, The total solar irradiance climate data record. Astrophys. J. 830, 1.
+Dudok de Wit, T.: 2011, A method for filling gaps in solar irradiance and solar proxy data. Astron. Astrophys. 533, A29.
+Dudok de Wit, T., Bruinsma, S., Shibasaki, K.: 2014, Synoptic radio observations as proxies for upper atmosphere modelling. J. Space Weather Space Clim. 4, A06.
+Dudok de Wit, T., Kopp, G., Fröhlich, C., Schöll, M.: 2017, Methodology to create a new total solar irradiance record: Making a composite out of multiple data records. Geophys. Res. Lett. 44, 1196.
+Elizondo, D., Hoogenboom, G., McClendon, R.W.: 1994, Development of a neural network model to predict daily solar radiation. Agric. For. Meteorol. 71, 115.
+Ermolli, I., Matthes, K., Dudok De Wit, T., Krivova, N.A., Tourpali, K., Weber, M., Unruh, Y.C., Gray, L., Langematz, U., et al.: 2013, Recent variability of the solar spectral irradiance and its impact on climate modelling. Atmos. Chem. Phys. 13, 3945.
+Fligge, M., Solanki, S.K., Unruh, Y.C.: 2000, Modelling irradiance variations from the surface distribution of the solar magnetic field. Astron. Astrophys. 353, 380.
+Floyd, L.E., Cook, J.W., Herring, L.C., Crane, P.C.: 2003, SUSIM’S 11-year observational record of the solar UV irradiance. Adv. Space Res. 31, 2111.
+Foukal, P., Ortiz, A., Schnerr, R.: 2011, Dimming of the 17th century sun. Astrophys. J. Lett. 733, L38.
+Fröhlich, C.: 2007, Solar irradiance variability since 1978. In: Calisesi, Y., Bonnet, M., Gray, L., Langen, J., Lockwood, M. (eds.) Solar Variability and Planetary Climates, Springer, New York, 53.
+Fröhlich, C.: 2003, Long-term behaviour of space radiometers. Metrologia 40, S60.
+Fröhlich, C.: 2012, Total solar irradiance observations. Surv. Geophys. 33, 453.
+Gardner, M.W., Dorling, S.R.: 1998, Artificial neural networks (the multilayer perceptron)—a review of applications in the atmospheric sciences. Atmos. Environ. 32, 2627.
+Gray, L.J., Beer, J., Geller, M., Haigh, J.D., Lockwood, M., Matthes, K., Cubasch, U., Fleitmann, D., Harrison, G., et al.: 2010, Solar influences on climate. Rev. Geophys. 48, RG4001.
+Haigh, J.D.: 1994, The role of stratospheric ozone in modulating the solar radiative forcing of climate. Nature 370, 544.
+Haigh, J.D.: 2007, The Sun and the Earth’s climate. Liv. Rev. Solar Phys. 4, 2.
+Haigh, J.D., Winning, A.R., Toumi, R., Harder, J.W.: 2010, An influence of solar spectral variations on radiative forcing of climate. Nature 467, 696.
+Hansen, L.K., Salamon, P.: 1990, Neural network ensembles. IEEE Trans. Pattern Anal. Mach. Intell. 12, 993.
+Harder, J., Lawrence, G., Fontenla, J., Rottman, G., Woods, T.: 2005, The spectral irradiance monitor: Scientific requirements, instrument design, and operation modes. In: Rottman, G., Woods, T., George, V. (eds.) The Solar Radiation and Climate Experiment (SORCE), Springer, New York, 141.
+Harder, J., Fontenla, J.M., Pilewskie, P., Richard, E.C., Woods, T.N.: 2009, Trends in solar spectral irradiance variability in the visible and infrared. Geophys. Res. Lett. 36, 1.
+Heath, D.F., Schlesinger, B.M.: 1986, The Mg 280-nm doublet as a monitor of changes in solar ultraviolet irradiance. J. Geophys. Res., Atmos. 91, 8672.
+Hornik, K., Stinchcombe, M., White, H.: 1989, Multilayer feedforward networks are universal approximators. Neural Netw. 2, 359.
+Hoyt, D.V., Kyle, H.L., Hickey, J.R., Maschhoff, R.H.: 1992, The Nimbus 7 solar total irradiance: A new algorithm for its derivation. J. Geophys. Res. 97, 51.
+Hudson, H.S., Silva, S., Woodard, M., Willson, R.C.: 1982, The effects of sunspots on solar irradiance. Solar Phys. 76, 211.
+Jin, F., Sun, S.: 2008, Neural network multitask learning for traffic flow forecasting. In: 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence), IEEE Press, New York 1897.
+Kingma, D.P., Ba, J.: 2014, Adam: A Method for Stochastic Optimization.
+Kopp, G., Lawrence, G.: 2005, The total irradiance monitor (TIM): Instrument design. In: Rottman, G., Woods, T., George, V. (eds.) The Solar Radiation and Climate Experiment (SORCE), Springer, New York, 91.
+Kopp, G., Lean, J.L.: 2011, A new, lower value of total solar irradiance: Evidence and climate significance. Geophys. Res. Lett. 38, 1.
+Kren, A.C.: 2015, Investigating the role of the Sun, the quasi-biennial oscillation, and the pacific decadal oscillation on decadal climate variability of the stratosphere. Atmospheric & Oceanic Sciences Graduate Theses & Dissertations, University of Colorado at Boulder.
+Krivova, N.A., Solanki, S.K., Fligge, M., Unruh, Y.C.: 2003, Reconstruction of solar irradiance variations in Cycle 23: Is solar surface magnetism the cause? Astron. Astrophys. 399, L1.
+Krivova, N.A., Solanki, S.K., Floyd, L.: 2006, Reconstruction of solar UV irradiance in Cycle 23. Astron. Astrophys. 452, 631.
+Krizhevsky, A., Sutskever, I., Hinton, G.E.: 2012, ImageNet classification with deep convolutional neural networks. Adv. Neural Info. Proc. Syst. 1097.
+LASP: 2019, SORCE SIM Release Notes for Version 25, Level 3 data product.
+Lawrence, S., Giles, C.L., Tsoi, A.C., Back, A.D.: 1997, Face recognition: A convolutional neural-network approach. IEEE Trans. Neural Netw. 8, 98.
+Lean, J.: 2000, Evolution of the Sun’s spectral irradiance since the Maunder Minimum. Geophys. Res. Lett. 27, 2425.
+Lean, J.: 1990, A comparison of models of the Sun’s extreme ultraviolet irradiance variations. J. Geophys. Res. 95, 11933.
+Lean, J., Rottman, G., Harder, J., Kopp, G.: 2005, SORCE contributions to new understanding of global change and solar variability. Solar Phys. 230, 27.
+Lean, J.L., DeLand, M.T.: 2012, How does the Sun’s spectrum vary? J. Climate 25, 2555.
+Lean, J.L., Woods, T.N.: 2010, Solar spectral irradiance: Measurements and models. In: Schrijver, C.J., Siscoe, L., George, L. (eds.) Heliophysics: Evolving Solar Activity and the Climates of Space and Earth, Cambridge University Press, Cambridge, 269.
+LeCun, Y., Bengio, Y., Hinton, G.: 2015, Deep learning. Nature 521, 436.
+Lee, R.B., Gibson, M.A., Wilson, R.S., Thomas, S.: 1995, Long-term total solar irradiance variability during sunspot Cycle 22. J. Geophys. Res. 100, 1667.
+Levelt, P.F., van den Oord, G.H.J., Dobber, M.R., Malkki, A., Visser, H., de Vries, J., Stammes, P., Lundell, J.O.V., Saari, H.: 2006, The ozone monitoring instrument. IEEE Trans. Geosci. Remote Sens. 44, 1093.
+Marchenko, S., DeLand, M.: 2018, OMI Solar Spectral Irradiance Data (UPDATE).
+Marchenko, S.V., Deland, M.T.: 2014, Solar spectral irradiance changes during Cycle 24. Astrophys. J. 789, 117.
+Marchenko, S.V., DeLand, M.T., Lean, J.L.: 2016, Solar spectral irradiance variability in Cycle 24: Observations and models. J. Space Weather Space Clim. 40, 1.
+Matthes, K., Funke, B., Anderson, M., Barnard, L., Beer, J., Charbonneau, P., Clilverd, M., Dudok de Wit, T., Haberreiter, M., et al.: 2017, Solar forcing for CMIP6 (v3.2). Geosci. Model Dev. 10, 2247.
+Mauceri, S., Pilewskie, P., Richard, E., Coddington, O., Harder, J., Woods, T.: 2018, Revision of the Sun’s spectral irradiance as measured by SORCE SIM. Solar Phys. 293, 161.
+McClintock, W.E., Rottman, G.J., Woods, T.N.: 2005, Solar-stellar irradiance comparison experiment II (SOLSTICE II): instrument concept and design. In: Rottman, G., Woods, T., George, V. (eds.) The Solar Radiation and Climate Experiment (SORCE), Springer, New York, 225.
+Mekaoui, S., Dewitte, S.: 2008, Total solar irradiance measurement and modelling during Cycle 23. Solar Phys. 247, 203.
+Mellit, A., Pavan, A.M.: 2010, A 24-h forecast of solar irradiance using artificial neural network: Application for performance prediction of a grid-connected PV plant at Trieste, Italy. Solar Energy 84, 807.
+Mikolov, T., Karafiát, M., Burget, L., Cernocký, J., Khudanpur, S.: 2010, Recurrent neural network based language model. In: Eleventh Ann. Conf. International Speech Comm. Assoc., 1045.
+Mohandes, M., Rehman, S., Halawani, T.O.: 1998, Estimation of global solar radiation using artificial neural networks. Renew. Energy 14, 179.
+Pilewskie, P., Kopp, G., Richard, E., Coddington, O., Sparn, T., Woods, T.: 2018, TSIS-1 and continuity of the total and spectral solar irradiance climate data record. In: EGU General Assembly Conf. Abs., 5527.
+Rempel, M., Schlichenmaier, R.: 2011, Sunspot modeling: From simplified models to radiative MHD simulations. Liv. Rev. Solar Phys. 8, 3.
+Richard, E., Harber, D., Drake, G., Rutkowsi, J., Castleman, Z., Smith, M., Sprunck, J., Zheng, W., Smith, P., et al.: 2019, The compact spectral irradiance monitor flight demonstration mission. In: Thomas, S., Pagano, D., Charles, D., Norton, R., Sachidananda, R.B. (eds.) CubeSats and SmallSats for Remote Sensing III, SPIE, Bellingham 15.
+Rottman, G., Woods, T., Snow, M., DeToma, G.: 2001, The solar cycle variation in ultraviolet irradiance. Adv. Space Res. 27, 1927.
+Schöll, M., Dudok de Wit, T., Kretzschmar, M., Haberreiter, M.: 2016, Making of a solar spectral irradiance dataset I: Observations, uncertainties, and methods. J. Space Weather Space Clim. 6, A14.
+Seltzer, M.L., Droppo, J.: 2013, Multi-task learning in deep neural networks for improved phoneme recognition. IEEE International Conference on Acoustics, Speech and Signal Processing, IEEE, Vancouver, 6965.
+Silver, D., Huang, A., Maddison, C.J., Guez, A., Sifre, L., van den Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., et al.: 2016, Mastering the game of Go with deep neural networks and tree search. Nature 529, 484.
+Snow, M., Mcclintock, W.E., Woods, T.N., White, O.R., Harder, J.W., Rottman, G.: 2005, The Mg ii index from SORCE. In: Rottman, G., Woods, T., George, V. (eds.) The Solar Radiation and Climate Experiment (SORCE), Springer, New York, 325.
+Snow, M., Weber, M., Machol, J., Viereck, R., Richard, E.: 2014, Comparison of Magnesium II core-to-wing ratio observations during solar minimum 23/24. J. Space Weather Space Clim. 4, A04.
+Spearman, C.: 1904, The proof and measurement of association between two things. Am. J. Psychol. 15, 72.
+Tapping, K.F.: 1987, Recent solar radio astronomy at centimeter wavelengths: The temporal variability of the 10.7-cm flux. J. Geophys. Res., Atmos. 92, 829.
+Tapping, K.F.: 2013, The 10.7 cm solar radio flux (F10.7). Space Weather 11, 394.
+Tebabal, A., Damtie, B., Nigussie, M., Bires, A., Yizengaw, E.: 2015, Modeling total solar irradiance from PMOD composite using feed-forward neural networks. J. Atmos. Solar-Terr. Phys. 135, 64.
+Tebabal, A., Damtie, B., Nigussie, M., Yizengaw, E.: 2017, Temporal variations in solar irradiance since 1947. Solar Phys. 292, 1.
+Tobiska, W.K.: 1996, Current status of solar EUV measurements and modeling. Adv. Space Res. 18, 3.
+Viereck, R., Puga, L., McMullin, D., Judge, D., Weber, M., Tobiska, W.K.: 2001, The Mg ii index: A proxy for solar EUV. Geophys. Res. Lett. 28, 1343.
+Viereck, R.A., Floyd, L.E., Crane, P.C., Woods, T.N., Knapp, B.G., Rottman, G., Weber, M., Puga, L.C., DeLand, M.T.: 2004, A composite Mg ii index spanning from 1978 to 2003. Space Weather 2, S10005.
+Walton, S.R., Preminger, D.G., Chapman, G.A.: 2003, The contribution of faculae and network to long-term changes in the total solar irradiance. Astrophys. J. 590, 1088.
+West, D., Dellana, S., Qian, J.: 2005, Neural network ensemble strategies for financial decision applications. Comput. Oper. Res. 32, 2543.
+Willson, R.: 1994, Irradiance Observations of SMM, Spacelab 1, UARS, and ATLAS Experiments. In: Int. Astron. Union Colloq. 143, 54.
+Willson, R.C.: 2001, The ACRIMSAT/ACRIM III experiment—extending the precision, long-term total solar irradiance climate database. Earth Obs. 13, 14.
+Willson, R.C.: 2014, ACRIM3 and the total solar irradiance database. Astrophys. Space Sci. 352, 341.
+Willson, R.C., Hudson, H.S.: 1991, The Sun’s luminosity over a complete solar cycle. Nature 351, 42.
+Willson, R.C., Mordvinov, A.V.: 2003, Secular total solar irradiance trend during Solar Cycles 21–23. Geophys. Res. Lett. 30, 1199.
+Woods, T.N., Chamberlin, P.C., Harder, J.W., Hock, R.A., Snow, M., Eparvier, F.G., Fontenla, J., McClintock, W.E., Richard, E.C.: 2009, Solar irradiance reference spectra (SIRS) for the 2008 whole heliosphere interval (WHI). Geophys. Res. Lett. 36, 1.
+Woods, T.N., Eparvier, F.G., Bailey, S.M., Chamberlin, P.C., Lean, J., Rottman, G.J., Solomon, S.C., Tobiska, W.K., Woodraska, D.L.: 2005, Solar EUV Experiment (SEE): Mission overview and first results. J. Geophys. Res. 110, A01312.
+Woods, T.N., Tobiska, W.K., Rottman, G.J., Worden, J.R.: 2000, Improved solar Lyman α irradiance modeling from 1947 through 1999 based on UARS observations. J. Geophys. Res. 105, 27195.
+Yaya, P., Hecker, L., Dudok de Wit, T., Le Fèvre, C., Bruinsma, S.: 2017, Solar radio proxies for improved satellite orbit prediction. J. Space Weather Space Clim. 7, A35.
+Yeo, K.L., Ball, W.T., Krivova, N.A., Solanki, S.K., Unruh, Y.C., Morrill, J.: 2015, UV solar irradiance in observations and the NRLSSI and SATIRE-S models. J. Geophys. Res. 120, 6055.
+Yeo, K.L., Krivova, N.A., Solanki, S.K.: 2017, EMPIRE: A robust empirical reconstruction of solar irradiance variability. J. Geophys. Res. 122, 3888.
+Yeo, K.L., Krivova, N.A., Solanki, S.K., Glassmeier, K.H.: 2014, Reconstruction of total and spectral solar irradiance from 1974 to 2013 based on KPVT, SoHO/MDI, and SDO/HMI observations. Astron. Astrophys. 570, A85.

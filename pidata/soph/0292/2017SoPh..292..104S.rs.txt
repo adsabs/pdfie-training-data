@@ -1,0 +1,87 @@
+Adams, G.G., Tran, D.N.: 1993, The coefficients of restitution of a planar 2-body eccentric impact. ASME J. Appl. Mech. 60, 1058.
+Beer, F.P., Johnston, E.R. Jr., Clausen, W.E.: 2007, Vector Mechanics for Engineers: Dynamics. McGrawHill, New York.
+Brach, R.M.: 1984, Friction, restitution, and energy loss in planar collisions. ASME J. Appl. Mech. 51, 164.
+Brogliato, B.: 1996, In: Thoma, M. (ed.) Nonsmooth Impact Mechanics: Models, Dynamics and Control, Lecture Notes in Control and Inform, Sci. 220, Springer, New York.
+Burlaga, L.F., Behannon, K.W., Klein, L.W.: 1987, Compound streams, magnetic clouds, and major geomagnetic storms. J. Geophys. Res. 92, 5725.
+Burlaga, L.F., Plunkett, S.P., St. Cyr, O.C.: 2002, Successive CMEs and complex ejecta. J. Geophys. Res. 107(A10), 1266.
+Chané, E., Jacobs, C., Van der Holst, B., Poedts, S., Kimpe, D.: 2005, On the effect of the initial magnetic polarity and of the background wind on the evolution of CME shocks. Astron. Astrophys. 432, 331.
+Chang, W.R., Ling, F.F.: 1992, Normal impact model of rough surfaces. ASME J. Tribol. 114, 439.
+Cohen, O., Sokolov, I.V., Roussev, I.I., et al.: 2007, A semi-empirical magnetohydrodynamical model of the solar wind. Astrophys. J. Lett. 654, L163.
+Colaninno, R.C., Vourlidas, A.: 2009, First determination of the true mass of coronal mass ejections: a novel approach to using the two STEREO viewpoints. Astrophys. J. 698, 852.
+Colaninno, R.C., Vourlidas, A.: 2015, Using multiple-viewpoint observations to determine the interaction of three coronal mass ejections observed on 2012 March 5. Astrophys. J. 815, 70.
+Davies, J.A., Harrison, R.A., Rouillard, A.P., Sheeley, N.R., Perry, C.H., Bewsher, D., et al.: 2009, A synoptic view of solar transient evolution in the inner heliosphere using the heliospheric imagers on STEREO. Geophys. Res. Lett. 36, 210.
+Davies, J.A., Harrison, R.A., Perry, C.H., Möstl, C., Lugaz, N., Rollett, T., et al.: 2012, A self-similar expansion model for use in solar wind transient propagation studies. Astrophys. J. 750, 23.
+Davies, J.A., Perry, C.H., Trines, R.M.G.M., Harrison, R.A., Lugaz, N., Möstl, C., et al.: 2013, Establishing a stereoscopic technique for determining the kinematic properties of solar wind transients based on a generalized self-similarly expanding circular geometry. Astrophys. J. 776, 1.
+Farrugia, C., Berdichevsky, D.: 2004, Evolutionary signatures in complex ejecta and their driven shocks. Ann. Geophys. 22, 3679.
+Feng, L., Inhester, B., Gan, W.: 2015, Radial flow pattern of a slow coronal mass ejection. Astrophys. J. 805, 113.
+Feng, L., Wang, Y., Shen, F., Shen, C., Inhester, B., Lu, L., Gan, W.: 2015, Why does the apparent mass of a coronal mass ejection increase? Astrophys. J. 812, 70.
+Gibson, S., Low, B.C.: 1998, A time-dependent three-dimensional magnetohydrodynamic model of the coronal mass ejection. Astrophys. J. 493, 1.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2001, Radio signatures of coronal mass ejection interaction: coronal mass ejection cannibalism? Astrophys. J. Lett. 548, L91.
+Gopalswamy, N., Mäkelä, P., Xie, H., Akiyama, S., Yashiro, S.: 2009, CME interactions with coronal holes and their interplanetary consequences. J. Geophys. Res. 114(A3), A00A22.
+Hayashi, K., Zhao, X.-P., Liu, Y.: 2006, MHD simulation of two successive interplanetary disturbances driven by cone-model parameters in IPS-based solar wind. Geophys. Res. Lett. 33(20), L20103.
+Howard, T.A., Tappin, S.J.: 2008, Three-dimensional reconstruction of two solar coronal mass ejections using the STEREO spacecraft. Solar Phys. 252, 373.
+Howard, T.A., Fry, C.D., Johnston, J.C., Webb, D.F.: 2007, On the evolution of coronal mass ejections in the interplanetary medium. Astrophys. J. 667, 610.
+Inhester, B.: 2006, Stereoscopy basics for the STEREO mission.
+Jackson, J.D.: 1997, Classical Electrodynamics. Wiley, New York.
+Kahler, S.W., Webb, D.F.: 2007, V arc interplanetary coronal mass ejections observed with the Solar Mass Ejection Imager. J. Geophys. Res. 112(A11), 9103.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: an introduction. Space Sci. Rev. 136, 5.
+Keller, J.B.: 1986, Impact with friction. ASME J. Appl. Mech. 53, 1.
+König, J.: 1905, Zum Kontinuum-problem. Math. Ann. 60(2), 177.
+Liu, Y., Davies, J.A., Luhmann, J.G., Vourlidas, A., Bale, S.D., Lin, R.P.: 2010, Geometric triangulation of imaging observations to track coronal mass ejections continuously out to 1 AU. Astrophys. J. Lett. 710, L82.
+Liu, Y.D., Luhmann, J.G., Möstl, C., Martinez-Oliveros, J.C., Bale, S.D., Lin, R.P., betal: 2012, Interactions between coronal mass ejections viewed in coordinated imaging and in situ observations. Astrophys. J. Lett. 746, 2.
+Liu, Y.D. Yang, Z., Wang, R., Luhmann, J.G., Richardson, J.D., Lugaz, N.: 2014, Sun-to-Earth characteristics of two coronal mass ejections interacting near 1 AU: formation of a complex ejecta and generation of a two-step geomagnetic storm. Astrophys. J. Lett. 793, L41.
+Louge, M.Y., Adams, M.E.: 2002, Anomalous behavior of normal kinematic restitution in the oblique impacts of a hard sphere on an elastoplastic plate. Phys. Rev. E 65, 021303.
+Lubarda, V.A.: 2010, The bounds on the coefficients of restitution for the frictional impact of rigid pendulum against a fixed surface. ASME J. Appl. Mech. 77, 011006.
+Lugaz, N., Manchester, I.W.B., Gombosi, T.I.: 2005, Numerical simulation of the interaction of two coronal mass ejections from Sun to Earth. Astrophys. J. 634(1), 651.
+Lugaz, N., Roussev, I.I.: 2011, Numerical modeling of interplanetary coronal mass ejections and comparison with heliospheric images. J. Atmos. Solar-Terr. Phys. 73(10), 1187.
+Lugaz, N., Vourlidas, A., Roussev, I.I.: 2009, Deriving the radial distances of wide coronal mass ejections from elongation measurements in the heliosphere application to CME–CME interaction. Ann. Geophys. 27(9), 3479.
+Lugaz, N., Vourlidas, A., Roussev, I.I., Jacobs, C., Manchester, W.B. IV, Cohen, O.: 2008, The brightness of density structures at large solar elongation angles: what is being observed by STEREO SECCHI? Astrophys. J. Lett. 684, 111.
+Lugaz, N., Vourlidas, A., Roussev, I.I., Morgan, H.: 2009, Solar-terrestrial simulation in the STEREO era: the January 24 – 25, 2007 eruptions. Solar Phys. 256, 269.
+Lugaz, N., Hernandez-Charpak, J.N., Roussev, I.I., Davis, C.J., Vourlidas, A., Davies, J.A.: 2010, Determining the azimuthal properties of coronal mass ejections from multi-spacecraft remote-sensing observations with STEREO SECCHI. Astrophys. J. 715, 493.
+Lugaz, N., Farrugia, C.J., Davies, J.A., Möstl, C., Davis, C.J., Roussev, I.I., Temmer, M.: 2012, The deflection of the two interacting coronal mass ejections of 2010 May 23 – 24 as revealed by combined in situ measurements and heliospheric imaging. Astrophys. J. 759, 68.
+Lugaz, N., Farrugia, C.J., Manchester, W.B., Schwadron, N.: 2013, The interaction of two coronal mass ejections: influence of relative orientation. Astrophys. J. 778, 20.
+Lugaz, N., Temmer, M., Wang, Y., Farrugia, C.: 2017, The interaction of successive coronal mass ejections: a review. Solar Phys. 292, 64.
+MacQueen, R.M., Eddy, J.A., Gosling, J.T., Hildner, E., Munro, R.H., Newkirk, G.A. Jr., Poland, A.I., Ross, C.L.: 1974, The outer solar corona as observed from Skylab: preliminary results. Astrophys. J. 187, L85.
+Maričić, D., Vršnak, B., Dumbović, M., Žic, T., Roša, D., Hržina, D., et al.: 2014, Kinematics of interacting ICMEs and related Forbush decrease: case study. Solar Phys. 289, 351.
+Martínez-Oliveros, J.C., Raftery, C.L., Bain, H.M., Liu, Y., Krupar, V., Bale, S., Krucker, S.: 2012, The 2010 August 1 type II burst: a CME–CME interaction and its radio and white-light manifestations. Astrophys. J. 748, 66.
+Mishra, W., Srivastava, N.: 2014, Morphological and kinematic evolution of three interacting coronal mass ejections of 2011 February 13 – 15. Astrophys. J. 794, 64.
+Mishra, W., Srivastava, N., Chakrabarty, D.: 2015, Evolution and consequences of interacting CMEs of 9 – 10 November 2012 using STEREO/SECCHI and in situ observations. Solar Phys. 290, 527.
+Mishra, W., Srivastava, N., Singh, T.: 2015, Kinematics of interacting CMEs of 25 and 28 September 2012. J. Geophys. Res. 120, 10.
+Mishra, W., Wang, Y., Srivastava, N.: 2016, On understanding the nature of collision of coronal mass ejections observed by STEREO. Astrophys. J. 831, 99.
+Saitoh, K., Bodrova, A., Hayakawa, H., Brilliantov, N.V.: 2010, Negative normal restitution coefficient found in simulation of nanocluster collisions. Phys. Rev. Lett. 105, 238001.
+Schmidt, J., Cargill, P.: 2004, A numerical study of two interacting coronal mass ejections. Ann. Geophys. 22, 2245.
+Schwenn, R., dal Lago, A., Huttunen, E., Gonzalez, W.D.: 2005, The association of coronal mass ejections with their effects near the Earth. Ann. Geophys. 23, 1033.
+Shanmugaraju, A., Prasanna Subramanian, S., Vrsnak, B., Ibrahim, M.S.: 2014, Interaction between two CMEs during 14 – 15 February 2011 and their unusual radio signature. Solar Phys. 289, 4621.
+Shen, F., Feng, X.S., Wang, Y., Wu, S.T., Song, W.B., Guo, J.P., Zhou, Y.F.: 2011, Three-dimensional MHD simulation of two coronal mass ejections’ propagation and interaction using a successive magnetized plasma blobs model. J. Geophys. Res. 116(A09), 103.
+Shen, C., Wang, Y., Wang, S., Liu, Y., Liu, R., Vourlidas, A., et al.: 2012a, Super-elastic collision of large-scale magnetized plasmoids in the heliosphere. Nat. Phys. 8, 923.
+Shen, F., Wu, S.T., Feng, X., Wu, C.-C.: 2012b, Acceleration and deceleration of coronal mass ejections during propagation and interaction. J. Geophys. Res. 117(A11), 101.
+Shen, F., Shen, C., Wang, Y., Feng, X., Xiang, C.: 2013, Could the collision of CMEs in the heliosphere be super-elastic? Validation through three-dimensional simulations. Geophys. Res. Lett. 40, 1457.
+Shen, F., Wang, Y., Shen, C., Feng, X.: 2016, Turn on the super-elastic collision nature of coronal mass ejections through low approaching speed. Sci. Rep. 6, 19576.
+Stewart, D.E.: 2000, Rigid-body dynamics with friction and impact. SIAM Rev. 42, 3.
+Stronge, W.J.: 1990, Rigid body collisions with friction. Proc. Roy. Soc. London Ser. A 431, 169.
+Temmer, M., Vršnak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y.D., et al.: 2012, Characteristics of kinematics of a coronal mass ejection during the 2010 August 1 CME–CME interaction event. Astrophys. J. 749, 57.
+Temmer, M., Veronig, A.M., Peinhart, V., Vršnak, B.: 2014, Asymmetry in the CME–CME interaction process for the events from 2011 February 14 – 15. Astrophys. J. 785, 85.
+Thernisien, A.F.R.: 2011, Implementation of the graduated cylindrical shell model for the three-dimensional reconstruction of coronal mass ejections. Astrophys. J. Suppl. 194, 33.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Modeling of flux rope coronal mass ejections. Astrophys. J. 652, 1.
+Thernisien, A.F.R., Vourlidas, A., Howard, R.A.: 2009, Forward modeling of coronal mass ejections using STEREO/SECCHI data. Solar Phys. 256, 111.
+Thompson, W.T.: 2009, 3D triangulation of a Sun-grazing comet. Icarus 200, 351.
+Titov, V.S., Démoulin, P.: 1999, Basic topology of twisted magnetic configurations in solar flares. Astron. Astrophys. 351, 707.
+Tóth, G., Sokolov, I.V., Gombosi, T.I., Chesney, D.R., Clauer, C.R., de Zeeuw, D.L., et al.: 2005, Space Weather Modeling Framework: a new tool for the space science community. J. Geophys. Res. 110, A12226.
+Tóth, G., De Zeeuw, D.L., Gombosi, T.I., Manchester, W.B., Ridley, A.J., Sokolov, I.V., Roussev, I.I.: 2007, Sun-to-thermosphere simulation of the 28 – 30 October 2003 storm with the Space Weather Modeling Framework. Space Weather 5, S06003.
+Tóth, G., van der Holst, B., Sokolov, I.V., De Zeeuw, D.L., Gombosi, T.I., Fang, F., et al.: 2012, Adaptive numerical algorithms in space weather modelling. J. Comput. Phys. 231, 870.
+Tousey, R., Bartoe, J.D.F., Bohlin, J.D., Brueckner, G.E., Purcell, J.D., Scherrer, V.E., et al.: 1973, A preliminary study of the extreme ultraviolet spectroheliograms from Skylab. Solar Phys. 33, 265.
+van der Holst, B., Manchester, W.B., Frazin, R.A., Vásquez, A.M., Tóth, G., Gombosi, T.I.: 2010, A data-driven, two-temperature solar wind model with Alfvén waves. Astrophys. J. 725, 1373.
+Vourlidas, A., Howard, R.A.: 2006, The proper treatment of coronal mass ejection brightness: a new methodology and implications for observations. Astrophys. J. 642, 1216.
+Vourlidas, A., Subramanian, P., Dere, K.P., Howard, R.A.: 2000, Large-angle spectrometric coronagraph measurements of the energetics of coronal mass ejections. Astrophys. J. 534, 456.
+Wang, Y., Mason, M.T.: 1992, Two-dimensional rigid body collisions with friction. ASME J. Appl. Mech. 59, 635.
+Wang, Y.M., Sheeley, N.R, Nash, A.G.: 1990, Latitudinal distribution of solar–wind speed from magnetic observations of the sun. Nature 347, 439.
+Wang, Y.M., Wang, S., Ye, P.Z.: 2002, Multiple magnetic clouds in interplanetary space. Solar Phys. 211, 333.
+Wang, Y.M., Ye, P.Z., Wang, S.: 2003, Multiple magnetic clouds: several examples during March–April. J. Geophys. Res. 108, 1370.
+Wang, Y., Chen, C., Gui, B., Shen, C., Ye, P., Wang, S.: 2011, Statistical study of coronal mass ejection source locations: understanding CMEs viewed in coronagraphs. J. Geophys. Res. 116, A04104.
+Webb, D.F., Howard, T.A., Fry, C.D., et al.: 2009, Study of CME propagation in the inner heliosphere: SOHO LASCO, SMEI and STEREO HI observations of the January 2007 events. Solar Phys. 256, 239.
+Webb, D.F., Möstl, C., Jackson, B.V., Bisi, M.M., Howard, T.A., Mulligan, T., et al.: 2013, Heliospheric imaging of 3D density structures during the multiple coronal mass ejections of late July to early August 2010. Solar Phys. 285, 317.
+Wood, B.E., Howard, R.A., Plunkett, S.P., Socker, D.G.: 2009, Comprehensive observations of a solar minimum coronal mass ejection with the solar terrestrial relations observatory. Astrophys. J. 694, 707.
+Wu, S.T., Wang, A.H., Gopalswamy, N.: 2002, MHD modeling of CME and CME interactions in a bi-model solar wind: a preliminary analysis of the 20 January 2001 two CMEs interaction event. In: ESA SP-505: SOLMAG 2002. Proceedings of the Magnetic Coupling of the Solar Atmosphere Euroconference, 227.
+Xiong, M., Zheng, H., Wang, S.: 2009, Magnetohydrodynamic simulation of the interaction between two interplanetary magnetic clouds and its consequent geoeffectiveness: 2. Oblique collision. J. Geophys. Res. 114, A11101.
+Xiong, M., Zheng, H., Wu, S.T., Wang, Y., Wang, S.: 2007, Magnetohydrodynamic simulation of the interaction between two interplanetary magnetic clouds and its consequent geoeffectiveness. J. Geophys. Res. 112, A11103.
+Yao, W., Chen, B., Liu, C.: 2005, Energetic coefficient of restitution for planar impact in multi-rigid-body systems with friction. Int. J. Impact Eng. 31, 255.

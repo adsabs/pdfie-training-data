@@ -1,0 +1,43 @@
+Altyntsev, A.T., Grechnev, V.V., Zubkova, G.N., Kardapolova, N.N., Lesovoi, S.V., Rosenraukh, Y.M., Treskov, T.A.: 1995, Observations of solar microwave spikes with high spatial resolution at the SSRT: first results. Astron. Astrophys. 303, 249.
+Aschwanden, M.J.: 1990, Relaxation of the loss-cone by quasi-linear diffusion of the electron-cyclotron maser instability in the solar corona. Astron. Astrophys. Suppl. Ser. 85, 1141.
+Aschwanden, M.J., Guedel, M.: 1992, The coevolution of decimetric millisecond spikes and hard X-ray emission during solar flares. Astrophys. J. 401, 736.
+Baselian, L.L., Goncharov, N.I., Zaitsev, V.V., Zinichev, V.A., Rapoport, V.O., Tsybko, I.G.: 1974, Frequency and time splitting of decameter solar radio bursts, I: Elementary events. Solar Phys. 39, 213.
+Battaglia, M., Benz, A.O.: 2009, Do solar decimetric spikes originate in coronal X-ray sources? Astron. Astrophys. 499, L33.
+Benz, A.O.: 1985, Radio spikes and the fragmentation of flare energy release. Solar Phys. 96, 357.
+Benz, A.O.: 2009, Radio bursts of the non-thermal sun. Landolt Börnstein, 4128.
+Benz, A.O., Csillaghy, A., Aschwanden, M.J.: 1996, Metric spikes and electron acceleration in the solar corona. Astron. Astrophys. 309, 291.
+Benz, A.O., Su, H., Magun, A., Stehling, W.: 1992, Millisecond microwave spikes at 8 GHz during solar flares. Astron. Astrophys. Suppl. Ser. 93, 539.
+Bhat, N.D.R.: 2011, Searches for radio transients. Bull. Astron. Soc. India 39, 353.
+Brown, R.L., Crane, P.C.: 1978, On the rapidly variable circular polarization of HR 1099 at radio frequencies. Astron. J. 83, 1504.
+Bruggmann, G., Magun, A., Benz, A.O., Stehling, W.: 1990, Solar flare microwave observations with high spectral resolution. Astron. Astrophys. 240, 506.
+Dąbrowski, B.P., Rudawy, P., Karlický, M.: 2011, Millisecond radio spikes in the decimetric band. Solar Phys. 273, 377.
+Dąbrowski, B., Rompolt, B., Falewicz, R., Rudawy, P., Siarkowski, M.: 2003, Relationship between solar radio spikes observed at 1420 MHz and solar active phenomena. In: Wilson, A. (ed.) Solar Variability as an Input to the Earth’s Environment, ESA SP 535, 491.
+Dąbrowski, B.P., Rudawy, P., Falewicz, R., Siarkowski, M., Kus, A.J.: 2005, Millisecond radio spikes in the decimetre band and their related active solar phenomena. Astron. Astrophys. 434, 1139.
+de La Noë, J.: 1975, Spectral characteristics of stria, split pair and triple bursts. Astron. Astrophys. 43, 201.
+Dulk, G.A.: 1985, Radio emission from the sun and stars. Annu. Rev. Astron. Astrophys. 23, 169.
+Ellis, G.R.A., McCulloch, P.M.: 1967, Frequency splitting of solar radio bursts. Aust. J. Phys. 20, 583.
+Fárník, F., Karlický, M.: 2005, Narrowband dm-spikes in the frequency range above 1 GHz and hard X-ray emission. Adv. Space Res. 35, 1799.
+Fleishman, G., Arzner, K.: 2000, Saturation of electron cyclotron maser by lower-hybrid waves. Astron. Astrophys. 358, 776.
+Fleishman, G.D., Gary, D.E., Nita, G.M.: 2003, Decimetric spike bursts versus microwave continuum. Astrophys. J. 593, 571.
+Fleishman, G.D., Melnikov, V.F.: 1999, Solar millisecond radio spikes: Recent progress, current state, problems for future. In: Wilson, A. (ed.) Magnetic Fields and Solar Processes, ESA SP 448, 1247.
+Goldman, M.V.: 1983, Progress and problems in the theory of type III solar radio emission. Solar Phys. 89, 403.
+Guedel, M., Benz, A.O., Aschwanden, M.J.: 1991, The association of solar millisecond radio spikes with hard X-ray emission. Astron. Astrophys. 251, 285.
+Hankins, T.H., Kern, J.S., Weatherall, J.C., Eilek, J.A.: 2003, Nanosecond radio bursts from strong plasma turbulence in the Crab pulsar. Nature 422, 141.
+Huang, G., Nakajima, H.: 2005, Location and parameters of a microwave millisecond spike event. Astrophys. Space Sci. 295(4), 423.
+Huang, J., Tan, B.: 2012, Microwave bursts with fine structures in the decay phase of a solar. Astrophys. J. 745(2), 186.
+Jin, S-z., Li, X-c., Zhao, R-y.: 1995, Analysis of spike emission data at 2545/2645 MHz in the peak year of the 22nd solar cycle. Chin. Astron. Astrophys. 19, 487.
+Jin, S.-Z., Fu, Q.-J., Zhao, R.-Y., Hu, C.-M.: 1990, Spike observations in flares in China. Solar Phys. 130, 175.
+Kuznetsov, A.A., Vlasov, V.G.: 2012, Kinetic simulation of the electron-cyclotron maser instability: Effect of a finite source size. Astron. Astrophys. 539, A141.
+Melnik, V.N., Shevchuk, N.V., Konovalenko, A.A., Rucker, H.O., Dorovskyy, V.V., Poedts, S., Lecacheux, A.: 2014, Solar decameter spikes. Solar Phys. 289, 1701.
+Melrose, D.B., Dulk, G.A.: 1982, Electron-cyclotron masers as the source of certain solar and stellar radio bursts. Astrophys. J. 259, 844.
+Mészárosová, H., Veronig, A., Zlobec, P., Karlický, M.: 2003, Analysis of solar narrow band dm-spikes observed at 1420 and 2695 MHz. Astron. Astrophys. 407, 1115.
+Nita, G.M., Fleishman, G.D., Gary, D.E.: 2008, Spike decomposition technique: Modeling and performance tests. Astrophys. J. 689, 545.
+Rozhansky, I.V., Fleishman, G.D., Huang, G.-L.: 2008, Millisecond microwave spikes: statistical study and application for plasma diagnostics. Astrophys. J. 681(2), 1688.
+Staehli, M., Magun, A.: 1986, The microwave spectrum of solar millisecond spikes. Solar Phys. 104, 117.
+Sych, R.A., Sawant, H.S., Karlický, M., Mészárosová, H.: 2006, Spectral and temporal properties of narrowband dm-spikes and broadband pulses in the August 5, 2003 flare. Adv. Space Res. 38, 979.
+Tan, B.: 2013, Small-scale microwave bursts in long-duration solar flares. Astrophys. J. 773, 165.
+Tang, J.F., Wu, D.J.: 2009, Electron-cyclotron maser emission by power-law electrons in coronal loops. Astron. Astrophys. 493, 623.
+Vlasov, V.G., Kuznetsov, A.A., Altyntsev, A.T.: 2002, The maser mechanism for solar millisecond spike generation in inhomogeneous plasma. Astron. Astrophys. 382, 1061.
+Wang, M., Xie, R.X., Sych, R.A., Yan, Y.H., Liu, Y.Y.: 2004, A rare centimetric spike event on 10 March 2002. Solar Phys. 223(1), 201.
+Wang, S.J., Yan, Y.H., Liu, Y.Y., Fu, Q.J., Tan, B.L., Zhang, Y.: 2008, Solar radio spikes in 2.6 – 3.8 GHz during the 13 December 2006 event. Solar Phys. 253, 133.
+Xie, R.X., Wang, M., Fu, Q.J., Li, W.: 2002, Characteristics of radio spikes as solar microflares at short decimetric wavelength. Astron. Astrophys. 395, 243.

@@ -1,0 +1,49 @@
+Avrett, E.H., Loeser, R.: 2008, Models of the solar chromosphere and transition region from SUMER and HRTS observations: formation of the extreme-ultraviolet spectrum of hydrogen, carbon, and oxygen. Astrophys. J. Suppl. 175, 229.
+Bogdan, T.J., Brown, T.M., Lites, B.W., Thomas, J.H.: 1993, The absorption of p-modes by sunspots – variations with degree and order. Astrophys. J. 406, 723.
+Bogdan, T.J., Hindman, B.W., Cally, P.S., Charbonneau, P.: 1996, Absorption of p-modes by slender magnetic flux tubes and p-mode lifetimes. Astrophys. J. 465, 406.
+Braun, D.C.: 1995, Scattering of p-modes by sunspots. I. Observations. Astrophys. J. 451, 859.
+Braun, D.C., Duvall, T.L. Jr., Labonte, B.J.: 1988, The absorption of high-degree p-mode oscillations in and around sunspots. Astrophys. J. 335, 1015.
+Braun, D.C., Labonte, B.J., Duvall, T.L. Jr.: 1990, The spatial distribution of p-mode absorption in active regions. Astrophys. J. 354, 372.
+Cally, P.S.: 2009, Phase jumps in local helioseismology. Solar Phys. 254, 241.
+Cally, P.S.: 2017, Alfvén waves in the structured solar corona. Mon. Not. Roy. Astron. Soc. 466(1), 413.
+Cally, P.S., Bogdan, T.J.: 1993, Solar p-modes in a vertical magnetic field – trapped and damped pi-modes. Astrophys. J. 402, 721.
+Cally, P.S., Bogdan, T.J.: 1997, Simulation of f- and p-mode interactions with a stratified magnetic field concentration. Astrophys. J. Lett. 486, L67.
+Cally, P.S., Bogdan, T.J., Zweibel, E.G.: 1994, Umbral oscillations in sunspots: absorption of p-modes and active region heating by mode conversion. Astrophys. J. 437, 505.
+Cally, P.S., Goossens, M.: 2008, Three-dimensional MHD wave propagation and conversion to Alfvén waves near the solar surface. I. Direct numerical solution. Solar Phys. 251, 251.
+Cally, P.S., Hansen, S.C.: 2011, Benchmarking fast-to-Alfvén mode conversion in a cold magnetohydrodynamic plasma. Astrophys. J. 738, 119.
+Cally, P.S., Khomenko, E.: 2015, Fast-to-Alfvén mode conversion mediated by the hall current. I. Cold plasma model. Astrophys. J. 814, 106.
+Cally, P.S., Khomenko, E.: 2019, Fast-to-Alfvén mode conversion and ambipolar heating in structured media. I. Simplified cold plasma model. Astrophys. J.
+Cally, P.S., Moradi, H., Rajaguru, S.P.: 2016, p-Mode interaction with sunspots. In: Geophysical Monograph Series 216, American Geophysical Union, Washington, 489.
+Cranmer, S.R., van Ballegooijen, A.A.: 2005, On the generation, propagation, and reflection of Alfvén waves from the solar photosphere to the distant heliosphere. Astrophys. J. Suppl. 156, 265.
+Crouch, A.D., Cally, P.S.: 1999, The contribution by thin magnetic flux tubes to p-mode line widths. Astrophys. J. 521, 878.
+De Pontieu, B., McIntosh, S.W., Carlsson, M., Hansteen, V.H., Tarbell, T.D., Schrijver, C.J., Title, A.M., Shine, R.A., Tsuneta, S., Katsukawa, Y., Ichimoto, K., Suematsu, Y., Shimizu, T., Nagata, S.: 2007, Chromospheric Alfvénic waves strong enough to power the solar wind. Science 318, 1574.
+González-Morales, P.A., Khomenko, E., Cally, P.S.: 2019, Fast-to-Alfvén mode conversion mediated by Hall current. II. Application to the solar atmosphere. Astrophys. J. 870, 94.
+Hansen, S.C., Cally, P.S., Donea, A.-C.: 2016, On mode conversion, reflection, and transmission of magnetoacoustic waves from above in an isothermal stratified atmosphere. Mon. Not. Roy. Astron. Soc. 456(2), 1826.
+Hanson, C.S., Cally, P.S.: 2014, The scattering of f- and p-modes from ensembles of thin magnetic flux tubes: an analytical approach. Astrophys. J. 791(2), 129.
+Hindman, B.W., Jain, R.: 2008, The generation of coronal loop waves below the photosphere by p-mode forcing. Astrophys. J. 677, 769.
+Jain, R., Hindman, B.W., Braun, D.C., Birch, A.C.: 2009, Absorption of p modes by thin magnetic flux tubes. Astrophys. J. 695, 325.
+Jess, D.B., Mathioudakis, M., Erdélyi, R., Crockett, P.J., Keenan, F.P., Christian, D.J.: 2009, Alfvén waves in the lower solar atmosphere. Science 323, 1582.
+Khomenko, E., Collados, M., Díaz, A., Vitas, N.: 2014, Fluid description of multi-component solar partially ionized plasma. Phys. Plasmas 21(9), 092901.
+Luke, Y.L.: 1975, Mathematical Functions and Their Approximations, Academic Press, New York.
+Mathioudakis, M., Jess, D.B., Erdélyi, R.: 2013, Alfvén waves in the solar atmosphere. From theory to observations. Space Sci. Rev. 175, 1.
+Matsumoto, T., Shibata, K.: 2010, Nonlinear propagation of Alfvén waves driven by observed photospheric motions: application to the coronal heating and spicule formation. Astrophys. J. 710, 1857.
+McIntosh, S.W., de Pontieu, B., Carlsson, M., Hansteen, V., Boerner, P., Goossens, M.: 2011, Alfvénic waves with sufficient energy to power the quiet solar corona and fast solar wind. Nature 475, 477.
+Morton, R.J., Tomczyk, S., Pinto, R.: 2015, Investigating Alfvénic wave propagation in coronal open-field regions. Nat. Commun. 6, 7813.
+Mumford, S.J., Fedun, V., Erdélyi, R.: 2015, Generation of magnetohydrodynamic waves in low solar atmospheric flux tubes by photospheric motions. Astrophys. J. 799, 6.
+Narain, U., Ulmschneider, P.: 1990, Chromospheric and coronal heating mechanisms. Space Sci. Rev. 54, 377.
+Narain, U., Ulmschneider, P.: 1996, Chromospheric and coronal heating mechanisms II. Space Sci. Rev. 75, 453.
+Newington, M.E., Cally, P.S.: 2010, Reflection and conversion of magnetogravity waves in the solar chromosphere: windows to the upper atmosphere. Mon. Not. Roy. Astron. Soc. 402, 386.
+Osterbrock, D.E.: 1961, The heating of the solar chromosphere, plages, and corona by magnetohydrodynamic waves. Astrophys. J. 134, 347.
+Rosenthal, C.S., Julien, K.A.: 2000, Numerical modeling of the absorption and scattering of acoustic radiation by sunspots. Astrophys. J. 532, 1230.
+Schunker, H., Cally, P.S.: 2006, Magnetic field inclination and atmospheric oscillations above solar active regions. Mon. Not. Roy. Astron. Soc. 372, 551.
+Shelyag, S., Cally, P.S., Reid, A., Mathioudakis, M.: 2013, Alfvén waves in simulations of solar photospheric vortices. Astrophys. J. Lett. 776(1), L4.
+Soler, R., Carbonell, M., Ballester, J.L., Terradas, J.: 2013, Alfvén waves in a partially ionized two-fluid plasma. Astrophys. J. 767, 171.
+Spruit, H.C.: 1991, Absorption of p-mode waves by magnetic fields. In: Gough, D., Toomre, J. (eds.) Challenges to Theories of the Structure of Moderate-Mass Stars, Lecture Notes in Physics 388, Springer, Berlin, 121.
+Spruit, H.C., Bogdan, T.J.: 1992, The conversion of p-modes to slow modes and the absorption of acoustic waves by sunspots. Astrophys. J. Lett. 391, L109.
+Tomczyk, S., McIntosh, S.W., Keil, S.L., Judge, P.G., Schad, T., Seeley, D.H., Edmondson, J.: 2007, Alfvén waves in the solar corona. Science 317, 1192.
+Tsap, Y.T., Stepanov, A.V., Kopylova, Y.G.: 2009, Generation and propagation of Alfvén waves in solar atmosphere. In: Gopalswamy, N., Webb, D.F. (eds.) IAU Symposium 257, 555.
+Tsap, Y.T., Stepanov, A.V., Kopylova, Y.G.: 2011, Energy flux of Alfvén waves in weakly ionized plasma and coronal heating of the Sun. Solar Phys. 270, 205.
+Van Doorsselaere, T., Nakariakov, V.M., Verwichte, E.: 2008, Detection of waves in the solar corona: kink or Alfvén? Astrophys. J. Lett. 676, L73.
+Vranjes, J., Poedts, S., Pandey, B.P., de Pontieu, B.: 2008, Energy flux of Alfvén waves in weakly ionized plasma. Astron. Astrophys. 478, 553.
+Wedemeyer-Böhm, S., Scullion, E., Steiner, O., Rouppe van der Voort, L., de La Cruz Rodriguez, J., Fedun, V., Erdélyi, R.: 2012, Magnetic tornadoes as energy channels into the solar corona. Nature 486, 505.
+Zhugzhda, I.D., Dzhalilov, N.S.: 1984, Magneto-acoustic-gravity waves on the Sun. I – Exact solution for an oblique magnetic field. Astron. Astrophys. 132, 45.

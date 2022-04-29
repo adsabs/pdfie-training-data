@@ -1,0 +1,64 @@
+Ahluwalia, H.S.: 1988, The regimes of the east–west and the radial anisotropies of cosmic rays in the heliosphere. Planet. Space Sci. 36(12), 1451.
+Ahluwalia, H.S., Dessler, A.J.: 1962, Diurnal variation of cosmic radiation intensity produced by a solar wind. Planet. Space Sci. 9(5), 195
+Ahluwalia, H.S., Dorman, L.I.: 1997, Transverse cosmic ray gradients in the heliosphere and the solar diurnal anisotropy. J. Geophys. Res. 102(A8), 17433.
+Ahluwalia, H.S., Ericksen, J.H.: 1970, Solar diurnal variations of cosmic ray intensity underground during solar activity Cycle-20. Acta Phys. Acad. Sci. Hung. 29(Suppl. 2), 139.
+Ahluwalia, H.S., Fikani, M.M.: 2007, Cosmic ray detector response to transient solar modulation: Forbush decreases. J. Geophys. Res. 112(A8), A08105
+Ahluwalia, H.S., Ygbuhay, R.C., Modzelewska, R., Dorman, L.I., Alania, M.V.: 2015, Cosmic ray heliospheric transport study with neutron monitor data. J. Geophys. Res. Space Phys. 120(10), 8229.
+Alania, M.V., Bochorishvili, T.V., Iskra, K.: 2003, Effects of the sector structure of the interplanetary magnetic field on galactic cosmic ray anisotropy. Solar Syst. Res. 37(6), 519.
+Alania, M.V., Dzhapiashvili, T.V.: 1979, The expected features of cosmic ray anisotropy due to hall-type diffusion and the comparison with the experiment. In: Proc. 16th ICRC, Kyoto, Japan, 3, 19.
+Alania, M.V., Iskra, K., Siluszyk, M.: 2010, On relation of the long period galactic cosmic rays intensity variations with the interplanetary magnetic field turbulence. Adv. Space Res. 45(10), 1203.
+Alania, M.V., Babaian, V.Kh., Belov, A.V., Gushchina, R.T., Dorman, L.I., Eroshenko, E., Oleneva, V.A.: 1983, Interplanetary modulation of the anisotropy and density of cosmic rays. In: Izvestiia 47, 1864.
+Alania, M.V., Aslamazashvili, R.G., Bochorishvili, T.B., Despotashvili, M.A., Djapiashvili, T.V., Gachechiladze, G.R.: 1987, The experimental and theoretical investigations of the of the regular IMF influence on the spatial distribution of cosmic ray density and anisotropy. In: Proc. 20th ICRC, Moscow, Russia, 4, 79.
+Alania, M.V., Aslamazashvili, R.G., Bochorishvili, T.B., Iskra, K., Siluszyk, M.: 2001, The role of drift on the diurnal anisotropy and on temporal changes in the energy spectra of the 11-year variation for galactic cosmic rays. Adv. Space Res. 27(3), 613.
+Alanko, K., Usoskin, I.G., Mursula, K., Kovaltsov, G.A.: 2003, Heliospheric modulation strength: effective neutron monitor energy. Adv. Space Res. 32(4), 615.
+Asvestari, E., Gil, A., Kovaltsov, G.A., Usoskin, I.G.: 2017, Neutron monitors and cosmogenic isotopes as cosmic ray energy-integration detectors: effective yield functions, effective energy, and its dependence on the local interstellar spectrum. J. Geophys. Res. Space Phys. 122, 9790.
+Bazilevskaya, G., Broomhall, A.M., Elsworth, Y., Nakariakov, V.M.: 2014, A combined analysis of the observational aspects of the quasi-biennial oscillation in solar magnetic activity. Space Sci. Rev. 186(1–4), 359.
+Belov, A.: 2000, Large scale modulation: view from the Earth. Space Sci. Rev. 93(1/2), 79.
+Bieber, J.W., Chen, J.: 1991, Cosmic-ray diurnal anisotropy, 1936 – 1988: implications for drift and modulation theories. Astrophys. J. 372, 301.
+Burger, R.A., Potgieter, M.S.: 1989, The calculation of neutral sheet drift in two-dimensional cosmic-ray modulation models. Astrophys. J. 339, 501.
+Chowdhury, P., Kudela, K., Moon, Y.J.: 2016, A study of heliospheric modulation and periodicities of galactic cosmic rays during Cycle 24. Solar Phys. 291(2), 581.
+De Simone, N., Di Felice, V., Gieseler, J., Boezio, M., Casolino, M., Picozza, P., Heber, B. (PAMELA Collaboration): 2011, Latitudinal and radial gradients of galactic cosmic ray protons in the inner heliosphere – PAMELA and Ulysses observations. Astrophys. Space Sci. Trans. 7(3), 425.
+Dorman, L.I.: 1963, Variations of Cosmic Rays and Space Exploration, AN SSSR, Moscow.
+Dorman, L.I.: 2009, Cosmic Rays in Magnetospheres of the Earth and Other Planets, Astrophys. Space Sci. Lib. 358, Springer, Berlin.
+Dorman, L.I., Gushchina, R.T., Smart, D.F., Shea, M.A.: 1972, Effective Cut-Off Rigidities of Cosmic Rays, Nauka, Moscow.
+Dubey, A., Kumar, S., Dubey, S.K.: 2018, Variation in diurnal phase of cosmic ray intensity during 1986 – 2017. Res. Rev. J. Phys. 7(3), 20.
+Dunzlaff, P., Heber, B., Kopp, A., Rother, O., Mueller-Mellin, R., Klassen, A., et al.: 2008, Observations of recurrent cosmic ray decreases during Solar Cycles 22 and 23. Ann. Geophys. 26(10), 3127.
+Forbush, S.E.: 1969, Variation with a period of two solar cycles in the cosmic-ray diurnal anisotropy and the superposed variations correlated with magnetic activity. J. Geophys. Res. 74(14), 3451.
+Gil, A., Asvestari, E., Kovaltsov, G.A., Usoskin, I.: 2017, Heliospheric modulation of galactic cosmic rays: effective energy of ground-based detectors. In: Proc. 35th ICRC, Busan, Korea, Proc. of Sci. 301, 32.
+Gleeson, L.J.: 1969, The equations describing the cosmic-ray gas in the interplanetary region. Planet. Space Sci. 17(1), 31.
+Gleeson, L.J., Axford, W.I.: 1967, Cosmic rays in the interplanetary medium. Astrophys. J. 149, L115.
+Gleeson, L.J., Axford, W.I.: 1968, Solar modulation of galactic cosmic rays. Astrophys. J. 154, 1011.
+Gubbins, D.: 2004, Time Series Analysis and Inverse Theory for Geophysicists, Cambridge University Press Cambridge
+Hall, D.L., Duldig, M.L., Humble, J.E.: 1996, Analyses of sidereal and solar anisotropies in cosmic rays. Space Sci. Rev. 78(3–4), 401.
+Heber, B., Kopp, A., Gieseler, J., Muller-Mellin, R., Fichtner, H., Scherer, K., Potgieter, M.S., Ferreira, S.E.S.: 2009, Modulation of galactic cosmic ray protons and electrons during an unusual solar minimum. Astrophys. J. 699(2), 1956.
+Iskra, K., Siluszyk, M., Alania, M.V.: 2015, Rigidity spectrum of the long-period variations of the galactic cosmic ray intensity in different epochs of solar activity. J. Phys. Conf. Ser. 632, 012079.
+Iskra, K., Siluszyk, M., Alania, M.V., Wozniak, W.: 2019, Solar physics, experimental investigation of delay time in galactic cosmic rays flux in different epochs of solar magnetic cycles: 1959 – 2014. Solar Phys. 294, 115.
+Jämsén, T., Usoskin, I.G., Räihä, T., Sarkamo, J., Kovaltsov, G.A.: 2007, Case study of forbush decreases: energy dependence of the recovery. Adv. Space Res. 40(3), 342.
+Jokipii, J.R., Levy, E.H., Hubbard, W.B.: 1977, Effects of particle drift on cosmic-ray transport. I. General properties, application to solar modulation. Astrophys. J. 213, 861.
+Kota, J., Jokipii, J.R.: 1983, Effects of drift on the transport of cosmic rays. VI – A three-dimensional model including diffusion. Astrophys. J. 265, 573.
+Kota, J., Jokipii, J.R.: 1998, Modeling of 3-D corotating cosmic-ray structures in the heliosphere. Space Sci. Rev. 83(1/2), 137.
+Krymsky, G.F.: 1964, Geomagn. Aeron. 4, 763.
+Kudela, K., Sabbah, I.: 2016, Quasi-periodic variations of low energy cosmic rays. Sci. China, Technol. Sci. 59(4), 547.
+McCracken, K., McDonald, F., Beer, J., Raisbeck, G., Yiou, F.: 2004, A phenomenological study of the long-term cosmic ray modulation, 850-1958 AD. J. Geophys. Res. 109(A12), A12103.
+Mewaldt, R.A., Davis, A.J., Lave, K.A., Leske, R.A., Stone, E.C., Wiedenbeck, M.E., et al.: 2010, Record-setting cosmic-ray intensities in 2009 and 2010. Astrophys. J. Lett. 723(1), L1.
+Modzelewska, R., Alania, M.V.: 2018, Quasi-periodic changes in the 3D solar anisotropy of Galactic cosmic rays for 1965 – 2014. Astron. Astrophys. 609, A32.
+Moraal, H., Stoker, P.H.: 2010, Long-term neutron monitor observations and the 2009 cosmic ray maximum. J. Geophys. Res. Space Phys. 115(A12), A12109.
+Oh, S.Y., Yi, Y., Bieber, J.W.: 2010, Modulation cycles of galactic cosmic ray diurnal anisotropy variation. Solar Phys. 262(1), 199.
+Park, E.H., Jung, J., Oh, S., Evenson, P.: 2018, Solar cyclic modulation of diurnal variation in cosmic ray intensity. J. Astron. Space Sci. 35, 219.
+Parker, E.N.: 1964, Theory of streaming of cosmic rays and the diurnal variation. Planet. Space Sci. 12(8), 735.
+Phillips, T.: 2018, A sunspot from the next solar cycle.
+Potgieter, M.S.: 1995, The time-dependent transport of cosmic rays in the heliosphere. Astrophys. Space Sci. 230(1–2), 393.
+Potgieter, M.S., Ferreira, S.E.S.: 2001, Modulation of cosmic rays in the heliosphere over 11 and 22 year cycles: a modelling perspective. Adv. Space Res. 27(3), 481.
+Potgieter, M.S., Moraal, H.: 1985, A drift model for the modulation of galactic cosmic rays. Astrophys. J. 294, 425.
+Richardson, I.G.: 2018, Solar wind stream interaction regions throughout the heliosphere. Living Rev. Solar Phys. 15, 1.
+Riker, J.F., Ahluwalia, H.S.: 1987, A survey of the cosmic ray diurnal variation during 1973 – 1979 – II. Application of diffusion-convection model to diurnal anisotropy data. Planet. Space Sci. 35(9), 1117.
+Sabbah, I.: 2013, Solar magnetic polarity dependency of the cosmic ray diurnal variation. J. Geophys. Res. Space Phys. 118(8), 4739.
+Shea, M.A., Smart, D.F., Mc Cracken, K.G.: 1965, A study of vertical cutoff rigidities using sixth degree simulations of the geomagnetic field. J. Geophys. Res. 70(17), 4117.
+Shea, M.A., Smart, D.F., Mc Cracken, K.G., Rao, U.R.: 1967, Asymptotic directions, variational coefficients and cutoff rigidities, supplement to IQSY instruction manual No. 10 cosmic ray tables. In: Office of Aerospace Research United States of Air Force.
+Siluszyk, M., Iskra, K., Alania, M.V.: 2014, Rigidity dependence of the long period variations of galactic cosmic ray intensity: a relation with the interplanetary magnetic field turbulence for 1968–2002. Solar Phys. 289(11), 4297.
+Siluszyk, M., Iskra, K., Alania, M.V.: 2015, 2-D modelling of long period variations of galactic cosmic ray intensity. J. Phys. Conf. Ser. 632, 012080.
+Siluszyk, M., Wawrzynczak, A., Alania, M.V.: 2011, A model of the long period galactic cosmic ray variations. J. Atmos. Solar-Terr. Phys. 73(13), 1923.
+Siluszyk, M., Iskra, K., Alania, M.V., Miernicki, S.: 2018, Interplanetary magnetic field turbulence and rigidity spectrum of the galactic cosmic rays intensity variation (1968 – 2012). J. Geophys. Res. 123(1), 30.
+Wolberg, J.: 2006, Data Analysis Using the Method of Least Squares, Springer, Berlin.
+Yasue, S., Sakakibara, S., Nagashima, K.: 1982, Coupling coefficients of cosmic rays daily variations for neutron monitors. Nagoya Report. 7.
+Ygbuhay, R.C.: 2015, Galactic Cosmic Ray Transport in the Heliosphere: 1963 – 2013. PhD dissertation, The University of New, Mexico, Albuquerque, US.

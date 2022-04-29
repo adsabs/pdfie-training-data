@@ -1,0 +1,49 @@
+Ahluwalia, H.S.: 2015, North-south excess of hemispheric sunspot numbers and cosmic ray asymmetric solar modulation. Adv. Space Res. 56(11), 2645.
+Ahluwalia, H.S., Dorman, L.I.: 1997, Transverse cosmic ray gradients in the heliosphere and the solar diurnal anisotropy. J. Geophys. Res. 102(A8), 17433.
+Ahluwalia, H.S., Sabbah, I.S.: 1993, On cosmic ray asymmetrical latitudinal gradient. Ann. Geophys. 11(9), 763.
+Ahluwalia, H.S., Ygbuhay, R.C., Modzelewska, R., Dorman, L.I., Alania, M.V.: 2015, Cosmic ray heliospheric transport study with neutron monitor data. J. Geophys. Res. (Space Phys.) 120(10), 8229.
+Alania, M.V., Modzelewska, R., Wawrzynczak, A.: 2014, Peculiarities of cosmic ray modulation in the solar minimum 23/24. J. Geophys. Res. (Space Phys.) 119(6), 4164.
+Badalyan, O.G., Obridko, V.N., Sýkora, J.: 2008, Quasi-biennial oscillations in the north–south asymmetry of solar activity. Solar Phys. 247(2), 379.
+Belov, A.V., Gushchina, R.T., Balabin, Y.V.: 2015, Annual variation in and heliolatitude dependence of cosmic ray density. Bull. Russ. Acad. Sci., Phys. 79(5), 618.
+Bieber, J.W., Chen, J.: 1991, Cosmic-ray diurnal anisotropy, 1936 – 1988: Implications for drift and modulation theories. Astrophys. J. 372, 301.
+Bromage, B.J.I., Browning, P.K., Clegg, J.R.: 2001, A cosmic ray signature of equatorial coronal holes. Space Sci. Rev. 97, 13.
+Burger, R.A., Potgieter, M.S.: 1989, The calculation of neutral sheet drift in two-dimensional cosmic-ray modulation models. Astrophys. J. 339, 501.
+Chen, J., Bieber, J.W., Pomerantz, M.A.: 1991, Cosmic ray unidirectional latitude gradient: Evidence for north-south asymmetric solar modulation. J. Geophys. Res. 96, 11,569.
+Cliver, E.W., Richardson, I.G., Ling, A.G.: 2013, Solar drivers of 11-yr and long-term cosmic ray modulation. Space Sci. Rev. 176(1 – 4), 3.
+de Simone, N., di Felice, V., Gieseler, J., Boezio, M., Casolino, M., Picozza, P., Heber, B., PAMELA Collaboration: 2011, Latitudinal and radial gradients of galactic cosmic ray protons in the inner heliosphere – PAMELA and Ulysses observations. Astrophys. Space Sci. Trans. 7(3), 425.
+Duldig, M.L.: 2000, Muon observations. Space Sci. Rev. 93, 207.
+El-Borie, M.A.: 2001a, Correlation studies of the inclinations of the heliospheric current sheet with: I. Cosmic ray intensity of different rigidities. Astropart. Phys. 16(2), 169.
+El-Borie, M.A.: 2001b, Cosmic-ray intensities near the heliospheric current sheet throughout three solar activity cycles. J. Phys. G, Nucl. Part. Phys. 27(4), 773.
+El-Borie, M.A., Al-Thoyaib, S.S.: 2002, North-South asymmetry of cosmic-ray density gradients throughout the epoch 1955-1991. Nuovo Cimento C 25, 353.
+El-Borie, M.A., Darwish, A.A., Bishara, A.A.: 1996, Long-term behavior of latitudinal cosmic-ray gradients. Solar Phys. 167(1-2), 395.
+El-Borie, M.A., Abdel-halim, A.A., El-Monier, S.Y., Bishara, A.A.: 2016, North–south asymmetry of solar diurnal variations of cosmic-ray intensity throughout the period 1975 – 2013. Solar Phys. 291(12), 3817.
+Ferreira, S.E.S., Potgieter, M.S.: 2004, Long-Term Cosmic-Ray Modulation in the Heliosphere. Astrophys. J. 603(2), 744.
+Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
+Guo, X., Florinski, V.: 2014, Corotating interaction regions and the 27 day variation of galactic cosmic rays intensity at 1 AU during the cycle 23/24 solar minimum. J. Geophys. Res. (Space Phys.) 119(4), 2411.
+Heber, B., Potgieter, M.S., Ferrando, P.: 1997, Solar modulation of galactic cosmic rays: the 3D heliosphere. Adv. Space Res. 19(5), 795.
+Hoeksema, J.T.: 1995, The large-scale structure of the heliospheric current sheet during the ULYSSES epoch. Space Sci. Rev. 72(1 – 2), 137.
+Hoeksema, J.T., Wilcox, J.M., Scherrer, P.H.: 1982, Structure of the heliospheric curent sheet in the early portion of sunspot cycle 21. J. Geophys. Res. 87(A12), 10331.
+Hoeksema, J.T., Wilcox, J.M., Scherrer, P.H.: 1983, The structure of the heliospheric current sheet: 1978 – 1982. J. Geophys. Res. 88(A12), 9910.
+Jokipii, J.R., Kopriva, D.A.: 1979, Effects of particle drift on the transport of cosmic rays. III. Numerical models of galactic cosmic-ray modulation. Astrophys. J. 234, 384.
+Jokipii, J.R., Levy, E.H., Hubbard, W.B.: 1977, Effects of particle drift on cosmic-ray transport. I. General properties, application to solar modulation. Astrophys. J. 213, 861.
+Kóta, J., Jokipii, J.R.: 1983, Effects of drift on the transport of cosmic rays. VI: A three-dimensional model including diffusion. Astrophys. J. 265, 573.
+Munakata, K., Sakurai, I., Miyasaka, H., Yasue, S., Kato, C., Akahane, S., Koyama, M., Hall, D.L., Fujii, Z., Fujimoto, K.: 1999, Long term variation of cosmic ray latitude gradient in the heliosphere. Adv. Space Res. 23(3), 459.
+Okazaki, Y., Munakata, K., Fukunishi, H., Fukushita, A., Narumi, T., Chiba, T., Yasue, S., Kato, C., Kuwabara, T., Bieber, J.W.: 2008, Latitudinal distribution of galactic cosmic ray density and its effect on the CIR-driven modulations of density and density gradient measured by the muon detector network. In: Caballero, R., D’Olivo, J.C., Medina-Tanco, G., Nellen, L., Sánchez, F.A., Valdés-Galicia, J.F. (eds.) Internat. Cosmic Ray Conf., 1, Universidad Nacional Autónoma de México, Mexico City, 367.
+Pacini, A.A., Usoskin, I.G.: 2015, An unusual pattern of cosmic-ray modulation during solar cycles 23 and 24. Solar Phys. 290(3), 943.
+Pei, C., Bieber, J.W., Burger, R.A., Clem, J.: 2012, Three-dimensional Wavy Heliospheric Current Sheet Drifts. Astrophys. J. 744(2), 170.
+Potgieter, M.S., Moraal, H.: 1985, A drift model for the modulation of galactic cosmic rays. Astrophys. J. 294, 425.
+Potgieter, M.S., Burger, R.A., Ferreira, S.E.S.: 2001, Modulation of cosmic rays in the heliosphere from solar minimum to maximum: A theoretical perspective. Space Sci. Rev. 97, 295.
+Potgieter, M.S., Vos, E.E., Boezio, M., de Simone, N., di Felice, V., Formato, V.: 2014, Modulation of galactic protons in the heliosphere during the unusual solar minimum of 2006 to 2009. Solar Phys. 289(1), 391.
+Rouillard, A.P., Lockwood, M.: 2007, The latitudinal effect of corotating interaction regions on galactic cosmic rays. Solar Phys. 245(1), 191.
+Simpson, J.A., Zhang, M., Bame, S.: 1996, A solar polar north-south asymmetry for cosmic-ray propagation in the heliosphere: The ULYSSES pole-to-pole rapid transit. Astrophys. J. 465, L69.
+Smith, E.J., Jokipii, J.R., Kóta, J., Lepping, R.P., Szabo, A.: 2000, Evidence of a north–south asymmetry in the heliosphere associated with a southward displacement of the heliospheric current sheet. Astrophys. J. 533(2), 1084.
+Strauss, R.D., Potgieter, M.S., Büsching, I., Kopp, A.: 2012, Modelling heliospheric current sheet drift in stochastic cosmic ray transport models. Astrophys. Space Sci. 339(2), 223.
+Svirzhevskaya, A.K., Svirzhevsky, N.S.: 2003, North-south asymmetry in cosmic rays in 1990 – 1998. Int. J. Geomag. Aeron. 4(2), 111.
+Svirzhevskaya, A.K., Bazilevskaya, G.A., Svirzhevsky, N.S., Krainev, M.B.: 1997, North-south cosmic ray asymmetry and high speed solar wind. Adv. Space Res. 19(6), 929.
+Svirzhevsky, N.S., Svirzhevskaya, A.K., Bazilevskaya, G.A., Stozhkov, Y.I.: 2005, North South asymmetry in cosmic ray fluxes as measured in the stratosphere and in selected solar wind parameters in the near-Earth space. Adv. Space Res. 35(4), 671.
+Tezari, A., Mavromichalaki, H.: 2016, Diurnal anisotropy of cosmic rays during intensive solar activity for the period 2001-2014. New Astron. 46, 78.
+Thomas, S.R., Owens, M.J., Lockwood, M., Scott, C.J.: 2014, Galactic cosmic ray modulation near the heliospheric current sheet. Solar Phys. 289(7), 2653.
+Vos, E.E., Potgieter, M.S.: 2016, Global gradients for cosmic-ray protons in the heliosphere during the solar minimum of cycle 23/24. Solar Phys. 291(7), 2181.
+Wang, Y.-M., Hawley, S.H., Sheeley, N.R. Jr.: 1996, The magnetic nature of coronal holes. Science 271(5248), 464.
+Yeeram, T., Saengdokmai, N.: 2015, Effects of the heliospheric current sheet on trains of enhanced diurnal variations in galactic cosmic rays. Solar Phys. 290(8), 2311.
+Yeeram, T., Ruffolo, D., Sáiz, A., Kamyan, N., Nutaro, T.: 2014, Corotating solar wind structures and recurrent trains of enhanced diurnal variation in galactic cosmic rays. Astrophys. J. 784(2), 136.

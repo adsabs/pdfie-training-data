@@ -1,0 +1,46 @@
+Bentely, R.D., Freeland, S.L.: 1998, SOLARSOFT – an analysis environment for solar physics. In: Crossroads for European Solar and Heliospheric Physics. Recent Achievements and Future Mission Possibilities SP-417, ESA, Noordwijk, 225.
+Bethge, C., Peter, H., Kentischer, T.J., Halbgewachs, C., Elmore, D.F., Beck, C.: 2011, The Chromospheric Telescope. Astron. Astrophys. 534, A105.
+Brault, J.W.: 1985, Fourier transform spectroscopy. In: Benz, A.O., Huber, M., Mayer, M. (eds.) High Resolution in Astronomy, Fifteenth Advanced Course of the Swiss Society of Astronomy and Astrophysics, Geneva Observatory, Sauverny, Switzerland, 3.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Cameron, R.H., Dikpati, M., Brandenburg, A.: 2017, The global solar dynamo. Space Sci. Rev. 210, 367.
+Carrington, R.C.: 1858, On the distribution of the solar spots in latitudes since the beginning of the year 1854, with a map. Mon. Not. Roy. Astron. Soc. 19, 1.
+Chatterjee, S., Hegde, M., Banerjee, D., Ravindra, B.: 2017, Long-term study of the solar filaments from the synoptic maps as derived from H\upalpha spectroheliograms of the Kodaikanal Observatory. Astrophys. J. 849, 44.
+Cliver, E.W.: 2014, The extended cycle of solar activity and the Sun’s 22-year magnetic cycle. Space Sci. Rev. 186, 169.
+Cortes, C., Vapnik, V.: 1995, Support-vector networks. Mach. Learn. 20, 273.
+Deng, H., Zhang, D., Wang, T., Ji, K., Wang, F., Liu, Z., Xiang, Y., Jin, Z., Cao, W.: 2015, Objective image-quality assessment for high-resolution photospheric images by median filter-gradient similarity. Solar Phys. 290, 1479.
+Denker, C., Johannesson, A., Marquette, W., Goode, P.R., Wang, H., Zirin, H.: 1999, Synoptic H\upalpha full-disk observations of the Sun from BigBear Solar Observatory – I. Instrumentation, image processing, data products, and first results. Solar Phys. 184, 87.
+Denker, C., Dineva, E., Balthasar, H., Verma, M., Kuckein, C., Diercke, A., González Manrique, S.J.: 2018, Image quality in high-resolution and high-cadence solar images. Solar Phys. 5, 236.
+Diercke, A., Arlt, R., Denker, C.: 2015, Digitization of sunspot drawings by Spörer made in 1861 – 1894. Astron. Nachr. 336, 53.
+Diercke, A., Kuckein, C., Verma, M., Denker, C.: 2018, Counter-streaming flows in a giant quiet-Sun filament observed in the extreme ultraviolet. Astron. Astrophys. 611, A64.
+Evershed, J., Evershed, M.A.: 1917, Results of Prominence Observations 1, Kodaikanal, India, 55.
+Fanning, D.W.: 2011, Coyote’s Guide to Traditional IDL Graphics, Coyote, Fort Collins.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the SolarSoft system. Solar Phys. 182, 497.
+Gibson, S.E., Webb, D., Hewins, I.M., McFadden, R.H., Emery, B.A., Denig, W., McIntosh, P.S.: 2017, Beyond sunspots: studies using the McIntosh Archive of Global Solar Magnetic Field Patterns. In: Nandy, D., Valio, A., Petit, P. (eds.) Living Around Active Stars, Proc. IAU 12(S328), Cambridge University Press, Cambridge, 93.
+Gonzalez, R.C., Woods, R.E.: 2002, Digital Image Processing, Prentice Hall, Upper Saddle River.
+Goodfellow, I., Bengio, Y., Courville, A.: 2016, Deep Learning, MIT Press, Cambridge.
+Hanisch, R.J., Farris, A., Greisen, E.W., Pence, W.D., Schlesinger, B.M., Teuben, P.J., Thompson, R.W., Warnock, A.: 2001, Definition of the Flexible Image Transport System (FITS). Astron. Astrophys. 376, 359.
+Hao, Q., Fang, C., Cao, W., Chen, P.F.: 2015, Statistical analysis of filament features based on the H\upalpha solar images from 1988 to 2013 by computer automated detection method. Astrophys. J. Suppl. 221, 33.
+Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., Noyes, R.W., Title, A.M., Toomre, J., Ulrich, R.K., Bhatnagar, A., Kennewell, J.A., Marquette, W., Patron, J., Saa, O., Yasukawa, E.: 1996, The Global Oscillation Network Group (GONG) project. Science 272, 1284.
+Kentischer, T.J., Bethge, C., Elmore, D.F., Friedlein, R., Halbgewachs, C., Knölker, M., Peter, H., Schmidt, W., Sigwarth, M., Streander, K.: 2008, ChroTel: a robotic telescope to observe the chromosphere of the Sun. In: McLean, I.S., Casali, M.M. (eds.) Ground-based and Airborne Instrumentation for Astronomy II, Proc. SPIE 7014, 701413.
+Kuckein, C., Denker, C., Verma, M., Balthasar, H., González Manrique, S.J., Louis, R.E., Diercke, A.: 2017, sTools – a data reduction pipeline for the GREGOR Fabry-Pérot Interferometer and the High-resolution Fast Imager at the GREGOR Solar Telescope. In: Vargas Domínguez, S., Kosovichev, A.G., Antolin, P., Harra, L. (eds.) Fine Structure and Dynamics of the Solar Atmosphere, IAU Symp. 327, Cambridge University Press, Cambridge, 20.
+Leroy, J.L., Bommier, V., Sahal-Brechot, S.: 1983, The magnetic field in the prominences of the polar crown. Solar Phys. 83, 135.
+Leroy, J.L., Bommier, V., Sahal-Brechot, S.: 1984, New data on the magnetic structure of quiescent prominences. Astron. Astrophys. 131, 33.
+Mackay, D.H., Karpen, J.T., Ballester, J.L., Schmieder, B., Aulanier, G.: 2010, Physics of solar prominences. II. Magnetic structure and dynamics. Space Sci. Rev. 151, 333.
+Marshall, S., Fletcher, L., Hough, K.: 2006, Optimal filtering of solar images using soft morphological processing techniques. Astron. Astrophys. 457(2), 729.
+Martin, S.F.: 1998, Conditions for the formation and maintenance of filaments. Solar Phys. 182, 107.
+McIntosh, P.S.: 2005, Motions and interactions among large-scale solar structures on H-alpha synoptic charts. In: Sankarasubramanian, K., Penn, M., Pevtsov, A. (eds.) Large-Scale Structures and Their Role in Solar Activity CS-346, Astron. Soc. Pacific, San Francisco, 193.
+Perona, P., Malik, J.: 1990, Scale-space and edge detection using anisotropic diffusion. IEEE Trans. Pattern Anal. Mach. Intell. 12(7), 629.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pevtsov, A.A.: 2016, The need for synoptic solar observations from the ground. In: Dorotovic, I., Fischer, C.E., Temmer, M. (eds.) Coimbra Solar Physics Meeting: Ground-Based Solar Observations in the Space Instrumentation Era CS-504, Astron. Soc. Pacific, San Francisco, 71.
+Qu, M., Shih, F.Y., Jing, J., Wang, H.: 2005, Automatic solar filament detection using image processing techniques. Solar Phys. 228, 119.
+Robbrecht, E., Berghmans, D.: 2004, Automated recognition of Coronal Mass Ejections (CMEs) in near-real-time data. Astron. Astrophys. 425, 1097.
+Shen, Z., Diercke, A., Denker, C.: 2018, Calibration of full-disk He i 10830 Å filtergrams of the Chromospheric Telescope. Astron. Nachr. 339, 661.
+SILSO World Data Center: 2008 – 2019, The International Sunspot Number. International Sunspot Number Monthly Bulletin and Online Catalogue.
+Spörer, F.W.G.: 1889, Von den Sonnenflecken des Jahres 1888 und von der Verschiedenheit der nördlichen und südlichen Halbkugel der Sonne seit 1883. Astron. Nachr. 121(7), 105.
+Sun, X., Hoeksema, J.T., Liu, Y., Zhao, J.: 2015, On polar magnetic field reversal and surface flux transport during Solar Cycle 24. Astrophys. J. 798(2), 114.
+Svalgaard, L., Kamide, Y.: 2013, Asymmetric solar polar field reversals. Astrophys. J. 763(1), 23.
+Tlatov, A.G., Kuzanyan, K.M., Vasil’yeva, V.V.: 2016, Tilt angles of solar filaments over the period of 1919 – 2014. Solar Phys. 291(4), 1115.
+Verma, M., Denker, C.: 2014, Horizontal flow fields observed in Hinode G-band images. IV. Statistical properties of the dynamical environment around pores. Astron. Astrophys. 563, A112.
+von der Lühe, O.: 1998, High-resolution observations with the German Vacuum Tower Telescope on Tenerife. New Astron. Rev. 42, 493.
+Wells, D.C., Greisen, E.W., Harten, R.H.: 1981, FITS – a Flexible Image Transport System. Astron. Astrophys. Suppl. Ser. 44, 363.
+Xu, Y., Pötzi, W., Zhang, H., Huang, N., Jing, J., Wang, H.: 2018, Collective study of polar crown filaments in the past four solar cycles. Astrophys. J. Lett. 862, L23.

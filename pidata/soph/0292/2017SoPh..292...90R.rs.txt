@@ -1,0 +1,82 @@
+Akmal, A., Raymond, J.C., Vourlidas, A., Thompson, B., Ciaravella, A., Ko, Y.-K., Uzzo, M., Wu, R.: 2001, SOHO observations of a coronal mass ejection. Astrophys. J. 553, 922.
+Arge, C.N., Pizzo, V.J.: 2000, Improvement in the prediction of solar wind conditions using near-real time solar magnetic field updates. J. Geophys. Res. 105, 10465.
+Borgazzi, A., Lara, A., Echer, E., Alves, M.V.: 2009, Dynamics of coronal mass ejections in the interplanetary medium. Astron. Astrophys. 498, 885.
+Bothmer, V., Schwenn, R.: 1998, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16, 1.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Cargill, P.J.: 2004, On the aerodynamic drag force acting on interplanetary coronal mass ejections. Solar Phys. 221, 135.
+Cargill, P.J., Chen, J., Spicer, D.S., Zalesak, S.T.: 1996, Magnetohydrodynamic simulations of the motion of magnetic flux tubes through a magnetized plasma. J. Geophys. Res. 101, 4855.
+Cheng, X., Zhang, J., Liu, Y., Ding, M.D.: 2011, Observing flux rope formation during the impulsive phase of a solar eruption. Astrophys. J. Lett. 732, L25.
+Cheng, X., Zhang, J., Saar, S.H., Ding, M.D.: 2012, Differential emission measure analysis of multiple structural components of coronal mass ejections in the inner corona. Astrophys. J. 761, 62.
+Cheng, X., Zhang, J., Ding, M.D., Liu, Y., Poomvises, W.: 2013, The driver of coronal mass ejections in the low corona: A flux rope. Astrophys. J. 763, 43.
+Ciaravella, A., Raymond, J.C., Reale, F., Strachan, L., Peres, G.: 2001, 1997 December 12 helical coronal mass ejection. II. Density, energy estimates, and hydrodynamics. Astrophys. J. 557, 351.
+Colaninno, R.C., Vourlidas, A.: 2009, First determination of the true mass of coronal mass ejections: A novel approach to using the two STEREO viewpoints. Astrophys. J. 698, 852.
+Colaninno, R.C., Vourlidas, A.: 2015, Using multiple-viewpoint observations to determine the interaction of three coronal mass ejections observed on 2012 March 5. Astrophys. J. 815, 70.
+Cremades, H., Bothmer, V.: 2004, On the three-dimensional configuration of coronal mass ejections. Astron. Astrophys. 422, 307.
+DeForest, C.E., Howard, T.A., McComas, D.J.: 2013, Tracking coronal features from the low corona to Earth: A quantitative analysis of the 2008 December 12 coronal mass ejection. Astrophys. J. 769, 43.
+Dere, K.P.: 2007, Ionization rate coefficients for the elements hydrogen through zinc. Astron. Astrophys. 466, 771.
+Dere, K.P., Landi, E., Young, P.R., Del Zanna, G., Landini, M., Mason, H.E.: 2009, CHIANTI – an atomic database for emission lines. IX. ionization rates, recombination rates, ionization equilibria for the elements hydrogen through zinc and updated atomic data. Astron. Astrophys. 498, 915.
+Feldman, U., Landi, E., Schwadron, N.A.: 2005, On the sources of fast and slow solar wind. J. Geophys. Res. 110, A07109.
+Fisk, L.A., Schwadron, N.A., Zurbuchen, T.H.: 1998, On the slow solar wind. Space Sci. Rev. 86, 51.
+Gibb, G.P.S., Mackay, D.H., Green, L.M., Meyer, K.A.: 2014, Simulating the formation of a sigmoidal flux rope in AR10977 from SOHO/MDI magnetograms. Astrophys. J. 782, 71.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000, Interplanetary acceleration of coronal mass ejections. Geophys. Res. Lett. 27, 145.
+Gopalswamy, N., Mäkelä, P., Xie, H., Akiyama, S., Yashiro, S.: 2009a, CME interactions with coronal holes and their interplanetary consequences. J. Geophys. Res. 114, A00A22.
+Gopalswamy, N., Mäkelä, P., Xie, H., Akiyama, S., Yashiro, S.: 2009b, CME interactions with coronal holes and their interplanetary consequences. J. Geophys. Res. 114, A00A22.
+Gopalswamy, N., Mäkelä, P., Xie, H., Yashiro, S.: 2013, Testing the empirical shock arrival model using quadrature observations. Space Weather 11, 661.
+Goryaev, F.F., Parenti, S., Urnov, A.M., Oparin, S.N., Hochedez, J.-F., Reale, F.: 2010, An iterative method in a probabilistic approach to the spectral inverse problem. Differential emission measure from line spectra and broadband data. Astron. Astrophys. 523, A44.
+Gosling, J.T.: 1990, Coronal Mass Ejections and Magnetic Flux Ropes in Interplanetary Space, AGU Monograph Ser. 58, 343.
+Gruesbeck, J.R., Lepri, S.T., Zurbuchen, T.H., Antiochos, S.K.: 2011, Constraints on coronal mass ejection evolution from in situ observations of ionic charge states. Astrophys. J. 730, 103.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Hundhausen, A.J., Gilbert, H.E., Bame, S.J.: 1968, Ionization state of the interplanetary plasma. J. Geophys. Res. 73, 5485.
+Jian, L.K., MacNeice, P.J., Taktakishvili, A., Odstrcil, D., Jackson, B., Yu, H.S., Riley, P., Sokolov, I.V., Evans, R.M.: 2015, Validation for solar wind prediction at Earth: Comparison of coronal and heliospheric models installed at the CCMC. Space Weather 13, 316.
+Kilpua, E.K.J., Luhmann, J.G., Jian, L.K., Russell, C.T., Li, Y.: 2014, Why have geomagnetic storms been so weak during the recent solar minimum and the rising phase of cycle 24? J. Atmos. Solar-Terr. Phys. 107, 12.
+Ko, Y.-K., Fisk, L.A., Geiss, J., Gloeckler, G., Guhathakurta, M.: 1997, An empirical study of the electron temperature and heavy ion velocities in the south polar coronal hole. Solar Phys. 171, 345.
+Kumar, A., Rust, D.M.: 1996, Interplanetary magnetic clouds, helicity conservation, and current-core flux-ropes. J. Geophys. Res. 101, 15667.
+Lara, A., Borgazzi, A.I.: 2009, Dynamics of interplanetary CMEs and associated type II bursts. In: Gopalswamy, N., Webb, D.F. (eds.) Universal Heliophysical Processes, IAU Symp. 257, 287.
+Lee, J.-Y., Raymond, J.C., Ko, Y.-K., Kim, K.-S.: 2009, Three-dimensional structure and energy balance of a coronal mass ejection. Astrophys. J. 692, 1271.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lepri, S.T., Laming, J.M., Rakowski, C.E., von Steiger, R.: 2012, Spatially dependent heating and ionization in an ICME observed by both ACE and Ulysses. Astrophys. J. 760, 105.
+Lugaz, N., Farrugia, C.J., Davies, J.A., Möstl, C., Davis, C.J., Roussev, I.I., Temmer, M.: 2012, The deflection of the two interacting coronal mass ejections of 2010 May 23 – 24 as revealed by combined in situ measurements and heliospheric imaging. Astrophys. J. 759, 68.
+Lynch, B.J., Reinard, A.A., Mulligan, T., Reeves, K.K., Rakowski, C.E., Allred, J.C., Li, Y., Laming, J.M., MacNeice, P.J., Linker, J.A.: 2011, Ionic composition structure of coronal mass ejections in axisymmetric magnetohydrodynamic models. Astrophys. J. 740, 112.
+Mackay, D.H., Green, L.M., van Ballegooijen, A.: 2011, Modeling the dispersal of an active region: Quantifying energy input into the corona. Astrophys. J. 729, 97.
+Mäkelä, P., Gopalswamy, N., Xie, H., Mohamed, A.A., Akiyama, S., Yashiro, S.: 2013, Coronal hole influence on the observed structure of interplanetary CMEs. Solar Phys. 284, 59.
+Manoharan, P.K.: 2010, Ooty interplanetary scintillation – Remote-sensing observations and analysis of coronal mass ejections in the heliosphere. Solar Phys. 265, 137.
+Mays, M.L., Taktakishvili, A., Pulkkinen, A., MacNeice, P.J., Rastätter, L., Odstrcil, D., Jian, L.K., Richardson, I.G., LaSota, J.A., Zheng, Y., Kuznetsova, M.M.: 2015, Ensemble modeling of CMEs using the WSA-ENLIL+Cone model. Solar Phys. 290, 1775.
+McNeice, P., Elliot, B., Acebal, A.: 2011, Validation of community models. Space Weather 9, S10003.
+Mohamed, A.A., Gopalswamy, N., Yashiro, S., Akiyama, S., Mäkelä, P., Xie, H., Jung, H.: 2012, The relation between coronal holes and coronal mass ejections during the rise, maximum, and declining phases of Solar Cycle 23. J. Geophys. Res. 117, A01103.
+Möstl, C., Farrugia, C.J., Kilpua, E.K.J., Jian, L.K., Liu, Y., Eastwood, J.P., Harrison, R.A., Webb, D.F., Temmer, M., Odstrcil, D., Davies, J.A., Rollett, T., Luhmann, J.G., Nitta, N., Mulligan, T., Jensen, E.A., Forsyth, R., Lavraud, B., de Koning, C.A., Veronig, A.M., Galvin, A.B., Zhang, T.L., Anderson, B.J.: 2012, Multi-point shock and flux rope analysis of multiple interplanetary coronal mass ejections around 2010 August 1 in the inner heliosphere. Astrophys. J. 758, 10.
+Nindos, A., Patsourakos, S., Vourlidas, A., Tagikas, C.: 2015, How common are hot magnetic flux ropes in the low solar corona? A statistical study of EUV observations. Astrophys. J. 808, 117.
+Nolte, J.T., Roelof, E.C.: 1973, Large-scale structure of the interplanetary medium, I: High coronal source longitude of the quiet-time solar wind. Solar Phys. 33, 241.
+Odstrčil, D.: 1994, Interactions of solar wind streams and related small structures. J. Geophys. Res. 99, 17.
+Odstrčil, D., Pizzo, V.J.: 1999, Three-dimensional propagation of CMEs in a structured solar wind flow: 1. CME launched within the streamer belt. J. Geophys. Res. 104, 483.
+Odstrčil, D., Dryer, M., Smith, Z.: 1996, Propagation of an interplanetary shock along the heliospheric plasma sheet. J. Geophys. Res. 101, 19973.
+Owens, M., Cargill, P.: 2004, Predictions of the arrival time of coronal mass ejections at 1AU: an analysis of the causes of errors. Ann. Geophys. 22, 661.
+Pagano, P., Mackay, D.H., Poedts, S.: 2013a, Effect of gravitational stratification on the propagation of a CME. Astron. Astrophys. 560, A38.
+Pagano, P., Mackay, D.H., Poedts, S.: 2013b, Magnetohydrodynamic simulations of the ejection of a magnetic flux rope. Astron. Astrophys. 554, A77.
+Pagano, P., Mackay, D.H., Poedts, S.: 2014, Simulating AIA observations of a flux rope ejection. Astron. Astrophys. 568, A120.
+Pagano, P., Reale, F., Orlando, S., Peres, G.: 2007, MHD evolution of a fragment of a CME core in the outer solar corona. Astron. Astrophys. 464, 753.
+Pagano, P., Raymond, J.C., Reale, F., Orlando, S.: 2008, Modeling magnetohydrodynamics and non-equilibrium SoHO/UVCS line emission of CME shocks. Astron. Astrophys. 481, 835.
+Pizzo, V., Millward, G., Parsons, A., Biesecker, D., Hill, S., Odstrcil, D.: 2011, Wang–Sheeley–Arege–Enlil cone model transitions to operations. Space Weather 9, S033004.
+Porth, O., Xia, C., Hendrix, T., Moschou, S.P., Keppens, R.: 2014, MPI-AMRVAC for solar and astrophysics. Astron. Astrophys. Suppl. 214, 4.
+Reinard, A.A., Lynch, B.J., Mulligan, T.: 2012, Composition structure of interplanetary coronal mass ejections from multispacecraft observations, modeling, and comparison with numerical simulations. Astrophys. J. 761, 175.
+Richardson, I.G., Cane, H.V.: 2004, The fraction of interplanetary coronal mass ejections that are magnetic clouds: Evidence for a solar cycle variation. Geophys. Res. Lett. 31, L18804.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Shi, T., Wang, Y., Wan, L., Cheng, X., Ding, M., Zhang, J.: 2015, Predicting the arrival time of coronal mass ejections with the graduated cylindrical shell and drag force model. Astrophys. J. 806, 271.
+Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.R., Margolies, D., Ormes, J.F., Snow, F.: 1998, The advanced composition explorer. Space Sci. Rev. 86, 1.
+Temmer, M., Vršnak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y., Bosman, E., Davies, J.A., Möstl, C., Žic, T., Veronig, A.M., Bothmer, V., Harrison, R., Nitta, N., Bisi, M., Flor, O., Eastwood, J., Odstrcil, D., Forsyth, R.: 2012, Characteristics of kinematics of a coronal mass ejection during the 2010 August 1 CME–CME interaction event. Astrophys. J. 749, 57.
+Urnov, A.M., Goryaev, F., Oparin, S.: 2012, On spectroscopic diagnostics of hot optically thin plasmas. In: Shevelko, V., Tawara, H. (eds.) Atomic Processes in Basic and Applied Physics, Springer Series on Atomic, Optical, and Plasma Physics 68, 249.
+Urnov, A.M., Goryaev, F.F., Bertschinger, G., Kunze, H.J., Marchuk, O.: 2007, On the verification of atomic data for K_{α} radiation spectra from the TEXTOR tokamak. JETP Lett. 85, 374.
+Vršnak, B.: 2001, Deceleration of coronal mass ejections. Solar Phys. 202, 173.
+Vršnak, B., Žic, T.: 2007, Transit times of interplanetary coronal mass ejections and the solar wind speed. Astron. Astrophys. 472, 937.
+Vršnak, B., Vrbanec, D., Čalogović, J.: 2008, Dynamics of coronal mass ejections. The mass-scaling of the aerodynamic drag. Astron. Astrophys. 490, 811.
+Vršnak, B., Ruždjak, D., Sudar, D., Gopalswamy, N.: 2004, Kinematics of coronal mass ejections between 2 and 30 solar radii. What can be learned about forces governing the eruption? Astron. Astrophys. 423, 717.
+Vršnak, B., Žic, T., Falkenberg, T.V., Möstl, C., Vennerstrom, S., Vrbanec, D.: 2010, The role of aerodynamic drag in propagation of interplanetary coronal mass ejections. Astron. Astrophys. 512, A43.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: The drag-based model. Solar Phys. 285, 295.
+Wang, Y.-M.: 2012, Semiempirical models of the slow and fast solar wind. Space Sci. Rev. 172, 123.
+Webb, D.F., Howard, T.A.: 2012, Coronal mass ejections: Observations. Living Rev. Solar Phys. 9, 3.
+Wood, B.E., Wu, C.-C., Rouillard, A.P., Howard, R.A., Socker, D.G.: 2012, A coronal hole’s effects on coronal mass ejection shock morphology in the inner heliosphere. Astrophys. J. 755, 43.
+Yiğit, E., Frey, H.U., Moldwin, M.B., Immel, T.J., Ridley, A.J.: 2016, Hemispheric differences in the response of the upper atmosphere to the August 2011 geomagnetic storm: A simulation study. J. Atmos. Solar-Terr. Phys. 141, 13.
+Zhang, J., Cheng, X., Ding, M.-D.: 2012, Observation of an evolving magnetic flux rope before and during a solar eruption. Nat. Commun. 3, 747.
+Zhao, L., Zurbuchen, T.H., Fisk, L.A.: 2009, Global distribution of the solar wind during solar cycle 23: ACE observations. Geophys. Res. Lett. 36, L14104.
+Zhao, L., Landi, E., Zurbuchen, T.H., Fisk, L.A., Lepri, S.T.: 2014, The evolution of 1 AU equatorial solar wind and its association with the morphology of the heliospheric current sheet from Solar Cycles 23 to 24. Astrophys. J. 793, 44.
+Zurbuchen, T.H., Richardson, I.G.: 2006, In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

@@ -1,0 +1,22 @@
+Aschwanden, M.J.: 2004, Physics of the Solar Corona. An Introduction, Praxis, Chichester
+Benevolenskaya, E.E., Kosovichev, A.G., Lemen, J.R., Scherrer, P.H., Slater, G.L.: 2002, Large-scale solar coronal structures in soft X-rays and their relationship to the magnetic flux. Astrophys. J. Lett. 571, L181.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – an atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Fisher, G.H., Longcope, D.W., Metcalf, T.R., Pevtsov, A.A.: 1998, Coronal heating in active regions as a function of global magnetic variables. Astrophys. J. 508, 885.
+Fludra, A., Hornsey, C., Nakariakov, V.M.: 2017, Diagnostics of coronal heating in active-region loops. Astrophys. J. 834, 100.
+Fludra, A., Ireland, J.: 2008, Radiative and magnetic properties of solar active regions. I. Global magnetic field and EUV line intensities. Astron. Astrophys. 483, 609.
+Galsgaard, K., Nordlund, Å.: 1996, Heating and activity of the solar corona 1. Boundary shearing of an initially homogeneous magnetic field. J. Geophys. Res. 101, 13445.
+Golub, L., Maxson, C., Rosner, R., Vaiana, G.S., Serio, S.: 1980, Magnetic fields and coronal heating. Astrophys. J. 238, 343.
+Gryciuk, M., Siarkowski, M., Sylwester, J., Gburek, S., Podgorski, P., Kepa, A., Sylwester, B., Mrozek, T.: 2017, Flare characteristics from X-ray light curves. Solar Phys. 292, 77.
+Kirichenko, A.S., Bogachev, S.A.: 2013, Long-duration plasma heating in solar microflares of X-ray class A1.0 and lower. Astron. Lett. 39, 797.
+Kirichenko, A.S., Bogachev, S.A.: 2017, Plasma heating in solar microflares: Statistics and analysis. Astrophys. J. 840, 45.
+Kuzin, S.V., Bogachev, S.A., Zhitnik, I.A., Pertsov, A.A., Ignatiev, A.P., Mitrofanov, A.M., Slemzin, V.A., Shestov, S.V., Sukhodrev, N.K., Bugaenko, O.I.: 2009, TESIS experiment on EUV imaging spectroscopy of the Sun. Adv. Space Res. 43, 1001.
+Landi, E., Young, P.R., Dere, K.P., Del Zanna, G., Mason, H.E.: 2013, CHIANTI – an atomic database for emission lines. XIII. Soft X-ray improvements and other changes. Astrophys. J. 763, 86.
+Longcope, D.W.: 1996, Topology and current ribbons: A model for current, reconnection and flaring in a complex, evolving corona. Solar Phys. 169, 91.
+Mandrini, C.H., Démoulin, P., Klimchuk, J.A.: 2000, Magnetic field and plasma scaling laws: Their implications for coronal heating models. Astrophys. J. 530, 999.
+Pevtsov, A.A., Fisher, G.H., Acton, L.W., Longcope, D.W., Johns-Krull, C.M., Kankelborg, C.C., Metcalf, T.R.: 2003, The relationship between X-ray radiance and magnetic flux. Astrophys. J. 598, 1387.
+Roald, C.B., Sturrock, P.A., Wolfson, R.: 2000, Coronal heating: Energy release associated with chromospheric magnetic reconnection. Astrophys. J. 538, 960.
+Rosner, R., Tucker, W.H., Vaiana, G.S.: 1978, Dynamics of the quiescent solar corona. Astrophys. J. 220, 643.
+Su, Y., Van Ballegooijen, A., McCaughey, J., Deluca, E., Reeves, K.K., Golub, L.: 2007, What determines the intensity of solar flare/CME events? Astrophys. J. 665, 1448.
+Sylwester, J., Kuzin, S., Kotov, Y.D., Farnik, F., Reale, F.: 2008, SphinX: A fast solar photometer in X-rays. J. Astrophys. Astron. 29, 339.
+Wolfson, R., Roald, C.B., Sturrock, P.A., Weber, M.A.: 2000, Coronal X-ray brightness and photospheric magnetic field: A study in correlations. Astrophys. J. 539, 995.
+Yashiro, S., Shibata, K.: 2001, Relation between thermal and magnetic properties of active regions as a probe of coronal heating mechanisms. Astrophys. J. Lett. 550, L113.

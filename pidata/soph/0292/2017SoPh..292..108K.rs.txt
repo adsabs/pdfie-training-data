@@ -1,0 +1,51 @@
+Brekke, P., Hassler, D.M., Wilhelm, K.: 1997, Doppler shifts in the quiet-Sun transition region and corona observed with SUMER on SOHO. Solar Phys. 175, 349.
+Brown, D.S., Parnell, C.E., Deluca, E.E., Golub, L., McMullen, R.A.: 2001, The magnetic structure of a coronal X-ray bright point. Solar Phys. 201, 305.
+Bruni, D.: 2006, Proquest Dissertations and Theses 2006. The Univ. of Alabama, Huntsville.
+Chandrashekhar, K., Krishna Prasad, S., Banerjee, D., Ravindra, B., Seaton, D.B.: 2013, Dynamics of coronal bright points as seen by Sun Watcher using Active Pixel system detector and image processing (SWAP), Atmospheric Imaging Assembly (AIA), and Helioseismic and Magnetic Imager (HMI). Solar Phys. 286, 125.
+Dadashi, N., Teriaca, L., Solanki, S.K.: 2011, The quiet Sun average Doppler shift of coronal lines up to 2 MK. Astron. Astrophys. 534, A90.
+Dadashi, N., Teriaca, L., Tripathi, D., Solanki, S.K., Wiegelmann, T.: 2012, Doppler shift of hot coronal lines in a moss area of an active region. Astron. Astrophys. 548, A115.
+De Pontieu, B., Title, A.M., Lemen, J.R., Kushner, G.D., Akin, D.J., Allard, B., Berger, T., Boerner, P., Cheung, M., Chou, C., et al.: 2014, The Interface Region Imaging Spectrograph (IRIS). Solar Phys. 289, 2733.
+Doschek, G.A., Landi, E., Warren, H.P., Harra, L.K.: 2010, Bright points and jets in polar coronal holes observed by the Extreme-ultraviolet Imaging Spectrometer on Hinode. Astrophys. J. 710, 1806.
+Dowdy, J.F. Jr.: 1993, Observational evidence for hotter transition region loops within the supergranular network. Astrophys. J. 411, 406.
+Gary, G.A.: 1996, Potential field extrapolation using three components of a solar vector magnetogram with a finite field of view. Solar Phys. 163, 43.
+Golub, L., Krieger, A., Simon, R., Vaiana, G., Timothy, A.F.: 1975a, Temporal and spatial properties of coronal bright points. Bull. Am. Astron. Soc. 7, 350.
+Golub, L., Kriegher, A.S., Silk, J.K., Timothy, A.F., Vaiana, G.S.: 1975b, Time variations of solar X-ray bright points. In: Kane, S.R. (ed.) Solar Gamma-, X-, and EUV Radiation, IAU Symp. 68, 23.
+Golub, L., Krieger, A.S., Vaiana, G.S.: 1976, Distribution of lifetimes for coronal soft X-ray bright points. Solar Phys. 49, 79.
+Golub, L., Krieger, A.S., Harvey, J.W., Vaiana, G.S.: 1977, Magnetic properties of X-ray bright points. Solar Phys. 53, 111.
+Golub, L.: 1980, X-ray bright points and the solar cycle. Phil. Trans. Roy. Soc. London Ser. A, Math. Phys. Sci. 297, 595.
+Golub, L., Bookbinder, J., Deluca, E., Karovska, M., Warren, H., Schrijver, C.J., Shine, R., Tarbell, T., Title, A., Wolfson, J., Handy, B., Kankelborg, C.: 1999, A new view of the solar corona from the transition region and coronal explorer (TRACE). Phys. Plasmas 6, 2205.
+Habbal, S.R., Withbroe, G.L.: 1981, Spatial and temporal variations of EUV coronal bright points. Solar Phys. 69, 77.
+Habbal, S.R., Withbroe, G.L., Dowdy, J.F. Jr.: 1990, A comparison between bright points in a coronal hole and a quiet-Sun region. Astrophys. J. 352, 333.
+Habbal, S.R.: 1992, Coronal energy distribution and X-ray activity in the small scale magnetic field of the quiet Sun. Ann. Geophys. 10(1 – 2), 34.
+Handy, B.N., Schrijver, C.J.: 2001, On the evolution of the solar photospheric and coronal magnetic field. Astrophys. J. 547, 1100.
+Hansteen, V.: 1993, A new interpretation of the redshift observed in optically thin transition region lines. Astrophys. J. 402, 741.
+Hansteen, V., De Pontieu, B., Carlsson, M., Lemen, J., Title, A., Boerner, P., Hurlburt, N., Tarbell, T.D., Wuelser, J.P., Pereira, T.M.D., De Luca, E.E., Golub, L., McKillop, S., Reeves, K., Saar, S., Testa, P., Tian, H., Kankelborg, C., Jaeggli, S., Kleint, L., Martínez-Sykora, J.: 2014, The unresolved fine structure resolved: IRIS observations of the solar transition region. Science 346(6207), 1255757.
+Harvey, K.L.: 1985, The relationship between coronal bright points as seen in He I Lambda 10830 and the evolution of the photospheric network magnetic fields. Aust. J. Phys. 38, 875.
+Huang, Z., Madjarska, M.S., Doyle, J.G., Lamb, D.A.: 2012, Coronal hole boundaries at small scales. IV. SOT view. Magnetic field properties of small-scale transient brightenings in coronal holes. Astron. Astrophys. 548, A62.
+Huang, Z., Xia, L., Li, B., Madjarska, M.S.: 2015, Cool transition region loops observed by the Interface Region Imaging Spectrograph. Astrophys. J. 810, 46.
+Kayshap, P., Banerjee, D., Srivastava, A.K.: 2015, Diagnostics of a Coronal Hole and the adjacent Quiet Sun by the Hinode/EUV Imaging Spectrometer (EIS). Solar Phys. 290, 2889.
+Krieger, A.S., Vaiana, G.S., van Speybroeck, L.P.: 1971, The X-Ray Corona and the Photospheric Magnetic Field. In: Solar Magnetic Fields, IAU Symp. 43, 397.
+Leenaarts, J., Pereira, T.M.D., Carlsson, M., Uitenbroek, H., De Pontieu, B.: 2013, The formation of IRIS diagnostics. II. The formation of the Mg II h & k lines in the solar atmosphere. Astrophys. J. 772, 90.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Madjarska, M.S., Doyle, J.G., Teriaca, L., Banerjee, D.: 2003, An EUV bright point as seen by SUMER, CDS, MDI and EIT on-board SoHO. Astron. Astrophys. 398, 775.
+Madjarska, M.S., Huang, Z., Doyle, J.G., Subramanian, S.: 2012, Coronal hole boundaries evolution at small scales. III. EIS and SUMER views. Astron. Astrophys. 545, A67.
+McIntosh, S.W.: 2007, On the mass and energy loading of extreme-UV bright points. Astrophys. J. 670, 1401.
+Moses, D., Cook, J.W., Bartoe, J.-D.F., Brueckner, G.E., Dere, K.P., Webb, D.F., Davis, J.M., Harvey, J.W., Recely, F., Martin, S.F., Zirin, H.: 1994, Solar fine scale structures in the corona, transition region, and lower atmosphere. Astrophys. J. 430, 913.
+Mou, C., Huang, Z., Xia, L., Madjarska, M.S., Li, B., Fu, H., Jiao, F., Hou, Z.: 2016, Magnetic flux supplement to coronal bright points. Astrophys. J. 818, 9.
+Orange, N.B., Oluseyi, H.M., Chesny, D.L., Patel, M., Hesterly, K., Preuss, L., Neira, C., Turner, N.E.: 2014, Comparative analysis of a transition region bright point with a blinker and coronal bright point using multiple EIS emission lines orange. Solar Phys. 289, 1557.
+Peter, H., Judge, P.G.: 1999, On the Doppler shifts of solar ultraviolet emission lines. Astrophys. J. 522, 1148.
+Pereira, T.M.D., Leenaarts, J., De Pontieu, B., Carlsson, M., Uitenbroek, H.: 2013, The formation of IRIS diagnostics. III. Near-ultraviolet spectra and images. Astrophys. J. 778, 143.
+Priest, E.R., Parnell, C.E., Martin, S.F.: 1994, A converging flux model of an X-ray bright point and an associated canceling magnetic feature. Astrophys. J. 427, 459.
+Pérez-Suárez, D., Maclean, R.C., Doyle, J.G., Madjarska, M.S.: 2008, The structure and dynamics of a bright point as seen with Hinode, SoHO and TRACE. Astron. Astrophys. 492, 575.
+Rathore, B., Carlsson, M., Leenaarts, J., De Pontieu, B.: 2015, The formation of IRIS diagnostics. VI. The diagnostic potential of the C II lines at 133.5 nm in the solar atmosphere. Astrophys. J. 811, 81.
+Rudenko, G.V.: 2001, A constructing method for a self-consistent three-dimensional solution of the magnetohydrostatic equations using full-disk magnetogram data. Solar Phys. 198, 5.
+Sheeley, N.R. Jr., Golub, L.: 1979, Rapid changes in the fine structure of a coronal ‘bright point’ and a small coronal ‘active region’. Solar Phys. 63, 119.
+Teriaca, L., Doyle, J.G., Erdélyi, R., Sarro, L.M.: 1999, New insight into transition region dynamics via SUMER observations and numerical modeling. Astron. Astrophys. 352, L99.
+Testa, P., De Pontieu, B., Allred, J., Carlsson, M., Reale, F., Daw, A., et al.: 2014, Evidence of nonthermal particles in coronal loops heated impulsively by nanoflares. Science 346, 1255724.
+Wang, X., McIntosh, S.W., Curdt, W., Tian, H., Peter, H., Xia, L.-D.: 2013, Temperature dependence of ultraviolet line parameters in network and internetwork regions of the quiet sun and coronal holes. Astron. Astrophys. 557, A126.
+Webb, D.F.: 1986, Small-scale coronal structure, part 3. NASA CP-2442, 329.
+Webb, D.F., Martin, S.F., Moses, D., Harvey, J.W.: 1993, The correspondence between X-ray bright points and evolving magnetic features in the quiet Sun. Solar Phys. 144, 15.
+Vaiana, G.S., Davis, J.M., Giacconi, R., Krieger, A.S., Silk, J.K., Timothy, A.F., Zombeck, M.: 1973, X-ray observations of characteristic structures and time variations from the solar corona: preliminary results from SKYLAB. Astrophys. J. Lett. 185, L47.
+Young, P.R., O’Dwyer, B., Mason, H.E.: 2012, Velocity measurements for a solar active region Fan loop from Hinode/EIS Observations. Astrophys. J. 744, 14.
+Zhang, J., Kundu, M.R., White, S.M.: 2001, Spatial distribution and temporal evolution of coronal bright points. Solar Phys. 198, 347.
+Zhao, J., Schmieder, B., Li, H., Pariat, E., Zhu, X., Feng, L., et al.: 2017, Observational evidence of magnetic reconnection for brightenings and transition region arcades in IRIS observations. Astrophys. J. 836, 52.

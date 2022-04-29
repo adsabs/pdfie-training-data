@@ -1,0 +1,41 @@
+Cameron, R., Schussler, M.: 2008, Astrophys. J. 685, 1291.
+Clette, F., Svalgaard, L., Vaquero, J.M.: 2014, Space Sci. Rev. 186, 35.
+Du, Z.L., Wang, H.N.: 2012, Sci. China, Phys. Mech. Astron. 55, 365.
+Foukal, P., Frohlich, C., Spruit, H., Wigley, T.M.L.: 2006, Nature 443, 161.
+Gnevyshev, M.N., Ohl, A.I.: 1948, Astron. Zh. 25, 18.
+Han, Y.B.: 2000, Chin. Sci. Bull. 45, 1287.
+Han, Y.B., Wang, J.L.: 1999, Chin. Astron. Astrophys. 23, 139.
+Han, Y.B., Yin, Z.Q., Wang, B.: 2018, Chin. Sci. Bull. 63, 311 (in Chinese).
+Hathaway, D.H.: 2015, Living Rev. Solar Phys. 12, 4.
+Hathaway, D.H., Wilson, R.M.: 2002, Solar Phys. 211, 357.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 1994, Solar Phys. 151, 177.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 1999, J. Geophys. Res. 104(A10), 22375.
+Ineson, S., Scaife, A.A., Knight, J.R., Manners, J.C., Dunstone, N.J., Gray, L.J., Haigh, J.D.: 2011, Nat. Geosci. 4, 753.
+Jiang, J., Wang, J.X., Zhang, J.H., Bi, S.L.: 2016, Chin. Sci. Bull. 61, 2973 (in Chinese).
+Karak, B.B., Choudhuri, A.R.: 2010, The Waldmeier effect in sunspot cycles. In: Magnetic Coupling Between the Interior and Atmosphere of the Sun, Springer, Berlin, 402.
+Kiepenheuer, K.O.: 1953, In: Kuiper, G.P. (ed.) The Sun, University of Chicago Press, Chicago, 322.
+Le, G.M., Wang, J.L.: 2003, Chin. J. Astron. Astrophys. 3(5), 391L.
+Le, G.M., Cai, Z.Y., Wang, H.N., Yin, Z.Q., Li, P.: 2013, Res. Astron. Astrophys. 13(6), 739.
+Le, G.M., Yang, X.X., Ding, L.G., Liu, Y.H., Chen, M.H.: 2014, Astrophys. Space Sci. 7(352), 403.
+Li, K.J., Yun, H.S., Gu, X.M.: 2001, Astron. Astrophys. 368, 285.
+Miao, J., Gong, J.C., Li, Z.T., Ren, T.L.: 2015, Sci. Sin.-Phys. Mech. Astron. 45, 099601 (in Chinese).
+Pesnell, W.D.: 2012, Solar Phys. 281, 507.
+Russell, C.T., Luhmann, J.G., Jian, L.K.: 2010, Rev. Geophys. 48, RG2004.
+Soon, W., Dutta, K., Legates, D.R., Velasco, V., Zhang, W.: 2011, J. Atmos. Solar-Terr. Phys. 73(16), 2331.
+Sushanta, C.T.: 2016, Asian J. Phys. 25(3), 387.
+Thompson, R.J.: 1988, Solar Phys. 117, 279.
+Vondrak, J.: 1977, Bull. Astron. Inst. Czeah. 28(2), 84.
+Waldmeier, M.: 1935, Astron. Mitt. Zür. 14(133), 105.
+Wang, J.L., Han, Y.B.: 1997, Astrophys. Rep. 1(Suppl), 76.
+Wang, J.L., Miao, J., Liu, S.Q., Gong, J.C., Zhu, C.L.: 2008, Sci. Sin.-Phys. Mech. Astron. 51, 1938.
+Wilson, R.M.: 1990a, Solar Phys. 125, 133.
+Wilson, R.M.: 1990b, Solar Phys. 125, 143.
+Wilson, R.M.: 1990c, Solar Phys. 127, 199.
+Wilson, R.M.: 2015, J. Ala. Acad. Sci. 86, 203.
+Wilson, R.M.: 2017, J. Ala. Acad. Sci. 88(2), 96.
+Wilson, R.M., Hathaway, D.H.: 2006a, NASA/TP, 214433.
+Wilson, R.M., Hathaway, D.H.: 2006b, NASA/TP, 214711.
+Yin, Z.Q., Han, Y.B.: 2018, Astron. Nachr. 339, 30.
+Yoshida, A., Yamagishi, H.: 2010, Ann. Geophys. 28, 417.
+Zhao, L., Xu, Y., Wang, J.: 2011, Adv. Meteorol. Sci. Technol. 1(4), 37.
+Zheng, D.W., Zhong, P., Ding, X.L.: 2005, J. Geod. 79, 363.

@@ -1,0 +1,36 @@
+Badruddin, Mustajab, F., Derouich, M.: 2018, Geomagnetic response of interplanetary coronal mass ejections in the Earth’s magnetosphere. Planet. Space Sci. 154, 1.
+Balmaceda, L.A., Vourlidas, A., Stenborg, G., Dal Lago, A.: 2018, How reliable are the properties of coronal mass ejections measured from a single viewpoint? Astrophys. J. 863, 57.
+Bothmer, V., Schwenn, R.: 1998, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16(1), 1.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock – Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Démoulin, P., Dasso, S., Janvier, M.: 2013, Does spacecraft trajectory strongly affect detection of magnetic clouds? Astron. Astrophys. 550, A3.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The solar probe plus mission: Humanity’s first visit to our star. Space Sci. Rev. 204(1), 7.
+Gopalswamy, N., Lara, A., Yashiro, S., Howard, R.A.: 2003, Coronal mass ejections and solar polarity reversal. Astrophys. J. Lett. 598, L63.
+Gopalswamy, N., Yashiro, S., Xie, H., Akiyama, S., Mäkelä, P.: 2015, Properties and geoeffectiveness of magnetic clouds during solar cycles 23 and 24. J. Geophys. Res. 120, 9221.
+Hidalgo, M.A., Cid, C., Vinas, A.F., Sequeiros, J.: 2002, A non-force-free approach to the topology of magnetic clouds in the solar wind. J. Geophys. Res. 107, 1002.
+Huttunen, K.E.J., Schwenn, R., Bothmer, V., Koskinen, H.E.J.: 2005, Properties and geoeffectiveness of magnetic clouds in the rising, maximum and early declining phases of solar cycle 23. Ann. Geophys. 23, 625.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Galvin, A.B.: 2018, STEREO observations of interplanetary coronal mass ejections in 2007 – 2016. Astrophys. J. 855, 114.
+Klein, L.W., Burlaga, L.F.: 1982, Interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 87, 613.
+Lepping, R.P., Burlaga, L.F., Jones, J.A.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Lepping, R.P., Wu, C.-C.: 2010, Selection effects in identifying magnetic clouds and the importance of the closest approach parameter. Ann. Geophys. 28, 1539.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B.: 2005, Automatic identification of magnetic clouds and cloud-like regions at 1 AU: Occurrence rate and other properties. Ann. Geophys. 23, 2687.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B., Szabo, A.: 2015, Wind magnetic clouds for 2010 – 2012: Model parameter fittings, associated shock waves, and comparisons to earlier periods. Solar Phys. 290, 2265.
+Li, Y., Luhmann, J.G., Lynch, B.J.: 2018, Magnetic clouds: Solar Cycle dependence, sources, and geomagnetic impacts. Solar Phys. 293, 135.
+Li, Y., Luhmann, J.G., Lynch, B.J., Kilpua, E.K.J.: 2011, Cyclic reversal of magnetic cloud poloidal field. Solar Phys. 270, 331.
+Li, Y., Luhmann, J.G., Lynch, B.J., Kilpua, E.K.J.: 2014, Magnetic clouds and origins in STEREO era. J. Geophys. Res. Space Phys. 119, 3237.
+Low, B.C.: 2001, Coronal mass ejections, magnetic flux ropes, and solar magnetism. J. Geophys. Res. 106, 25141.
+Lundquist, S.: 1950, Magnetohydrostatic fields. Ark. Fys. 2, 361.
+Manchester, W., Kilpua, E.K.J., Liu, Y.D., Lugaz, N., Riley, P., Török, T., Vršnak, B.: 2017, The physical processes of CME/ICME evolution. Space Sci. Rev. 212, 1159.
+Müller, D., Marsden, R.G., St. Cyr, O.C., Gilbert, H.R.: 2013, Solar Orbiter. Exploring the Sun-Heliosphere connection. Solar Phys. 285, 25.
+Mulligan, T., Russell, C.T., Luhmann, J.G.: 1998, Solar cycle evolution of the structure of magnetic clouds in the inner heliosphere. Geophys. Res. Lett. 25, 2959.
+Nieves-Chinchilla, T.: 2018, Modeling heliospheric flux rope: A comparative analysis of physical quantities. IEEE Transactions of Plasma Physics.
+Nieves-Chinchilla, T., Linton, M.G., Hidalgo, M.A., Vourlidas, A., Savani, N.P., Szabo, A., Farrugia, C., Yu, W.: 2016, A circular–cylindrical flux-rope analytical model for magnetic clouds. Astrophys. J. 823(1), 27.
+Nieves-Chinchilla, T., Vourlidas, A., Raymond, J.C., Linton, M.G., Al-haddad, N., Savani, N.P., Szabo, A., Hidalgo, M.A.: 2018, Understanding the internal magnetic field configurations of ICMEs using more than 20 years of Wind observations. Solar Phys. 293(2), 25.
+Palmerio, E., Kilpua, E.K.J., Möstl, C., Bothmer, V., James, A.W., Green, L.M., Isavnin, A., Davies, J.A., Harrison, R.A.: 2018, Coronal magnetic structure of Earthbound CMEs and in situ comparison. ArXiv e-prints.
+Richardson, I.G., Cane, H.V.: 2004, Identification of interplanetary coronal mass ejections at 1 AU using multiple solar wind plasma composition anomalies. J. Geophys. Res. Space Phys. 109, A09104.
+Riley, P., Richardson, I.G.: 2013, Using statistical multivariable models to understand the relationship between interplanetary coronal mass ejecta and magnetic flux ropes. Solar Phys. 284, 217.
+Vourlidas, A.: 2014, The flux rope nature of coronal mass ejections. Plasma Phys. Control. Fusion 56(6), 064001.
+Vourlidas, A., Webb, D.F.: 2018, Streamer-blowout coronal mass ejections: Their properties and relation to the coronal magnetic field structure. Astrophys. J. 861(2), 103.
+Vourlidas, A., Howard, R.A., Esfandiari, E., Patsourakos, S., Yashiro, S., Michalek, G.: 2010, Comprehensive analysis of coronal mass ejection mass and energy properties over a full solar cycle. Astrophys. J. 722(2), 1522.
+Vourlidas, A., Balmaceda, L.A., Stenborg, G., Dal Lago, A.: 2017, Multi-viewpoint coronal mass ejection catalog based on STEREO COR2 observations. Astrophys. J. 838, 141.
+Wu, C.-C., Lepping, R.P.: 2015, Comparisons of characteristics of magnetic clouds and cloud-like structures during 1995 – 2012. Solar Phys. 290, 1243.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, A catalog of white light coronal mass ejections observed by the SOHO spacecraft. J. Geophys. Res. Space Phys. 109, A07105.

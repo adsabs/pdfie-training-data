@@ -1,0 +1,64 @@
+Aschwanden, M.J., Lee, J.K., Gary, G.A., Smith, M., Inhester, B.: 2008, Comparison of five numerical codes for automated tracing of coronal loops. Solar Phys. 248, 359.
+Attrill, G.D.R., Harra, L.K., van Driel-Gesztelyi, L., Démoulin, P., Wülser, J.-P.: 2007a, Coronal “wave”: A signature of the mechanism making CMEs large-scale in the low corona? Astron. Nachr. 328, 760.
+Attrill, G.D.R., Harra, L.K., van Driel-Gesztelyi, L., Démoulin, P.: 2007b, Coronal “Wave”: magnetic footprint of a coronal mass ejection? Astrophys. J. Lett. 656, L101.
+Biesecker, D.A., Myers, D.C., Thompson, B.J., Hammer, D.M., Vourlidas, A.: 2002, Solar phenomena associated with “EIT waves”. Astrophys. J. 569, 1009.
+Byrne, J.P., Long, D.M., Gallagher, P.T., Bloomfield, D.S., Maloney, S.A., McAteer, R.T.J., Morgan, H., Habbal, S.R.: 2013, Improved methods for determining the kinematics of coronal mass ejections and coronal waves. Astron. Astrophys. 557, A96.
+Chen, P.F.: 2006, The relation between EIT waves and solar flares. Astrophys. J. Lett. 641, L153.
+Chen, P.F., Fang, C., Shibata, K.: 2005, A full view of EIT waves. Astrophys. J. 622, 1202.
+Chen, P.F., Wu, S.T., Shibata, K., Fang, C.: 2002, Evidence of EIT and Moreton waves in numerical simulations. Astrophys. J. Lett. 572, L99.
+Cohen, O., Attrill, G.D.R., Manchester, W.B. IV, Wills-Davey, M.J.: 2009, Numerical simulation of an EUV coronal wave based on the 2009 February 13 CME event observed by STEREO. Astrophys. J. 705, 587.
+Delannée, C.: 2000, Another view of the EIT wave phenomenon. Astrophys. J. 545, 512.
+Delannée, C., Aulanier, G.: 1999, CME associated with transequatorial loops and a bald patch flare. Solar Phys. 190, 107.
+Delannée, C., Török, T., Aulanier, G., Hochedez, J.-F.: 2008, A new model for propagating parts of EIT waves: A current shell in a CME. Solar Phys. 247, 123.
+Fischler, M.A., Bolles, R.C.: 1981, Random sample consensus: A paradigm for model fitting with applications to image analysis and automated cartography. Commun. ACM 24(6), 381.
+Freeland, S., Bentley, R.: 2000, In: Murdin, P. (ed.) SolarSoft.
+Gallagher, P.T., Long, D.M.: 2011, Large-scale bright fronts in the solar corona: A review of “EIT waves”. Space Sci. Rev. 158, 365.
+Gonzalez, R.C., Woods, R.E.: 2001, Digital Image Processing, 2nd edn. Addison–Wesley Longman, Boston.
+Gopalswamy, N., Yashiro, S., Temmer, M., Davila, J., Thompson, W.T., Jones, S., McAteer, R.T.J., Wuelser, J.-P., Freeland, S., Howard, R.A.: 2009, EUV wave reflection from a coronal hole. Astrophys. J. Lett. 691, L123.
+Hunter, J.D.: 2007, Matplotlib: A 2d graphics environment. Comput. Sci. Eng. 9(3), 90.
+Kass, R.E., Raftery, A.E.: 1995, Bayes factors. J. Am. Stat. Assoc. 90, 773.
+Kraaikamp, E., Verbeeck, C.: 2015, Solar Demon – an approach to detecting flares, dimmings, and EUV waves on SDO/AIA images. J. Space Weather Space Clim. 5(27), A18.
+Kwon, R.-Y., Ofman, L., Olmedo, O., Kramar, M., Davila, J.M., Thompson, B.J., Cho, K.-S.: 2013, STEREO observations of fast magnetosonic waves in the extended solar corona associated with EIT/EUV waves. Astrophys. J. 766, 55.
+Liu, W., Ofman, L.: 2014, Advances in observing various coronal EUV waves in the SDO era and their seismological applications (invited review). Solar Phys. 289, 3233.
+Liu, W., Ofman, L., Nitta, N.V., Aschwanden, M.J., Schrijver, C.J., Title, A.M., Tarbell, T.D.: 2012, Quasi-periodic fast-mode wave trains within a global EUV wave and sequential transverse oscillations detected by SDO/AIA. Astrophys. J. 753, 52.
+Long, D.M., DeLuca, E.E., Gallagher, P.T.: 2011, The wave properties of coronal bright fronts observed using SDO/AIA. Astrophys. J. Lett. 741, L21.
+Long, D.M., Gallagher, P.T., McAteer, R.T.J., Bloomfield, D.S.: 2008, The kinematics of a globally propagating disturbance in the solar corona. Astrophys. J. Lett. 680, L81.
+Long, D.M., Bloomfield, D.S., Gallagher, P.T., Pérez-Suárez, D.: 2014, CorPITA: An automated algorithm for the identification and analysis of coronal “EIt waves”. Solar Phys. 289, 3279.
+Long, D.M., Murphy, P., Graham, G., Carley, E.P., Pérez-Suárez, D.: 2017a, A statistical analysis of the solar phenomena associated with global EUV waves. Solar Phys. 292, 185.
+Long, D.M., Bloomfield, D.S., Chen, P.F., Downs, C., Gallagher, P.T., Kwon, R.-Y., Vanninathan, K., Veronig, A.M., Vourlidas, A., Vršnak, B., Warmuth, A., Žic, T.: 2017b, Understanding the physical nature of coronal “EIT waves”. Solar Phys. 292, 7.
+Metcalf, T.R., De Rosa, M.L., Schrijver, C.J., Barnes, G., van Ballegooijen, A.A., Wiegelmann, T., Wheatland, M.S., Valori, G., McTtiernan, J.M.: 2008, Nonlinear force-free modeling of coronal magnetic fields. II. Modeling a filament arcade and simulated chromospheric and photospheric vector fields. Solar Phys. 247, 269.
+Meurer, A., Smith, C.P., Paprocki, M., Čertík, O., Kirpichev, S.B., Rocklin, M., Kumar, A., Ivanov, S., Moore, J.K., Singh, S., Rathnayake, T., Vig, S., Granger, B.E., Muller, R.P., Bonazzi, F., Gupta, H., Vats, S., Johansson, F., Pedregosa, F., Curry, M.J., Terrel, A.R., Roučka, v., Saboo, A., Fernando, I., Kulal, S., Cimrman, R., Scopatz, A.: 2017, Sympy: Symbolic computing in Python. Peer J. Comput. Sci. 3, e103.
+Milligan, R.O., Kerr, G.S., Dennis, B.R., Hudson, H.S., Fletcher, L., Allred, J.C., Chamberlin, P.C., Ireland, J., Mathioudakis, M., Keenan, F.P.: 2014, The radiated energy budget of chromospheric plasma in a major solar flare deduced from multi-wavelength observations. Astrophys. J. 793, 70.
+Moses, D., Clette, F., Delaboudinière, J.-P., Artzner, G.E., Bougnet, M., Brunaud, J., Carabetian, C., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Newmark, J., Thompson, B., Maucherat, A., Portier-Fozzani, F., Berghmans, D., Cugnon, P., van Dessel, E.L., Gabryl, J.R.: 1997, EIT observations of the extreme ultraviolet sun. Solar Phys. 175, 571.
+Nakariakov, V.M., Verwichte, E.: 2005, Coronal waves and oscillations. Living Rev. Solar Phys. 2, 3.
+Nitta, N.V., Schrijver, C.J., Title, A.M., Liu, W.: 2013, Large-scale coronal propagating fronts in solar eruptions as observed by the atmospheric imaging assembly on board the solar dynamics observatory – an ensemble study. Astrophys. J. 776, 58.
+Ofman, L., Thompson, B.J.: 2002, Interaction of EIT waves with coronal active regions. Astrophys. J. 574, 440.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., Borne, K.: 2008, Automatic detection and tracking of coronal mass ejections in coronagraph time series. Solar Phys. 248, 485.
+Patsourakos, S., Vourlidas, A.: 2012, On the nature and genesis of EUV waves: A synthesis of observations from SOHO, STEREO, SDO, and Hinode (invited review). Solar Phys. 281, 187.
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, E.: 2011, Scikit-learn: Machine learning in Python. J. Mach. Learn. Res. 12, 2825.
+Podladchikova, O., Berghmans, D.: 2005, Automated detection of EIT waves and dimmings. Solar Phys. 228, 265.
+Podladchikova, O., Vourlidas, A., Van der Linden, R.A.M., Wülser, J.-P., Patsourakos, S.: 2010, Extreme ultraviolet observations and analysis of micro-eruptions and their associated coronal waves. Astrophys. J. 709, 369.
+Podladchikova, O., Vuets, A., Leontiev, P., van der Linden, R.A.M.: 2012, Recent developments of NEMO: Detection of EUV wave characteristics. Solar Phys. 276, 479.
+Pérez, F., Granger, B.E.: 2007, Ipython: A system for interactive scientific computing. Comput. Sci. Eng. 9(3), 21.
+Robbrecht, E., Berghmans, D.: 2004, Automated recognition of coronal mass ejections (CMEs) in near-real-time data. Astron. Astrophys. 425, 1097.
+Schmidt, J.M., Ofman, L.: 2010, Global simulation of an extreme ultraviolet imaging telescope wave. Astrophys. J. 713, 1008.
+Schrijver, C.J., De Rosa, M.L., Metcalf, T.R., Liu, Y., McTiernan, J., Régnier, S., Valori, G., Wheatland, M.S., Wiegelmann, T.: 2006, Nonlinear force-free modeling of coronal magnetic fields, part I: A quantitative comparison of methods. Solar Phys. 235, 161.
+Schrijver, C.J., De Rosa, M.L., Metcalf, T., Barnes, G., Lites, B., Tarbell, T., McTiernan, J., Valori, G., Wiegelmann, T., Wheatland, M.S., Amari, T., Aulanier, G., Démoulin, P., Fuhrmann, M., Kusano, K., Régnier, S., Thalmann, J.K.: 2008, Nonlinear force-free field modeling of a solar active region around the time of a major flare and coronal mass ejection. Astrophys. J. 675, 1637.
+Schrijver, C.J., Aulanier, G., Title, A.M., Pariat, E., Delannée, C.: 2011, The 2011 February 15 X2 flare, ribbons, coronal front, and mass ejection: Interpreting the three-dimensional views from the Solar Dynamics Observatory and STEREO Guided by magnetohydrodynamic flux-rope modeling. Astrophys. J. 738, 167.
+Schwarz, G.: 1978, Estimating the dimension of a model. Ann. Stat. 6(2), 461.
+SunPy Community, Mumford, S.J., Christe, S., Pérez-Suárez, D., Ireland, J., Shih, A.Y., Inglis, A.R., Liedtke, S., Hewett, R.J., Mayer, F., Hughitt, K., Freij, N., Meszaros, T., Bennett, S.M., Malocha, M., Evans, J., Agrawal, A., Leonard, A.J., Robitaille, T.P., Mampaey, B., Campos-Rozo, J.I., Kirk, M.S.: 2015, SunPy – Python for solar physics. Comput. Sci. Discov. 8(1), 014009.
+Thompson, B.J., Myers, D.C.: 2009, A catalog of coronal “EIT wave” transients. Astrophys. J. Suppl. 183, 225.
+Thompson, B.J., Young, C.A.: 2016, Persistence mapping using EUV Solar Imager data. Astrophys. J. 825, 27.
+Thompson, B.J., Plunkett, S.P., Gurman, J.B., Newmark, J.S., St. Cyr, O.C., Michels, D.J.: 1998, SOHO/EIT observations of an Earth-directed coronal mass ejection on May 12, 1997. Geophys. Res. Lett. 25, 2465.
+Thompson, B.J., Gurman, J.B., Neupert, W.M., Newmark, J.S., Delaboudinière, J.-P., Cyr, O.C.S., Stezelberger, S., Dere, K.P., Howard, R.A., Michels, D.J.: 1999, SOHO/EIT observations of the 1997 April 7 coronal transient: Possible evidence of coronal Moreton waves. Astrophys. J. Lett. 517, L151.
+Thompson, B.J., Reynolds, B., Aurass, H., Gopalswamy, N., Gurman, J.B., Hudson, H.S., Martin, S.F., St. Cyr, O.C.: 2000, Observations of the 24 September 1997 Coronal flare waves. Solar Phys. 193, 161.
+Tomczyk, S., McIntosh, S.W., Keil, S.L., Judge, P.G., Schad, T., Seeley, D.H., Edmondson, J.: 2007, Alfvén waves in the solar corona. Science 317, 1192.
+Uchida, Y.: 1970, Diagnosis of coronal magnetic structure by flare-associated hydromagnetic disturbances. Publ. Astron. Soc. Japan 22, 341.
+Veronig, A.M., Temmer, M., Vršnak, B.: 2008, High-cadence observations of a global coronal wave by STEREO EUVI. Astrophys. J. Lett. 681, L113.
+Wang, Y.-M.: 2000, EIT waves and fast-mode propagation in the solar corona. Astrophys. J. Lett. 543, L89.
+Warmuth, A.: 2015, Large-scale globally propagating coronal waves. Living Rev. Solar Phys. 12, 3.
+Warmuth, A., Mann, G.: 2011, Kinematical evidence for physically different classes of large-scale coronal EUV waves. Astron. Astrophys. 532, A151.
+Wills-Davey, M.J.: 2006, Tracking large-scale propagating coronal wave fronts (EIT waves) using automated methods. Astrophys. J. 645, 757.
+Wills-Davey, M.J., Thompson, B.J.: 1999, Observations of a propagating disturbance in TRACE. Solar Phys. 190, 467.
+Wu, S.T., Zheng, H., Wang, S., Thompson, B.J., Plunkett, S.P., Zhao, X.P., Dryer, M.: 2001, Three-dimensional numerical simulation of MHD waves observed by the Extreme Ultraviolet Imaging Telescope. J. Geophys. Res. 106, 25089.
+Zhukov, A.N., Auchère, F.: 2004, On the nature of EIT waves, EUV dimmings and their link to CMEs. Astron. Astrophys. 427, 705.

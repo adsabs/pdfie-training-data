@@ -1,0 +1,64 @@
+Bronarska, K., Wheatland, M.S., Gopalswamy, N., Michalek, G.: 2018, Very narrow coronal mass ejections producing solar energetic particles. Astron. Astrophys. 619, A34.
+Cargill, P.J.: 2004, On the aerodynamic drag force acting on interplanetary coronal mass ejections. Sol. Phys. 221, 135.
+Cargill, P.J., Schmidt, J.M.: 2002, Modelling interplanetary CMEs using magnetohydrodynamic simulations. Ann. Geophys. 20, 879.
+Desai, M.I., Burgess, D.: 2008, Particle acceleration at coronal mass ejection-driven interplanetary shocks and the Earth’s bow shock. J. Geophys. Res. Space Phys. 113, A00B06.
+Desai, M.I., Mason, G.M., Dwyer, J.R., Mazur, J.E., von Rosenvinge, T.T., Lepping, R.P.: 2000, Characteristics of energetic (≥30 keV/nucleon) ions observed by the Wind/STEP instrument upstream of the Earth’s bow shock. J. Geophys. Res. 105, 61.
+Dierckxsens, M., Tziotziou, K., Dalla, S., Patsou, I., Marsch, M.S., Crosby, N.B.: 2015, Relationship between solar energetic particles and properties of flares and CMEs: statistical analysis of solar cycle 23 events. Sol. Phys. 290, 841.
+Dumbović, M., C˘alogović, J., Vrs˘nak, B., Temmer, M., Mays, M.L., Veronig, A.: 2018, The drag-based ensemble model (DBEM) for coronal mass ejection propagation. Astrophys. J. 854, 180.
+Evans, R.M., Opher, M., Manchester, W.B., Gombosi, T.I. IV: 2008, Alfvén profile in the lower corona: implications for shock formation. Astrophys. J. 687, 1355.
+Gopalswamy, N.: 2008, Type II radio emission and solar energetic particle events. In: Particle Acceleration and Transport in the Heliosphere and Beyond: 7th Annual Internat. Astrophys. Conf., AIP Conf. Proc. 1039, 196.
+Gopalswamy, N., Yashiro, S.: 2011, The strength and radial profile of the coronal magnetic field from the standoff distance of a coronal mass ejection-driven shock. Astrophys. J. Lett. 736, L17.
+Gopalswamy, N., Lara, A., Kaiser, M.L., Bougeret, J.-L.: 2001a, Near-Sun and near-Earth manifestations of solar eruptions. J. Geophys. Res. 106, 25,261.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2001b, Characteristics of coronal mass ejections associated with long-wavelength type II radio bursts. J. Geophys. Res. 106, 29219.
+Gopalswamy, N., Yashiro, S., Lara, A., Kaiser, M.L., Thompson, B.J., Gallagher, P.T., Howard, R.A.: 2003, Large solar energetic particle events of cycle 23: a global view. Geophys. Res. Lett. 30, 8015.
+Gopalswamy, N., Aguilar-Rodriguez, E., Yashiro, S., Nunes, S., Kaiser, M.L., Howard, R.A.: 2005, Type II radio bursts and energetic solar eruptions. J. Geophys. Res. 110, A12S07.
+Gopalswamy, N., Yashiro, S., Xie, H., Akiyama, S., Aguillar-Rodriguez, E., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2008a, Radio-quiet fast and wide coronal mass ejections. Astrophys. J. 674, 560.
+Gopalswamy, N., Yashiro, S., Akiyama, S., Mäkelä, P., Xie, H., Kaiser, M.L., Howard, R.A., Bougeret, J.L.: 2008b, Coronal mass ejections, type II radio bursts, and solar energetic particle events in the SOHO era. Ann. Geophys. 26, 1033.
+Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009a, The SOHO/LASCO CME catalog. Earth Moon Planet 104, 295.
+Gopalswamy, N., Dal Lago, A., Yashiro, S., Akiyama, S.: 2009b, The expansion and radial speeds of coronal mass ejections. Cent. Eur. Astrophys. Bull. 33, 115.
+Gopalswamy, N., Akiyama, S., Yashiro, S., Mäkelä, P.: 2010, Coronal mass ejections from sunspot and non-sunspot regions. In: Hasan, S.S., Rutten, R.J. (eds.) Magnetic Coupling between the Interior and Atmosphere of the Sun, Astrophys. Space Sci. Proc., Springer, Berlin, 289.
+Guhathakurta, M., Sittler, E.C., McComas, D.: 1999, Semi-empirical MHD model of the solar wind and its comparison with ULYSSES. Space Sci. Rev. 87, 199.
+Guidice, D.A.: 1979, Sagamore Hill Radio Observatory, Air Force Geophysics Laboratory, Hanscom Air Force Base, Massachusetts 01731. Report., Bull. Am. Astron. Soc. 11, 311.
+Kahler, S.W.: 2013, A comparison of solar energetic particle event timescales with properties of associated coronal mass ejections. Astrophys. J. 769, 110.
+Kahler, S., Gopalswamy, N.: 2009, CME Geometry and the Production of Shocks and SEP Events.
+Kahler, S.W., Ling, A.G.: 2019, Suprathermal ion backgrounds of solar energetic particle events. Astrophys. J. 872, 89.
+Kahler, S.W., Reames, D.V.: 2003, Solar energetic particle production by coronal mass ejection-driven shocks in solar fast-wind regions. Astrophys. J. 584, 1063.
+Kahler, S.W., Reames, D.V., Sheeley, N.R. Jr.: 2001, Coronal mass ejections associated with impulsive solar energetic particle. Astrophys. J. 562, 558.
+Kahler, S.W., Vourlidas, A.: 2005, Fast coronal mass ejection environments and the production of solar energetic particle events. J. Geophys. Res. 110, A12S01.
+Kwon, R.-Y., Vourlidas, A.: 2017, Investigating the wave nature of the outer envelope of halo coronal mass ejections. Astrophys. J. 836, 246.
+Kwon, R.-Y., Vourlidas, A.: 2018, The density compression ratio of shock fronts associated with coronal mass ejections. J. Space Weather Space Clim. 8, A08.
+Kwon, R.-Y., Zhang, J., Olmedo, O.: 2014, New insights into the physical nature of coronal mass ejections and associated shock waves within the framework of the three-dimensional structure. Astrophys. J. 794, 148.
+Labrum, N.R.: 1972, The Culgoora Solar Radio Observatory. Sol. Phys. 27, 496.
+Lee, J.-O., Moon, Y.-J., Lee, J.-Y., Lee, K.-S., Kim, S., Lee, K.: 2014, Are the faint structures ahead of solar coronal mass ejections real signatures of driven shocks? Astrophys. J. Lett. 796, L16.
+Lee, J.-O., Moon, Y.-J., Lee, J.-Y., Kim, R.-S., Cho, K.-S.: 2017, Which bow shock theory, gasdynamic or magnetohydrodynamic, better explains CME stand-off distance ratios from LASCO-C2 observations? Astrophys. J. 838, 70.
+Mann, G., Klassen, A., Aurass, H., Classen, H.-T.: 2003, Formation and development of shock waves in the solar corona and the near-Sun interplanetary space. Astron. Astrophys. 400, 329.
+Mason, G.M., Mazur, J.E., von Rosenvinge, T.T.: 1996, Energetic heavy ions observed upstream of the Earth’s bow shock by the STEP/EPACT instrument on WIND. Geophys. Res. Lett. 23, 1231.
+Miteva, R., Klein, K.-L., Malandraki, O., Dorrian, G.: 2013, Solar energetic particle events in the 23rd solar cycle: interplanetary magnetic field configuration and statistical relationship with flares and CMEs. Sol. Phys. 282, 579.
+Ontiveros, V., Vourlidas, A.: 2009, Quantitative measurements of coronal mass ejection-driven shocks from LASCO observations. Astrophys. J. 693, 267.
+Park, J., Moon, Y.-J., Gopalswamy, N.: 2012, Dependence of solar proton events on their associated activities: coronal mass ejection parameters. J. Geophys. Res., Space Phys. 117, A08108.
+Reames, D.V.: 2000, Particle acceleration by CME-driven shock waves. In: Dingus, B.L., Kieda, D.B., Salamon, M.H. (eds.) ICRC XXVI, Invited, Rapporteur, and Highlight Papers, AIP Conf. Proc. 516, 289.
+Reames, D.V.: 2013, The two sources of solar energetic particles. Space Sci. Rev. 175, 53.
+Reames, D.V.: 2017, Solar Energetic Particles: A Modern Primer on Understanding Sources, Acceleration and Propagation, Lecture Notes in Physics 932, Springer, Berlin 978.
+Richardson, J.D.: 2008, Flows and obstacles in the heliosphere. In: Universal Heliophysical Processes, Proc. IAU Symp. 257, 577.
+Richardson, I.G., von Rosenvinge, T.T., Cane, H.V., Christian, E.R., Cohen, C.M., Labrador, A.W.: 2014, > 25 MeV proton events observed by the high energy telescopes on the STEREO a and b spacecraft and/or at Earth during the first ∼ seven years of the STEREO mission. Sol. Phys. 289, 3059.
+Robbrecht, E., Berghmans, D., Van der Linden, R.A.M.: 2009, Automated LASCO CME catalog for solar cycle 23: are CMEs scale invariant? Astrophys. J. 691, 1222.
+Russell, C.T.: 2005, An introduction to the physics of collisionless shocks. In: Li, G., Zank, G.P., Russell, C.T. (eds.) The Physics of Collisionless Shocks: 4th Ann. IGPP Internat. Astrophys. Conf., AIP Conf. Proc. 781, 3.
+Russell, C.T., Jian, L.: 2008, Flows and obstacles in the solar wind. Adv. Space Res. 41, 1177.
+Russell, C.T., Mulligan, T.: 2002a, The true dimensions of interplanetary coronal mass ejections. Adv. Space Res. 29, 301.
+Russell, C.T., Mulligan, T.: 2002b, On the magnetosheath thicknesses of interplanetary coronal mass ejections. Planet. Space Sci. 50, 527.
+Schmelz, J.T., Reames, D.V., von Steiger, R., Basu, S.: 2012, Composition of the solar corona, solar wind, and solar energetic particles. Astrophys. J. 755, 33.
+Schwadron, N.A., Lee, M.A., Gorby, M., Lugaz, N., Spence, H.E., Desai, M.: 2015, Particle acceleration at low coronal compression regions and shocks. Astrophys. J. 810, 97.
+Siscoe, G., Odstrcil, D.: 2008, Ways in which ICME sheaths differ from magnetosheaths. J. Geophys. Res. 113, A00B07.
+Takahashi, T., Mizuno, Y., Shibata, K.: 2016, Scaling relations in coronal mass ejections and energetic proton events associated with solar superflares. Astrophys. J. Lett. 833, L8.
+Takahashi, T., Shibata, K.: 2017, Sheath-accumulating propagation of interplanetary coronal mass ejection. Astrophys. J. Lett. 837, L17.
+Tappin, S.J.: 2006, The deceleration of an interplanetary transient from the Sun to 5 Au. Sol. Phys. 233, 233.
+Turner, D.L., Wilson, L.B., Liu, T.Z., Cohen, I.J., Schwartz, S.J., Osmane, A.: 2018, Autogenous and efficient acceleration of energetic ions upstream of Earth’s bow shock. Nature 561, 206.
+Vourlidas, A., Ontiveros, V.: 2009, Review of coronagraphic observations of shocks driven by coronal mass ejections. In: Shock Waves in Space & Astrophysical Environments: 18th Ann. Internat. Astrophys. Conf., AIP Conf. Proc. 1183, 139.
+Vourlidas, A., Wu, S.T., Wang, A.H., Subramanian, P., Howard, R.A.: 2003, Direct detection of a coronal mass ejection-associated shock in large angle and spectrometric coronagraph experiment white-light images. Astrophys. J. 598, 1392.
+Vršnak, B., Cliver, E.W.: 2008, Origin of coronal shock waves. Invited Review, Sol. Phys. 253, 215.
+Vršnak, B., Vrbanec, D., Čalogovi, J.: 2008, Dynamics of coronal mass ejections. The mass-scaling of the aerodynamic drag. Astron. Astrophys. 490, 811.
+Vršnak, B., Ruždjak, D., Sudar, D., Gopalswamy, N.: 2004, Kinematics of coronal mass ejections between 2 and 30 solar radii. What can be learned about forces governing the eruption? Astron. Astrophys. 423, 717.
+Wang, L., Lin, R.P., Krucker, S., Mason, G.M.: 2012, A statistical study of solar electron events over one solar cycle. Astrophys. J. 759, 69.
+Webb, D.F., Howard, T.A.: 2012, Coronal mass ejections: observations. Living Rev. Solar Phys. 9, 3.
+Yashiro, S., Michalek, G., Gopalswamy, N.: 2008, A comparison of coronal mass ejections identified by manual and automatic methods. Ann. Geophys. 26, 3103.
+Z˘ic, T., Vrs˘nak, B., Temmer, M., Jacobs, C.: 2008, Cylindrical and spherical pistons as drivers of MHD shocks. Sol. Phys. 253, 237.

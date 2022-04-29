@@ -1,0 +1,41 @@
+Altschuler, M.D., Newkirk, G.: 1969, Magnetic fields and the structure of the solar corona. I: Methods of calculating coronal fields. Solar Phys. 9, 131.
+Cremades, H., Bothmer, V.: 2004, On the three-dimensional configuration of coronal mass ejections. Astron. Astrophys. 422, 307.
+Fan, Y., Gibson, S.E.: 2004, Numerical simulations of three-dimensional coronal magnetic fields resulting from the emergence of twisted magnetic flux tubes. Astrophys. J. 609, 1123.
+Filippov, B.P., Gopalswamy, N., Lozhechkin, A.V.: 2001, Non-radial motion of eruptive filaments. Solar Phys. 203, 119.
+Gopalswamy, N., Mäkelä, P., Xie, H., Akiyama, S., Yashiro, S.: 2009, CME interactions with coronal holes and their interplanetary consequences. J. Geophys. Res. 114, A00A22.
+Gopalswamy, N., Mäkelä, P., Xie, H., Yashiro, S.: 2013, Testing the empirical shock arrival model using quadrature observations. Space Weather 11, 661.
+Gosling, J.T., Skoug, R.M., McComas, D.J., Smith, C.W.: 2005, Magnetic disconnection from the Sun: Observations of a reconnection exhaust in the solar wind at the heliospheric current sheet. Geophys. Res. Lett. 32, L05105.
+Gui, B., Shen, C., Wang, Y., Ye, P., Liu, J., Wang, S., Zhao, X.: 2011, Quantitative analysis of CME deflections in the corona. Solar Phys. 271, 111.
+Hildner, E.: 1977, Mass ejections from the solar corona into interplanetary space. In: Shea, M.A., Smart, D.F., Wu, S.T. (eds.) Study of Travelling Interplanetary Phenomena, Astrophys. Space Sci. Lib. 71, 3.
+Isavnin, A., Vourlidas, A., Kilpua, E.K.J.: 2013, Three-dimensional evolution of erupted flux ropes from the Sun (2 – 20 R
+Kay, C., Opher, M.: 2015, The heliocentric distance where the deflections and rotations of solar coronal mass ejections occur. Astrophys. J. Lett. 811, L36.
+Kay, C., dos Santos, L.F.G., Opher, M.: 2015, Constraining the masses and the non-radial drag coefficient of a solar coronal mass ejection. Astrophys. J. Lett. 801, L21.
+Kay, C., Opher, M., Evans, R.M.: 2013, Forecasting a coronal mass ejection’s altered trajectory: ForeCAT. Astrophys. J. 775, 5.
+Kay, C., Opher, M., Evans, R.M.: 2015, Global trends of CME deflections based on CME and solar parameters. Astrophys. J. 805, 168.
+Kay, C., Gopalswamy, N., Reinard, A., Opher, M.: 2017, Predicting the Magnetic Field of Earth-impacting CMEs. Astrophys. J. 835, 117.
+Kay, C., Opher, M., Colaninno, R.C., Vourlidas, A.: 2016, Using ForeCAT deflections and rotations to constrain the early evolution of CMEs. Astrophys. J. 827, 70.
+Kilpua, E.K.J., Pomoell, J., Vourlidas, A., Vainio, R., Luhmann, J., Li, Y., Schroeder, P., Galvin, A.B., Simunac, K.: 2009, STEREO observations of interplanetary coronal mass ejections and prominence deflection during solar minimum period. Ann. Geophys. 27, 4491.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Liewer, P., Panasenco, O., Vourlidas, A., Colaninno, R.: 2015, Observations and analysis of the non-radial propagation of coronal mass ejections near the Sun. Solar Phys. 290, 3343.
+Lynch, B.J., Antiochos, S.K., Li, Y., Luhmann, J.G., DeVore, C.R.: 2009, Rotation of coronal mass ejections during eruption. Astrophys. J. 697, 1918.
+MacQueen, R.M., Hundhausen, A.J., Conover, C.W.: 1986, The propagation of coronal mass ejection transients. J. Geophys. Res. 91, 31.
+Mays, M.L., Taktakishvili, A., Pulkkinen, A., MacNeice, P.J., Rastätter, L., Odstrcil, D., Jian, L.K., Richardson, I.G., LaSota, J.A., Zheng, Y., Kuznetsova, M.M.: 2015, Ensemble modeling of CMEs using the WSA–ENLIL + Cone model. Solar Phys. 290, 1775.
+Nieves-Chinchilla, T., Colaninno, R., Vourlidas, A., Szabo, A., Lepping, R.P., Boardsen, S.A., Anderson, B.J., Korth, H.: 2012, Remote and in situ observations of an unusual Earth-directed coronal mass ejection from multiple viewpoints. J. Geophys. Res. 117, 6106.
+Nieves-Chinchilla, T., Vourlidas, A., Stenborg, G., Savani, N.P., Koval, A., Szabo, A., Jian, L.K.: 2013, Inner heliospheric evolution of a “stealth” CME derived from multi-view imaging and multipoint in situ observations. I. Propagation to 1 AU. Astrophys. J. 779, 55.
+Olmedo, O., Vourlidas, A., Zhang, J., Cheng, X.: 2012, Secondary waves and/or the “reflection” from and “transmission” through a coronal hole of an extreme ultraviolet wave associated with the 2011 February 15 X2.2 flare observed with SDO/AIA and STEREO/EUVI. Astrophys. J. 756, 143.
+Panasenco, O., Martin, S., Joshi, A.D., Srivastava, N.: 2011, Rolling motion in erupting prominences observed by STEREO. J. Atmos. Solar-Terr. Phys. 73, 1129.
+Panasenco, O., Martin, S.F., Velli, M., Vourlidas, A.: 2013, Origins of rolling, twisting, and non-radial propagation of eruptive solar events. Solar Phys. 287, 391.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Savani, N.P., Owens, M.J., Rouillard, A.P., Forsyth, R.J., Davies, J.A.: 2010, Observational evidence of a coronal mass ejection distortion directly attributable to a structured solar wind. Astrophys. J. Lett. 714, L128.
+Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, A model of interplanetary and coronal magnetic fields. Solar Phys. 6, 442.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Shen, C., Wang, Y., Gui, B., Ye, P., Wang, S.: 2011, Kinematic evolution of a slow CME in corona viewed by STEREO-B on 8 October 2007. Solar Phys. 269, 389.
+Thernisien, A., Vourlidas, A., Howard, R.A.: 2009, Forward modeling of coronal mass ejections using STEREO/SECCHI data. Solar Phys. 256, 111.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Modeling of flux rope coronal mass ejections. Astrophys. J. 652, 763.
+Thompson, W.T., Kliem, B., Török, T.: 2012, 3D reconstruction of a rotating erupting prominence. Solar Phys. 276, 241.
+Thompson, W.T., Davila, J.M., Fisher, R.R., Orwig, L.E., Mentzell, J.E., Hetherington, S.E., Derro, R.J., Federline, R.E., Clark, D.C., Chen, P.T.C., Tveekrem, J.L., Martino, A.J., Novello, J., Wesenberg, R.P., StCyr, O.C., Reginald, N.L., Howard, R.A., Mehalick, K.I., Hersh, M.J., Newman, M.D., Thomas, D.L., Card, G.L., Elmore, D.F.: 2003, COR1 inner coronagraph for STEREO-SECCHI. In: Keil, S.L., Avakyan, S.V. (eds.) Innovative Telescopes and Instrumentation for Solar Astrophysics, Proc. SPIE 4853, 1.
+Török, T., Kliem, B.: 2003, The evolution of twisting coronal magnetic flux tubes. Astron. Astrophys. 406, 1043.
+Tziotziou, K., Georgoulis, M.K., Liu, Y.: 2013, Interpreting eruptive behavior in NOAA AR 11158 via the region’s magnetic energy and relative-helicity budgets. Astrophys. J. 772, 115.
+Vourlidas, A., Colaninno, R., Nieves-Chinchilla, T., Stenborg, G.: 2011, The first observation of a rapidly rotating coronal mass ejection in the middle corona. Astrophys. J. Lett. 733, L23.
+Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.

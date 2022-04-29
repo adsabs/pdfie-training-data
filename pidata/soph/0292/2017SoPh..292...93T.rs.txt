@@ -1,0 +1,72 @@
+Attrill, G., Nakwacki, M.S., Harra, L.K., van Driel-Gesztelyi, L., Mandrini, C.H., Dasso, S., Wang, J.: 2006, Using the evolution of coronal dimming regions to probe the global magnetic field topology. Solar Phys. 238, 117.
+Bein, B.M., Berkebile-Stoiser, S., Veronig, A.M., Temmer, M., Vršnak, B.: 2012, Impulsive acceleration of coronal mass ejections. II. Relation to soft X-ray flares and filament eruptions. Astrophys. J. 755, 44.
+Bein, B.M., Temmer, M., Vourlidas, A., Veronig, A.M., Utz, D.: 2013, The height evolution of the “true” coronal mass ejection mass derived from STEREO COR1 and COR2 observations. Astrophys. J. 768, 31.
+Bemporad, A., Mancuso, S.: 2010, First complete determination of plasma physical parameters across a coronal mass ejection-driven shock. Astrophys. J. 720, 130.
+Bisi, M.M., Breen, A.R., Jackson, B.V., Fallows, R.A., Walsh, A.P., Mikić, Z., et al.: 2010, From the Sun to the Earth: the 13 May 2005 coronal mass ejection. Solar Phys. 265, 49.
+Bothmer, V., Schwenn, R.: 1998, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16, 1.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Burlaga, L.F.E.: 1991, In: Schwenn, R., Marsch, E. (eds.) Magnetic Clouds, 152.
+Cargill, P.J.: 2004, On the aerodynamic drag force acting on interplanetary coronal mass ejections. Solar Phys. 221, 135.
+Cheng, J.X., Qiu, J.: 2016, The nature of CME-flare-associated coronal dimming. Astrophys. J. 825, 37.
+Colaninno, R.C., Vourlidas, A.: 2009, First determination of the true mass of coronal mass ejections: a novel approach to using the two STEREO viewpoints. Astrophys. J. 698, 852.
+Dasso, S., Mandrini, C.H., Démoulin, P., Luoni, M.L., Gulisano, A.M.: 2005, Large scale MHD properties of interplanetary magnetic clouds. Adv. Space Res. 35, 711.
+Dasso, S., Mandrini, C.H., Démoulin, P., Luoni, M.L.: 2006, A new model-independent method to compute magnetic helicity in magnetic clouds. Astron. Astrophys. 455, 349.
+Davies, J.A., Harrison, R.A., Perry, C.H., Möstl, C., Lugaz, N., Rollett, T., Davis, C.J., Crothers, S.R., Temmer, M., Eyles, C.J., Savani, N.P.: 2012, A self-similar expansion model for use in solar wind transient propagation studies. Astrophys. J. 750, 23.
+DeForest, C.E., Howard, T.A., McComas, D.J.: 2013, Tracking coronal features from the low corona to Earth: a quantitative analysis of the 2008 December 12 coronal mass ejection. Astrophys. J. 769, 43.
+Démoulin, P.: 2007, Recent theoretical and observational developments in magnetic helicity studies. Adv. Space Res. 39, 1674.
+Démoulin, P., Janvier, M., Dasso, S.: 2016, Magnetic flux and helicity of magnetic clouds. Solar Phys. 291, 531.
+DeRosa, M.L., Wheatland, M.S., Leka, K.D., Barnes, G., Amari, T., Canou, A., Gilchrist, S.A., Thalmann, J.K., Valori, G., Wiegelmann, T., Schrijver, C.J., Malanushenko, A., Sun, X., Régnier, S.: 2015, The influence of spatial resolution on nonlinear force-free modeling. Astrophys. J. 811, 107.
+DeVore, C.R.: 2000, Magnetic helicity generation by solar differential rotation. Astrophys. J. 539, 944.
+Dissauer, K., Temmer, M., Veronig, A., Vanninathan, K., Magdalenic, J.: 2016, Projection effects in coronal dimmings and associated EUV wave event. Astrophys. J. 830, 2.
+Filippov, B., Martsenyuk, O., Srivastava, A.K., Uddin, W.: 2015, Solar magnetic flux ropes. J. Astrophys. Astron. 36, 157.
+Forbes, T.G., Lin, J.: 2000, What can we learn about reconnection from coronal mass ejections? J. Atmos. Solar-Terr. Phys. 62, 1499.
+Gary, G.A., Hagyard, M.J.: 1990, Transformation of vector magnetograms and the problems associated with the effects of perspective and the azimuthal ambiguity. Solar Phys. 126, 21.
+Harra, L.K., Sterling, A.C.: 2001, Material outflows from coronal intensity “dimming regions” during coronal mass ejection onset. Astrophys. J. Lett. 561, L215.
+Hoeksema, J.T., Liu, Y., Hayashi, K., Sun, X., Schou, J., Couvidat, S., Norton, A., Bobra, M., Centeno, R., Leka, K.D., Barnes, G., Turmon, M.: 2014, The helioseismic and magnetic imager (HMI) vector magnetic field pipeline: overview and performance. Solar Phys. 289, 3483.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Sun Earth connection coronal and heliospheric investigation (SECCHI). Space Sci. Rev. 136, 67.
+Hudson, H.S., Cliver, E.W.: 2001, Observing coronal mass ejections without coronagraphs. J. Geophys. Res. 106, 25199.
+Kienreich, I.W., Temmer, M., Veronig, A.M.: 2009, STEREO quadrature observations of the three-dimensional structure and driver of a global coronal wave. Astrophys. J. Lett. 703, L118.
+Kilpua, E.K.J., Isavnin, A., Vourlidas, A., Koskinen, H.E.J., Rodriguez, L.: 2013, On the relationship between interplanetary coronal mass ejections and magnetic clouds. Ann. Geophys. 31, 1251.
+Kraaikamp, E., Verbeeck, C.: 2015, Solar demon – an approach to detecting flares, dimmings, and EUV waves on SDO/AIA images. J. Space Weather Space Clim. 5(27), A18.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The atmospheric imaging assembly (AIA) on the solar dynamics observatory (SDO). Solar Phys. 275, 17.
+Lepping, R.P., Acũna, M.H., Burlaga, L.F., Farrell, W.M., Slavin, J.A., Schatten, K.H., Mariani, F., Ness, N.F., Neubauer, F.M., Whang, Y.C., Byrnes, J.B., Kennon, R.S., Panetta, P.V., Scheifele, J., Worley, E.M.: 1995, The wind magnetic field investigation. Space Sci. Rev. 71, 207.
+Lin, R.P., Anderson, K.A., Ashford, S., Carlson, C., Curtis, D., Ergun, R., Larson, D., McFadden, J., McCarthy, M., Parks, G.K., Rème, H., Bosqued, J.M., Coutelier, J., Cotin, F., D’Uston, C., Wenzel, K.-P., Sanderson, T.R., Henrion, J., Ronnet, J.C., Paschmann, G.: 1995, A three-dimensional plasma and energetic particle investigation for the wind spacecraft. Space Sci. Rev. 71, 125.
+Lugaz, N., Manchester, W.B. IV, Gombosi, T.I.: 2005, The evolution of coronal mass ejection density structures. Astrophys. J. 627, 1019.
+Lugaz, N., Vourlidas, A., Roussev, I.I.: 2009, Deriving the radial distances of wide coronal mass ejections from elongation measurements in the heliosphere – application to CME-CME interaction. Ann. Geophys. 27, 3479.
+Lundquist, S.: 1950, Magneto-hydrostatic fields. Ark. Fys. 2, 361.
+Mandrini, C.H., Pohjolainen, S., Dasso, S., Green, L.M., Démoulin, P., van Driel-Gesztelyi, L., Copperwheat, C., Foley, C.: 2005, Interplanetary flux rope ejected from an X-ray bright point. The smallest magnetic cloud source-region ever observed. Astron. Astrophys. 434, 725.
+Mandrini, C.H., Nakwacki, M.S., Attrill, G., van Driel-Gesztelyi, L., Démoulin, P., Dasso, S., Elliott, H.: 2007, Are CME-related dimmings always a simple signature of interplanetary magnetic cloud footpoints? Solar Phys. 244, 25.
+Mierla, M., Inhester, B., Antunes, A., Boursier, Y., Byrne, J.P., Colaninno, R., Davila, J., de Koning, C.A., Gallagher, P.T., Gissot, S., Howard, R.A., Howard, T.A., Kramar, M., Lamy, P., Liewer, P.C., Maloney, S., Marqué, C., McAteer, R.T.J., Moran, T., Rodriguez, L., Srivastava, N., St. Cyr, O.C., Stenborg, G., Temmer, M., Thernisien, A., Vourlidas, A., West, M.J., Wood, B.E., Zhukov, A.N.: 2010, On the 3-D reconstruction of Coronal Mass Ejections using coronagraph data. Ann. Geophys. 28, 203.
+Möstl, C., Miklenic, C., Farrugia, C.J., Temmer, M., Veronig, A., Galvin, A.B., Vršnak, B., Biernat, H.K.: 2008, Two-spacecraft reconstruction of a magnetic cloud and comparison to its solar source. Ann. Geophys. 26, 3139.
+Möstl, C., Amla, K., Hall, J.R., Liewer, P.C., De Jong, E.M., Colaninno, R.C., Veronig, A.M., Rollett, T., Temmer, M., Peinhart, V., Davies, J.A., Lugaz, N., Liu, Y.D., Farrugia, C.J., Luhmann, J.G., Vršnak, B., Harrison, R.A., Galvin, A.B.: 2014, Connecting speeds, directions and arrival times of 22 Coronal Mass Ejections from the sun to 1 AU. Astrophys. J. 787, 119.
+Neupert, W.M.: 1968, Comparison of solar X-ray line emission with microwave emission during flares. Astrophys. J. Lett. 153, L59.
+Patsourakos, S., Vourlidas, A.: 2012, On the nature and genesis of EUV waves: a synthesis of observations from SOHO, STEREO, SDO, and Hinode (Invited Review). Solar Phys. 281, 187.
+Patsourakos, S., Georgoulis, M.K., Vourlidas, A., Nindos, A., Sarris, T., Anagnostopoulos, G., et al.: 2016, The major geoeffective solar eruptions of 2012 March 7: comprehensive Sun-to-Earth analysis. Astrophys. J. 817, 14.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pötzi, W., Veronig, A.M., Riegler, G., Amerstorfer, U., Pock, T., Temmer, M., Polanec, W., Baumgartner, D.J.: 2015, Real-time flare detection in ground-based H\upalpha imaging at Kanzelhöhe Observatory. Solar Phys. 290, 951.
+Priest, E.R., Forbes, T.G.: 1986, New models for fast steady state magnetic reconnection. J. Geophys. Res. 91, 5579.
+Qiu, J., Hu, Q., Howard, T.A., Yurchyshyn, V.B.: 2007, On the magnetic flux budget in low-corona magnetic reconnection and interplanetary coronal mass ejections. Astrophys. J. 659, 758.
+Richardson, I.G., Cane, H.V.: 1995, Regions of abnormally low proton temperature in the solar wind (1965 – 1991) and their association with ejecta. J. Geophys. Res. 100, 23397.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during solar cycle 23 (1996 – 2009): catalog and summary of properties. Solar Phys. 264(1), 189.
+Robbrecht, E., Wang, Y.-M.: 2010, The temperature-dependent nature of coronal dimmings. Astrophys. J. Lett. 720, L88.
+Rodriguez, L., Zhukov, A.N., Dasso, S., Mandrini, C.H., Cremades, H., Cid, C., Cerrato, Y., Saiz, E., Aran, A., Menvielle, M., Poedts, S., Schmieder, B.: 2008, Magnetic clouds seen at different locations in the heliosphere. Ann. Geophys. 26, 213.
+Rodriguez, L., Mierla, M., Zhukov, A.N., West, M., Kilpua, E.: 2011, Linking remote-sensing and in situ observations of coronal mass ejections using STEREO. Solar Phys. 270, 561.
+Ruffenach, A., Lavraud, B., Farrugia, C.J., Démoulin, P., Dasso, S., Owens, M.J., Sauvaud, J.-A., Rouillard, A.P., Lynnyk, A., Foullon, C., Savani, N.P., Luhmann, J.G., Galvin, A.B.: 2015, Statistical study of magnetic cloud erosion by magnetic reconnection. J. Geophys. Res. 120, 43.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The helioseismic and magnetic imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Schrijver, C.J., De Rosa, M.L., Metcalf, T.R., Liu, Y., McTiernan, J., Régnier, S., Valori, G., Wheatland, M.S., Wiegelmann, T.: 2006, Nonlinear force-free modeling of coronal magnetic fields part I: a quantitative comparison of methods. Solar Phys. 235, 161.
+Sheeley, N.R., Walters, J.H., Wang, Y.-M., Howard, R.A.: 1999, Continuous tracking of coronal outflows: two kinds of coronal mass ejections. J. Geophys. Res. 104, 24739.
+Temmer, M., Veronig, A.M., Vršnak, B., Miklenic, C.: 2007, Energy release rates along H{\upalpha} flare ribbons and the location of hard X-ray sources. Astrophys. J. 654, 665.
+Temmer, M., Veronig, A.M., Vršnak, B., Rybák, J., Gömöry, P., Stoiser, S., Maričić, D.: 2008, Acceleration in fast halo CMEs and synchronized flare HXR bursts. Astrophys. J. Lett. 673, L95.
+Temmer, M., Veronig, A.M., Kontar, E.P., Krucker, S., Vršnak, B.: 2010, Combined STEREO/RHESSI study of coronal mass ejection acceleration and particle acceleration in solar flares. Astrophys. J. 712, 1410.
+Thalmann, J.K., Inhester, B., Wiegelmann, T.: 2011, Estimating the relative helicity of coronal magnetic fields. Solar Phys. 272, 243.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Modeling of flux rope coronal mass ejections. Astrophys. J. 652, 763.
+Thernisien, A., Vourlidas, A., Howard, R.A.: 2009, Forward modeling of coronal mass ejections using STEREO/SECCHI data. Solar Phys. 256, 111.
+Tian, H., McIntosh, S.W., Xia, L., He, J., Wang, X.: 2012, What can we learn about solar coronal mass ejections, coronal dimmings, and extreme-ultraviolet jets through spectroscopic observations? Astrophys. J. 748, 106.
+Veronig, A., Vršnak, B., Dennis, B.R., Temmer, M., Hanslmeier, A., Magdalenić, J.: 2002, Investigation of the Neupert effect in solar flares. I. Statistical properties and the evaporation model. Astron. Astrophys. 392, 699.
+Vršnak, B., Žic, T.: 2007, Transit times of interplanetary coronal mass ejections and the solar wind speed. Astron. Astrophys. 472, 937.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: the drag-based model. Solar Phys. 285, 295.
+Wheatland, M.S., Sturrock, P.A., Roumeliotis, G.: 2000, An optimization approach to reconstructing force-free fields. Astrophys. J. 540, 1150.
+Wiegelmann, T., Inhester, B.: 2010, How to deal with measurement errors and lacking data in nonlinear force-free coronal magnetic field modelling? Astron. Astrophys. 516, A107.
+Zarro, D.M., Sterling, A.C., Thompson, B.J., Hudson, H.S., Nitta, N.: 1999, SOHO EIT observations of extreme-ultraviolet “dimming” associated with a halo coronal mass ejection. Astrophys. J. Lett. 520, L139.
+Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.

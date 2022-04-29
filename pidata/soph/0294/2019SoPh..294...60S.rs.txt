@@ -1,0 +1,95 @@
+Abreu, J.A., Beer, J., Ferriz-Mas, A., McCracken, K.G., Steinhilber, F.: 2012, Is there a planetary influence on solar activity? Astron. Astrophys. 548, A88.
+Arlt, R.: 2009, The butterfly diagram in the eighteenth century. Solar Phys. 255, 143.
+Bazylevskaya, G.A., Kalinin, M.S., Krainev, M.B., Makhmutov, V.S., Svirzhevskaya, A.K., Svirzhevsky, N.S., Stozhkov, Y.I.: 2016, On the relationship between quasi-biennial variations of solar activity, the heliospheric magnetic field and cosmic rays. Cosm. Res. 54, 171.
+Beer, J., Tobias, S., Weiss, N.: 1998, An active Sun throughout the Maunder minimum. Solar Phys. 181, 237.
+Bollinger, C.J.: 1952, A 44.77 year Jupiter–Venus–Earth configuration Sun-tide period in solar-climatic cycles. Proc. Okla. Acad. Sci. 33, 307.
+Bonanno, A., Guarnieri, F.: 2017, On the possibility of helicity oscillations in the saturation of the Tayler instability. Astron. Nachr. 338, 516.
+Bonanno, A., Brandenburg, A., Del Sordo, F., Mitra, D.: 2012, Breakdown of chiral symmetry during saturation of the Tayler instability. Phys. Rev. E 86, 016313.
+Callebaut, D.K., de Jager, C., Duhau, S.: 2012, The influence of planetary attractions on the solar tachocline. J. Atmos. Solar-Terr. Phys. 80, 73.
+Cameron, R.H., Schüssler, M.: 2014, No evidence for planetary influence on solar activity. Astron. Astrophys. 557, A83.
+Charbonneau, P.: 2010, Dynamo models of the solar cycle. Living Rev. Solar Phys. 7, 3.
+Charbonneau, P., Christensen-Dalsgaard, J., Henning, R., Larsen, R.M., Schou, J., Thompson, M.J., Tomczyk, S.: 1999, Helioseismic constraints on the structure of the solar tachocline. Astrophys. J. 527, 445.
+Charvatova, I.: 1997, Solar-terrestrial and climatic phenomena in relation to solar inertial motion. Surv. Geophys. 18, 131.
+Chatterjee, P., Mitra, D., Brandenburg, A., Rheinhardt, M.: 2011, Spontaneous chiral symmetry breaking by hydromagnetic buoyancy. Phys. Rev. E 84, 025403.
+Cionco, R.G., Soon, W.: 2015, A phenomenological study of the timing of solar activity minima of the last millennium through a physical modeling of the Sun-planets interaction. New Astron. 34, 164.
+Condon, J.J., Schmidt, R.R.: 1975, Planetary tides and the sunspot cycles. Solar Phys. 42, 529.
+De Jager, C., Versteegh, G.: 2005, Do planetary motions drive solar variability? Solar Phys. 229, 175.
+Dicke, R.H.: 1978, Is there a chronometer hidden deep in the Sun? Nature 276, 676.
+Dikpati, M., Cally, P.S., McIntosh, S.W., Heifetz, E.: 2017, The origin of the “Seasons” in space weather. Sci. Rep. 7, 14750.
+Eckhardt, B., Faisst, H., Schmiegel, A., Schneider, T.M.: 2008, Dynamical systems and the transition to turbulence in linearly stable shear flows. Phil. Trans. Roy. Soc. A 366, 1297.
+Ferriz Mas, A., Schmitt, D., Schüssler, M.: 1994, A dynamo effect due to instability of magnetic flux tubes. Astron. Astrophys. 289, 949.
+Galindo, V.: 2018, personal communication.
+Gellert, M., Rüdiger, G., Hollerbach, R.: 2011, Helicity and alpha-effect by current-driven instabilities of helical magnetic fields. Mon. Not. Roy. Astron. Soc. 414, 2696.
+Giesecke, A., Stefani, F., Burguete, J.: 2012, Impact of time-dependent nonaxisymmetric velocity perturbations on dynamo action of von Kármán-like flows. Phys. Rev. E 86, 066303.
+Giesecke, A., Stefani, F., Herault, J.: 2017, Parametric instability in periodically perturbed dynamos. Phys. Rev. Fluids 2, 053701.
+Gnevyshev, M.N., Ohl, A.I.: 1948, On the 22-year cycle of solar activity. Astron. J. 25, 18.
+Gough, D.O.: 1990, On possible origins of relatively short-term variations in the solar structure. Phil. Trans. Roy. Soc. London A 330, 627.
+Grandpierre, A.: 1996, On the origin of solar cycle periodicity. Astrophys. Space Sci. 243, 393.
+Gray, L.J., Beer, J., Geller, M., Haigh, J.D., Lockwood, M., Matthes, K., Cubasch, U., Fleitmann, D., Harrison, G., Hood, L., Luterbacher, J., Meehl, G.A., Shindell, D., van Geel, B., White, W.: 2010, Solar influences on climate. Rev. Geophys. 48, RG4001.
+Hathaway, D.H.: 2010, The solar cycle. Living Rev. Solar Phys. 7, 1.
+Hoyng, P.: 1996, Is the solar cycle timed by a clock? Solar Phys. 169, 253.
+Hoyt, D.V., Schatten, K.H.: 1997, The Role of the Sun in Climate Change, Oxford University Press, New York.
+Hung, C.-C.: 2007, Apparent relations between solar activity and solar tides caused by the planets, NASA/TM-2007-214817.
+Jennings, R.L., Weiss, N.O.: 1991, Symmetry breaking in stellar dynamos. Mon. Not. Roy. Astron. Soc. 252, 249.
+Jones, C.A.: 1983, Model equations for the solar dynamo. In: Soward, A.M. (ed.) Stellar and Planetary Magnetism, Gordon and Breach, New York, 193.
+Jose, P.D.: 1965, Sun’s motion and sunspots. Astron. J. 70, 193.
+Jouve, L., Gastine, T., Lignieres, F.: 2015, Three-dimensional evolution of magnetic fields in a differentially rotating stellar radiative zone. Astron. Astrophys. 575, 21.
+Kagan, D., Wheeler, J.C.: 2014, The role of the magnetorotational instability in the Sun. Astrophys. J. 787, A106.
+Karak, B.B., Mandal, S., Banarjee, D.: 2018, Double-peaks of the solar cycle: an explanation from a dynamo model. Astrophys. J. 866, 17.
+Kuzanyan, K.M., Sokoloff, D.: 1997, Half-width of a solar dynamo wave in Parker’s migratory dynamo. Solar Phys. 173, 1.
+Mamatsashvili, G., Stefani, F., Hollerbach, R., Rüdiger, G.: 2018, New type of axisymmetric helical magnetorotational instability in rotating flows with positive shear. Phys. Rev. Lett., submitted.
+McCracken, K.G., Beer, J., Steinhilber, F.: 2014, Evidence for planetary forcing of the cosmic ray intensity and solar activity throughout the past 9400 years. Solar Phys. 289, 3207.
+McIntosh, S.W.: 2015, The solar magnetic activity band interaction and instabilities that shape quasi-periodic variability. Nat. Commun. 6, 6491.
+McIntosh, S.W., Cramer, W.J., Pichardo Marcano, M., Leamon, R.J.: 2017, The detection of Rossby-like waves on the Sun. Nature Astron. 11, 0086.
+Miyahara, H., Masuda, K., Muraki, Y., Kitagawa, H., Nakamura, T.: 2006, Variation of solar cyclicity during the Spoerer minimum. J. Geophys. Res. 111, A03103.
+Moss, D.L., Sokoloff, D.: 2017, Parity fluctuations in stellar dynamos. Astron. Rep. 61, 878.
+Obridko, V.N., Shelting, B.D.: 2007, Occurrence of the 1.3-year periodicity in the large-scale solar magnetic field for 8 solar cycles. Adv. Space Res. 40, 1006.
+Okhlopkov, V.P.: 2014, The 11-year cycle of solar activity and configurations of the planets. Moscow Univ. Phys. Bull. 69, 257.
+Okhlopkov, V.P.: 2016, The gravitational influence of Venus, the Earth, and Jupiter on the 11-year cycle of solar activity. Moscow Univ. Phys. Bull. 71, 440.
+Oláh, K., Kővári, Zs., Petrovay, K., Soon, W., Baliunas, S., Kolláth, Z., Vida, K.: 2016, Magnetic cycles at different ages of stars. Astron. Astrophys. 590, A133.
+Öpik, E.: 1972, Solar-planetary tides and sunspots. I. Astron. J. 10, 298.
+Palus, M., Kurths, J., Schwarz, U., Novotna, D., Charvatova, I.: 2000, Is the solar activity cycle synchronized with the solar inertial motion? Int. J. Bifurc. Chaos 10, 2519.
+Parker, E.N.: 1955, Hydromagnetic dynamo models. Astrophys. J. 122, 293.
+Pipin, V.V., Zhang, H., Sokoloff, D.D., Kuzanyan, K.M., Gao, Y.: 2013, The origin of the helicity hemispheric sign rule reversals in the mean-field solar-type dynamo. Mon. Not. Roy. Astron. Soc. 435, 2581.
+Pitts, E., Tayler, R.J.: 1985, The adiabatic stability of stars containing magnetic-fields. 6. The influence of rotation. Mon. Not. Roy. Astron. Soc. 216, 139.
+Poluianov, S., Usoskin, I.: 2014, Critical analysis of a hypothesis of the planetary tidal influence on solar activity. Solar Phys. 289, 2333.
+Proctor, M.R.E.: 2007, Effects of fluctuations on α Ω dynamo models. Mon. Not. Roy. Astron. Soc. 382, L39.
+Roald, C.B., Thomas, J.H.: 1997, Simple solar dynamo models with variable α and ω effects. Mon. Not. Roy. Astron. Soc. 288, 551.
+Rüdiger, G., Kitchatinov, L.L., Hollerbach, R.: 2013, Magnetic Processes in Astrophysics, Wiley, Berlin.
+Rüdiger, G., Gellert, M., Hollerbach, R., Schultz, M., Stefani, F.: 2015a, Stability and instability of hydromagnetic Taylor-Couette flows. Phys. Rep. 741, 1.
+Rüdiger, G., Schultz, M., Gellert, M., Stefani, F.: 2015b, Subcritical excitation of the current-driven Tayler instability by super-rotation. Phys. Fluids 28, 014105.
+Ruzmaikin, A., Feynman, J.: 2015, The Earth’s climate at minima of centennial Gleissberg cycles. Adv. Space Res. 56, 1590.
+Scafetta, N.: 2010, Empirical evidence for a celestial origin of the climate oscillations and its implications. J. Atmos. Solar-Terr. Phys. 72, 951.
+Scafetta, N.: 2013, Discussion on climate oscillations: CMIP5 general circulation models versus a semi-empirical harmonic model based on astronomical cycles. Earth-Sci. Rev. 126, 321.
+Scafetta, N.: 2014, The complex planetary synchronization structure of the solar system. Pattern Recogn. Phys. 2, 1.
+Scafetta, N., Milani, F., Bianchini, A., Ortolani, S.: 2016, On the astronomical origin of the Hallstatt oscillation found in radiocarbon and climate records throughout the Holocene. Earth-Sci. Rev. 162, 24.
+Schmalz, S., Stix, M.: 1991, An alpha–Omega dynamo with order and chaos. Astron. Astrophys. 245, 654.
+Schove, D.J.: 1955, The sunspot cycle, 649 B.C. to A.D. 2000. J. Geophys. Res. 60, 127.
+Schove, D.J.: 1983, Sunspot Cycles, Hutchinson Ross Publishing Company, Stroudsburg.
+Seilmayer, M., Stefani, F., Gundrum, T., Weier, T., Gerbeth, G., Gellert, M., Rüdiger, G.: 2012, Experimental evidence for Tayler instability in a liquid metal column. Phys. Rev. Lett. 108, 244501.
+Sokoloff, D., Nesme-Ribes, E.: 1994, The Maunder minimum: A mixed-parity dynamo mode? Astron. Astrophys. 288, 293.
+Solanki, S.K., Krilova, N.A., Haigh, J.D.: 2013, Solar irradiance variability and climate. Annu. Rev. Astron. Astrophys. 51, 311.
+Soon, W.H., Baliunas, S.L., Zhang, Q.: 1993, An interpretation of cycle periods of stellar chromospheric activity. Astrophys. J. 414, L33.
+Soon, W., Herrera, V.M., Selvaraj, K., Traversi, R., Usoskin, I., Chen, C.A., Lou, J.Y., Kao, S.L., Carter, R.M., Pipin, V., Seven, M., Becagli, S.: 2014, A review of Holocene solar-linked climatic variation on centennial to millennial timescales: Physical processes, interpretative frameworks and a new multiple cross-wavelet transform algorithm. Earth-Sci. Rev. 134, 1.
+Spruit, H.: 2002, Dynamo action by differential rotation in a stably stratified stellar interior. Astron. Astrophys. 381, 923.
+Stefani, F., Kirillov, O.N.: 2015, Destabilization of rotating flows with positive shear by azimuthal magnetic fields. Phys. Rev. E 92, 051001(R).
+Stefani, F., Giesecke, A., Weber, N., Weier, T.: 2016, Synchronized helicity oscillations: A link between planetary tides and the solar cycle? Solar Phys. 291, 2197.
+Stefani, F., Galindo, V., Giesecke, A., Weber, N., Weier, T.: 2017, The Tayler instability at low magnetic Prandtl numbers: chiral symmetry breaking and synchronizable helicity oscillations. Magnetohydrodynamics 53, 169.
+Stefani, F., Giesecke, A., Weber, N., Weier, T.: 2018, On the synchronizability of Tayler–Spruit and Babcock–Leighton type dynamos. Solar Phys. 293, 12.
+Takahashi, K.: 1968, On the relation between the solar activity cycle and the solar tidal force induced by the planets. Solar Phys. 3, 598.
+Tayler, R.J.: 1973, The adiabatic stability of stars containing magnetic fields-I: Toroidal fields. Mon. Not. Roy. Astron. Soc. 161, 365.
+Valdés-Galicia, J.F., Velasco, V.M.: 2008, Variations of mid-term periodicities in solar activity physical phenomena. Adv. Space Res. 41, 297.
+Vaughan, A.H., Preston, G.W.: 1980, A survey of chromospheric Ca II H and K emission in field stars of the solar neighborhood. Publ. Astron. Soc. Pac. 92, 385.
+Weber, N., Galindo, V., Stefani, F., Weier, T., Wondrak, T.: 2013, Numerical simulation of the Tayler instability in liquid metals. New J. Phys. 15, 043034.
+Weber, N., Galindo, V., Stefani, F., Weier, T.: 2015, The Tayler instability at low magnetic Prandtl numbers: between chiral symmetry breaking and helicity oscillations. New J. Phys. 17, 113013.
+Weiss, N.O., Tobias, S.M.: 2016, Supermodulation of the Sun’s magnetic activity: the effect of symmetry changes. Mon. Not. Roy. Astron. Soc. 456, 2654.
+Wilmot-Smith, A.L., Nandy, D., Hornig, G., Martens, P.C.H.: 2006, A time delay model for solar and stellar dynamos. Astrophys. J. 652, 696.
+Wilson, I.R.G.: 2013, The Venus–Earth–Jupiter spin–orbit coupling model. Pattern Recogn. Phys. 1, 147.
+Wolf, R.: 1859, Extract of a letter to Mr. Carrington. Mon. Not. Roy. Astron. Soc. 19, 85.
+Wolff, C.L., Patrone, P.N.: 2010, A new way that planets can affect the Sun. Solar Phys. 266, 227.
+Wood, K.: 1972, Sunspots and planets. Nature 240(5376), 91.
+Wood, T.: 2010, The solar tachocline: A self-consistent model of magnetic confinement. Dissertation, University of Cambridge, Cambridge.
+Yoshimura, H.: 1975, Solar-cycle dynamo wave propagation. Astrophys. J. 201, 740.
+Zahn, J.-P., Brun, A.S., Mathis, S.: 2007, On magnetic instabilities and dynamo action in stellar radiation zones. Astron. Astrophys. 474, 145.
+Zaqarashvili, T.: 2018, Equatorial magnetohydrodynamic shallow water waves in the solar tachocline. Astrophys. J. 856, 32.
+Zhang, H.Q., Sakurai, T., Pevtsov, A., Gao, Y., Xu, H.Q., Sokoloff, D., Kuzanyan, K.: 2010, A new dynamo pattern revealed by solar helical magnetic fields. Mon. Not. Roy. Astron. Soc. 402, L30.

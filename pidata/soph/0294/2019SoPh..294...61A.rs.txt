@@ -1,0 +1,63 @@
+Adhikari, B., Baruwal, P., Chapagain, N.P.: 2017, Analysis of supersubstorm events with reference to polar cap potential and polar cap index. Earth Space Sci. 4, 2.
+Adhikari, B., Dahal, S., Chapagain, N.P.: 2017, Study of field-aligned current (FAC), interplanetary electric field component (E
+Adhikari, B., Sapkota, N., Baruwal, P., Chapagain, N.P., Braga, C.R.: 2017, Impacts on cosmic-ray intensity observed during geomagnetic disturbances. Solar Phys. 292(10), 149.
+Adhikari, B., Dahal, S., Sapkota, N., Baruwal, P., Bhattarai, B., Khanal, K., Chapagain, N.P.: 2018, Field aligned current and polar cap potential and geomagnetic disturbances: a review of cross correlation analysis. Earth Space Sci. 5(9), 440.
+Alves, M.V., Echer, E., Gonzalez, W.D.: 2006, Geoeffectiveness of corotating interaction regions as measured by Dst index. J. Geophys. Res. 111(A7), A07S05.
+Barbas de Haro, B.F., Elias, A.G., Cnossen, I., de Artigas, M.Z.: 2013, Long-term changes in solar quiet (Sq) geomagnetic variations related to Earth’s magnetic field secular variation. J. Geophys. Res. Space Phys. 118(6), 3712.
+Beutier, T., Boscher, D., France, M.: 1995, SALAMMBO: a three-dimensional simulation of the proton radiation belt. J. Geophys. Res. 100(A9), 17181.
+Bolaji, O.S., Adimula, I.A., Adeniyi, J.O., Yumoto, K.: 2013, Variability of horizontal magnetic field intensity over Nigeria during low solar activity. Earth Moon Planets 110(1–2), 91.
+Borovsky, J.E.: 2016, The plasma structure of coronal hole solar wind: origins and evolution. J. Geophys. Res. 121(6), 5055.
+Borovsky, J.E., Denton, M.H.: 2006, Differences between CME-driven storms and CIR-driven storms. J. Geophys. Res. 111(A7), A07S08.
+Brown, R.R., Driatsky, V.M.: 1973, Further studies of ionospheric and geomagnetic effects of sudden impulses. Planet. Space Sci. 21(11), 1931.
+Brown, R.R., Hartz, T.R., Landmark, B., Leinbach, H., Ortner, J.: 1961, Large-scale electron bombardment of the atmosphere at the sudden commencement of a geomagnetic storm. J. Geophys. Res. 66(4), 1035.
+Brown, R.R., Leinbach, H., Akasofu, S.I., Driatsky, V.M., Schmidt, R.J.: 1972, Quadruple conjugate pair observations of the sudden commencement absorption event on June 17. J. Geophys. Res. 77(28), 5602.
+Cane, H.V., Reames, D.V., Rosenvinge, T.T.: 1988, The role of interplanetary shocks in the longitude distribution of solar energetic particles. J. Geophys. Res. 93(A9), 9555.
+Cane, H.V., Sheeley, N.R., Howard, R.A.: 1987, Energetic interplanetary shocks, radio emission, and coronal mass ejections. J. Geophys. Res. 92(A9), 9869.
+Chapman, S.: 1919, I. The solar and lunar diurnal variations of terrestrial magnetism. Phil. Trans. Roy. Soc. London 218(561–569), 1.
+Chupp, E.L.: 1988, Solar neutron observations and their relation to solar flare acceleration problems. Solar Phys. 118(1–2), 137.
+Cornwall, J.M.: 1972, Radial diffusion of ionized helium and protons: a probe for magnetospheric dynamics. J. Geophys. Res. 77(10), 1756.
+Dmitriev, A.V., Crosby, N.B., Chao, J.K.: 2005, Interplanetary sources of space weather disturbances in 1997 to 2000. Adv. Space Res. 3(3), 1.
+Emslie, A.G., Dennis, B.R., Shih, A.Y., Chamberlin, P.C., Mewaldt, R.A., Moore, C.S., et al.: 2012, Global energetics of thirty-eight large solar eruptive events. Astrophys. J. 759(1), 71.
+Fan, C.Y., Pick, M., Pyle, R., Simpson, J.A., Smith, D.R.: 1968, Protons associated with centers of solar activity and their propagation in interplanetary magnetic field regions corotating with the Sun. J. Geophys. Res. 73(5), 1555.
+Finch, I., Lockwood, M.: 2007, Solar wind-magnetosphere coupling functions on timescales of 1 day to 1 year. Ann. Geophys. 25, 495.
+Georgoulis, M.K., Papaioannou, A., Sandberg, I., Anastasiadis, A., Daglis, I.A., Rodríguez-Gasén, R., et al.: 2018, Analysis and interpretation of inner-heliospheric SEP events with the ESA Standard Radiation Environment Monitor (SREM) onboard the INTEGRAL and Rosetta missions. J. Space Weather Space Clim. 8, A40.
+Gleisner, H., Watermann, J.: 2006, Solar energetic particle flux enhancement as an indicator of halo coronal mass ejection geoeffectiveness. Adv. Space Res. 4(6), 1.
+Gold, R.E., Krimigis, S.M., Hawkins, S.E., Haggerty, D.L., Lohr, D.A., Fiore, E., et al.: 1998, Electron, Proton, and Alpha Monitor on the Advanced Composition Explorer spacecraft. Space Sci. Rev. 86(1–4), 541.
+Gonzalez, W.D., Tsurutani, B.T., De Gonzalez, A.L.C.: 1999, Interplanetary origin of geomagnetic storms. Space Sci. Rev. 88(3–4), 529.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2003, Coronal mass ejection interaction and particle acceleration during the 2001 April 14–15 events. Adv. Space Res. 32(12), 2613.
+Gopalswamy, N., Nunes, S., Yashiro, S., Howard, R.A.: 2004, Variability of solar eruptions during cycle 23. Adv. Space Res. 34(2), 391.
+Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three-dimensional structure. In: Corotating Interaction Regions, Springer, Dordrecht, 21.
+Guido, R.M.D.: 2016, Coronal mass ejections during geomagnetic storms on Earth. J. Astrophys. Astron. 5(2), 19.
+Hudson, H.S.: 2011, Global properties of solar flares. Space Sci. Rev. 158(1), 5.
+Illing, R.M.E., Hundhausen, A.T.: 1986, Disruption of a coronal streamer by an eruptive prominence and coronal mass ejection. J. Geophys. Res. 91(A10), 10951.
+Kahler, S.W., Hildner, E., Van Hollebeke, M.A.I.: 1978, Prompt solar proton events and coronal mass ejections. Solar Phys. 57(2), 429.
+Katz, R.W.: 1988, Use of cross correlations in the search for teleconnections. Int. J. Climatol. 8(3), 241.
+Kennel, C.F., Scarf, F.L., Coroniti, F.V., Russell, C.T., Wenzel, K.P., Sanderson, T.R., et al.: 1984, Plasma and energetic particle structure upstream of a quasi-parallel interplanetary shock. J. Geophys. Res. 89(A7), 5419.
+Kozyra, J.U., Rasmussen, C.E., Miller, R.H., Lyons, L.R.: 1994, Interaction of ring current and radiation belt protons with ducted plasmaspheric hiss: 1. Diffusion coefficients and timescales. J. Geophys. Res. 99(A3), 4069.
+Lazutin, L.L., Kuznetsov, S.N., Podorol’skii, A.N.: 2007, Dynamics of the radiation belt formed by solar protons during magnetic storms. Geomagn. Aeron. 47(2), 175.
+Longden, N., Denton, M.H., Honary, F.: 2008, Particle precipitation during ICME-driven and CIR-driven geomagnetic storms. J. Geophys. Res. 113(A6), A06205.
+Malandraki, O.E., Lario, D., Lanzerotti, L.J., Sarris, E.T., Geranios, A., Tsiropoula, G.: 2005, October/November 2003 interplanetary coronal mass ejections: ACE/EPAM solar energetic particle observations. J. Geophys. Res. 110(A9), A09S06.
+McCracken, K.G., Rao, U.R., Bukata, R.P., Keath, E.: 1971, The decay phase of solar flare events. Solar Phys. 18(1), 100.
+Mewaldt, R.A., Stone, E.C., Vogt, R.E.: 1979, Characteristics of the spectra of protons and alpha particles in recurrent events at 1 AU. Geophys. Res. Lett. 6(7), 589.
+Nakada, M.P., Dungey, J.W., Hess, W.N.: 1965, On the origin of outer-belt protons: 1. J. Geophys. Res. 70(15), 3529.
+Ngwira, C.M., Pulkkinen, A., Wilder, F.D., Crowley, G.: 2013, Extended study of extreme geoelectric field event scenarios for geomagnetically induced current applications. Adv. Space Res. 11(3), 121.
+Palmer, I.D., Gosling, J.T.: 1978, Shock-associated energetic proton events at large heliocentric distances. J. Geophys. Res. 83(A5), 2037.
+Richardson, I.G.: 2004, Energetic particles and corotating interaction regions in the solar wind. Space Sci. Rev. 111(3–4), 267.
+Richardson, I.G., Cliver, E.W., Cane, H.V.: 2000, Sources of geomagnetic activity over the solar cycle: relative importance of coronal mass ejections, high-speed streams, and slow solar wind. J. Geophys. Res. 105(A8), 18203.
+Sergeev, V.A., Chernyaeva, S.A., Apatenkov, S.V., Ganushkina, N.Y., Dubyagin, S.V.: 2015, Energy-latitude dispersion patterns near the isotropy boundaries of energetic protons. Ann. Geophys. 33, 1059.
+Sheeley, N.R., Howard, R.A., Koomen, M.J., Michels, D.J., Schwenn, R., Muehlhaeuser, K.H., Rosenbauer, H.: 1985, Coronal mass ejections and interplanetary shocks. J. Geophys. Res. 90(A1), 163.
+Shibata, K., Magara, T.: 2011, Solar flares: magnetohydrodynamic processes. Solar Phys. 8(1), 6.
+Smith, E.J., Wolfe, J.H.: 1976, Observations of interaction regions and corotating shocks between one and five AU: Pioneers 10 and 11. Geophys. Res. Lett. 3(3), 137.
+Smolin, S.V.: 2010, Effect of magnetospheric convection on the energy distribution of protons from the Earth radiation belts. Geomagn. Aeron. 50(3), 298.
+Søraas, F., Aarsnes, K., Lundblad, J., Evans, D.S.: 1999, Enhanced pitch angle scattering of protons at mid-latitudes during geomagnetic storms. Phys. Chem. Earth, Part C Solar-Terr. Planet. Sci. 24(1–3), 287.
+Spjeldvik, W.N.: 1977, Equilibrium structure of equatorially mirroring radiation belt protons. J. Geophys. Res. 82(19), 2801.
+Stauning, P.: 1996, Investigations of ionospheric radio wave absorption processes using imaging riometer techniques. J. Atmos. Terr. Phys. 58(6), 753.
+Tsurutani, B.T., Lin, R.P.: 1985, Acceleration of {>} 47~keV ions and {>} 2~keV electrons by interplanetary shocks at 1 AU. J. Geophys. Res. 90(A1), 1.
+Tsurutani, B.T., Gould, T., Goldstein, B.E., Gonzalez, W.D., Sugiura, M.: 1990, Interplanetary Alfvén waves and auroral (substorm) activity: IMP 8. J. Geophys. Res. 95, 2241.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L., Guarnieri, F.L., Gopalswamy, N., Grande, M., et al.: 2006, Corotating solar wind streams and recurrent geomagnetic activity: a review. J. Geophys. Res. 111(A7), A07S01.
+Tsurutani, B.T., Verkhoglyadova, O.P., Mannucci, A.J., Lakhina, G.S., Li, G., Zank, G.P.: 2009, A brief review of “solar flare effects” on the ionosphere. Radio Sci. 44(1), RS0A17.
+Tylka, A.J., Lee, M.A.: 2006, A model for spectral and compositional variability at high energies in large, gradual solar particle events. Astrophys. J. 646(2), 1319.
+Tylka, A.J., Cohen, C.M.S., Dietrich, W.F., Lee, M.A., Maclennan, C.G., Mewaldt, R.A., et al.: 2005, Shock geometry, seed populations, and the origin of variable elemental composition at high energies in large gradual solar particle events. Astrophys. J. 625(1), 474.
+Vacaresse, A., Boscher, D., Bourdarie, S., Blanc, M., Sauvaud, J.A.: 1999, Modeling the high-energy proton belt. J. Geophys. Res. 104(A12), 28601.
+Yizengaw, E., Moldwin, M.B., Komjathy, A., Mannucci, A.J.: 2006, Unusual topside ionospheric density response to the November 2003 superstorm. J. Geophys. Res. 111(A2), A02308.
+Zurbuchen, T.H., Richardson, I.G.: 2006, In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123(1–3), 31.

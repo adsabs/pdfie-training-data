@@ -1,0 +1,30 @@
+Aurass, H., Klein, K.-L., Zlotnik, E.Y., Zaitsev, V.V.: 2003, Astron. Astrophys. 410, 1001.
+Bastian, T.S., Bookbinder, J., Dulk, G.A., Davis, M.: 1990, Astrophys. J. 353, 265.
+Benz, A.O., Kuijpers, J.: 1976, Solar Phys. 46, 275.
+Berger, E., Gizis, J.E., Giampapa, M.S., Rutledge, R.E., Liebert, J., Martın, E., et al.: 2008, Astrophys. J. 673, 1080.
+Bespalov, P.A., Zaitsev, V.V., Stepanov, A.V.: 1991, Astrophys. J. 374, 369.
+Chernov, G.P.: 2006, Space Sci. Rev. 127, 195.
+Cowling, T.G.: 1976, Magnetohydrodynamics, Adam Hilger, Bristol.
+Fleishman, G.D., Stepanov, A.V., Yurovsky, Yu.F.: 1994, Space Sci. Rev. 68, 205.
+Hallinan, G., Bourke, S., Lane, C., Antonova, A., Zavala, R.T., Brisken, W.F., Boyle, R.P.: 2007, Astrophys. J. Lett. 663, L25.
+Holman, G.D., Aschwanden, M.J., Aurass, H., Battaglia, M., Grigis, P.C., et al.: 2011, Space Sci. Rev. 159, 107.
+Huang, J., Kontar, E.P., Nakariakov, V.M., Gao, G.: 2016, Astrophys. J. 831, 119.
+Kaufmann, P., de Castro, C.G.G., Correa, E., Costa, J.E.R., Raulin, J.-P., Valio, A.S.: 2009, Astrophys. J. 697, 420.
+Khodachenko, M.L., Zaitsev, V.V., Kisliakov, A.G., Stepanov, A.V.: 2009, Space Sci. Rev. 149, 83.
+Kliem, B., Karlický, M., Benz, A.O.: 2000, Astron. Astrophys. 360, 715.
+Knoepfel, H., Spong, D.A.: 1979, Nucl. Fusion 19, 785.
+Kumar, P., Nakariakov, V.M., Cho, K.-S.: 2015, Astrophys. J. 803, 4.
+Kumar, P., Nakariakov, V.M., Cho, K.-S.: 2016, Astrophys. J. 822, 7.
+Miller, J.A., Cargill, P.J., Emslie, A.G., Holman, G.D., Dennis, B.R., LaRosa, T.N., et al.: 1997, J. Geophys. Res. 102, 14631.
+Slottje, C.: 1972, Solar Phys. 25, 210.
+Stepanov, A.V., Zaitsev, V.V., Nakariakov, V.M.: 2012, Coronal Seismology: Waves and Oscillations in Stellar Coronae, Wiley, New York, 221 pp.
+Tajima, T., Sakai, J., Nakajima, H., Kosugi, T., Brunel, F., Kundu, M.R.: 1987, Astrophys. J. 321, 1031.
+Wentzel, D.G.: 1976, Astrophys. J. 208, 595.
+Zaitsev, V.V., Kislyakov, A.G., Urpo, S.: 2003, Radiophys. Quantum Electron. 46, 893.
+Zaitsev, V.V., Kislyakov, A.G.: 2006, Astron. Rep. 50, 823.
+Zaitsev, V.V., Stepanov, A.V.: 1975, Astron. Astrophys. 45, 135.
+Zaitsev, V.V., Stepanov, A.V., Kaufmann, P.: 2014, Solar Phys. 289, 3017.
+Zaitsev, V.V., Stepanov, A.V.: 2015, Solar Phys. 290, 3559.
+Zaitsev, V.V., Stepanov, A.V.: 2017, Radiophys. Quantum Electron. 59, 867.
+Zaitsev, V.V., Kronshtadtov, P.V., Stepanov, A.V.: 2016, Solar Phys. 291, 3451.
+Zlotnik, E.Y., Zaitsev, V.V., Aurass, H., Mann, G., Hofmann, A.: 2003, Astron. Astrophys. 410, 1011.

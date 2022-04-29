@@ -1,0 +1,77 @@
+Altschuler, M.D., Newkirk, G.: 1969, Solar Phys. 9, 131.
+Arden, W.M., Norton, A.A., Sun, X.: 2014, J. Geophys. Res. Space Phys. 119, 1476.
+Arge, C.N., Pizzo, V.J.: 2000, J. Geophys. Res. Space Phys. 105, 10465.
+Arge, C.N., Odstrcil, D., Pizzo, V.J., Mayer, L.R.: 2003, AIP Conf. Proc. 679, 190.
+Billings, D.E.: 1966, A Guide to the Solar Corona, Academic Press, New York.
+Bussy-Virat, C.D., Ridley, A.J.: 2014, Space Weather 12, 337.
+Dryer, M., Smith, Z., Fry, C., Sun, W., Deehr, C., Akasofu, S.I.: 2004, Space Weather 2. S09001.
+Everson, R.W., Dikpati, M.: 2017, Astrophys. J. 850, 152.
+Feng, X., Ma, X., Xiang, C.: 2015, J. Geophys. Res. Space Phys. 120, 10.
+Feng, X., Yang, L., Xiang, C., Wu, S.T., Zhou, Y., Zhong, D.: 2010, Astrophys. J. 723, 300.
+Feng, X., Jiang, C., Xiang, C., Zhao, X., Wu, S.T.: 2012, Astrophys. J. 758, 62.
+Frazin, R.A., Janzen, P.: 2002, Astrophys. J. 570, 408.
+Freeland, S.L., Handy, B.: 1998, Solar Phys. 182, 497.
+Fry, C., Dryer, M., Smith, Z., Sun, W., Deehr, C., Akasofu, S.I.: 2003, J. Geophys. Res. Space Phys. 108, 1070.
+Gary, G.A.: 2001, Solar Phys. 203, 71.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001, J. Geophys. Res. Space Phys. 106, 29207.
+Guhathakurta, M., Holzer, T.E., Macqueen, R.M.: 1996, Astrophys. J. 458, 817.
+Hayashi, K.: 2005, Astrophys. J. Suppl., 161, 480.
+Hayashi, K., Tokumaru, M., Fujiki, K.: 2016, J. Geophys. Res. Space Phys. 121, 7367.
+Hayashi, K., Yang, S., Deng, Y.: 2016, J. Geophys. Res. Space Phys. 121, 1046.
+Hayashi, K., Benevolenskaya, E., Hoeksema, T., Liu, Y., Zhao, X.P.: 2006, Astrophys. J. Lett. 636, L165.
+Hayashi, K., Kojima, M., Tokumaru, M., Fujiki, K.I.: 2003, J. Geophys. Res. Space Phys. 108, 1102.
+Hayes, A.P., Vourlidas, A., Howard, R.A.: 2001, Astrophys. J. 548, 1081.
+Hoeksema, J.T., Wilcox, J.M., Scherrer, P.H.: 1983, J. Geophys. Res. Space Phys. 88, 9910.
+Hofmeister, S.J., Veronig, A., Temmer, M., Vennerstrom, S., Heber, B., Vrsnak, B.: 2018, J. Geophys. Res. Space Phys. 123, 1738.
+Jackson, B.V., Odstrcil, D., Yu, H.S., Hick, P.P., Buffington, A., Mejia-Ambriz, J.C., Kim, J., Hong, S., Kim, Y., Han, J.: 2015, Space Weather 13, 104.
+Jiang, C., Feng, X.: 2013, Astrophys. J. 769, 144.
+Jones, S.I., Davila, J.M., Uritsky, V.: 2016, Astrophys. J. 820, 113.
+Kim, T.K., Pogorelov, N.V., Borovikov, S.N., Jackson, B.V., Yu, H.S., Tokumaru, M.: 2014, J. Geophys. Res. Space Phys. 119, 7981.
+Kojima, M., Tokumaru, M., Fujiki, K., Hayashi, K., Jackson, B.V.: 2007, Astron. Astrophys. 26, 467.
+Koutchmy, S., Lamy, P.L.: 1985, The f-Corona and the Circum-Solar Dust Evidences and Properties 85, Cambridge University Press, Cambridge 63.
+Kramar, M., Airapetian, V., Mikić, Z., Davila, J.: 2014, Solar Phys. 289, 2927.
+Lee, C., Luhmann, J., Hoeksema, J., Sun, X., Arge, C., de Pater, I.: 2011, Solar Phys. 269, 367.
+Levine, R.H., Schulz, M., Frazier, E.N.: 1982, Solar Phys. 77, 363.
+Linker, J.A., Mikić, Z., Biesecker, D.A., Forsyth, R.J., Gibson, S.E., Lazarus, A.J., Lecinski, A., Riley, P., Szabo, A., Thompson, B.J.: 1999, J. Geophys. Res. Space Phys. 104, 9809.
+Liu, Y., Hoeksema, J., Scherrer, P., Schou, J., Couvidat, S., Bush, R., Duvall, T., Hayashi, K., Sun, X., Zhao, X.: 2012, Solar Phys. 279, 295.
+Lugaz, N., Manchester, W.B., Gombosi, T.I.: 2005, Astrophys. J. 634, 651.
+MacNeice, P.: 2009, Space Weather 7, 1.
+McComas, D.J., Elliott, H.A., Gosling, J.T., Skoug, R.M.: 2006, Geophys. Res. Lett. 33, L09102.
+Mikic, Z., Linker, J.A., Schnack, D.D., Lionello, R., Tarditi, A.: 1999, Phys. Plasmas 6, 2217.
+Morgan, H.: 2015, Astrophys. J. Suppl. 219, 23.
+Newkirk, G., Fisk, L.A.: 1985, J. Geophys. Res. Space Phys. 90, 3391.
+Odstrcil, D.: 2003, Adv. Space Res. 32, 497.
+Owens, M.J., Challen, R., Methven, J., Henley, E., Jackson, D.R.: 2013, Space Weather 11, 225.
+Owens, M.J., Spence, H.E., McGregor, S., Hughes, W.J., Quinn, J.M., Arge, C.N., Riley, P., Linker, J., Odstrcil, D.: 2008, Space Weather 6, S08001.
+Patoul, J.d., Foullon, C., Riley, P.: 2015, Astrophys. J. 814, 68.
+Quémerais, E., Lamy, P.: 2002, Astron. Astrophys. 393, 295.
+Reiss, M.A., Temmer, M., Veronig, A.M., Nikolic, L., Vennerstrom, S., Schöngassner, F., Hofmeister, S.J.: 2016, Space Weather 14, 495.
+Riley, P., Linker, J.A., Arge, C.N.: 2015, Space Weather 13, 154.
+Riley, P., Lionello, R.: 2011, Solar Phys. 270, 575.
+Riley, P., Linker, J., Mikic, Z., Lionello, R., Ledvina, S.A., Luhmann, J.G.: 2006, Astrophys. J. 653, 1510.
+Riley, P., Lionello, R., Linker, J., Mikic, Z., Luhmann, J., Wijaya, J.: 2011, Solar Phys. 274, 361.
+Riley, P., Ben-Nun, M., Linker, J., Mikic, Z., Svalgaard, L., Harvey, J., Bertello, L., Hoeksema, T., Liu, Y., Ulrich, R.: 2014, Solar Phys. 289, 769.
+Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, Solar Phys. 6, 442.
+Schulz, M., Frazier, E.N., Boucher, D.J.: 1978, Solar Phys. 60, 83.
+Shen, F., Feng, X., Xiang, C.: 2012, J. Atmos. Solar-Terr. Phys. 77, 125.
+Shen, F., Feng, X., Wu, S., Xiang, C.: 2007, J. Geophys. Res. Space Phys. 112, A06109.
+Shen, F., Feng, X., Xiang, C., Song, W.: 2010, J. Atmos. Solar-Terr. Phys. 72, 1008.
+Shen, F., Shen, C., Wang, Y., Feng, X., Xiang, C.: 2013, Geophys. Res. Lett. 40, 1457.
+Shen, F., Shen, C., Zhang, J., Hess, P., Wang, Y., Feng, X., Cheng, H., Yang, Y.: 2014, J. Geophys. Res. Space Phys. 119, 7128.
+Shen, F., Yang, Z., Zhang, J., Wei, W., Feng, X.: 2018, Astrophys. J. 866, 18.
+Strachan, L., Panasyuk, A.V., Kohl, J.L., Lamy, P.: 2012, Astrophys. J. 745, 51.
+Tokumaru, M., Kojima, M., Fujiki, K.: 2010, J. Geophys. Res. Space Phys. 115, A04102.
+Tokumaru, M., Satonaka, D., Fujiki, K.i., Hayashi, K., Hakamada, K.: 2017, Solar Phys. 292, 41.
+Tóth, G., van der Holst, B., Huang, Z.: 2011, Astrophys. J. 732, 102.
+Van de Hulst, H.: 1950, Bull. Astron. Inst. Neth. 11, 135.
+Wang, T., Davila, J.M.: 2014, Solar Phys. 289, 3723.
+Wang, Y.-M., Sheeley, N.: 1990, Astrophys. J. 355, 726.
+Wang, Y.M., Young, P.R., Muglach, K.: 2014, Astrophys. J. 780, 103.
+Wei, F.S., Feng, X.S., Cai, H.C., Zhou, Q.J.: 2003, J. Geophys. Res. Space Phys. 108, 1238.
+Wiegelmann, T., Petrie, G.J.D., Riley, P.: 2017, Space Sci. Rev. 210, 249.
+Wiengarten, T., Kleimann, J., Fichtner, H., Cameron, R., Jiang, J., Kissmann, R., Scherer, K.: 2013, J. Geophys. Res. Space Phys. 118, 29.
+Wintoft, P., Lundstedt, H.: 1997, Phys. Chem. Earth 22, 617.
+Wintoft, P., Lundstedt, H.: 1999, J. Geophys. Res. Space Phys. 104, 6729.
+Yang, Y., Shen, F., Yang, Z., Feng, X.: 2018, Space Weather 16, 1227.
+Zhao, X., Dryer, M.: 2014, Space Weather 12, 448.
+Zhao, X., Hoeksema, J.T.: 1995, J. Geophys. Res. Space Phys. 100, 19.

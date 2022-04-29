@@ -1,0 +1,50 @@
+Balch, C.C.: 2008, Updated verification of the Space Weather Prediction Center’s solar energetic particle prediction model. Space Weather 6, S01001.
+Berghmans, D., Foing, B.H., Fleck, B.: 2002, Automated detection of CMEs in LASCO data. In: Wilson, A. (ed.) From Solar Min to Max: Half a Solar Cycle with SOHO, ESA SP 508, 437. 92-9092-816-6.
+Berghmans, D., van der Linden, R.A.M., Vanlommel, P., Warnant, R., Zhukov, A., Robbrecht, E., Clette, F., Podladchikova, O., Nicula, B., Hochedez, J.-F., Wauters, L., Willems, S.: 2005, Solar activity: Nowcasting and forecasting at the SIDC. Ann. Geophys. 23, 3115.
+Bothmer, V., Schwenn, R.: 1994, Eruptive prominences as sources of magnetic clouds in the solar wind. Space Sci. Rev. 70, 215.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Burton, R.K., McPherron, R.L., Russell, C.T.: 1975, An empirical relationship between interplanetary conditions and Dst. J. Geophys. Res. 80, 4204.
+Crosby, N.B., Veronig, A., Robbrecht, E., Vršnak, B., Vennerstrom, S., Malandraki, O., Dalla, S., Rodriguez, L., Srivastava, N., Hesse, M., Odstrcil, D., Consortium, C.: 2012, Forecasting the space weather impact: The COMESEP project. In: Hu, Q., Li, G., Zank, G.P., Ao, X., Verkhoglyadova, O., Adams, J. H. (eds.) Space Weather: The Space Radiation Environment: 11th Annual International Astrophysics Conference, Amer. Inst. Phys. CP 1500, 159.
+Crown, M.D.: 2012, Validation of the NOAA Space Weather Prediction Center’s solar flare forecasting look-up table and forecaster-issued probabilities. Space Weather 10, S06006.
+Devos, A., Verbeeck, C., Robbrecht, E.: 2014, Verification of space weather forecasting at the Regional Warning Center in Belgium. J. Space Weather Space Clim. 4(27), A29.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: An overview. Solar Phys. 162, 1.
+Dumbović, M., Vršnak, B., Čalogović, J.: 2016, Forbush decrease prediction based on remote solar observations. Solar Phys. 291, 285.
+Dumbović, M., Devos, A., Vršnak, B., Sudar, D., Rodriguez, L., Ruždjak, D., Leer, K., Vennerstrøm, S., Veronig, A.: 2015, Geoeffectiveness of coronal mass ejections in the SOHO era. Solar Phys. 290, 579.
+Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6, 47.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T., Gonzalez, A.L.C.: 2008, Interplanetary conditions causing intense geomagnetic storms (Dst\le -100~nT) during Solar Cycle 23 (1996 – 2006). J. Geophys. Res. 113, 5221.
+Feldstein, Y.I.: 1992, Modelling of the magnetic field of magnetospheric ring current as a function of interplanetary medium parameters. Space Sci. Rev. 59(1), 83.
+Fenrich, F.R., Luhmann, J.G.: 1998, Geomagnetic response to magnetic clouds of different polarity. Geophys. Res. Lett. 25, 2999.
+Gonzalez, W.D., de Gonzalez, A.L.C., Dal Lago, A., Tsurutani, B.T., Arballo, J.K., Lakhina, G.K., Buti, B., Ho, C.M., Wu, S.-T.: 1998, Magnetic cloud field intensities and solar wind velocities. Geophys. Res. Lett. 25, 963.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2007, Geoeffectiveness of halo coronal mass ejections. J. Geophys. Res. 112, 6112.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000, Interplanetary acceleration of coronal mass ejections. Geophys. Res. Lett. 27, 145.
+Isavnin, A., Vourlidas, A., Kilpua, E.K.J.: 2013, Three-dimensional evolution of erupted flux ropes from the Sun (2 -- 20~R_{\odot}) to 1 AU. Solar Phys. 284, 203.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: An introduction. Space Sci. Rev. 136, 5.
+Kane, R.P.: 2005, How good is the relationship of solar and interplanetary plasma parameters with geomagnetic storms? J. Geophys. Res. 110, A02213.
+Kim, R.-S., Cho, K.-S., Moon, Y.-J., Dryer, M., Lee, J., Yi, Y., Kim, K.-H., Wang, H., Park, Y.-D., Kim, Y.H.: 2010, An empirical model for prediction of geomagnetic storms using initially observed CME parameters at the Sun. J. Geophys. Res. 115(A14), 12108.
+Koskinen, H.E.J., Huttunen, K.E.J.: 2006, Geoeffectivity of coronal mass ejections. Space Sci. Rev. 124, 169.
+Kraaikamp, E., Verbeeck, C.: 2015, Solar Demon – an approach to detecting flares, dimmings, and EUV waves on SDO/AIA images. J. Space Weather Space Clim. 5(27), A18.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lepping, R.P., Acũna, M.H., Burlaga, L.F., Farrell, W.M., Slavin, J.A., Schatten, K.H., Mariani, F., Ness, N.F., Neubauer, F.M., Whang, Y.C., Byrnes, J.B., Kennon, R.S., Panetta, P.V., Scheifele, J., Worley, E.M.: 1995, The wind magnetic field investigation. Space Sci. Rev. 71, 207.
+Möstl, C., Miklenic, C., Farrugia, C.J., Temmer, M., Veronig, A., Galvin, A.B., Vršnak, B., Biernat, H.K.: 2008, Two-spacecraft reconstruction of a magnetic cloud and comparison to its solar source. Ann. Geophys. 26, 3139.
+O’Brien, T.P., McPherron, R.L.: 2000, An empirical phase space analysis of ring current dynamics: Solar wind control of injection and decay. J. Geophys. Res. 105, 7707.
+Ogilvie, K.W., Chornay, D.J., Fritzenreiter, R.J., Hunsaker, F., Keller, J., Lobell, J., Miller, G., Scudder, J.D., Sittler, E.C. Jr., Torbert, R.B., Bodet, D., Needell, G., Lazarus, A.J., Steinberg, J.T., Tappan, J.H., Mavretic, A., Gergin, E.: 1995, SWE, a comprehensive plasma instrument for the WIND spacecraft. Space Sci. Rev. 71, 55.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Plunkett, S.P., Thompson, B.J., St. Cyr, O.C., Howard, R.A.: 2001, Solar source regions of coronal mass ejections and their geomagnetic effects. J. Atmos. Solar-Terr. Phys. 63, 389.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Richardson, I.G., Cane, H.V.: 2011, Geoeffectiveness (Dst and Kp) of interplanetary coronal mass ejections during 1995 – 2009 and implications for storm forecasting. Space Weather 9, 7005.
+Robbrecht, E., Berghmans, D.: 2004, Automated recognition of Coronal Mass Ejections (CMEs) in near-real-time data. Astron. Astrophys. 425, 1097.
+Srivastava, N.: 2005, A logistic regression model for predicting the occurrence of intense geomagnetic storms. Ann. Geophys. 23(9), 2969.
+Srivastava, N., Venkatakrishnan, P.: 2004, Solar and interplanetary sources of major geomagnetic storms during 1996 – 2002. J. Geophys. Res. 109(A18), 10103.
+Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.R., Margolies, D., Ormes, J.F., Snow, F.: 1998, The Advanced Composition Explorer. Space Sci. Rev. 86, 1.
+Uwamahoro, J., McKinnell, L.A., Habarulema, J.B.: 2012, Estimating the geoeffectiveness of halo CMEs from associated solar and IP parameters using neural networks. Ann. Geophys. 30, 963.
+Valach, F., Revallo, M., Bochníček, J., Hejda, P.: 2009, Solar energetic particle flux enhancement as a predictor of geomagnetic activity in a neural network-based model. Space Weather 7, 4004.
+Verbanac, G., Živković, S., Vršnak, B., Bandić, M., Hojsak, T.: 2013, Comparison of geoeffectiveness of coronal mass ejections and corotating interaction regions. Astron. Astrophys. 558, A85.
+Vourlidas, A., Colaninno, R., Nieves-Chinchilla, T., Stenborg, G.: 2011, The first observation of a rapidly rotating coronal mass ejection in the middle corona. Astrophys. J. Lett. 733, L23.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: The drag-based model. Solar Phys. 285, 295.
+Vršnak, B., Temmer, M., Žic, T., Taktakishvili, A., Dumbović, M., Möstl, C., Veronig, A.M., Mays, M.L., Odstrčil, D.: 2014, Heliospheric propagation of coronal mass ejections: Comparison of numerical WSA-ENLIL + cone model and analytical drag-based model. Astrophys. J. Suppl. 213, 21.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, A catalog of white light coronal mass ejections observed by the SOHO spacecraft. J. Geophys. Res. 109, 7105.
+Yermolaev, Y.I., Nikolaeva, N.S., Lodkina, I.G., Yermolaev, M.Y.: 2012, Geoeffectiveness and efficiency of CIR, sheath, and ICME in generation of magnetic storms. J. Geophys. Res. 117, A00L07.
+Yokoyama, N., Kamide, Y.: 1997, Statistical nature of geomagnetic storms. J. Geophys. Res. 102, 14215.
+Zhang, J., Dere, K.P., Howard, R.A., Bothmer, V.: 2003, Identification of solar sources of major geomagnetic storms between 1996 and 2000. Astrophys. J. 582, 520.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst \le -100~nT) during 1996 – 2005. J. Geophys. Res. 112(A11), 10102.
+Žic, T., Vršnak, B., Temmer, M.: 2015, Heliospheric propagation of coronal mass ejections: Drag-based model fitting. Astrophys. J. Suppl. 218, 32.

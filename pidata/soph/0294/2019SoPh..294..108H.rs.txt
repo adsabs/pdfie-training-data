@@ -1,0 +1,25 @@
+Alissandrakis, C.E., Chiuderi-Drago, F.: 1994, Detection of linear polarization in the microwave emission of solar active region. Astrophys. J. 428, L73.
+Altyntsev, A., Meshalkina, N., Myshyakov, I., Pal‘shin, V., Fleishman, G.: 2017, Flare SOL2012-07-06: On the origin of the circular polarization reversal between 17 GHz and 34 GHz. Solar Phys. 292, 137.
+Bruggmann, G., Magun, A.: 1990, Temporal and spectral characteristics of the circular polarization of solar microwave bursts. Astron. Astrophys. 239, 347.
+Cohen, M.H.: 1960, Magnetoionic mode coupling at high frequencies. Astrophys. J. 131, 664.
+Dulk, G.A.: 1985, Radio emission from the Sun and stars. Annu. Rev. Astron. Astrophys. 23, 169.
+Fleishman, G.D.: 2006, Radio emission from anisotropic electron distributions. In: Solar Physics with the Nobeyama Radioheliograph, 51.
+Fleishman, G.D., Melnikov, V.F.: 2003a, Gyrosynchrotron emission from anisotropic electron distributions. Astrophys. J. 587, 823.
+Fleishman, G.D., Melnikov, V.F.: 2003b, Optically thick gyrosynchrotron emission from anisotropic electron distributions. Astrophys. J. 584, 1071.
+Huang, G., Song, Q., Huang, Y.: 2010, Statistics of flaring loops observed by the Nobeyama radioheliograph. III. Asymmetry of two footpoint emissions. Astrophys. J. 723, 1806.
+Kakinuma, T., Yamashita, T., Enome, S.: 1969, A statistical study of solar bursts at microwave frequencies. Proc. Res. Inst. Atmos. Nagoya Univ. 16, 127.
+Kaufmann, P., Matsuura, O.T., Dos Santos, P.M.: 1970, Polarization changes with time during solar microwave impulsive bursts. Solar Phys. 14, 190.
+Klein, K.-L., Trottet, G.: 1984, Gyrosynchrotron radiation from a source with spatially varying field and density. Astron. Astrophys. 141, 67.
+Kosugi, T.: 1985, Directivity of radio emission from solar flares. Publ. Astron. Soc. Japan 37, 575.
+Krüger, A.: 1979, Introduction to Solar Radio Astronomy and Radio Physics. Reidel, Dordrecht,
+Morgachev, A.S., Kuznetsov, S.A., Melnikov, V.F., Simões, J.A.: 2015, Modeling the distribution of circular polarization degree of microwave emission along the flare loops in event July 19, 2012. Geomagn. Aeron. 55, 1118.
+Ramaty, R.: 1969, Gyrosynchrotron emission and absorption in a magnetoactive plasma. Astrophys. J. 158, 753.
+Ratcliffe, J.A.: 1959, The Magneto-Ionic Theory and Its Applications to the Ionosphere, Cambridge University Press, London, 18.
+Silva, A.V.R., Valente, M.M.: 2002, Center-to-limb variation of solar microwave bursts. Solar Phys. 206, 177.
+Simões, P.J.A., Costa, J.E.R.: 2006, Solar bursts gyrosynchrotron emission from three-dimensional sources. Astron. Astrophys. 453, 729.
+Takakura, T., Scalise, E.: 1970, Gyro-synchrotron emission in a magnetic dipole field for the application to the center-to-limb variation of microwave impulsive bursts. Solar Phys. 11, 434.
+Tanaka, H., Kakinuma, T.: 1959, Polarization of bursts of solar radio emission at microwave frequencies. In: Bracewell, R.N. (ed.) URSI Symp. 1: Paris Symposium on Radio Astronomy, IAU Symposium 9, 215.
+Valio, A., Kaufmann, P., Giménez de Castro, C.G., Raulin, J.-P., Fernandes, L.O.T., Marun, A.: 2013, POlarization Emission of Millimeter Activity at the Sun (POEMAS): new circular polarization solar telescopes at two millimeter wavelength ranges. Solar Phys. 283, 651.
+Vestrand, W.T., Forrest, D.J., Chupp, E.L., Rieger, E., Share, G.H.: 1987, The directivity of high-energy emission from solar flares – Solar Maximum Mission observations. Astrophys. J. 322, 1010.
+White, S.M.: 2002, The solar atmosphere at radio wavelengths. In: Favata, F., Drake, J.J. (eds.) Stellar Coronae in the Chandra and XMM-NEWTON Era, Astronomical Society of the Pacific Conference Series 277, 299.
+Zhelezniakov, V.V.: 1970, Radio Emission of the Sun and Planets, Pergamon Press, Oxford, 46.

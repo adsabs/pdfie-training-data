@@ -1,0 +1,65 @@
+Adams, M., Sterling, A.C., Moore, R.L., Gary, G.A.: 2014, A small-scale eruption leading to a blowout macrospicule jet in an on-disk coronal hole. Astrophys. J. 783, 11.
+Alzate, N., Morgan, H.: 2016, Jets, coronal “puffs,” and a slow coronal mass ejection caused by an opposite-polarity region within an active region footpoint. Astrophys. J. 823, 129.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Chen, J., Su, J., Yin, Z., Priya, T.G., Zhang, H., Liu, J., Xu, H., Yu, S.: 2015, Recurrent solar jets induced by a satellite spot and moving magnetic features. Astrophys. J. 815, 71.
+Chen, P.F.: 2011, Coronal mass ejections: Models and their observational basis. Living Rev. Solar Phys. 8, 1.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: An overview. Solar Phys. 162, 1.
+Fisher, G.H., Welsch, B.T.: 2008, Efficient method for performing local correlation tracking. In: Subsurface and Atmospheric Influences on Solar Activity 383, 373.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the SolarSoft sYStem. Solar Phys. 182, 497.
+Harvey, J.W., Bolding, J., Clark, R., Hauth, D., Hill, F., Kroll, R., Luis, G., Mills, N., Purdy, T., Henney, C., Holland, D., Winter, J.: 2011, Full-disk solar H-alpha images from GONG. Bull. Am. Astron. Soc. 43, 17.45.
+Hong, J., Jiang, Y., Zheng, R., Yang, J., Bi, Y., Yang, B.: 2011, A micro coronal mass ejection associated blowout extreme-ultraviolet jet. Astrophys. J. 738, L20.
+Hong, J., Jiang, Y., Yang, J., Li, H., Xu, Z.: 2017, Minifilament eruption as the source of a blowout jet, C-class flare, and type-III radio burst. Astrophys. J. 835, 35.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., Korendyke, C.M., Cook, J.W., Hurley, A., Davila, J.M., Thompson, W.T., St Cyr, O.C., Mentzell, E., Mehalick, K., Lemen, J.R., Wuelser, J.P., Duncan, D.W., Tarbell, T.D., Wolfson, C.J., Moore, A., Harrison, R.A., Waltham, N.R., Lang, J., Davis, C.J., Eyles, C.J., Mapson-Menard, H., Simnett, G.M., Halain, J.P., Defise, J.M., Mazy, E., Rochus, P., Mercier, R., Ravet, M.F., Delmotte, F., Auchere, F., Delaboudiniere, J.P., Bothmer, V., Deutsch, W., Wang, D., Rich, N., Cooper, S., Stephens, V., Maahs, G., Baugh, R., McMullin, D., Carter, T.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Hudson, H.S.: 2000, Implosions in coronal transients. Astrophys. J. 531, L75.
+Inhester, B.: 2006, Stereoscopy basics for the STEREO mission.
+Jiang, Y.C., Chen, H.D., Li, K.J., Shen, Y.D., Yang, L.H.: 2007, The H\upalpha surges and EUV jets from magnetic flux emergences and cancellations. Astron. Astrophys. 469, 331.
+Jiang, Y., Shen, Y., Yi, B., Yang, J., Wang, J.: 2008, Magnetic interaction: A transequatorial jet and interconnecting loops. Astrophys. J. 677, 699.
+Kayshap, P., Srivastava, A.K., Murawski, K.: 2013, The kinematics and plasma properties of a solar surge triggered by chromospheric activity in AR11271. Astrophys. J. 763, 24.
+Kayshap, P., Srivastava, A.K., Murawski, K., Tripathi, D.: 2013, Origin of macrospicule and jet in polar corona by a small-scale kinked flux tube. Astrophys. J. 770, L3.
+Krucker, S., Benz, A.O.: 2000, Are heating events in the quiet solar corona small flares? Multiwavelength observations of individual events. Solar Phys. 191, 341.
+Krucker, S., Benz, A.O., Bastian, T.S., Acton, L.W.: 1997, X-Ray network flares of the quiet sun. Astrophys. J. 488, 499.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Li, H., Jiang, Y., Yang, J., Qu, Z., Yang, B., Xu, Z., Bi, Y., Hong, J., Chen, H.: 2017, Blowout surge due to interaction between a solar filament and coronal loops. Astrophys. J. 842, L20.
+Li, X., Yang, S., Chen, H., Li, T., Zhang, J.: 2015, Trigger of a blowout jet in a solar coronal mass ejection associated with a flare. Astrophys. J. 814, L13.
+Li, X., Zhang, J., Yang, S., Hou, Y., Erdélyi, R.: 2018, Observing Kelvin–Helmholtz instability in solar blowout jet. Sci. Rep. 8, 8136.
+Liu, J., Wang, Y., Shen, C., Liu, K., Pan, Z., Wang, S.: 2015, A solar coronal jet event triggers a coronal mass ejection. Astrophys. J. 813, 115.
+Liu, R., Wang, H., Alexander, D.: 2009, Implosion in a coronal eruption. Astrophys. J. 696, 121.
+Liu, Y.: 2008, A study of surges, II: On the relationship between chromospheric surges and coronal mass ejections. Solar Phys. 249, 75.
+Miao, Y., Liu, Y., Li, H.B., Shen, Y., Yang, S., Elmhamdi, A., Kordi, A.S., Abidin, Z.Z.: 2018, A blowout jet associated with one obvious extreme-ultraviolet wave and one complicated coronal mass ejection event. Astrophys. J. 869, 39.
+Moore, R.L., Cirtain, J.W., Sterling, A.C., Falconer, D.A.: 2010, Dichotomy of solar coronal jets: Standard jets and blowout jets. Astrophys. J. 720, 757.
+Moore, R.L., Sterling, A.C., Falconer, D.A., Robe, D.: 2013, The cool component and the dichotomy, lateral expansion, and axial rotation of solar X-ray jets. Astrophys. J. 769, 134.
+Morgan, H., Druckmüller, M.: 2014, Multi-scale Gaussian normalization for solar image processing. Solar Phys. 289, 2945.
+Murawski, K., Srivastava, A.K., Zaqarashvili, T.V.: 2011, Numerical simulations of solar macrospicules. Astron. Astrophys. 535, A58.
+Ni, L., Zhang, Q.-M., Murphy, N.A., Lin, J.: 2017, Blob formation and ejection in coronal jets due to the plasmoid and Kelvin–Helmholtz instabilities. Astrophys. J. 841, 27.
+Nishizuka, N., Shimizu, M., Nakamura, T., Otsuji, K., Okamoto, T.J., Katsukawa, Y., Shibata, K.: 2008, Giant chromospheric anemone jet observed with hinode and comparison with magnetohydrodynamic simulations: Evidence of propagating Alfvén waves and magnetic reconnection. Astrophys. J. 683, L83.
+Nisticò, G., Bothmer, V., Patsourakos, S., Zimbardo, G.: 2009, Characteristics of EUV coronal jets observed with STEREO/SECCHI. Solar Phys. 259, 87.
+Panesar, N.K., Sterling, A.C., Moore, R.L., Chakrapani, P.: 2016, Magnetic flux cancelation as the trigger of solar quiet-region coronal jets. Astrophys. J. 832, L7.
+Pariat, E., Antiochos, S.K., DeVore, C.R.: 2009, A model for solar polar jets. Astrophys. J. 691, 61.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pucci, S., Poletto, G., Sterling, A.C., Romoli, M.: 2013, Physical parameters of standard and blowout jets. Astrophys. J. 776, 16.
+Raouafi, N.E., Patsourakos, S., Pariat, E., Young, P.R., Sterling, A.C., Savcheva, A., Shimojo, M., Moreno-Insertis, F., DeVore, C.R., Archontis, V., Török, T., Mason, H., Curdt, W., Meyer, K., Dalmasse, K., Matsui, Y.: 2016, Solar coronal jets: Observations, theory, and modeling. Space Sci. Rev. 201, 1.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Shen, Y., Liu, Y., Su, J.: 2012, Sympathetic partial and full filament eruptions observed in one solar breakout event. Astrophys. J. 750, 12.
+Shen, Y., Liu, Y., Su, J., Ibrahim, A.: 2011, Kinematics and fine structure of an unwinding polar jet observed by the Solar Dynamic Observatory/Atmospheric Imaging Assembly. Astrophys. J. 735, L43.
+Shen, Y., Liu, Y., Su, J., Deng, Y.: 2012, On a coronal blowout jet: The first observation of a simultaneously produced bubble-like CME and a jet-like CME in a solar event. Astrophys. J. 745, 164.
+Shen, Y., Liu, Y.D., Su, J., Qu, Z., Tian, Z.: 2017, On a solar blowout jet: Driving mechanism and the formationof cool and hot components. Astrophys. J. 851, 67.
+Shen, Y., Tang, Z., Li, H., Liu, Y.: 2018a, Coronal EUV, QFP, and kink waves simultaneously launched during the course of jet–loop interaction. Mon. Not. Roy. Astron. Soc. 480, L63.
+Shen, Y., Tang, Z., Miao, Y., Su, J., Liu, Y.: 2018b, EUV waves driven by the sudden expansion of transequatorial loops caused by coronal jets. Astrophys. J. 860, L8.
+Shen, Y., Liu, Y., Liu, Y.D., Su, J., Tang, Z., Miao, Y.: 2018c, Homologous large-amplitude nonlinear fast-mode magnetosonic waves driven by recurrent coronal jets. Astrophys. J. 861, 105.
+Shibata, K., Nishikawa, T., Kitai, R., Suematsu, Y.: 1982, Numerical hydrodynamics of the jet phenomena in the solar atmosphere. Solar Phys. 77, 121.
+Shibata, K., Ishido, Y., Acton, L.W., Strong, K.T., Hirayama, T., Uchida, Y., McAllister, A.H., Matsumoto, R., Tsuneta, S., Shimizu, T., Hara, H., Sakurai, T., Ichimoto, K., Nishino, Y., Ogawara, Y.: 1992, Observations of X-ray jets with the YOHKOH Soft X-ray telescope. Publ. Astron. Soc. Japan 44, L173.
+Shibata, K., Nitta, N., Strong, K.T., Matsumoto, R., Yokoyama, T., Hirayama, T., Hudson, H., Ogawara, Y.: 1994, A gigantic coronal jet ejected from a compact active region in a coronal hole. Astrophys. J. 431, L51.
+Shibata, K., Nakamura, T., Matsumoto, T., Otsuji, K., Okamoto, T.J., Nishizuka, N., Kawate, T., Watanabe, H., Nagata, S., UeNo, S., Kitai, R., Nozawa, S., Tsuneta, S., Suematsu, Y., Ichimoto, K., Shimizu, T., Katsukawa, Y., Tarbell, T.D., Berger, T.E., Lites, B.W., Shine, R.A., Title, A.M.: 2007, Chromospheric anemone jets as evidence of ubiquitous reconnection. Science 318, 1591.
+Shimojo, M., Shibata, K., Harvey, K.L.: 1998, Magnetic field properties of solar X-ray jets. Solar Phys. 178, 379.
+Shimojo, M., Hashimoto, S., Shibata, K., Hirayama, T., Hudson, H.S., Acton, L.W.: 1996, Statistical study of solar X-ray jets observed with the Yohkoh Soft X-Ray telescope. Publ. Astron. Soc. Japan 48, 123.
+Solanki, R., Srivastava, A.K., Dwivedi, B.N.: 2018, Study of two-stage coronal jet associated with a C1.4 class solar flare. Astrophys. Space Sci. 363, 233.
+Srivastava, A.K., Murawski, K.: 2011, Observations of a pulse-driven cool polar jet by SDO/AIA. Astron. Astrophys. 534, A62.
+Sterling, A.C., Moore, R.L., Falconer, D.A., Adams, M.: 2015, Small-scale filament eruptions as the driver of X-ray jets in solar coronal holes. Nature 523, 437.
+Tian, Z., Liu, Y., Shen, Y., Elmhamdi, A., Su, J., Liu, Y.D., Kordi, A.S.: 2017, Successive two-sided loop jets caused by magnetic reconnection between two adjacent filamentary threads. Astrophys. J. 845, 94.
+Uddin, W., Schmieder, B., Chandra, R., Srivastava, A.K., Kumar, P., Bisht, S.: 2012, Observations of multiple surges associated with magnetic activities in AR 10484 on 2003 October 25. Astrophys. J. 752, 70.
+Wang, Y.-M., Sheeley, N.R. Jr., Socker, D.G., Howard, R.A., Brueckner, G.E., Michels, D.J., Moses, D., St. Cyr, O.C., Llebaria, A., Delaboudinière, J.-P.: 1998, Observations of correlated white-light and extreme-ultraviolet jets from polar coronal holes. Astrophys. J. 508, 899.
+Wuelser, J.-P., Lemen, J.R., Tarbell, T.D., Wolfson, C.J., Cannon, J.C., Carpenter, B.A., Duncan, D.W., Gradwohl, G.S., Meyer, S.B., Moore, A.S., Navarro, R.L., Pearson, J.D., Rossi, G.R., Springer, L.A., Howard, R.A., Moses, J.D., Newmark, J.S., Delaboudiniere, J.-P., Artzner, G.E., Auchere, F., Bougnet, M., Bouyries, P., Bridou, F., Clotaire, J.-Y., Colas, G., Delmotte, F., Jerome, A., Lamare, M., Mercier, R., Mullot, M., Ravet, M.-F., Song, X., Bothmer, V., Deutsch, W.: 2004 EUVI: The STEREO-SECCHI extreme ultraviolet imager. In: Telescopes and Instrumentation for Solar Astrophysics 5171, 111.
+Yokoyama, T., Shibata, K.: 1995, Magnetic reconnection as the origin of X-ray jets and H\upalpha surges on the Sun. Nature 375, 42.
+Zhelyazkov, I., Chandra, R.: 2018, High mode magnetohydrodynamic waves propagation in a twisted rotating jet emerging from a filament eruption. Mon. Not. Roy. Astron. Soc. 478, 5505.
+Zhelyazkov, I., Zaqarashvili, T.V., Ofman, L., Chandra, R.: 2018, Kelvin–Helmholtz instability in a twisting solar polar coronal hole jet observed by SDO/AIA. Adv. Space Res. 61, 628.
+Zhu, X., Wang, H., Cheng, X., Huang, C.: 2017, A solar blowout jet caused by the eruption of a magnetic flux rope. Astrophys. J. 844, L20.

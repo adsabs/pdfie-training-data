@@ -1,0 +1,31 @@
+Beck, J.G.: 2000, Solar Phys. 191, 47.
+Chaplin, W.J., Dumbill, A.M., Elsworth, Y., et al.: 2003, Mon. Not. Roy. Astron. Soc. 343, 813.
+Demidov, M.L., Zhigalov, V.V., Peshcherov, V.S., Grigoryev, V.M.: 2002, Solar Phys. 209, 217.
+Dermott, S.F.: 1969, Mon. Not. Roy. Astron. Soc. 142, 143.
+Dicke, R.H.: 1962, Phys. Rev. 125, 2163.
+Fienberg, R.T.: 2006, Sky Telesc. 112(5), 8.
+Goldreich, P.: 1965, Mon. Not. Roy. Astron. Soc. 130, 159.
+Haneychuk, V.I., Kotov, V.A., Tsap, T.T.: 2003, Astron. Astrophys. 403, 1115.
+Kotov, V.A.: 1985, Solar Phys. 100, 101.
+Kotov, V.A.: 1987, Izv. Krym. Astrofiz. Obs. 77, 39.
+Kotov, V.A.: 2007, Izv. Krym. Astrofiz. Obs. 103(1), 106.
+Kotov, V.A.: 2009, Izv. Krym. Astrofiz. Obs. 105(1), 75.
+Kotov, V.A.: 2010, Izv. Krym. Astrofiz. Obs. 106(1), 202.
+Kotov, V.A.: 2013, Izv. Krym. Astrofiz. Obs. 109(1), 232.
+Kotov, V.A.: 2015, Adv. Space Res. 55, 979.
+Kotov, V.A., Scherrer, P.H., Howard, R.F., Haneychuk, V.I.: 1998, Astrophys. J. Suppl. Ser. 116, 103.
+Molchanov, A.M.: 1968, Icarus 8, 203.
+Roxburgh, I.: 1974, Nature 248, 209.
+Ruzmaikin, A.A.: 1985, Solar Phys. 100, 125.
+Scargle, J.D.: 1982, Astrophys. J. 263, 835.
+Scherrer, P.H., Wilcox, J.M., Svalgaard, L.: 1980, Astrophys. J. 241, 811.
+Scherrer, P.H., Wilcox, J.M., Kotov, V., Severny, A.B., Howard, R.: 1977a, Solar Phys. 52, 3.
+Scherrer, P.H., Wilcox, J.M., Svalgaard, L., Duvall, T.L. Jr., Dittmer, P.H., Gustafson, E.K.: 1977b, Solar Phys. 54, 353.
+Schou, J., Brown, T.M.: 1994, Astrophys. J. 434, 378.
+Schröter, E.H.: 1985, Solar Phys. 100, 141.
+Severny, A.: 1969, Nature 224, 53.
+Snodgrass, H.B., Ulrich, R.K.: 1990, Astrophys. J. 351, 309.
+Stix, M.: 1971, Astron. Astrophys. 13, 203.
+Svalgaard, L., Wilcox, J.M.: 1975, Solar Phys. 41, 461.
+Wilcox, J.M.: 1971, Publ. Astron. Soc. Pac. 83, 561.
+Wilcox, J.M., Howard, R.: 1968, Phys. Rev. Lett. 20, 1252.

@@ -1,0 +1,46 @@
+Alves, M.V., Echer, E., Gonzalez, W.D.: 2006, J. Geophys. Res. 111, A07S05.
+Arun Babu, K.P., Antia, H.M., Dugad, S.R., Gupta, S.K., Hayashi, Y., Kawakami, S., Mohanty, P.K., Nonaka, T., Oshima, A., Subramanian, P.: 2013, Astron. Astrophys. 555, A139.
+Arun Babu, K.P., Antia, H.M., Dugad, S.R., Gupta, S.K., Hayashi, Y., Kawakami, S., Mohanty, P.K., Oshima, A., Subramanian, P.: 2015, Astron. Astrophys. 580, A41.
+Badruddin: 2002, Solar Phys. 195, 209.
+Badruddin: 2006, J. Astrophys. Astron. 27, 209.
+Badruddin, Falak, Z.: 2016, Astrophys. Space Sci. 361, 253.
+Badruddin, Kumar, A.: 2015, Solar Phys. 290, 1271.
+Badruddin, Kumar, A.: 2016, Solar Phys. 291, 559.
+Badruddin, Singh, Y.P.: 2009, Planet. Space Sci. 57, 318.
+Badruddin, Vankatesan, D., Zhu, B.Y.: 1991, Solar Phys. 134, 203.
+Badruddin, Yadav, R.S., Yadav, N.R.: 1986, Solar Phys. 105, 413.
+Belov, A.V., Abunin, A., Abunina, M., Eroshenko, E., Oleneva, V., Yanke, V., Papaioannou, A., Mavromichalaki, H.: 2015, Solar Phys. 290, 1429.
+Bothmer, V., Schwenn, R.: 1995, J. Geomagn. Geoelectr. 47, 1127.
+Borovsky, J.E., Denton, M.H.: 2006, J. Geophys. Res. 111, A07S08.
+Cane, H.V.: 2000, Space Sci. Rev. 93, 55.
+Dumbović, M., Vršnak, B., Čalogović, J., Župan, R.: 2012, Astron. Astrophys. 538, A28.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2007, J. Geophys. Res. 112, A06112.
+Gopalswamy, N., Akiyama, S., Yashiro, S., Michalek, G., Lepping, R.P.: 2008, J. Atmos. Solar-Terr. Phys. 70, 245.
+Gosling, J.T., McComas, D.J., Phillips, J.L., Bame, S.J.: 1991, J. Geophys. Res. 96, 7831.
+Gupta, V., Badruddin: 2009, J. Atmos. Solar-Terr. Phys. 71, 885.
+Kumar, A., Badruddin: 2014, Solar Phys. 289, 2177.
+Kudela, K., Brenkus, R.: 2004, J. Atmos. Solar-Terr. Phys. 66, 1121.
+Kudela, K., Storini, M.: 2005, J. Atmos. Solar-Terr. Phys. 67, 907.
+Kudela, K., Storini, M., Hofer, M.Y., Belov, A.: 2000, Space Sci. Rev. 93, 153.
+Kane, R.P.: 2014, Solar Phys. 289, 2669.
+Lepping, R.P., Burlaga, L.F., Ogilvie, K.W., Tsurutani, B.T., Lazarus, A.J.: 1991, J. Geophys. Res. 96, 9425.
+Le Roux, J.A., Potgieter, M.S.: 1991, Astron. Astrophys. 243, 531.
+Lingri, D., Mavromichalaki, H., Belov, A., Eroshenko, E., Yanke, V., Abunin, A., Abunina, M.: 2016, Solar Phys. 291, 1025.
+Lockwood, J.A.: 1971, Space Sci. Rev. 12, 658.
+Lockwood, J.A., Webber, W.R., Debrunner, H.: 1991, J. Geophys. Res. 96, 11587.
+Mustajab, F., Badruddin: 2011, Astrophys. Space Sci. 331, 91.
+Mustajab, F., Badruddin: 2013, Planet. Space Sci. 82, 43.
+Oh, S.Y., Yi, Y., Kim, Y.H.: 2008, J. Geophys. Res. 113, A01103.
+Parnahaj, I., Kudela, K.: 2015, Astrophys. Space Sci. 359, 35.
+Sabbah, I.: 2000, Geophys. Res. Lett. 27, 1823.
+Singh, Y.P., Badruddin: 2006, Solar Phys. 234, 339.
+Srivastava, N., Venkatakrishnan, P.: 2002, Geophys. Res. Lett. 29, 1287.
+Usoskin, I.G., Braun, I., Gladysheva, O.G., HöRandel, J.R., JäMséN, T., Kovaltsov, G.A., Starodubtsev, S.A.: 2008, J. Geophys. Res. 113, A07102.
+Yu, X.X., Lu, H., Le, G.M., Shi, F.: 2010, Solar Phys. 263, 223.
+Yermolaev, Y.I., Lodkina, I.G., Nikolaeva, N.S., Yermolaev, M.Y.: 2013, J. Geophys. Res. 118, 4760.
+Yermolaev, Y.I., Lodkina, I.G., Nikolaeva, N.S., Yermolaev, M.Y.: 2014, J. Geophys. Res. 119, 8126.
+Venkatesan, D., Badruddin: 1990, Space Sci. Rev. 52, 121.
+Webb, D.F.: 2013, ASI Conf. Ser. 10, 37.
+Zhang, G., Burlaga, L.F.: 1988, J. Geophys. Res. 93, 2511.
+Zhang, J., Liemohn, M.W., Kozyra, J.U., Lynch, B.J., Zurbuchen, T.H.: 2004, J. Geophys. Res. 109, A09101.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, J. Geophys. Res. 112, A10102.

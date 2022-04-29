@@ -1,0 +1,40 @@
+Aschwanden, M.J.: 2004, Physics of the Solar Corona. An Introduction.
+Cargill, P.J., Klimchuk, J.A.: 1997, A nanoflare explanation for the heating of coronal loops observed by Yohkoh. Astrophys. J. 478, 799.
+Cooper, F.C., Nakariakov, V.M., Williams, D.R.: 2003, Short period fast waves in solar coronal loops. Astron. Astrophys. 409, 325.
+Cowsik, R., Singh, J., Saxena, A.K., Srinivasan, R., Raveendran, A.V.: 1999, Short-period intensity oscillations in the solar corona observed during the total solar eclipse of 26 February 1998. Solar Phys. 188, 89.
+De Moortel, I., Browning, P.: 2015, Recent advances in coronal heating. Phil. Trans. Roy. Soc. London Ser. A 373, 20140269.
+De Moortel, I., Nakariakov, V.M.: 2012, Magnetohydrodynamic waves and coronal seismology: an overview of recent results. Phil. Trans. Roy. Soc. London Ser. A 370, 3193.
+De Pontieu, B., McIntosh, S.W., Carlsson, M., Hansteen, V.H., Tarbell, T.D., Schrijver, C.J., Title, A.M., Shine, R.A., Tsuneta, S., Katsukawa, Y., Ichimoto, K., Suematsu, Y., Shimizu, T., Nagata, S.: 2007, Chromospheric Alfvénic waves strong enough to power the solar wind. Science 318, 1574.
+Hollweg, J.V.: 1982, Heating of the corona and solar wind by switch-on shocks. Astrophys. J. 254, 806.
+Hudson, H.S.: 1991, Solar flares, microflares, nanoflares, and coronal heating. Solar Phys. 133, 357.
+Jess, D.B., Mathioudakis, M., Erdélyi, R., Crockett, P.J., Keenan, F.P., Christian, D.J.: 2009, Alfvén waves in the lower solar atmosphere. Science 323, 1582.
+Jess, D.B., Morton, R.J., Verth, G., Fedun, V., Grant, S.D.T., Giagkiozis, I.: 2015, Multiwavelength studies of MHD waves in the solar chromosphere. An overview of recent results. Space Sci. Rev. 190, 103.
+Klimchuk, J.A.: 2006, On solving the coronal heating problem. Solar Phys. 234, 41.
+Kosugi, T., Matsuzaki, K., Sakao, T., Shimizu, T., Sone, Y., Tachikawa, S., Hashimoto, T., Minesugi, K., Ohnishi, A., Yamada, T., Tsuneta, S., Hara, H., Ichimoto, K., Suematsu, Y., Shimojo, M., Watanabe, T., Shimada, S., Davis, J.M., Hill, L.D., Owens, J.K., Title, A.M., Culhane, J.L., Harra, L.K., Doschek, G.A., Golub, L.: 2007, The hinode (solar-B) mission: an overview. Solar Phys. 243, 3.
+Koutchmy, S., Belmahdi, M., Coulter, R.L., Demoulin, P., Gaizauskas, V., MacQueen, R.M., Monnet, G., Mouette, J., Noens, J.C., November, L.J.: 1994, CFHT eclipse observation of the very fine-scale solar corona. Astron. Astrophys. 281, 249.
+Krucker, S., Benz, A.O.: 1998, Energy distribution of heating processes in the quiet solar corona. Astrophys. J. Lett. 501, L213.
+Kudoh, T., Shibata, K.: 1999, Alfvén wave model of spicules and coronal heating. Astrophys. J. 514, 493.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Levine, R.H.: 1974, A new theory of coronal heating. Astrophys. J. 190, 457.
+Matsumoto, T.: 2018, Thermal responses in a coronal loop maintained by wave heating mechanisms. Mon. Not. Roy. Astron. Soc. 476, 3328.
+Morton, R.J., Tomczyk, S., Pinto, R.: 2015, Investigating Alfvénic wave propagation in coronal open-field regions. Nat. Commun. 6, 7813.
+Parker, E.N.: 1988, Nanoflares and the solar X-ray corona. Astrophys. J. 330, 474.
+Parnell, C.E., Jupp, P.E.: 2000, Statistical analysis of the energy distribution of nanoflares in the quiet Sun. Astrophys. J. 529, 554.
+Pasachoff, J.M.: 2009, Solar eclipses as an astrophysical laboratory. Nature 459, 789.
+Phillips, K.J.H., Read, P.D., Gallagher, P.T., Keenan, F.P., Rudawy, P., Rompolt, B., Berlicki, A., Buczylko, A., Diego, F., Barnsley, R., Smartt, R.N., Pasachoff, J.M., Babcock, B.A.: 2000, SECIS: the solar eclipse coronal eclipse imaging system. Solar Phys. 193, 259.
+Pontin, D.I., Hornig, G.: 2015, The structure of current layers and degree of field-line braiding in coronal loops. Astrophys. J. 805, 47.
+Pontin, D.I., Janvier, M., Tiwari, S.K., Galsgaard, K., Winebarger, A.R., Cirtain, J.W.: 2017, Observable signatures of energy release in braided coronal loops. Astrophys. J. 837, 108.
+Porter, L.J., Klimchuk, J.A., Sturrock, P.A.: 1994, The possible role of MHD waves in heating the solar corona. Astrophys. J. 435, 482.
+Rudawy, P., Phillips, K.J.H., Gallagher, P.T., Williams, D.R., Rompolt, B., Keenan, F.P.: 2004, Search for 1 – 10 Hz modulations in coronal emission with SECIS during the August 11, 1999 eclipse. Astron. Astrophys. 416, 1179.
+Rudawy, P., Phillips, K.J.H., Buczylko, A., Williams, D.R., Keenan, F.P.: 2010, Search for rapid changes in the visible-light corona during the 21 June 2001 total solar eclipse. Solar Phys. 267, 305.
+Sarkar, A., Walsh, R.W.: 2008, Hydrodynamic simulation of a nanoflare-heated multistrand solar atmospheric loop. Astrophys. J. 683, 516.
+Schnorr, K., Mäckel, V., Oreshkina, N.S., Augustin, S., Brunner, F., Harman, Z., Keitel, C.H., Ullrich, J., Crespo López-Urrutia, J.R.: 2013, Coronium in the laboratory: measuring the Fe XIV green coronal line by laser spectroscopy. Astrophys. J. 776, 121.
+Singh, J., Hasan, S.S., Gupta, G.R., Banerjee, D., Muneer, S., Raju, K.P., Bagare, S.P., Srinivasan, R.: 2009, Intensity oscillation in the corona as observed during the total solar eclipse of 29 March 2006. Solar Phys. 260, 125.
+Starck, J.-L., Siebenmorgen, R., Gredel, R.: 1997, Spectral analysis using the wavelet transform. Astrophys. J. 482, 1011.
+Threlfall, J., De Moortel, I., McIntosh, S.W., Bethge, C.: 2013, First comparison of wave observations from CoMP and AIA/SDO. Astron. Astrophys. 556, A124.
+Tomczyk, S., McIntosh, S.W.: 2009, Time–distance seismology of the solar corona with CoMP. Astrophys. J. 697, 1384.
+Tomczyk, S., McIntosh, S.W., Keil, S.L., Judge, P.G., Schad, T., Seeley, D.H., Edmondson, J.: 2007, Alfvén waves in the solar corona. Science 317, 1192.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Am. Meteorol. Soc. 79, 61.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008, The solar optical telescope for the hinode mission: an overview. Solar Phys. 249, 167.
+van Ballegooijen, A.A., Asgari-Targhi, M., Voss, A.: 2017, The heating of solar coronal loops by Alfvén wave turbulence. Astrophys. J. 849, 46.
+Williams, D.R., Phillips, K.J.H., Rudawy, P., Mathioudakis, M., Gallagher, P.T., O’Shea, E., Keenan, F.P., Read, P., Rompolt, B.: 2001, High-frequency oscillations in a solar active region coronal loop. Mon. Not. Roy. Astron. Soc. 326, 428.

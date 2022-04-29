@@ -1,0 +1,49 @@
+Bhowmik, P., Nandy, D.: 2018, Prediction of the strength and timing of sunspot cycle 25 reveals decadal-scale space environmental conditions. Nat. Commun. 9, 5209.
+Cameron, R.H., Jiang, J., Schüssler, M., Gizon, L.: 2014, Physical causes of solar cycle amplitude variability. J. Geophys. Res. 119, 680.
+Charbonneau, P.: 2014, Solar dynamo theory. Annu. Rev. Astron. Astrophys. 52, 251.
+Charbonneau, P., Tomczyk, S., Schou, J., Thompson, M.J.: 1998, The rotation of the solar core inferred by genetic forward modeling. Astrophys. J. 496, 1015.
+Choudhuri, A.R., Chatterjee, P., Jiang, J.: 2007, Predicting solar cycle 24 with a solar dynamo model. Phys. Rev. Lett. 98(13), 131103.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: assembling all corrections. Solar Phys. 291, 2629.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Revisiting the sunspot number. a 400-year perspective on the solar cycle. Space Sci. Rev. 186, 35.
+Dasi-Espuig, M., Solanki, S.K., Krivova, N.A., Cameron, R., Peñuela, T.: 2010, Sunspot group tilt angles and the strength of the solar cycle. Astron. Astrophys. 518, A7.
+Dikpati, M., Charbonneau, P.: 1999, A Babcock–Leighton flux transport dynamo with solar-like differential rotation. Astrophys. J. 518, 508.
+Dikpati, M., de Toma, G., Gilman, P.A.: 2006, Predicting the strength of solar cycle 24 using a flux-transport dynamo-based tool. Geophys. Res. Lett. 33, L05102.
+Fan, Y.: 2009, Magnetic fields in the solar convection zone. Living Rev. Solar Phys. 6, 4.
+Gopalswamy, N., Mäkelä, P., Yashiro, S., Akiyama, S.: 2018, Long-term solar activity studies using microwave imaging observations and prediction for cycle 25. J. Atmos. Solar-Terr. Phys. 176, 26.
+Hathaway, D.H., Upton, L.A.: 2016, Predicting the amplitude and hemispheric asymmetry of solar cycle 25 with surface flux transport. J. Geophys. Res. 121, 10.
+Hawkes, G., Berger, M.A.: 2018, Magnetic helicity as a predictor of the solar cycle. Solar Phys. 293, 109.
+Hazra, G., Karak, B.B., Choudhuri, A.R.: 2014, Is a deep one-cell meridional circulation essential for the flux transport solar dynamo? Astrophys. J. 782, 93.
+Iijima, H., Hotta, H., Imada, S., Kusano, K., Shiota, D.: 2017, Improvement of solar-cycle prediction: plateau of solar axial dipole moment. Astron. Astrophys. 607, L2.
+Jiang, J., Cameron, R.H., Schüssler, M.: 2014, Effects of the scatter in sunspot group tilt angles on the large-scale magnetic field at the solar surface. Astrophys. J. 791, 5.
+Jiang, J., Cameron, R.H., Schüssler, M.: 2015, The cause of the weak solar cycle 24. Astrophys. J. Lett. 808, L28.
+Jiang, J., Işik, E., Cameron, R.H., Schmitt, D., Schüssler, M.: 2010, The effect of activity-related meridional flow modulation on the strength of the solar polar magnetic field. Astrophys. J. 717, 597.
+Jiang, J., Wang, J.-X., Jiao, Q.-R., Cao, J.-B.: 2018, Predictability of the solar cycle over one cycle. Astrophys. J. 863, 159.
+Kakad, B., Kakad, A., Ramesh, D.S.: 2017, Shannon entropy-based prediction of solar cycle 25. Solar Phys. 292, 95.
+Karak, B.B., Miesch, M.: 2017, Solar cycle variability induced by tilt angle scatter in a Babcock–Leighton solar dynamo model. Astrophys. J. 847, 69.
+Karak, B.B., Jiang, J., Miesch, M.S., Charbonneau, P., Choudhuri, A.R.: 2014, Flux transport dynamos: from kinematics to dynamics. Space Sci. Rev. 186, 561.
+Lemerle, A., Charbonneau, P.: 2017, A coupled 2{×}2d Babcock–Leighton solar dynamo model. II. Reference dynamo solutions. Astrophys. J. 834, 133.
+Lemerle, A., Charbonneau, P., Carignan-Dugas, A.: 2015, A coupled 2{×}2d Babcock–Leighton solar dynamo model. I. Surface magnetic flux evolution. Astrophys. J. 810, 78.
+Li, F.Y., Kong, D.F., Xie, J.L., Xiang, N.B., Xu, J.C.: 2018, Solar cycle characteristics and their application in the prediction of cycle 25. J. Atmos. Solar-Terr. Phys. 181, 110.
+Macario-Rojas, A., Smith, K.L., Roberts, P.C.E.: 2018, Solar activity simulation and forecast with a flux-transport dynamo. Mon. Not. Roy. Astron. Soc. 479, 3791.
+McClintock, B.H., Norton, A.A.: 2013, Recovering Joy’s law as a function of solar cycle, hemisphere, and longitude. Solar Phys. 287, 215.
+Muñoz-Jaramillo, A., Dasi-Espuig, M., Balmaceda, L.A., DeLuca, E.E.: 2013, Solar cycle propagation, memory, and prediction: insights from a century of magnetic proxies. Astrophys. J. Lett. 767, L25.
+Nagy, M., Lemerle, A., Charbonneau, P.: 2019, Impact of rogue active regions on hemispheric asymmetry. Adv. Space Res. 63, 1425.
+Nagy, M., Lemerle, A., Labonville, F., Petrovay, K., Charbonneau, P.: 2017, The effect of “rogue” active regions on the solar cycle. Solar Phys. 292, 167.
+Pesnell, W.D.: 2012, Solar cycle predictions (invited review). Solar Phys. 281, 507.
+Pesnell, W.D., Schatten, K.H.: 2018, An early prediction of the amplitude of solar cycle 25. Solar Phys. 293, 112.
+Petrovay, K.: 2010, Solar cycle prediction. Living Rev. Solar Phys. 7, 6.
+Petrovay, K., Nagy, M., Gerják, T., Juhász, L.: 2018, Precursors of an upcoming solar cycle at high latitudes from coronal green line data. J. Atmos. Solar-Terr. Phys. 176, 15.
+Rajaguru, S.P., Antia, H.M.: 2015, Meridional circulation in the solar convection zone: time-distance helioseismic inferences from four years of HMI/SDO observations. Astrophys. J. 813, 114.
+Sarp, V., Kilcik, A., Yurchyshyn, V., Rozelot, J.P., Ozguc, A.: 2018, Prediction of solar cycle 25: a non-linear approach. Mon. Not. Roy. Astron. Soc. 481, 2981.
+Schatten, K.H., Scherrer, P.H., Svalgaard, L., Wilcox, J.M.: 1978, Using dynamo theory to predict the sunspot number during solar cycle 21. Geophys. Res. Lett. 5, 411.
+Schüssler, M., Caligari, P., Ferriz-Mas, A., Moreno-Insertis, F.: 1994, Instability and eruption of magnetic flux tubes in the solar convection zone. Astron. Astrophys. 281, L69.
+Singh, A.K., Bhargawa, A.: 2017, An early prediction of 25th solar cycle using Hurst exponent. Astrophys. Space Sci. 362, 199.
+Svalgaard, L., Cliver, E.W., Kamide, Y.: 2005, Sunspot cycle 24: smallest cycle in 100 years? Geophys. Res. Lett. 32, L01104.
+Tlatova, K., Tlatov, A., Pevtsov, A., Mursula, K., Vasil’eva, V., Heikkinen, E., Bertello, L., Pevtsov, A., Virtanen, I., Karachik, N.: 2018, Tilt of sunspot bipoles in solar Cycles 15 to 24. Solar Phys. 293, 118.
+Upton, L.A., Hathaway, D.H.: 2018, An updated solar cycle 25 prediction with AFT: the modern minimum, arXiv e-prints.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1989, Average properties of bipolar magnetic regions during sunspot cycle 21. Solar Phys. 124, 81.
+Whitbread, T., Yeates, A.R., Muñoz-Jaramillo, A.: 2018, How many active regions are necessary to predict the solar dipole moment? Astrophys. J. 863, 116.
+Yeates, A.R., Mackay, D.H., van Ballegooijen, A.A.: 2007, Modelling the global solar corona: filament chirality observations and surface simulations. Solar Phys. 245, 87.
+Yeates, A.R., Nandy, D., Mackay, D.H.: 2008, Exploring the physical basis of solar cycle predictions: flux transport dynamics and persistence of memory in advection-versus diffusion-dominated solar convection zones. Astrophys. J. 673, 544.
+Zhao, J., Bogart, R.S., Kosovichev, A.G., Duvall, T.L. Jr., Hartlep, T.: 2013, Detection of equatorward meridional flow and evidence of double-cell meridional circulation inside the Sun. Astrophys. J. Lett. 774, L29.
+Zharkova, V.V., Shepherd, S.J., Popova, E., Zharkov, S.I.: 2015, Heartbeat of the Sun from principal component analysis and prediction of solar activity on a millennium timescale. Sci. Rep. 5, 15689.

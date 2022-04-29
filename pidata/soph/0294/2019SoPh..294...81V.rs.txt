@@ -1,0 +1,14 @@
+Altschuler, M.D., Perry, R.M.: 1972, On determining the electron density distribution of the solar corona from K-coronameter data. Solar Phys. 23, 410.
+Butala, M.D., Hewett, R.J., Frazin, R.A., Kamalabadi, F.: 2010, Dynamic three-dimensional tomography of the solar corona. Solar Phys. 262, 495.
+Frazin, R.A.: 2000, Tomography of the solar corona. I. A robust, regularized, positive estimation method. Astrophys. J. 530, 1026.
+Frazin, R.A., Janzen, P.: 2002, Tomography of the solar corona. II. Robust, regularized, positive estimation of the three-dimensional electron density distribution from LASCO-C2 polarized white-light images. Astrophys. J. 570, 408.
+Frazin, R.A., Lamy, P., Llebaria, A., Vásquez, A.M.: 2010, Three-dimensional electron density from tomographic analysis of LASCO-C2 images of the K-corona total brightness. Solar Phys. 265, 19.
+Gardès, B., Lamy, P., Llebaria, A.: 2013, Photometric calibration of the LASCO-C2 coronagraph over 14 years (1996 – 2009). Solar Phys. 283, 667.
+Jackson, B.V., Hick, P.P., Buffington, A., Bisi, M.M., Clover, J.M., Tokumaru, M., Kojima, M., Fujiki, K.: 2011, Three-dimensional reconstruction of heliospheric structure using iterative tomography: a review. J. Atmos. Solar-Terr. Phys. 73, 1214.
+Lamy, P., Boclet, B., Wojak, J., Vibert, D.: 2017, Anomalous surge of the white-light corona at the onset of the declining phase of solar cycle 24. Solar Phys. 292, 60.
+Minnaert, M.: 1930, On the continuous spectrum of the corona and its polarisation. With 3 figures. (Received July 30, 1930). Z. Astrophys. 1, 209.
+van de Hulst, H.C.: 1950, The electron density of the solar corona. Bull. Astron. Inst. Neth. 11, 135.
+van der Holst, B., Sokolov, I.V., Meng, X., Jin, M., Manchester, W.B. IV, Tóth, G., Gombosi, T.I.: 2014, Alfvén Wave Solar Model (AWSoM): coronal heating. Astrophys. J. 782, 81.
+Vibert, D., Peillon, C., Lamy, P., Frazin, R.A., Wojak, J.: 2016, Time-dependent tomographic reconstruction of the solar corona. Astron. Comput. 17, 144.
+Vourlidas, A., Howard, R.A., Plunkett, S.P., Korendyke, C.M., Thernisien, A.F.R., Wang, D., Rich, N., Carter, M.T., Chua, D.H., Socker, D.G., Linton, M.G., Morrill, J.S., Lynch, S., Thurn, A., Van Duyne, P., Hagood, R., Clifford, G., Grey, P.J., Velli, M., Liewer, P.C., Hall, J.R., DeJong, E.M., Mikic, Z., Rochus, P., Mazy, E., Bothmer, V., Rodmann, J.: 2016, The Wide-Field Imager for Solar Probe Plus (WISPR). Space Sci. Rev. 204, 83.
+Xiong, M., Davies, J.A., Feng, X., Li, B., Yang, L., Xia, L., Harrison, R.A., Hayashi, K., Li, H., Zhou, Y.: 2018, Prospective white-light imaging and in situ measurements of quiescent large-scale solar-wind streams from the Parker solar probe and solar orbiter. Astrophys. J. 868, 137.

@@ -1,0 +1,30 @@
+Allende Prieto, C., Asplund, M., Fabiani Bendicho, P.: 2004, Astron. Astrophys. 423, 1109.
+Balthasar, H.: 1988, Astron. Astrophys. Suppl. Ser. 72, 473.
+Canfield, R.C., Beckers, J.M.: 1976, Colloques Internationaux du CNRS (AFCRL-TR-0592, part 2). Cayrel, R., Steinberg, M. (eds.), 250, 291.
+Elste, G.: 1986, Solar Phys. 107, 47.
+Gray, D.F.: 1988, Lectures on Spectral-Line Analysis: F, G, and K Stars, Arva, Ontario.
+Gurtovenko, E.A., Kostyk, R.I., Orlova, T.V., Troian, V.I., Fedorchenko, G.L.: 1975, Profiles of Selected Fraunhofer Lines for Different Positions Center-Limb on the Solar Disk, Naukova Dumka, Kiev (in Russian).
+Gurtovenko, E.A., Ratnikova, V.A.: 1976, Astrom. Astrofis. 30, 14.
+Holweger, H.: 1967, Z. Astrophys. 65, 365.
+Jevremović, D., Vince, I., Erkapić, S., Popović, L.: 1993, Publ. Obs. Astron. Belgrade 44, 33.
+Kostik, R.I.: 1982, Solar Phys. 78, 39.
+Kurucz, R.L.: 1993, Kurucz CD-ROM No. 13, Harvard-Smithsonian Center for Astrophysics, Cambridge.
+Kurucz, R.L., Bell, B.: 1995, Kurucz CD-ROM No. 23, Harvard-Smithsonian Center for Astrophysics, Cambridge.
+Lind, K., et al.: 2017, Mon. Not. Roy. Astron. Soc. 4(68), 4311.
+Meylan, T., Furenlid, I., Wiggs, M.S., Kurucz, R.L.: 1993, Astrophys. J. Suppl. 85, 163.
+Meléndez, J., Asplund, M.: 2008, Astron. Astrophys. 490, 817.
+Moore, C.E., Minnaert, M.G.J., Houtgast, J.: 1966, The Solar Spectrum 2935 A to 8770 A, National Bureau of Standards Monograph/US Government Printing Office, Washington.
+Nakai, Y., Hattori, A.: 1985, Mem. Fac. Sci., Kyoto Univ., Ser. Phys. Astrophys. Geophys. Chem. 36, 385.
+Neckel, H.: 1994, In: Pap, J.M., Frolich, C., Hudson, H.S., Solanki, S. (eds.) The Sun as a Variable Star, Solar and Stellar Irradiance Variations, IAU Coll. 143, Cambridge University Press, Cambridge, 37.
+Neckel, H.: 1999, Solar Phys. 184, 421.
+Nissen, P.E.: 1965, Ann. Astrophys. 28, 556.
+Pereira, T.M.D., Asplund, M., Kiselman, D.: 2009, Astron. Astrophys. 5(08), 1403.
+Rodríguez Hidalgo, I., Collados, M., Vázquez, M.: 1994, Astron. Astrophys. 283, 263.
+Rutten, R.J., van der Zalm, E.B.J.: 1984a, Astron. Astrophys. Suppl. Ser. 55, 143.
+Rutten, R.J., van der Zalm, E.B.J.: 1984b, Astron. Astrophys. Suppl. Ser. 55, 171.
+Takeda, Y.: 1995, Publ. Astron. Soc. Japan 47, 287.
+Takeda, Y., Ohkubo, M., Sadakane, K.: 2002, Publ. Astron. Soc. Japan 54, 451.
+Takeda, Y., Sato, B., Omiya, M., Harakawa, H.: 2015, Publ. Astron. Soc. Japan 67, 24.
+Takeda, Y., UeNo, S.: 2014, Publ. Astron. Soc. Japan 66, 32.
+Takeda, Y., UeNo, S.: 2017a, Publ. Astron. Soc. Japan 69, 46.
+Takeda, Y., UeNo, S.: 2017b, Solar Phys. 292, 123.

@@ -1,0 +1,25 @@
+Cameron, R., Gizon, L., Duvall, T.L. Jr.: 2008, Helioseismology of sunspots: confronting observations with three-dimensional MHD simulations of wave propagation. Solar Phys. 251, 291.
+Couvidat, S., Zhao, J., Birch, A.C., Kosovichev, A.G., Duvall, T.L. Jr., Parchevsky, K., Scherrer, P.H.: 2012, Implementation and comparison of acoustic travel-time measurement procedures for the Solar Dynamics Observatory/Helioseismic and Magnetic Imager time–distance helioseismology pipeline. Solar Phys. 275, 357.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: an overview. Solar Phys. 162, 1.
+Duvall, T.L. Jr., Gizon, L.: 2000, Time–distance helioseismology with f modes as a method for measurement of near-surface flows. Solar Phys. 192, 177.
+Duvall, T.L. Jr., Jefferies, S.M., Harvey, J.W., Pomerantz, M.A.: 1993, Time–distance helioseismology. Nature 362, 430.
+Duvall, T.L. Jr., Kosovichev, A.G., Scherrer, P.H., Milford, P.N.: 1996, Detection of subsurface supergranulation structure and flows from MDI high-resolution data using time–distance techniques. In: American Astronomical Society Meeting Abstracts #188, Bull. Am. Astron. Soc. 28, 898.
+Duvall, T.L. Jr., Kosovichev, A.G., Scherrer, P.H., Bogart, R.S., Bush, R.I., De Forest, C., Hoeksema, J.T., Schou, J., Saba, J.L.R., Tarbell, T.D., Title, A.M., Wolfson, C.J., Milford, P.N.: 1997, Time–distance helioseismology with the MDI instrument: initial results. Solar Phys. 170, 63.
+Giles, P.M.M.: 1999, Time–distance measurements of large scale flows in the solar convection zone. PhD thesis, Stanford University. Chapter 2.
+Gizon, L., Birch, A.C.: 2004, Time–distance helioseismology: noise estimation. Astrophys. J. 614, 472.
+Gizon, L., Birch, A.C.: 2005, Local helioseismology. Liv. Rev. Solar Phys. 2, 6.
+Gizon, L., Birch, A.C., Spruit, H.C.: 2010, Local helioseismology: three-dimensional imaging of the solar interior. Annu. Rev. Astron. Astrophys. 48, 289.
+Gouédard, P., Stehly, L., Brenguier, F., Campillo, M., Colin de Verdière, Y., Larose, E., Margerin, L., Roux, P., Sánchez-Sesma, F.J., Shapiro, N.M., Weaver, R.L.: 2008, Cross-correlation of random fields: mathematical approach and applications. Geophys. Prospect. 56, 375.
+Hess Webber, S.A.: 2016, Coronal holes and solar f-mode wave scattering off linear boundaries. PhD Thesis, George Mason University.
+Hill, F.: 1988, Rings and trumpets – three-dimensional power spectra of solar oscillations. Astrophys. J. 333, 996.
+Hindman, B.W., Gizon, L., Duvall, T.L. Jr., Haber, D.A., Toomre, J.: 2004, Comparison of solar subsurface flows assessed by ring and time–distance analyses. Astrophys. J. 613, 1253.
+Howe, R., Haber, D.A., Bogart, R.S., Zharkov, S., Baker, D., Harra, L., van Driel-Gesztelyi, L.: 2013, Can we detect local helioseismic parameter shifts in coronal holes? J. Phys. Conf. Ser. 440, 012019.
+Ilonidis, S., Zhao, J., Kosovichev, A.: 2011, Detection of emerging sunspot regions in the solar interior. Science 333, 993.
+Lindsey, C., Braun, D.C.: 1997, Helioseismic holography. Astrophys. J. 485, 895.
+Lindsey, C., Braun, D.C., Jefferies, S.M.: 1993, Local helioseismology of subsurface structure. In: Brown, T.M. (ed.) GONG 1992. Seismic Investigation of the Sun and Stars, CS-42, Astron. Soc. Pacific, San Francisco, 81.
+Lobkis, O.I., Weaver, R.L.: 2001, On the emergence of the Green’s function in the correlations of a diffuse field. J. Acoust. Soc. Am. 110, 3011.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I. (MDI Engineering Team): 1995, The solar oscillations investigation – Michelson Doppler Imager. Solar Phys. 162, 129.
+Schou, J.: 2004, Low frequency modes. In: Danesy, D. (ed.) SOHO 14 Helio- and Asteroseismology: Towards a Golden Future, SP-559, ESA, Noordwijk, 134.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Tsai, V.C.: 2010, The relationship between noise correlation and the Green’s function in the presence of degeneracy and the absence of equipartition. Geophys. J. Int. 182, 1509.

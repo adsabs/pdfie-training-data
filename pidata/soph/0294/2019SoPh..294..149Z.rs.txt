@@ -1,0 +1,65 @@
+Berdichevsky, D.B.: 2013, On fields and mass constraints for the uniform propagation of magnetic-flux ropes undergoing isotropic expansion. Solar Phys. 284(1), 245.
+Berdichevsky, D.B., Lepping, R.P., Farrugia, C.J.: 2003, Geometric considerations of the evolution of magnetic flux ropes. Phys. Rev. E 67(3), 036405.
+Burlaga, L.F.: 1968, Micro-scale structures in the interplanetary medium. Solar Phys. 4, 67.
+Burlaga, L.: 1995, Interplanetary Magnetohydrodynamics, Oxford University Press, New York. ISBN 0-19-508472-1.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock – Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Chian, A.C.-L., Muñoz, P.R.: 2011, Detection of current sheets and magnetic reconnections at the turbulent leading edge of an interplanetary coronal mass ejection. Astrophys. J. Lett. 733(2), L34.
+Dasso, S., Mandrini, C.H., Démoulin, P., Luoni, M.L.: 2006, A new model-independent method to compute magnetic helicity in magnetic clouds. Astron. Astrophys. 455(1), 349.
+Farrugia, C.J., Burlaga, L.F., Lepping, R.P., Osherovich, V.A.: 1992, A comparative study of dynamically expanding force-free, constant-alpha magnetic configurations with applications to magnetic clouds. In: Marsch, E., Schwenn, R. (eds.) Solar Wind Seven Cospar, Pergamon, Amsterdam, 611.
+Farrugia, C.J., Vasquez, B., Richardson, I.G., Torbert, R.B., Burlaga, L.F., Biernat, H.K., Mühlbachler, S., Ogilvie, K.W., Lepping, R.P., Scudder, J.D., Berdichevsky, D.E., Semenov, V.S., Kubyshkin, I.V., Phan, T.-D., Lin, R.P.: 2001, A reconnection layer associated with a magnetic cloud. Adv. Space Res. 28(5), 759.
+Gosling, J.T., Skoug, R.M., McComas, D.J., Smith, C.W.: 2005, Direct evidence for magnetic reconnection in the solar wind near 1 AU. J. Geophys. Res. 110(A1), A01107.
+Greco, A., Chuychai, P., Matthaeus, W.H., Servidio, S., Dmitruk, P.: 2008, Intermittent MHD structures and classical discontinuities. Geophys. Res. Lett. 35, L19111.
+Greco, A., Matthaeus, W.H., Servidio, S., Chuychai, P., Dmitruk, P.: 2009a, Statistical analysis of discontinuities in solar wind ACE data and comparison with intermittent MHD turbulence. Astrophys. J. Lett. 691(2), L111.
+Greco, A., Matthaeus, W.H., Servidio, S., Dmitruk, P.: 2009b, Waiting-time distributions of magnetic discontinuities: clustering or Poisson process? Phys. Rev. E 80, 046401.
+Greco, A., Matthaeus, W.H., Perri, S., Osman, K.T., Servidio, S., Wan, M., Dmitruk, P.: 2018, Partial variance of increments method in solar wind observations and plasma simulations. Space Sci. Rev. 214, 1.
+Hudson, P.D.: 1970, Discontinuities in an anisotropic plasma and their identification in the solar wind. Planet. Space Sci. 18, 1611.
+Kilpua, E., Koskinen, H.E.J., Pulkkinen, T.I.: 2017, Coronal mass ejections and their sheath regions in interplanetary space. Living Rev. Solar Phys. 14(1), 5.
+Kolmogorov, A.: 1941, The local structure of turbulence in incompressible viscous fluid for very large Reynolds’ numbers. Dokl. Akad. Nauk SSSR 30, 301.
+Lepping, R.P., Jones, J.A., Burlaga, L.F.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Lepping, R.P., Wu, C.-C., McClernan, K.: 2003, Two-dimensional curvature of large angle interplanetary MHD discontinuity surfaces: IMP-8 and WIND observations. J. Geophys. Res. 108(A7), 1279.
+Lepping, R.P., Acũna, M.H., Burlaga, L.F., Farrell, W.M., Slavin, J.A., Schatten, K.H., Mariani, F., Ness, N.F., Neubauer, F.M., Whang, Y.C., Byrnes, J.B., Kennon, R.S., Panetta, P.V., Scheifele, J., Worley, E.M.: 1995, The wind magnetic field investigation. Space Sci. Rev. 71, 207.
+Lepping, R.P., Berdichevsky, D.B., Wu, C.-C., Szabo, A., Narock, T., Mariani, F., Lazarus, A.J., Quivers, A.J.: 2006, A summary of WIND magnetic clouds for years 1995 – 2003: model-fitted parameters, associated errors and classifications. Ann. Geophys. 24(1), 215.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B., Szabo, A.: 2011, Magnetic clouds at/near the 2007 – 2009 solar minimum: frequency of occurrence and some unusual properties. Solar Phys. 274, 345.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B., Szabo, A.: 2015, Wind magnetic clouds for 2010 – 2012: model parameter fittings, associated shock waves, and comparisons to earlier periods. Solar Phys. 290, 2265.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B., Szabo, A.: 2018, Wind magnetic clouds for the period 2013 – 2015: model fitting, types, associated shock waves, and comparisons to other periods. Solar Phys. 293, 65.
+Lin, R.P., Anderson, K.A., Ashford, S., Carlson, C., Curtis, D., Ergun, R., Larson, D., McFadden, J., McCarthy, M., Parks, G.K., Rème, H., Bosqued, J.M., Coutelier, J., Cotin, F., D’Uston, C., Wenzel, K.-P., Sanderson, T.R., Henrion, J., Ronnet, J.C., Paschmann, G.: 1995, A three-dimensional plasma and energetic particle investigation for the wind spacecraft. Space Sci. Rev. 71, 125.
+Lopez, R.E.: 1987, Solar cycle invariance in solar wind proton temperature relationships. J. Geophys. Res. 92, 11189.
+Marsch, E., Tu, C.Y.: 1994, Non-Gaussian probability distributions of solar wind fluctuations. Ann. Geophys. 12, 1127.
+Ogilvie, K.W., Chornay, D.J., Fritzenreiter, R.J., Hunsaker, F., Keller, J., Lobell, J., Miller, G., Scudder, J.D., Sittler, J.E.C., Torbert, R.B., Bodet, D., Needell, G., Lazarus, A.J., Steinberg, J.T., Tappan, J.H., Mavretic, A., Gergin, E.: 1995, SWE, a comprehensive plasma instrument for the wind spacecraft. Space Sci. Rev. 71, 55.
+Osherovich, V.A., Farrugia, C.J., Burlaga, L.F.: 1993, Nonlinear evolution of magnetic flux ropes 1. Low-beta limit. J. Geophys. Res. 98(A8), 13225.
+Osherovich, V.A., Farrugia, C.J., Burlaga, L.F.: 1995, Nonlinear evolution of magnetic flux ropes. 2. Finite beta plasma. J. Geophys. Res. 100(A7), 12307.
+Osherovich, V.A., Fainberg, J., Stone, R.G., Fitzenreiter, R., Viñas, A.F.: 1998, Measurements of polytropic index in the January 10 – 11, 1997 magnetic cloud observed by WIND. Geophys. Res. Lett. 25(15), 3003.
+Osman, K.T., Matthaeus, W.H., Greco, A., Servidio, S.: 2011, Evidence for inhomogeneous heating in the solar wind. Astrophys. J. 727, L11.
+Osman, K.T., Matthaeus, W.H., Hnat, B., Chapman, S.C.: 2012b, Kinetic signatures and intermittent turbulence in the solar wind plasma. Phys. Rev. Lett. 108, 261103.
+Osman, K.T., Matthaeus, W.H., Wan, M., Rappazzo, A.F.: 2012a, Intermittency and local heating in the solar wind. Phys. Rev. Lett. 108, 261102.
+Osman, K.T., Matthaeus, W.H., Gosling, J.T., Greco, A., Servidio, S., Hnat, B., Chapman, S.C., Phan, T.D.: 2014, Magnetic reconnection and intermittent turbulence in the solar wind. Phys. Rev. Lett. 112, 215002.
+Petschek, H.E.: 1964, Magnetic field annihilation. NASA SP-50, 425.
+Ruffenach, A., Lavraud, B., Owens, M.J., Sauvaud, J.-A., Savani, N.P., Rouillard, A.P., Démoulin, P., Foullon, C., Opitz, A., Fedorov, A., Jacquey, C.J., Génot, V., Louarn, P., Luhmann, J.G., Russell, C.T., Farrugia, C.J., Galvin, A.B.: 2012, Multispacecraft observation of magnetic cloud erosion by magnetic reconnection during propagation. J. Geophys. Res. 117, A09101.
+Ruffenach, A., Lavraud, B., Farrugia, C.J., Démoulin, P., Dasso, S., Owens, M.J., Sauvaud, J.-A., Rouillard, A.P., Lynnyk, A., Foullon, C., Savani, N.P., Luhmann, J.G., Galvin, A.B.: 2015, Statistical study of magnetic cloud erosion by magnetic reconnection. J. Geophys. Res. 120, 43.
+Servidio, S., Greco, A., Matthaeus, W.H., Osman, K.T., Dmitruk, P.: 2011, Statistical association of discontinuities and reconnection in magnetohydrodynamic turbulence. J. Geophys. Res. 116, A09102.
+Shimazu, H., Vandas, M.: 2002, A self-similar solution of expanding cylindrical flux ropes for any polytropic index value. Earth Planets Space 54, 783.
+Tessein, J.A., Matthaeus, W.H., Wan, M., Osman, K.T., Ruffolo, D., Giacalone, J.: 2013, Association of suprathermal particles with coherent structures and shocks. Astrophys. J. 776, L8.
+Tessein, J.A., Ruffolo, D., Matthaeus, W.H., Wan, M., Giacalone, J., Neugebauer, M.: 2015, Effect of coherent structures on energetic particle intensity in the solar wind at 1 AU. Astrophys. J. 812, 68.
+Tessein, J.A., Ruffolo, D., Matthaeus, W.H., Wan, M.: 2016, Local modulation and trapping of energetic particles by coherent magnetic structures. Geophys. Res. Lett. 43, 3620.
+Tsurutani, B.T., Smith, E.J.: 1979, Interplanetary discontinuities: temporal variations and the radial gradient from 1 to 8.5 AU. J. Geophys. Res. 84, 2773.
+Tsurutani, B.T., Gonzalez, W.D., Tang, F., Akasofu, S.I., Smith, E.J.: 1988, Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar maximum (1978-1979). J. Geophys. Res. 93, 8519.
+Tsurutani, B.T., Dasgupta, B., Galvan, C., Neugebauer, M., Lakhina, G.S., Arballo, J.K., Winterhalter, D., Goldstein, B.E., Buti, B.: 2002a, Phase-steepened Alfvén waves, proton perpendicular energization and the creation of magnetic holes and magnetic decreases: the ponderomotive force. Geophys. Res. Lett. 29(24), 2233.
+Tsurutani, B.T., Galvan, C., Arballo, J.K., Winterhalter, D., Sakurai, R., Smith, E.J., Buti, B., Lakhina, G.S., Balogh, A.: 2002b, Relationship between discontinuities, magnetic holes, magnetic decreases, and nonlinear Alfvén waves: Ulysses observations over the solar poles. Geophys. Res. Lett. 29, 1528.
+Tsurutani, B.T., Guarnieri, F.L., Echer, E., Lakhina, G.S., Verkhoglyadova, O.P.: 2009, Magnetic decrease formation from <1 AU to-5 AU: corotating interaction region reverse shocks. J. Geophys. Res. 114(A8), A08105.
+Turner, J.M., Burlaga, L.F., Ness, N.F., Lemaire, J.F.: 1977, Magnetic holes in the solar wind. J. Geophys. Res. 82(13), 1921.
+Vasquez, B.J., Abramenko, V.I., Haggerty, D.K., Smith, C.W.: 2007, Numerous small magnetic field discontinuities of Bartels rotation 2286 and the potential role of Alfvénic turbulence. J. Geophys. Res. 112, A11102.
+Wan, M., Matthaeus, W.H., Karimabadi, H., Roytershteyn, V., Shay, M., Wu, P., Daughton, W., Loring, B., Chapman, S.C.: 2012, Intermittent dissipation at kinetic scales in collisionless plasma turbulence. Phys. Rev. Lett. 109, 195001.
+Wan, M., Matthaeus, W.H., Roytershteyn, V., Karimabadi, H., Parashar, T., Wu, P., Shay, M.: 2015, Intermittent dissipation and heating in 3D kinetic plasma turbulence. Phys. Rev. Lett. 114, 175002.
+Wang, Y., Wei, F.S., Feng, X.S., Zhang, S.H., Zuo, P.B., Sun, T.R.: 2010, Energetic electrons associated with magnetic reconnection in the magnetic cloud boundary layer. Phys. Rev. Lett. 105, 195007.
+Wang, Y., Wei, F.S., Feng, X.S., Zuo, P.B., Guo, J.P., Xu, X.J., Li, Z.: 2012, Variations of solar electron and proton flux in magnetic cloud boundary layers and comparisons with those across the shocks and in the reconnection exhausts. Astrophys. J. 749, 82.
+Wang, Y., Wei, F.S., Feng, X.S., Xu, X.J., Zhang, J., Sun, T.R., Zuo, P.B.: 2015, Energy dissipation processes in solar wind turbulence. Astrophys. J. Suppl. S. 221, 34.
+Wei, F.: 2005, WIND observations of plasma waves inside the magnetic cloud boundary layers. Chin. Sci. Bull. 50(18), 2051.
+Wei, F., Liu, R., Fan, Q., Feng, X.: 2003a, Identification of the magnetic cloud boundary layers. J. Geophys. Res. 108(A6), 1263.
+Wei, F., Liu, R., Feng, X., Zhong, D., Yang, F.: 2003b, Magnetic structures inside boundary layers of magnetic clouds. Geophys. Res. Lett. 30, 2283.
+Wei, F., Feng, X., Yang, F., Zhong, D.: 2006, A new non-pressure-balanced structure in interplanetary space: boundary layers of magnetic clouds. J. Geophys. Res. 111, A03102.
+Winslow, R.M., Lugaz, N., Schwadron, N.A., Farrugia, C.J., Yu, W., Raines, J.M., Mays, M.L., Galvin, A.B., Zurbuchen, T.H.: 2016, Longitudinal conjunction between MESSENGER and STEREO a: development of ICME complexity through stream interactions. J. Geophys. Res. 121(7), 6092.
+Wu, C.-C., Lepping, R.P.: 2002, Effects of magnetic clouds on the occurrence of geomagnetic storms: the first 4 years of wind. J. Geophys. Res. 107, 1314.
+Zhou, Z., Wei, F., Feng, X., Wang, Y., Zuo, P., Xu, X.: 2018, Observation of interplanetary slow shock pair associated with reconnection exhaust in magnetic cloud boundary layer. Astrophys. J. 863, 84.
+Zuo, P.B., Wei, F.S., Feng, X.S.: 2006, Observations of an interplanetary slow shock associated with magnetic cloud boundary layer. Geophys. Res. Lett. 33, L15107.
+Zuo, P.B., Wei, F.S., Feng, X.S., Yang, F.: 2007, The relationship between the magnetic cloud boundary layer and the substorm expansion phase. Solar Phys. 242, 167.
+Zuo, P.B., Wei, F.S., Feng, X.S., Xu, X.J., Song, W.B.: 2010, Magnetic cloud boundary layer of 9 November 2004 and its associated space weather effects. J. Geophys. Res. 115, A10102.

@@ -1,0 +1,18 @@
+Borrini, G., Wilcox, J.M., Gosling, J.T., Bame, S.J., Feldman, W.C.: 1981, J. Geophys. Res. 86, 4565.
+Burlaga, L.F.: 1995, Interplanetary Magnetohydrodynamics, Oxford University Press, New York, 89.
+Crooker, N.U., Huang, C.-L., Lamassa, S.M., Larson, D.E., Kahler, S.W., Spence, H.E.: 2004, J. Geophys. Res. 109, A03107.
+Fitzenretier, R.J., Burlaga, L.F.: 1978, J. Geophys. Res. 83, 5579.
+Foullon, C., Lavraud, B., Wardle, N.C., Owen, C.J., Kucharek, H., Fazakerley, A.N., et al.: 2009, Solar Phys. 259, 389.
+Gosling, J.T., Asbridge, J.R., Bame, S.J., Feldman, W.C., Borrini, G., Hansen, R.T.: 1981, J. Geophys. Res. 86, 5438.
+Intriligator, D.S., Webber, W.R.: 2014, In: Hu, Q., Zhank, G.P. (eds.) Astron. Soc. Pacific CS-484, 84.
+Lepping, R.P., Szabo, A., Peredo, M., Campbell, A.: 1996, Proc. Solar Wind Eight, Am. Inst. Phys. CP-382, 526.
+Lepping, R.P., Wu, C.-C., Gopalswamy, N.N., Berdichevsky, D.: 2008, Solar Phys. 248, 125.
+Liu, Y.C.-M., Huang, J., Wang, C., Klecker, B., Galvin, A.B., Simunac, L.D.C., Galvin, A.B., Simunac, K.D.C., et al.: 2014, J. Geophys. Res. 119, 8721.
+Simunac, K.D.C., Galvin, A.B., Farrugia, C.J., Kistler, L.M., Kucharek, H., Lavraud, B., et al.: 2012, Solar Phys. 281, 423.
+Smith, E., Zhou, X.: 2007 In: AIP Conf. Proc. CS-932, 144.
+Suess, S.T., Ko, Y.-K., von Steiger, R., Moore, R.L.: 2009, J. Geophys. Res. 114, A04103.
+Winterhalter, D., Smith, E.J., Burton, M.E., Murphy, N., McComas, D.J.: 1994, J. Geophys. Res. 99, 6667.
+Wu, C.-C., Fry, C.D., Wu, S.T., Dryer, M., Liou, K.: 2007a, J. Geophys. Res. 112, A09104.
+Wu, C.-C., Fry, C.D., Wu, S.T., Dryer, M., Thompson, B., Liou, K., Feng, X.S.: 2007b, Adv. Space Sci. Rev. 40, 1827.
+Wu, C.C., Lepping, R.P.: 2016, Solar Phys. 291, 265.
+Wu, C.-C., Liou, K., Vourlidas, A., Plunkett, S., Dryer, M., Wu, S.T., Socker, D., Wood, B.E., Hutting, L., Howard, R.: 2016, J. Geophys. Res. 121, 1839.

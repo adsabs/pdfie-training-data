@@ -1,0 +1,42 @@
+Antolin, P., Rouppe van der Voort, L.: 2012, Astrophys. J. 745, 152.
+Aschwanden, M.J.: 2010a, Solar Phys. 262, 399.
+Aschwanden, M.J.: 2010b, Solar Phys. 262, 235.
+Aschwanden, M., De Pontieu, B., Katrukha, E.: 2013, Entropy 15, 3007.
+Aschwanden, M.J., Reardon, K., Jess, D.B.: 2016, Astrophys. J. 826, 61.
+Aschwanden, M.J., Lee, J.K., Gary, G.A., Smith, M., Inhester, B.: 2008a, Solar Phys. 248, 359.
+Aschwanden, M.J., Wülser, J.-P., Nitta, N.V., Lemen, J.R.: 2008b, Astrophys. J. 679, 827.
+Asensio Ramos, A., Trujillo Bueno, J., Landi Degl’Innocenti, E.: 2008, Astrophys. J. 683, 542.
+Asensio Ramos, A., de la Cruz Rodríguez, J., Martínez González, M.J., Socas-Navarro, H.: 2017, Astron. Astrophys. 599, A133.
+Cauzzi, G., Reardon, K.: 2012 In: IAU Special Session 6, E5.11.
+Cavallini, F.: 2006, Solar Phys. 236, 415.
+Chen, F., Peter, H., Bingert, S., Cheung, M.C.M.: 2015, Nat. Phys. 11, 492.
+Clark, S.E., Peek, J.E.G., Putman, M.E.: 2014, Astrophys. J. 789, 82.
+de la Cruz Rodríguez, J., Socas-Navarro, H.: 2011, Astron. Astrophys. 527, L8.
+De Pontieu, B., Title, A.M., Lemen, J.R., Kushner, G.D., Akin, D.J., Allard, B., Berger, T., Boerner, P., Cheung, M., Chou, C., Drake, J.F., Duncan, D.W., Freeland, S., Heyman, G.F., Hoffman, C., Hurlburt, N.E., Lindgren, R.W., Mathur, D., Rehse, R., Sabolish, D., Seguin, R., Schrijver, C.J., Tarbell, T.D., Wülser, J.-P., Wolfson, C.J., Yanari, C., Mudge, J., Nguyen-Phuc, N., Timmons, R., van Bezooijen, R., Weingrod, I., Brookner, R., Butcher, G., Dougherty, B., Eder, J., Knagenhjelm, V., Larsen, S., Mansir, D., Phan, L., Boyle, P., Cheimets, P.N., DeLuca, E.E., Golub, L., Gates, R., Hertz, E., McKillop, S., Park, S., Perry, T., Podgorski, W.A., Reeves, K., Saar, S., Testa, P., Tian, H., Weber, M., Dunn, C., Eccles, S., Jaeggli, S.A., Kankelborg, C.C., Mashburn, K., Pust, N., Springer, L., Carvalho, R., Kleint, L., Marmie, J., Mazmanian, E., Pereira, T.M.D., Sawyer, S., Strong, J., Worden, S.P., Carlsson, M., Hansteen, V.H., Leenaarts, J., Wiesmann, M., Aloise, J., Chu, K.-C., Bush, R.I., Scherrer, P.H., Brekke, P., Martinez-Sykora, J., Lites, B.W., McIntosh, S.W., Uitenbroek, H., Okamoto, T.J., Gummin, M.A., Auker, G., Jerram, P., Pool, P., Waltham, N.: 2014, Solar Phys. 289, 2733.
+Duda, R.O., Hart, P.E.: 1972, Commun. ACM 15(1), 11.
+Fisher, N.I.: 1995, Statistical Analysis of Circular Data, Statistical Analysis of Circular Data. Cambridge University Press, Cambridge ISBN 9780521568906.
+Fisher, N.I., Lewis, T.: 1983, Biometrika 70(2), 333.
+Gissot, S.F., Hochedez, J.-F.: 2007, Astron. Astrophys. 464, 1107.
+Handy, B.N., Acton, L.W., Kankelborg, C.C., Wolfson, C.J., Akin, D.J., Bruner, M.E., Caravalho, R., Catura, R.C., Chevalier, R., Duncan, D.W., Edwards, C.G., Feinstein, C.N., Freeland, S.L., Friedlaender, F.M., Hoffmann, C.H., Hurlburt, N.E., Jurcevich, B.K., Katz, N.L., Kelly, G.A., Lemen, J.R., Levay, M., Lindgren, R.W., Mathur, D.P., Meyer, S.B., Morrison, S.J., Morrison, M.D., Nightingale, R.W., Pope, T.P., Rehse, R.A., Schrijver, C.J., Shine, R.A., Shing, L., Strong, K.T., Tarbell, T.D., Title, A.M., Torgerson, D.D., Golub, L., Bookbinder, J.A., Caldwell, D., Cheimets, P.N., Davis, W.N., Deluca, E.E., McMullen, R.A., Warren, H.P., Amato, D., Fisher, R., Maldonado, H., Parkinson, C.: 1999, Solar Phys. 187, 229.
+Hough, P.V.C.: 1959 In: Proceedings, 2nd International Conference on High-Energy Accelerators and Instrumentation, HEACC 1959: CERN, Geneva, Switzerland, September 14 – 19, 1959, C590914, 554.
+Hough, P.V.C.: 1962, Method and means for recognizing complex patterns. US Patent.
+Inhester, B., Feng, L., Wiegelmann, T.: 2008, Solar Phys. 248, 379.
+Jeltsch, M., Dalitz, C., Pohle-Fröhlich, R.: 2016, Hough parameter space regularisation for line detection in 3d. In: Proceedings of the 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 345. INSTICC. ISBN 978-989-758-175-5.
+Jing, J., Yuan, Y., Reardon, K., Wiegelmann, T., Xu, Y., Wang, H.: 2011, Astrophys. J. 739, 67.
+Kovesi, P.: 2015, ArXiv e-prints.
+Krumbein, W.C.: 1939, J. Geol. 47(7), 673.
+Lee, J.K., Newman, T.S., Gary, G.A.: 2006a In: 2006 IEEE Southwest Symposium on Image Analysis and Interpretation, 91.
+Lee, J.K., Newman, T.S., Gary, G.A.: 2006b, Pattern Recognit. 39(2), 246. Part Special Issue: Complexity Reduction.
+Leenaarts, J., Carlsson, M., Rouppe van der Voort, L.: 2015, Astrophys. J. 802, 136.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, Solar Phys. 275(1 – 2), 17.
+Lucas, B., Kanade, T.: 1981 In: Proceedings of the 1981 DARPA Image Understanding Workshop, 121.
+Mardia, K.V., Jupp, P.E.: 1999, Directional Statistics, 1st edn., Wiley Series in Probability and Statistics. Wiley, New York.
+Mukhopadhyay, P., Chaudhuri, B.B.: 2015, Pattern Recognit. 48(3), 993.
+November, L.J., Simon, G.W.: 1988, Astrophys. J. 333, 427.
+Ożarowska, A., Ilieva, M., Zehtindjiev, P., Åkesson, S., Muś, K.: 2013, J. Exp. Biol. 216(21), 4038.
+Reardon, K.P., Cavallini, F.: 2008, Astron. Astrophys. 481, 897.
+Schad, T.A., Penn, M.J., Lin, H.: 2013, Astrophys. J. 768, 111.
+Schad, T.A., Penn, M.J., Lin, H., Tritschler, A.: 2015, Solar Phys. 290, 1607.
+Steger, C.: 1996 In: Proceedings of 13th International Conference on Pattern Recognition 2, 251.
+Welsch, B.T., Fisher, G.H., Abbett, W.P., Regnier, S.: 2004, Astrophys. J. 610, 1148.
+Wiegelmann, T., Thalmann, J.K., Schrijver, C.J., De Rosa, M.L., Metcalf, T.R.: 2008, Solar Phys. 247, 249.

@@ -1,0 +1,34 @@
+Abramowitz, M., Stegun, I.A. (eds.): 1964, Handbook of Mathematical Functions, Dover, New York.
+Bobra, D., Riedel, K.S., Kerner, W., Huysmans, G.T.A., Ottaviani, M., Schmid, P.J.: 1994, Phys. Plasmas 1, 3151.
+Camporeale, E.: 2010, Space Sci. Rev. 172, 397.
+Camporeale, E., Burgess, D., Passot, T.: 2009, Phys. Plasmas 16, 030703.
+Chandrasekhar, S.: 1961, Hydrodynamic and Hydromagnetic Stability, Clarendon, Oxford.
+Comisso, L., Lingam, M., Huang, Y.-M., Bhattacharjee, A.: 2016, Phys. Plasmas 23, 100702.
+Farrell, B.F., Ioannou, P.J.: 1999a, Astrophys. J. 522, 1079.
+Farrell, B.F., Ioannou, P.J.: 1999b, Astrophys. J. 522, 1088.
+Furth, H.P., Kileen, J., Rosenbluth, M.N.: 1963, Phys. Fluids 6, 459.
+Goedbloed, J.P., Keppens, R., Poedts, S.: 2010, Advanced Magnetohydrodynamics, Cambridge University Press, Cambridge.
+Hanifi, A., Schmid, P.J., Henningson, D.S.: 1996, Phys. Fluids 8, 826.
+Hood, A.W., Hughes, D.W.: 2011, Phys. Earth Planet. Inter. 187, 78.
+Hood, A.W., Cargill, P.J., Browning, P.K., Tam, K.V.: 2016, Astrophys. J. Lett. 817, 5.
+Lapenta, G.: 2008, Phys. Rev. Lett. 100, 235001.
+Livermore, P.W., Jackson, A.: 2006, Proc. Roy. Soc. A 462, 2457.
+Lourerio, N.F., Schekochihin, A.A., Cowley, S.C.: 2007, Phys. Plasmas 14, 100703.
+MacNeice, P., Antiochos, S.K., Phillips, S., Spicer, D.S., DeVore, C.R., Olson, K.: 2004, Astrophys. J. 614, 1028.
+MacTaggart, D., Haynes, A.L.: 2014, Mon. Not. Roy. Astron. Soc. 438, 1500.
+MacTaggart, D., Guglielmino, S.L., Haynes, A.L., Simitev, R.D., Zuccarello, F.: 2015, Astron. Astrophys. 576, A4.
+Parker, E.N.: 1988, Astrophys. J. 330, 474.
+Priest, E.R.: 2014, Magnetohydrodynamics of the Sun, Cambridge University Press, Cambridge.
+Pritchett, P.L., Lee, Y.C., Drake, J.F.: 1980, Phys. Fluids 23, 1368.
+Pucci, F., Velli, M.: 2014, Astrophys. J. Lett. 780, L19.
+Reddy, S.C., Henningson, D.S.: 1993, J. Fluid Mech. 252, 209.
+Reddy, S.C., Schmid, P.J., Henningson, D.S.: 1993, SIAM J. Appl. Math. 53, 15.
+Schindler, K.: 2006, Physics of Space Plasma Activity, Cambridge University Press, Cambridge.
+Schmid, P.J., Henningson, D.S.: 1994, J. Fluid Mech. 277, 197.
+Tassi, E., Hastie, R.J., Porcelli, F.: 2007, Phys. Plasmas 14, 9.
+Tenerani, A., Rappazzo, A.F., Velli, M., Pucci, F.: 2015, Astrophys. J. 801, 145.
+Tenerani, A., Velli, M., Pucci, F., Landi, S., Rappazzo, A.F.: 2016, J. Plasma Phys. 82, 535820501.
+Terasawa, T.: 1983, Geophys. Res. Lett. 10, 475.
+Tichmarsh, E.C.: 1948, Introduction to the Theory of Fourier Integrals, Oxford University Press, London.
+Trefethen, L.N., Bau, D.: 1997, Numerical Linear Algebra, SIAM, Philadelphia.
+Trefethen, L.N., Embree, M.: 2005, Spectra and Pseudospectra: The Behaviour of Nonnormal Matrices and Operators, Princeton University Press, Princeton.

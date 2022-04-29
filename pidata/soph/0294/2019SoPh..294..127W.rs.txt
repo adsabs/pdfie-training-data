@@ -1,0 +1,22 @@
+Bethge, C., Beck, C., Peter, H., Lagg, A.: 2012, Siphon flow in a cool magnetic loop. Astron. Astrophys. 537, A130.
+Chae, J.: 2004, Flat-fielding of solar magnetograph observations using relatively shifted images. Solar Phys. 221, 15.
+Coughlin, M., Abbott, T.M.C., Brannon, K., Claver, C., Doherty, P., Fisher-Levine, M., Ingraham, P., Lupton, R., Mondrik, N., Stubbs, C.: 2016, A collimated beam projector for precise telescope calibration. In: Society of Photo-Optical Instrumentation Engineers. (SPIE) Conference Series 9910, 99100V.
+DayStar Filters: 2019,
+Deng, Y., Ai, G., Wang, J., Song, G., Zhang, B., Ye, X.: 1997, Reports on test observations with the Multi-Channel Solar Telescope. Solar Phys. 173(2), 207.
+Denker, C., Johannesson, A., Marquette, W., Goode, P.R., Wang, H., Zirin, H.: 1999, Synoptic H\upalpha full-disk observations of the Sun from BigBear Solar Observatory – I. Instrumentation, image processing, data products, and first results. Solar Phys. 184(1), 87.
+Feng, S., Lin, J., Yang, Y., Zhu, H., Wang, F., Ji, K.: 2014, Automated detecting and removing cloud shadows in full-disk solar images. New Astron. 32, 24.
+GONG: 2009,
+Haldeman, B.J., Tufts, J.R., Hidas, M.G., Dubberley, M.A., Posner, V.: 2008, Lambert: a novel compact calibration solution for superior telescope flat fielding. In: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series 7014, 701420.
+Kentischer, T.J., Bethge, C., Elmore, D.F., Friedlein, R., Halbgewachs, C., Knölker, M., Peter, H., Schmidt, W., Sigwarth, M., Streander, K.: 2008, ChroTel: a robotic telescope to observe the chromosphere of the sun. In: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series 7014, 701413.
+Kuhn, J.R., Lin, H., Loranz, D.: 1991, Gain calibrating nonuniform image-array data using only the image data. Publ. Astron. Soc. Pac. 103, 1097.
+Liu, Y.: 2014, Chinese first aircraft coronagraph settled in Lijiang, Yunnan. Amat. Astron. 1, 60. In Chinese.
+Marshall, J.L., DePoy, D.L.: 2005, Flattening Scientific CCD Imaging Data with a Dome Flat Field System. arXiv e-prints. astro.
+National Defense Industry: 2012, General Armament Department of Electronic Information Infrastructure, Solar Storms Secret National Defend Industry Press, Beijing 5. In Chinese.
+National Standardization Technical Committee: 1994, GB 3100 ∼ 3102-93. Quantities and Units GB3100 ∼ 3102-93. China Standard Press, Beijing.
+Neckel, H., Labs, D.: 1994, Solar limb darkening 1986 – 1990 (λ λ303 to 1099 nm). Solar Phys. 153(1–2), 91.
+Smith, W.J.: 2011, Modern Optical Engineering, 185. Chemical Industry Press. In Chinese.
+Stetson, P.B., Harris, W.E.: 1988, CCD photometry of the globular cluster M92. Astron. J. 96, 909.
+Wang, Y.R., Bai, X.Y., Liu, S.Q., et al.: 2017, Flat-field measuring and correction method for full-disk solar image based on ground glass. Chin. Sci. Bull. 62, 3057.
+Xu, G.-G., Zheng, S., Lin, G.-H., Wang, X.-F.: 2016, Flat-fielding of solar H\upalpha observations based on the maximum correntropy criterion. Astrophys. J. 827(2), 137.
+Yang, Y., Lin, J., Feng, S., Deng, H., Wang, F., Ji, K.: 2013, Detection and restoration of non-radial variation over full-disk solar images. J. Korean Astron. Soc. 46(5), 191.
+Zhang, H.-Q., Wang, D.-G., Deng, Y.-Y., Hu, K.-L., Su, J.-T., Lin, J.-B., Lin, G.-H., Yang, S.-M., Mao, W.-J., Wang, Y.-N., Hu, Q.-Q., Xue, J.-S., Lu, H.-T., Ni, H.-K., Chen, H.-L., Zhou, X.-J., Zhu, Q.-S., Yuan, L.-J., Zhu, Y.: 2007, Solar Magnetism and the Activity Telescope at HSOS. Chin. J. Astron. Astrophys. 7(2), 281.

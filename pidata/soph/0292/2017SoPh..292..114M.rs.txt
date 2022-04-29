@@ -1,0 +1,30 @@
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., et al.: 1995, Solar Phys. 162, 357.
+Byrne, J.P., Gallagher, P.T., McAteer, R.T.J., Young, C.A.: 2009, Astron. Astrophys. 495, 325.
+Byrne, J.P., Morgan, H., Habbal, S.R., Gallagher, P.T.: 2012, Astrophys. J. 752, 145.
+Byrne, J.P., Long, D.M., Gallagher, P.T., Bloomfield, D.S., Maloney, S.A., McAteer, R.T., et al.: 2013, Astrophys. J. 557, A96.
+Chernick, M.R.: 2007, Bootstrap Methods: A Guide for Practitioners and Researchers, 2nd edn. Wiley, New York. ISBN 978-0-471-75621-7.
+Chernick, M.R., LaBudde, A.R.: 2012, An Introduction to Bootstrap Methods with Applications to R, Wiley, New York. ISBN 978-0-470-46704-6.
+Colaninno, R.C., Vourlidas, A.: 2006, Astrophys. J. 652, 1747.
+Efron, B.: 1979, Ann. Stat. 7, 1.
+Efron, B., Tibshirani, R.: 1997, J. Am. Stat. Assoc. 92, 548.
+Gallagher, P.T., Long, D.M.: 2011, Space Sci. Rev. 158, 365.
+Gopalswamy, N., Yashiro, S., Michalek, G., Kaiser, M.L., Howard, R.D., Reames, D.V., et al.: 2002, Astrophys. J. 572, L103.
+Gopalswamy, N., Yashiro, S., Michalek, G., Vourlidas, A., Freeland, S., Howard, A.: 2009, Earth Moon Planets 104, 295.
+Mishra, M., Srivastava, N., Davies, J.A.: 2014, Astrophys. J. 784, 135.
+Long, D.M., Gallagher, P.T., McAteer, R.T.J., Bloomfield, D.S.: 2011, Astron. Astrophys. 531, A42.
+Liu, Y., Davies, J.A., Luhmann, J.G., Vourlidas, A., Bale, S.D., Lin, R.P.: 2010, Astrophys. J. 710, L82.
+Lugaz, N.: 2010, Solar Phys. 267, 411.
+Odstrcil, D., Pizzo, V.J., Arge, C.N.: 2005, J. Geophys. Res. 110, 2106.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., Borne, K.: 2008, Solar Phys. 248, 485.
+Podladchikova, O., Vuets, A., Leontiev, P., van der Linden, R.A.M.: 2012, Solar Phys. 276, 479.
+Politis, D.N.: 1998, IEEE Signal Process. Mag. 15, 39.
+Robbrecht, E., Berghmans, D., Van der Linden, R.A.M.: 2009, Astrophys. J. 691, 1222.
+Sheeley, N.R., Walters, J.H., Wang, Y.-M., Howard, R.A.: 1999, J. Geophys. Res. 104, 24739.
+Temmer, M., Vršnak, B., Rollett, T., et al.: 2012, Astrophys. J. 749, 57.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Astrophys. J. 652, 763.
+Wen, Y., Maia, D., Wang, J.: 2007, Astrophys. J. 657, 1117.
+Varian, H.: 2005, Bootstrap tutorial. Math. J. 9, 768.
+Vršnak, B., Zic, T., Vrbanec, D., Temmer, M., Rollet, T., Mostl, C., et al.: 2013, Solar Phys. 285, 295.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., et al.: 2004, J. Geophys. Res. 109, A07105.
+Yashiro, S., Gopalswamy, N., Michalek, G.: 2008, Ann. Geophys. 26, 3103.
+Young, C.A., Gallagher, P.T.: 2008, Solar Phys. 248, 457.

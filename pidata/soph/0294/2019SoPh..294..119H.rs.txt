@@ -1,0 +1,87 @@
+Adams, C.W., Sarton, G., Ware, J.R.: 1947, Isis 37, 68.
+Aparicio, A.J.P., Vaquero, J.M., Carrasco, V.M.S., Gallego, M.C.: 2014, Solar Phys. 289(11), 4335.
+Archinal, B.A., A’Hearn, M.F., Bowell, E., Conrad, A., Consolmagno, G.J., Courtin, R., et al.: 2011a, Celest. Mech. Dyn. Astron. 109, 101.
+Archinal, B.A., A’Hearn, M.F., Bowell, E., Conrad, A., Consolmagno, G.J., Courtin, R., et al.: 2011b, Celest. Mech. Dyn. Astron. 110, 401.
+Arlt, R.: 2008, Solar Phys. 247, 399.
+Arlt, R.: 2009, Solar Phys. 255, 143.
+Arlt, R.: 2011, Astron. Nachr. 332, 805.
+Arlt, R., Senthamizh Pavai, V., Schmiel, C., Spada, F.: 2016, Astron. Astrophys. 595, A104.
+Beijing Observatory: 1985, An integrated catalogue of Chinese local treatises, Zhinghua Book Company, Beijing, in Chinese.
+Brandt, P.N., Schmidt, W., Steinegger, M.: 1990, Solar Phys. 129, 191.
+Carrasco, V.M.S., Vaquero, J.M., Gallego, M.C., Trigo, R.M.: 2014, New Astron. 25, 95.
+Carrasco, V.M.S., Alvarez, J.V., Vaquero, J.M.: 2015a, Observatory 135, 257.
+Carrasco, V.M.S., Alvarez, J.V., Vaquero, J.M.: 2015b, Solar Phys. 290, 2719.
+Carrasco, V.M.S., Vaquero, J.M.: 2016, Solar Phys. 291, 2493.
+Carrington, R.C.: 1863, Observations of the Spots on the Sun: From November 9, 1853, to March 24, 1861, Made at Redhill, Williams Norgate, London.
+Clette, F., Lefèvre, L.: 2016, Solar Phys. 291, 2629.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Space Sci. Rev. 186, 35.
+Cliver, E.W.: 2017, J. Space Weather Space Clim. 7, A12.
+Denig, W.F., McVaugh, M.R.: 2017, Space Weather 15(7), 857.
+Domínguez-Castro, F., Gallego, M.C., Vaquero, J.M.: 2017, J. Space Weather Space Clim. 7, A15.
+Eddy, J.A.: 1980, In: Pepen, R.O., Eddy, J.A., Merrill, R.G. (eds.) The Ancient Sun: Fossil Record in the Earth, Moon and Meteorites, Pergamon Press, New York/Oxford, 119.
+Fujiyama, M., Hayakawa, H., Iju, T., Kawai, T., Toriumi, S., Otsuji, K., et al.: 2019, Solar Phys. 294, 43.
+Goldstein, B.R.: 1969, Centaurus 14(1), 49.
+Hathaway, D.H.: 2010, Living Rev. Solar Phys. 7, 1.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 2002, Solar Phys. 211, 357.
+Hayakawa, H., Tamazawa, H., Kawamura, A.D., Isobe, H.: 2015, Earth Planets Space 67, 82.
+Hayakawa, H., Iwahashi, K., Ebihara, Y., Tamazawa, H., Shibata, K., Knipp, D.J., et al.: 2017a, Astrophys. J. Lett. 850, L31.
+Hayakawa, H., Iwahashi, K., Tamazawa, H., Ebihara, Y., Kawamura, A.D., Isobe, H., et al.: 2017b, Publ. Astron. Soc. Japan 69, 86.
+Hayakawa, H., Tamazawa, H., Ebihara, Y., Miyahara, H., Kawamura, A.D., Aoyama, T., Isobe, H.: 2017c, Publ. Astron. Soc. Japan 69, 65.
+Hayakawa, H., Iwahashi, K., Fujiyama, M., Kawai, T., Toriumi, S., Hotta, H., et al.: 2018a, Publ. Astron. Soc. Japan 70, 63.
+Hayakawa, H., Iwahashi, K., Toriumi, S., Tamazawa, H., Shibata, K.: 2018b, Solar Phys. 293, 8.
+Hayakawa, H., Willis, D.M., Hattori, K., Notsu, Y., Wild, M.N., Karoff, C.: 2019, Solar Phys. 294, 95.
+Heath, A.W.: 1994, J. Br. Astron. Assoc. 104, 304.
+Hoyt, D.V., Schatten, K.H.: 1998, Solar Phys. 181, 491.
+Inceoglu, F., Knudsen, M.F., Karoff, C., Olsen, J.: 2014, Solar Phys. 289, 4377.
+Keimatsu, M.: 1970, Ann. Science, Kanazawa Univ., Part I 7, 1.
+Keller, H.U., Friedli, T.K.: 1992, Q. J. Roy. Astron. Soc. 33, 83.
+Koyama, H.: 1985, Observations of Sunspots, 1947 – 1984, Kawadeshobo Shinsha, Tokyo.
+Lee, E., Ahn, Y., Yang, H., Chen, K.: 2004, Solar Phys. 224, 373.
+Lefèvre, L., Aparicio, A.J.P., Gallego, M.C., Vaquero, J.M.: 2016, Solar Phys. 291, 2609.
+Lockwood, M., Owens, M.J., Barnard, L., Usoskin, I.G.: 2016a, Solar Phys. 291, 2829.
+Lockwood, M., Scott, C.J., Owens, M.J., Barnard, L., Willis, D.M.: 2016b, Solar Phys. 291, 2785.
+Lockwood, M., Owens, M.J., Barnard, L.A., Scott, C.J., Watt, C.E.: 2017, J. Space Weather Space Clim. 7, A25.
+Lu, L.: 2004, Nat. Mag. 2003/04, 243, in Chinese.
+Lu, L., Li, H.: 2013, J. Astron. Hist. Herit. 16, 45.
+Lu, L., Shi, Y.: 2007, Chin. J. Hist. Sci. Tech. 2009/01, 143, in Chinese.
+Ma, L.: 2004 In: Studies in the History of Natural Sciences 2004/02, 121, in Chinese.
+Mathew, S.K., Martínez Pillet, V., Solanki, S.K., Krivova, N.A.: 2007, Astron. Astrophys. 465, 291.
+Owens, B.: 2013, Nature 495, 300.
+Orchiston, W.: 2004, J. Astron. Data 10, 219.
+Orchiston, W., Buchanan, A., Price, G., Sprent, T.: 2015, J. Astron. Hist. Herit. 18, 149.
+Ratcliff, J.: 2008, The Transit of Venus Enterprise in Victorian Britain, Pickering & Chatto, London.
+Royal Greenwich Observatory: 1907, Photo-Heliographic Results 1874 to 1885, Being Supplementary Results from Photographs of the Sun Taken at Greenwich, at Harvard College, USA, at Melbourne, in India, and in Mauritius in the Years 1874 to 1885: And Measured and Reduced at the Royal Observatory, Greenwich, HM Stationery Office, Edinburgh.
+Russell, H.C.: 1892, In: Observations of the Transit of Venus, 9 December 1874, Her Majesty’s Government in New South Wales, Ill., Sydney.
+Schaefer, B.E.: 1993, Astrophys. J. 411, 909.
+Snellen, H.: 1862, Probebuchstaben zur Bestimmung der Sehschärfe, Utrecht.
+Stephenson, F.R., Willis, D.M.: 1999, Astron. Geophys. 40, 21.
+Strom, R.: 2015, In: Orchiston, W., Green, D.A., Strom, R. (eds.) New Insights from Recent Studies in Historical Astronomy: Following in the Footsteps of F. Richard Stephenson, Springer, New York, 191.
+Svalgaard, L.: 2017, Solar Phys. 292, 4.
+Svalgaard, L., Schatten, K.H.: 2016, Solar Phys. 291, 2653.
+Tamazawa, H., Kawamura, A.D., Hayakawa, H., Tsukamoto, A., Isobe, H., Ebihara, Y.: 2017, Publ. Astron. Soc. Japan 69, 22.
+USNO: 2018, The Astronomical Almanac for the Year 2019, US Gov. Pub. Office, Washington
+Usoskin, I.G.: 2017, Living Rev. Solar Phys. 14, 3.
+Usoskin, I.G., Arlt, R., Asvestari, E., Hawkins, E., Käpylä, M., Kovaltsov, G.A., et al.: 2015, Astron. Astrophys. 581, A95.
+Vaquero, J.M.: 2004, Solar Phys. 223, 283.
+Vaquero, J.M.: 2007a, Adv. Space Res. 40, 929.
+Vaquero, J.M.: 2007b, J. Brit. Astron. Assoc. 117, 346.
+Vaquero, J.M., Gallego, M.C.: 2002, Solar Phys. 206, 209.
+Vaquero, J.M., Gallego, M.C., García, J.A.: 2002, Geophys. Res. Lett. 29, 1997.
+Vaquero, J.M., Vázquez, M.: 2009, The Sun Recorded Through History, Springer, New York.
+Vaquero, J.M., Svalgaard, L., Carrasco, V.M.S., Clette, F., Lefèvre, L., Gallego, M.C., et al.: 2016, Solar Phys. 291, 3061.
+Vyssotsky, A.N.: 1949, Medd. Lunds Astronom. Observ. Ser. II 126, 3.
+Wade, P.: 1994, J. Brit. Astron. Assoc. 104, 86.
+Waldmeier, M.: 1961, The Sunspot Activity in the Years 1610 – 1960, Schulthess, Zurich.
+Willis, D.M., Davda, V.N., Stephenson, F.R.: 1996, Q. J. Roy. Astron. Soc. 37, 189.
+Willis, D.M., Easterbrook, M.G., Stephenson, F.R.: 1980, Nature 287, 617.
+Willis, D.M., Stephenson, F.R.: 2001, Ann. Geophys. 19, 289.
+Willis, D.M., Armstrong, G.M., Ault, C.E., Stephenson, F.R.: 2005, Ann. Geophys. 23(3), 945.
+Willis, D.M., Coffey, H.E., Henwood, R., Erwin, E.H., Hoyt, D.V., Wild, M.N., Denig, W.F.: 2013a, Solar Phys. 288, 117.
+Willis, D.M., Henwood, R., Wild, M.N., Coffey, H.E., Denig, W.F., Erwin, E.H., Hoyt, D.V.: 2013b, Solar Phys. 288, 141.
+Willis, D.M., Wild, M.N., Appleby, G.M., Macdonald, L.T.: 2016, Solar Phys. 291, 2553.
+Willis, D.M., Wilkinson, J., Scott, C.J., Wild, M.N., Stephenson, F.R., Hayakawa, H., Brugge, R., Macdonald, L.T.: 2018, Space Weather, 16, 1740.
+Wittmann, A.D., Xu, Z.T.: 1987, Astron. Astrophys. Suppl. Ser. 70, 83.
+Xu, Z., Pankenier, D.W., Jiang, Y.: 2000, East Asian Archaeoastronomy, Gordon & Breach, Amsterdam.
+Yamamoto, I.: 1935, Kwasan Bull. 4, 2.
+Yamamoto, I.: 1937, Isis 26(2), 330.
+Yau, K.K.C., Stephenson, F.R.: 1988, Q. J. Roy. Astron. Soc. 29, 175.

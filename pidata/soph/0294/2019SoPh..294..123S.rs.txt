@@ -1,0 +1,47 @@
+Altschuler, M.D., Newkirk, G.: 1969, Magnetic fields and the structure of the solar corona. I: Methods of calculating coronal fields. Solar Phys. 9, 131.
+Ananthakrishnan, S., Coles, W.A., Kaufman, J.J.: 1980, Microturbulence in solar wind streams. J. Geophys. Res. 85, 6025.
+Arnaud, J., Newkirk, G. Jr.: 1987, Mean properties of the polarization of the Fe XIII 10747 A coronal emission line. Astron. Astrophys. 178, 263.
+Asai, K., Kojima, M., Tokumaru, M., Yokobe, A., Jackson, B.V., Hick, P.L., Manoharan, P.K.: 1998, Heliospheric tomography using interplanetary scintillation observations. III – Correlation between speed and electron density fluctuations in the solar wind. J. Geophys. Res. 103, 1991.
+Bird, M.K.: 1981, Coronal sounding with pulsars. In: Rosenbauer, H. (ed.) Solar Wind 4, Max-Planck-Institute für Aeronomie, Lindau, 78.
+Bird, M.K.: 1982, Coronal investigations with occulted spacecraft signals. Space Sci. Rev. 33, 99.
+Bisoi, S.K., Janardhan, P., Ingale, M., Subramanian, P., Ananthakrishnan, S., Tokumaru, M., Fujiki, K.: 2014, A study of density modulation index in the inner heliospheric solar wind during solar cycle 23. Astrophys. J. 795, 69.
+Celnikier, L.M., Muschietti, L., Goldman, M.V.: 1987, Aspects of interplanetary plasma turbulence. Astron. Astrophys. 181(1), 138.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2015, In: Balogh, A., Hudson, H., Petrovay, K., von Steiger, R. (eds.) Revisiting the Sunspot Number, ISSI Space Science Ser., Springer, New York, 35.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The solar probe plus mission: Humanity’s first visit to our star. Space Sci. Rev. 204, 7.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the SolarSoft system. Solar Phys. 182, 497.
+Hale, G.E.: 1908, On the probable existence of a magnetic field in Sun-spots. Astrophys. J. 28, 315.
+Harvey, J.W.: 1969, Magnetic fields associated with solar active-region prominences. Ph.D. thesis, Univ. Colorado, Boulder.
+Hewish, A., Scott, P.F., Wills, D.: 1964, Interplanetary scintillation of small diameter radio sources. Nature 203, 1214.
+Hoeksema, J.T.: 1984, Structure and evolution of the large scale solar and heliospheric magnetic fields. Ph.D. thesis, Stanford Univ., CA.
+Janardhan, P., Alurkar, S.K.: 1993, Angular source size measurements and interstellar scattering at 103 MHz using interplanetary scintillation. Astron. Astrophys. 269, 119.
+Janardhan, P., Bisoi, S.K., Gosain, S.: 2010, Solar polar fields during cycles 21 – 23: Correlation with meridional flows. Solar Phys. 267, 267.
+Janardhan, P., Balasubramanian, V., Ananthakrishnan, S., Dryer, M., Bhatnagar, A., McIntosh, P.S.: 1996, Travelling interplanetary disturbances detected using interplanetary scintillation at 327 MHz. Solar Phys. 166, 379.
+Janardhan, P., Bisoi, S.K., Ananthakrishnan, S., Tokumaru, M., Fujiki, K.: 2011, The prelude to the deep minimum between solar cycles 23 and 24: Interplanetary scintillation signatures in the inner heliosphere. Geophys. Res. Lett. 38, L20108.
+Janardhan, P., Bisoi, S.K., Ananthakrishnan, S., Tokumaru, M., Fujiki, K., Jose, L., Sridharan, R.: 2015, A 20 year decline in solar photospheric magnetic fields: Inner-heliospheric signatures and possible implications. J. Geophys. Res. 120, 5306.
+Janardhan, P., Fujiki, K., Ingale, M., Bisoi, S.K., Rout, D.: 2018, Solar cycle 24: An unusual polar field reversal. Astron. Astrophys. 618, A148.
+Kojima, M., Kakinuma, T.: 1990, Solar cycle dependence of global distribution of solar wind speed. Space Sci. Rev. 53(3 – 4), 173.
+Lin, H., Penn, M.J., Tomczyk, S.: 2000, A new precise measurement of the coronal magnetic field strength. Astrophys. J. Lett. 541, L83.
+Lopez, R.E., Freeman, J.W.: 1986, Solar wind proton temperature–velocity relationship. J. Geophys. Res. 91(A2), 1701.
+Mackay, D.H., van Ballegooijen, A.A.: 2006, Models of the large-scale corona. I. Formation, evolution, and liftoff of magnetic flux ropes. Astrophys. J. 641, 577.
+Manoharan, P.K.: 2010, Ooty interplanetary scintillation – Remote-sensing observations and analysis of coronal mass ejections in the heliosphere. Solar Phys. 265, 137.
+Marians, M.: 1975, Computed scintillation spectra for strong turbulence. Radio Sci. 10, 115.
+McComas, D.J., Barraclough, B.L., Funsten, H.O., Gosling, J.T., Santiago-Muñoz, E., Skoug, R.M., Goldstein, B.E., Neugebauer, M., Riley, P., Balogh, A.: 2000, Solar wind observations over Ulysses’ first full polar orbit. J. Geophys. Res. 105(A5), 10419.
+Mickey, D.L.: 1973, Polarization measurements in the green coronal line. Astrophys. J. Lett. 181, L19.
+Pesnell, W.D., Schatten, K.H.: 2018, An early prediction of the amplitude of solar cycle 25. Solar Phys. 293, 112.
+Querfeld, C.W., Smartt, R.N.: 1984, Comparison of coronal emission-line structure and polarization. Solar Phys. 91, 299.
+Ramesh, R., Kathiravan, C., Sastry, C.V.: 2010, Estimation of magnetic field in the solar coronal streamers through low frequency radio observations. Astrophys. J. 711, 1029.
+Sasikumar Raja, K., Ramesh, R.: 2013, Low-frequency observations of transient quasi-periodic radio emission from the solar atmosphere. Astrophys. J. 775, 38.
+Sasikumar Raja, K., Ramesh, R., Hariharan, K., Kathiravan, C., Wang, T.J.: 2014, An estimate of the magnetic field strength associated with a solar coronal mass ejection from low frequency radio observations. Astrophys. J. 796, 56.
+Sasikumar Raja, K., Ingale, M., Ramesh, R., Subramanian, P., Manoharan, P.K., Janardhan, P.: 2016, Amplitude of solar wind density turbulence from 10 to 45 R_{\odot }. J. Geophys. Res. 121, 11.
+Sasikumar Raja, K., Subramanian, P., Ramesh, R., Vourlidas, A., Ingale, M.: 2017, Turbulent density fluctuations and proton heating rate in the solar wind from 9-20 R_{\odot }. Astrophys. J. 850, 129.
+Sasikumar Raja, K., Subramanian, P., Ingale, M., Ramesh, R.: 2019, Dissipation scale lengths of solar wind turbulence. Astrophys. J. 872, 77.
+Sastry, C.V.: 2009, Polarization of the thermal radio emission from outer solar corona. Astrophys. J. 697, 1934.
+Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, A model of interplanetary and coronal magnetic fields. Solar Phys. 6, 442.
+Schrijver, C.J., De Rosa, M.L.: 2003, Photospheric and heliospheric magnetic fields. Solar Phys. 212, 165.
+Schrijver, C.J., Title, A.M.: 2003, The magnetic connection between the solar photosphere and the corona. Astrophys. J. Lett. 597, L165.
+Stelzried, C.T., Levy, G.S., Sato, T., Rusch, W.V.T., Ohlson, J.E., Schatten, K.H., Wilcox, J.M.: 1970, The quasi-stationary coronal magnetic field and electron density as determined from a Faraday rotation experiment. Solar Phys. 14, 440.
+Tokumaru, M., Kojima, M., Fujiki, K.: 2010, Solar cycle evolution of the solar wind speed distribution from 1985 to 2008. J. Geophys. Res. 115, A04102.
+van Ballegooijen, A.A., Priest, E.R., Mackay, D.H.: 2000, Mean field model for the formation of filament channels on the Sun. Astrophys. J. 539, 983.
+Venugopal, V.R., Ananthakrishnan, S., Swarup, G., Pynzar, A.V., Udaltsov, V.A.: 1985, Structure of PKS 1148-001. Mon. Not. Roy. Astron. Soc. 215, 685.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1992, On potential field models of the solar corona. Astrophys. J. 392, 310.
+Zhao, X., Hoeksema, J.T.: 1995, Prediction of the interplanetary magnetic field strength. J. Geophys. Res. 100, 19.

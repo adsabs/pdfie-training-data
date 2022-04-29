@@ -1,0 +1,29 @@
+Adler, I., Trombka, J., Gerard, J., Lowman, P., Schmadebeck, R., Blodget, H., et al.: 1972, Apollo 15 geochemical X-ray fluorescence experiment: Preliminary report. Science 175(4020), 436.
+Alha, L., Huovelin, J., Hackman, T., Andersson, H., Howe, C.J., Esko, E., et al.: 2008, The in-flight performance of the X-ray Solar Monitor (XSM) on-board SMART-1. Nucl. Instrum. Methods A 596(3), 317.
+Alha, L., Huovelin, J., Nygård, K., Andersson, H., Esko, E., Howe, C.J., et al.: 2009, Ground calibration of the Chandrayaan-1 X-ray Solar Monitor (XSM). Nucl. Instrum. Methods A 607(3), 544.
+Ban, C., Zheng, Y.-C., Zhu, Y.-C., Zhang, F., Xu, L., Zou, Y.-L.: 2014, Research on the inversion of elemental abundances from Chang’E-2 X-ray spectrometry data. Chin. J. Geochem. 33(3), 289.
+Caspi, A., Woods, T.N., Warren, H.P.: 2015, New observations of the solar 0.5 – 5 keV soft X-ray spectrum. Astrophys. J. Lett. 802(1), L2.
+Clark, P.E., Trombka, J.I.: 1997, Remote X-ray spectrometry for NEAR and future missions: Modeling and analyzing X-ray production from source to surface. J. Geophys. Res. 102(E7), 16361.
+Cui, X.Z., Wang, H.Y., Peng, W.X., Zhang, C.M., Liang, X.H., Wang, J.Z., et al.: 2014, Observational results of the ChangE-1 Solar X-ray Monitor. Solar Phys. 289(5), 1597.
+Dennis, B.R., Phillips, K.J.H., Schwartz, R.A., Tolbert, A.K., Starr, R.D., Nittler, L.R.: 2015, Solar flare element abundances from the Solar Assembly for X-rays (SAX) on MESSENGER. Astrophys. J. 803(2), 67.
+Dong, W.-D., Zhang, X.-P., Zhu, M.-H., Xu, A.-A., Tang, Z.-S.: 2016, Global Mg/Si and Al/Si distributions on the lunar surface derived from Chang’E-2 X-ray spectrometer. Res. Astron. Astrophys. 16(1), 4.
+Dunkin, S.K., Grande, M., Casanova, I., Fernandes, V., Heather, D.J., Kellett, B., et al.: 2003, Scientific rationale for the D-CIXS X-ray spectrometer on board ESA’s SMART-1 mission to the Moon. Planet. Space Sci. 51(6), 435.
+Feldman, U., Laming, J.M.: 2000, Element abundances in the upper atmospheres of the Sun and stars: Update of observational results. Phys. Scr. 61(2), 222.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the solarsoft system. Solar Phys. 182(2), 497.
+Gburek, S., Sylwester, J., Kowalinski, M., Bakala, J., Kordylewski, Z., Podgorski, P., et al.: 2011, SphinX soft X-ray spectrophotometer: Science objectives, design and performance. Solar Syst. Res. 45(3), 189.
+Grande, M., Browning, R., Waltham, N., Parker, D., Dunkin, S.K., Kent, B., et al.: 2003, The D-CIXS X-ray mapping spectrometer on SMART-1. Planet. Space Sci. 51(6), 427.
+Howe, C.J., Drummond, D., Edeson, R., Maddison, B., Parker, D.J., Parker, R., et al.: 2009, Chandrayaan-1 X-ray Spectrometer (C1XS) – Instrument design and technical details. Planet. Space Sci. 57(7), 735.
+Huixian, S., Shuwu, D., Jianfeng, Y., Ji, W., Jingshan, J.: 2005, Scientific objectives and payloads of Chang’E-1 lunar satellite. J. Earth Syst. Sci. 114(6), 789.
+Klimchuk, J.A.: 2006, On solving the coronal heating problem. Solar Phys. 234(1), 41.
+Moore, C.S., Caspi, A., Woods, T.N., Chamberlin, P.C., Dennis, B.R., Jones, A.R., et al.: 2018, The instruments and capabilities of the Miniature X-Ray Solar Spectrometer (MinXSS) CubeSats. Solar Phys. 293(2), 21.
+Narendranath, S., Sreekumar, P., Alha, L., Sankarasubramanian, K., Huovelin, J., Athiray, P.S.: 2014, Elemental abundances in the solar corona as measured by the X-ray solar monitor onboard Chandrayaan-1. Solar Phys. 289(5), 1585.
+Nittler, L.R., Starr, R.D., Weider, S.Z., McCoy, T.J., Boynton, W.V., Ebel, D.S., et al.: 2011, The major-element composition of Mercury’s surface from MESSENGER X-ray spectrometry. Science 333(6051), 1847.
+Ouyang, Z., Li, C., Zou, Y., Zhang, H., Lu, C., Liu, J., et al.: 2010, Chang’E-1 lunar mission: An overview and primary science results. Chin. J. Space Sci. 30(5), 392.
+Peng, W.-X.: 2009, Research on data processing method for Chang’E-1 X-ray spectrometer. PhD thesis, Chinese Academy of Sciences (in Chinese).
+Peng, W.-X., Wang, H.-Y., Zhang, C.-M., Cao, X.-L., Cui, X.-Z., Zhang, J.-Y., et al.: 2009a, Calibration of Chang’E-1 X-ray spectrometer. Nucl. Electron. Detect. Technol. 29(2), 235 (in Chinese).
+Peng, W.-X., Wang, H.-Y., Zhang, C.-M., Cui, X.-Z., Cao, X.-L., Zhang, J.-Y., et al.: 2009b, Prospective results of Chang’E-2 X-ray spectrometer. Chin. Phys. C 33(10), 819.
+Phillips, K.J.H.: 2004, The solar flare 3.8 – 10 keV X-ray spectrum. Astrophys. J. 605(2), 921.
+Starr, R., Clark, P.E., Murphy, M.E., Floyd, S.R., McClanahan, T.P., Nittler, L.R., et al.: 2000, Instrument calibrations and data analysis procedures for the NEAR X-ray spectrometer. Icarus 147(2), 498.
+Swinyard, B.M., Joy, K.H., Kellett, B.J., Crawford, I.A., Grande, M., Howe, C.J., et al.: 2009, X-ray fluorescence observations of the moon by SMART-1/D-CIXS and the first detection of Ti Kα from the lunar surface. Planet. Space Sci. 57(7), 744.
+Weider, S.Z., Kellett, B.J., Swinyard, B.M., Crawford, I.A., Joy, K.H., Grande, M., et al.: 2012, The Chandrayaan-1 X-ray spectrometer: First results. Planet. Space Sci. 60(1), 217.
+Winebarger, A.R., Warren, H.P., Schmelz, J.T., Cirtain, J., Mulu-Moore, F., Golub, L., et al.: 2012, Defining the “blind spot” of Hinode EIS and XRT temperature measurements. Astrophys. J. Lett. 746(2), L17.

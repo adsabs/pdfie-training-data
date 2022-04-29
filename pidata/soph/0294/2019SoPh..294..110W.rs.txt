@@ -1,0 +1,54 @@
+Bothmer, V., Schwenn, R.: 1996, Signatures of fast CMEs in interplanetary space. Adv. Space Res. 17, 319.
+Cane, H.V., Richardson, I.G.: 2003, Interplanetary coronal mass ejections in the near-Earth solar wind during 1996 – 2002. J. Geophys. Res. 108, 1156.
+Chashei, I.V., Tyul’bashev, S.A., Shishov, V.I., Subaev, I.A.: 2018, Coronal mass ejections in September 2017 from monitoring of interplanetary scintillations with the large phase array of the Lebedev Institute of Physics. Astron. Rep. 62, 346.
+Collier, M.R., Lepping, R.P., Berdichevsky, D.B.: 2007, A statistical study of interplanetary shocks and pressure pulses internal to magnetic clouds. J. Geophys. Res. 112, A06102.
+Dryer, M.: 1994, Interplanetary studies: Propagation of disturbances between the Sun and the magnetosphere. Space Sci. Rev. 67, 363.
+Echer, E., Gonzalez, W.D.: 2004, Geoeffectiveness of interplanetary shocks magnetic clouds, sector boundary crossings and their combined occurrence. Geophys. Res. Lett. 31, L09808.
+Fry, C.D., Sun, W., Deehr, C.S., Dryer, M., Smith, Z., Akasofu, S.-I., Tokumaru, M. Kojima, M.: 2001, Improvements to the HAF solar wind model for space weather predictions. J. Geophys. Res. 106(A10), 20985.
+Gopalswamy, N.A.: 2016, History and development of coronal mass ejections as a key player in solar terrestrial relationship. Geosci. Lett. 3, 8, 18 pp.
+Gopalswamy, N.A., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D.B., St. Cyr, O.C.: 2000, Interplanetary acceleration of coronal mass ejections. Geophys. Res. Lett. 27, 145.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001, Predicting the 1-AU arrival of coronal mass ejections. J. Geophys. Res. 106(A12), 29209.
+Gosling, J.T.: 1990, Coronal mass ejections and magnetic flux ropes in interplanetary space. In: Physics of Magnetic Flux Ropes (A92-31201 12-75), Am. Geophys. Union, Washington, 343.
+Gosling, J.T., Hilder, E., MacQueen, R.M., Munro, R.H., Poland, A.I., Ross, C.L.: 1975, Direct observations of a flare related coronal and solar wind disturbance. Solar Phys. 40, 439.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vayliuma, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99, 5771.
+Guo, J. Dumbović, M. Wimmer-Schweingruber, R.F., Temmer, M., Lohf, H., Wang, Y., et al.: 2018, Space Weather 16(8), 1156.
+Hakamada, K., Akasofu, S.-I.: 1982, Simulation of three-dimensional solar wind disturbances and resulting geomagnetic storms. Space Sci. Rev. 31, 3.
+Han, S.M., Wu, S.T., Dryer, M.: 1988, A three-dimensional, time-dependent numerical modeling of super-sonic, super-Alfvénic MHD flow. Comput. Fluids 16, 81 (ISSN 0045-7930)
+Huttunen, K.E.J., Schwenn, R., Bothmer, V., Koskinen, H.E.J.: 2005, Properties and geoeffectiveness of magnetic clouds in the rising, maximum and early declining phases of solar cycle 23. Ann. Geophys. 23(2), 625.
+Kamide, Y., Yokoyama, N., Gonzalez, W., Tsurutani, B.T., Daglis, I.A., Brekke, A., Masuda, S.: 1998, Two-step development of geomagnetic storms. J. Geophys. Res. 103, 6917.
+Lax, P.D., Wendroff, B.: 1960, Systems of conservation laws. Comm. Pure Appl. Math. 13, 217.
+Lepping, R.P., Jones, J.A., Burlaga, L.F.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95(A8), 11957.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B.: 2005, Automatic identification of magnetic clouds and cloud-like regions at 1 AU: Occurrence rate and other properties. Ann. Geophys. 23, 2687.
+Lepping, R.P., Berdichevsky, D.B., Wu, C.-C., Szabo, A., Narock, T., Mariani, F., Lazarus, A.J., Quivers, A.J.: 2006, A summary of WIND magnetic clouds for years 1995 – 2003: Model-fitted parameters, associated errors and classifications. Ann. Geophys. 24, 215.
+Liou, K., Wu, C.-C., Dryer, M., Wu, S.T., Nathan, R., Plunkett, S., Simpson, L., Fry, C.D., Schenk, K.: 2014, Global simulation of extremely fast coronal mass ejection on 23 July 2012. J. Atmos. Solar-Terr. Phys. 121, 32.
+Liu, Y.D., Luhmann, J.G., Kajdič, P., Kilpua, E.K.J., Lugaz, N., Nitta, V., Möstl, C., Lavraud, B., Bale, S.D., Farrugia, C.J., Galvin, A.B.: 2014, Observations of an extreme storm in interplanetary space caused by successive coronal mass ejections. Nat. Commun. 5, 3481.
+McAllister, A.H., Crooker, N.U.: 1997, Coronal mass ejections, corotating interaction regions, and geomagnetic storms. In: Crooker, N., Joselyn, J.A., Feynman, J. (eds.) Coronal Mass Ejections, Geophys. Monogr. Ser. 99, Am. Geophys. Union, Washington, 279.
+Owens, M., Cargill, P.: 2004, Predictions of the arrival time of coronal mass ejections at 1 AU: An analysis of the causes of errors. Ann. Geophys. 22(2), 661.
+Richardson, I.G., Cane, H.: 2011, Geoeffectiveness (Dst and Kp) of interplanetary coronal mass ejections during 1995 – 2009 and implications for storm forecasting. Space Weather 9, S07005.
+Schwenn, R., dal Lago, A., Huttunen, E., Gonzalez, W.D.: 2005, The association of coronal mass ejections with their effects near the Earth. Ann. Geophys. 23(3), 1033.
+Sheeley, N.R. Jr., Howard, R.A., Michel, D.J., Koomen, M.J., Schwenn, R., Muehlhaeuser, K.H., Rosenbauer, H.: 1985, Coronal mass ejections and interplanetary shocks. J. Geophys. Res. 90, 163.
+Sugiura, M.: 1953, The solar diurnal variation in the amplitude of sudden commencements of magnetic storms at the geomagnetic equator. J. Geophys. Res. 58, 558.
+Tsurutani, B.T., Gonzalez, W.D.: 1997, In: Tsurutani, B.T., Gonzalez, W.D., Kamide, Y. (eds.) The Interplanetary Causes of Magnetic Storms: A Review, Geophys. Monogr. Ser. 98, Am. Geophys. Union, Washington, 77.
+Tsurutani, B.T., Smith, E.J., Gonzalez, W.D., Tang, F., Akasofu, S.I.: 1988, Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar maximum (1978 – 1979). J. Geophys. Res. 93, 8517.
+Vršnak, B., Zic, T., Falkenberg, T.V., Möstl, C., Vennerstrom, S., Vrbanec, D.: 2010, The role of aerodynamic drag in propagation of interplanetary coronal mass ejections. Astron. Astrophys. 512, A43.
+Wood, B.E., Wu, C.-C., Howard, R.A., Socker, D.G., Rouillard, A.P.: 2011, Empirical reconstruction and numerical modeling of the first geoeffective coronal mass ejection of solar cycle 24. Astrophys. J. 729, 70.
+Wood, B.E., Wu, C.-C., Rouillard, A.P., Howard, R.A., Socker, D.G.: 2012, A coronal hole’s effects on CME shock morphology in the inner heliosphere. Astrophys. J. 755, 43.
+Wood, B.E., Wu, C.-C., Lepping, R.P., Nieves-Chinchilla, T., Howard, R.A., Linton, M.G., Socker, D.G.: 2017, A STEREO survey of magnetic cloud coronal mass ejections observed at Earth in 2008 – 2012. Astrophys. J. Suppl. 229(2), 29, 26 pp.
+Wu, C.-C., Lepping, R.P.: 2002a, Effects of magnetic clouds on the occurrence of geomagnetic storms: the first 4 years of wind. J. Geophys. Res. 107(A10), 1314.
+Wu, C.-C., Lepping, R.P.: 2002b, Effect of solar wind velocity on magnetic cloud-associated magnetic storm intensity. J. Geophys. Res. 107(A11), 1346.
+Wu, C.-C., Lepping, R.P.: 2007, Comparison of the characteristics of magnetic clouds and magnetic cloud-like structures for the events of 1995 – 2003. Solar Phys. 242, 159.
+Wu, C.-C., Lepping, R.P.: 2008, Geomagnetic activity associated with magnetic clouds, magnetic cloud-like structures and interplanetary shocks for the period 1995 – 2003. Adv. Space Res. 41, 335.
+Wu, C.-C., Lepping, R.P.: 2011, Statistical comparison of magnetic clouds with interplanetary coronal mass ejections for solar cycle 23. Solar Phys. 269, 141.
+Wu, C.-C., Lepping, R.P.: 2016, Relationships among geomagnetic storms, interplanetary shocks, magnetic clouds, and sunspot number during 1995 – 2012. Solar Phys. 291, 265.
+Wu, C.C., Lepping, R.P., Gopalswamy, N.: 2006, Relationships among magnetic clouds, CMES, and geomagnetic storms. Solar Phys. 239, 449.
+Wu, C.-C., Fry, C.D., Wu, S.T., Dryer, M., Liou, K.: 2007a, Three-dimensional global simulation of ICME propagation from the Sun to the heliosphere: 12 May 1997 solar event. J. Geophys. Res. 112, A09104,
+Wu, C.-C., Fry, C.D., Wu, S.T., Dryer, M., Thompson, B., Liou, K., Feng, X.S.: 2007b, Three-dimensional global simulation of multiple ICMEs’ interaction and propagation from the Sun to the heliosphere following the 25 – 28 October 2003 solar events, coronal mass ejections. Adv. Space Res. 40, 1827.
+Wu, C.-C., Dryer, M., Wu, S.T., Wood, B., Fry, C.D., Liou, K., Plunkett, S.: 2011, Global three-dimensional simulation of the interplanetary evolution of the observed geoeffective CME during the epoch August 1 – 4, 2010. J. Geophys. Res. 116, A12103 13 pp.
+Wu, C.-C., Gopalswamy, N., Lepping, R.P., Yashiro, S.: 2013, Characteristics of magnetic clouds/interplanetary coronal mass ejections which caused intense geomagnetic storms. Terr. Atmos. Ocean. Sci. 24, 233.
+Wu, C.-C., Liou, K., Lepping, R.P., Hutting, L., Plunkett, S., Howard, R.A., Socker, D.: 2016a, The first super geomagnetic storm of solar cycle 24: “The St. Patrick’s day event (17 March 2015)”. Earth Planets Space 68(1), 151, 12 pp.
+Wu, C.-C., Liou, K., Vourlidas, A., Plunkett, S., Dryer, M., Wu, S.T., Mewaldt, R.A.: 2016b, Global magnetohydrodynamic simulation of the March 15, 2013 coronal mass ejection event – Interpretation of the 30 – 80 MeV proton flux. J. Geophys. Res. 121(1), 56.
+Wu, C.-C., Liou, K., Vourlidas, A., Plunkett, S., Dryer, M., Wu, S.T., Socker, D., Wood, B.E., Hutting, L., Howard, R.: 2016c, Numerical simulation of multiple CME-driven shocks in the month of 2011 September. J. Geophys. Res. 121, 1839.
+Wu, C.-C., Liou, K., Lepping, R.P., Vourlidas, A., Plunkett, S., Socker, D., Wu, S.T.: 2017, Observation of an extremely large-density heliospheric plasma sheet compressed by an interplanetary shock at 1 AU. Solar Phys. 292, 109.
+Wu, C.-C., Liou, K., Plunkett, S., Socker, D., Wang, Y.M., Wood, B.E., Wu, S.T., Dryer, M., Kung, C.: 2019, Modeling inner boundary values at 18 solar radii during solar quiet time for global three-dimensional time-dependent magnetohydrodynamic numerical simulation. J. Atmos. Solar-Terr. Phys. (Submitted).
+Yashiro, S., Gopalswamy, N., Cliver, E.W., Reames, D.V., Kaiser, M.L., Howard, R.A.: 2004, Association of coronal mass ejections and type II radio bursts with impulsive solar energetic particle events, the solar-B mission and the forefront of solar physics. In: Sakurai, T., Sekii, T. (eds.) Proceedings of the Fifth Solar-B Science Meeting Held 12 – 14 November, 2003 in Roppongi, Tokyo, Japan, ASP Conference Series 325, Astron. Soc. Pacific, San Francisco, 401.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J., Nitta, N., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, Z.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst < - 100 nT) during 1996 – 2005. J. Geophys. Res. 112, A10102.

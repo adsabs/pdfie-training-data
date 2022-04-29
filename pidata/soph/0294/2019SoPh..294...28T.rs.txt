@@ -1,0 +1,19 @@
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., et al.: 1995, Solar Phys. 162, 357.
+Chamberlin, P.: 2018, Private communication.
+D’Huys, E., Seaton, D.B., De Groof, A., Berghmans, D., Poedts, S.: 2017, J. Space Weather Space Clim. 7, A7.
+Golub, L., Pasachoff, J.: 2009, The Solar Corona, 2nd edn. Cambridge University Press, Cambridge ISBN 978-0-521-88201-9.
+Gopalswamy, N., Yashiro, S., Mäkelä, P., Xie, H., Akiyama, S., Monstein, C.: 2018, Astrophys. J. Lett. 863, L39.
+Goryaev, F., Slemzin, V., Vainshtein, L., Williams, D.R.: 2014, Astrophys. J. 781, 100.
+Halain, J.-P., Berghmans, D., Seaton, D.B., Nicula, B., De Groof, A., Mierla, M., et al.: 2013, Solar Phys. 286, 67.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Space Sci. Rev. 136, 67.
+Kuzin, S.V., Zhitnik, I.A., Shestov, S.V., Bogachev, S.A., Bugaenko, O.I., Ignat’ev, A.P., et al.: 2011, Solar Syst. Res. 45, 162.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, Solar Phys. 275, 17.
+Martínez-Galarce, D., Harvey, J., Bruner, M., Lemen, J., Gullikson, E., Soufli, R., et al.: 2010, In: Arnaud, M., Murray, S.S., Takahashi, T. (eds.) Space Telescopes and Instrumentation 2010: Ultraviolet to Gamma Ray, San Diego, CA, SPIE 7732.
+Martínez-Galarce, D., Soufli, R., Windt, D.L., Bruner, M., Gullikson, E., Khatri, S., et al.: 2013, Optical Engineering 52, 095102.
+Reva, A.A., Kirichenko, A.S., Kuzin, S.V., Ulanov, A.S.: 2017, Astrophys. J. 851, 108.
+Savage, S.: 2016, Private communication.
+Seaton, D.B., Darnel, J.M.: 2018, Astrophys. J. Lett. 852, L9.
+Seaton, D.B., Berghmans, D., Nicula, B., Halain, J.-P., De Groof, A., Thibert, T., et al.: 2013a, Solar Phys. 286, 43.
+Seaton, D.B., DeGroof, A., Shearer, P., Berghmans, D., Nicula, B.: 2013b, Astrophys. J. 777, 72.
+Shestov, S.V., Zhukov, A.N.: 2018, Astron. Astrophys. 612, A82.
+Slemzin, V., Bougaenko, O., Ignatiev, A., Kuzin, S., Mitrofanov, A., Pertsov, A., Zhitnik, I.: 2008, Ann. Geophys. 26, 3007.

@@ -1,0 +1,44 @@
+Basu, S., Antia, H.M., Bogart, R.S.: 2004, Ring-diagram analysis of the structure of solar active regions. Astrophys. J. 610, 1157.
+Bertello, L., Britanik, J., Callahan, L., Gosain, S., Harker, B., Harvey, J.W., Hughes, A., Marble, A., Pevtsov, A.A., Wentzel, T.: 2016, Current status of the SOLIS program: Improved and new data products. In: AAS Solar Phys. Div. Meeting 47. 10.02.
+Bogart, R.S., Baldner, C., Basu, S., Haber, D.A., Rabello-Soares, M.C.: 2011a, HMI ring diagram analysis I. The processing pipeline. J. Phys. Conf. Ser. 271(1), 012008.
+Bogart, R.S., Baldner, C., Basu, S., Haber, D.A., Rabello-Soares, M.C.: 2011b, HMI ring diagram analysis II. Data products. J. Phys. Conf. Ser. 271(1), 012009.
+Braun, D.C., Birch, A.C., Lindsey, C.: 2004, Local helioseismology of near-surface flows. In: Danesy, D. (ed.) SOHO 14 Helio- and Asteroseismology: Towards a Golden Future SP-559, ESA, Noordwijk, 337.
+Cameron, R.H., Jiang, J., Schüssler, M.: 2016, Solar Cycle 25: Another moderate cycle? Astrophys. J. Lett. 823, L22.
+Corbard, T., Toner, C., Hill, F., Hanna, K.D., Haber, D.A., Hindman, B.W., Bogart, R.S.: 2003, Ring-diagram analysis with GONG++. In: Sawaya-Lacoste, H. (ed.) GONG+ 2002. Local and Global Helioseismology: The Present and Future SP-517, ESA, Noordwijk, 255.
+Fan, Y.: 2009, Magnetic fields in the solar convection zone. Living Rev. Solar Phys. 6, 4.
+González Hernández, I., Kholikov, S., Hill, F., Howe, R., Komm, R.: 2008, Subsurface meridional circulation in the active belts. Solar Phys. 252, 235.
+Haber, D.A., Hindman, B.W., Toomre, J., Bogart, R.S., Larsen, R.M., Hill, F.: 2002, Evolving submerged meridional circulation cells within the upper convection zone revealed by ring-diagram analysis. Astrophys. J. 570, 855.
+Harvey, J., Tucker, R., Britanik, L.: 1998, High resolution upgrade of the GONG instruments. In: Korzennik, S. (ed.) Structure and Dynamics of the Interior of the Sun and Sun-Like Stars SP-418, ESA, Noordwijk, 209.
+Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., Noyes, R.W., Title, A.M., Toomre, J., Ulrich, R.K., Bhatnagar, A., Kennewell, J.A., Marquette, W., Patron, J., Saa, O., Yasukawa, E.: 1996, The Global Oscillation Network Group (GONG) Project. Science 272, 1284.
+Harvey, K.L.: 1992, The cyclic behavior of solar activity. In: Harvey, K.L. (ed.) The Solar Cycle, Astron. Soc. Pac. Conf. Ser. 27, 335.
+Hathaway, D.H., Upton, L.: 2016, Predicting the amplitude and hemispheric asymmetry of Solar Cycle 25 with surface flux transport. In: AAS Solar Phys. Div. Meeting 47. 10.06.
+Howard, R.F.: 1996, Solar active regions as diagnostics of subsurface conditions. Annu. Rev. Astron. Astrophys. 34, 75.
+Howe, R.: 2009, Solar interior rotation and its variation. Living Rev. Solar Phys. 6, 1.
+Howe, R., Bogart, R.S.: 2016, A Center-to-Limb Effect in the Full-Disk FITSC Results.
+Komm, R., Howe, R., Hill, F.: 2011, Subsurface velocity of emerging and decaying active regions. Solar Phys. 268, 407.
+Komm, R.W.: 2007, Value-added maps: Fluid-dynamics descriptors from ring diagrams. Astron. Nachr. 328, 269.
+Komm, R., Corbard, T., Durney, B.R., González Hernández, I., Hill, F., Howe, R., Toner, C.: 2004, Solar subsurface fluid dynamics descriptors derived from Global Oscillation Network Group and Michelson Doppler Imager data. Astrophys. J. 605, 554.
+Komm, R., Howe, R., Hill, F., González-Hernández, I., Toner, C., Corbard, T.: 2005, Ring analysis of solar subsurface flows and their relation to surface magnetic activity. Astrophys. J. 631, 636.
+Komm, R., Howe, R., Hill, F., Miesch, M., Haber, D., Hindman, B.: 2007, Divergence and vorticity of solar subsurface flows derived from ring-diagram analysis of MDI and GONG data. Astrophys. J. 667, 571.
+Komm, R., Howe, R., González Hernández, I., Hill, F.: 2014, Solar-cycle variation of subsurface zonal flow. Solar Phys. 289, 3435.
+Komm, R., González Hernández, I., Howe, R., Hill, F.: 2015a, Solar-cycle variation of subsurface meridional flow derived with ring-diagram analysis. Solar Phys. 290, 3113.
+Komm, R., González Hernández, I., Howe, R., Hill, F.: 2015b, Subsurface zonal and meridional flow derived from GONG and SDO/HMI: A comparison of systematics. Solar Phys. 290, 1081.
+Li, K.J., Feng, W., Li, F.Y.: 2015, Predicting the maximum amplitude of Solar Cycle 25 and its timing. J. Atmos. Solar-Terr. Phys. 135, 72.
+Lo, L., Hoeksema, J.T., Scherrer, P.H.: 2010, Three cycles of the solar toroidal magnetic field and this peculiar minimum. In: Cranmer, S.R., Hoeksema, J.T., Kohl, J.L. (eds.) SOHO-23: Understanding a Peculiar Solar Minimum, Astron. Soc. Pac. Conf. Ser. 428, 109.
+McIntosh, S.W., Wang, X., Leamon, R.J., Davey, A.R., Howe, R., Krista, L.D., Malanushenko, A.V., Markel, R.S., Cirtain, J.W., Gurman, J.B., Pesnell, W.D., Thompson, M.J.: 2014, Deciphering solar magnetic activity. I. On the relationship between the sunspot cycle and the evolution of small magnetic features. Astrophys. J. 792, 12.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pevtsov, A.A., Nagovitsyn, Y.A., Tlatov, A.G., Rybak, A.L.: 2011, Long-term trends in sunspot magnetic fields. Astrophys. J. Lett. 742, L36.
+Press, W.H., Teukolsky, S.A., Vetterling, W.T., Flannery, B.P.: 1992, Numerical Recipes in FORTRAN. The Art of Scientific Computing.
+Rezaei, R., Beck, C., Lagg, A., Borrero, J.M., Schmidt, W., Collados, M.: 2015, Variation in sunspot properties between 1999 and 2014. Astron. Astrophys. 578, A43.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) Investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) Instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Schrijver, C.J., Harvey, K.L.: 1994, The photospheric magnetic flux budget. Solar Phys. 150, 1.
+Schüssler, M.: 1981, The solar torsional oscillation and dynamo models of the Solar Cycle. Astron. Astrophys. 94, L17.
+Schüssler, M., Rempel, M.: 2005, The dynamical disconnection of sunspots from their magnetic roots. Astron. Astrophys. 441, 337.
+Spruit, H.C.: 2003, Origin of the torsional oscillation pattern of solar rotation. Solar Phys. 213, 1.
+van Ballegooijen, A.A., Mackay, D.H.: 2007, Model for the coupled evolution of subsurface and coronal magnetic fields in solar active regions. Astrophys. J. 659, 1713.
+van Driel-Gesztelyi, L., Green, L.M.: 2015, Evolution of active regions. Living Rev. Solar Phys. 12, 1.
+Watson, F.T., Fletcher, L., Marshall, S.: 2011, Evolution of sunspot properties during Solar Cycle 23. Astron. Astrophys. 533, A14.
+Yoshimura, H.: 1981, Solar cycle Lorentz force waves and the torsional oscillations of the sun. Astrophys. J. 247, 1102.
+Zhao, J., Kosovichev, A.G.: 2004, Torsional oscillation, meridional flows, and vorticity inferred in the upper convection zone of the sun by time-distance helioseismology. Astrophys. J. 603, 776.
+Zhao, J., Kosovichev, A.G., Bogart, R.S.: 2014, Solar meridional flow in the shallow interior during the rising phase of Cycle 24. Astrophys. J. Lett. 789, L7.

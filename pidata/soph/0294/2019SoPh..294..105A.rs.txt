@@ -1,0 +1,36 @@
+Alaoui, M., Holman, G.D.: 2017, Astrophys. J. 851, 78.
+Alexander, R.C., Brown, J.C.: 2002, Solar Phys. 210, 407.
+Bai, T., Ramaty, R.: 1978, Astrophys. J. 219, 705.
+Battaglia, M., Grigis, P.C., Benz, A.O.: 2005, Astron. Astrophys. 439, 737.
+Brown, J.C.: 1971, Solar Phys. 18, 489.
+Casadei, D., Jeffrey, N.L.S., Kontar, E.P.: 2017, Astron. Astrophys. 606, A2.
+Christe, S., Hannah, I.G., Krucker, S., McTiernan, J., Lin, R.P.: 2008, Astrophys. J. 677, 1385.
+Conway, A.J., Brown, J.C., Eves, B.A.C., Kontar, E.: 2003, Astron. Astrophys. 407, 725.
+Dickson, E.C.M., Kontar, E.P.: 2013, Solar Phys. 284, 405.
+Dulk, G.A., Kiplinger, A.L., Winglee, R.M.: 1992, Astrophys. J. 389, 756.
+Grigis, P.C., Benz, A.O.: 2004, Astron. Astrophys. 426, 1093.
+Hannah, I.G., Christe, S., Krucker, S., Hurford, G.J., Hudson, H.S., Lin, R.P.: 2008, Astrophys. J. 677, 704.
+Holman, G.D.: 2012, Astrophys. J. 745, 52.
+Holman, G.D., Mariska, J.T., McTiernan, J.M., Ofman, L., Petrosian, V., Ramaty, R.: 2001, Bull. Am. Astron. Soc. 33, 1444.
+Holman, G.D., Sui, L., Schwartz, R.A., Emslie, A.G.: 2003, Astrophys. J. Lett. 595, L97.
+Kašparová, J., Kontar, E.P., Brown, J.C.: 2007, Astron. Astrophys. 466, 705.
+Knight, J.W., Sturrock, P.A.: 1977, Astrophys. J. 218, 306.
+Kontar, E.P., Brown, J.C., McArthur, G.K.: 2002, Solar Phys. 210, 419.
+Kontar, E.P., Reid, H.A.S.: 2009, Astrophys. J. Lett. 695, L140.
+Kontar, E.P., MacKinnon, A.L., Schwartz, R.A., Brown, J.C.: 2006, Astron. Astrophys. 446, 1157.
+Kontar, E.P., Emslie, A.G., Massone, A.M., Piana, M., Brown, J.C., Prato, M.: 2007, Astrophys. J. 670, 857.
+Krucker, S., Lin, R.P.: 2008, Astrophys. J. 673, 1181.
+Krucker, S., Oakley, P.H., Lin, R.P.: 2009, Astrophys. J. 691, 806.
+Krucker, S., Kontar, E.P., Christe, S., Lin, R.P.: 2007, Astrophys. J. Lett. 663, L109.
+Landini, M., Monsignori Fossi, B.C., Pallavicini, R.: 1973, Solar Phys. 29, 93.
+Lin, R.P., Hudson, H.S.: 1971, Solar Phys. 17, 412.
+Lin, R.P., Schwartz, R.A.: 1987, Astrophys. J. 312, 462.
+Lin, R.P., Dennis, B.R., Hurford, G.J., Smith, D.M., Zehnder, A., Harvey, P.R., Curtis, D.W., Pankow, D., Turin, P., Bester, M., Csillaghy, A., Lewis, M., Madden, N., van Beek, H.F., Appleby, M., Raudorf, T., McTiernan, J., Ramaty, R., Schmahl, E., Schwartz, R., Krucker, S., Abiad, R., Quinn, T., Berg, P., Hashii, M., Sterling, R., Jackson, R., Pratt, R., Campbell, R.D., Malone, D., Landis, D., Barrington-Leigh, C.P., Slassi-Sennou, S., Cork, C., Clark, D., Amato, D., Orwig, L., Boyle, R., Banks, I.S., Shirey, K., Tolbert, A.K., Zarro, D., Snow, F., Thomsen, K., Henneck, R., McHedlishvili, A., Ming, P., Fivian, M., Jordan, J., Wanner, R., Crubb, J., Preble, J., Matranga, M., Benz, A., Hudson, H., Canfield, R.C., Holman, G.D., Crannell, C., Kosugi, T., Emslie, A.G., Vilmer, N., Brown, J.C., Johns-Krull, C., Aschwanden, M., Metcalf, T., Conway, A.: 2002, Solar Phys. 210, 3.
+Massone, A.M., Emslie, A.G., Kontar, E.P., Piana, M., Prato, M., Brown, J.C.: 2004, Astrophys. J. 613, 1233.
+Smith, D.M., Lin, R.P., Turin, P., Curtis, D.W., Primbsch, J.H., Campbell, R.D., Abiad, R., Schroeder, P., Cork, C.P., Hull, E.L., Landis, D.A., Madden, N.W., Malone, D., Pehl, R.H., Raudorf, T., Sangsingkeow, P., Boyle, R., Banks, I.S., Shirey, K., Schwartz, R.: 2002, Solar Phys. 210, 33.
+Su, Y., Holman, G.D., Dennis, B.R.: 2011, Astrophys. J. 731, 106.
+Su, Y., Holman, G.D., Dennis, B.R., Tolbert, A.K., Schwartz, R.A.: 2009, Astrophys. J. 705, 1584.
+Sui, L., Holman, G.D., Dennis, B.R.: 2007, Astrophys. J. 670, 862.
+Warmuth, A., Holman, G.D., Dennis, B.R., Mann, G., Aurass, H., Milligan, R.O.: 2009, Astrophys. J. 699, 917.
+Zharkova, V.V., Gordovskyy, M.: 2005, Astron. Astrophys. 432, 1033.
+Zharkova, V.V., Gordovskyy, M.: 2006, Astrophys. J. 651, 553.

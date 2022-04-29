@@ -1,0 +1,67 @@
+Amari, T., Luciani, J.F., Aly, J.J., Mikic, Z., Linker, J.: 2003, Coronal mass ejection: initiation, magnetic helicity, and flux ropes, II: Turbulent diffusion-driven evolution. Astrophys. J. 595, 1231.
+Antiochos, S.K.: 1998, The magnetic topology of solar eruptions. Astrophys. J. Lett. 502, L181.
+Antiochos, S.K., DeVore, C.R., Klimchuk, J.A.: 1999, A model for solar coronal mass ejections. Astrophys. J. 510, 485.
+Aschwanden, M.J.: 2016, The vertical-current approximation nonlinear force-free field code description, performance tests, and measurements of magnetic energies dissipated in solar Flares. Astrophys. J. Suppl. Ser. 224, 25.
+Bateman, G.: 1978, MHD Instabilities, MIT Press, Cambridge.
+Chae, J.: 2000, The magnetic helicity sign of filament chirality. Astrophys. J. Lett. 540, L115.
+Chae, J.: 2003, The formation of a prominence in NOAA active region 8668, II: Trace observations of jets and eruptions associated with canceling magnetic features. Astrophys. J. 584, 1084.
+Chen, P.F.: 2011, Coronal mass ejections: Models and their observational basis. Living Rev. Solar Phys. 8, 1.
+Chen, H., Zhang, J., Cheng, X., Ma, S., Yang, S., Li, T.: 2014, Direct observations of tether-cutting reconnection during a major solar event from 2014 February 24 to 25. Astrophys. J. Lett. 797, L15.
+Chifor, C., Tripathi, D., Mason, H.E., Dennis, B.R.: 2007, X-ray precursors to flares and filament eruptions. Astron. Astrophys. 472, 967.
+Dhara, S.K., Ravindra, B., Banyal, R.K.: 2014, Observations of photospheric vortical motions during the early stage of filament eruption. Solar Phys. 289, 4481.
+Fan, Y., Gibson, S.E.: 2007, Onset of coronal mass ejections due to loss of confinement of coronal flux ropes. Astrophys. J. 668, 1232.
+Forbes, T.G.: 2000, A review on the genesis of coronal mass ejections. J. Geophys. Res. 105, 23153.
+Gilbert, H.R., Alexander, D., Liu, R.: 2007, Filament kinking and its implications for eruption and re-formation. Solar Phys. 245, 287.
+Gopalswamy, N., Shimojo, M., Lu, W., Yashiro, S., Shibasaki, K., Howard, R.A.: 2003, Prominence eruptions and coronal mass ejection: A statistical study using microwave observations. Astrophys. J. 586, 562.
+Green, L.M., Kliem, B., Wallace, A.J.: 2011, Photospheric flux cancellation and associated flux rope formation and eruption. Astron. Astrophys. 526, A2.
+Harvey, J.W., Hill, F., Hubbard, R.P., Kennedy, J.R., Leibacher, J.W., Pintar, J.A., Gilman, P.A., Noyes, R.W., Title, A.M., Toomre, J., Ulrich, R.K., Bhatnagar, A., Kennewell, J.A., Marquette, W., Patron, J., Saa, O., Yasukawa, E.: 1996, The global oscillation network group (GONG) project. Science 272, 1284.
+Hood, A.W., Priest, E.R.: 1979, Kink instability of solar coronal loops as the cause of solar flares. Solar Phys. 64, 303.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., Korendyke, C.M., Cook, J.W., Hurley, A., Davila, J.M., Thompson, W.T., St Cyr, O.C., Mentzell, E., Mehalick, K., Lemen, J.R., Wuelser, J.P., Duncan, D.W., Tarbell, T.D., Wolfson, C.J., Moore, A., Harrison, R.A., Waltham, N.R., Lang, J., Davis, C.J., Eyles, C.J., Mapson-Menard, H., Simnett, G.M., Halain, J.P., Defise, J.M., Mazy, E., Rochus, P., Mercier, R., Ravet, M.F., Delmotte, F., Auchere, F., Delaboudiniere, J.P., Bothmer, V., Deutsch, W., Wang, D., Rich, N., Cooper, S., Stephens, V., Maahs, G., Baugh, R., McMullin, D., Carter, T.: 2008, Sun earth connection coronal and heliospheric investigation (SECCHI). Space Sci. Rev. 136, 67.
+Kahler, S.W., Moore, R.L., Kane, S.R., Zirin, H.: 1988, Filament eruptions and the impulsive phase of solar flares. Astrophys. J. 328, 824.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: An introduction. Space Sci. Rev. 136, 5.
+Karpen, J.T., Antiochos, S.K., DeVore, C.R.: 2012, The mechanisms for the onset and explosive eruption of coronal mass ejections and eruptive flares. Astrophys. J. 760, 81.
+Kim, S., Moon, Y.-J., Kim, K.-H., Kim, Y.-H., Sakurai, T., Chae, J., Kim, K.-S.: 2007, Two-step reconnections in a C3.3 flare and its preflare activity observed by Hinode XRT. Pub. Astron. Soc. Japan 59, 831.
+Kliem, B., Török, T.: 2006, Torus instability. Phys. Rev. Lett. 96(25), 255002.
+Kumar, P., Cho, K.-S.: 2014, Multiwavelength observation of a large-scale flux rope eruption above a kinked small filament. Astron. Astrophys. 572, A83.
+Kumar, P., Cho, K.-S., Bong, S.-C., Park, S.-H., Kim, Y.H.: 2012, Initiation of coronal mass ejection and associated flare caused by helical kink instability observed by SDO/AIA. Astrophys. J. 746, 67.
+Kusano, K., Bamba, Y., Yamamoto, T.T., Iida, Y., Toriumi, S., Asai, A.: 2012, Magnetic field structures triggering solar flares and coronal mass ejections. Astrophys. J. 760, 31.
+Lee, J., Liu, C., Jing, J., Chae, J.: 2016, Solar multiple eruptions from a confined magnetic structure. Astrophys. J. Lett. 829, L1.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The atmospheric imaging assembly (AIA) on the solar dynamics observatory (SDO). Solar Phys. 275, 17.
+Liewer, P.C., de Jong, E.M., Hall, J.R., Howard, R.A., Thompson, W.T., Culhane, J.L., Bone, L., van Driel-Gesztelyi, L.: 2009, Stereoscopic analysis of the 19 May 2007 erupting filament. Solar Phys. 256, 57.
+Liu, R., Wang, H.: 2010, Fast contraction of coronal loops at the flare peak. Astrophys. J. Lett. 714, L41.
+Liu, W., Wang, T.-J., Dennis, B.R., Holman, G.D.: 2009, Episodic X-ray emission accompanying the activation of an eruptive prominence: Evidence of episodic magnetic reconnection. Astrophys. J. 698, 632.
+Liu, Y., Hoeksema, J.T., Scherrer, P.H., Schou, J., Couvidat, S., Bush, R.I., Duvall, T.L., Hayashi, K., Sun, X., Zhao, X.: 2012, Comparison of line-of-sight magnetograms taken by the solar dynamics observatory/helioseismic and magnetic imager and solar and heliospheric observatory/michelson doppler imager. Solar Phys. 279, 295.
+Martin, S.F.: 1980, Preflare conditions, changes and events. Solar Phys. 68, 217.
+Martin, S.F.: 1998, Conditions for the formation and maintenance of filaments (invited review). Solar Phys. 182, 107.
+Martin, S.F., Bilimoria, R., Tracadas, P.W.: 1994, Magnetic field configurations basic to filament channels and filaments. In: Rutten, R.J., Schrijver, C.J. (eds.) NATO Adv. Sci. Inst. Ser. C 433, 303.
+Martin, S.F., Livi, S.H.B.: 1992, The role of cancelling magnetic fields in the buildup to erupting filaments and flares. In: Svestka, Z., Jackson, B.V., Machado, M.E. (eds.) IAU Colloq. 133: Eruptive Solar Flares, Lect. Notes Phys. 399, 33.
+Martin, S.F., Livi, S.H.B., Wang, J.: 1985, The cancellation of magnetic flux, II: In a decaying active region. Aust. J. Phys. 38, 929.
+Moore, R.L., Labonte, B.J.: 1980, The filament eruption in the 3B flare of July 29, 1973 – onset and magnetic field configuration. In: Dryer, M., Tandberg-Hanssen, E. (eds.) IAU Symp. 91: Solar and Interplanetary Dynamics, 207.
+Moore, R.L., Roumeliotis, G.: 1992, Triggering of eruptive flares – destabilization of the preflare magnetic field configuration. In: Svestka, Z., Jackson, B.V., Machado, M.E. (eds.) IAU Colloq. 133: Eruptive Solar Flares, Lect. Notes Phys. 399, 69.
+Moore, R.L., Sterling, A.C.: 2006, Initiation of coronal mass ejections. AGU Geophys. Monograph Ser. 165, 43.
+Moore, R.L., Sterling, A.C., Hudson, H.S., Lemen, J.R.: 2001, Onset of the magnetic explosion in solar flares and coronal mass ejections. Astrophys. J. 552, 833.
+Nagashima, K., Isobe, H., Yokoyama, T., Ishii, T.T., Okamoto, T.J., Shibata, K.: 2007, Triggering mechanism for the filament eruption on 2005 September 13 in NOAA active region 10808. Astrophys. J. 668, 533.
+Pariat, E., Antiochos, S.K., DeVore, C.R.: 2010, Three-dimensional modeling of quasi-homologous solar jets. Astrophys. J. 714, 1762.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The solar dynamics observatory (SDO). Solar Phys. 275, 3.
+Priest, E.R., Forbes, T.G.: 2002, The magnetic nature of solar flares. Astron. Astrophys. Rev. 10, 313.
+Priest, E.R., Parnell, C.E., Martin, S.F.: 1994, A converging flux model of an X-ray bright point and an associated canceling magnetic feature. Astrophys. J. 427, 459.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The helioseismic and magnetic imager (HMI) investigation for the solar dynamics observatory (SDO). Solar Phys. 275, 207.
+Schmieder, B., van Driel-Gesztelyi, L., Aulanier, G., Démoulin, P., Thompson, B., de Forest, C., Wiik, J.E., Saint Cyr, C., Vial, J.C.: 2002, Relationships between CME’s and prominences. Adv. Space Res. 29, 1451.
+Schrijver, C.J., De Rosa, M.L.: 2003, Photospheric and heliospheric magnetic fields. Solar Phys. 212, 165.
+Srivastava, A.K., Zaqarashvili, T.V., Kumar, P., Khodachenko, M.L.: 2010, Observation of kink instability during small B5.0 solar flare on 2007 June 4. Astrophys. J. 715, 292.
+Sterling, A.C., Harra, L.K., Moore, R.L.: 2007, New evidence for the role of emerging flux in a solar filament’s slow rise preceding its CME-producing fast eruption. Astrophys. J. 669, 1359.
+Sterling, A.C., Moore, R.L.: 2005, Slow-rise and fast-rise phases of an erupting solar filament, and flare emission onset. Astrophys. J. 630, 1148.
+Sterling, A.C., Moore, R.L., Freeland, S.L.: 2011, Insights into filament eruption onset from solar dynamics observatory observations. Astrophys. J. Lett. 731, L3.
+Sterling, A.C., Chifor, C., Mason, H.E., Moore, R.L., Young, P.R.: 2010, Evidence for magnetic flux cancelation leading to an ejective solar eruption observed by Hinode, TRACE, STEREO, and SoHO/MDI. Astron. Astrophys. 521, A49.
+Toriumi, S., Iida, Y., Bamba, Y., Kusano, K., Imada, S., Inoue, S.: 2013, The magnetic systems triggering the M6.6 class solar flare in NOAA active region 11158. Astrophys. J. 773, 128.
+Török, T., Kliem, B.: 2003, The evolution of twisting coronal magnetic flux tubes. Astron. Astrophys. 406, 1043.
+Török, T., Kliem, B., Titov, V.S.: 2004, Ideal kink instability of a magnetic loop equilibrium. Astron. Astrophys. 413, L27.
+Török, T., Panasenco, O., Titov, V.S., Mikić, Z., Reeves, K.K., Velli, M., Linker, J.A., De Toma, G.: 2011, A model for magnetically coupled sympathetic eruptions. Astrophys. J. Lett. 739, L63.
+van Ballegooijen, A.A., Martens, P.C.H.: 1989, Formation and eruption of solar prominences. Astrophys. J. 343, 971.
+Wang, J., Shi, Z.: 1993, The flare-associated magnetic changes in an active region. II: Flux emergence and cancellation. Solar Phys. 143, 119.
+Xu, Y., Jing, J., Wang, H.: 2010, Measurements of filament height in H\upalpha and EUV 304 Å. Solar Phys. 264, 81.
+Yan, X.L., Pan, G.M., Liu, J.H., Qu, Z.Q., Xue, Z.K., Deng, L.H., Ma, L., Kong, D.F.: 2013, The contraction of overlying coronal loop and the rotating motion of a sigmoid filament during its eruption. Astron. J. 145, 153.
+Yan, X.L., Xue, Z.K., Liu, J.H., Ma, L., Kong, D.F., Qu, Z.Q., Li, Z.: 2014, Kink instability evidenced by analyzing the leg rotation of a filament. Astrophys. J. 782, 67.
+Young, C.A.: 2007, Mkit: An IDL multiscale toolbox. Bull. Amer. Astron. Soc. 39, 133.
+Zuccarello, F., Battiato, V., Contarino, L., Romano, P., Spadaro, D.: 2007, Plasma motions in a short-lived filament related to a magnetic flux cancellation. Astron. Astrophys. 468, 299.
+Zuccarello, F.P., Seaton, D.B., Mierla, M., Poedts, S., Rachmeler, L.A., Romano, P., Zuccarello, F.: 2014, Observational evidence of torus instability as trigger mechanism for coronal mass ejections: The 2011 August 4 filament eruption. Astrophys. J. 785, 88.

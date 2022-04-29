@@ -1,0 +1,34 @@
+Acuña, M.H., Curtis, D., Scheifele, J.L., Russell, C.T., Schroeder, P., Szabo, A., Luhmann, J.G.: 2008, The STEREO/IMPACT magnetic field experiment. Space Sci. Rev. 136, 203.
+Aulanier, G., Janvier, M., Schmieder, B.: 2012, The standard flare model in three dimensions I. Strong-to-weak shear transition in post-flare loops. Astron. Astrophys. 543, A110.
+Burlaga, L.F.: 1988, Magnetic clouds and force-free fields with constant alpha. J. Geophys. Res. 93, 7217.
+Dasso, S., Mandrini, C.H., Démoulin, P., Farrugia, C.J.: 2003, Magnetic helicity analysis of an interplanetary twisted flux tube. J. Geophys. Res. 108, 1362.
+Galvin, A.B., Kistler, L.M., Popecki, M.A., Farrugia, C.J., Simunac, K.D.C., Ellis, L., Möbius, E., Lee, M.A., Boehm, M., Carroll, J., Crawshaw, A., Conti, M., Demaine, P., Ellis, S., Gaidos, J.A., Googins, J., Granoff, M., Gustafson, A., Heirtzler, D., King, B., Knauss, U., Levasseur, J., Longworth, S., Singer, K., Turco, S., Vachon, P., Vosbury, M., Widholm, M., Blush, L.M., Karrer, R., Bochsler, P., Daoudi, H., Etter, A., Fischer, J., Jost, J., Opitz, A., Sigrist, M., Wurz, P., Klecker, B., Ertl, M., Seidenschwang, E., Wimmer-Schweingruber, R.F., Koeten, M., Thompson, B., Steinfeld, D.: 2008, The plasma and suprathermal ion composition (PLASTIC) investigation on the STEREO observatories. Space Sci. Rev. 136, 437.
+Goldstein, H.: 1983, On the field configuration in magnetic clouds. In: Neugebauer, M. (ed.) SolarWind Five, NASA CP-2280, 731.
+Gopalswamy, N., Yashiro, S., Akiyama, S., Xie, H.: 2017, Estimation of reconnection flux using post-eruption arcades and its relevance to magnetic clouds at 1 AU. Solar Phys. 292, 65.
+Gulisano, A.M., Dasso, S., Mandrini, C.H., Démoulin, P.: 2005, J. Atmos. Solar-Terr. Phys. 67, 1761.
+Hidalgo, M.A., Cid, C., Viñas, A.F., Sequeiros, J.: 2002, A non-force-free approach to the topology of magnetic clouds in the solar wind. J. Geophys. Res. 106, 1002.
+Hu, Q., Sonnerup, B.U.Ö.: 2002, Reconstruction of magnetic clouds in the solar wind: Orientations and configurations. J. Geophys. Res. 107, 1142.
+Janvier, M., Dasso, S., Démoulin, P., Masías-Meza, J.J., Lugaz, N.: 2015, Comparing generic models for interplanetary shocks and magnetic clouds axis configurations at 1 AU. J. Geophys. Res. 120, 3328.
+Kahler, S.W., Krucker, S., Szabo, A.: 2011, Solar energetic electron probes of magnetic cloud field line lengths. J. Geophys. Res. 116, A01104.
+Lepping, R.P., Berdichevsky, D.B., Ferguson, T.J.: 2003, Estimated errors in magnetic cloud model fit parameters with force-free cylindrically symmetric assumptions. J. Geophys. Res. 108, 1356.
+Lepping, R.P., Burlaga, L.F., Jones, J.A.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Lepping, R.P., Acuña, M.H., Burlaga, L.F., Farrell, W.M., Slavin, J.A., Schatten, K.H., Mariani, F., Ness, N.F., Neubauer, F.M., Whang, Y.C., Byrnes, J.B., Kennon, R.S., Panetta, P.V., Sheifele, J., Worley, E.M.: 1995, The wind magnetic field investigation. Space Sci. Rev. 71, 207.
+Lepping, R.P., Berdichevsky, D.B., Wu, C.-C., Szabo, A., Narock, T., Mariani, F., Lazarus, A.J., Quivers, A.J.: 2006, A summary of WIND magnetic clouds for years 1995 – 2003: Model-fitted parameters, associated errors and classifications. Ann. Geophys. 24, 215.
+Liu, Y.A., Liu, Y.D., Hu, H., Wang, R., Zhao, X., Hansen, W.W.: 2018, Multi-spacecraft observations of the rotation and nonradial motion of a CME flux rope causing an intense geomagnetic storm. Astrophys. J. 854, 126.
+Longcope, D., Beveridge, C., Qiu, J., Ravindra, B., Barnes, G., Dasso, S.: 2007, Modeling and measuring the flux reconnected and ejected by the two-ribbon flare/CME event on 7 November 2004. Solar Phys. 244, 45.
+Lopez, R.: 1987, Solar cycle invariances in solar wind proton temperature relationships. J. Geophys. Res. 92, 11189.
+Lundquist, S.: 1950, Magnetohydrostatic fields. Ark. Fys. 2, 361.
+Lynch, B.J., Gruesbeck, J.R., Zurbuchen, T.H., Antiochos, S.K.: 2005, Solar cycle-dependent helicity transport by magnetic clouds. J. Geophys. Res. 110, A08107.
+Marubashi, K.: 1986, Structure of the interplanetary magnetic clouds and their solar origins. Adv. Space Res. 6, 335.
+Marubashi, K.: 2002, Interplanetary magnetic flux ropes. J. Commun. Res. Lab. 49, 41.
+Marubashi, K., Cho, K.-S.: 2015, Non-uniqueness of the geometry of interplanetary magnetic flux ropes obtained from model-fitting. Sun Geosph. 10, 119.
+Marubashi, K., Lepping, R.P.: 2007, Long-duration magnetic clouds: A comparison of analyses using torus- and cylinder-shaped flux rope models. Ann. Geophys. 25, 2453.
+Marubashi, K., Akiyama, S., Yashiro, S., Gopalswamy, N., Cho, K.S., Park, Y.D.: 2015, Geometrical relationship between interplanetary flux ropes and their solar sources. Solar Phys. 290, 1371.
+Nieves-Chinchilla, T., Vourlidas, A., Raymond, J.C., Linton, M.G., Al-haddad, N., Savani, N.P., Szabo, A., Hidalgo, M.A.: 2018, Understanding the internal magnetic field configurations of ICMEs using more than 20 years of wind observations. Solar Phys. 293, 25.
+Ogilvie, K., Chornay, D., Fritzenreiter, R., Hunsaker, F., Keller, J., Lobell, J., Miller, G., Scudder, J., Sittler, E.C. Jr., Torbert, R., Bodet, D., Needell, G., Lazarus, A., Steinberg, J., Tappan, J., Mavretic, A., Gergin, E.: 1995, SWE, a comprehensive plasma instrument for the WIND spacecraft. Space Sci. Rev. 71, 55.
+Qiu, J., Hu, Q., Howard, T.A., Yurchyshyn, V.B.: 2007, On the magnetic flux budget in low-corona magnetic reconnection and interplanetary coronal mass ejections. Astrophys. J. 659, 758.
+Riley, P., Linker, J.A., Lionello, R., Mikicá, Z., Odstrcil, D., Hidalgo, M.A., Cid, C., Hu, Q., Lepping, R.P., Lynch, B.J., Rees, A.: 2004, Fitting flux ropes to a global MHD solution: a comparison of techniques. J. Atmos. Solar-Terr. Phys. 66, 1321.
+Vandas, M., Geranios, A.: 2001, November 17 – 18, 1975, event: A clue to an internal structure of magnetic clouds? J. Geophys. Res. 106, 1849.
+Wang, Y., Zhou, Z., Shen, C., Liu, R., Wang, S.: 2015, Investigating plasma motion of magnetic clouds at 1 AU through a velocity-modified cylindrical force-free flux rope model. J. Geophys. Res. 120, 1543.
+Yurchyshyn, V.B., Hu, Q., Lepping, R.P., Lynch, B.J., Krall, J.: 2007, Orientations of LASCO halo CMEs and their connection to the flux rope structure of interplanetary CMEs. Adv. Space Res. 40, 1821.
+Zhao, X.P., Hoeksema, J.T.: 1998, Central axial field direction in magnetic clouds and its relation to southward interplanetary magnetic field events and dependence on disappearing solar filaments. J. Geophys. Res. 103, 2077.

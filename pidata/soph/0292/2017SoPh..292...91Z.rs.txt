@@ -1,0 +1,26 @@
+Berghmans, D., Foing, B.H., Fleck, B.: 2000, Automated detection of CMEs in LASCO data. In: Proceedings of the Soho Symposium on from Solar Min to Max: Half a Solar Cycle with Soho SP-508, 437.
+Boursier, Y., Lamy, P., Llebaria, A., Goudail, F., Robelus, S.: 2009, The Artemis catalog of lasco coronal mass ejections. Solar Phys. 257(1), 125.
+Byrne, J.P., Morgan, H., Habbal, S.R., Gallagher, P.T.: 2012, Automatic detection and tracking of coronal mass ejections. II. Multiscale filtering of coronagraph images. Astrophys. J. 752(2), 145.
+DeForest, C.E., Howard, T.A., McComas, D.J.: 2013, Tracking coronal features from the low corona to Earth: a quantitative analysis of the 2008 December 12 coronal mass ejection. Astrophys. J. 769(1), 43.
+Floyd, O., Lamy, P., Boursier, Y., Llebaria, A.: 2013, Artemis II: a second-generation catalog of LASCO coronal mass ejections including mass and kinetic energy. Solar Phys. 288(1), 269.
+Gallagher, P.T., Young, C.A., Byrne, J.P., James McAteer, R.T.: 2011, Coronal mass ejection detection using wavelets, curvelets and ridgelets: applications for space weather monitoring. Adv. Space Res. 47, 2118.
+Gissot, S.F., Hochedez, J.-F., Dibos, F., Brajs˘a, R., Jacques, L., Berghmans, D., Zhukov, A., Clette, F., Wöhl, H., Antoine, J.-P.: 2003, Extracting the apparent motion from two successive eit images. In: Solar Variability as an Input to the Earth’s Environment 535, 853.
+Goussies, N.A., Stenborg, G., Vourlidas, A., Howard, R.: 2010a, Tracking of coronal white-light events by texture. Solar Phys. 262(2), 481.
+Goussies, N.A., Mejail, M.E., Jacobo, J., Stenborg, G.: 2011b, Detection and tracking of coronal mass ejections based on supervised segmentation and level set. Phys. Rev. Lett. 31(6), 496.
+Haralick, R.M., Shanmugam, K.: 1973, Textural features for image classification. IEEE Trans. Syst. Man Cybern. SMC-3(6), 610.
+Howard, R.A., Sheeley, N.R., Koomen, M.J., Michels, D.J.: 1985, Coronal mass ejections: 1979 – 1981. J. Geophys. Res. 90, 8173.
+Howard, R., Moses, J., Vourlidas, A., Newmark, J., Socker, D., Plunkett, S., Korendyke, C., Cook, J., Hurley, A., Davila, J., et al.: 2008, Sun Earth connection coronal and heliospheric investigation (SECCHI). Space Sci. Rev. 136(1 – 4), 67.
+Huang, G.B., Ding, X., Zhou, H.: 2010, Optimization method based extreme learning machine for classification. Neurocomputing 74(1 – 3), 155.
+Huang, G.-B., Zhu, Q.-Y., Siew, C.-K.: 2006, Extreme learning machine: theory and applications. Neurocomputing 70, 489.
+Hundhausen, A.J.: 1993, Sizes and locations of coronal mass ejections: SMM observations from 1980 and 1984 – 1989. J. Geophys. Res. 98, 13177.
+Hurlburt, N., Jaffey, S.: 2015, Automated detection of solar eruptions. J. Space Weather Space Clim. 5(27), A39.
+Kaiser, M.L., Kucera, T., Davila, J., Cyr, O.S., Guhathakurta, M., Christian, E.: 2008, The stereo mission: an introduction. In: The STEREO Mission, 5.
+Morgan, H., Byrne, J.P., Habbal, S.R.: 2012, Automatically detecting and tracking coronal mass ejections. I. Separation of dynamic and quiescent components in coronagraph images. Astron. J. 752, 144.
+Olmedo, O., Zhang, J., Wechsler, H., Poland, A., Borne, K.: 2008, Automatic detection and tracking of coronal mass ejections in coronagraph time series. Solar Phys. 248(2), 485.
+Qu, M., Frank, Y.S., Jing, J., Wang, H.: 2006, Automatic detection and classification of coronal mass ejections. Solar Phys. 237(2), 419.
+Robbrecht, E., Berghmans, D.: 2004, Automated recognition of coronal mass ejections (CMEs) in near-real-time data. Astron. Astrophys. 425(3), 1097.
+Robbrecht, E., Berghmans, D.: 2006, A broad perspective on automated CME tracking: towards higher level space weather forecasting. In: AGU Geophys. Monograph Series 165, 33.
+Schapire, E.R., Freund, Y., Bartlett, P.: 1998, Boosting the margin: a new explanation for the effectiveness of voting methods. Ann. Stat. 26(05), 1651.
+Yashiro, S., Michalek, G., Gopalswamy, N.: 2008, A comparison of coronal mass ejections identified by manual and automatic methods. Ann. Geophys. 26(10), 3103.
+Yin, J., Yao, H., Lin, J., Yin, Y., Zhang, L., Liu, X., Feng, Z., Wang, X.: 2017, Coronal mass ejections detection using multiple features based ensemble learning. Neurocomputing 244, 123.
+Zhang, L., Yin, J.Q., Lin, J.B., Wang, X.F., Guo, J.: 2016, Detection of coronal mass ejections using AdaBoost on grayscale statistic features. New Astron. 48, 49.

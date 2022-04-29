@@ -1,0 +1,373 @@
+Acton, L.W., Finch, M.L., Gilbreth, C.W., Culhane, J.L., Bentley, R.D., Bowles, J.A., Guttridge, P., Gabriel, A.H., Firth, J.G., Hayes, R.W.: 1980, The soft X-ray polychromator for the Solar Maximum Mission. Solar Phys. 65, 53.
+Allred, J.C., Kowalski, A.F., Carlsson, M.: 2015, A unified computational model for solar and stellar flares. Astrophys. J. 809, 104.
+Antiochos, S.K., MacNeice, P.J., Spicer, D.S., Klimchuk, J.A.: 1999, The dynamic formation of prominence condensations. Astrophys. J. 512, 985.
+Antonucci, E., Gabriel, A.H., Doyle, J.G., Dubau, J., Faucher, P., Jordan, C., Veck, N.: 1984, Derivation of ionization balance for calcium XVIII/XIX using XRP solar X-ray data. Astron. Astrophys. 133, 239.
+Arnaud, M., Raymond, J.: 1992, Iron ionization and recombination rates and ionization equilibrium. Astrophys. J. 398, 394.
+Arnaud, M., Rothenflug, R.: 1985, An updated evaluation of recombination and ionization rates. Astron. Astrophys. Suppl. 60, 425.
+Aschwanden, M.J.: 2005, Physics of the Solar Corona. An Introduction with Problems and Solutions, 2nd edn., Springer, Berlin.
+Badnell, N.R.: 2006, Radiative recombination data for modeling dynamic finite-density plasmas. Astrophys. J. Suppl. 167, 334.
+Badnell, N.R., O’Mullane, M.G., Summers, H.P., Altun, Z., Bautista, M.A., Colgan, J., Gorczyca, T.W., Mitnik, D.M., Pindzola, M.S., Zatsarinny, O.: 2003, Dielectronic recombination data for dynamic finite-density plasmas. I. Goals and methodology. Astron. Astrophys. 406, 1151.
+Bale, S.D., Goetz, K., Harvey, P.R., Turin, P., Bonnell, J.W., Dudok de Wit, T., Ergun, R.E., MacDowall, R.J., Pulupa, M., Andre, M., Bolton, M., Bougeret, J.-L., Bowen, T.A., Burgess, D., Cattell, C.A., Chandran, B.D.G., Chaston, C.C., Chen, C.H.K., Choi, M.K., Connerney, J.E., Cranmer, S., Diaz-Aguado, M., Donakowski, W., Drake, J.F., Farrell, W.M., Fergeau, P., Fermin, J., Fischer, J., Fox, N., Glaser, D., Goldstein, M., Gordon, D., Hanson, E., Harris, S.E., Hayes, L.M., Hinze, J.J., Hollweg, J.V., Horbury, T.S., Howard, R.A., Hoxie, V., Jannet, G., Karlsson, M., Kasper, J.C., Kellogg, P.J., Kien, M., Klimchuk, J.A., Krasnoselskikh, V.V., Krucker, S., Lynch, J.J., Maksimovic, M., Malaspina, D.M., Marker, S., Martin, P., Martinez-Oliveros, J., McCauley, J., McComas, D.J., McDonald, T., Meyer-Vernet, N., Moncuquet, M., Monson, S.J., Mozer, F.S., Murphy, S.D., Odom, J., Oliverson, R., Olson, J., Parker, E.N., Pankow, D., Phan, T., Quataert, E., Quinn, T., Ruplin, S.W., Salem, C., Seitz, D., Sheppard, D.A., Siy, A., Stevens, K., Summers, D., Szabo, A., Timofeeva, M., Vaivads, A., Velli, M., Yehle, A., Werthimer, D., Wygant, J.R.: 2016, The FIELDS instrument suite for Solar Probe Plus – measuring the coronal plasma and magnetic field, plasma waves and turbulence, and radio signatures of solar transients. Space Sci. Rev. 204, 49.
+Bartiromo, R., Bombarda, F., Giannella, R.: 1985, Spectroscopic study of nonthermal plasmas. Phys. Rev. A 32, 531.
+Battaglia, M., Benz, A.O.: 2006, Relations between concurrent hard X-ray sources in solar flares. Astron. Astrophys. 456, 751.
+Battaglia, M., Kontar, E.P.: 2013, Electron distribution functions in solar flares from combined X-ray and extreme-ultraviolet observations. Astrophys. J. 779, 107.
+Battaglia, M., Motorina, G., Kontar, E.P.: 2015, Multithermal representation of the kappa-distribution of solar flare electrons and application to simultaneous X-ray and EUV observations. Astrophys. J. 815, 73.
+Beck, A., Meyer-Vernet, N.: 2008, The trajectory of an electron in a plasma. Am. J. Phys. 76, 934.
+Benáček, J., Karlický, M., Yasnov, L.V.: 2017, Temperature dependent growth rates of the upper-hybrid waves and solar radio zebra patterns. Astron. Astrophys. 598, A106.
+BenMoussa, A., Gissot, S., Schühle, U., Del Zanna, G., Auchère, F., Mekaoui, S., Jones, A.R., Walton, D., Eyles, C.J., Thuillier, G., Seaton, D., Dammasch, I.E., Cessateur, G., Meftah, M., Andretta, V., Berghmans, D., Bewsher, D., Bolsée, D., Bradley, L., Brown, D.S., Chamberlin, P.C., Dewitte, S., Didkovsky, L.V., Dominique, M., Eparvier, F.G., Foujols, T., Gillotay, D., Giordanengo, B., Halain, J.P., Hock, R.A., Irbah, A., Jeppesen, C., Judge, D.L., Kretzschmar, M., McMullin, D.R., Nicula, B., Schmutz, W., Ucker, G., Wieman, S., Woodraska, D., Woods, T.N.: 2013, On-orbit degradation of solar instruments. Solar Phys. 288, 389.
+Benz, A., Krucker, S., Hurford, G.J., Arnold, N.G., Orleanski, P., Gröbelbauer, H.-P., et al.: 2012, The spectrometer telescope for imaging X-rays on board the Solar Orbiter mission. Proc. SPIE 8443, 84433L.
+Benz, A.O.: 2008, Flare observations. Living Rev. Solar Phys. 5, 1.
+Bian, N.H., Kontar, E.P.: 2013, Stochastic acceleration by multi-island contraction during turbulent magnetic reconnection. Phys. Rev. Lett. 110(15), 151101.
+Bian, N.H., Emslie, A.G., Stackhouse, D.J., Kontar, E.P.: 2014, The formation of kappa-distribution accelerated electron populations in solar flares. Astrophys. J. 796, 142.
+Boerner, P., Edwards, C., Lemen, J., Rausch, A., Schrijver, C., Shine, R., Shing, L., Stern, R., Tarbell, T., Title, A., Wolfson, C.J., Soufli, R., Spiller, E., Gullikson, E., McKenzie, D., Windt, D., Golub, L., Podgorski, W., Testa, P., Weber, M.: 2012, Initial calibration of the Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 41.
+Bogachev, S.A., Somov, B.V.: 2005, Comparison of the Fermi and betatron acceleration efficiencies in collapsing magnetic traps. Astron. Lett. 31, 537.
+Borrini, G., Noci, G.: 1982, Non-equilibrium ionization in coronal loops. Solar Phys. 77, 153.
+Bradshaw, S.J., Cargill, P.J.: 2006, Explosive heating of low-density coronal plasma. Astron. Astrophys. 458, 987.
+Bradshaw, S.J., Klimchuk, J.A.: 2011, What dominates the coronal emission spectrum during the cycle of impulsive heating and cooling? Astrophys. J. Suppl. 194, 26.
+Bradshaw, S.J., Mason, H.E.: 2003a, A self-consistent treatment of radiation in coronal loop modelling. Astron. Astrophys. 401, 699.
+Bradshaw, S.J., Mason, H.E.: 2003b, The radiative response of solar loop plasma subject to transient heating. Astron. Astrophys. 407, 1127.
+Bradshaw, S.J., Raymond, J.: 2013, Collisional and radiative processes in optically thin plasmas. Space Sci. Rev. 178, 271.
+Bradshaw, S.J., Aulanier, G., Del Zanna, G.: 2011, A reconnection-driven rarefaction wave model for coronal outflows. Astrophys. J. 743, 66.
+Bradshaw, S.J., Del Zanna, G., Mason, H.E.: 2004, On the consequences of a non-equilibrium ionisation balance for compact flare emission and dynamics. Astron. Astrophys. 425, 287.
+Bradshaw, S.J., Klimchuk, J.A., Reep, J.W.: 2012, Diagnosing the time-dependence of active region core heating from the emission measure. I. Low-frequency nanoflares. Astrophys. J. 758, 53.
+Brown, J.C.: 1971, The deduction of energy spectra of non-thermal electrons in flares from the observed dynamic spectra of hard X-ray bursts. Solar Phys. 18, 489.
+Bryans, P.: 2006, On the spectral emission of non-Maxwellian plasmas. Ph.D. thesis, University of Strathclyde.
+Bryans, P., Landi, E., Savin, D.W.: 2009, A new approach to analyzing solar coronal spectra and updated collisional ionization equilibrium calculations. II. Updated ionization rate coefficients. Astrophys. J. 691, 1540.
+Burge, C.A., MacKinnon, A.L., Petkaki, P.: 2014, Effect of binary collisions on electron acceleration in magnetic reconnection. Astron. Astrophys. 561, A107.
+Burge, C.A., Petkaki, P., MacKinnon, A.L.: 2012, Particle acceleration in the presence of weak turbulence at an X-type neutral point. Solar Phys. 280, 575.
+Bykov, A.M., Malkov, M.A., Raymond, J.C., Krassilchtchikov, A.M., Vladimirov, A.E.: 2013, Collisionless shocks in partly ionized plasma with cosmic rays: Microphysics of non-thermal components. Space Sci. Rev. 178, 599.
+Cargill, P.J.: 2014, Active region emission measure distributions and implications for nanoflare heating. Astrophys. J. 784, 49.
+Cargill, P.J., Vlahos, L., Baumann, G., Drake, J.F., Nordlund, Å.: 2012, Current fragmentation and particle acceleration in solar flares. Space Sci. Rev. 173, 223.
+Carlsson, M., Stein, R.F.: 2002, Dynamic hydrogen ionization. Astrophys. J. 572, 626.
+Carlsson, M., Hansteen, V.H., Gudiksen, B.V., Leenaarts, J., De Pontieu, B.: 2016, A publicly available simulation of an enhanced network region of the Sun. Astron. Astrophys. 585, A4.
+Caspi, A., Lin, R.P.: 2010, RHESSI line and continuum observations of super-hot flare plasma. Astrophys. J. Lett. 725, L161.
+Caspi, A., Krucker, S., Lin, R.P.: 2014, Statistical properties of super-hot solar flares. Astrophys. J. 781, 43.
+Chateau, Y.F., Meyer-Vernet, N.: 1991, Electrostatic noise in non-Maxwellian plasmas – generic properties and ‘kappa’ distributions. J. Geophys. Res. 96, 5825.
+Che, H., Goldstein, M.L.: 2014, The origin of non-Maxwellian solar wind electron velocity distribution function: Connection to nanoflares in the solar corona. Astrophys. J. Lett. 795, L38.
+Chen, H., Gu, M.F., Behar, E., Brown, G.V., Kahn, S.M., Beiersdorfer, P.: 2007, Laboratory measurements of high-n iron L-Shell X-ray lines. Astrophys. J. Suppl. 168, 319.
+Chen, Q., Petrosian, V.: 2012, Impulsive phase coronal hard X-ray sources in an X3.9 class solar flare. Astrophys. J. 748, 33.
+Chew, G.F., Goldberger, M.L., Low, F.E.: 1956, The Boltzmann equation and the one-fluid hydromagnetic equations in the absence of particle collisions. Proc. Roy. Soc. London Ser. A, Math. Phys. Sci. 236, 112.
+Chiuderi, C., Chiuderi Drago, F.: 2004, Effect of suprathermal particles on the quiet Sun radio emission. Astron. Astrophys. 422, 331.
+Collier, M.R.: 2004, Are magnetospheric suprathermal particle distributions (κ functions) inconsistent with maximum entropy considerations? Adv. Space Res. 33, 2108.
+Cranmer, S.R.: 2014, Suprathermal electrons in the solar corona: Can nonlocal transport explain heliospheric charge states? Astrophys. J. Lett. 791, L31.
+Cranmer, S.R., van Ballegooijen, A.A., Edgar, R.J.: 2007, Self-consistent coronal heating and solar wind acceleration from anisotropic magnetohydrodynamic turbulence. Astrophys. J. Suppl. 171, 520.
+Cranmer, S.R., Matthaeus, W.H., Breech, B.A., Kasper, J.C.: 2009, Empirical constraints on proton and electron heating in the fast solar wind. Astrophys. J. 702, 1604.
+Culhane, J.L., Hiei, E., Doschek, G.A., Cruise, A.M., et al.: 1991, The Bragg crystal spectrometer for SOLAR-A. Solar Phys. 136, 89.
+Culhane, J.L., Harra, L.K., James, A.M., Al-Janabi, K., Bradley, L.J., Chaudry, R.A., Rees, K., Tandy, J.A., Thomas, P., Whillock, M.C.R., Winter, B., Doschek, G.A., Korendyke, C.M., Brown, C.M., Myers, S., Mariska, J., Seely, J., Lang, J., Kent, B.J., Shaughnessy, B.M., Young, P.R., Simnett, G.M., Castelli, C.M., Mahmoud, S., Mapson-Menard, H., Probyn, B.J., Thomas, R.J., Davila, J., Dere, K., Windt, D., Shea, J., Hagood, R., Moye, R., Hara, H., Watanabe, T., Matsuzaki, K., Kosugi, T., Hansteen, V., Wikstol, Ø.: 2007, The EUV imaging spectrometer for Hinode. Solar Phys. 243, 19.
+Curdt, W., Brekke, P., Feldman, U., Wilhelm, K., Dwivedi, B.N., Schühle, U., Lemaire, P.: 2001, The SUMER spectral atlas of solar-disk features. Astron. Astrophys. 375, 591.
+De Pontieu, B., Title, A.M., Lemen, J.R., Kushner, G.D., Akin, D.J., Allard, B., Berger, T., Boerner, P., Cheung, M., Chou, C., Drake, J.F., Duncan, D.W., Freeland, S., Heyman, G.F., Hoffman, C., Hurlburt, N.E., Lindgren, R.W., Mathur, D., Rehse, R., Sabolish, D., Seguin, R., Schrijver, C.J., Tarbell, T.D., Wülser, J.-P., Wolfson, C.J., Yanari, C., Mudge, J., Nguyen-Phuc, N., Timmons, R., van Bezoijen, R., Weingrod, I., Brookner, R., Butcher, G., Dougherty, B., Eder, J., Knagenhjelm, V., Larsen, S., Mansir, D., Phan, L., Boyle, P., Cheimets, P.N., DeLuca, E.E., Golub, L., Gates, R., Hertz, E., McKillop, S., Park, S., Perry, T., Podgorski, W.A., Reeves, K., Saar, S., Testa, P., Tian, H., Weber, M., Dunn, C., Eccles, S., Jaeggli, S.A., Kankelborg, C.C., Mashburn, K., Pust, N., Springer, L., Carvalho, R., Kleint, L., Marmie, J., Mazmanian, E., Pereira, T.M.D., Sawyer, S., Strong, J., Worden, S.P., Carlsson, M., Hansteen, V.H., Leenaarts, J., Wiesmann, M., Aloise, J., Chu, K.-C., Bush, R.I., Scherrer, P.H., Brekke, P., Martinez-Sykora, J., Lites, B.W., McIntosh, S.W., Uitenbroek, H., Okamoto, T.J., Gummin, M.A., Auker, G., Jerram, P., Pool, P., Waltham, N.: 2014, The Interface Region Imaging Spectrograph (IRIS). Solar Phys. 289, 2733.
+De Pontieu, B., McIntosh, S., Martinez-Sykora, J., Peter, H., Pereira, T.M.D.: 2015, Why is non-thermal line broadening of spectral lines in the lower transition region of the sun independent of spatial resolution? Astrophys. J. Lett. 799, L12.
+Del Zanna, G.: 2008, Flows in active region loops observed by Hinode EIS. Astron. Astrophys. 481, L49.
+Del Zanna, G.: 2013, A revised radiometric calibration for the Hinode/EIS instrument. Astron. Astrophys. 555, A47.
+Del Zanna, G., Mason, H.E.: 2003, Solar active regions: SOHO/CDS and TRACE observations of quiescent coronal loops. Astron. Astrophys. 406, 1089.
+Del Zanna, G., Mason, H.E.: 2014, Elemental abundances and temperatures of quiescent solar active region cores from X-ray observations. Astron. Astrophys. 565, A14.
+Del Zanna, G., Fernández-Menchero, L., Badnell, N.R.: 2015, Benchmarking atomic data for astrophysics: Si iii. Astron. Astrophys. 574, A99.
+Del Zanna, G., Landini, M., Mason, H.E.: 2002, Spectroscopic diagnostics of stellar transition regions and coronae in the XUV: AU Mic in quiescence. Astron. Astrophys. 385, 968.
+Del Zanna, G., Aulanier, G., Klein, K.-L., Török, T.: 2011a, A single picture for solar coronal outflows and radio noise storms. Astron. Astrophys. 526, A137.
+Del Zanna, G., Mitra-Kraev, U., Bradshaw, S.J., Mason, H.E., Asai, A.: 2011b, The 22 May 2007 B-class flare: New insights from Hinode observations. Astron. Astrophys. 526, A1.
+Del Zanna, G., Storey, P.J., Badnell, N.R., Mason, H.E.: 2012, Atomic data for astrophysics: Fe XII soft X-ray lines. Astron. Astrophys. 543, A139.
+Del Zanna, G., Storey, P.J., Badnell, N.R., Mason, H.E.: 2014, Atomic data for astrophysics: Fe ix. Astron. Astrophys. 565, A77.
+Del Zanna, G., Dere, K.P., Young, P.R., Landi, E., Mason, H.E.: 2015a, CHIANTI – an atomic database for emission lines. Version 8. Astron. Astrophys. 582, A56.
+Del Zanna, G., Tripathi, D., Mason, H., Subramanian, S., O’Dwyer, B.: 2015b, The evolution of the emission measure distribution in the core of an active region. Astron. Astrophys. 573, A104.
+Dere, K.P.: 2007, Ionization rate coefficients for the elements hydrogen through zinc. Astron. Astrophys. 466, 771.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – an atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Doschek, G.A., Feldman, U.: 1981, On ionization equilibrium in solar flares as determined from X-ray emission lines of Ca xviii and Ca xix. Astrophys. J. 251, 792.
+Doschek, G.A., Tanaka, K.: 1987, Transient ionization and solar flare X-ray spectra. Astrophys. J. 323, 799.
+Doschek, G.A., Kreplin, R.W., Feldman, U.: 1979, High-resolution solar flare X-ray spectra. Astrophys. J. Lett. 233, L157.
+Doschek, G.A., Warren, H.P., Dennis, B.R., Reep, J.W., Caspi, A.: 2015, Flare footpoint regions and a surge observed by Hinode/EIS, RHESSI, and SDO/AIA. Astrophys. J. 813, 32.
+Doyle, J.G., Raymond, J.C.: 1981, New ionization fractions for the lithium- and helium-like ionization stages of calcium and iron. Mon. Not. Roy. Astron. Soc. 196, 907.
+Doyle, J.G., Raymond, J.C.: 1984, Flare parameters for the 7 September, 1973 two-ribbon flare. Solar Phys. 90, 97.
+Doyle, J.G., Madjarska, M.S., Dzifčáková, E., Dammasch, I.E.: 2004, Coronal response of bi-directional jets. Solar Phys. 221, 51.
+Doyle, J.G., Giunta, A., Singh, A., Madjarska, M.S., Summers, H., Kellett, B.J., O’Mullane, M.: 2012, The diagnostic potential of transition region lines undergoing transient ionization in dynamic events. Solar Phys. 280, 111.
+Doyle, J.G., Giunta, A., Madjarska, M.S., Summers, H., O’Mullane, M., Singh, A.: 2013, Diagnosing transient ionization in dynamic events. Astron. Astrophys. 557, L9.
+Drake, J.F., Swisdak, M., Che, H., Shay, M.A.: 2006, Electron acceleration from contracting magnetic islands during reconnection. Nature 443, 553.
+Dudík, J., Dzifčáková, E., Karlický, M., Kulinová, A.: 2011, The bound–bound and free–free radiative losses for the nonthermal distributions in solar and stellar coronae. Astron. Astrophys. 529, A103.
+Dudík, J., Kašparová, J., Dzifčáková, E., Karlický, M., Mackovjak, Š.: 2012, The non-Maxwellian continuum in the X-ray, UV, and radio range. Astron. Astrophys. 539, A107.
+Dudík, J., Del Zanna, G., Mason, H.E., Dzifčáková, E.: 2014a, Signatures of the non-Maxwellian κ-distributions in optically thin line spectra. I. Theory and synthetic Fe ix – xiii spectra. Astron. Astrophys. 570, A124.
+Dudík, J., Del Zanna, G., Dzifčáková, E., Mason, H.E., Golub, L.: 2014b, Solar transition region lines observed by the interface region imaging spectrograph: Diagnostics for the O iv and Si iv lines. Astrophys. J. Lett. 780, L12.
+Dudík, J., Mackovjak, Š., Dzifčáková, E., Del Zanna, G., Williams, D.R., Karlický, M., Mason, H.E., Lörinčík, J., Kotrč, P., Fárník, F., Zemanová, A.: 2015, Imaging and spectroscopic observations of a transient coronal loop: Evidence for the non-Maxwellian kappa-distributions. Astrophys. J. 807, 123.
+Dufton, P.L., Kingston, A.E., Keenan, F.P.: 1984, Observational evidence for non-Maxwellian electron energy distributions in the solar transition region. Astrophys. J. Lett. 280, L35.
+Duijveman, A., Hoyng, P., Machado, M.E.: 1982, X-ray imaging of three flares during the impulsive phase. Solar Phys. 81, 137.
+Dupree, A.K.: 1968, The population of high atomic levels in the solar corona. Astrophys. J. 152, L125.
+Dupree, A.K., Moore, R.T., Shapiro, P.R.: 1979, Nonequilibrium ionization in solar and stellar winds. Astrophys. J. Lett. 229, L101.
+Dzifčáková, E.: 1992, The ionization balance of the Fe in the solar corona for a non-Maxwellian electron distribution function. Solar Phys. 140, 247.
+Dzifčáková, E.: 1998, The ionization equilibrium in the solar corona for the electron power distribution. Solar Phys. 178, 317.
+Dzifčáková, E.: 2002, The updated Fe ionization equilibrium for the electron κ-distributions. Solar Phys. 208, 91.
+Dzifčáková, E.: 2006, The influence of the electron κ-distribution in the solar corona on the Fe viii – Fe xv line intensities. Solar Phys. 234, 243.
+Dzifčáková, E., Dudík, J.: 2013, H to Zn ionization equilibrium for the non-Maxwellian electron κ-distributions: Updated calculations. Astrophys. J. Suppl. 206, 6.
+Dzifčáková, E., Dudík, J.: 2015, Ionisation equilibrium for the non-Maxwellian electron n-distributions in solar flares: Updated calculations. Solar Phys. 290, 3545.
+Dzifčáková, E., Kulinová, A.: 2001, The Fe XXV excitation equilibrium in the solar corona for the electron power distributions using a pseudo-temperature. Solar Phys. 203, 53.
+Dzifčáková, E., Kulinová, A.: 2010, The diagnostics of the Kappa-distributions from EUV spectra. Solar Phys. 263, 25.
+Dzifčáková, E., Kulinová, A.: 2011, Diagnostics of the κ-distribution using Si iii lines in the solar transition region. Astron. Astrophys. 531, A122.
+Dzifčáková, E., Mason, H.E.: 2008, Computation of non-Maxwellian electron excitation rates for ions of astrophysical interest: Fe XV – a test case. Solar Phys. 247, 301.
+Dzifčáková, E., Tóthová, D.: 2007, Synthetic spectra of the Fe viii – Fe xvi emission lines for electron non-thermal distributions. Solar Phys. 240, 211.
+Dzifčáková, E., Dudík, J., Mackovjak, Š.: 2016, Non-equilibrium ionization by a periodic electron beam. I. Synthetic coronal spectra and implications for interpretation of observations. Astron. Astrophys. 589, A68.
+Dzifčáková, E., Homola, M., Dudík, J.: 2011, The ionization equilibrium and flare line spectra for the electron distribution with a power-law tail. Astron. Astrophys. 531, A111.
+Dzifčáková, E., Karlický, M., Dudík, J.: 2013, Dielectronic satellite lines and double layers in solar flares. Astron. Astrophys. 550, A60.
+Dzifčáková, E., Kulinová, A., Kašparová, J.: 2011, The Diagnostics of the Shape of the Electron Distribution Function during the Solar Flares. In: Johns-Krull, C., Browning, M.K., West, A.A. (eds.) 16th Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun, Astronomical Society of the Pacific Conference Series 448, 1095.
+Dzifčáková, E., Kulinová, A., Chifor, C., Mason, H.E., Del Zanna, G., Sylwester, J., Sylwester, B.: 2008, Nonthermal and thermal diagnostics of a solar flare observed with RESIK and RHESSI. Astron. Astrophys. 488, 311.
+Dzifčáková, E., Dudík, J., Kotrč, P., Fárník, F., Zemanová, A.: 2015, KAPPA: A package for synthesis of optically thin spectra for the non-Maxwellian κ-distributions based on the Chianti database. Astrophys. J. Suppl. 217, 14.
+Edgar, R.J., Esser, R.: 2000, Nonequilibrium ionization and first ionization potential effect diagnostics. Astrophys. J. Lett. 538, L167.
+Esser, R., Edgar, R.J.: 2000, Reconciling spectroscopic electron temperature measurements in the solar corona with in situ charge state observations. Astrophys. J. Lett. 532, L71.
+Feldman, U., Landi, E., Doschek, G.A.: 2007, Diagnostics of suprathermal electrons in active-region plasmas using He-like UV lines. Astrophys. J. 660, 1674.
+Fernández-Menchero, L., Del Zanna, G., Badnell, N.R.: 2016, Scaling of collision strengths for highly-excited states of ions of the H- and He-like sequences. Astron. Astrophys. 592, A135.
+Fleishman, G.D., Kuznetsov, A.A.: 2014, Theory of gyroresonance and free–free emissions from non-Maxwellian quasi-steady-state electron distributions. Astrophys. J. 781, 77.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., Battaglia, M., Bone, L., Caspi, A., Chen, Q., Gallagher, P., Grigis, P.T., Ji, H., Liu, W., Milligan, R.O., Temmer, M.: 2011, An observational overview of solar flares. Space Sci. Rev. 159, 19.
+Fludra, A., Griffin, D., Caldwell, M., Eccleston, P., Cornaby, J., Drummond, D., Grainger, W., Greenway, P., Grundy, T., Howe, C., McQuirk, C., Middleton, K., Poyntz-Wright, O., Richards, A., Rogers, K., Sawyer, C., Shaughnessy, B., Sidher, S., Tosh, I., Beardsley, S., Burton, G., Marshall, A., Waltham, N., Woodward, S., Appourchaux, T., Philippon, A., Auchere, F., Buchlin, E., Gabriel, A., Vial, J.-C., Schühle, U., Curdt, W., Innes, D., Meining, S., Peter, H., Solanki, S., Teriaca, L., Gyo, M., Büchel, V., Haberreiter, M., Pfiffner, D., Schmutz, W., Carlsson, M., Haugan, S.V., Davila, J., Jordan, P., Thompson, W., Hassler, D., Walls, B., Deforest, C., Hanley, J., Johnson, J., Phelan, P., Blecha, L., Cottard, H., Paciotti, G., Autissier, N., Allemand, Y., Relecom, K., Munro, G., Butler, A., Klein, R., Gottwald, A.: 2013, SPICE EUV spectrometer for the Solar Orbiter mission. In: Solar Physics and Space Weather Instrumentation V, Proc. SPIE 8862, 88620F.
+Gabriel, A.H.: 1972, Dielectronic satellite spectra for highly-charged helium-like ion lines. Mon. Not. Roy. Astron. Soc. 160, 99.
+Gabriel, A.H., Phillips, K.J.H.: 1979, Dielectronic satellite spectra for highly charged helium-like ions. IV – iron satellite lines as a measure of non-thermal electron energy distributions. Mon. Not. Roy. Astron. Soc. 189, 319.
+Gabriel, A.H., Antonucci, E., Steenman-Clark, L.: 1983, Non-thermal and non-equilibrium effects in soft X-ray flare spectra. Solar Phys. 86, 59.
+Galloway, R.K., Helander, P., MacKinnon, A.L., Brown, J.C.: 2010, Thermalisation and hard X-ray bremsstrahlung efficiency of self-interacting solar flare fast electrons. Astron. Astrophys. 520, A72.
+Garrett, B.H.: 1981, The charging of spacecraft surfaces (paper 1R1000). Rev. Geophys. Space Phys. 19, 577.
+Giuliani, P., Neukirch, T., Wood, P.: 2005, Particle motion in collapsing magnetic traps in solar flares. I. Kinematic theory of collapsing magnetic traps. Astrophys. J. 635, 636.
+Giunta, A.S., Henderson, S., O’Mullane, M., Harrison, J., Doyle, J.G., Summers, H.P.: 2016, Diagnosing transient plasma status: from solar atmosphere to tokamak divertor. J. Instrum. 11, C09008.
+Golding, T.P., Carlsson, M., Leenaarts, J.: 2014, Detailed and simplified nonequilibrium helium ionization in the solar atmosphere. Astrophys. J. 784, 30.
+Golding, T.P., Leenaarts, J., Carlsson, M.: 2016, Non-equilibrium helium ionization in an MHD simulation of the solar atmosphere. Astrophys. J. 817, 125.
+Golub, L., Hartquist, T.W., Quillen, A.C.: 1989, Comments on the observability of coronal variations. Solar Phys. 122, 245.
+Golub, L., Deluca, E., Austin, G., Bookbinder, J., Caldwell, D., Cheimets, P., Cirtain, J., Cosmo, M., Reid, P., Sette, A., Weber, M., Sakao, T., Kano, R., Shibasaki, K., Hara, H., Tsuneta, S., Kumagai, K., Tamura, T., Shimojo, M., McCracken, J., Carpenter, J., Haight, H., Siler, R., Wright, E., Tucker, J., Rutledge, H., Barbera, M., Peres, G., Varisco, S.: 2007, The X-Ray Telescope (XRT) for the Hinode Mission. Solar Phys. 243, 63.
+Gordovskyy, M., Browning, P.K., Kontar, E.P., Bian, N.H.: 2013, Effect of collisions and magnetic convergence on electron acceleration and transport in reconnecting twisted solar flare loops. Solar Phys. 284, 489.
+Gordovskyy, M., Browning, P.K., Kontar, E.P., Bian, N.H.: 2014, Particle acceleration and transport in reconnecting twisted loops in a stratified atmosphere. Astron. Astrophys. 561, A72.
+Graham, D.R., Fletcher, L., Hannah, I.G.: 2011, Hinode/EIS plasma diagnostics in the flaring solar chromosphere. Astron. Astrophys. 532, A27.
+Graham, D.R., Fletcher, L., Labrosse, N.: 2015, Determining energy balance in the flaring chromosphere from oxygen V line ratios. Astron. Astrophys. 584, A6.
+Gruesbeck, J.R., Lepri, S.T., Zurbuchen, T.H., Antiochos, S.K.: 2011, Constraints on coronal mass ejection evolution from in situ observations of ionic charge states. Astrophys. J. 730, 103.
+Gu, M.F.: 2003, Radiative recombination rate coefficients for bare through F-like isosequences of Mg, Si, S, Ar, Ca, Fe, and Ni. Astrophys. J. 589, 1085.
+Gudiksen, B.V., Carlsson, M., Hansteen, V.H., Hayek, W., Leenaarts, J., Martínez-Sykora, J.: 2011, The stellar atmosphere simulation code Bifrost. Code description and validation. Astron. Astrophys. 531, A154.
+Guo, F., Giacalone, J.: 2012, Particle acceleration at a flare termination shock: Effect of large-scale magnetic turbulence. Astrophys. J. 753, 28.
+Hahn, M., Savin, D.W.: 2015, A simple method for modeling collision processes in plasmas with a kappa energy distribution. Astrophys. J. 809, 178.
+Hannah, I.G., Kontar, E.P.: 2012, Differential emission measures from the regularized inversion of Hinode and SDO data. Astron. Astrophys. 539, A146.
+Hannah, I.G., Kontar, E.P.: 2013, Multi-thermal dynamics and energetics of a coronal mass ejection in the low solar atmosphere. Astron. Astrophys. 553, A10.
+Hannah, I.G., Hudson, H.S., Hurford, G.J., Lin, R.P.: 2010, Constraining the hard X-ray properties of the quiet sun with new RHESSI observations. Astrophys. J. 724, 487.
+Hannah, I.G., Hudson, H.S., Battaglia, M., Christe, S., Kašparová, J., Krucker, S., Kundu, M.R., Veronig, A.: 2011, Microflares and the statistics of X-ray flares. Space Sci. Rev. 159, 263.
+Hannah, I.G., Grefenstette, B.W., Smith, D.M., Glesener, L., Krucker, S., Hudson, H.S., Madsen, K.K., Marsh, A., White, S.M., Caspi, A., Shih, A.Y., Harrison, F.A., Stern, D., Boggs, S.E., Christensen, F.E., Craig, W.W., Hailey, C.J., Zhang, W.W.: 2016, The first X-ray imaging spectroscopy of quiescent solar active regions with NuSTAR. Astrophys. J. Lett. 820, L14.
+Hansteen, V.: 1993, A new interpretation of the redshift observed in optically thin transition region lines. Astrophys. J. 402, 741.
+Hansteen, V.H., Leer, E.: 1995, Coronal heating, densities, and temperatures and solar wind acceleration. J. Geophys. Res. 100, 21577.
+Hansteen, V., De Pontieu, B., Carlsson, M., Lemen, J., Title, A., Boerner, P., Hurlburt, N., Tarbell, T.D., Wuelser, J.P., Pereira, T.M.D., De Luca, E.E., Golub, L., McKillop, S., Reeves, K., Saar, S., Testa, P., Tian, H., Kankelborg, C., Jaeggli, S., Kleint, L., Martínez-Sykora, J.: 2014, The unresolved fine structure resolved: IRIS observations of the solar transition region. Science 346, 1255757.
+Hansteen, V., Guerreiro, N., De Pontieu, B., Carlsson, M.: 2015, Numerical simulations of coronal heating through footpoint braiding. Astrophys. J. 811, 106.
+Harrison, F.A., Craig, W.W., Christensen, F.E., Hailey, C.J., Zhang, W.W., Boggs, S.E., Stern, D., Cook, W.R., Forster, K., Giommi, P., Grefenstette, B.W., Kim, Y., Kitaguchi, T., Koglin, J.E., Madsen, K.K., Mao, P.H., Miyasaka, H., Mori, K., Perri, M., Pivovaroff, M.J., Puccetti, S., Rana, V.R., Westergaard, N.J., Willis, J., Zoglauer, A., An, H., Bachetti, M., Barrière, N.M., Bellm, E.C., Bhalerao, V., Brejnholt, N.F., Fuerst, F., Liebe, C.C., Markwardt, C.B., Nynka, M., Vogel, J.K., Walton, D.J., Wik, D.R., Alexander, D.M., Cominsky, L.R., Hornschemeier, A.E., Hornstrup, A., Kaspi, V.M., Madejski, G.M., Matt, G., Molendi, S., Smith, D.M., Tomsick, J.A., Ajello, M., Ballantyne, D.R., Baloković, M., Barret, D., Bauer, F.E., Blandford, R.D., Brandt, W.N., Brenneman, L.W., Chiang, J., Chakrabarty, D., Chenevez, J., Comastri, A., Dufour, F., Elvis, M., Fabian, A.C., Farrah, D., Fryer, C.L., Gotthelf, E.V., Grindlay, J.E., Helfand, D.J., Krivonos, R., Meier, D.L., Miller, J.M., Natalucci, L., Ogle, P., Ofek, E.O., Ptak, A., Reynolds, S.P., Rigby, J.R., Tagliaferri, G., Thorsett, S.E., Treister, E., Urry, C.M.: 2013, The Nuclear Spectroscopic Telescope Array (NuSTAR) high-energy X-ray mission. Astrophys. J. 770, 103.
+Hasegawa, A., Mima, K., Duong-van, M.: 1985, Plasma distribution function in a superthermal radiation field. Phys. Rev. Lett. 54, 2608.
+Heinzel, P.: 1991, A chromospheric response to pulse beam heating. Solar Phys. 135, 65.
+Hellinger, P., Matteini, L., Štverák, Š., Trávníček, P.M., Marsch, E.: 2011, Heating and cooling of protons in the fast solar wind between 0.3 and 1 AU: Helios revisited. J. Geophys. Res. 116, 9105.
+Hellinger, P., Štverák, Š., Trávníček, P.M., Matteini, L., Velli, M.: 2013, Proton thermal energetics in the solar wind: Helios reloaded. J. Geophys. Res.
+Hollweg, J.V.: 1974, On electron heat conduction in the solar wind. J. Geophys. Res. 79, 3845.
+Holman, G.D., Sui, L., Schwartz, R.A., Emslie, A.G.: 2003, Electron bremsstrahlung hard X-ray spectra, electron distributions, and energetics in the 2002 July 23 solar flare. Astrophys. J. Lett. 595, L97.
+Holman, G.D., Aschwanden, M.J., Aurass, H., Battaglia, M., Grigis, P.C., Kontar, E.P., Liu, W., Saint-Hilaire, P., Zharkova, V.V.: 2011, Implications of X-ray observations for electron acceleration and propagation in solar flares. Space Sci. Rev. 159, 107.
+Ishikawa, S.-n., Glesener, L., Christe, S., Ishibashi, K., Brooks, D.H., Williams, D.R., Shimojo, M., Sako, N., Krucker, S.: 2014, Constraining hot plasma in a non-flaring solar active region with FOXSI hard X-ray observations. Publ. Astron. Soc. Japan 66, S15.
+Ishikawa, S., Krucker, S., Takahashi, T., Lin, R.P.: 2011, On the relation of above-the-loop and footpoint hard X-ray sources in solar flares. Astrophys. J. 737, 48.
+Jeffrey, N.L.S., Fletcher, L., Labrosse, N.: 2016, First evidence of non-Gaussian solar flare EUV spectral line profiles and accelerated non-thermal ion motion. Astron. Astrophys. 590, A99.
+Jeffrey, N.L.S., Fletcher, L., Labrosse, N.: 2017, Non-Gaussian velocity distributions in solar flares from extreme ultraviolet lines: a possible diagnostic of ion acceleration. Astrophys. J. 836, 35.
+Judge, P.G., Meisner, R.W.: 1994, The ‘HAO spectral diagnostics package’ (HAOS-Diaper). In: Hunt, J.J. (ed.) Solar Dynamic Phenomena and Solar Wind Consequences, the Third SOHO Workshop, ESA Special Publication 373, 67.
+Judge, P.G., Woods, T.N., Brekke, P., Rottman, G.J.: 1995, On the failure of standard emission measure analysis for solar extreme-ultraviolet and ultraviolet irradiance spectra. Astrophys. J. Lett. 455, L85.
+Judge, P.G., de Pontieu, B., McIntosh, S.W., Olluri, K.: 2012, The connection of type II spicules to the corona. Astrophys. J. 746, 158.
+Karlický, M.: 2009, Electron beam–plasma interaction and the return-current formation. Astrophys. J. 690, 189.
+Karlický, M.: 2012, The n-distribution of electrons and double layers in the electron-beam-return-current system of solar flares. Astrophys. J. 750, 49.
+Karlický, M., Kosugi, T.: 2004, Acceleration and heating processes in a collapsing magnetic trap. Astron. Astrophys. 419, 1159.
+Karlický, M., Dzifčáková, E., Dudík, J.: 2012, On the physical meaning of n-distributions in solar flares. Astron. Astrophys. 537, A36.
+Kašparová, J., Karlický, M.: 2009, Kappa distribution and hard X-ray emission of solar flares. Astron. Astrophys. 497, L13.
+Kašparová, J., Varady, M., Heinzel, P., Karlický, M., Moravec, Z.: 2009, Response of optical hydrogen lines to beam heating. I. Electron beams. Astron. Astrophys. 499, 923.
+Keenan, F.P., Dufton, P.L., Kingston, A.E., Cook, J.W.: 1989, Si iii line ratios from the high-resolution telescope and spectrograph on board Spacelab 2 – the effects of non-Maxwellian electron distribution functions. Astrophys. J. 340, 1135.
+Kepa, A., Sylwester, J., Sylwester, B., Siarkowski, M., Phillips, K.J.H., Kuznetsov, V.D.: 2006, Observations of 1s
+Klimchuk, J.A.: 2006, On solving the coronal heating problem. Solar Phys. 234, 41.
+Klimchuk, J.A.: 2015, Key Aspects of Coronal Heating. In: AAS/AGU Triennial Earth-Sun Summit, AAS/AGU Triennial Earth-Sun Summit 1, 203.08.
+Ko, Y.-K., Fisk, L.A., Geiss, J., Gloeckler, G., Guhathakurta, M.: 1997, An empirical study of the electron temperature and heavy ion velocities in the south polar coronal hole. Solar Phys. 171, 345.
+Kobayashi, K., Cirtain, J., Winebarger, A.R., Korreck, K., Golub, L., Walsh, R.W., De Pontieu, B., DeForest, C., Title, A., Kuzin, S., Savage, S., Beabout, D., Beabout, B., Podgorski, W., Caldwell, D., McCracken, K., Ordway, M., Bergner, H., Gates, R., McKillop, S., Cheimets, P., Platt, S., Mitchell, N., Windt, D.: 2014, The High-Resolution Coronal Imager (Hi-C). Solar Phys. 289, 4393.
+Kontar, E.P., Brown, J.C., Emslie, A.G., Hajdas, W., Holman, G.D., Hurford, G.J., Kašparová, J., Mallik, P.C.V., Massone, A.M., McConnell, M.L., Piana, M., Prato, M., Schmahl, E.J., Suarez-Garcia, E.: 2011, Deducing electron properties from hard X-ray observations. Space Sci. Rev. 159, 301.
+Kontar, E.P., Bian, N.H., Emslie, A.G., Vilmer, N.: 2014, Turbulent pitch-angle scattering and diffusive transport of hard X-ray-producing electrons in flaring coronal loops. Astrophys. J. 780, 176.
+Krucker, S., Battaglia, M.: 2014, Particle densities within the acceleration region of a solar flare. Astrophys. J. 780, 107.
+Krucker, S., Lin, R.P.: 2008, Hard X-ray emissions from partially occulted solar flares. Astrophys. J. 673, 1181.
+Krucker, S., Battaglia, M., Cargill, P.J., Fletcher, L., Hudson, H.S., MacKinnon, A.L., Masuda, S., Sui, L., Tomczak, M., Veronig, A.L., Vlahos, L., White, S.M.: 2008, Hard X-ray emission from the solar corona. Astron. Astrophys. Rev. 16, 155.
+Krucker, S., Hudson, H.S., Glesener, L., White, S.M., Masuda, S., Wuelser, J.-P., Lin, R.P.: 2010, Measurements of the coronal acceleration region of a solar flare. Astrophys. J. 714, 1108.
+Krueger, A.: 1979, Introduction to Solar Radio Astronomy and Radio Physics, Geophysics and Astrophysics Monographs 16, Reidel, Dordrecht.
+Kulinová, A., Kašparová, J., Dzifčáková, E., Sylwester, J., Sylwester, B., Karlický, M.: 2011, Diagnostics of non-thermal distributions in solar flare spectra observed by RESIK and RHESSI. Astron. Astrophys. 533, A81.
+Kuznetsov, V.D.: 2015, Solar and heliospheric space missions. Adv. Space Res. 55, 879.
+Laming, J.M., Lepri, S.T.: 2007, Ion charge states in the fast solar wind: New data analysis and theoretical refinements. Astrophys. J. 660, 1642.
+Laming, J.M., Adams, J., Alexander, D., Aschwanden, M., Bailey, C., Bandler, S., et al.: 2010, Science objectives for an X-ray microcalorimeter observing the sun.
+Landi, E., Del Zanna, G., Young, P.R., Dere, K.P., Mason, H.E., Landini, M.: 2006, CHIANTI – an atomic database for emission lines. VII. New data for X-rays and other improvements. Astrophys. J. Suppl. 162, 261.
+Landi, E., Gruesbeck, J.R., Lepri, S.T., Zurbuchen, T.H., Fisk, L.A.: 2012a, Charge state evolution in the solar wind. II. Plasma charge state composition in the inner corona and accelerating fast solar wind. Astrophys. J. 761, 48.
+Landi, E., Gruesbeck, J.R., Lepri, S.T., Zurbuchen, T.H., Fisk, L.A.: 2012b, Charge state evolution in the solar wind. Radiative losses in fast solar wind plasmas. Astrophys. J. Lett. 758, L21.
+Landi, E., Young, P.R., Dere, K.P., Del Zanna, G., Mason, H.E.: 2013, CHIANTI – an atomic database for emission lines. XIII. Soft X-ray improvements and other changes. Astrophys. J. 763, 86.
+Landi, E., Oran, R., Lepri, S.T., Zurbuchen, T.H., Fisk, L.A., van der Holst, B.: 2014, Charge state evolution in the solar wind. III. Model comparison with observations. Astrophys. J. 790, 111.
+Landi, S., Pantellini, F.G.E.: 2001, On the temperature profile and heat flux in the solar corona: Kinetic simulations. Astron. Astrophys. 372, 686.
+Landi, S., Matteini, L., Pantellini, F.: 2012, On the competition between radial expansion and Coulomb collisions in shaping the electron velocity distribution function: Kinetic simulations. Astrophys. J. 760, 143.
+Landi, S., Matteini, L., Pantellini, F.: 2014, Electron heat flux in the solar wind: Are we observing the collisional limit in the 1 AU data? Astrophys. J. Lett. 790, L12.
+Lang, J., Kent, B.J., Breeveld, A.A., Breeveld, E.R., Bromage, B.J.I., Hollandt, J., Payne, J., Pike, C.D., Thompson, W.T.: 2000, The laboratory calibration of the SOHO Coronal Diagnostic Spectrometer. J. Opt. A, Pure Appl. Opt. 2, 88.
+Lang, J., Kent, B.J., Paustian, W., Brown, C.M., Keyser, C., Anderson, M.R., Case, G.C.R., Chaudry, R.A., James, A.M., Korendyke, C.M., Pike, C.D., Probyn, B.J., Rippington, D.J., Seely, J.F., Tandy, J.A., Whillock, M.C.R.: 2006, Laboratory calibration of the Extreme-Ultraviolet Imaging Spectrometer for the Solar-B satellite. Appl. Opt. 45, 8689.
+Lanza, A.F., Spadaro, D., Lanzafame, A.C., Antiochos, S.K., MacNeice, P.J., Spicer, D.S., O’Mullane, M.G.: 2001,. Astrophys. J. 547, 1116.
+Le Chat, G., Issautier, K., Meyer-Vernet, N., Zouganelis, I., Moncuquet, M., Hoang, S.: 2010, Quasi-thermal noise spectroscopy: preliminary comparison between kappa and sum of two Maxwellian distributions. In: Maksimovic, M., et al. (eds.) Twelfth International Solar Wind Conference, AIP Conf. Proc. 1216, 316.
+Lee, J., Lim, D., Choe, G.S., Kim, K.-S., Jang, M.: 2013, Coronal thick target hard X-ray emissions and radio emissions. Astrophys. J. Lett. 769, L11.
+Leenaarts, J., Carlsson, M., Hansteen, V., Rutten, R.J.: 2007, Non-equilibrium hydrogen ionization in 2D simulations of the solar atmosphere. Astron. Astrophys. 473, 625.
+Lemaire, J.: 2010, Half a century of kinetic solar wind models. In: Maksimovic, M., et al. (eds.) Twelfth International Solar Wind Conference, AIP Conf. Proc. 1216, 8.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lepri, S.T., Laming, J.M., Rakowski, C.E., von Steiger, R.: 2012, Spatially dependent heating and ionization in an ICME observed by both ACE and Ulysses. Astrophys. J. 760, 105.
+Leubner, M.P.: 2004, Core–halo distribution functions: A natural equilibrium state in generalized thermostatistics. Astrophys. J. 604, 469.
+Li, G., Kong, X., Zank, G., Chen, Y.: 2013, On the spectral hardening at {\gtrsim} 300~keV in solar flares. Astrophys. J. 769, 22.
+Li, T.C., Drake, J.F., Swisdak, M.: 2012, Suppression of energetic electron transport in flares by double layers. Astrophys. J. 757, 20.
+Li, T.C., Drake, J.F., Swisdak, M.: 2013, Coronal electron confinement by double layers. Astrophys. J. 778, 144.
+Li, T.C., Drake, J.F., Swisdak, M.: 2014, Dynamics of double layers, ion acceleration, and heat flux suppression during solar flares. Astrophys. J. 793, 7.
+Lin, R.P.: 2011, Energy release and particle acceleration in flares: Summary and future prospects. Space Sci. Rev. 159, 421.
+Lin, R.P., Hudson, H.S.: 1971, 10 – 100 keV electron acceleration and emission from solar flares. Solar Phys. 17, 412.
+Lin, R.P., Dennis, B.R., Hurford, G.J., Smith, D.M., Zehnder, A., Harvey, P.R., Curtis, D.W., Pankow, D., Turin, P., Bester, M., Csillaghy, A., Lewis, M., Madden, N., van Beek, H.F., Appleby, M., Raudorf, T., McTiernan, J., Ramaty, R., Schmahl, E., Schwartz, R., Krucker, S., Abiad, R., Quinn, T., Berg, P., Hashii, M., Sterling, R., Jackson, R., Pratt, R., Campbell, R.D., Malone, D., Landis, D., Barrington-Leigh, C.P., Slassi-Sennou, S., Cork, C., Clark, D., Amato, D., Orwig, L., Boyle, R., Banks, I.S., Shirey, K., Tolbert, A.K., Zarro, D., Snow, F., Thomsen, K., Henneck, R., McHedlishvili, A., Ming, P., Fivian, M., Jordan, J., Wanner, R., Crubb, J., Preble, J., Matranga, M., Benz, A., Hudson, H., Canfield, R.C., Holman, G.D., Crannell, C., Kosugi, T., Emslie, A.G., Vilmer, N., Brown, J.C., Johns-Krull, C., Aschwanden, M., Metcalf, T., Conway, A.: 2002, The Reuven Ramaty High-Energy Solar Spectroscopic Imager (RHESSI). Solar Phys. 210, 3.
+Lin, R.P., Krucker, S., Hurford, G.J., Smith, D.M., Hudson, H.S., Holman, G.D., Schwartz, R.A., Dennis, B.R., Share, G.H., Murphy, R.J., Emslie, A.G., Johns-Krull, C., Vilmer, N.: 2003, RHESSI observations of particle acceleration and energy release in an intense solar gamma-ray line flare. Astrophys. J. Lett. 595, L69.
+Livadiotis, G.: 2015a, Introduction to special section on origins and properties of kappa distributions: Statistical background and properties of kappa distributions in space plasmas. J. Geophys. Res. 120, 1607.
+Livadiotis, G.: 2015b, Kappa and q indices: Dependence on the degrees of freedom. Entropy 17, 2062.
+Livadiotis, G., McComas, D.J.: 2009, Beyond kappa distributions: Exploiting Tsallis statistical mechanics in space plasmas. J. Geophys. Res. 114, 11105.
+Livadiotis, G., McComas, D.J.: 2010, Exploring transitions of space plasmas out of equilibrium. Astrophys. J. 714, 971.
+Livadiotis, G., McComas, D.J.: 2011, Invariant kappa distribution in space plasmas out of equilibrium. Astrophys. J. 741, 88.
+Livadiotis, G., McComas, D.J.: 2013, Understanding kappa distributions: A toolbox for space science and astrophysics. Space Sci. Rev. 175, 183.
+Ljepojevic, N.N., MacNeice, P.: 1988, Non-Maxwellian distribution functions in flaring coronal loops – comparison of Landau–Fokker–Planck and BGK solutions. Solar Phys. 117, 123.
+Longcope, D.W., Des Jardins, A.C., Carranza-Fulmer, T., Qiu, J.: 2010, A quantitative model of energy release and heating by time-dependent, localized reconnection in a flare with thermal loop-top X-ray source. Solar Phys. 267, 107.
+Lynch, B.J., Reinard, A.A., Mulligan, T., Reeves, K.K., Rakowski, C.E., Allred, J.C., Li, Y., Laming, J.M., MacNeice, P.J., Linker, J.A.: 2011, Ionic composition structure of coronal mass ejections in axisymmetric magnetohydrodynamic models. Astrophys. J. 740, 112.
+Mackovjak, Š., Dzifčáková, E., Dudík, J.: 2013, On the possibility to diagnose the Non-Maxwellian κ -distributions from the Hinode/EIS EUV spectra. Solar Phys. 282, 263.
+Mackovjak, Š., Dzifčáková, E., Dudík, J.: 2014, Differential emission measure analysis of active region cores and quiet Sun for the non-Maxwellian κ-distributions. Astron. Astrophys. 564, A130.
+MacNiece, P.J., Olson, K.M., Mobarry, C., de Fainchtein, R., Packer, C.: 2000,. Comput. Phys. Commun. 126, 330.
+Maksimovic, M., Pierrard, V., Lemaire, J.F.: 1997, A kinetic model of the solar wind with Kappa distribution functions in the corona. Astron. Astrophys. 324, 725.
+Maksimovic, M., Pierrard, V., Riley, P.: 1997, Ulysses electron distributions fitted with Kappa functions. Geophys. Res. Lett. 24, 1151.
+Maksimovic, M., Hoang, S., Meyer-Vernet, N., Moncuquet, M., Bougeret, J.-L., Phillips, J.L., Canu, P.: 1995, Solar wind electron parameters from quasi-thermal noise spectroscopy and comparison with other measurements on Ulysses. J. Geophys. Res. 100, 19881.
+Maksimovic, M., Issautier, K., Meyer-Vernet, N., Perche, C., Moncuquet, M., Zouganelis, I., Bale, S.D., Vilmer, N., Bougeret, J.-L.: 2005, Solar wind electron temperature and density measurements on the Solar Orbiter with thermal noise spectroscopy. Adv. Space Res. 36, 1471.
+Marsch, E.: 2006, Kinetic physics of the solar corona and solar wind. Living Rev. Solar Phys. 3, 1.
+Marsch, E., Rosenbauer, H., Schwenn, R., Muehlhaeuser, K.-H., Neubauer, F.M.: 1982a, Solar wind helium ions – observations of the HELIOS solar probes between 0.3 and 1 AU. J. Geophys. Res. 87, 35.
+Marsch, E., Schwenn, R., Rosenbauer, H., Muehlhaeuser, K.-H., Pilipp, W., Neubauer, F.M.: 1982b, Solar wind protons – three-dimensional velocity distributions and derived plasma parameters measured between 0.3 and 1 AU. J. Geophys. Res. 87, 52.
+Martínez-Sykora, J., De Pontieu, B., Hansteen, V.H., Gudiksen, B.: 2016, Time dependent nonequilibrium ionization of transition region lines observed with IRIS. Astrophys. J. 817, 46.
+Maruca, B.A., Kasper, J.C., Gary, S.P.: 2012, Instability-driven limits on helium temperature anisotropy in the solar wind: Observations and linear Vlasov analysis. Astrophys. J. 748, 137.
+Mason, H.E., Monsignori Fossi, B.C.: 1994, Spectroscopic diagnostics in the VUV for solar and stellar plasmas. Astron. Astrophys. Rev. 6, 123.
+Masuda, S., Kosugi, T., Hara, H., Tsuneta, S., Ogawara, Y.: 1994, A loop-top hard X-ray source in a compact solar flare as evidence for magnetic reconnection. Nature 371, 495.
+Matteini, L., Hellinger, P., Landi, S., Trávnícek, P., Velli, M.: 2012, Ion kinetics in the solar wind: Coupling global expansion to local microphysics. Space Sci. Rev. 172, 373.
+Matteini, L., Hellinger, P., Goldstein, B.E., Landi, S., Velli, M., Neugebauer, M.: 2013, Signatures of kinetic instabilities in the solar wind. J. Geophys. Res. 118, 2771.
+Matteini, L., Hellinger, P., Schwartz, S.J., Landi, S.: 2015, Fire hose instability driven by alpha particle temperature anisotropy. Astrophys. J. 812, 13.
+Mazzotta, P., Mazzitelli, G., Colafrancesco, S., Vittorio, N.: 1998, Ionization balance for optically thin plasmas: Rate coefficients for all atoms and ions of the elements H to Ni. Astron. Astrophys. Suppl. 133, 403.
+McWhirter, R.W.P., Summers, H.P.: 1984, Atomic radiation from low density plasma. In: Applied Atomic Collision Physics, vol. 2. Plasmas, 51.
+Mewe, R., Gronenschild, E.H.B.M., van den Oord, G.H.J.: 1985, Calculated X-radiation from optically thin plasmas. V. Astron. Astrophys. Suppl. 62, 197.
+Mewe, R., Lemen, J.R., Peres, G., Schrijver, J., Serio, S.: 1985, Solar X-ray spectrum simulations for flaring loop models with emphasis on transient ionization effects during the impulsive phase. Astron. Astrophys. 152, 229.
+Meyer-Vernet, N.: 1993, Aspects of Debye shielding. Am. J. Phys. 61, 249.
+Meyer-Vernet, N.: 1999, How does the solar wind blow? A simple kinetic model. Eur. J. Phys. 20, 167.
+Meyer-Vernet, N.: 2001, Large scale structure of planetary environments: The importance of not being Maxwellian. Planet. Space Sci. 49, 247.
+Meyer-Vernet, N.: 2007, Basics of the Solar Wind, Cambridge University Press, Cambridge
+Meyer-Vernet, N., Issautier, K.: 1998, Electron temperature in the solar wind: Generic radial variation from kinetic collisionless models. J. Geophys. Res. 103, 29705.
+Meyer-Vernet, N., Perche, C.: 1989, Tool kit for antennae and thermal noise near the plasma frequency. J. Geophys. Res. 94, 2405.
+Meyer-Vernet, N., Hoang, S., Issautier, K., Maksimovic, M., Manning, R., Moncuquet, M., Stone, R.G.: 1998, Measuring plasma parameters with thermal noise spectroscopy. In: Pfaff, R., et al. (eds.) Measurement Techniques in Space Plasmas: Fields, Geophys. Monograph Ser. 103, 205.
+Miller, J.A., Cargill, P.J., Emslie, A., Holamn, G.D., Dennis, B.R., Larosa, T.N., Winglee, R.M., Benka, S.G., Tsuneta, S.: 1997, Critical issues for understanding particle acceleration in impulsive solar flares. J. Geophys. Res. 102, 1463.
+Milligan, R.O., Kennedy, M.B., Mathioudakis, M., Keenan, F.P.: 2012, Time-dependent density diagnostics of solar flare plasmas using SDO/EVE. Astrophys. J. Lett. 755, L16.
+Minoshima, T., Masuda, S., Miyoshi, Y., Kusano, K.: 2011, Coronal electron distribution in solar flares: Drift-kinetic model. Astrophys. J. 732, 111.
+Moncuquet, M., Matsumoto, H., Bougeret, J.-L., Blomberg, L.G., Issautier, K., Kasaba, Y., Kojima, H., Maksimovic, M., Meyer-Vernet, N., Zarka, P.: 2006, The radio waves and thermal electrostatic noise spectroscopy (SORBET) experiment on BEPICOLOMBO/MMO/PWI: Scientific objectives and performance. Adv. Space Res. 38, 680.
+Nicholls, D.C., Dopita, M.A., Sutherland, R.S.: 2012, Resolving the electron temperature discrepancies in H ii regions and planetary nebulae: κ-distributed electrons. Astrophys. J. 752, 148.
+Nicolaou, G., Livadiotis, G.: 2016, Misestimation of temperature when applying Maxwellian distributions to space plasmas described by kappa distributions. Astrophys. Space Sci. 361, 359.
+Nikolić, D., Gorczyca, T.W., Korista, K.T., Ferland, G.J., Badnell, N.R.: 2013, Suppression of dielectronic recombination due to finite density effects. Astrophys. J. 768, 82.
+Nishizuka, N., Shibata, K.: 2013, Fermi acceleration in plasmoids interacting with fast shocks of reconnection via fractal reconnection. Phys. Rev. Lett. 110(5), 051101.
+Noci, G., Spadaro, D., Zappala, R.A., Antiochos, S.K.: 1989, Mass flows and the ionization states of coronal loops. Astrophys. J. 338, 1131.
+Oka, M., Phan, T.-D., Krucker, S., Fujimoto, M., Shinohara, I.: 2010, Electron acceleration by multi-island coalescence. Astrophys. J. 714, 915.
+Oka, M., Ishikawa, S., Saint-Hilaire, P., Krucker, S., Lin, R.P.: 2013, Kappa distribution model for hard X-ray coronal sources of solar flares. Astrophys. J. 764, 6.
+Oka, M., Krucker, S., Hudson, H.S., Saint-Hilaire, P.: 2015, Electron energy partition in the above-the-looptop solar hard X-ray sources. Astrophys. J. 799, 129.
+Olbert, S.: 1968, Summary of Experimental Results from M.I.T. Detector on IMP-1. In: Carovillano, R.D.L., McClay, J.F. (eds.) Physics of the Magnetosphere, Astrophys. Spa. Sci. Lib. 10, 641.
+Olbert, S.: 1981, Inferences about the solar wind dynamics from observed distributions of electrons and ions. In: Guyenne, T.D., Lévy, G. (eds.) ESA Special Publication, ESA SP-161, 135.
+Olluri, K., Gudiksen, B.V., Hansteen, V.H.: 2013a, Non-equilibrium ionization effects on the density line ratio diagnostics of O iv. Astrophys. J. 767, 43.
+Olluri, K., Gudiksen, B.V., Hansteen, V.H.: 2013b, Non-equilibrium ionization in the Bifrost stellar atmosphere code. Astron. J. 145, 72.
+Olluri, K., Gudiksen, B.V., Hansteen, V.H., De Pontieu, B.: 2015, Synthesized spectra of optically thin emission lines. Astrophys. J. 802, 5.
+Oraevsky, V.N., Galeev, A.A., Kuznetsov, V.D., Zelenyi, L.M.: 2001, Orbiter and Russian Aviation and Space Agency Interhelioprobe. In: Solar Encounter. Proc. First Solar Orbiter Workshop, ESA SP-493, 95.
+Oran, R., van der Holst, B., Landi, E., Jin, M., Sokolov, I.V., Gombosi, T.I.: 2013, A global wave-driven magnetohydrodynamic solar model with a unified treatment of open and closed magnetic field topologies. Astrophys. J. 778, 176.
+Oran, R., Landi, E., van der Holst, B., Lepri, S.T., Vásquez, A.M., Nuevo, F.A., Frazin, R., Manchester, W., Sokolov, I., Gombosi, T.I.: 2015, A steady-state picture of solar wind acceleration and charge state composition derived from a global wave-driven MHD model. Astrophys. J. 806, 55.
+Owocki, S., Townsend, R., Ud-Doula, A.: 1999, Charge states of C and O from coronal holes: Non-Maxwellian distribution vs. unequal ion speeds. In: Habbal, S.R., Halas, C.D. (eds.) The solar wind nine conference., American Institute of Physics Conference Series 471, 263.
+Owocki, S.P., Scudder, J.D.: 1983, The effect of a non-Maxwellian electron distribution on oxygen and iron ionization balances in the solar corona. Astrophys. J. 270, 758.
+Parker, E.N.: 1983, Magnetic neutral sheets in evolving fields – Part two – Formation of the solar corona. Astrophys. J. 264, 642.
+Parker, E.N.: 1988, Nanoflares and the solar X-ray corona. Astrophys. J. 330, 474.
+Parker, E.N.: 2010, Kinetic and hydrodynamic representations of coronal expansion and the solar wind. In: Maksimovic, M., et al. (eds.) Twelfth International Solar Wind Conference, AIP Conf. Proc. 1216, 3.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Peter, H., Tian, H., Curdt, W., Schmit, D., Innes, D., De Pontieu, B., Lemen, J., Title, A., Boerner, P., Hurlburt, N., Tarbell, T.D., Wuelser, J.P., Martínez-Sykora, J., Kleint, L., Golub, L., McKillop, S., Reeves, K.K., Saar, S., Testa, P., Kankelborg, C., Jaeggli, S., Carlsson, M., Hansteen, V.: 2014, Hot explosions in the cool atmosphere of the Sun. Science 346, 1255726.
+Petkaki, P., MacKinnon, A.L.: 2011, Acceleration of charged particles by fluctuating and steady electric fields in a X-type magnetic field. Adv. Space Res. 48, 884.
+Phillips, K.J.H., Feldman, U., Landi, E.: 2008, Ultraviolet and X-ray Spectroscopy of the Solar Atmosphere, Cambridge University Press, Cambridge
+Phillips, K.J.H., Bhatia, A.K., Mason, H.E., Zarro, D.M.: 1996, High coronal electron densities in a solar flare from Fe XXI and Fe XXII X-ray line measurements. Astrophys. J. 466, 549.
+Pierrard, V., Lazar, M.: 2010, Kappa distributions: Theory and applications in space plasmas. Solar Phys. 267, 153.
+Pierrard, V., Pieters, M.: 2014, Coronal heating and solar wind acceleration for electrons, protons, and minor ions obtained from kinetic models based on kappa distributions. J. Geophys. Res. 119, 9441.
+Pierrard, V., Lazar, M., Schlickeiser, R.: 2011, Evolution of the electron distribution function in the whistler wave turbulence of the solar wind. Solar Phys. 269, 421.
+Pierrard, V., Maksimovic, M., Lemaire, J.: 1999, Electron velocity distribution functions from the solar wind to the corona. J. Geophys. Res. 104, 17021.
+Pierrard, V., Lazar, M., Poedts, S., Štverák, Š., Maksimovic, M., Trávníček, P.M.: 2016, The electron temperature and anisotropy in the solar wind. Comparison of the core and halo populations. Solar Phys. 291, 2165.
+Pilipp, W.G., Muehlhaeuser, K.-H., Miggenrieder, H., Montgomery, M.D., Rosenbauer, H.: 1987, Characteristics of electron velocity distribution functions in the solar wind derived from the HELIOS plasma experiment. J. Geophys. Res. 92, 1075.
+Pinfield, D.J., Keenan, F.P., Mathioudakis, M., Phillips, K.J.H., Curdt, W., Wilhelm, K.: 1999, Evidence for non-Maxwellian electron energy distributions in the solar transition region: Si iii line ratios from SUMER. Astrophys. J. 527, 1000.
+Pinto, R.F., Gordovskyy, M., Browning, P.K., Vilmer, N.: 2016, Thermal and non-thermal emission from reconnecting twisted coronal loops. Astron. Astrophys. 585, A159.
+Polito, V., Del Zanna, G., Dudík, J., Mason, H.E., Giunta, A., Reeves, K.K.: 2016a, Density diagnostics derived from the O iv and S iv intercombination lines observed by IRIS. Astron. Astrophys. 594, A64.
+Polito, V., Reep, J.W., Reeves, K.K., Simões, P.J.A., Dudík, J., Del Zanna, G., Mason, H.E., Golub, L.: 2016b, Simultaneous IRIS and Hinode/EIS observations and modelling of the 2014 October 27 X2.0 class flare. Astrophys. J. 816, 89.
+Priest, E., Forbes, T.: 2000, Magnetic Reconnection, Cambridge University Press, Cambridge.
+Ralchenko, Y., Feldman, U., Doschek, G.A.: 2007, Is there a high-energy particle population in the quiet solar corona? Astrophys. J. 659, 1682.
+Raymond, J.C.: 1990, Predicted extreme-ultraviolet and X-ray spectrum of a microflare-heated corona. Astrophys. J. 365, 387.
+Raymond, J.C., Dupree, A.K.: 1978, C III density diagnostics in nonequilibrium plasmas. Astrophys. J. 222, 379.
+Reale, F., Orlando, S.: 2008, Nonequilibrium of ionization and the detection of hot plasma in nanoflare-heated coronal loops. Astrophys. J. 684, 715.
+Reep, J.W., Russell, A.J.B.: 2016, Alfvénic wave heating of the upper chromosphere in flares. Astrophys. J. Lett. 818, L20.
+Reep, J.W., Bradshaw, S.J., Alexander, D.: 2015, Optimal electron energies for driving chromospheric evaporation in solar flares. Astrophys. J. 808, 177.
+Reep, J.W., Bradshaw, S.J., McAteer, R.T.J.: 2013, On the sensitivity of the GOES flare classification to properties of the electron beam in the thick-target model. Astrophys. J. 778, 76.
+Régnier, S., Alexander, C.E., Walsh, R.W., Winebarger, A.R., Cirtain, J., Golub, L., Korreck, K.E., Mitchell, N., Platt, S., Weber, M., De Pontieu, B., Title, A., Kobayashi, K., Kuzin, S., DeForest, C.E.: 2014, Sparkling extreme-ultraviolet bright dots observed with Hi-C. Astrophys. J. 784, 134.
+Rodkin, D., Goryaev, F., Pagano, P., Gibb, G., Slemzin, V., Shugay, Y., Veselovsky, I., Mackay, D.H.: 2017, Origin and ion charge state evolution of solar wind transients during 4 – 7 August 2011. Solar Phys. 292, 90.
+Roussel-Dupré, R.: 1980a, Non-Maxwellian velocity distribution functions associated with steep temperature gradients in the solar transition region. I – Estimate of the electron velocity distribution functions. Solar Phys. 68, 243.
+Roussel-Dupré, R.: 1980b, Non-Maxwellian velocity distribution functions associated with steep temperature gradients in the solar transition region. II. The effect of non-Maxwellian electron distribution functions on ionization equilibrium calculations for carbon, nitrogen and oxygen. Solar Phys. 68, 265.
+Saint-Hilaire, P., Krucker, S., Lin, R.P.: 2008, A statistical survey of hard X-ray spectral characteristics of solar flares with two footpoints. Solar Phys. 250, 53.
+Sakao, T.: 1994, Characteristics of solar flare hard X-ray sources as revealed with the Hard X-ray Telescope aboard the Yohkoh satellite. PhD thesis, University of Tokyo.
+Salem, C., Bosqued, J.-M., Larson, D.E., Mangeney, A., Maksimovic, M., Perche, C., Lin, R.P., Bougeret, J.-L.: 2001, Determination of accurate solar wind electron parameters using particle detectors and radio wave receivers. J. Geophys. Res. 106, 21701.
+Schmelz, J.T., Winebarger, A.R.: 2015, What can observations tell us about coronal heating? Phil. Trans. Roy. Soc. London Ser. A, Math. Phys. Sci. 373, 20140257.
+Schmelz, J.T., Kashyap, V.L., Saar, S.H., Dennis, B.R., Grigis, P.C., Lin, L., De Luca, E.E., Holman, G.D., Golub, L., Weber, M.A.: 2009, Some like it hot: Coronal heating observations from Hinode X-ray telescope and RHESSI. Astrophys. J. 704, 863.
+Scudder, J.D.: 1992a, On the causes of temperature change in inhomogeneous low-density astrophysical plasmas. Astrophys. J. 398, 299.
+Scudder, J.D.: 1992b, Why all stars should possess circumstellar temperature inversions. Astrophys. J. 398, 319.
+Scudder, J.D., Karimabadi, H.: 2013, Ubiquitous non-thermals in astrophysical plasmas: Restating the difficulty of maintaining Maxwellians. Astrophys. J. 770, 26.
+Scudder, J.D., Olbert, S.: 1979, A theory of local and global processes which affect solar wind electrons. I – The origin of typical 1 AU velocity distribution functions – steady state theory. J. Geophys. Res. 84, 2755.
+Scudder, J.D., Olbert, S.: 1983, The collapse of the local, Spitzer–Haerm formulation and a global-local generalization for heat flow in an inhomogeneous, fully ionized plasma. In: NASA Conf. Publ., NASA Conference Publication 228, 163.
+Seely, J.F., Feldman, U., Doschek, G.A.: 1987, Observation of nonthermal energy distributions during the impulsive phase of solar flares. Astrophys. J. 319, 541.
+Serio, S., Reale, F., Jakimiec, J., Sylwester, B., Sylwester, J.: 1991, Dynamics of flaring loops. I – Thermodynamic decay scaling laws. Astron. Astrophys. 241, 197.
+Shen, C., Reeves, K.K., Raymond, J.C., Murphy, N.A., Ko, Y.-K., Lin, J., Mikić, Z., Linker, J.A.: 2013, Non-equilibrium ionization modeling of the current sheet in a simulated solar eruption. Astrophys. J. 773, 110.
+Shoub, E.C.: 1983, Invalidity of local thermodynamic equilibrium for electrons in the solar transition region. I – Fokker–Planck results. Astrophys. J. 266, 339.
+Siarkowski, M., Sylwester, J., Bąkała, J., Szaforz, Ż., Kowaliński, M., Kordylewski, Z., Płocieniak, S., Podgórski, P., Sylwester, B., Trzebiński, W., Stęślicki, M., Phillips, K.J.H., Dudnik, O.V., Kurbatov, E., Kuznetsov, V.D., Kuzin, S., Zimovets, I.V.: 2016, ChemiX: a Bragg crystal spectrometer for the Interhelioprobe interplanetary mission. Exp. Astron. 41, 327.
+Simões, P.J.A., Kontar, E.P.: 2013, Implications for electron acceleration and transport from non-thermal electron rates at looptop and footpoint sources in solar flares. Astron. Astrophys. 551, A135.
+Smith, R.K., Hughes, J.P.: 2010, Ionization equilibrium timescales in collisional plasmas. Astrophys. J. 718, 583.
+Somov, B.V., Kosugi, T.: 1997, Collisionless reconnection and high-energy particle acceleration in solar flares. Astrophys. J. 485, 859.
+Spadaro, D., Leto, P., Antiochos, S.K.: 1994, Observational tests for nonequilibrium ionization in the solar corona. Astrophys. J. 427, 453.
+Spitzer, L., Härm, R.: 1953, Transport phenomena in completely ionised gas. Phys. Rev. 89, 977.
+Stone, R.G., Bougeret, J.L., Caldwell, J., Canu, P., de Conchy, Y., Cornilleau-Wehrlin, N., Desch, M.D., Fainberg, J., Goetz, K., Goldstein, M.L.: 1992, The unified radio and plasma wave investigation. Astron. Astrophys. Suppl. 92, 291.
+Strong, K.T.: 1978, PhD thesis, Univ. College London.
+Sui, L., Holman, G.D.: 2003, Evidence for the formation of a large-scale current sheet in a solar flare. Astrophys. J. Lett. 596, L251.
+Summers, H.P.: 1974a, Appleton Laboratory Internal Memorandum IM367 & Re-issued with Improvements as AL-R-5.
+Summers, H.P.: 1974b, The ionization equilibrium of hydrogen-like to argon-like ions of elements. Mon. Not. Roy. Astron. Soc. 169, 663.
+Summers, H.P., Dickson, W.J., O’Mullane, M.G., Badnell, N.R., Whiteford, A.D., Brooks, D.H., Lang, J., Loch, S.D., Griffin, D.C.: 2006, Ionization state, excited populations and emission of impurities in dynamic finite density plasmas: I. The generalized collisional radiative model for light elements. Plasma Phys. Control. Fusion 48, 263.
+Sun, J.Q., Cheng, X., Ding, M.D.: 2014, Differential emission measure analysis of a limb solar flare on 2012 July 19. Astrophys. J. 786, 73.
+Susino, R., Lanzafame, A.C., Lanza, A.F., Spadaro, D.: 2010, Signatures of impulsive localized heating in the temperature distribution of multi-stranded coronal loops. Astrophys. J. 709, 499.
+Suzuki, S., Dulk, G.A.: 1985, In: McLean, D.J., Labrum, N.R. (eds.) Bursts of Type III and Type V, 289.
+Sylwester, J., Sylwester, B., Phillips, K.J.H.: 2008, RESIK observations of helium-like argon X-ray line emission in solar flares. Astrophys. J. Lett. 681, L117.
+Sylwester, J., Gaicki, I., Kordylewski, Z., Kowaliński, M., Nowak, S., Płocieniak, S., Siarkowski, M., Sylwester, B., Trzebiński, W., Bakała, J., Culhane, J.L., Whyndham, M., Bentley, R.D., Guttridge, P.R., Phillips, K.J.H., Lang, J., Brown, C.M., Doschek, G.A., Kuznetsov, V.D., Oraevsky, V.N., Stepanov, A.I., Lisin, D.V.: 2005, Resik: A bent crystal X-ray spectrometer for studies of solar coronal plasma composition. Solar Phys. 226, 45.
+Sylwester, J., Kordylewski, Z., Plocieniak, S., Siarkowski, M., et al.: 2015, X-ray flare spectra from the DIOGENESS Spectrometer and its concept applied to ChemiX on the Interhelioprobe Spacecraft. Solar Phys. 290, 3683.
+Tajfirouze, E., Reale, F., Peres, G., Testa, P.: 2016, EUV flickering of solar coronal loops: A new diagnostic of coronal heating. Astrophys. J. Lett. 817, L11.
+Tanaka, K., Watannabe, T., Nishi, K., Akita, K.: 1982, High-resolution solar flare X-ray spectra obtained with rotating spectrometers on the HINOTORI satellite. Astrophys. J. Lett. 254, L59.
+Tandberg-Hanssen, E., Emslie, A.G.: 1988, The Physics of Solar Flares, Cambridge University Press, Cambridge.
+Tao, J., Wang, L., Zong, Q., Li, G., Salem, C.S., Wimmer-Schweingruber, R.F., He, J., Tu, C., Bale, S.D.: 2016, Quiet-time suprathermal ({∼} 0.1 -- 1.5~keV) electrons in the solar wind. Astrophys. J. 820, 22.
+Teriaca, L., Andretta, V., Auchère, F., Brown, C.M., Buchlin, E., Cauzzi, G., Culhane, J.L., Curdt, W., Davila, J.M., Del Zanna, G., Doschek, G.A., Fineschi, S., Fludra, A., Gallagher, P.T., Green, L., Harra, L.K., Imada, S., Innes, D., Kliem, B., Korendyke, C., Mariska, J.T., Martínez-Pillet, V., Parenti, S., Patsourakos, S., Peter, H., Poletto, L., Rutten, R.J., Schühle, U., Siemer, M., Shimizu, T., Socas-Navarro, H., Solanki, S.K., Spadaro, D., Trujillo-Bueno, J., Tsuneta, S., Dominguez, S.V., Vial, J.-C., Walsh, R., Warren, H.P., Wiegelmann, T., Winter, B., Young, P.: 2012, LEMUR: Large European module for solar Ultraviolet Research. European contribution to JAXA’s Solar-C mission. Exp. Astron. 34, 273.
+Testa, P., De Pontieu, B., Martínez-Sykora, J., DeLuca, E., Hansteen, V., Cirtain, J., Winebarger, A., Golub, L., Kobayashi, K., Korreck, K., Kuzin, S., Walsh, R., DeForest, C., Title, A., Weber, M.: 2013, Observing coronal nanoflares in active region moss. Astrophys. J. Lett. 770, L1.
+Testa, P., De Pontieu, B., Allred, J., Carlsson, M., Reale, F., Daw, A., Hansteen, V., Martinez-Sykora, J., Liu, W., DeLuca, E.E., Golub, L., McKillop, S., Reeves, K., Saar, S., Tian, H., Lemen, J., Title, A., Boerner, P., Hurlburt, N., Tarbell, T.D., Wuelser, J.P., Kleint, L., Kankelborg, C., Jaeggli, S.: 2014, Evidence of nonthermal particles in coronal loops heated impulsively by nanoflares. Science 346, 1255724.
+Tian, H., Kleint, L., Peter, H., Weber, M., Testa, P., DeLuca, E., Golub, L., Schanche, N.: 2014, Observations of subarcsecond bright dots in the transition region above sunspots with the Interface Region Imaging Spectrograph. Astrophys. J. Lett. 790, L29.
+Tsallis, C.: 1988, Possible generalization of Boltzmann–Gibbs statistics. J. Stat. Phys. 52, 479.
+Tsallis, C.: 2009, Introduction to Nonextensive Statistical Mechanics, Springer, New York.
+Tsuneta, S.: 1996, Structure and dynamics of magnetic reconnection in a solar flare: Erratum. Astrophys. J. 464, 1055.
+Tsuneta, S., Naito, T.: 1998, Fermi acceleration at the fast shock in a solar flare and the impulsive loop-top hard X-ray source. Astrophys. J. Lett. 495, L67.
+Vasyliunas, V.M.: 1968a, A survey of low-energy electrons in the evening sector of the magnetosphere with OGO 1 and OGO 3. J. Geophys. Res. 73, 2839.
+Vasyliunas, V.M.: 1968b, Low-energy electrons in the magnetosphere as observed by OGO-1 and OGO-3. In: Carovillano, R.D.L., McClay, J.F. (eds.) Physics of the Magnetosphere, Astrophys. Spa. Sci. Lib. 10, 622.
+Veck, N.J., Strong, K.T., Jordan, C., Simnett, G.M., Cargill, P.J., Priest, E.R.: 1984, The development and cooling of a solar limb-flare. Mon. Not. Roy. Astron. Soc. 210, 443.
+Veronig, A.M., Brown, J.C.: 2004, A coronal thick-target interpretation of two hard X-ray loop events. Astrophys. J. Lett. 603, L117.
+Viall, N.M., Klimchuk, J.A.: 2011, Patterns of nanoflare storm heating exhibited by an active region observed with Solar Dynamics Observatory/Atmospheric Imaging Assembly. Astrophys. J. 738, 24.
+Vilmer, N., MacKinnon, A.L., Hurford, G.J.: 2011, Properties of energetic ions in the solar atmosphere from γ-ray and neutron observations. Space Sci. Rev. 159, 167.
+Vissers, G.J.M., Rouppe van der Voort, L.H.M., Rutten, R.J., Carlsson, M., De Pontieu, B.: 2015, Ellerman bombs at high resolution. III. Simultaneous observations with IRIS and SST. Astrophys. J. 812, 11.
+Vocks, C.: 2012, Kinetic models for whistler wave scattering of electrons in the solar corona and wind. Space Sci. Rev. 172, 303.
+Vocks, C., Dzifčáková, E., Mann, G.: 2016, Suprathermal electron distributions in the solar transition region. Astron. Astrophys. 596, A41.
+Vocks, C., Mann, G., Rausche, G.: 2008, Formation of suprathermal electron distributions in the quiet solar corona. Astron. Astrophys. 480, 527.
+Vocks, C., Salem, C., Lin, R.P., Mann, G.: 2005, Electron halo and strahl formation in the solar wind by resonant interaction with whistler waves. Astrophys. J. 627, 540.
+Wannawichian, S., Ruffolo, D., Kartavykh, Y.Y.: 2003, Ionization fractions of slow ions in a plasma with kappa distributions for the electron velocity. Astrophys. J. Suppl. 146, 443.
+Wargelin, B.J., Beiersdorfer, P., Brown, G.V.: 2008, EBIT charge-exchange measurements and astrophysical applications. Can. J. Phys. 86, 151.
+Warren, H.P., Ugarte-Urra, I., Landi, E.: 2014, The absolute calibration of the EUV imaging spectrometer on Hinode. Astrophys. J. Suppl. 213, 11.
+Warren, H.P., Winebarger, A.R., Brooks, D.H.: 2012, A systematic survey of high-temperature emission in solar active regions. Astrophys. J. 759, 141.
+Watanabe, T., Hara, H., Yamamoto, N., Kato, D., Sakaue, H.A., Murakami, I., Kato, T., Nakamura, N., Young, P.R.: 2009, Fe XIII density diagnostics in the EIS observing wavelengths. Astrophys. J. 692, 1294.
+Wedemeyer-Böhm, S., Carlsson, M.: 2011, Non-equilibrium calcium ionisation in the solar atmosphere. Astron. Astrophys. 528, A1.
+West, M.J., Bradshaw, S.J., Cargill, P.J.: 2008, On the lifetime of hot coronal plasmas arising from nanoflares. Solar Phys. 252, 89.
+White, S.M., Benz, A.O., Christe, S., Fárník, F., Kundu, M.R., Mann, G., Ning, Z., Raulin, J.-P., Silva-Válio, A.V.R., Saint-Hilaire, P., Vilmer, N., Warmuth, A.: 2011, The relationship between solar radio and hard X-ray emission. Space Sci. Rev. 159, 225.
+Wilhelm, K., Curdt, W., Marsch, E., Schühle, U., Lemaire, P., Gabriel, A., Vial, J.-C., Grewing, M., Huber, M.C.E., Jordan, S.D., Poland, A.I., Thomas, R.J., Kühne, M., Timothy, J.G., Hassler, D.M., Siegmund, O.H.W.: 1995, SUMER – Solar Ultraviolet Measurements of Emitted Radiation. Solar Phys. 162, 189.
+Winebarger, A.R.: 2012, The Frequency of Heating in Active Region Cores: Results from the Fifth Coronal Loops Workshop. In: Golub, L., De Moortel, I., Shimizu, T. (eds.) Fifth Hinode Science Meeting, Astronomical Society of the Pacific Conference Series 456, 103.
+Winebarger, A.R., Warren, H.P., Schmelz, J.T., Cirtain, J., Mulu-Moore, F., Golub, L., Kobayashi, K.: 2012, Defining the “blind spot” of Hinode EIS and XRT temperature measurements. Astrophys. J. Lett. 746, L17.
+Yan, L., Peter, H., He, J., Tian, H., Xia, L., Wang, L., Tu, C., Zhang, L., Chen, F., Barczynski, K.: 2015, Self-absorption in the solar transition region. Astrophys. J. 811, 48.
+Yoon, P.H., Kim, S., Choe, G.S., Moon, Y.-J.: 2016, Revised model of the steady-state solar wind halo electron velocity distribution function. Astrophys. J. 826, 204.
+Young, P.R., Watanabe, T., Hara, H., Mariska, J.T.: 2009, High-precision density measurements in the solar corona. I. Analysis methods and results for Fe XII and Fe XIII. Astron. Astrophys. 495, 587.
+Young, P.R., Doschek, G.A., Warren, H.P., Hara, H.: 2013, Properties of a solar flare kernel observed by Hinode and SDO. Astrophys. J. 766, 127.
+Younger, S.M.: 1981, Electron impact ionization cross sections and rates for highly ionized atoms. J. Quant. Spectrosc. Radiat. Transf. 26, 329.
+Zharkova, V.V., Arzner, K., Benz, A.O., Browning, P., Dauphin, C., Emslie, A.G., Fletcher, L., Kontar, E.P., Mann, G., Onofri, M., Petrosian, V., Turkmani, R., Vilmer, N., Vlahos, L.: 2011, Recent advances in understanding particle acceleration processes in solar flares. Space Sci. Rev. 159, 357.
+Zouganelis, I., Maksimovic, M., Meyer-Vernet, N., Lamy, H., Issautier, K.: 2004, A transonic collisionless model of the solar wind. Astrophys. J. 606, 542.
+Zouganelis, I., Meyer-Vernet, N., Landi, S., Maksimovic, M., Pantellini, F.: 2005, Acceleration of weakly collisional solar-type winds. Astrophys. J. Lett. 626, L117.
+Zweibel, E.G., Yamada, M.: 2009, Magnetic reconnection in astrophysical and laboratory plasmas. Annu. Rev. Astron. Astrophys. 47, 291.

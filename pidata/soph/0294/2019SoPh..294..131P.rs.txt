@@ -1,0 +1,36 @@
+Bappu, M.K.V.: 1967, Solar physics at Kodaikanal. Solar Phys. 1, 151.
+Bertello, L., Ulrich, R.K., Boyden, J.E.: 2010, The Mount Wilson Ca II K plage index time series. Solar Phys. 264(1), 31.
+Bertello, L., Pevtsov, A., Tlatov, A., Singh, J.: 2016a, Correlation between sunspot number and Ca II K emission index. Solar Phys. 291(9–10), 2967.
+Bertello, L., Pevtsov, A.A., Tlatov, A., Singh, J.: 2016b, Solar Ca II K observations. Asian J. Phys. 25(3), 295.
+Carbonell, M., Ballester, J.L.: 1990, A short-term periodicity near 155 day in sunspot areas. Astron. Astrophys. 238(1–2), 377.
+Charbonneau, P., Beaubien, G., St-Jean, C.: 2007, Fluctuations in Babcock–Leighton dynamos. II. Revisiting the Gnevyshev–Ohl rule. Astrophys. J. 658(1), 657.
+Chatterjee, S., Banerjee, D., Ravindra, B.: 2016, A butterfly diagram and Carrington maps for century-long CA II K spectroheliograms from the Kodaikanal Observatory. Astrophys. J. 827(1), 87.
+Chowdhury, P., Gokhale, M.H., Singh, J., Moon, Y.-J.: 2016, Mid-term quasi-periodicities in the CaII-K plage index of the Sun and their implications. Astrophys. Space Sci. 361, 54.
+Denker, C., Johannesson, A., Marquette, W., Goode, P.R., Wang, H., Zirin, H.: 1999, Synoptic Hα full-disk observations of the Sun from BigBear Solar Observatory – I. Instrumentation, image processing, data products, and first results. Solar Phys. 184(1), 87.
+Ermolli, I., Solanki, S.K., Tlatov, A.G., Krivova, N.A., Ulrich, R.K., Singh, J.: 2009, Comparison among Ca II K spectroheliogram time series with an application to solar activity studies. Astrophys. J. 698(2), 1000.
+Foukal, P.: 1996, The behavior of solar magnetic plages measured from Mt. Wilson observations between 1915 – 1984. Geophys. Res. Lett. 23(16), 2169.
+Foukal, P., Fröhlich, C., Spruit, H., Wigley, T.M.L.: 2006, Variations in solar luminosity and their effect on the Earth’s climate. Nature 443(7108), 161.
+Foukal, P., Bertello, L., Livingston, W.C., Pevtsov, A.A., Singh, J., Tlatov, A.G., Ulrich, R.K.: 2009, A century of solar Ca II measurements and their implication for solar UV driving of climate. Solar Phys. 255(2), 229.
+Gnevyshev, M.N., Ohl, A.I.: 1948, Astron. Zh. 25(18), 18.
+Hathaway, D.H.: 2015, The solar cycle. Living Rev. Solar Phys. 12(1), 4.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 1999, A synthesis of solar cycle prediction techniques. J. Geophys. Res. 104(A10), 22375.
+Howe, R.: 2009, Solar interior rotation and its variation. Living Rev. Solar Phys. 6(1), 1.
+Jiang, J., Wang, J.-X., Jiao, Q.-R., Cao, J.-B.: 2018, Predictability of the solar cycle over one cycle. Astrophys. J. 863(2), 159.
+Krivova, N.A., Solanki, S.K.: 2002, The 1.3-year and 156-day periodicities in sunspot data: wavelet analysis suggests a common origin. Astron. Astrophys. 394, 701.
+Livingston, W., Wallace, L., White, O.R., Giampapa, M.S.: 2007, Sun-as-a-star spectrum variations 1974 – 2006. Astrophys. J. 657(2), 1137.
+Mandal, S., Hegde, M., Samanta, T., Hazra, G., Banerjee, D., Ravindra, B.: 2017, Kodaikanal digitized white-light data archive (1921 – 2011): analysis of various solar cycle features. Astron. Astrophys. 601, A106.
+Petrovay, K.: 2010, Solar cycle prediction. Living Rev. Solar Phys. 7(1), 6.
+Pevtsov, A.A., Bertello, L., Uitenbroek, H.: 2013, On possible variations of basal Ca II K chromospheric line profiles with the solar cycle. Astrophys. J. 767(1), 56.
+Pevtsov, A.A., Virtanen, I., Mursula, K., Tlatov, A., Bertello, L.: 2016, Reconstructing solar magnetic fields from historical observations. I. Renormalized Ca K spectroheliograms and pseudo-magnetograms. Astron. Astrophys. 585, A40.
+Priyal, M., Banerjee, D., Karak, B.B., Muñoz-Jaramillo, A., Ravindra, B., Choudhuri, A.R., Singh, J.: 2014b, Polar network index as a magnetic proxy for the solar cycle studies. Astrophys. J. Lett. 793(1), L4.
+Priyal, M., Singh, J., Ravindra, B., Priya, T.G., Amareswari, K.: 2014a, Long term variations in chromospheric features from Ca–K images at Kodaikanal. Solar Phys. 289(1), 137.
+Priyal, M., Singh, J., Belur, R., Rathina, S.K.: 2017, Long-term variations in the intensity of plages and networks as observed in Kodaikanal Ca–K digitized data. Solar Phys. 292(7), 85.
+Rieger, E., Share, G.H., Forrest, D.J., Kanbach, G., Reppin, C., Chupp, E.L.: 1984, A 154-day periodicity in the occurrence of hard solar flares? Nature 312(5995), 623.
+Singh, J.: 1988, A new technique to study the variability of the Sun. In: Kodaikanal Obs. Bull., 9, 159.
+Singh, J., Belur, R., Raju, S., Pichaimani, K., Priyal, M., Gopalan Priya, T., Kotikalapudi, A.: 2012, Determination of the chromospheric quiet network element area index and its variation between 2008 and 2011. Res. Astron. Astrophys. 12(2), 201.
+Tlatov, A.G., Pevtsov, A.A., Singh, J.: 2009, A new method of calibration of photographic plates from three historic data sets. Solar Phys. 255(2), 239.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Amer. Meteorol. Soc. 79(1), 61.
+Tripathy, S.C.: 2016, Predictions of solar cycle. Asian J. Phys. 25(3), 387.
+Usoskin, I.G., Mursula, K., Arlt, R., Kovaltsov, G.A.: 2009, A solar cycle lost in 1793 – 1800: early sunspot observations resolve the old mystery. Astrophys. J. Lett. 700(2), L154.
+White, O.R., Livingston, W.C., Keil, S.L., Henry, T.W.: 1998, Variability of the solar call K line over the 22 year hale cycle. In: Balasubramaniam, K.S., Harvey, J., Rabin, D. (eds.) Synoptic Solar Physics, Astron. Soc. Pacific Conf. Ser. 140, 293.
+Worden, J.R., White, O.R., Woods, T.N.: 1998, Evolution of chromospheric structures derived from Ca II K spectroheliograms: implications for solar ultraviolet irradiance variability. Astrophys. J. 496(2), 998.

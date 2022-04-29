@@ -1,0 +1,49 @@
+Bein, B.M., Berkebile-Stoiser, S., Veronig, A.M., Temmer, M., Muhr, N., Kienreich, I., et al.: 2011, Impulsive acceleration of coronal mass ejections, I: Statistics and coronal mass ejection source region characteristics. Astrophys. J. 738, 191.
+Bosman, E., Bothmer, V., Nisticò, G., Vourlidas, A., Howard, R.A., Davies, J.A.: 2012, Three-dimensional properties of coronal mass ejections from STEREO/SECCHI observations. Solar Phys. 281, 167.
+Bothmer, V., Daglis, I.A.: 2007, Space Weather – Physics and Effects. Praxis Pub.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., et al.: 1995, The large angle spectroscopic coronagraph (LASCO). Solar Phys. 162, 357.
+Cargill, P.J.: 2004, On the aerodynamic drag force acting on interplanetary coronal mass ejections. Solar Phys. 221, 135.
+Carley, E.P., McAteer, R.T.J., Gallagher, P.T.: 2012, Coronal mass ejection mass, energy, and force estimates using STEREO. Astrophys. J. 752, 36.
+Chen, J.: 1989, Effects of toroidal forces in current loops embedded in a background plasma. Astrophys. J. 338, 453.
+Chen, J.: 1996, Theory of prominence eruption and propagation: Interplanetary consequences. J. Geophys. Res. 101, 27499.
+Chen, J., Kunkel, V.: 2010, Temporal and physical connection between coronal mass ejections and flares. Astrophys. J. 717, 1105.
+Chen, J., Howard, R.A., Brueckner, G.E., Santoro, R., Krall, J., Paswaters, S.E., et al.: 1997, Evidence of an erupting magnetic flux rope: LASCO coronal mass ejection of 1997 April 13. Astrophys. J. Lett. 490, L191.
+Emslie, A.G., Dennis, B.R., Shih, A.Y., Chamberlin, P.C., Mewaldt, R.A., Moore, C.S., et al.: 2012, Global energetics of thirty-eight large solar eruptive events. Astrophys. J. 759, 71.
+Forbes, T.G.: 2000, A review on the genesis of coronal mass ejections. J. Geophys. Res. 105, 23153.
+Forbes, T.G., Isenberg, P.A.: 1991, A catastrophe mechanism for coronal mass ejections. Astrophys. J. 373, 294.
+Fry, C.D., Dryer, M., Smith, Z., Sun, W., Deehr, C.S., Akasofu, S.-I.: 2003, Forecasting solar wind structures and shock arrival times using an ensemble of models. J. Geophys. Res. 108, 1070.
+Gopalswamy, N.: 2013, STEREO and SOHO contributions to coronal mass ejection studies: Some recent results. Astron. Soc. India C.S. 10.
+Gosling, J.T., McComas, D.J., Phillips, J.L., Bame, S.J.: 1991, Geomagnetic activity associated with earth passage of interplanetary shock disturbances and coronal mass ejections. J. Geophys. Res. 96, 7831.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Sun Earth connection coronal and heliospheric investigation (SECCHI). Space Sci. Rev. 136, 67.
+Isenberg, P.A., Forbes, T.G.: 2007, A three-dimensional line-tied magnetic field model for solar eruptions. Astrophys. J. 670, 1453.
+Jin, M., Manchester, W.B., van der Holst, B., Sokolov, I., Tóth, G., Mullinix, R.E., Taktakishvili, A., Chulaki, A., Gombosi, T.I.: 2017, Data-constrained coronal mass ejections in a global magnetohydrodynamics model. Astrophys. J. 834, 173.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: An introduction. Space Sci. Rev. 136, 5.
+Kliem, B., Török, T.: 2006, Torus instability. Phys. Rev. Lett. 96(25), 255002.
+Kliem, B., Lin, J., Forbes, T.G., Priest, E.R., Török, T.: 2014, Catastrophe versus instability for the eruption of a toroidal solar magnetic flux rope. Astrophys. J. 789, 46.
+Kumar, A., Rust, D.M.: 1996, Interplanetary magnetic clouds, helicity conservation, and current-core flux-ropes. J. Geophys. Res. 101, 15667.
+Lee, C.O., Arge, C.N., Odstrčil, D., Millward, G., Pizzo, V., Quinn, J.M., et al.: 2013, Ensemble modeling of CME propagation. Solar Phys. 285, 349.
+Lugaz, N., Manchester, W.B. IV, Roussev, I.I., Tóth, G., Gombosi, T.I.: 2007, Numerical investigation of the homologous coronal mass ejection events from active region 9236. Astrophys. J. 659, 788.
+Mays, M.L., Taktakishvili, A., Pulkkinen, A., MacNeice, P.J., Rastätter, L., Odstrcil, D., Jian, L.K., Richardson, I.G., LaSota, J.A., Zheng, Y., Kuznetsova, M.M.: 2015, Ensemble modeling of CMEs using the WSA-ENLIL+cone model. Solar Phys. 290, 1775.
+McKenna-Lawlor, S.M.P., Dryer, M., Kartalev, M.D., Smith, Z., Fry, C.D., Sun, W., et al.: 2006, Near real-time predictions of the arrival at Earth of flare-related shocks during Solar cycle 23. J. Geophys. Res. 111, A11103.
+Mishra, W., Srivastava, N.: 2013, Estimating the arrival time of Earth-directed coronal mass ejections at in situ spacecraft using COR and HI observations from STEREO. Astrophys. J. 772, 70.
+Rollett, T., Möstl, C., Isavnin, A., Davies, J.A., Kubicka, M., Amerstorfer, U.V., et al.: 2016, ElEvoHI: A novel CME prediction tool for heliospheric imaging combining an elliptical front with drag-based model fitting. Astrophys. J. 824, 131.
+Sachdeva, N., Subramanian, P., Colaninno, R., Vourlidas, A.: 2015, CME propagation: Where does aerodynamic drag ’take over’? Astrophys. J. 809, 158.
+Shafranov, V.D.: 1966, Plasma equilibrium in a magnetic field. Rev. Plasma Phys. 2, 103.
+Subramanian, P., Vourlidas, A.: 2007, Energetics of solar coronal mass ejections. Astron. Astrophys. 467, 685.
+Subramanian, P., Lara, A., Borgazzi, A.: 2012, Can solar wind viscous drag account for coronal mass ejection deceleration? Geophys. Res. Lett. 39, L19107.
+Taktakishvili, A., Kuznetsova, M., MacNeice, P., Hesse, M., Rastätter, L., Pulkkinen, A., et al.: 2009, Validation of the coronal mass ejection predictions at the Earth orbit estimated by ENLIL heliosphere cone model. Space Weather 7, S03004.
+Temmer, M., Nitta, N.V.: 2015, Interplanetary propagation behavior of the fast coronal mass ejection on 23 July 2012. Solar Phys. 290, 919.
+Temmer, M., Vršnak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y., Bosman, E., Davies, J.A., Möstl, C., Žic, T., Veronig, A.M., Bothmer, V., Harrison, R., Nitta, N., Bisi, M., Flor, O., Eastwood, J., Odstrcil, D., Forsyth, R.: 2012, Characteristics of kinematics of a coronal mass ejection during the 2010 August 1 CME–CME interaction event. Astrophys. J. 749, 57.
+Thernisien, A.: 2011, Implementation of the graduated cylindrical shell model for the three-dimensional reconstruction of coronal mass ejections. Astrophys. J. Suppl. 194, 33.
+Thernisien, A., Vourlidas, A., Howard, R.A.: 2009, Forward modeling of coronal mass ejections using STEREO/SECCHI data. Solar Phys. 256, 111.
+Thernisien, A.F.R., Howard, R.A., Vourlidas, A.: 2006, Modeling of flux rope coronal mass ejections. Astrophys. J. 652, 763.
+Tóth, G., de Zeeuw, D.L., Gombosi, T.I., Manchester, W.B., Ridley, A.J., Sokolov, I.V., et al.: 2007, Sun-to-thermosphere simulation of the 28 – 30 October 2003 storm with the space weather modeling framework. Space Weather 5, 06003.
+Vršnak, B.: 2006, Forces governing coronal mass ejections. Adv. Space Res. 38, 431.
+Vršnak, B., Žic, T., Falkenberg, T.V., Möstl, C., Vennerstrom, S., Vrbanec, D.: 2010, The role of aerodynamic drag in propagation of interplanetary coronal mass ejections. Astron. Astrophys. 512, A43.
+Vršnak, B., Temmer, M., Žic, T., Taktakishvili, A., Dumbović, M., Möstl, C., et al.: 2014, Heliospheric propagation of coronal mass ejections: Comparison of numerical WSA-ENLIL+cone model and analytical drag-based model. Astrophys. J. Suppl. 213, 21.
+Wang, Y., Zhang, J., Shen, C.: 2009, An analytical model probing the internal state of coronal mass ejections based on observations of their expansions and propagations. J. Geophys. Res. 114, A10104.
+Wood, B.E., Karovska, M., Cook, J.W., Brueckner, G.E., Howard, R.A.: 1997, LASCO observations of variability in the quiescent solar corona. Bull. Am. Astron. Soc. 29, 1321.
+Wu, C.-C., Fry, C.D., Wu, S.T., Dryer, M., Liou, K.: 2007, Three-dimensional global simulation of interplanetary coronal mass ejection propagation from the Sun to the heliosphere: Solar event of 12 May 1997. J. Geophys. Res. 112, A09104.
+Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.
+Zhang, J., Dere, K.P., Howard, R.A., Kundu, M.R., White, S.M.: 2001, On the temporal relationship between coronal mass ejections and flares. Astrophys. J. 559, 452.
+Zhao, X., Dryer, M.: 2014, Current status of CME/shock arrival time prediction. Space Weather 12, 448.

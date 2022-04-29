@@ -1,0 +1,92 @@
+Anderson, L.S.: 1989, Line blanketing without local thermodynamic equilibrium. II – A solar-type model in radiative equilibrium. Astrophys. J. 339, 558.
+Asplund, M., Grevesse, N., Sauval, A.J., Scott, P.: 2009, The chemical composition of the Sun. Annu. Rev. Astron. Astrophys. 47, 481.
+Avrett, E.H.: 1965, Solutions of the two-level line transfer problem with complete redistribution. SAO Spec. Rep. 174, 101.
+Avrett, E.H.: 1990, Models of the solar outer photosphere. In: Stenflo, J.O. (ed.) Solar Photosphere: Structure, Convection, and Magnetic Fields, IAU Symp. 138, Kluwer, Dordrecht, 3.
+Avrett, E.H., Loeser, R.: 2008, Models of the solar chromosphere and transition region from SUMER and HRTS observations: formation of the extreme-ultraviolet spectrum of hydrogen, carbon, and oxygen. Astron. Astrophys. Suppl. Ser. 175, 229.
+Ayres, T.R.: 1989, How deep can one see into the Sun? Solar Phys. 124, 15.
+Barbier, D.: 1943, Sur la théorie du spectre continu des étoiles. Ann. Astrophys. 6, 113.
+Berger, T.E., Rouppe van der Voort, L.H.M., Löfdahl, M.G., Carlsson, M., Fossum, A., Hansteen, V.H., Marthinussen, E., Title, A., Scharmer, G.: 2004, Solar magnetic elements at 0.1 arcsec resolution. General appearance and magnetic structure. Astron. Astrophys. 428, 613.
+Bruls, J.H.M.J., Rutten, R.J., Shchukina, N.G.: 1992, The formation of helioseismology lines. I – NLTE effects in alkali spectra. Astron. Astrophys. 265, 237.
+Cannon, C.J.: 1973, Frequency-quadrature perturbations in radiative-transfer theory. Astrophys. J. 185, 621.
+Carlsson, M.: 1986, A computer program for solving multi-level non-LTE radiative transfer problems in moving or static atmospheres. Uppsala Astron. Obs. Rep. 33.
+Carlsson, M., Stein, R.F.: 1995, Does a nonmagnetic solar chromosphere exist? Astrophys. J. Lett. 440, L29.
+Carlsson, M., Stein, R.F.: 2002, Dynamic hydrogen ionization. Astrophys. J. 572, 626.
+Carlsson, M., Stein, R.F., Nordlund, Å., Scharmer, G.B.: 2004, Observational manifestations of solar magnetoconvection: center-to-limb variation. Astrophys. J. Lett. 610, L137.
+Carlsson, M., Hansteen, V.H., Gudiksen, B.V., Leenaarts, J., De Pontieu, B.: 2016, A publicly available simulation of an enhanced network region of the Sun. Astron. Astrophys. 585, A4.
+Chapman, G.A.: 1970, On the physical conditions in the photospheric network: an improved model of solar faculae. Solar Phys. 14, 315.
+Eddington, A.S.: 1926, The Internal Constitution of the Stars, Cambridge University Press, Cambridge.
+Eddington, A.S.: 1929, The formation of absorption lines. Mon. Not. Roy. Astron. Soc. 89, 620.
+Fontenla, J.M., Avrett, E.H., Loeser, R.: 1993, Energy balance in the solar transition region. III – helium emission in hydrostatic, constant-abundance models with diffusion. Astrophys. J. 406, 319.
+Fontenla, J.M., Stancil, P.C., Landi, E.: 2015, Solar spectral irradiance, solar activity, and the near-ultra-violet. Astrophys. J. 809, 157.
+Fontenla, J.M., Curdt, W., Haberreiter, M., Harder, J., Tian, H.: 2009, Semiempirical models of the solar atmosphere. III. Set of non-LTE models for far-ultraviolet/extreme-ultraviolet irradiance computation. Astrophys. J. 707, 482.
+Frazier, E.N., Stenflo, J.O.: 1978, Magnetic, velocity and brightness structure of solar faculae. Astron. Astrophys. 70, 789.
+Gadun, A.S., Solanki, S.K., Sheminova, V.A., Ploner, S.R.O.: 2001, A formation mechanism of magnetic elements in regions of mixed polarity. Solar Phys. 203, 1.
+Golding, T.P., Carlsson, M., Leenaarts, J.: 2014, Detailed and simplified nonequilibrium helium ionization in the solar atmosphere. Astrophys. J. 784, 30.
+Greve, A., Zwaan, C.: 1980, Methods for the analysis of stellar spectra veiled by lines. Astron. Astrophys. 90, 239.
+Grossmann-Doerth, U., Schüssler, M., Steiner, O.: 1998, Convective intensification of solar surface magnetic fields: results of numerical experiments. Astron. Astrophys. 337, 928.
+Grossmann-Doerth, U., Knölker, M., Schüssler, M., Solanki, S.K.: 1994, The deep layers of solar magnetic elements. Astron. Astrophys. 285, 648.
+Holweger, H., Müller, E.A.: 1974, The photospheric barium spectrum – solar abundance and collision broadening of BA II lines by hydrogen. Solar Phys. 39, 19.
+Houtgast, J.: 1942, The variations in the profiles of strong Fraunhofer lines along a radius of the solar disc. Ph.D. thesis, Utrecht University, June 1942, 154 pp. Supervisor: M. Minnaert. Drukkerij, F. Schotanus and Jens.
+Hubený, I.: 1987, Probabilistic interpretation of radiative transfer. I – The square root of epsilon law. II – Rybicki equation. Astron. Astrophys. 185, 332.
+Hubený, I., Mihalas, D.: 2014, Theory of Stellar Atmospheres, Princeton University Press, Princeton.
+Ivanov, V.V.: 1973, Transfer of Radiation in Spectral Lines, NBS, Washington.
+Jefferies, J.T.: 1968, Spectral Line Formation, Blaisdell, Waltham.
+Keller, C.U., Schüssler, M., Vögler, A., Zakharov, V.: 2004, On the origin of solar faculae. Astrophys. J. Lett. 607, L59.
+Kourganoff, V.: 1952, Basic Methods in Transfer Problems; Radiative Equilibrium and Neutron Diffusion, Clarendon Press, Oxford.
+Kurucz, R.: 1993, ATLAS9 Stellar Atmosphere Programs and 2 km/s grid. ATLAS9 Stellar Atmosphere Programs and 2 km/s grid. Kurucz CD-ROM No. 13. Smithsonian Astrophys. Obs., Cambridge, Mass.,
+Kurucz, R.L.: 2009, Including all the lines. In: Hubený, I., Stone, J.M., MacGregor, K., Werner, K. (eds.) Am. Inst. Phys. CS-1171, Am. Inst. Phys., Melville, 43.
+Kurucz, R.L.: 1970, Atlas: a computer program for calculating model stellar atmospheres. SAO Special Report 309.
+Labs, D., Neckel, H.: 1972, Remarks on the convergency of photospheric model conceptions and the solar quasi continuum. Solar Phys. 22, 64.
+Leenaarts, J.: 2018, Tracing the evolution of radiation-MHD simulations of solar and stellar atmospheres in the Lagrangian frame. Astron. Astrophys. 616, A136.
+Leenaarts, J., Carlsson, M.: 2009, MULTI3D: a domain-decomposed 3D radiative transfer code. In: Lites, B., Cheung, M., Magara, T., Mariska, J., Reeves, K. (eds.) The Second Hinode Science Meeting: Beyond Discovery-Toward Understanding, CS-415, Astron. Soc. Pacific, San Francisco, 87.
+Leenaarts, J., Carlsson, M., Rouppe van der Voort, L.: 2012, The formation of the H\upalpha line in the solar chromosphere. Astrophys. J. 749, 136.
+Leenaarts, J., Rutten, R.J., Carlsson, M., Uitenbroek, H.: 2006, A comparison of solar proxy-magnetometry diagnostics. Astron. Astrophys. 452, L15.
+Leenaarts, J., Carlsson, M., Hansteen, V., Rutten, R.J.: 2007, Non-equilibrium hydrogen ionization in 2D simulations of the solar atmosphere. Astron. Astrophys. 473, 625.
+Lockyer, J.N.: 1868, Spectroscopic observation of the Sun, No. II. Proc. Roy. Soc. London Ser. I 17, 131.
+Martínez-Sykora, J., De Pontieu, B., Carlsson, M., Hansteen, V.H., Nóbrega-Siverio, D., Gudiksen, B.V.: 2017, Two-dimensional radiative magnetohydrodynamic simulations of partial ionization in the chromosphere. II. Dynamics and energetics of the low solar atmosphere. Astrophys. J. 847, 36.
+Menzel, D.H., Cillié, G.G.: 1937, Hydrogen emission in the chromosphere. Astrophys. J. 85, 88.
+Mihalas, D.: 1970, Stellar Atmospheres, Freeman, San Francisco.
+Mihalas, D.: 1978, Stellar Atmospheres, 2nd edn., Freeman, San Francisco.
+Milne, E.A.: 1921, Radiative equilibrium in the outer layers of a star. Mon. Not. Roy. Astron. Soc. 81, 361.
+Neckel, H.: 1999, Announcement. Solar Phys. 184, 421.
+Neckel, H., Labs, D.: 1984, The solar radiation between 3300 and 12500 Å. Solar Phys. 90, 205.
+Nóbrega-Siverio, D., Moreno-Insertis, F., Martínez-Sykora, J.: 2018, On the importance of the nonequilibrium ionization of Si IV and O IV and the line of sight in solar surges. Astrophys. J. 858, 8.
+Norris, C.M., Beeck, B., Unruh, Y.C., Solanki, S.K., Krivova, N.A., Yeo, K.L.: 2017, Spectral variability of photospheric radiation due to faculae. I. The Sun and sun-like stars. Astron. Astrophys. 605, A45.
+Paletou, F.: 2018, On Milne–Barbier–Unsöld relationships. Open Astron. J. 27, 76.
+Pereira, T.M.D.: 2019, The dynamic chromosphere: pushing the boundaries of observations and models. Adv. Space Res. 63, 1434.
+Pereira, T.M.D., Uitenbroek, H.: 2015, RH 1.5D: a massively parallel code for multi-level radiative transfer with partial frequency redistribution and Zeeman polarisation. Astron. Astrophys. 574, A3.
+Rouppe van der Voort, L., Leenaarts, J., De Pontieu, B., Carlsson, M., Vissers, G.: 2009, On-disk counterparts of type II spicules in the Ca II 854.2 nm and H\upalpha lines. Astrophys. J. 705, 272.
+Rutten, R.J.: 1988, The NLTE formation of iron lines in the solar photosphere. In: Viotti, R., Vittone, A., Friedjung, M. (eds.) IAU Colloq. 94: Physics of Formation of Fe II Lines Outside LTE, Astrophys. Space Sci. Lib. 138, 185.
+Rutten, R.J.: 1999, (Inter-),network structure and dynamics. In: Schmieder, B., Hofmann, A., Staude, J. (eds.) Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations CS-184, Astron. Soc. Pacific, San Francisco, 181.
+Rutten, R.J.: 2003a, Epsilon. In: Andreasian, N. (ed.) Richard Nelson Thomas: NonEquilibrium Thermodynamical Astrophysicist, University of Colorado, Boulder, 78.
+Rutten, R.J.: 2003b, Radiative Transfer in Stellar Atmospheres.
+Rutten, R.J.: 2016, H\upalpha features with hot onsets. I. Ellerman bombs. Astron. Astrophys. 590, A124.
+Rutten, R.J.: 2017a, Solar ALMA predictions: tutorial. In: Vargas Domínguez, S., Kosovichev, A.G., Antolin, P., Harra, L. (eds.) IAU Symp. 327, Cambridge Univ. Press, Cambridge, 1.
+Rutten, R.J.: 2017b, Solar H-alpha features with hot onsets. III. Long fibrils in Lyman-alpha and with ALMA. Astron. Astrophys. 598, A89.
+Rutten, R.J., Rouppe van der Voort, L.H.M.: 2017, Solar H\upalpha features with hot onsets. II. A contrail fibril. Astron. Astrophys. 597, A138.
+Rutten, R.J., Uitenbroek, H.: 2012, Chromospheric backradiation in ultraviolet continua and H\upalpha . Astron. Astrophys. 540, A86.
+Rybicki, G.B., Hummer, D.G.: 1992, An accelerated lambda iteration method for multilevel radiative transfer. II – Overlapping transitions with full continuum. Astron. Astrophys. 262, 209.
+Rybicki, G.B., Lightman, A.P.: 1986, Radiative Processes in Astrophysics, Wiley, New York, 400.
+Sekse, D.H., Rouppe van der Voort, L., De Pontieu, B., Scullion, E.: 2013, Interplay of three kinds of motion in the disk counterpart of type II spicules: upflow, transversal, and torsional motions. Astrophys. J. 769, 44.
+Sheminova, V.A., Rutten, R.J., Rouppe van der Voort, L.H.M.: 2005, The wings of Ca II H and K as solar fluxtube diagnostics. Astron. Astrophys. 437, 1069.
+Short, C.I., Hauschildt, P.H.: 2005, A non-LTE line-blanketed model of a solar-type star. Astrophys. J. 618, 926.
+Solanki, S.K.: 1993, Smallscale solar magnetic fields – an overview. Space Sci. Rev. 63, 1.
+Spruit, H.C.: 1976, Pressure equilibrium and energy balance of small photospheric fluxtubes. Solar Phys. 50, 269.
+Steiner, O.: 2005, Radiative properties of magnetic elements. II. Center to limb variation of the appearance of photospheric faculae. Astron. Astrophys. 430, 691.
+Steiner, O., Grossmann-Doerth, U., Knölker, M., Schüssler, M.: 1998, Dynamical interaction of solar magnetic elements and granular convection: results of a numerical simulation. Astrophys. J. 495, 468.
+Stenflo, J.O.: 1973, Magnetic-field structure of the photospheric network. Solar Phys. 32, 41.
+Stenflo, J.O.: 1975, A model of the supergranulation network and of active-region plages. Solar Phys. 42, 79.
+Sukhorukov, A.V., Leenaarts, J.: 2017, Partial redistribution in 3D non-LTE radiative transfer in solar-atmosphere models. Astron. Astrophys. 597, A46.
+Thomas, R.N.: 1957, The source function in a non-equilibrium atmosphere. I. The resonance lines. Astrophys. J. 125, 260.
+Title, A.M., Berger, T.E.: 1996, Double-Gaussian models of bright points or why bright points are usually dark. Astrophys. J. 463, 797.
+Uitenbroek, H.: 2001, Multilevel radiative transfer with partial frequency redistribution. Astrophys. J. 557, 389.
+Uitenbroek, H., Bruls, J.H.M.J.: 1992, The formation of helioseismology lines. III – Partial redistribution effects in weak solar resonance lines. Astron. Astrophys. 265, 268.
+Uitenbroek, H., Criscuoli, S.: 2011, Why one-dimensional models fail in the diagnosis of average spectra from inhomogeneous stellar atmospheres. Astrophys. J. 736, 69.
+Unruh, Y.C., Solanki, S.K., Fligge, M.: 1999, The spectral dependence of facular contrast and solar irradiance variations. Astron. Astrophys. 345, 635.
+Vernazza, J.E., Avrett, E.H., Loeser, R.: 1981, Structure of the solar chromosphere. III – Models of the EUV brightness components of the quiet-sun. Astron. Astrophys. Suppl. Ser. 45, 635.
+Vitas, N., Viticchiè, B., Rutten, R.J., Vögler, A.: 2009, Explanation of the activity sensitivity of Mn I 5394.7 Å. Astron. Astrophys. 499, 301.
+Vögler, A., Shelyag, S., Schüssler, M., Cattaneo, F., Emonet, T., Linde, T.: 2005, Simulations of magneto-convection in the solar photosphere. Equations, methods, and results of the MURaM code. Astron. Astrophys. 429, 335.
+Werner, K., Deetjen, J.L., Dreizler, S., Nagel, T., Rauch, T., Schuh, S.L.: 2003, Model photospheres with accelerated lambda iteration. In: Hubený, I., Mihalas, D., Werner, K. (eds.) Stellar Atmosphere Modeling CS-288, Astron. Soc. Pacific, San Francisco, 31.
+Wijbenga, J.W., Zwaan, C.: 1972, Empirical NLTE analyses of solar spectral lines. I: a method and some applications to earlier analyses. Solar Phys. 23, 265.
+Yelles Chaouche, L., Solanki, S.K., Schüssler, M.: 2009, Comparison of the thin flux tube approximation with 3D MHD simulations. Astron. Astrophys. 504, 595.
+Zwaan, C.: 1967, Small-scale solar magnetic fields and ‘invisible sunspots’. Solar Phys. 1, 478.

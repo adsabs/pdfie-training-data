@@ -1,0 +1,30 @@
+Egamberdiev, S.A.: 1983, Sov. Astron. Lett. 9, 385.
+Frazier, E.N.: 1970, Solar Phys. 14, 89.
+Gabriel, A.H.: 1976, Phil. Trans. Roy. Soc. London Ser. A 281, 339.
+Habbal, S.R., Withbroe, G.L., Dowdy, J.F. Jr.: 1990, Astrophys. J. 352, 333.
+Harvey, K.L.: 1985, Aust. J. Phys. 38, 875.
+Harvey, K.L., Martin, S.F.: 1973, Solar Phys. 32, 389.
+Harvey, K.L., White, O.R.: 1999, Astrophys. J. 515, 812.
+Ito, H., Tsuneta, S., Shiota, D., Tokumaru, M., Fujiki, K.: 2010, Astrophys. J. 719, 131.
+Kaithakkal, A.J., Suematsu, Y., Kubo, M., Shiota, D., Tsuneta, S.: 2013, Astrophys. J. 776, 122.
+Kosugi, T., Matsuzaki, K., Sakao, T., Shimizu, T., Sone, Y., Tachikawa, S., Hashimoto, T., Minesugi, K., Ohnishi, A., Yamada, T., Tsuneta, S., Hara, H., Ichimoto, K., Suematsu, Y., Shimojo, M., Watanabe, T., Shimada, S., Davis, J.M., Hill, L.D., Owens, J.K., Title, A.M., Culhane, J.L., Harra, L.K., Doschek, G.A., Golub, L.: 2007, Solar Phys. 243, 3.
+Lites, B.W., Kubo, M., Socas-Navarro, H., Berger, T., Frank, Z., Shine, R., Tarbell, T., Title, A., Ichimoto, K., Katsukawa, Y., Tsuneta, S., Suematsu, Y., Shimizu, T., Nagata, S.: 2008, Astrophys. J. 672, 1237.
+Loukitcheva, M., Solanki, S.K., White, S.M.: 2009, Astron. Astrophys. 497, 273.
+Nindos, A., Zirin, H.: 1998, Solar Phys. 179, 253.
+Parker, E.N.: 1978, Astrophys. J. 221, 368.
+Pastor Yabar, A., Martínez González, M.J., Collados, M.: 2018, Astron. Astrophys. 616, A46.
+Rezaei, R., Schlichenmaier, R., Beck, C.A.R., Bruls, J.H.M.J., Schmidt, W.: 2007, Astron. Astrophys. 466, 1131.
+Rieutord, M., Rincon, F.: 2010, Living Rev. Solar Phys. 7, 2.
+Schrijver, C.J.: 1993, Astron. Astrophys. 269, 395.
+Schrijver, C.J.: 2001, In: Garcia Lopez, R.J., Rebolo, R., Zapaterio Osorio, M.R. (eds.) 11th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, Astronomical Society of the Pacific Conference Series 223, 131.
+Schrijver, C.J., Dobson, A.K., Radick, R.R.: 1989, Astrophys. J. 341, 1035.
+Schrijver, C.J., Cote, J., Zwaan, C., Saar, S.H.: 1989, Astrophys. J. 337, 964.
+Sheeley N.R. Jr., Cooper, T.J., Anderson, J.R.L.: 2011, Astrophys. J. 730, 51.
+Simon, G.W., Leighton, R.B.: 1964, Astrophys. J. 140, 1120.
+Skumanich, A., Smythe, C., Frazier, E.N.: 1975, Astrophys. J. 200, 747.
+Solanki, S.K., Steiner, O., Uitenbroeck, H.: 1991, Astron. Astrophys. 250, 220.
+Thompson, W.T.: 2006, Astron. Astrophys. 449, 791.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Lites, B.W., Matsuzaki, K., Nagata, S., Orozco Suárez, D., Shimizu, T., Shimojo, M., Shine, R.A., Suematsu, Y., Suzuki, T.K., Tarbell, T.D., Title, A.M.: 2008a, Astrophys. J. 688, 1374.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008b, Solar Phys. 249, 167.
+Webb, D.F., Martin, S.F., Moses, D., Harvey, J.W.: 1993, Solar Phys. 144, 15.
+Wedemeyer-Böhm, S., Lagg, A., Nordlund, Å.: 2009, Space Sci. Rev. 144, 317.

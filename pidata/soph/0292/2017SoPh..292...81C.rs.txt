@@ -1,0 +1,47 @@
+Alexander, D., Liu, R., Gilbert, H.R.: 2006, Hard X-ray production in a failed filament eruption. Astrophys. J. 653, 719.
+Aulanier, G.: 2014, The physical mechanisms that initiate and drive solar eruptions. In: Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.) Nature of Prominences and Their Role in Space Weather, IAU Symposium 300, 184.
+Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Formation of torus-unstable flux ropes and electric currents in erupting sigmoids. Astrophys. J. 708, 314.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Byrne, J.P., Morgan, H., Seaton, D.B., Bain, H.M., Habbal, S.R.: 2014, Bridging EUV and white-light observations to inspect the initiation phase of a “two-stage” solar eruptive event. Solar Phys. 289, 4545.
+Carmichael, H.: 1964, A process for flares. In: Hess, W.N. (ed.) The Physics of Solar Flares, 451.
+Chandra, R., Pariat, E., Schmieder, B., Mandrini, C.H., Uddin, W.: 2010, How can a negative magnetic helicity active region generate a positive helicity magnetic cloud? Solar Phys. 261, 127.
+Chandra, R., Chen, P.F., Fulara, A., Srivastava, A.K., Uddin, W.: 2016, Peculiar stationary EUV wave fronts in the eruption on 2011 May 11. Astrophys. J. 822, 106.
+Cho, K.-S., Marubashi, K., Kim, R.-S., Park, S.-H., Lim, E.-K., Kim, S.-J., Kumar, P., Yurchyshyn, V., Moon, Y.-J., Lee, J.-O.: 2017, Impact of the ICME-Earth geometry on the strength of the associated geomagnetic storm: The September 2014 and March 2015 events. J. Korean Astron. Soc. 50, 29.
+Démoulin, P., Aulanier, G.: 2010, Criteria for flux rope eruption: Non-equilibrium versus torus instability. Astrophys. J. 718, 1388.
+Filippov, B.: 2013, A filament eruption on 2010 October 21 from three viewpoints. Astrophys. J. 773, 10.
+Filippov, B.: 2016a, Filament shape versus coronal potential magnetic field structure. Mon. Not. Roy. Astron. Soc. 455, 1406.
+Filippov, B.P.: 2016b, Method for the determination of the height of a solar filament. Geomagn. Aeron. 56, 1.
+Filippov, B.P., Den, O.G.: 2001, A critical height of quiescent prominences before eruption. J. Geophys. Res. 106, 25177.
+Filippov, B., Martsenyuk, O., Srivastava, A.K., Uddin, W.: 2015, Solar magnetic flux ropes. J. Astrophys. Astron. 36, 157.
+Forbes, T.G., Isenberg, P.A.: 1991, A catastrophe mechanism for coronal mass ejections. Astrophys. J. 373, 294.
+Gibson, S.E., Fan, Y.: 2006, The partial expulsion of a magnetic flux rope. Astrophys. J. Lett. 637, L65.
+Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009, The SOHO/LASCO CME catalog. Earth Moon Planets 104, 295.
+Gosain, S., Filippov, B., Ajor Maurya, R., Chandra, R.: 2016, Interrupted eruption of large quiescent filament associated with a halo CME. Astrophys. J. 821, 85.
+Hirayama, T.: 1974, Solar Phys. 34, 323.
+Isenberg, P.A., Forbes, T.G.: 2007, A three-dimensional line-tied magnetic field model for solar eruptions. Astrophys. J. 670, 1453.
+Ji, H., Wang, H., Schmahl, E.J., Moon, Y.-J., Jiang, Y.: 2003, Observations of the failed eruption of a filament. Astrophys. J. Lett. 595, L135.
+Kliem, B., Török, T.: 2006, Torus instability. Phys. Rev. Lett. 96(25), 255002.
+Kliem, B., Török, T., Titov, V.S., Lionello, R., Linker, J.A., Liu, R., Liu, C., Wang, H.: 2014, Slow rise and partial eruption of a double-decker filament. II. A double flux rope model. Astrophys. J. 792, 107.
+Kopp, R.A., Pneuman, G.W.: 1976, Solar Phys. 50, 85.
+Kuridze, D., Mathioudakis, M., Kowalski, A.F., Keys, P.H., Jess, D.B., Balasubramaniam, K.S., Keenan, F.P.: 2013, Failed filament eruption inside a coronal mass ejection in active region 11121. Astron. Astrophys. 552, A55.
+Kushwaha, U., Joshi, B., Veronig, A.M., Moon, Y.-J.: 2015, Large-scale contraction and subsequent disruption of coronal loops during various phases of the M6.2 flare associated with the confined flux rope eruption. Astrophys. J. 807, 101.
+Labrosse, N., Heinzel, P., Vial, J.-C., Kucera, T., Parenti, S., Gunár, S., Schmieder, B., Kilper, G.: 2010, Physics of solar prominences: Spectral diagnostics and non-LTE modelling. Space Sci. Rev. 151, 243.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Liu, C., Deng, N., Lee, J., Wiegelmann, T., Jiang, C., Dennis, B.R., Su, Y., Donea, A., Wang, H.: 2014, Three-dimensional magnetic restructuring in two homologous solar flares in the seismically active NOAA AR 11283. Astrophys. J. 795, 128.
+Liu, Y.D., Hu, H., Wang, R., Yang, Z., Zhu, B., Liu, Y.A., Luhmann, J.G., Richardson, J.D.: 2015, Plasma and magnetic field characteristics of solar coronal mass ejections in relation to geomagnetic storm intensity and variability. Astrophys. J. Lett. 809, L34.
+Mackay, D.H., Karpen, J.T., Ballester, J.L., Schmieder, B., Aulanier, G.: 2010, Physics of solar prominences: II – Magnetic structure and dynamics. Space Sci. Rev. 151, 333.
+Martin, S.F.: 1998, Conditions for the formation and maintenance of filaments (invited review). Solar Phys. 182, 107.
+McCauley, P.I., Su, Y.N., Schanche, N., Evans, K.E., Su, C., McKillop, S., Reeves, K.K.: 2015, Prominence and filament eruptions observed by the Solar Dynamics Observatory: Statistical properties, kinematics, and online catalog. Solar Phys. 290, 1703.
+Parenti, S.: 2014, Solar prominences: Observations. Living Rev. Solar Phys. 11, 1.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pevtsov, A.A., Canfield, R.C., Metcalf, T.R.: 1995, Latitudinal variation of helicity of photospheric magnetic fields. Astrophys. J. Lett. 440, L109.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) Investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Flare-CME models: An observational perspective (invited review). Solar Phys. 290, 3457.
+Sturrock, P.A.: 1966, Nature 211, 695.
+Su, Y., Dennis, B.R., Holman, G.D., Wang, T., Chamberlin, P.C., Savage, S., Veronig, A.: 2012, Observations of a two-stage Solar Eruptive Event (SEE): Evidence for secondary heating. Astrophys. J. Lett. 746, L5.
+Török, T., Kliem, B.: 2005, Confined and ejective eruptions of kink-unstable flux ropes. Astrophys. J. Lett. 630, L97.
+Vršnak, B., Temmer, M., Žic, T., Taktakishvili, A., Dumbović, M., Möstl, C., Veronig, A.M., Mays, M.L., Odstrčil, D.: 2014, Heliospheric propagation of coronal mass ejections: Comparison of numerical WSA-ENLIL+Cone model and analytical drag-based model. Astrophys. J. Suppl. 213, 21.
+Wang, R., Liu, Y.D., Zimovets, I., Hu, H., Dai, X., Yang, Z.: 2016, Sympathetic solar filament eruptions. Astrophys. J. Lett. 827, L12.
+Woods, T.N., Hock, R., Eparvier, F., Jones, A.R., Chamberlin, P.C., Klimchuk, J.A., Didkovsky, L., Judge, D., Mariska, J., Warren, H., Schrijver, C.J., Webb, D.F., Bailey, S., Tobiska, W.K.: 2011, New solar extreme-ultraviolet irradiance observations during flares. Astrophys. J. 739, 59.
+Zuccarello, F.P., Seaton, D.B., Mierla, M., Poedts, S., Rachmeler, L.A., Romano, P., Zuccarello, F.: 2014, Observational evidence of torus instability as trigger mechanism for coronal mass ejections: The 2011 August 4 filament eruption. Astrophys. J. 785, 88.
+Zuccarello, F.P., Chandra, R., Schmieder, B., Aulanier, G., Joshi, R.: 2017, Transition from eruptive to confined flares in the same active region. Astron. Astrophys. 601, A26.

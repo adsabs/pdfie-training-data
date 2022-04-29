@@ -1,0 +1,22 @@
+Aguirre, L.A., Letellier, C., Maquet, J.: 2008, Forecasting the time series of sunspot numbers. Solar Phys. 249, 103.
+Casas, R., Vaquero, J.M., Vazquez, M.: 2006, Solar rotation in the 17th century. Solar Phys. 234, 379.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: Assembling all corrections. Solar Phys. 291(9), 2629.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Revisiting the sunspot number. A 400-year perspective on the solar cycle. Space Sci. Rev. 186, 35.
+Clette, F., Cliver, E.W., Lefèvre, L., Svalgaard, L., Vaquero, J.M.: 2015, Revision of the sunspot number(s). Space Weather 13, 529.
+Gholipour, A., Lucas, C., Araabi, B.N., Shafiee, M.: 2005, Solar activity forecast: Spectral analysis and neurofuzzy prediction. J. Atmos. Solar-Terr. Phys. 67, 595.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 1994, The shape of the sunspot cycle. Solar Phys. 151, 177.
+Kakad, B.: 2011, A new method for prediction of peak sunspot number and ascent time of the solar cycle. Solar Phys. 270, 393.
+Lasheng, Z., Li, G., Haijuan, Z., Liuming, H.: 2005, The shape of sunspot cycles described by monthly sunspot areas. Solar Phys. 232, 143.
+Leach, R.D.: 1996, Spacecraft system failures and anomalies attributed to the natural space environment. Space Programs and Technologies Conf.
+Li, Y.: 1997, Predictions of the features for sunspot cycle 23. Solar Phys. 170(2), 437.
+Li, K.: 1999, The shape of the sunspot cycle described by sunspot areas. Astron. Astrophys. 345(345), 1006.
+Marvin, D.C., Gorney, D.J.: 1992, Solar proton events of 1989: Effects on spacecraft solar arrays. NASA STI/Recon Technical Report 93.
+Pesnell, W.: 2016, Predictions of solar cycle 24: How are we doing? Space Weather 14(1), 10.
+Schwabe, H., Schwabe, H.: 1844, Sonnen-beobachtungen im jahre 1843. Astron. Nachr. 21(15), 234.
+Seber, G.A.F., Wild, C.J.: 1989, Nonlinear Regression, Wiley Series in Probability and Mathematical Statistics: Probability and Mathematical Statistics, Wiley, New York. 0-471-61760-1.
+SILSO: 2015, The international relative sunspot number,
+Toth, G., de Zeeuw, D.L., Gombosi, T.I., Manchester, W.B., Ridley, A.J., Roussev, I.I., Sokolov, I.V.: 2005, Sun-to-Thermosphere Simulation of the October 28, 2003 Event With the Space Weather Modeling Framework. AGU Fall Meet. Abs.
+Waldmeier, M.: 1955, Ergebnisse und Probleme der Sonnenforschung, Geest and Portig, 1955. 2. erweiterte Aufl., Leipzig.
+Wang, J., Miao, J., Liu, S., Gong, J., Zhu, C.: 2008, Prediction of the smoothed monthly mean sunspot numbers for solar cycle 24. Sci. China Ser. G, Phys. Mech. Astron. 51, 1938.
+Williamson, M.: 2006, Spacecraft Technology: The Early Years, History of Technology, Institution of Engineering and Technology, London.
+Wolf, R.: 1861, Abstract of his latest results. Mon. Not. Roy. Astron. Soc. 21, 77.

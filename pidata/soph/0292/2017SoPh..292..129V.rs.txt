@@ -1,0 +1,45 @@
+Berger, M.A.: 1984, Rigorous new limits on magnetic helicity dissipation in the solar corona. Geophys. Astrophys. Fluid Dyn. 30, 79.
+Berger, M.A.: 1999, Magnetic helicity in space physics. In: Brown, M.R., Canfield, R.C., Pevtsov, A.A. (eds.) Magnetic Helicity in Space and Laboratory Plasmas, Geophys. Monogr. Ser. 111, AGU, Washington, 1.
+Berger, M.A., Field, G.B.: 1984, The topological properties of magnetic helicity. J. Fluid Mech. 147, 133.
+Burlaga, L.F.: 1988, Magnetic clouds and force-free fields with constant alpha. J. Geophys. Res. 93, 7217.
+Burlaga, L.F., Lepping, R.P., Jones, J.A.: 1990, Global configuration of a magnetic cloud. In: Russell, C.T., Priest, E.R., Lee, L.C. (eds.) Physics of Magnetic Flux Ropes, Geophys. Monogr. Ser. 58, AGU, Washington, 373.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock: Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Cap, F., Khalil, S.M.: 1989, Eigenvalues of relaxed axisymmetric toroidal plasmas of arbitrary aspect ratio and arbitrary cross-section. Nucl. Fusion 29, 1166.
+Cargill, P.J., Chen, J., Spicer, D.S., Zalesak, S.T.: 1995, Geometry of interplanetary magnetic clouds. Geophys. Res. Lett. 22, 647.
+Dasso, S., Mandrini, C.H., Démoulin, P., Farrugia, C.J.: 2003, Magnetic helicity analysis of an interplanetary twisted flux tube. J. Geophys. Res. 108, 1362
+Goldstein, H.: 1983, On the field configuration in magnetic clouds. In: Neugebauer, M. (ed.) Solar Wind Five, NASA Conf. Publ. CP-2280, NASA, Washington, 731.
+Hidalgo, M.A., Nieves-Chinchilla, T.: 2012, A global magnetic topology model for magnetic clouds. I. Astrophys. J. 748, 109.
+Hidalgo, M.A., Cid, C., Viñas, A.F., Sequeiros, J.: 2002, A non-force-free approach to the topology of magnetic clouds in the solar wind. J. Geophys. Res. 107, 1002
+Hu, Q., Qiu, J., Krucker, S.: 2015, Magnetic field line lengths inside interplanetary magnetic flux ropes. J. Geophys. Res. 120, 5266.
+Hu, Q., Sonnerup, B.U.Ö.: 2002, Reconstruction of magnetic clouds in the solar wind: orientations and configurations. J. Geophys. Res. 107, 1142
+Hu, Q., Qiu, J., Dasgupta, B., Khare, A., Webb, G.M.: 2014, Structures of interplanetary magnetic flux ropes and comparison with their solar sources. Astrophys. J. 793, 53.
+Janvier, M., Démoulin, P., Dasso, S.: 2013, Global axis shape of magnetic clouds deduced from the distribution of their local axis orientation. Astron. Astrophys. 556, A50.
+Janvier, M., Démoulin, P., Dasso, S.: 2014a, Are there different populations of flux ropes in the solar wind? Solar Phys. 289, 2633.
+Janvier, M., Démoulin, P., Dasso, S.: 2014b, In situ properties of small and large flux ropes in the solar wind. J. Geophys. Res. 119, 7088.
+Klein, L.W., Burlaga, L.F.: 1982, Interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 87, 613.
+Krimigis, S., Sarris, E., Armstrong, T.: 1976, Evidence for closed magnetic loop structures in the interplanetary medium (abstract). Eos Trans. AGU 57, 304.
+Leamon, R.J., Canfield, R.C., Jones, S.L., Lambkin, K., Lundberg, B.J., Pevtsov, A.A.: 2004, Helicity of magnetic clouds and their associated active regions. J. Geophys. Res. 109, A05106.
+Lepping, R.P., Jones, J.A., Burlaga, L.F.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Lepping, R.P., Wu, C.-C., Berdichevsky, D.B.: 2015, Yearly comparison of magnetic cloud parameters, sunspot number, and interplanetary quantities for the first 18 years of the Wind mission. Solar Phys. 290, 553.
+Lepping, R.P., Berdichevsky, D.B., Szabo, A., Arqueros, C., Lazarus, A.J.: 2003, Profile of an average magnetic cloud at 1 AU for the quiet solar phase: Wind observations. Solar Phys. 212, 425.
+Lepping, R.P., Berdichevsky, D.B., Wu, C.-C., Szabo, A., Narock, T., Mariani, F., Lazarus, A.J., Quivers, A.J.: 2006, A summary of Wind magnetic clouds for years 1995 – 2003: model-fitted parameters, associated errors and classifications. Ann. Geophys. 24, 215.
+Lundquist, S.: 1950, Magnetohydrostatic fields. Ark. Fys. 2, 361.
+Marubashi, K.: 1986, Structure of the interplanetary magnetic clouds and their solar origins. Adv. Space Res. 6, (6)335.
+Marubashi, K.: 1997, Interplanetary magnetic flux ropes and solar filaments. In: Crooker, N., Joselyn, J., Feyman, J. (eds.) Coronal Mass Ejections, Geophys. Monogr. Ser. 99, AGU, Washington, 147.
+Moldwin, M.B., Hughes, W.J.: 1991, Plasmoids as magnetic flux ropes. J. Geophys. Res. 96, 14051.
+Mulligan, T., Russell, C.T.: 2001, Multispacecraft modeling of the flux rope structure of interplanetary coronal mass ejections: cylindrically symmetric versus nonsymmetric topologies. J. Geophys. Res. 106, 10581.
+Pevtsov, A.A., Canfield, R.C.: 2001, Solar magnetic fields and geomagnetic events. J. Geophys. Res. 106, 25191.
+Press, V.H., Teukolsky, S.A., Vetterling, W.T., Flannery, B.P.: 2002, Numerical Recipes in C, The Art of Scientific Computing, Second Edition, Cambridge University Press, New York.
+Riley, P., Crooker, N.U.: 2004, Kinematic treatment of coronal mass ejection evolution in the solar wind. Astrophys. J. 600, 1035.
+Riley, P., Linker, J.A., Lionello, R., Mikic, Z., Odstrcil, D., Hidalgo, M.A., Cid, C., Hu, Q., Lepping, R.P., Rees, A.: 2004, Fitting flux ropes to a global MHD solution: a comparison of techniques. J. Atmos. Solar-Terr. Phys. 66, 1321.
+Romashets, E., Vandas, M., Poedts, S.: 2010, Modeling of local magnetic field enhancements within solar flux ropes. Solar Phys. 261, 271.
+Russell, C.T., Mulligan, T.: 2002, The true dimensions of interplanetary coronal mass ejections. Adv. Space Res. 29, 3, 301.
+Shimazu, H., Marubashi, K.: 2000, New method for detecting interplanetary flux ropes. J. Geophys. Res. 105, 2365.
+Song, H.Q., Chen, Y., Zhang, J., Cheng, X., Wang, B., Hu, Q., Li, G., Wang, Y.M.: 2015, Evidence of the solar EUV hot channel as a magnetic flux rope from remote-sensing and in situ observations. Astrophys. J. Lett. 808, L15.
+Tsuji, Y.: 1991, Force-free magnetic field in the axisymmetric torus of arbitrary aspect ratio. Phys. Fluids, B 3, 3379.
+Vandas, M., Romashets, E.P.: 2003, A force-free field with constant alpha in an oblate cylinder: A generalization of the Lundquist solution. Astron. Astrophys. 398, 801.
+Vandas, M., Romashets, E.: 2015, Comparative study of a constant-alpha force-free field and its approximations in an ideal toroid. Astron. Astrophys. 580, A123.
+Vandas, M., Romashets, E.P., Geranios, A.: 2010, How do fits of simulated magnetic clouds correspond to their real shapes in 3-D? Ann. Geophys. 28, 1581.
+Vandas, M., Romashets, E., Geranios, A.: 2015, Modeling of magnetic cloud expansion. Astron. Astrophys. 583, A78.
+Vandas, M., Romashets, E.P., Watari, S.: 2005, Magnetic clouds of oblate shapes. Planet. Space Sci. 53, 19.
+Vandas, M., Fischer, S., Dryer, M., Smith, Z., Detman, T.: 1995, Simulation of magnetic cloud propagation in the inner heliosphere in two-dimensions, 1, A loop perpendicular to the ecliptic plane. J. Geophys. Res. 100, 12285.

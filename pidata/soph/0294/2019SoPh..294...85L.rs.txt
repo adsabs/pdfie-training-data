@@ -1,0 +1,59 @@
+Antiochos, S.K., Linker, J.A., Lionello, R., Mikić, Z., Titov, V., Zurbuchen, T.H.: 2011, Space Sci. Rev. 172(1 – 4), 169.
+Behannon, K.W.: 1978, Rev. Geophys. 16(1), 125.
+Borovsky, J.E.: 2010, J. Geophys. Res. 115, A09101.
+Bruno, R., Bavassano, B.: 1997, J. Geophys. Res. 24, 2267.
+Bruno, R., Carbone, V.: 2013, URL (accessed 1 August 2018). Living Rev. Solar Phys. 10, 2.
+Burlaga, L.F., Ness, N.F.: 1993, J. Geophys. Res. 98, 17451.
+Burlaga, L.F., Lepping, R.P., Behannon, K.W., Klein, L.W., Neubauer, F.M.: 1982, J. Geophys. Res. 87, 4345.
+Chen, J., Howard, R.A., Brueckner, G.E., Santoro, R., Krall, J., Paswaters, S.E., St. Cyr, O.C., Schwenn, R., Lamy, P., Simnett, G.M.: 1997, Astrophys. J. Lett. 490, L19.
+Cho, I.-H., Moon, Y.-J., Nakariakov, V.M., Bong, S.-C., Lee, J.-Y., Song, D., Lee, H., Cho, K.-S.: 2018, Phys. Rev. Lett. 121, 075101.
+DeForest, C.E., Matthaeus, W.H., Viall, N.M., Cranmer, S.R.: 2016, Astrophys. J. 828, 66.
+Forsyth, R.J., Balogh, A., Smith, E.J.: 2002, J. Geophys. Res. 107, 1405.
+Fox, N.J., Velli, M.C., Bale, A.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J.K., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, Space Sci. Rev. 204, 7.
+Gazis, P.R.: 1996, Rev. Geophys. 34, 379.
+Gosling, J.T., McComas, D.J.: 1987, Geophys. Res. Lett. 14, 355.
+Gosling, J.T., Skoug, R.M.: 2002, J. Geophys. Res. 107, 1327.
+Horbury, T.S., Balogh, A.: 2001, J. Geophys. Res. 106, 15929.
+Horbury, T.S., Matteini, L., Stansby, D.: 2018, Mon. Not. Roy. Astron. Soc. Lett. 478, 1980.
+Jackman, C.M., Forsyth, R.J., Dougherty, M.K.: 2008, J. Geophys. Res. 113, A08114.
+James, M.K., Imber, S.M., Bunce, E.J., Yeoman, T.K., Lockwood, M., Owens, M.J., Slavin, J.A.: 2017, J. Geophys. Res. Space Phys. 122, 7907.
+Jones, G.H., Balogh, A., Forsyth, R.J.: 1998, Geophys. Res. Lett. 25, 3109.
+Kaymaz, Z., Siscoe, G.: 2006, Solar Phys. 239, 437.
+Kepko, L., Viall, N.M., Antiochos, S.K., Lepri, S.T., Kasper, J.C., Weberg, M.: 2016, Geophys. Res. Lett. 43, 4089.
+Kilpua, E.K.J., Luhmann, J.G., Gosling, J.T., Li, Y., Elliott, H., Russell, C.T., Jian, L., Galvin, A.B., Larson, D., Schroeder, P., Simunac, K., Petrie, G.: 2009, Solar Phys. 256, 327.
+King, J.H., Papitashvili, N.E.: 2005, J. Geophys. Res. 110, A02104.
+Lockwood, M., Owens, M.J.: 2009, Astrophys. J. 701, 964.
+Lockwood, M., Owens, M.J.: 2013, J. Geophys. Res. 118, 1880.
+Lockwood, M., Owens, M.J., Rouillard, A.P.: 2009a. J. Geophys. Res. 114, A11103.
+Lockwood, M., Owens, M.J., Rouillard, A.P.: 2009b, J. Geophys. Res. 114, A11104.
+Lockwood, M., Owens, M.J., Imber, S.M., James, M.K., Bunce, E.J., Yeoman, T.K.: 2017, J. Geophys. Res. Space Phys. 122, 5870.
+Lockwood, M., Bentley, S., Owens, M.J., Barnard, L.A., Scott, C.J., Watt, C.E., Allanson, O.: 2019, Space Weather 17, 133.
+Luhmann, J.G., Petrie, G., Riley, P.: 2013, J. Adv. Res. 4, 221.
+McComas, D.J., Gosling, G.T., Bame, S.J., Smith, E.J., Cane, H.V.: 1989, J. Geophys. Res. 94, 1465.
+Mistry, R., Eastwood, J.P., Phan, T.D., Hietala, H.: 2017, J. Geophys. Res. Space Phys. 122, 5895.
+Mitsakou, E., Moussas, X.: 2014, Solar Phys. 289, 3137.
+Murphy, N., Smith, E.J., Schwadron, N.A.: 2002, Geophys. Res. Lett. 29, 2066.
+Ness, N.F., Wilcox, J.M.: 1964, Phys. Rev. Lett. 13, 461.
+Neubauer, F.M., Beinroth, H.J., Barnstorf, H., Dehmel, G.: 1977, J. Geophys. 42, 599.
+Owens, M.J., Crooker, N.U., Lockwood, M.: 2011, J. Geophys. Res. 116, A04111.
+Owens, M.J., Forsyth, R.J.: 2013, Liv. Rev. Solar Phys. 10, 5.
+Owens, M.J., Arge, C.N., Crooker, N.U., Schwadron, N.A., Horbury, T.S.: 2008, J. Geophys. Res. 113, A12103.
+Owens, M.J., Lockwood, M., Riley, P., Linker, J.: 2017, J. Geophys. Res., Space Phys. 122, 10,980.
+Owens, M.J., Lockwood, M., Barnard, L.A., MacNeil, A.R.: 2018, Astrophys. J. Lett. 868, L14.
+Parker, E.N.: 1958, Astrophys. J. 128, 664.
+Phan, T.D., Gosling, J.T., Davis, M.S., Skoug, R.M., Øieroset, M., Lin, R.P., Lepping, R.P., McComas, D.J., Smith, C.W., Reme, H., Balogh, A.: 2006, Nature 439(7073), 175.
+Ragot, B.R.: 2006, Astrophys. J. 651, 1209.
+Richardson, I.G., Cane, H.V.: 1996, J. Geophys. Res. 101, 27521.
+Riley, P., Gosling, J.T.: 2007, J. Geophys. Res. 112, A06115.
+Roberts, D.A., Goldstein, M.L., Klein, L.W.: 1990, J. Geophys. Res. 95, 4203.
+Rosenbauer, H., Schwenn, R., Marsch, E., Meyer, B., Miggenrieder, H., Montgomery, M.D., Muehlhaeuser, K.H., Pilipp, W., Voges, W., Zink, S.M.: 1977, J. Geophys. 42, 561.
+Rouillard, A.P., Davies, J.A., Lavraud, B., Forsyth, R.J., Savani, N.P., Bewsher, D., Brown, D.S., Sheeley, N.R., Davis, C.J., Harrison, R.A., Lockwood, M., Crothers, S.R., Eyles, C.J.: 2010a, J. Geophys. Res. 115, A04103.
+Rouillard, A.P., Lavraud, B., Davies, J.A., Burlaga, L.F., Savani, N.P., Forsyth, R.J., Sauvaud, J.-A., Opitz, A., Lockwood, M., Luhmann, J.G., Simunac, K.D.C., Galvin, A.B., Davis, C.J., Harrison, R.A.: 2010b, J. Geophys. Res. 115, A04104.
+Schwadron, N.A.: 2002, Geophys. Res. Lett. 29, 1663.
+Sheeley, N.R., Wang, Y.-M., Hawley, S.H., Brueckner, G.E., Dere, K.P., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Paswaters, S.E.: 1997, Astrophys. J. 484, 472.
+Smith, E.J.: 2011, J. Geophys. Res. 116, A12101.
+Smith, C.W., Phillips, J.L.: 1996, AIP CP-382, 502.
+Smith, C.W., Phillips, J.L.: 1997, J. Geophys. Res. 102, 249.
+Smith, C.W., L’Heureux, J., Ness, N.F., Acuna, M.H., Burlaga, L.F., Scheifele, J.: 1998, The ACE magnetic fields experiment. In: Russell, C.T., Mewaldt, R.A., Von Rosenvinge, T.T. (eds.) The Advanced Composition Explorer Mission, Space Sci. Rev. 86, 613.
+Suess, S.T., Smith, E.J.: 1996, Geophys. Res. Lett. 23, 3267.
+Viall, N.M., Vourlidas, A.: 2015, Astrophys. J. 807, 176.

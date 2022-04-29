@@ -1,0 +1,36 @@
+Benz, A.O., Monstein, C., Meyer, H., Manoharan, P.K., Ramesh, R., Altyntsev, A., Lara, A., Paez, J., Cho, K.-S.: 2009, A world-wide net of solar radio spectrometers: e-CALLISTO. Earth Moon Planets 104, 277.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P.J., Manning, R., Goetz, K., Monson, S.J., Monge, N., Friel, L., Meetre, C.A., Perche, C., Sitruk, L., Hoang, S.: 1995, Waves: The radio and plasma wave investigation on the wind spacecraft. Space Sci. Rev. 71, 231.
+Caroubalos, C., Maroulis, D., Patavalis, N., Bougeret, J.-L., Dumas, G., Perche, C., Alissandrakis, C., Hillaris, A., Moussas, X., Preka-Papadema, P., Kontogeorgos, A., Tsitsipis, P., Kanelakis, G.: 2001, The new multichannel radiospectrograph ARTEMIS-IV/HECATE, of the University of Athens. Exp. Astron. 11, 23.
+Ebenezer, E., Subramanian, K.R., Ramesh, R., Sundararajan, M.S., Kathiravan, C.: 2007, Gauribidanur radio array solar spectrograph (GRASS). Bull. Astron. Soc. India 35, 111.
+Fawcett, T.: 2006, An introduction to roc analysis. Pattern Recognit. Lett. 27(8), 861.
+Gorgutsa, R.V., Gnezdilov, A.A., Markeev, A.K., Sobolev, D.E.: 2001, An upgrade of the Izmiran’s solar digital radio spectrograph: First results. Astron. Astrophys. Trans. 20, 547.
+Guidice, D.A., Cliver, E.W., Barron, W.R., Kahler, S.: 1981, The air force RSTN system. Bull. Am. Astron. Soc. 13, 553.
+Hariharan, K., Ramesh, R., Kathiravan, C., Abhilash, H.N., Rajalingam, M.: 2016, High dynamic range observations of solar coronal transients at low radio frequencies with a spectro-correlator. Astrophys. J. Suppl. Ser. 222, 21.
+James, T., Subramanian, P.: 2018, Energetics of small electron acceleration episodes in the solar corona from radio noise storm observations. Mon. Not. Roy. Astron. Soc. 479, 1603.
+James, T., Subramanian, P., Kontar, E.P.: 2017, Small electron acceleration episodes in the solar corona. Mon. Not. Roy. Astron. Soc. 471, 89.
+Kaiser, M.L.: 2005, The STEREO mission: An overview. Adv. Space Res. 36, 1483.
+Kishore, P., Kathiravan, C., Ramesh, R., Rajalingam, M., Barve, I.V.: 2014, Gauribidanur low-frequency solar spectrograph. Solar Phys. 289, 3995.
+Kishore, P., Ramesh, R., Kathiravan, C., Rajalingam, M.: 2015, A low-frequency radio spectropolarimeter for observations of the solar corona. Solar Phys. 290, 2409.
+Kondo, T., Isobe, T., Igi, S., Watari, S.-i., Tokumaru, M.: 1994, The new solar radio observation system at Hiraiso. Commun. Res. Lab. Rev. 40, 85.
+Kumari, A., Ramesh, R., Kathiravan, C., Wang, T.J.: 2017, Strength of the solar coronal magnetic field – a comparison of independent estimates using contemporaneous radio and white-light observations. Solar Phys. 292(11), 161.
+Kundu, M.R.: 1965, Solar Radio Astronomy.
+Lobzin, V.V., Cairns, I.H., Zaslavsky, A.: 2014, Automatic recognition of type III solar radio bursts in STEREO/WAVES data for onboard real-time and archived data processing. J. Geophys. Res. 119, 742.
+Lobzin, V.V., Cairns, I.H., Robinson, P.A., Steward, G., Patterson, G.: 2009, Automatic recognition of type III solar radio bursts: Automated radio burst identification system method and first observations. Space Weather 7, S04002.
+Lobzin, V.V., Cairns, I.H., Robinson, P.A., Steward, G., Patterson, G.: 2010, Automatic recognition of coronal type II radio bursts: The automated radio burst identification system method and first observations. Astrophys. J. Lett. 710, L58.
+McLean, D.J., Labrum, N.R.: 1985, Solar Radiophysics: Studies of Emission From the Sun at Metre Wavelengths.
+Monstein, C., Ramesh, R., Kathiravan, C.: 2007, Radio spectrum measurements at the Gauribidanur observatory. Bull. Astron. Soc. India 35, 473.
+Mugundhan, V., Hariharan, K., Ramesh, R.: 2017, Solar type IIIb radio bursts as tracers for electron density fluctuations in the corona. Solar Phys. 292, 155.
+Mugundhan, V., Ramesh, R., Kathiravan, C., Gireesh, G.V.S., Hegde, A.: 2018, Spectropolarimetric observations of solar noise storms at low frequencies. Solar Phys. 293(3), 41.
+Ramesh, R.: 2011, Low frequency solar radio astronomy at the Indian Institute of Astrophysics (IIA). In: Astronomical Society of India Conference Series, 2.
+Ramesh, R., Kathiravan, C., Barve, I.V., Beeharry, G.K., Rajasekara, G.N.: 2010, Radio observations of weak energy releases in the solar corona. Astrophys. J. Lett. 719, L41.
+Ramesh, R., Sasikumar Raja, K., Kathiravan, C., Narayanan, A.S.: 2013, Low-frequency radio observations of picoflare category energy releases in the solar atmosphere. Astrophys. J. 762, 89.
+Rucker, H.O., Macher, W., Fischer, G., Oswald, T., Bougeret, J.L., Kaiser, M.L., Goetz, K.: 2005, Analysis of spacecraft antenna systems: Implications for STEREO/WAVES. Adv. Space Res. 36, 1530.
+Saint-Hilaire, P., Vilmer, N., Kerdraon, A.: 2013, A decade of solar type III radio bursts observed by the Nançay radioheliograph 1998 – 2008. Astrophys. J. 762, 60.
+Salmane, H., Weber, R., Abed-Meraim, K., Klein, K.-L., Bonnin, X.: 2018, A method for the automated detection of solar radio bursts in dynamic spectra. J. Space Weather Space Clim. 8(27), A43.
+Sasikumar Raja, K., Kathiravan, C., Ramesh, R., Rajalingam, M., Barve, I.V.: 2013a, Design and performance of a low-frequency cross-polarized log-periodic dipole antenna. Astrophys. J. Suppl. Ser. 207, 2.
+Sasikumar Raja, K., Ramesh, R.: 2013b, Low-frequency observations of transient quasi-periodic radio emission from the solar atmosphere. Astrophys. J. 775, 38.
+Sasikumar Raja, K., Subramanian, P., Ananthakrishnan, S., Monstein, C.: 2018, CALLISTO spectrometer at IISER-Pune. ArXiv e-prints.
+Sharma, R., Oberoi, D., Arjunwadkar, M.: 2018, Quantifying weak nonthermal solar radio emission at low radio frequencies. Astrophys. J. 852, 69.
+Tarnstrom, G.L., Philip, K.W.: 1972, Solar radio spike bursts. Astron. Astrophys. 16, 21.
+Wild, J.P.: 1967, The radioheliograph and the radio astronomy programme of the Culgoora Observatory. Proc. Astron. Soc. Aust. 1, 38.
+Zhang, P.J., Wang, C.B., Ye, L.: 2018, A type III radio burst automatic analysis system and statistic results for a half solar cycle with Nançay Decameter Array data. Astron. Astrophys. 618, A165.

@@ -1,0 +1,30 @@
+Aseev, N.A., Shprits, Y.Y.: 2019, Reanalysis of ring current electron phase space sensities using Van Allen Probe observations, convection model, and log-normal Kalman filter. Space Weather.
+Barnard, L.A., Owens, M.J., Scott, C.J., Jones, S.R.: 2019, Extracting inner-heliosphere solar wind speed information from heliospheric imager observations. Space Weather 17.
+Chhiber, R., Usmanov, A.V., Matthaeus, W.H., Parashar, T.N., Goldstein, M.L.: 2019, Contextual predictions for Parker Solar Probe. II. Turbulence properties and Taylor hypothesis. Astron. Astrophys. Suppl. Ser. 242(1), 12.
+Crooker, N.U., Owens, M.J.: 2011, Interchange reconnection: remote sensing of solar signature and role in heliospheric magnetic flux budget. Space Sci. Rev. 172(1–4), 201.
+Dee, D.P., Uppala, S.M., Simmons, A.J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M.A., Balsamo, G., Bauer, P., Bechtold, P., Beljaars, A.C.M., van de Berg, L., Bidlot, J., Bormann, N., Delsol, C., Dragani, R., Fuentes, M., Geer, A.J., Haimberger, L., Healy, S.B., Hersbach, H., Hólm, E.V., Isaksen, L., Kållberg, P., Köhler, M., Matricardi, M., McNally, A.P., Monge-Sanz, B.M., Morcrette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J.-N., Vitart, F.: 2011, The ERA-interim reanalysis: configuration and performance of the data assimilation system. Q. J. Roy. Meteorol. Soc. 137, 553.
+Edmondson, J.K., Antiochos, S.K., DeVore, C.R., Lynch, B.J., Zurbuchen, T.H.: 2010, Interchange reconnection and coronal hole dynamics. Astrophys. J. 714(1), 517.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The Solar Probe Plus mission: humanity’s first visit to our star. Space Sci. Rev. 204(1–4), 7.
+Glauert, S.A., Horne, R.B., Meredith, N.P.: 2018, A 30-year simulation of the outer electron radiation belt. Space Weather 16(10), 1498.
+Jokipii, J.R., Parker, E.N.: 1968, Random walk of magnetic lines of force in astrophysics. Phys. Rev. Lett. 21(1), 44.
+Kaiser, M.L.: 2005, The STEREO mission: an overview. Adv. Space Res. 36(8), 1483.
+King, J.H., Papitashvili, N.E.: 2005, Solar wind spatial scales in and comparisons of hourly wind and ACE plasma and magnetic field data. J. Geophys. Res. 110.
+Laitinen, T., Kopp, A., Effenberger, F., Dalla, S., Marsh, M.S.: 2016, Solar energetic particle access to distant longitudes through turbulent field-line meandering. Astron. Astrophys. 591, A18.
+Lang, M., Owens, M.J.: 2019, A variational approach to data assimilation in the solar wind. Space Weather 17(1), 59.
+Lang, M., Browne, P., van Leeuwen, P.J., Owens, M.: 2017, Data assimilation in the solar wind: challenges and first results. Space Weather 15(11), 1490.
+Linker, J., Mikic, Z., Biesecker, D.A., Forsyth, R.J., Gibson, W.E., Lazarus, A.J., Lecinski, A., Riley, P., Szabo, A., Thompson, B.J.: 1999, Magnetohydrodynamic modeling of the solar corona during Whole Sun Month. J. Geophys. Res. 104, 9809.
+Luhmann, J.G., Gosling, J.T., Hoeksmam, J.T., Zhao, X.: 1998, The relationship between large-scale magnetic field evolution and coronal mass ejections. J. Geophys. Res. 103, 6585.
+Matthaeus, W.H., Gray, P.C., Pontius, D.H. Jr., Bieber, J.W.: 1995, Spatial structure and field-line diffusion in transverse magnetic turbulence. Phys. Rev. Lett. 75(11), 2136.
+McComas, D.J., Elliott, H.A., Schwadron, N.A., Gosling, J.T., Skoug, R.M., Goldstein, B.E.: 2003, The three-dimensional solar wind around solar maximum. Geophys. Res. Lett. 30.
+Müller, D., Marsden, R.G., St. Cyr, O.C., Gilbert, H.R., Team, T.S.O.: 2013, Solar orbiter. Solar Phys. 285(1–2), 25.
+Owens, M.J., Riley, P.: 2017, Probabilistic solar wind forecasting using large ensembles of near-Sun conditions with a simple one-dimensional “upwind” scheme. Space Weather 15(11), 1461.
+Owens, M.J., Spence, H.E., McGregor, S., Hughes, W.J., Quinn, J.M., Arge, C.N., Riley, P., Linker, J., Odstrcil, D.: 2008, Metrics for solar wind prediction models: comparison of empirical, hybrid, and physics-based schemes with 8 years of L1 observations. Space Weather 6(8), S08001.
+Owens, M.J., Riley, P., Lang, M., Lockwood, M.: 2019, Near-Earth solar wind forecasting using corotation from L5: the error introduced by heliographic latitude offset. Space Weather 18.
+Rappazzo, A.F., Matthaeus, W.H., Ruffolo, D., Servidio, S., Velli, M.: 2012, Interchange reconnection in a turbulent Corona. Astrophys. J. 758(1), L14.
+Riley, P., Lionello, R.: 2011, Mapping solar wind streams from the Sun to 1 AU: a comparison of techniques. Solar Phys. 270(2), 575.
+Riley, P., Linker, J.A., Lionello, R., Mikic, Z.: 2012, Corotating interaction regions during the recent solar minimum: the power and limitations of global MHD modeling. J. Atmos. Solar-Terr. Phys. 83, 1.
+Riley, P., Downs, C., Linker, J.A., Mikic, Z., Lionello, R., Caplan, R.M.: 2019, Predicting the structure of the solar corona and inner heliosphere during Parker Solar Probe’s first perihelion pass. Astrophys. J. 874(2), L15.
+Sun, X., Liu, Y., Hoeksema, J.T., Hayashi, K., Zhao, X.: 2011, A new method for polar field interpolation. Solar Phys. 270(1), 9.
+Thomas, S.R., Fazakerley, A., Wicks, R.T., Green, L.: 2018, Evaluating the skill of forecasts of the near-Earth solar wind using a space weather monitor at L5. Space Weather 16(7), 814.
+van der Holst, B., Manchester, W.B. IV, Klein, K.G., Kasper, J.C.: 2019, Predictions for the first Parker Solar Probe encounter. Astrophys. J. 872(2), L18.
+Venzmer, M.S., Bothmer, V.: 2018, Solar-wind predictions for the Parker Solar Probe orbit. Astron. Astrophys. 611, A36.

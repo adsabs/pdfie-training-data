@@ -1,0 +1,33 @@
+Bentley, R.D., Klein, K.-L., van Driel-Gesztelyi, L., Démoulin, P., Trottet, G., Tassetto, P., Marty, G.: 2000, Magnetic activity associated with radio noise storms. Solar Phys. 193, 227.
+Benz, A.O., Wentzel, D.G.: 1981, Coronal evolution and solar type I radio bursts – An ion-acoustic wave model. Astron. Astrophys. 94, 100.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Canfield, R.C., Reardon, K.P., Leka, K.D., Shibata, K., Yokoyama, T., Shimojo, M.: 1996, H alpha surges and X-ray jets in AR 7260. Astrophys. J. 464, 1016.
+Chertok, I.M., Kahler, S., Aurass, H., Gnezdilov, A.A.: 2001, Sharp decreases of solar metric radio storm emission. Solar Phys. 202, 337.
+Crooker, N.U., Gosling, J.T., Kahler, S.W.: 2002, Reducing heliospheric magnetic flux from coronal mass ejections without disconnection. J. Geophys. Res. 107, 1028.
+Del Zanna, G., Aulanier, G., Klein, K.-L., Török, T.: 2011, A single picture for solar coronal outflows and radio noise storms. Astron. Astrophys. 526, A137.
+Edmondson, J.K.: 2012, On the role of interchange reconnection in the generation of the slow solar wind. Space Sci. Rev. 172, 209.
+Elgarøy, E.Ø.: 1977, Solar Noise Storms.
+Fisk, L.A.: 2005, The open magnetic flux of the Sun. I. Transport by reconnections with coronal loops. Astrophys. J. 626, 563.
+Golub, L., Deluca, E., Austin, G., Bookbinder, J., Caldwell, D., Cheimets, P., Cirtain, J., Cosmo, M., Reid, P., Sette, A., Weber, M., Sakao, T., Kano, R., Shibasaki, K., Hara, H., Tsuneta, S., Kumagai, K., Tamura, T., Shimojo, M., McCracken, J., Carpenter, J., Haight, H., Siler, R., Wright, E., Tucker, J., Rutledge, H., Barbera, M., Peres, G., Varisco, S.: 2007, The X-Ray Telescope (XRT) for the Hinode mission. Solar Phys. 243, 63.
+Hagenaar, H.J., Shine, R.A.: 2005, Moving magnetic features around sunspots. Astrophys. J. 635, 659.
+Harvey, K., Harvey, J.: 1973, Observations of moving magnetic features near sunspots. Solar Phys. 28, 61.
+Hey, J.S.: 1946, Solar radiations in the 4 – 6 metre radio wave-length band. Nature 157, 47.
+Iwai, K., Misawa, H., Tsuchiya, F., Morioka, A., Masuda, S., Miyoshi, Y.: 2012a, Survey of accelerated particles in a solar active region using Hinode/XRT and ground-based type-I radio burst observations. In: Sekii, T., Watanabe, T., Sakurai, T. (eds.) Hinode-3: The 3rd Hinode Science Meeting, Astronomical Society of the Pacific Conference Series 454, 249.
+Iwai, K., Miyoshi, Y., Masuda, S., Shimojo, M., Shiota, D., Inoue, S., Tsuchiya, F., Morioka, A., Misawa, H.: 2012b, Solar radio type-I noise storm modulated by coronal mass ejections. Astrophys. J. 744, 167.
+Kai, K., Melrose, D.B., Suzuki, S.: 1985, In: McLean, D.J., Labrum, N.R. (eds.) Storms 415.
+Kathiravan, C., Ramesh, R., Nataraj, H.S.: 2007, The post-coronal mass ejection solar atmosphere and radio noise storm activity. Astrophys. J. Lett. 656, L37.
+Kerdraon, A., Delouis, J.-M.: 1997, The Nançay radioheliograph. In: Trottet, G. (ed.) Coronal Physics from Radio and Space Observations, Lecture Notes in Physics 483, Springer, Berlin, 192.
+Kosugi, T., Matsuzaki, K., Sakao, T., Shimizu, T., Sone, Y., Tachikawa, S., Hashimoto, T., Minesugi, K., Ohnishi, A., Yamada, T., Tsuneta, S., Hara, H., Ichimoto, K., Suematsu, Y., Shimojo, M., Watanabe, T., Shimada, S., Davis, J.M., Hill, L.D., Owens, J.K., Title, A.M., Culhane, J.L., Harra, L.K., Doschek, G.A., Golub, L.: 2007, The Hinode (Solar-B) mission: An overview. Solar Phys. 243, 3.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Mercier, C., Elgaroy, O., Tlamicha, A., Zlobec, P.: 1984, Solar noise storms coordinated observations – May 16 – 24, 1981. Solar Phys. 92, 375.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, A model of interplanetary and coronal magnetic fields. Solar Phys. 6, 442.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Schrijver, C.J., De Rosa, M.L.: 2003, Photospheric and heliospheric magnetic fields. Solar Phys. 212, 165.
+Sheeley, N.R. Jr.: 1969, The evolution of the photospheric network. Solar Phys. 9, 347.
+Shimizu, T.: 1994, In: Sakurai, T., Hirayama, T., Ai, G. (eds.) Proc. of the 2nd Japan–China Seminar on Solar Phys. 193.
+Spicer, D.S., Benz, A.O., Huba, J.D.: 1982, Solar type I noise storms and newly emerging magnetic flux. Astron. Astrophys. 105, 221.
+Willson, R.F.: 2005a, Collaborative VLA, SOHO and RHESSI observations of evolving sources of energy release in the corona above active regions. Adv. Space Res. 35, 1813.
+Willson, R.F.: 2005b, Very large array and SOHO observations of type I noise storms, large-scale loops and magnetic restructuring in the corona. Solar Phys. 227, 311.
+Zwaan, C.: 1978, On the appearance of magnetic flux in the solar photosphere. Solar Phys. 60, 213.
+Zwaan, C.: 1985, The emergence of magnetic flux. Solar Phys. 100, 397.

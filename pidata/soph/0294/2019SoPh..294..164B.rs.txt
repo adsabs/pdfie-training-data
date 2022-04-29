@@ -1,0 +1,47 @@
+Aschwanden, M.J., Boerner, P., Schrijver, C.J., Malanushenko, A.: 2013, Automated temperature and emission measure analysis of coronal loops and active regions observed with the atmospheric imaging assembly on the solar dynamics observatory (SDO/AIA). Solar Phys. 283, 5.
+Aschwanden, M.J., Boerner, P., Caspi, A., McTiernan, J.M., Ryan, D., Warren, H.: 2015, Benchmark test of differential emission measure codes and multi-thermal energies in solar active regions. Solar Phys. 290, 2733.
+Bąk-Stęślicka, U., Gibson, S.E., Chmielewska, E.: 2016, Line-of-sight velocity as a tracer of coronal cavity magnetic structure. Front. Astron. Space Sci. 3, 7.
+Bąk-Stęślicka, U., Gibson, S.E., Fan, Y., Bethge, C., Forland, B., Rachmeler, L.A.: 2013, The magnetic structure of solar prominence cavities: new observational signature revealed by coronal magnetometry. Astrophys. J. Lett. 770, 28.
+Bąk-Stęślicka, U., Gibson, S.E., Fan, Y., Bethge, C., Forland, B., Rachmeler, L.A.: 2014, The spatial relation between EUV cavities and linear polarization signatures. Proc. IAU Symp. 300, Cambridge University Press, Cambridge, 395.
+Berger, T.E., Liu, W., Low, B.C.: 2012, SDO/AIA detection of solar prominence formation within a coronal cavity. Astrophys. J. 758, 37.
+Cheng, X., Zhang, J., Saar, S.H., Ding, M.D.: 2012, Differential emission measure analysis of multiple structural components of coronal mass ejections in the inner corona. Astrophys. J. 761, 62.
+Cheung, M.C.M., Boerner, P., Schrijver, C.J., Testa, P., Chen, F.: 2015, Thermal diagnostics with the atmospheric imaging assembly onboard the solar dynamics observatory: a validated method for differential emission measure inversions. Astrophys. J. 807, 143.
+Forland, B.C., Gibson, S.E., Dove, J.B., Rachmeler, L.A., Fan, Y.: 2013, Coronal cavity survey: morphological clues to eruptive magnetic topologies. Solar Phys. 288, 603.
+Fuller, J., Gibson, S.E.: 2009, A survey of coronal cavity density profiles. Astrophys. J. 700, 1205.
+Fuller, J., Gibson, S.E., de Toma, G., Fan, Y.: 2008, Observing the unobservable? Modeling coronal cavity densities. Astrophys. J. 678, 515.
+Gibson, S.E.: 2015, Coronal cavities: observations and implications for the magnetic environment of prominences. In: Vial, J.-C., Engvold, O. (eds.) Astrophys. Space Sci. Lib. 415, 323.
+Gibson, S.E.: 2018, Solar prominences: theory and models. Fleshing out the magnetic skeleton. Living Rev. Solar Phys. 15, 7.
+Gibson, S.E., Foster, D., Burkepile, J., de Toma, G., Stanger, A.: 2006, The calm before the storm: the link between quiescent cavities and coronal mass ejections. Astrophys. J. 641, 590.
+Gibson, S.E., Kucera, T.A., Rastawicki, D., Dove, J., de Toma, G.: 2010, Three-dimensional morphology of a coronal prominence cavity. Astrophys. J. 724, 1133.
+Grigis, P., Su, Y., Weber, M.: 2012. AIA PSF Characterization and Image Deconvolution.
+Guhathakurta, M., Rottman, G.J., Fisher, R.R., Orrall, F.Q., Altrock, R.C.: 1992, Coronal density and temperature structure from coordinated observations associated with the total solar eclipse of 1988 March 18. Astrophys. J. 388, 633.
+Habbal, S.R., Druckmueller, M., Morgan, H., Scholl, I., Rusin, V., Daw, A., et al.: 2010, Total solar eclipse observations of hot prominence shrouds. Astrophys. J. 719, 1362.
+Hannah, I.G., Kontar, E.P.: 2012, Differential emission measures from the regularized inversion of Hinode and SDO data. Astron. Astrophys. 539, A146.
+Heinzel, P., Schmieder, B., Fárnik, F., Schwartz, P., Labrosse, N., Kotrč, P., et al.: 2008, Hinode, TRACE, SOHO, and ground-based observations of a quiescent prominence. Astrophys. J. 686, 1383.
+Hudson, H.S., Schwenn, R.: 2000, Hot cores in coronal filament cavities. Adv. Space Res. 25, 1859.
+Hudson, H.S., Acton, L.W., Harvey, K.A., McKenzie, D.M.: 1999, A stable filament cavity with a hot core. Astrophys. J. 513, 83.
+Illing, R.M., Hundhausen, J.R.: 1986, Disruption of a coronal streamer by an eruptive prominence and coronal mass ejection. J. Geophys. Res. 91, 10951.
+Karna, N., Zhang, J., Pesnell, W.D.: 2017, The formation and maintenance of the dominant southern polar crown cavity of cycle 24. Astrophys. J. 835, 135.
+Kucera, T.A., Gibson, S.E., Schmit, D.J., Landi, E., Tripathi, D.: 2012, Temperature and EUV intensity in a coronal prominence cavity. Astrophys. J. 757, 73.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The atmospheric imaging assembly (AIA) on the solar dynamics observatory (SDO). Solar Phys. 275, 17.
+Low, B.C.: 1994, Magnetohydrodynamic processes in the solar corona: flares, coronal mass ejections, and magnetic helicity. Phys. Plasmas 1, 1684.
+Low, B.C., Hundhausen, J.R.: 1995, Magnetostatic structures of the solar corona. II: the magnetic topology of quiescent prominences. Astrophys. J. 443, 818.
+Maričič, D., Vršnak, B., Stanger, A.L., Veronig, A.M.: 2004, Coronal mass ejection of 15 May 2001: I. Evolution of morphological features of the eruption. Solar Phys. 225, 337.
+Marqué, C.: 2004, Radio metric observations of quiescent filament cavities. Astrophys. J. 602, 1037.
+Marqué, C., Lantos, P., Delaboudinère, J.-P.: 2002, Multi wavelength investigation of the eruption of a sigmoidal quiescent filament. Astron. Astrophys. 387, 317.
+McCauley, P.I., Su, Y.N., Schanche, N., Evans, K.E., Su, C., McKillop, S., et al.: 2015, Prominence and filament eruptions observed by the solar dynamics observatory: statistical properties, kinematics, and online catalog. Solar Phys. 290, 1703.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pneuman, G.W.: 1972, Temperature-density structure in coronal helmets: the quiescent prominence and coronal cavity. Astrophys. J. 177, 793.
+Poduval, B., DeForest, C.E., Schmelz, J.T., Pathak, S.: 2013, Point-spread function for the extreme-ultraviolet channels of SDO/AIa telescopes. Astrophys. J. 765, 144.
+Reeves, K.K., Gibson, S.E., Kucera, T.A., Hudson, H.S., Kano, R.: 2012, Thermal properties of a solar coronal cavity observed with the X-ray telescope on Hinode. Astrophys. J. 746, 146.
+Régnier, S., Walsh, R.W., Alexander, C.E.: 2011, A new look at a polar crown cavity as observed by SDO/AIA. Structure and dynamics. Astron. Astrophys. 533, L1.
+Schmelz, J.T., Saar, S.H., DeLuca, E.E., Golub, L., Kashyap, V.L., Weber, M.A., et al.: 2009, Hinode X-ray telescope detection of hot emission from quiescent active regions: a nanoflare signature? Astrophys. J. Lett. 693, L131.
+Schmelz, J.T., Worley, B.T., Anderson, D.J., Pathak, S., Kimble, J.A., Jenkins, B.S., et al.: 2011, Isothermal and multithermal analysis of coronal loops observed with atmospheric imaging assembly. II. 211 Å selected loops. Astrophys. J. 739(1), 33.
+Schmit, D.J., Gibson, S.E., Tomczyk, S., Reeves, K.K., Sterling, C., Brooks, D.H., et al.: 2009, Large-scale flows in prominence cavities. Astrophys. J. 700, L96.
+Su, Y., Veronig, A.M., Hannah, I.G., Cheung, M.C.M., Dennis, B.R., Holman, G.D., et al.: 2018, Determination of differential emission measure from solar extreme ultraviolet images. Astrophys. J. Lett. 856, L17.
+Tandberg-Hanssen, E.: 1995, The Nature of Solar Prominences, 2nd edn. Kluwer, Dordrecht.
+Tomczyk, S., Card, G.L., Darnell, T., Elmore, D.F., Lull, R., Nelson, P., et al.: 2008, An instrument to measure coronal emission line polarization. Solar Phys. 247, 411.
+Vásquez, A.M., Frazin, R.A., Kamalabadi, F.: 2009, 3D temperatures and densities of the solar corona via multi-spacecraft EUV tomography: analysis of prominence cavities. Solar Phys. 256, 73.
+Vršnak, B., Maričič, D., Stanger, A.L., Veronig, A.M.: 2004, Coronal mass ejection of 15 May 2001: II. Coupling of the cme acceleration and the flare energy release. Solar Phys. 225, 355.
+Waldmeier, M.: 1941, Ergebnisse und Probleme der Sonnenforschung, Geest and Portig, Leipzig, 234.
+Weber, M.A., DeLuca, E.E., Golub, L., Sette, A.L.: 2004, Diagnostics with multichannel imaging telescopes. In: Stepanov, A.V., Benevolenskaya, E.E., Kosovichev, A.G. (eds.) Proc. IAU Symp. 223, Cambridge University Press, Cambridge, 312.

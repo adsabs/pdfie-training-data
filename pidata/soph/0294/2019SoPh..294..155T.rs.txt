@@ -1,0 +1,42 @@
+Borovsky, J.E.: 2010, On the variations of the solar wind magnetic field about the Parker spiral direction. J. Geophys. Res. 115, A09101.
+Bruno, R., Bavassano, B.: 1997, On the winding of the IMF spiral for slow and fast wind within the inner heliosphere. Geophys. Res. Lett. 24, 2267.
+Burlaga, L.F., Lepping, R.P., Behannon, K.W.: 1982, Large-scale variations of the interplanetary magnetic field: Voyager 1 and 2 observations between 1 – 5 AU. J. Geophys. Res. 87, 4345.
+Crooker, N.U., Huang, C.-L., Lamassa, S.M., Larson, D.E., Kahler, S.W., Spence, H.E.: 2004a, Heliospheric plasma sheets. J. Geophys. Res. 109, A03107.
+Crooker, N.U., Kahler, S.W., Larson, D.E., Lin, R.P.: 2004b, Large-scalemagnetic field inversions at sector boundaries. J. Geophys. Res. 109, A03108.
+Crooker, N.U., Huang, C.-L., Lamassa, S.M., Larson, D.E., Kahler, S.W., Spence, H.E.: 2010, Intermittent release of transients in the slow solar wind: 2. In situ evidence. J. Geophys. Res. 115, A04104.
+Dósa, M., Erdős, G.: 2017, Long-term longitudinal recurrences of the open magnetic flux density in the Heliosphere. Astrophys. J. 834, 104.
+Feldman, W.C., Asbridge, J.R., Bame, S.J., Montgomery, M.D., Gary, S.P.: 1975, Solar wind electrons. J. Geophys. Res. 80, 4181.
+Fisk, L.A.: 1996, Motion of the footpoint of the heliospheric magnetic field lines at the Sun: Implications for recurrent energetic particle events at high heliographic latitude. J. Geophys. Res. 101, 547.
+Forsyth, R.J., Balogh, A., Horbury, T.S., Erdos, G., Smith, E.J., Burton, M.E.: 1996, The heliospheric magnetic field at solar minimum: Ulysses observations from pole to pole. Astron. Astrophys. 316, 287.
+Gosling, J.T., Roelof, E.C.: 1974, A comment on the detection of closedmagnetic structures in the solar wind. Solar Phys. 39, 405.
+Gosling, J.T., Skoug, R.M.: 2002, On the origin of radial magnetic fields in the heliosphere. J. Geophys. Res. 107(A10), 1327.
+Gosling, J.T., Baker, D.N., Bame, S.J., Feldman, W.C., Zwickl, R.D., Smith, E.J.: 1987, Bidirectional solar wind electron heat flux events. J. Geophys. Res. 92, 8519.
+Hu, Y.Q.: 1993, Evolution of corotating stream structures in the heliospheric equatorial plane. J. Geophys. Res. 98, 13,201.
+Hu, Y.Q., Habbal, S.R.: 1992, Double shock pairs in the solar wind. J. Geophys. Res. 98, 3551.
+Jian, L.: 2010, Interplanetary coronal mass ejections (ICMEs) from Wind and ACE data during 1995 – 2009.
+Kutchko, F.J., Briggs, P.R., Armstrong, T.P.: 1982, The bidirectional particle event of October 12, 1977, possibly associated with a magnetic loop. J. Geophys. Res. 82, 1419.
+Li, B., Cairns, I.H., Gosling, J.T., Malaspina, D.M., Neudegg, D., Steward, G., Lobzin, V.V.: 2016a, Comparisons of mapped magnetic field lines with the source path of the 7 April 1995 type III solar radio burst. J. Geophys. Res. 121, 6141.
+Li, B., Cairns, I.H., Gosling, J.T., Steward, G., Francis, M., Neudegg, D., in den Bäumen, H.S., Player, P.R., Milne, A.R.: 2016b, Mapping magnetic field lines between the Sun and Earth. J. Geophys. Res. 121, 925.
+Li, B., Cairns, I.H., Owens, M.J., Neudegg, D., Lobzin, V.V., Steward, G.: 2016c, Magnetic field inversions at 1 AU: Comparisons between mapping predictions and observations. J. Geophys. Res. 121, 10728.
+McComas, D.J., et al.: 1989, Electron heat flux dropouts in the solar wind – Evidence for interplanetarymagnetic field reconnection? J. Geophys. Res. 94, 6907.
+Nolte, J.T., Roelof, E.C.: 1973a, Large-scale structure of the interplanetary medium I: High coronal source longitude of the quite-time solar wind. Solar Phys. 33, 241.
+Nolte, J.T., Roelof, E.C.: 1973b, Large-scale structure of the interplanetary medium II: Evolving magnetic configurations deduced from multi-spacecraft observations. Solar Phys. 33, 483.
+Odstřcil, D.: 1994, Interactions of solar wind streams and related small structures. J. Geophys. Res. 99, 17,653.
+Owens, M.J., Forsyth, R.J.: 2013, The heliospheric magnetic field. Living Rev. Solar Phys. 10, 5.
+Parker, E.N.: 1958, Dynamics of the interplanetary gas and magnetic fields. Z. Astrophys. 29, 274.
+Reiner, M.J., Fainberg, J., Stone, R.G.: 1995, Large-scale interplanetary magnetic field configuration revealed by solar radio bursts. Science 270, 461.
+Richardson, I.G.: 2018, Solar wind stream interaction regions through out the heliosphere. Living Rev. Solar Phys. 15, 104.
+Richardson, I.G., Cane, H.V., von Rosenvinge, T.T.: 1991, Prompt arrival of solar energetic particles from far eastern events – The role of large-scale interplanetary magnetic field structure. J. Geophys. Res. 96, 7853.
+Richardson, J.D., Belcher, J.W., Lazarus, A.J., Paularena, K.I., Steinberg, J.T., Gazis, P.R.: 1996, Non-radial flows in the solar wind. AIP Conf. Proc. 382, 479.
+Rosenbauer, H., Schwenn, R., Marsch, E., Meyer, B., Miggenrieder, H., Montgomery, M.D., Muehlhaeuser, K.H., Pilipp, W., Voges, W., Zink, S.M.: 1977, A survey on initial results of the HELIOS plasma experiment. J. Geophys. 42, 561.
+Ruffolo, D., et al.: 2006, Relativistic solar protons on 1989 October 22: Injection and transport along both legs of a closed interplanetary magnetic loop. Astrophys. J. 639, 1186.
+Schatten, K.H., Ness, N.F., Wilcox, J.M.: 1968, Influence of a solar active region on the interplanetary magnetic field. Solar Phys. 5, 240.
+Schulte in den Bäumen, H., Cairns, I.H., Robinson, P.A.: 2011, Modeling 1 AU solar wind observations to estimate azimuthal magnetic fields at the solar source surface. Geophys. Res. Lett. 38, L24101.
+Schulte in den Bäumen, H., Cairns, I.H., Robinson, P.A.: 2012, Nonzero azimuthal magnetic fields at the solar source surface: Extraction, model, and implications. J. Geophys. Res. 117, 104.
+Schwadron, N.A., Connick, D.E., Smith, C.W.: 2010, Magnetic flux balance in the heliosphere. Astrophys. J. Lett. 722, L132.
+Smith, E.J.: 1979, Interplanetary magnetic fields. Rev. Geophys. 17, 610.
+Suzuki, S., Dulk, G.A.: 1985, Bursts of type III and type V. In: Solar Radiophysics, Cambridge University Press, Cambridge.
+Tasnim, S., Cairns, I.H.: 2016, An equatorial solar wind model with angular momentum conservation and non-radial magnetic fields and flow velocities at an inner boundary. J. Geophys. Res. 121, 4966.
+Tasnim, S., Cairns, I.H., Wheatland, M.S.: 2018, A generalized equatorial model for the accelerating solar wind. J. Geophys. Res. 123, 1061.
+Thomas, B.T., Smith, E.J.: 1980, The parker spiral configuration of the interplanetary magnetic field between 1 and 8.5 AU. J. Geophys. Res. 85, 6861.
+Veselovsky, I.S., Persiantsev, I.G., Shugai, Y.S.: 2006, Forecast of the solar wind velocity and the interplanetary magnetic field radial component polarity at the phase of decay of solar cycle 23. Geomagn. Aeron. 46, 701.

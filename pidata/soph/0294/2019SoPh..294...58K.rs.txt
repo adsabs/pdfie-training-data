@@ -1,0 +1,46 @@
+Aschwanden, M.J.: 1987, Theory of radio pulsations in coronal loops. Solar Phys. 111, 113.
+Bard, S., Carlsson, M.: 2008, Constructing computationally tractable models of Si I for the 1082.7 nm transition. Astrophys. J. 682, 1376.
+Brosius, J.W., Inglis, A.R.: 2018, Localized quasi-periodic fluctuations in C II, Si IV, and Fe XXI emission during chromospheric evaporation in a flare ribbon observed by IRIS on 2017 September 9. Astrophys. J. 867, 85.
+Centeno, R., Collados, M., Trujillo Bueno, J.: 2006, Oscillations and wave propagation in different solar magnetic features. In: Casini, R., Lites, B.W. (eds.) Solar Polarization 4, Astronomical Society of the Pacific Conference Series 358, 465.
+Chelpanov, A.A., Kobanov, N.I.: 2018, Oscillations accompanying a He I 10830 Å negative flare in a solar facula. Solar Phys. 293, 157.
+Chelpanov, A.A., Kobanov, N.I., Kolobov, D.Y.: 2015, Characteristics of oscillations in magnetic knots of solar faculae. Astron. Rep. 59, 968.
+De Moortel, I., Ireland, J., Hood, A.W., Walsh, R.W.: 2002, The detection of 3 and 5 min period oscillations in coronal loops. Astron. Astrophys. 387, L13.
+De Pontieu, B., Erdélyi, R., de Wijn, A.G.: 2003, Intensity oscillations in the upper transition region above active region plage. Astrophys. J. Lett. 595, L63.
+de Wijn, A.G., McIntosh, S.W., De Pontieu, B.: 2009, On the propagation of p-modes into the solar chromosphere. Astrophys. J. Lett. 702, L168.
+Dominique, M., Zhukov, A.N., Dolla, L., Inglis, A., Lapenta, G.: 2018, Detection of quasi-periodic pulsations in solar EUV time series. Solar Phys. 293, 61.
+Emslie, A.G., Sturrock, P.A.: 1982, Temperature minimum heating in solar flares by resistive dissipation of Alfven waves. Solar Phys. 80, 99.
+Fletcher, L., Hudson, H.S.: 2008, Impulsive phase flare energy transport by large-scale Alfvén waves and the electron acceleration problem. Astrophys. J. 675, 1645.
+Grechnev, V.V., White, S.M., Kundu, M.R.: 2003, Quasi-periodic pulsations in a solar microwave burst. Astrophys. J. 588, 1163.
+Inglis, A.R., Ireland, J., Dennis, B.R., Hayes, L., Gallagher, P.: 2016, A large-scale search for evidence of quasi-periodic pulsations in solar flares. Astrophys. J. 833, 284.
+Khomenko, E., Centeno, R., Collados, M., Trujillo Bueno, J.: 2008, Channeling 5 minute photospheric oscillations into the solar outer atmosphere through small-scale vertical magnetic flux tubes. Astrophys. J. Lett. 676, L85.
+Kislyakov, A.G., Zaitsev, V.V., Stepanov, A.V., Urpo, S.: 2006, On the possible connection between photospheric 5-min oscillation and solar flare microwave emission. Solar Phys. 233, 89.
+Kobanov, N., Chelpanov, A., Pulyaev, V.: 2018, Negative flare in the He I 10830 Å line in facula. J. Atmos. Solar-Terr. Phys. 173, 50.
+Kobanov, N.I.: 1990, On spatial characteristics of five-minute oscillations in the sunspot umbra. Solar Phys. 125, 25.
+Kobanov, N.I.: 2001, Measurements of the differential line-of-sight velocity and longitudinal magnetic field on the Sun with CCD photodetector: part I. Modulationless techniques. Instrum. Exp. Tech. 4, 110.
+Kobanov, N.I., Chelpanov, A.A., Kolobov, D.Y.: 2013, Oscillations above sunspots from the temperature minimum to the corona. Astron. Astrophys. 554, A146.
+Kobanov, N., Kolobov, D., Kustov, A., Chupin, S., Chelpanov, A.: 2013, Direct measurement results of the time lag of LOS-velocity oscillations between two heights in solar faculae and sunspots. Solar Phys. 284, 379.
+Kolotkov, D.Y., Anfinogentov, S.A., Nakariakov, V.M.: 2016, Empirical mode decomposition analysis of random processes in the solar atmosphere. Astron. Astrophys. 592, A153.
+Krishna Prasad, S., Jess, D.B., Khomenko, E.: 2015, On the source of propagating slow magnetoacoustic waves in sunspots. Astrophys. J. Lett. 812, L15.
+Kupriyanova, E.G., Melnikov, V.F., Nakariakov, V.M., Shibasaki, K.: 2010, Types of microwave quasi-periodic pulsations in single flaring loops. Solar Phys. 267, 329.
+Kupriyanova, E.G., Kashapova, L.K., Van Doorsselaere, T., Chowdhury, P., Srivastava, A.K., Moon, Y.-J.: 2019, Quasi-periodic pulsations in a solar flare with an unusual phase shift. Mon. Not. Roy. Astron. Soc. 483, 5499.
+Kuznetsov, S.A., Zimovets, I.V., Morgachev, A.S., Struminsky, A.B.: 2016, Spatio-temporal dynamics of sources of hard X-ray pulsations in solar flares. Solar Phys. 291, 3385.
+Leenaarts, J., Carlsson, M., Rouppe van der Voort, L.: 2012, The formation of the Hα line in the solar chromosphere. Astrophys. J. 749, 136.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lin, R.P., Dennis, B.R., Hurford, G.J., Smith, D.M., Zehnder, A., Harvey, P.R., Curtis, D.W., Pankow, D., Turin, P., Bester, M., Csillaghy, A., Lewis, M., Madden, N., van Beek, H.F., Appleby, M., Raudorf, T., McTiernan, J., Ramaty, R., Schmahl, E., Schwartz, R., Krucker, S., Abiad, R., Quinn, T., Berg, P., Hashii, M., Sterling, R., Jackson, R., Pratt, R., Campbell, R.D., Malone, D., Landis, D., Barrington-Leigh, C.P., Slassi-Sennou, S., Cork, C., Clark, D., Amato, D., Orwig, L., Boyle, R., Banks, I.S., Shirey, K., Tolbert, A.K., Zarro, D., Snow, F., Thomsen, K., Henneck, R., McHedlishvili, A., Ming, P., Fivian, M., Jordan, J., Wanner, R., Crubb, J., Preble, J., Matranga, M., Benz, A., Hudson, H., Canfield, R.C., Holman, G.D., Crannell, C., Kosugi, T., Emslie, A.G., Vilmer, N., Brown, J.C., Johns-Krull, C., Aschwanden, M., Metcalf, T., Conway, A.: 2002, The Reuven Ramaty High-Energy Solar Spectroscopic Imager (RHESSI). Solar Phys. 210, 3.
+Liu, W., Title, A.M., Zhao, J., Ofman, L., Schrijver, C.J., Aschwanden, M.J., De Pontieu, B., Tarbell, T.D.: 2011, Direct imaging of quasi-periodic fast propagating waves of ∼ 2000 km s
+McLaughlin, J.A., Nakariakov, V.M., Dominique, M., Jelínek, P., Takasao, S.: 2018, Modelling quasi-periodic pulsations in solar and stellar flares. Space Sci. Rev. 214, 45.
+Milligan, R.O., Fleck, B., Ireland, J., Fletcher, L., Dennis, B.R.: 2017, Detection of three-minute oscillations in full-disk Lyα emission during a solar flare. Astrophys. J. Lett. 848, L8.
+Nakariakov, V.M., Melnikov, V.F.: 2009, Quasi-periodic pulsations in solar flares. Space Sci. Rev. 149, 119.
+Nakariakov, V.M., Zimovets, I.V.: 2011, Slow magnetoacoustic waves in two-ribbon flares. Astrophys. J. Lett. 730, L27.
+Nakariakov, V.M., Pilipenko, V., Heilig, B., Jelínek, P., Karlický, M., Klimushkin, D.Y., Kolotkov, D.Y., Lee, D.-H., Nisticò, G., Van Doorsselaere, T., Verth, G., Zimovets, I.V.: 2016, Magnetohydrodynamic oscillations in the solar corona and Earth’s magnetosphere: towards consolidated understanding. Space Sci. Rev. 200, 75.
+Ning, Z.: 2014, Imaging observations of X-ray quasi-periodic oscillations at 3 – 6 keV in the 26 December 2002 solar flare. Solar Phys. 289, 1239.
+Nisticò, G., Pascoe, D.J., Nakariakov, V.M.: 2014, Observation of a high-quality quasi-periodic rapidly propagating wave train using SDO/AIA. Astron. Astrophys. 569, A12.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pugh, C.E., Nakariakov, V.M., Broomhall, A.-M., Bogomolov, A.V., Myagkova, I.N.: 2017, Properties of quasi-periodic pulsations in solar flares from a single active region. Astron. Astrophys. 608, A101.
+Rayrole, J.: 1967, Contribution à l’Étude de la Structure du Champ Magnétique dans les Taches Solaires. Ann. Astrophys. 30, 257.
+Sych, R., Nakariakov, V.M., Karlicky, M., Anfinogentov, S.: 2009, Relationship between wave processes in sunspots and quasi-periodic pulsations in active region flares. Astron. Astrophys. 505, 791.
+Terekhov, O.V., Shevchenko, A.V., Kuz’min, A.G., Sazonov, S.Y., Sunyaev, R.A., Lund, N.: 2002, Observation of quasi-periodic pulsations in the solar flare SF 900610. Astron. Lett. 28, 397.
+Yuan, D., Shen, Y., Liu, Y., Nakariakov, V.M., Tan, B., Huang, J.: 2013, Distinct propagating fast wave trains associated with flaring energy releases. Astron. Astrophys. 554, A144.
+Zhang, Y., Zhang, J., Wang, J., Nakariakov, V.M.: 2015, Coexisting fast and slow propagating waves of the extreme-UV intensity in solar coronal plasma structures. Astron. Astrophys. 581, A78.
+Zhao, J., Felipe, T., Chen, R., Khomenko, E.: 2016, Tracing p-mode waves from the photosphere to the corona in active regions. Astrophys. J. Lett. 830, L17.
+Zimovets, I.V., Struminsky, A.B.: 2009, Imaging observations of quasi-periodic pulsatory nonthermal emission in two-ribbon solar flares. Solar Phys. 258, 69.

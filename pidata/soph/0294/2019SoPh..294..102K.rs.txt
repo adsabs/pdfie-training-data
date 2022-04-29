@@ -1,0 +1,31 @@
+Abramenko, V.I.: 2005, Relationship between magnetic power spectrum and flare productivity in solar active regions. Astrophys. J. 629, 1141.
+Abramenko, V., Yurchyshyn, V., Wang, H., Goode, P.R.: 2001, Magnetic power spectra derived from ground and space measurements of the solar magnetic fields. Solar Phys. 201, 225.
+Bernasconi, P.N., Rust, D.M., Georgoulis, M.K., Labonte, B.J.: 2002, Moving dipolar features in an emerging flux region. Solar Phys. 209, 119.
+Biskamp, D.: 1993, Nonlinear Magnetohydrodynamics, Cambridge Monographs on Plasma Physics, Cambridge University Press, New York, 378.
+Bobra, M.G., Sun, X., Hoeksema, J.T., Turmon, M., Liu, Y., Hayashi, K., Barnes, G., Leka, K.D.: 2014, The Helioseismic and Magnetic Imager (HMI) Vector Magnetic Field Pipeline: SHARPs – Space-Weather HMI Active Region Patches. Solar Phys. 289, 3549.
+Borrero, J.M., Tomczyk, S., Kubo, M., Socas-Navarro, H., Schou, J., Couvidat, S., Bogart, R.: 2011, VFISV: Very Fast Inversion of the Stokes Vector for the Helioseismic and Magnetic Imager. Solar Phys. 273, 267.
+Brants, J.J.: 1985, High-resolution spectroscopy of active regions. II Line-profile interpretation, applied to an emerging flux region. Solar Phys. 95, 15.
+Centeno, R.: 2012, The naked emergence of solar active regions observed with SDO/HMI. Astrophys. J. 759, 72.
+Chen, F., Rempel, M., Fan, Y.: 2017, Emergence of magnetic flux generated in a solar convective dynamo. I. The formation of sunspots and active regions, and the origin of their asymmetries. Astrophys. J. 846, 149.
+Cheung, M.C.M., Isobe, H.: 2014, Flux emergence (theory). Living Rev. Solar Phys. 11, 3.
+Cheung, M.C.M., van Driel-Gesztelyi, L., Martínez Pillet, V., Thompson, M.J.: 2017, The life cycle of active region magnetic fields. Space Sci. Rev. 210, 317.
+Couvidat, S., Rajaguru, S.P., Wachter, R., Sankarasubramanian, K., Schou, J., Scherrer, P.H.: 2012a, Line-of-sight observables algorithms for the Helioseismic and Magnetic Imager (HMI) instrument tested with Interferometric Bidimensional Spectrometer (IBIS) observations. Solar Phys. 278, 217.
+Couvidat, S., Schou, J., Shine, R.A., Bush, R.I., Miles, J.W., Scherrer, P.H., Rairden, R.L.: 2012b, Wavelength dependence of the Helioseismic and Magnetic Imager (HMI) instrument onboard the Solar Dynamics Observatory (SDO). Solar Phys. 275, 285.
+Fan, Y.: 2009, Magnetic fields in the solar convection zone. Living Rev. Solar Phys. 6, 4.
+Fan, Y., Fang, F.: 2014, A simulation of convective dynamo in the solar convective envelope: maintenance of the solar-like differential rotation and emerging flux. Astrophys. J. 789, 35.
+Hewett, R.J., Gallagher, P.T., McAteer, R.T.J., Young, C.A., Ireland, J., Conlon, P.A., Maguire, K.: 2008, Multiscale analysis of active region evolution. Solar Phys. 248, 311.
+Hoeksema, J.T., Liu, Y., Hayashi, K., Sun, X., Schou, J., Couvidat, S., Norton, A., Bobra, M., Centeno, R., Leka, K.D., Barnes, G., Turmon, M.: 2014, The Helioseismic and Magnetic Imager (HMI) vector magnetic field pipeline: overview and performance. Solar Phys. 289, 3483.
+Kutsenko, A.S., Abramenko, V.I.: 2016, Using SDO/HMI magnetograms as a source of the solar mean magnetic field data. Solar Phys. 291, 1613.
+Leka, K.D., Barnes, G., Wagner, E.L.: 2017, Evaluating (and improving) estimates of the solar radial magnetic field component from line-of-sight magnetograms. Solar Phys. 292, 36.
+Leka, K.D., Barnes, G., Crouch, A.D., Metcalf, T.R., Gary, G.A., Jing, J., Liu, Y.: 2009, Resolving the 180° ambiguity in solar vector magnetic field data: evaluating the effects of noise, spatial resolution, and method assumptions. Solar Phys. 260, 83.
+Lites, B.W., Skumanich, A., Martinez Pillet, V.: 1998, Vector magnetic fields of emerging solar flux. I. Properties at the site of emergence. Astron. Astrophys. 333, 1053.
+Liu, Y., Hoeksema, J.T., Scherrer, P.H., Schou, J., Couvidat, S., Bush, R.I., Duvall, T.L., Hayashi, K., Sun, X., Zhao, X.: 2012, Comparison of line-of-sight magnetograms taken by the Solar Dynamics Observatory/Helioseismic and Magnetic Imager and Solar and Heliospheric Observatory/Michelson Doppler Imager. Solar Phys. 279, 295.
+Mandage, R.S., McAteer, R.T.J.: 2016, On the non-Kolmogorov nature of flare-productive solar active regions. Astrophys. J. 833, 237.
+Metcalf, T.R.: 1994, Resolving the 180-degree ambiguity in vector magnetic field measurements: the ‘minimum’ energy solution. Solar Phys. 155, 235.
+Norton, A.A., Graham, J.P., Ulrich, R.K., Schou, J., Tomczyk, S., Liu, Y., Lites, B.W., López Ariste, A., Bush, R.I., Socas-Navarro, H., Scherrer, P.H.: 2006, Spectral line selection for HMI: a comparison of Fe i 6173 Å and Ni i 6768 Å. Solar Phys. 239, 69.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I. (MDI Engineering Team): 1995, The solar oscillations investigation – Michelson Doppler Imager. Solar Phys. 162, 129.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Strous, L.H., Zwaan, C.: 1999, Phenomena in an emerging active region. II. Properties of the dynamic small-scale structure. Astrophys. J. 527, 435.
+van Driel-Gesztelyi, L., Green, L.M.: 2015, Evolution of active regions. Living Rev. Solar Phys. 12, 1.
+Zwaan, C.: 1985, The emergence of magnetic flux. Solar Phys. 100, 397.

@@ -1,0 +1,37 @@
+Aschwanden, M.J., Boerner, P., Schrijver, C.J., Malanushenko, A.: 2013, Solar Phys. 283, 5.
+Boerner, P., Edwards, C., Lemen, J., Rausch, A., Schrijver, C., Shine, R., et al.: 2012, Solar Phys. 275, 41.
+Culhane, J.L., Harra, L.K., James, A.M., Al-Janabi, K., Bradley, L.J., Chaudry, R.A., et al.: 2007, Solar Phys. 243, 61.
+Del Zanna, G., Dere, K.P., Young, P.R., Landi, E., Mason, H.E.: 2015, Astron. Astrophys. 582, A56.
+Fisher, G.H., Canfield, R.C., McClymont, A.N.: 1984, Astrophys. J. 281, L79.
+Freeland, S.L., Handy, B.N.: 1998, Solar Phys. 182, 500.
+Golub, L., Deluca, E., Austin, G., Bookbinder, J., Caldwell, D., Cheimets, P., et al.: 2007, Solar Phys. 243, 63.
+Imada, S., Murakami, I., Watanabe, T.: 2015, Phys. Plasmas 22, 101206.
+Imada, S., Hara, H., Watanabe, T., Kamio, S., Asai, A., Matsuzaki, K., et al.: 2007, Publ. Astron. Soc. Japan 59, 793.
+Imada, S., Murakami, I., Watanabe, T., Hara, H., Shimizu, T.: 2011a, Astrophys. J. 742, 11.
+Imada, S., Hara, H., Watanabe, T., Murakami, I., Harra, L.K., Shimizu, T., Zweibel, E.G.: 2011b, Astrophys. J. 743, 57.
+Imada, S., Aoki, K., Hara, H., Watanabe, T., Harra, L.K., Shimizu, T.: 2013, Astrophys. J. Lett. 776, L11.
+Innes, D.E., et al.: 2003, Solar Phys. 217, 267.
+Kamio, S., Hara, H., Watanabe, T., Matsuzaki, K., Shibata, K., Culhane, L., Warren, H.P.: 2007, Publ. Astron. Soc. Japan 59, S757.
+Kamio, S., Hara, H., Watanabe, T., Fredvik, T., Hansteen, V.H.: 2010, Solar Phys. 266, 209.
+Kumar, P., Karpen, J.T., Antiochos, S.K., Wyper, P.F., DeVore, C.R., DeForest, C.E.: 2019, Astrophys. J. 873, 93.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, Solar Phys. 275, 40.
+Madjarska, M.S.: 2011, Astron. Astrophys. 526, A19.
+Matsui, Y., Yokoyama, T., Kitagawa, N., Imada, S.: 2012, Astrophys. J. 759, 15.
+Milligan, R.O., Dennis, B.R.: 2009, Astrophys. J. 699, 968.
+Moore, R.L., Cirtain, J.W., Sterling, A.C., Falconer, D.A.: 2010, Astrophys. J. 720, 757.
+Moore, R.L., Sterling, A.C., Falconer, D.A., Robe, D.: 2013, Astrophys. J. 769, 134.
+Narukage, N., Sakao, T., Kano, R., Shimojo, M., Winebarger, A., Weber, M., Reeves, K.K.: 2014, Solar Phys. 289, 1029.
+Ogawara, Y., Takano, T., Kato, T., Kosugi, T., Tsuneta, S., Watanabe, T., Kondo, I.: 1991, Solar Phys. 136, 1.
+Panesar, N.K., Sterling, A.C., Moore, R.L.: 2018, Astrophys. J. 853, 189.
+Shen, Y., Liu, Y.D., Su, J., Qu, Z., Tian, Z.: 2017, Astrophys. J. 851, 67.
+Shibata, K., Ishido, Y., Acton, L.W., Strong, K.T., Hirayama, T., Uchida, Y., et al.: 1992, Publ. Astron. Soc. Japan 44, L173.
+Shibata, K., Nitta, N., Matsumoto, R., Tajima, T., Yokoyama, T., Hirayama, T., Hudson, H.: 1994, In: Uchida, Y., Watanabe, T., Shibata, K., Hudson, H.S. (eds.) X-Ray Solar Physics from Yohkoh, Universal Academy Press, Tokyo, 29.
+Sterling, A.C., Moore, R.L., Falconer, D.A., Adams, M.: 2015, Nat. Lett. 523, 7561.
+Sterling, A.C., Moore, R.L., Falconer, D.A., Panesar, N.K., Martinez, S.: 2017, Astrophys. J. 844, 28.
+Strong, K.T., Harvey, K., Hirayama, T., Nitta, N., Shimizu, T., Tsuneta, S.: 1992, Publ. Astron. Soc. Japan 44, L161.
+Tian, H., McIntosh, S.W., Xia, L., He, J., Wang, X.: 2012, Astrophys. J. 748, 106.
+Tsuneta, S., Acton, L., Bruner, M., Lemen, J., Brown, W., Caravalho, R., et al.: 1991, Solar Phys. 136, 37.
+Wyper, P.F., DeVore, C.R., Antiochos, S.K.: 2018, Astrophys. J. 852, 98.
+Yokoyama, T., Shibata, K.: 1995, Nature 375, 42.
+Young, P.R.: 2015, Astrophys. J. 801, 124.
+Young, P.R., Muglach, K.: 2014, Publ. Astron. Soc. Japan 66, S12.

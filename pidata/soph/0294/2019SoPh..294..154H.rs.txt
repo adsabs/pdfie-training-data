@@ -1,0 +1,42 @@
+Abunina, M., Papaioannou, A., Gerontidou, M., Paschalis, P., Abunin, A., Gaidash, S., Tsepakina, I., Malimbayev, A., Belov, A., Mavromichalaki, H., Kryakunova, O., Velinov, P.: 2013, Forecasting geomagnetic conditions in near-Earth space. J. Phys. Conf. Ser. 409(1), 012197.
+Allison, P.D.: 1982, Discrete-time methods for the analysis of event histories. Sociol. Method. 13(1982), 61.
+Baker, D.N.: 1998, What is space weather? Adv. Space Res. 22(1), 7.
+Balan, N., Batista, I.S., Tulasi Ram, S., Rajesh, P.K.: 2016, A new parameter of geomagnetic storms for the severity of space weather. Geosci. Lett. 3, 3.
+Bartels, J., Heck, N.H., Johnston, H.F.: 1939, The three-hour-range index measuring geomagnetic activity. Terr. Magn. Atmos. Electr. 44(4), 411.
+Borovsky, J.E., Denton, M.H.: 2006, Differences between CME-driven storms and CIR-driven storms. J. Geophys. Res. Space Phys. 111(7), 1.
+Cannon, P., Angling, M., Barclay, L., Curry, C., Dyer, C., Edwards, R., Greene, G., Hapgood, M., Horne, R., Jackson, D., Mitchell, C., Owen, J., Richards, A., Rogers, C., Ryden, K., Saunders, S., Sweeting, M., Tanner, R., Thomson, A., Underwood, C.: 2016, Extreme Space Weather: Impacts on Engineered Systems and Infrastructures, 70. ISBN 1903496969.
+Carlin, J.B., Wolfe, R., Coffey, C., Patton, G.C.: 2005, Survival models: Analysis of binary outcomes in longitudinal studies using weighted estimating equations and discrete-time survival methods: Prevalence and incidence of smoking in an adolescent cohort. In: Tutorials in Biostatistics, Statistical Methods in Clinical Studies 1, 161.
+Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6, 47.
+Eastwood, J.P., Biffis, E., Hapgood, M.A., Green, L., Bisi, M.M., Bentley, R.D., Wicks, R., McKinnell, L.A., Gibbs, M., Burnett, C.: 2017, The economic impact of space weather: Where do we stand? Risk Anal. 37(2), 206.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (\mathit{Dst} ≤ -250~nT) during solar cycle 23. Geophys. Res. Lett. 35(6), L06S03.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99(A4), 5771.
+Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
+Hutchinson, J.A., Wright, D.M., Milan, S.E.: 2011, Geomagnetic storms over the last solar cycle: A superposed epoch analysis. J. Geophys. Res. Space Phys. 116(9), 1.
+Jolliffe, I., Stephenson, D.: 2003, Forecast Verification: A Practitioner’s Guide in Atmospheric Science.
+Joselyn, J.A.: 1995, Geomagnetic activity forecasting: The state of the art. Rev. Geophys. 33(3), 383.
+Kilpua, E.K.J., Olspert, N., Grigorievskiy, A., Käpylä, M.J., Tanskanen, E.I., Miyahara, H., Kataoka, R., Pelt, J., Liu, Y.D.: 2015, Statistical study of strong and extreme geomagnetic disturbances and solar cycle characteristics. Astrophys. J. 806(2), 272.
+Lockwood, M.: 2013, Reconstruction and prediction of variations in the open Solar Magnetic Flux and interplanetary conditions. Living Rev. Solar Phys. 10, 4.
+Lockwood, M., Owens, M.J., Barnard, L.A., Bentley, S., Scott, C.J., Watt, C.E.: 2016, On the origins and timescales of geoeffective IMF. Space Weather 14(6), 406.
+Lockwood, M., Chambodut, A., Barnard, L.A., Owens, M.J., Mendel, V.: 2018a, A homogeneous \mathit{aa} index: 1. Secular variation. J. Space Weather Space Clim. 8, A53.
+Lockwood, M., Finch, I.D., Chambodut, A., Barnard, L.A., Owens, M.J., Clarke, E.: 2018b, A homogeneous \mathit{aa} index: 2. Hemispheric asymmetries and the equinoctial variation. J. Space Weather Space Clim. 8, A58.
+Lockwood, M., Chambodut, A., Finch, I.D., Barnard, L.A., Owens, M.J., Haines, C.: 2019, Time-of-day/time-of-year response functions of planetary geomagnetic indices. J. Space Weather Space Clim. 9, A20.
+Lundstedt, H., Gleisner, H., Wintoft, P.: 2003, Operational forecasts of the geomagnetic \mathit{Dst} index. Geophys. Res. Lett. 29(24), 34.
+Mayaud, P.-N.: 1971, Une mesure planétaire d’activité magnetique, basée sur deux observatoires antipodaux. Ann. Geophys. 27, 67.
+Mayaud, P.-N.: 1980, Derivation, Meaning, and Use of Geomagnetic Indices, Geophysical Monograph Series 22, AGU, Washington.
+Mourenas, D., Artemyev, A.V., Zhang, X.J.: 2018, Statistics of extreme time-integrated geomagnetic activity. Geophys. Res. Lett. 45, 502.
+Oughton, E.J., Skelton, A., Horne, R.B., Thomson, A.W.P., Gaunt, C.T.: 2017, Quantifying the daily economic impact of extreme space weather due to failure in electricity transmission infrastructure. Space Weather 15(1), 65.
+Owens, M.J., Challen, R., Methven, J., Henley, E., Jackson, D.R.: 2013, A 27 day persistence model of near-Earth solar wind conditions: A long lead-time forecast and a benchmark for dynamical models. Space Weather 11(5), 225.
+Patel, K.J., Patel, J.A., Mehta, R.S., Rathod, S.B., Rajput, V.N., Pandya, K.S.: 2016, An analytic review of geomagnetically induced current effects in power system. In: International Conference on Electrical, Electronics, and Optimization Techniques, ICEEOT 2016, 3906.
+Richardson, I.G.: 2004, Energetic particles and corotating interaction regions in the solar wind. Space Sci. Rev. 111(3 – 4), 267.
+Richardson, I.G., Cliver, E.W., Cane, H.V.: 2001, Sources of geomagnetic storms for solar minimum and maximum conditions during 1972 – 2000. Geophys. Res. Lett. 28(13), 2569.
+Riley, P.: 2012, On the probability of occurrence of extreme space weather events. Space Weather 10(2), 1.
+Riley, P., Love, J.J.: 2017, Extreme geomagnetic storms: Probabilistic forecasts and their uncertainties. Space Weather 15(1), 53.
+Riley, P., Baker, D., Liu, Y.D., Verronen, P., Singer, H., Güdel, M.: 2018, Extreme space weather events: From cradle to grave. Space Sci. Rev. 214, 21.
+Singer, J.D., Willett, J.B.: 1993, It’s about time: Using discrete-time survival analysis to study duration and the timing of events. J. Educ. Stat. 18(2), 155.
+Trichtchenko, L., Boteler, D.H.: 2004, Modeling geomagnetically induced currents using geomagnetic indices and data. IEEE Trans. Plasma Sci. 32(4), 1459.
+Trichtchenko, L., Boteler, D.H.: 2007, Effects of recent geomagnetic storms on power systems. IEEE Trans. Plasma Sci.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L.C., Guarnieri, F.L., Gopalswamy, N., Grande, M., Kamide, Y., Kasahara, Y., Lu, G., Mann, I., McPherron, R., Soraas, F., Vasyliunas, V.: 2006, Corotating solar wind streams and recurrent geomagnetic activity: A review. J. Geophys. Res. Space Phys. 111(7), 1.
+Vennerstrom, S., Lefevre, L., Dumbović, M., Crosby, N., Malandraki, O., Patsou, I., Clette, F., Veronig, A., Vršnak, B., Leer, K., Moretto, T.: 2016, Extreme geomagnetic storms – 1868 – 2010. Solar Phys. 291, 1447.
+Walach, M.-T., Grocott, A.: 2019, SuperDARN observations during geomagnetic storms, geomagnetically active times and enhanced solar wind driving. J. Geophys. Res. Space Phys. 124, 5828.
+Xie, H., Gopalswamy, N., Cyr, O.C.S., Yashiro, S.: 2008, Effects of solar wind dynamic pressure and preconditioning on large geomagnetic storms. Geophys. Res. Lett. 35(6), 6.
+Yokoyama, N., Kamide, Y.: 1997, Statistical nature of geomagnetic storms. J. Geophys. Res. Space Phys. 102(A7), 14215.

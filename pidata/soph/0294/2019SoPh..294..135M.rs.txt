@@ -1,0 +1,17 @@
+Aschwanden, M.J.: 2005, Physics of the Solar Corona. An Introduction with Problems and Solutions, 2nd edn. Springer, Berlin.
+Boerner, P.F., Testa, P., Warren, H., Weber, M.A., Schrijver, C.J.: 2014, Photometric and thermal cross-calibration of solar EUV instruments. Solar Phys. 289(6), 2377.
+Cheung, M.C.M., Boerner, P., Schrijver, C.J., Testa, P., Chen, F., Peter, H., Malanushenko, A.: 2015, Thermal Diagnostics with the Atmospheric Imaging Assembly on board the Solar Dynamics Observatory: A Validated Method for Differential Emission Measure Inversions. Astrophys. J. 807, 143.
+Del Zanna, G.: 2013, The multi-thermal emission in solar active regions. Astron. Astrophys. 558, A73.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – An atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Druckmüller, M.: 2009, Phase Correlation Method for the Alignment of Total Solar Eclipse Images. Astrophys. J. 706, 1605.
+Fisher, G.H., Welsch, B.T.: 2008, FLCT: A Fast, Efficient Method for Performing Local Correlation Tracking. In: Howe, R., Komm, R.W., Balasubramaniam, K.S., Petrie, G.J.D. (eds.) Subsurface and Atmospheric Influences on Solar Activity, Astron. Soc. Pacific Conf. Ser. 383, 373.
+Hahn, M., Landi, E., Savin, D.W.: 2011, Differential Emission Measure Analysis of a Polar Coronal Hole during the Solar Minimum in 2007. Astrophys. J. 736, 101.
+Hahn, M., Savin, D.W.: 2014, Evidence for Wave Heating of the Quiet-Sun Corona. Astrophys. J. 795, 111.
+Hannah, I.G., Kontar, E.P.: 2012, Differential emission measures from the regularized inversion of Hinode and SDO data. Astron. Astrophys. 539, A146.
+Landi, E., Del Zanna, G., Young, P.R., Dere, K.P., Mason, H.E.: 2012, CHIANTI – An Atomic Database for Emission Lines. XII. Version 7 of the Database. Astrophys. J. 744, 99.
+Mackovjak, Š., Dzifčáková, E., Dudík, J.: 2014, Differential emission measure analysis of active region cores and quiet Sun for the non-Maxwellian κ -distributions. Astron. Astrophys. 564, A130.
+Morgan, H., Druckmüller, M.: 2014, Multi-scale Gaussian normalization for solar image processing. Solar Phys. 289(8), 2945.
+Morgan, H., Taroyan, Y.: 2017, Global conditions in the solar corona from 2010 to 2017. Sci. Adv. 3(7), e1602056.
+Nuevo, F.A., Vásquez, A.M., Landi, E., Frazin, R.: 2015, Multimodel differential emission measure in the solar corona. Astrophys. J. 811(2), 128.
+Plowman, J., Kankelborg, C., Martens, P.: 2013, Fast Differential Emission Measure Inversion of Solar Coronal Data. Astrophys. J. 771, 2.
+Weber, M.A., Schmelz, J.T., DeLuca, E.E., Roames, J.K.: 2005, Isothermal Bias of the “Filter Ratio” Method for Observations of Multithermal Plasma. Astrophys. J. Lett. 635, 101.

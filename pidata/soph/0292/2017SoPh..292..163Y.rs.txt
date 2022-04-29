@@ -1,0 +1,36 @@
+Altyntsev, A.T., Kuznetsov, A.A., Meshalkina, N.S., Rudenko, G.V., Yan, Y.: 2005, On the origin of microwave zebra pattern. Astron. Astrophys. 431, 1037.
+Bárta, M., Karlický, M.: 2006, Interference patterns in solar radio spectra: high-resolution structural analysis of the corona. Astron. Astrophys. 450, 359.
+Bastian, T.S.: 1994, Angular scattering of solar radio emission by coronal turbulence. Astrophys. J. 426, 774.
+Benáček, J., Karlický, M., Yasnov, L.: 2017, Temperature dependent growth rates of the upper-hybrid waves and solar radio zebra patterns. Astron. Astrophys. 555, A1.
+Benz, A.O.: 1986, Millisecond radio spikes. Solar Phys. 104, 99.
+Buneman, O., Storey, L.R.O.: 1985, Simulations of fusion plasmas by A 3-D, E-M particle code. Technical report, Stanford Univ. Report, Stanford.
+Chen, B., Bastian, T.S., Gary, D.E., Jing, J.: 2011, Spatially and spectrally resolved observations of a zebra pattern in a solar decimetric radio burst. Astrophys. J. 736, 64.
+Chernov, G.P.: 2006, Solar radio bursts with drifting stripes in emission and absorption. Space Sci. Rev. 127, 195.
+Chernov, G.P., Yan, Y.H., Fu, Q.J.: 2003, A superfine structure in solar microwave bursts. Astron. Astrophys. 406, 1071.
+Chernov, G.P., Klein, K.L., Zlobec, P., Aurass, H.: 1994, Fine structure in a metric type 4 burst: multi-site spectrographic, polarimetric, and heliographic observations. Solar Phys. 155, 373.
+Dory, R.A., Guest, G.E., Harris, E.G.: 1965, Unstable electrostatic plasma waves propagating perpendicular to a magnetic field. Phys. Rev. Lett. 14, 131.
+Fleishman, G.D., Mel’nikov, V.F.: 1998, Reviews of topical problems: millisecond solar radio spikes. Phys. Usp. 41, 1157.
+Jiricka, K., Karlicky, M., Kepka, O., Tlamicha, A.: 1993, Fast drift burst observations with the new Ondrejov radiospectrograph. Solar Phys. 147, 203.
+Karlický, M.: 2013, Radio continua modulated by waves: zebra patterns in solar and pulsar radio spectra? Astron. Astrophys. 552, A90.
+Karlický, M., Bárta, M.: 2008, Fragmentation of the current sheet, anomalous resistivity, and acceleration of particles. Solar Phys. 247, 335.
+Karlický, M., Yasnov, L.V.: 2015, Determination of plasma parameters in solar zebra radio sources. Astron. Astrophys. 581, A115.
+Kuznetsov, A.A., Kontar, E.P.: 2015, Spatially resolved energetic electron properties for the 21 May 2004 flare from radio observations and 3D simulations. Solar Phys. 290, 79.
+Kuznetsov, A.A., Tsap, Y.T.: 2007, Loss-cone instability and formation of zebra patterns in type IV solar radio bursts. Solar Phys. 241, 127.
+LaBelle, J., Treumann, R.A., Yoon, P.H., Karlický, M.: 2003, A model of zebra emission in solar type IV radio bursts. Astrophys. J. 593, 1195.
+Matsumoto, H., Omura, Y.: 1993, Computer Space Plasma Physics: Simulation Techniques and Software, Terra Scientific, Tokyo, 305.
+Melrose, D.B.: 1985. In: McLean, D.J., Labrum, N.R. (eds.) Plasma Emission Mechanisms. Cambridge University Press, Cambridge, 177.
+Peter, H., Bingert, S.: 2012, Constant cross section of loops in the solar corona. Astron. Astrophys. 548, A1.
+Peter, H., Bingert, S., Klimchuk, J.A., de Forest, C., Cirtain, J.W., Golub, L., Winebarger, A.R., Kobayashi, K., Korreck, K.E.: 2013, Structure of solar coronal loops: from miniature to large-scale. Astron. Astrophys. 556, A104.
+Priest, E.: 2014, Magnetohydrodynamics of the Sun, Cambridge University Press, Cambridge.
+Selhorst, C.L., Silva-Válio, A., Costa, J.E.R.: 2008, Solar atmospheric model over a highly polarized 17 GHz active region. Astron. Astrophys. 488, 1079.
+Tan, B.: 2010, A physical explanation of solar microwave zebra pattern with the current-carrying plasma loop model. Astrophys. Space Sci. 325, 251.
+Tan, B., Tan, C., Zhang, Y., Huang, J., Mészárosová, H., Karlický, M., Yan, Y.: 2014, A very small and super strong zebra pattern burst at the beginning of a solar flare. Astrophys. J. 790, 151.
+Thejappa, G.: 1991, A self-consistent model for the storm radio emission from the Sun. Solar Phys. 132, 173.
+Watko, J.A., Klimchuk, J.A.: 2000, Width variations along coronal loops observed by TRACE. Solar Phys. 193, 77.
+Wiegelmann, T., Thalmann, J.K., Solanki S.K.,: 2014, The magnetic field in the solar atmosphere. Astron. Astrophys. Rev. 22, 78.
+Yasnov, L.V., Karlický, M.: 2015, Regions of generation and optical thicknesses of dm-zebra lines. Solar Phys. 290, 2001.
+Yasnov, L.V., Karlický, M., Stupishin, A.G.: 2016, Physical conditions in the source region of a zebra structure. Solar Phys. 291, 2037.
+Zaitsev, V.V., Stepanov, A.V.: 1983, The plasma radiation of flare kernels. Solar Phys. 88, 297.
+Zheleznyakov, V.V.: 1997, Radiation in Astrophysical Plasmas, in russian. Original russian title — “Izlucheniye v astrofizicheskoy plasme”, Yanus K., Moscow.
+Zheleznyakov, V.V., Zlotnik, E.Y.: 1975, Cyclotron wave instability in the corona and origin of solar radio emission with fine structure. III. Origin of zebra-pattern. Solar Phys. 44, 461.
+Zlotnik, E.Y.: 2013, Instability of electrons trapped by the coronal magnetic field and its evidence in the fine structure (zebra pattern) of solar radio spectra. Solar Phys. 284, 579.

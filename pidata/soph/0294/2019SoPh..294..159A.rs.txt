@@ -1,0 +1,32 @@
+Bothmer, V., Schwenn, R.: 1997, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16, 1.
+Cane, H.V., Sheeley, N.R., Howard, R.A.: 1987, Energetic interplanetary shocks, radio emission, and coronal mass ejections. J. Geophys. Res. 92(A9), 9869.
+Cliver, E.W., Nitta, N.V., Thompson, B.J., Zhang, J.: 2004, Coronal shocks of November 1997 revisited: The CME–type II timing problem. Solar Phys. 225(1), 105.
+Cook, N.B.: 2010, Analytical proof of the Taylor equation including Taylor’s constant Sγ which previously required numerical integration, with applications.
+Cowling, T.G.: 1953, The Solar System, vol. 1: The Sun. University of Chicago Press, Chicago, 533.
+Draine, B.T., McKee, C.F.: 1993, Theory of interstellar shocks. Annu. Rev. Astron. Astrophys. 31(1), 373.
+Emslie, A.G., Kucharek, H., Dennis, B.R., Gopalswamy, N., Holman, G.D., Share, G.H., Vourlidas, A., Forbes, T.G., Gallagher, P.T., Mason, G.M., Metcalf, T.R., Mewaldt, R.A., Murphy, R.J., Schwartz, R.A., Zurbuchen, T.H.: 2004, Energy partition in two solar flare/CME events. J. Geophys. Res., Space Phys. 109(A10).
+Emslie, A.G., Dennis, B.R., Shih, A.Y., Chamberlin, P.C., Mewaldt, R.A., Moore, C.S., Share, G.H., Vourlidas, A., Welsch, B.T.: 2012, Global energetics of thirty-eight large solar eruptive events. Astrophys. J. 759(1), 71.
+Fermo, R.L., Opher, M., Drake, J.F.: 2014, Magnetic reconnection in the interior of interplanetary coronal mass ejections. Phys. Rev. Lett. 113(3), 031101.
+Gopalswamy, N.: 2006, Coronal mass ejections and type II radio bursts. In: Gopalswamy, N., Mewaldt, R., Torsti, J. (eds.) Solar Eruptions and Energetic Particles, Geophys. Monograph. Ser. 165, AGU, Washington, 207.
+Gosling, J.T.: 1990, Coronal mass ejections and magnetic flux ropes in interplanetary space. In: Russell, C.T., Priest, E.R., Lee, L.C. (eds.) Physics of Magnetic Flux Ropes MS-58, AGU, Washington, 343.
+Kallenrode, M.B., Wibberenz, G., Kunow, H., Müller-Mellin, R., Stolpovskii, V., Kontor, N.: 1993, Multi-spacecraft observations of particle events and interplanetary shocks during November/December 1982. Solar Phys. 147(2), 377.
+Leblanc, Y., Dulk, G.A., Vourlidas, A., Bougeret, J.L.: 2001, Tracing shock waves from the corona to 1 AU: Type II radio emission and relationship with CMEs. J. Geophys. Res. 106(A11), 25301.
+Lengyel-Frey, D.: 1992, Location of the radio emitting regions of interplanetary shocks. J. Geophys. Res. 97(A2), 1609.
+Liu, Y., Luhmann, J.G., Bale, S.D., Lin, R.P.: 2009, Relationship between a coronal mass ejection driven shock and a coronal metric type II burst. Astrophys. J. Lett. 69 1(2), L151.
+Long, D.M., Baker, D., Williams, D.R., Carley, E.P., Gallagher, P.T., Zucca, P.: 2015, The energetics of a global shock wave in the low solar corona. Astrophys. J. 799(2), 224.
+Mann, G., Classen, T., Aurass, H.: 1995, Characteristics of coronal shock waves and solar type II radio bursts. Astron. Astrophys. 295, 775.
+Magdalenić, J., Vršnak, B., Pohjolainen, S., Temmer, M., Aurass, H., Lehtinen, N.J.: 2008, A flare generated shock during a coronal mass ejection on 24 December 1996. Solar Phys. 253(1–2), 305.
+Mahrous, A., Alielden, K., Vršnak, B., Youssef, M.: 2018, Type II solar radio burst band-splitting: 551 measure of coronal magnetic field strength. J. Atmos. Solar-Terr. Phys. 172, 75.
+Nelson, G.J., Melrose, D.B.: 1985, Type II bursts. In: MacLean, D.J., Labrum, N.R. (eds.) Solar Radiophysics: Studies of Emission from the Sun at Meter Wavelengths, Cambridge University Press, Cambridge, 333.
+Pikel’ner, S.B., Gintsburg, M.A.: 1964, The mechanism of type II bursts of solar radio emission. Soviet Astron. 7, 639.
+Reiner, M.J., Kaiser, M.L., Fainberg, J., Bougeret, J.L., Stone, R.G.: 1998, On the origin of radio emissions associated with the January 6 – 11, 1997, CME. Geophys. Res. lett. 25(14), 2493.
+Rogers, M.H.: 1957, Analytic solutions for the blast-wave problem with an atmosphere of varying 561 density. Astrophys. J. 125, 478.
+Sedov, L.I.: 1946, Propagation of strong shock waves. J. Appl. Math. Mech. 10(564), 241.
+Smerd, S.F., Sheridan, K.V., Stewart, R.T.: 1975, Split-band structure in type II radio bursts from the 567 Sun. Astrophys. Lett. 16, 23.
+Taylor, G.I.: 1950, The formation of a blast wave by a very intense explosion, I: Theoretical discussion. Proc. Roy. Soc. London Ser. A, Math. Phys. Sci. 201, 159. 1065.
+Vourlidas, A., Howard, R.A., Esfandiari, E., Patsourakos, S., Yashiro, S., Michalek, G.: 2010, Comprehensive analysis of coronal mass ejection mass and energy properties over a full solar cycle. Astrophys. J. 722, 1522.
+Vršnak, B., Aurassć, H., Magdalenić, J., Gopalswamy, N.: 2001, Band-splitting of coronal and interplanetary type II bursts-I. Basic properties. Astron. Astrophys. 377(1), 321.
+Vršnak, B., Magdalenić, J., Aurass, H., Mann, G.: 2002, Band-splitting of coronal and interplanetary type II 577 bursts, II: Coronal magnetic field and Alfvén velocity. Astron. Astrophys. 396(2), 673.
+Westfold, K.C.: 1957, Magnetohydrodynamic shock waves in the solar corona, with applications to bursts 580 of radio-frequency radiation. Phil. Mag. 2(23), 1287.
+White, S.M.: 2007, Solar radio bursts and space weather. Asian J. Phys. 16, 189.
+Wild, J.P., McCready, L.L.: 1950, Observations of the spectrum of high-intensity solar radiation at 585 metre wavelengths, I: The apparatus and spectral types of solar burst observed. Austral. J. Chem. 3(3), 387.

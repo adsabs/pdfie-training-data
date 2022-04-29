@@ -1,0 +1,94 @@
+Arlt, R.: 2008, Solar Phys. 247, 399.
+Ataç, T., Özgüç, A.: 1996, Solar Phys. 166, 201.
+Badalyan, O.G., Obridko, V.N.: 2011, New Astron. 16, 357.
+Bai, T.: 2003, Astrophys. J. 591, 406.
+Bai, T., Sturrock, P.: 1987, Nature 327, 601.
+Ballester, J.L., Oliver, R., Carbonell, M.: 2002, Astrophys. J. 566, 505.
+Ballester, J.L., Oliver, R., Carbonell, M.: 2005, Astron. Astrophys. 431, L5.
+Bazilevskaya, G., Broomhall, A.-M., Elsworth, Y., Nakariakov, V.M.: 2014, Space Sci. Rev. 186, 359.
+Beaudoin, P., Simard, C., Cossette, J.-F., Charbonneau, P.: 2016, Astrophys. J. 826, 138.
+Beer, J., Tobias, S.M., Weiss, N.O.: 2018, Mon. Not. Roy. Astron. Soc. 473, 1596.
+Belucz, B., Dikpati, M.: 2013, Astrophys. J. 779, 4.
+Broomhall, A.-M., Nakariakov, V.M.: 2015, Solar Phys. 290, 3095.
+Charbonneau, P.: 2010, Living Rev. Solar Phys. 7, 3.
+Chowdhury, P., Choudhary, D.P., Gosain, S.: 2013, Astrophys. J. 768, 188.
+Chowdhury, P., Dwivedi, B.N.: 2011, Solar Phys. 270, 365.
+Chowdhury, P., Khan, M., Ray, P.C.: 2009, Mon. Not. Roy. Astron. Soc. 392, 1159.
+Chowdhury, P., Gokhale, M.H., Singh, J., Moon, Y.-J.: 2016, Astrophys. Space Sci. 361, 54.
+Clette, F., Lefèvre, L.: 2016, Solar Phys. 291(9 – 10), 2629.
+Deng, L.H., Qu, Z.Q., Yan, X.L., Wang, K.R.: 2013, Res. Astron. Astrophys. 13, 104.
+Deng, L.H., Xiang, Y.Y., Qu, Z.N., An, J.M.: 2016, Astron. J. 151, 70.
+DeRosa, M.L., Brun, A.S., Hoeksema, J.T.: 2012, Astrophys. J. 757, 96.
+Di Matteo, S., Villante, U.: 2017, J. Geophys. Res. 122, 4905.
+Dobrica, V., Demetrescu, C., Mares, I., Mares, C.: 2018, Theor. Appl. Climatol. 133, 985.
+Donner, R., Thiel, M.: 2007, Astron. Astrophys. 475, L33.
+Dudok de Wit, T., Lefèvre, L., Clette, F.: 2016, Solar Phys. 291, 2709.
+Feng, S., Yu, L., Wang, F., Deng, H., Yang, Y.: 2017, Astrophys. J. 845, 11.
+Fletcher, S.T., Broomhall, A-M., Salabert, D., Basu, S., Chaplin, W.J., Elsworth, Y., Garcia, R.A., New, R.: 2010, Astrophys. J. Lett. 718, L19.
+Georgieva, K.: 2011, ISRN Astron. Astrophys. 2011, 437878.
+Ghil, M., Allen, M.R., Dettinger, M.D., Ide, K., Kondrashov, D., Mann, M.E., Robertson, A.W., Saunders, A., Tian, Y., Varadi, F., Yiou, P.: 2002, Rev. Geophys. 40, 1.
+Goel, A., Choudhuri, A.R.: 2009, Res. Astron. Astrophys. 9(1), 115.
+Grinsted, A., Moore, J.C., Jevrejeva, S.: 2004, Nonlinear Process. Geophys. 11, 561.
+Gurgenashvili, E., Zaqarashvili, T.V., Kukhianidze, V., Oliver, R., Ballester, J.L., Ramishvili, G., Shergelashvili, B., Hanslmeier, A., Poedts, S.: 2016, Astrophys. J. 826, 55.
+Gurgenashvili, E., Zaqarashvili, T.V., Kukhianidze, V., Oliver, R., Ballester, J.L., Dikpati, M., McIntosh, S.W.: 2017, Astrophys. J. 845, 137.
+Hathaway, D.H.: 2015, Living Rev. Solar Phys. 12, 4.
+Hathaway, D.H., Rightmire, L.: 2010, Science 327, 1350.
+Hathaway, D., Wilson, R., Reichmann, E.: 2002, Solar Phys. 211, 357.
+Javaraiah, J.: 2016, Astrophys. Space Sci. 361, 208.
+Javaraiah, J.: 2019, Solar Phys. 294, 64.
+Jennings, R.L., Weiss, N.O.: 1991, Mon. Not. Roy. Astron. Soc. 252, 249.
+Karak, B.B., Choudhuri, A.R.: 2011, Mon. Not. Roy. Astron. Soc. 410, 1503.
+Kilcik, A., Ozguc, A., Yurchyshyn, V.B., Rozelot, J.P.: 2014, Solar Phys. 289, 4365.
+Kilcik, A., Yurchyshyn, V., Clette, F., Ozguc, A., Rozelot, J.P.: 2016, Solar Phys. 291, 1077.
+Kilcik, A., Yurchyshyn, V., Donmez, B., Obridko, V.N., Ozguc, A., Rozelot, J.P.: 2018, Solar Phys. 293(4), 16.
+Knaack, R., Stenflo, J.O., Berdyugina, S.V.: 2005, Astron. Astrophys. 438, 1067.
+Kolotkov, D.Y., Broomhall, A.M., Nakariakov, V.M.: 2015, Mon. Not. Roy. Astron. Soc. 451, 4360.
+Komm, R., Howe, R., Hill, F., González Hernández, I., Haber, D.: 2011, Solar-cycle variation of zonal and meridional flow. J. Phys. Conf. Ser. 271(1), 012077.
+Krivova, N.A., Solanki, S.K.: 2002, Astron. Astrophys. 394, 701.
+Leussu, R., Usoskin, I.G., Senthamizh Pavai, V., Diercke, A., Arlt, R., Denker, C., Mursula, K.: 2017, Astron. Astrophys. 599, A131.
+Li, K.J.: 2009, Solar Phys. 255, 169.
+Li, K.J., Wang, J.X., Xiong, S.Y., Liang, H.F., Yun, H.S., Gu, X.M.: 2002, Astron. Astrophys. 383, 648.
+Li, K.J., Liu, X.H., Gao, P.X., Zhan, L.S.: 2010, New Astron. 15, 346.
+Löptien, B., Gizon, L., Birch, A.C., Schou, J., Proxauf, B., Duvall, T.L., Bogart, R.S., Christensen, U.R.: 2018, Nature Astron. 2, 568.
+Lou, Y.Q.: 2000, Astrophys. J. 540, 1102.
+Mandal, S., Hegde, M., Samanta, T., Hazra, G., Banerjee, D., Ravindra, B.: 2017, Astron. Astrophys. 601, A106.
+McIntosh, S.W., Leamon, R.J.: 2014, Astrophys. J. Lett. 796, L19.
+McIntosh, S.W., Leamon, R.J., Gurman, J.B., Olive, J.-P., Cirtain, J.W., Hathaway, D.H., et al.: 2013, Astrophys. J. 765, 146.
+McIntosh, S.W., Leamon, R.J., Krista, L.D., Title, A.M., Hudson, H.S., Riley, P., Harder, J.W., Kopp, G., Snow, M., Woods, T.N., Kasper, J.C., Stevens, M.L., Ulrich, R.K.: 2015, Nat. Commun. 6, 6491.
+McIntosh, S.W., Cramer, W.J., Pichardo Marcano, M., Leamon, R.J.: 2017, Nature Astron. 1, 0086.
+Muraközy, J., Ludmány, A.: 2012, Mon. Not. Roy. Astron. Soc. 419, 3624.
+Norton, A.A., Charbonneau, P., Passos, D.: 2014, Space Sci. Rev. 186, 251.
+Norton, A.A., Gallagher, J.C.: 2010, Solar Phys. 261, 193.
+Obridko, V.N., Badalyan, O.G.: 2014, Astron. Rep. 58, 936.
+Olemskoy, S.V., Kitchatinov, L.L.: 2013, Astrophys. J. 777, 71.
+Oliver, R., Ballester, J.L.: 1994, Solar Phys. 152, 481.
+Oliver, R., Ballester, J.L., Baudin, F.: 1998, Nature 394, 552.
+Ozguc, A., Atac, T., Rybak, J.: 2003, Solar Phys. 214, 375.
+Pevtsov, A.A., Bertello, L., Tlatov, A.G., Kilcik, A., Nagovitsyn, Y.A., Cliver, E.W.: 2014, Solar Phys. 289, 593.
+Pötzi, W., Polanec, W., Temmer, M.: 2013, Cent. Eur. Astrophys. Bull. 37, 655.
+Provost, J., Berthomieu, G., Rocca, A.: 1981, Astron. Astrophys. 94, 126.
+Rieger, E., Kanbach, G., Reppin, C., Share, G.H., Forrest, D.J., Chupp, E.L.: 1984, Nature 312, 623.
+Schüssler, M., Cameron, R.H.: 2018, Astron. Astrophys. 618, A89.
+Shibalova, A.S., Obridko, V.N., Sokoloff, D.D.: 2016, Astron. Rep. 60(10), 949.
+Shukuya, D., Kusano, K.: 2017, Astrophys. J. 835, 84.
+Sokoloff, D., Nesme-Ribes, E.: 1994, Astron. Astrophys. 288, 293.
+Sturrock, P.A., Bertello, L., Fischbach, E., Javorsek, D. II, Jenkins, J.H., Kosovichev, A., et al.: 2013, Astropart. Phys. 42, 62.
+Sturrock, P.A., Bush, R., Gough, D.O., Scargle, J.D.: 2015, Astrophys. J. 804, 47.
+Svalgaard, L., Kamide, Y.: 2013, Astrophys. J. 763, 23.
+Temmer, M., Veronig, A., Hanslmeier, A.: 2002, Astron. Astrophys. 390, 707.
+Temmer, M., Rybák, J., Bendík, P., Veronig, A., Vogler, F., Otruba, W., Pötzi, W., Hanslmeier, A.: 2006, Astron. Astrophys. 447, 735.
+Torrence, C., Compo, G.P.: 1998, Bull. Am. Meteorol. Soc. 79, 61.
+Usoskin, I.G.: 2017, Living Rev. Solar Phys. 14, 3.
+Usoskin, I.G., Mursula, K., Arlt, R., Kovaltsov, G.A.: 2009, Astrophys. J. Lett. 700, L154.
+Vaquero, J.M.: 2007, Adv. Space Res. 40, 929.
+Vecchio, A., Laurenza, M., Meduri, D., Carbone, V., Storini, M.: 2012, Astrophys. J. 749, 27.
+Waldmeier, M.: 1935, Mitt. Eidgen. Sternw. Zurich 14, 105.
+Waldmeier, M.: 1971, Solar Phys. 20, 332.
+Wolff, C.L.: 1992, Solar Phys. 142, 187.
+Zaatri, A.A., Komm, R., González Hernández, I., Howe, R., Corbard, T.: 2006, Solar Phys. 236, 227.
+Zaqarashvili, T.: 2018, Astrophys. J. 856, 32.
+Zaqarashvili, T.V., Carbonell, M., Oliver, R., Ballester, J.L.: 2010, Astrophys. J. Lett. 724, L95.
+Zhang, J., Feng, W.: 2015, Astron. J. 150, 74.
+Zhao, J., Kosovichev, A.G., Bogart, R.S.: 2014, Astrophys. J. Lett. 789, L7.
+Zolotova, N.V., Ponyavin, D.I.: 2006, Astron. Astrophys. 449, L1.
+Zolotova, N.V., Ponyavin, D.I., Marwan, N., Kurths, J.: 2009, Astron. Astrophys. 503, 197.

@@ -1,0 +1,40 @@
+Baker, D.N., Li, X., Turner, N., Allen, J.H., Bargatze, L.F., Blake, J.B., et al.: 1997, Recurrent geomagnetic storms and relativistic electron enhancements in the outer magnetosphere: ISTP coordinated measurements. J. Geophys. Res. 102(A7), 14141.
+Baker, D.N., Kanekal, S.G., Hoxie, V.C., Batiste, S., Bolton, M., Li, X., et al.: 2013, The relativistic electron-proton telescope (rept) instrument on board the radiation belt storm probes (rbsp) spacecraft: Characterization of earth’s radiation belt high-energy particle populations. Space Sci. Rev. 179(1), 337.
+Borovsky, J.E., Denton, M.H.: 2016, Compressional perturbations of the dayside magnetosphere during high-speed-stream-driven geomagnetic storms. J. Geophys. Res. 121(5), 4569.
+Crooker, N.U.: 2000, Solar and heliospheric geoeffective disturbances. J. Atmos. Solar-Terr. Phys. 62(12), 1071.
+De Zeeuw, D.L., Sazykin, S., Wolf, R.A., Gombosi, T.I., Ridley, A.J., Tóth, G.: 2004, Coupling of a global mhd code and an inner magnetospheric model: Initial results. J. Geophys. Res. 109(A12), A12219.
+Elkington, S.R.: 2006, A review of ULF interactions with radiation belt electrons. In: Magnetospheric ULF Waves: Synthesis and New Directions, AGU, Washington.
+Gombosi, T.I., Powell, K.G., De Zeeuw, D.L., Clauer, C.R., Hansen, K.C., Manchester, W.B., Ridley, A.J., Roussev, I.I., Sokolov, I.V., Stout, Q.F., Tóth, G.: 2004, Solution-adaptive magnetohydrodynamics for space plasmas: Sun-to-earth simulations. Comput. Sci. Eng. 6(2).
+Green, J.C., Kivelson, M.G.: 2001, A tale of two theories: How the adiabatic response and ulf waves affect relativistic electrons. J. Geophys. Res. 106(A11), 25777.
+Hao, Y.X., Zong, Q.-G., Wang, Y.F., Zhou, X.-Z., Zhang, H., Fu, S.Y., et al.: 2014, Interactions of energetic electrons with ulf waves triggered by interplanetary shock: Van allen probes observations in the magnetotail. J. Geophys. Res. 119(10), 8262.
+Hudson, M.K., Elkington, S.R., Lyon, J.G., Goodrich, C.C., Rosenberg, T.J.: 1999, Simulation of radiation belt dynamics driven by solar wind variations. In: Burch, J.L., Carovillano, R.L., Antiochos, S.K. (eds.) Sun–Earth Plasma Connections, AGU, Washington.
+Hudson, M.K., Baker, D.N., Goldstein, J., Kress, B.T., Paral, J., Toffoletto, F.R., Wiltberger, M.: 2014, Simulated magnetopause losses and van allen probe flux dropouts. Geophys. Res. Lett. 41(4), 1113.
+Ilie, R., Liemohn, M.W., Ridley, A.: 2010, The effect of smoothed solar wind inputs on global modeling results. J. Geophys. Res. Space Phys. 115(A1), A01213.
+Imajo, S., Yumoto, K., Uozumi, T., Kawano, H., Abe, S., Ikeda, A., et al.: 2014, Analysis of propagation delays of compressional pi 2 waves between geosynchronous altitude and low latitudes. Earth Planets Space 66(1), 1.
+Kivelson, M.G., Russell, C.T. (eds.): 1995, Introduction to Space Physics, Cambridge Univ. Press, New York.
+Kletzing, C.A., Kurth, W.S., Acuna, M., MacDowall, R.J., Torbert, R.B., Averkamp, T., et al.: 2013, The electric and magnetic field instrument suite and integrated science (EMFISIS) on RBSP. Space Sci. Rev. 179(1), 127.
+Lyatsky, W., Khazanov, G.V.: 2008, A predictive model for relativistic electrons at geostationary orbit. Geophys. Res. Lett. 35(15), L15108.
+Mathie, R.A., Mann, I.R.: 2000, A correlation between extended intervals of ulf wave power and storm-time geosynchronous relativistic electron flux enhancements. Geophys. Res. Lett. 27(20), 3261.
+Mauk, B.H., Fox, N.J., Kanekal, S.G., Kessel, R.L., Sibeck, D.G., Ukhorskiy, A.: 2013, Science objectives and rationale for the radiation belt storm probes mission. Space Sci. Rev. 179(1), 3.
+Millan, R.M., Thorne, R.M.: 2007, Review of radiation belt relativistic electron losses. J. Atmos. Solar-Terr. Phys. 69(3), 362.
+Miyoshi, Y., Kataoka, R.: 2008, Flux enhancement of the outer radiation belt electrons after the arrival of stream interaction regions. J. Geophys. Res. 113(A3), A03S09.
+Murphy, K.R., Rae, I.J., Mann, I.R., Walsh, A.P., Milling, D.K., Kale, A.: 2011, The dependence of pi2 waveforms on periodic velocity enhancements within bursty bulk flows. Ann. Geophys. 29(3), 493.
+Northrop, T.G.: 1963, Adiabatic charged-particle motion. Rev. Geophys. 1(3), 283.
+Paral, J., Hudson, M.K., Kress, B.T., Wiltberger, M.J., Wygant, J.R., Singer, H.J.: 2015, Magnetohydrodynamic modeling of three van Allen probes storms in 2012 and 2013. Ann. Geophys. 33(8), 1037.
+Paulikas, G.A., Blake, J.B.: 1979, Effects of the solar wind on magnetospheric dynamics: Energetic electrons at the synchronous orbit. In: Olson, W.P. (ed.) Quantitative Modeling of Magnetospheric Processes, AGU, Washington.
+Reeves, G.D., McAdams, K.L., Friedel, R.H.W., O’Brien, T.P.: 2003, Acceleration and loss of relativistic electrons during geomagnetic storms. Geophys. Res. Lett. 30(10), 1529.
+Reeves, G.D., Morley, S.K., Friedel, R.H.W., Henderson, M.G., Cayton, T.E., Cunningham, G., et al.: 2011, On the relationship between relativistic electron flux and solar wind velocity: Paulikas and Blake revisited. J. Geophys. Res. 116(A2), A02213.
+Ridley, A.J., Liemohn, M.W.: 2002, A model-derived storm time asymmetric ring current driven electric field description. J. Geophys. Res. 107(A8), SMP2.
+Ridley, A.J., Gombosi, T.I., DeZeeuw, D.L.: 2004, Ionospheric control of the magnetosphere: Conductance. Ann. Geophys. 22(2), 567.
+Roederer, J.G.: 1970, Dynamics of Geomagnetically Trapped Radiation, Vol. 2, Springer, Berlin.
+Shprits, Y.Y., Thorne, R.M., Friedel, R., Reeves, G.D., Fennell, J., Baker, D.N., Kanekal, S.G.: 2006, Outward radial diffusion driven by losses at magnetopause. J. Geophys. Res. 111(A11), A11214.
+Shue, J.-H., Song, P., Russell, C.T., Steinberg, J.T., Chao, J.K., Zastenker, G., et al.: 1998, Magnetopause location under extreme solar wind conditions. J. Geophys. Res. 103(A8), 17691.
+Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.R., Margolies, D., Ormes, J.F., Snow, F.: 1998, The advanced composition explorer. Space Sci. Rev. 86, 1.
+Su, Z., Gao, Z., Zhu, H., Li, W., Zheng, H., Wang, Y., et al.: 2016, Nonstorm time dropout of radiation belt electron fluxes on 24 September 2013. J. Geophys. Res. 121(7), 6400. 2016JA022546.
+Su, Z., Zhu, H., Xiao, F., Zheng, H., Wang, Y., He, Z., Shen, C., Shen, C., Wang, C.B., Liu, R., Zhang, M., Wang, S., Kletzing, C.A., Kurth, W.S., Hospodarsky, G.B., Spence, H.E., Reeves, G.D., Funsten, H.O., Blake, J.B., Baker, D.N., Wygant, J.R.: 2014, Intense duskside lower band chorus waves observed by van allen probes: Generation and potential acceleration effect on radiation belt electrons. J. Geophys. Res. 119(6), 4266.
+Tóth, G., van der Holst, B., Sokolov, I.V., Zeeuw, D.L.D., Gombosi, T.I., Fang, F., Manchester, W.B., Meng, X., Najib, D., Powell, K.G., Stout, Q.F., Glocer, A., Ma, Y.-J., Opher, M.: 2011, Adaptive numerical algorithms in space weather modeling. J. Comput. Phys. 231(3), 870.
+Tsyganenko, N.A.: 2002, A model of the near magnetosphere with a dawn-dusk asymmetry 2. parameterization and fitting to observations. J. Geophys. Res. 107(A8), SMP10.
+Tsyganenko, N.A., Sitnov, M.I.: 2005, Modeling the dynamics of the inner magnetosphere during strong geomagnetic storms. J. Geophys. Res. 110(A3), A03208.
+Wing, S., Johnson, J.R., Camporeale, E., Reeves, G.D.: 2016, Information theoretical approach to discovering solar wind drivers of the outer radiation belt. J. Geophys. Res.
+Wygant, J.R., Bonnell, J.W., Goetz, K., Ergun, R.E., Mozer, F.S., Bale, S.D., et al.: 2013, The electric field and waves instruments on the radiation belt storm probes mission. Space Sci. Rev. 179(1–4), 183.
+Xiang, Z., Ni, B., Zhou, C., Zou, Z., Gu, X., Zhao, Z., Zhang, X., Zhang, X., Zhang, S., Li, X., Zuo, P., Spence, H., Reeves, G.: 2016, Multi-satellite simultaneous observations of magnetopause and atmospheric losses of radiation belt electrons during an intense solar wind dynamic pressure pulse. Ann. Geophys. 34(5), 493.

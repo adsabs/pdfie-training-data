@@ -1,0 +1,50 @@
+Alfvén, H.: 1942, Existence of electromagnetic-hydrodynamic waves. Nature 150, 405.
+Babcock, H.W.: 1961, The topology of the Sun’s magnetic field and the 22-year cycle. Astrophys. J. 133, 572.
+Barnes, G., MacGregor, K.B., Charbonneau, P.: 1998, Gravity waves in a magnetized shear layer. Astrophys. J. Lett. 498, L169.
+Barnston, A.G., Livezey, R.E.: 1987, Classification, seasonality and persistence of low-frequency atmospheric circulation patterns. Mon. Weather Rev. 115(6), 1083.
+Basseville, M., Nikiforov, I.V.: 1993, Detection of Abrupt Changes: Theory and Application, Prentice-Hall, Upper Saddle River. ISBN 0-13-126780-9.
+Bocchino, G.: 1933, Migrazione delle protuberanze durante il ciclo undecennale dell’attività solare. Mem. Soc. Astron. Ital. 6, 479.
+Charbonneau, P.: 2010, Dynamo models of the solar cycle. Liv. Rev. Solar Phys. 7, 3.
+Cliver, E.W.: 2014, The extended cycle of solar activity and the Sun’s 22-year magnetic cycle. Space Sci. Rev. 186, 169.
+De Pontieu, B., Title, A.M., Lemen, J.R., Kushner, G.D., Akin, D.J., Allard, B., Berger, T., Boerner, P., Cheung, M., Chou, C., Drake, J.F., Duncan, D.W., Freeland, S., Heyman, G.F., Hoffman, C., Hurlburt, N.E., Lindgren, R.W., Mathur, D., Rehse, R., Sabolish, D., Seguin, R., Schrijver, C.J., Tarbell, T.D., Wülser, J.-P., Wolfson, C.J., Yanari, C., Mudge, J., Nguyen-Phuc, N., Timmons, R., van Bezooijen, R., Weingrod, I., Brookner, R., Butcher, G., Dougherty, B., Eder, J., Knagenhjelm, V., Larsen, S., Mansir, D., Phan, L., Boyle, P., Cheimets, P.N., DeLuca, E.E., Golub, L., Gates, R., Hertz, E., McKillop, S., Park, S., Perry, T., Podgorski, W.A., Reeves, K., Saar, S., Testa, P., Tian, H., Weber, M., Dunn, C., Eccles, S., Jaeggli, S.A., Kankelborg, C.C., Mashburn, K., Pust, N., Springer, L., Carvalho, R., Kleint, L., Marmie, J., Mazmanian, E., Pereira, T.M.D., Sawyer, S., Strong, J., Worden, S.P., Carlsson, M., Hansteen, V.H., Leenaarts, J., Wiesmann, M., Aloise, J., Chu, K.-C., Bush, R.I., Scherrer, P.H., Brekke, P., Martinez-Sykora, J., Lites, B.W., McIntosh, S.W., Uitenbroek, H., Okamoto, T.J., Gummin, M.A., Auker, G., Jerram, P., Pool, P., Waltham, N.: 2014, The Interface Region Imaging Spectrograph (IRIS). Solar Phys. 289, 2733.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Maucherat, A., Clette, F., Cugnon, P., van Dessel, E.L.: 1995, EIT: Extreme-Ultraviolet Imaging Telescope for the SOHO mission. Solar Phys. 162, 291.
+Dikpati, M., McIntosh, S.W., Chatterjee, S., Banerjee, D., Yellin-Bergovoy, R., Srivastava, A.: 2019, Triggering the birth of new cycle’s sunspots by solar tsunami. Sci. Rep. 9, 2035.
+Elmore, D.F., Rimmele, T., Casini, R., Hegwer, S., Kuhn, J., Lin, H., McMullin, J.P., Reardon, K., Schmidt, W., Tritschler, A., Wöger, F.: 2014, The Daniel K. Inouye Solar Telescope first light instruments and critical science plan. In: Ground-Based and Airborne Instrumentation for Astronomy V, Proc. Soc. Phot. Int. 9147, 914707.
+Fan, Y., Fang, F.: 2014, A simulation of convective dynamo in the solar convective envelope: Maintenance of the solar-like differential rotation and emerging flux. Astrophys. J. 789, 35.
+Ferriz-Mas, A., Schmitt, D., Schüssler, M.: 1994, A dynamo effect due to instability of magnetic flux tubes. Astron. Astrophys. 289, 949.
+Gibson, S.E.: 2018, Solar prominences: theory and models. Liv. Rev. Solar Phys. 15(1), 7.
+Golub, L.: 1980, X-ray bright points and the solar cycle. Phil. Trans. Roy. Soc. A 297, 595.
+Golub, L., Vaiana, G.S.: 1978, Differential rotation rates for short-lived regions of emerging magnetic flux. Astrophys. J. Lett. 219, L55.
+Golub, L., Krieger, A.S., Silk, J.K., Timothy, A.F., Vaiana, G.S.: 1974, Solar X-ray bright points. Astrophys. J. Lett. 189, L93.
+Hale, G.E., Nicholson, S.B.: 1925, The law of sun-spot polarity. Astrophys. J. 62, 270.
+Hansen, R., Hansen, S.: 1975, Global distribution of filaments during solar cycle No. 20. Solar Phys. 44, 225.
+Hathaway, D.H.: 2010, The solar cycle. Liv. Rev. Solar Phys. 7, 1.
+Hathaway, D.H., Upton, L., Colegrove, O.: 2013, Giant convection cells found on the Sun. Science 342, 1217.
+Hotta, H., Rempel, M., Yokoyama, T.: 2016, Large-scale magnetic fields at high Reynolds numbers in magnetohydrodynamic simulations. Science 351, 1427.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., Korendyke, C.M., Cook, J.W., Hurley, A., Davila, J.M., Thompson, W.T., St Cyr, O.C., Mentzell, E., Mehalick, K., Lemen, J.R., Wuelser, J.P., Duncan, D.W., Tarbell, T.D., Wolfson, C.J., Moore, A., Harrison, R.A., Waltham, N.R., Lang, J., Davis, C.J., Eyles, C.J., Mapson-Menard, H., Simnett, G.M., Halain, J.P., Defise, J.M., Mazy, E., Rochus, P., Mercier, R., Ravet, M.F., Delmotte, F., Auchère, F., Delaboudinière, J.P., Bothmer, V., Deutsch, W., Wang, D., Rich, N., Cooper, S., Stephens, V., Maahs, G., Baugh, R., McMullin, D., Carter, T.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Leighton, R.B.: 1969, A magneto-kinematic model of the solar cycle. Astrophys. J. 156, 1.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Matsuno, T.: 1966, Quasi-geostrophic motions in the equatorial area. J. Meteorol. Soc. Japan 44, 25.
+Maunder, E.W.: 1904, Note on the Distribution of sun-spots in heliographic latitude, 1874 – 1902. Mon. Not. Roy. Astron. Soc. 64, 747.
+McIntosh, S.W., Gurman, J.B.: 2005, Nine years of EUV bright points. Solar Phys. 228, 285.
+McIntosh, S.W., Leamon, R.J.: 2017, Deciphering solar magnetic activity: Spotting solar cycle 25. Front. Astron. Space Sci. 4, 4.
+McIntosh, S.W., Leamon, R.J., Gurman, J.B., Olive, J.-P., Cirtain, J.W., Hathaway, D.H., Burkepile, J., Miesch, M., Markel, R.S., Sitongia, L.: 2013, Hemispheric asymmetries of solar photospheric magnetism: Radiative, particulate, and heliospheric impacts. Astrophys. J. 765, 146.
+McIntosh, S.W., Wang, X., Leamon, R.J., Davey, A.R., Howe, R., Krista, L.D., Malanushenko, A.V., Markel, R.S., Cirtain, J.W., Gurman, J.B., Pesnell, W.D., Thompson, M.J.: 2014a, Deciphering solar magnetic activity, I: On the relationship between the sunspot cycle and the evolution of small magnetic features. Astrophys. J. 792, 12.
+McIntosh, S.W., Wang, X., Leamon, R.J., Scherrer, P.H.: 2014b, Identifying potential markers of the Sun’s giant convective scale. Astrophys. J. Lett. 784, L32.
+McIntosh, S.W., Leamon, R.J., Krista, L.D., Title, A.M., Hudson, H.S., Riley, P., Harder, J.W., Kopp, G., Snow, M., Woods, T.N., Kasper, J.C., Stevens, M.L., Ulrich, R.K.: 2015, The solar magnetic activity band interaction and instabilities that shape quasi-periodic variability. Nat. Comm. 6, 6491.
+McIntosh, S.W., Cramer, W.J., Pichardo Marcano, M., Leamon, R.J.: 2017, The detection of Rossby-like waves on the Sun. Nat. Astron. 1, 0086.
+Moreno-Insertis, F.: 1983, Rise times of horizontal magnetic flux tubes in the convection zone of the sun. Astron. Astrophys. 122, 241.
+Morgan, H., Taroyan, Y.: 2017, Global conditions in the solar corona from 2010 to 2017. Sci. Adv. 3(7), e1602056.
+Pedlosky, J.: 1982, Geophysical Fluid Dynamics, Springer, Berlin.
+Racine, É., Charbonneau, P., Ghizaru, M., Bouchat, A., Smolarkiewicz, P.K.: 2011, On the mode of dynamo action in a global large-eddy simulation of solar convection. Astrophys. J. 735, 46.
+Saba, J.L.R., Strong, K.T., Slater, G.L.: 2005, Can we predict when the next solar cycle is about to take off? Mem. Soc. Astron. Ital. 76, 1034.
+Schonfeld, S.J., White, S.M., Hock-Mysliwiec, R.A., McAteer, R.T.J.: 2017, The slowly varying corona, I: Daily differential emission measure distributions derived from EVE spectra. Astrophys. J. 844(2), 163.
+Simoniello, R., Tripathy, S.C., Jain, K., Hill, F.: 2016, A new challenge to solar dynamo models from helioseismic observations: The latitudinal dependence of the progression of the solar cycle. Astrophys. J. 828, 41.
+Spiegel, E.A., Zahn, J.-P.: 1992, The solar tachocline. Astron. Astrophys. 265, 106.
+Strong, K.T., Saba, J.L.R.: 2009, A new approach to solar cycle forecasting. Adv. Space Res. 43, 756.
+Tapping, K.F.: 2013, The 10.7 cm solar radio flux (F
+Tlatov, A.G., Kuzanyan, K.M., Vasil’yeva, V.V.: 2016, Tilt angles of solar filaments over the period of 1919 – 2014. Solar Phys. 291, 1115.
+Trenberth, K.E., Branstator, G.W., Karoly, D., Kumar, A., Lau, N.-C., Ropelewski, C.: 1997, Progress during TOGA in understanding and modeling global teleconnections associated with tropical sea surface temperatures. J. Geophys. Res. 103(C7), 14291.
+Ulrich, R.K.: 2010, Solar meridional circulation from Doppler shifts of the Fe I line at 5250 Å as measured by the 150-foot Solar Tower Telescope at the Mt. Wilson Observatory. Astrophys. J. 725, 658.
+Wilson, P.R.: 1994, Solar and Stellar Activity Cycles, Cambridge University Press, Cambridge.
+Wilson, P.R., Altrock, R.C., Harvey, K.L., Martin, S.F., Snodgrass, H.B.: 1988, The extended solar activity cycle. Nature 333, 748.

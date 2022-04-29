@@ -1,0 +1,51 @@
+Abramenko, V.I.: 2005, Relationship between magnetic power spectrum and flare productivity in solar active regions. Astrophys. J. 629, 1141.
+Ahmed, O.W., Qahwaji, R., Colak, T., Higgins, P.A., Gallagher, P.T., Bloomfield, D.S.: 2013, Solar flare prediction using advanced feature extraction, machine learning, and feature selection. Solar Phys. 283, 157.
+Al-Ghraibah, A., Boucheron, L.E., McAteer, R.T.J.: 2015, An automated classification approach to ranking photospheric proxies of magnetic energy build-up. Astron. Astrophys. 579, A64.
+Allaire, J., Chollet, F.: 2017, Keras: R Interface to ‘Keras’. R package version 2.1.5.9002.
+Barnes, G., Leka, K.D.: 2008, Evaluating the performance of solar flare forecasting methods. Astrophys. J. Lett. 688, L107.
+Barnes, G., Leka, K.D., Schrijver, C.J., Colak, T., Qahwaji, R., Ashamari, O.W., Yuan, Y., Zhang, J., McAteer, R.T.J., Bloomfield, D.S., Higgins, P.A., Gallagher, P.T., Falconer, D.A., Georgoulis, M.K., Wheatland, M.S., Balch, C., Dunn, T., Wagner, E.L.: 2016, A comparison of flare forecasting methods. I. Results from the “All-Clear” workshop. Astrophys. J. 829(2), 89.
+Bloomfield, D.S., Higgins, P.A., McAteer, R.T.J., Gallagher, P.T.: 2012, Toward reliable benchmarking of solar flare forecasting methods. Astrophys. J. Lett. 747, 2.
+Bobra, M.G., Couvidat, S.: 2015, Solar flare prediction using SDO/HMI vector magnetic field data with a machine-learning algorithm. Astrophys. J. 798(2), 135.
+Bobra, M.G., Sun, X., Hoeksema, J.T., Turmon, M., Liu, Y., Hayashi, K., Barnes, G., Leka, K.D.: 2014, The Helioseismic and Magnetic Imager (HMI) vector magnetic field pipeline: SHARPs – space-weather HMI active region patches. Solar Phys. 289(9), 3549.
+Boucheron, L.E., Al-Ghraibah, A., McAteer, R.T.J.: 2015, Prediction of solar flare size and time-to-flare using support vector machine regression. Astrophys. J. 812(1), 51.
+Breiman, L.: 2001, Random forests. Mach. Learn. 45(1), 5.
+Chawla, N.V., Japkowicz, N., Kotcz, A.: 2004, Editorial: special issue on learning from imbalanced data sets. SIGKDD Explor. Newsl. 6(1), 1.
+Colak, T., Qahwaji, R.: 2008, Automated McIntosh-based classification of sunspot groups using MDI images. Solar Phys. 248, 277.
+Colak, T., Qahwaji, R.: 2009, Automated solar activity prediction: a hybrid computer platform using machine learning and solar imaging for automated prediction of solar flares. Space Weather 7, S06001.
+Cox, D.R.: 1958, The regression analysis of binary sequences (with discussion). J. Roy. Stat. Soc. B 20, 215.
+Daei, F., Safari, H., Dadashi, N.: 2017, Complex network for solar active regions. Astrophys. J. 845(1), 36.
+Domijan, K.: 2016, BKPC: Bayesian Kernel Projection Classifier. R package version 1.0.
+Domijan, K., Wilson, S.P.: 2011, Bayesian kernel projections for classification of high dimensional data. Stat. Comput. 21(2), 203.
+Dudoit, S., Fridlyand, J., Speed, T.P.: 2002, Comparison of discrimination methods for the classification of tumors using gene expression data. J. Am. Stat. Assoc. 97(457), 77.
+Fisher, R.A.: 1936, The use of multiple measurements in taxonomic problems. Ann. Eugenics 7, 179.
+Fithian, W., Hastie, T.: 2014, Local case-control sampling: efficient subsampling in imbalanced data sets. Ann. Stat. 42(5), 1693.
+Friedman, J., Hastie, T., Tibshirani, R.: 2009, GLMNET: Lasso and Elastic-Net Regularized Generalized Linear Models. R package version 1.1-4.
+Georgoulis, M.K., Rust, D.M.: 2007, Quantitative forecasting of major solar flares. Astrophys. J. Lett. 661(1), L109.
+Géron, A.: 2018, Neural Networks and Deep Learning, O’Reilly Media, Inc, Sebastopol, CA, USA.
+Gheibi, A., Safari, H., Javaherian, M.: 2017, The solar flare complex network. Astrophys. J. 847(2), 115.
+Hanssen, A.W., Kuipers, W.J.A.: 1965, On the Relationship Between the Frequency of Rain and Various Meteorological Parameters: (with Reference to the Problem of Objective Forecasting), Koninkl. Nederlands Meterologisch Institut. Mededelingen en Verhandelingen 81, Staatsdrukerij, Netherlands.
+Heidke, P.: 1926, Berechnung des erfolges und der güte der windstärkevorhersagen im sturmwarnungsdienst. Geogr. Ann. 8, 301.
+Higgins, P.A., Gallagher, P.T., McAteer, R.T.J., Bloomfield, D.S.: 2011, Solar magnetic feature detection and tracking for space weather monitoring. Adv. Space Res. 47, 2105.
+Huang, X., Wang, H., Xu, L., Liu, J., Li, R., Dai, X.: 2018, Deep learning based solar flare forecasting model. I. results for line-of-sight magnetograms. Astrophys. J. 856(1), 7.
+Leka, K.D., Barnes, G.: 2007, Photospheric magnetic field properties of flaring versus flare-quiet active regions. IV. A statistically significant sample. Astrophys. J. 656(2), 1173.
+Liaw, A., Wiener, M.: 2002, Classification and regression by randomForest. R News 2(3), 18.
+Liu, C., Deng, N., Wang, J.T.L., Wang, H.: 2017a, Predicting solar flares using SDO/HMI vector magnetic data products and the random forest algorithm. Astrophys. J. 843(2), 104.
+Liu, J.-F., Li, F., Zhang, H.-P., Yu, D.-R.: 2017b, Short-term solar flare prediction using image-case-based reasoning. Res. Astron. Astrophys. 17(11), 116.
+Mason, J.P., Hoeksema, J.T.: 2010, Testing automated solar flare forecasting with 13 years of Michelson Doppler Imager magnetograms. Astrophys. J. 723(1), 634.
+McAteer, R.T.J., Gallagher, P.T., Ireland, J.: 2005, Statistics of active region complexity: a large-scale fractal dimension survey. Astrophys. J. 631, 628.
+Meyer, D., Dimitriadou, E., Hornik, K., Weingessel, A., Leisch, F.: 2017, e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien. R package version 1.6-8.
+Nelder, J.A., Wedderburn, R.W.M.: 1972, Generalized linear models. J. Roy. Stat. Soc., Ser. A-G 135, 370.
+Nishizuka, N., Sugiura, K., Kubo, Y., Den, M., Watari, S., Ishii, M.: 2017, Solar flare prediction model with three machine-learning algorithms using ultraviolet brightening and vector magnetograms. Astrophys. J. 835(2), 156.
+Nishizuka, N., Sugiura, K., Kubo, Y., Den, M., Ishii, M.: 2018, Deep flare net (DeFN) model for solar flare prediction. Astrophys. J. 858(2), 113.
+Qahwaji, R., Colak, T., Al-Omari, M., Ipson, S.: 2008, Automated prediction of CMEs using machine learning of CME – flare associations. Solar Phys. 248, 471.
+R Core Team: 2017, R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria.
+Raboonik, A., Safari, H., Alipour, N., Wheatland, M.S.: 2017, Prediction of solar flares using unique signatures of magnetic field images. Astrophys. J. 834(1), 11.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I., Team, M.E.: 1995, The solar oscillations investigation – Michelson Doppler Imager. Solar Phys. 162(1-2), 129.
+Schrijver, C.J.: 2007, A characteristic magnetic field pattern associated with all major solar flares and its use in flare forecasting. Astrophys. J. Lett. 655(2), L117.
+Soetaert, K.: 2017, plot3d: Plotting Multi-dimensional Data. R package version 1.1.1.
+Tibshirani, R.: 1996, Regression shrinkage and selection via the Lasso. J. Roy. Stat. Soc. B 58, 267.
+Vapnik, V.: 1998, Statistical Learning Theory, Wiley-Interscience, New York.
+Wickham, H.: 2009, ggplot2: Elegant Graphics for Data Analysis, Springer, New York. 978-0-387-98140-6.
+Yang, X., Lin, G., Zhang, H., Mao, X.: 2013, Magnetic nonpotentiality in photospheric active regions as a predictor of solar flares. Astrophys. J. Lett. 774(2), L27.
+Youden, W.J.: 1950, Index for rating diagnostic tests. Cancer 3, 32.
+Yu, D., Huang, X., Wang, H., Cui, Y., Hu, Q., Zhou, R.: 2010, Short-term solar flare level prediction using a Bayesian network approach. Astrophys. J. 710(1), 869.

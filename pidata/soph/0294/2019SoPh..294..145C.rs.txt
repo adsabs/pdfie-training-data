@@ -1,0 +1,32 @@
+Balmaceda, L.A., Solanki, S.K., Krivova, N.A., Foster, S.: 2009, A homogeneous database of sunspot areas covering more than 130 years. J. Geophys. Res. 114(A7).
+Chatterjee, S., Banerjee, D., Ravindra, B.: 2016, A butterfly diagram and carrington maps for century-long Ca II K spectroheliograms from the Kodaikanal observatory. Astrophys. J. 827(1), 87.
+Chatterjee, S., Mandal, S., Banerjee, D.: 2017, Variation of supergranule parameters with solar cycles: results from century-long Kodaikanal digitized Ca II K data. Astrophys. J. 841, 70.
+Chatzistergos, T.: 2017, Analysis of historical solar observations and long-term changes in solar irradiance. PhD thesis, University of Göttingen, ISBN 978-3-944072-55-5.
+Chatzistergos, T., Ermolli, I., Krivova, N.A., Solanki, S.K.: 2018a, Ca II K spectroheliograms for studies of long-term changes in solar irradiance. In: Banerjee, D., Jiang, J., Kusano, K., Solanki, S. (eds.) Long-term Datasets for the Understanding of Solar and Stellar Magnetic Cycles, IAU Sympos. 340, Cambridge University Press, Cambridge, 125.
+Chatzistergos, T., Ermolli, I., Solanki, S.K., Krivova, N.A.: 2018b, Analysis of full disc Ca II K spectroheliograms – I. Photometric calibration and centre-to-limb variation compensation. Astron. Astrophys. 609, A92.
+Chatzistergos, T., Ermolli, I., Falco, M., Giorgi, F., Guglielmino, S.L., Krivova, N.A., Romano, P., Solanki, S.K.: 2019a, Historical solar Ca II K observations at the Rome and Catania observatories. Il. Cim. 42C, 5.
+Chatzistergos, T., Ermolli, I., Krivova, N.A., Solanki, S.K.: 2019b, Analysis of full disc Ca II K spectroheliograms – II. Towards an accurate assessment of long-term variations in plage areas. Astron. Astrophys. 625, A69.
+Chatzistergos, T., Ermolli, I., Solanki, S.K., Krivova, N.A., Giorgi, F., Yeo, K.L.: 2019c, Recovering the unsigned photospheric magnetic field from Ca II K observations. Astron. Astrophys. 626, A114.
+Ermolli, I., Berrilli, F., Florio, A.: 2003, A measure of the network radiative properties over the solar activity cycle. Astron. Astrophys. 412, 857.
+Ermolli, I., Fofi, M., Bernacchia, C., Berrilli, F., Caccin, B., Egidi, A., Florio, A.: 1998, The prototype RISE-PSPT instrument operating in Rome. Solar Phys. 177, 1.
+Ermolli, I., Criscuoli, S., Centrone, M., Giorgi, F., Penza, V.: 2007, Photometric properties of facular features over the activity cycle. Astron. Astrophys. 465, 305.
+Ermolli, I., Marchei, E., Centrone, M., Criscuoli, S., Giorgi, F., Perna, C.: 2009a, The digitized archive of the Arcetri spectroheliograms. Preliminary results from the analysis of Ca II K images. Astron. Astrophys. 499, 627.
+Ermolli, I., Solanki, S.K., Tlatov, A.G., Krivova, N.A., Ulrich, R.K., Singh, J.: 2009b, Comparison among Ca II K spectroheliogram time series with an application to solar activity studies. Astrophys. J. 698, 1000.
+Ermolli, I., Chatzistergos, T., Krivova, N.A., Solanki, S.K.: 2018, The potential of Ca II K observations for solar activity and variability studies. In: Banerjee, D., Jiang, J., Kusano, K., Solanki, S. (eds.) Long-term Datasets for the Understanding of Solar and Stellar Magnetic Cycles, IAU Sympos. 340, Cambridge University Press, Cambridge, 115.
+Fontenla, J.M., Curdt, W., Haberreiter, M., Harder, J., Tian, H.: 2009, Semiempirical models of the solar atmosphere. III. Set of non-LTE models for far-ultraviolet/extreme-ultraviolet irradiance computation. Astrophys. J. 707, 482.
+Foukal, P.: 1996, The behavior of solar magnetic plages measured from Mt. Wilson observations between 1915 – 1984. Geophys. Res. Lett. 23, 2169.
+Hale, G.E.: 1893, Solar photography at the Kenwood Astro-physical Observatory. Mem. Soc. Spettroscopisti Ital. 21, 68.
+Harvey, K.L.: 1992, The cyclic behavior of solar activity. In: Proc. National Solar Observatory/Sacramento Peak 12th Summer Workshop CS-27, Astron. Soc. Pacific, San Francisco, 335.
+Kariyappa, R., Sivaraman, K.R.: 1994, Variability of the solar chromospheric network over the solar cycle. Solar Phys. 152, 139.
+Kuriyan, P.P., Muralidharan, V., Sampath, S.: 1983, Long-term relationships between sunspots, Ca-plages and the ionosphere. J. Atmos. Terr. Phys. 45, 285.
+Loukitcheva, M., Solanki, S.K., White, S.M.: 2009, The relationship between chromospheric emissions and magnetic field strength. Astron. Astrophys. 497, 273.
+Makarov, V.I., Tlatov, A.G., Singh, J., Gupta, S.S.: 2004, 22-years magnetic cycle in polar activity of the Sun. In: Stepanov, A.V., Benevolenskaya, E., Kosovichev, A.G. (eds.) Multi-Wavelength Investigations of Solar Activity, IAU Sympos. 223, Cambridge University Press, Cambridge, 125.
+Nesme-Ribes, E., Meunier, N., Collin, B.: 1996, Fractal analysis of magnetic patterns from Meudon spectroheliograms. Astron. Astrophys. 308, 213.
+Pevtsov, A.A., Virtanen, I., Mursula, K., Tlatov, A., Bertello, L.: 2016, Reconstructing solar magnetic fields from historical observations. I. Renormalized Ca K spectroheliograms and pseudo-magnetograms. Astron. Astrophys. 585, A40.
+Priyal, M., Singh, J., Ravindra, B., Priya, T.G., Amareswari, K.: 2014, Long term variations in chromospheric features from Ca–K images at Kodaikanal. Solar Phys. 289, 137.
+Priyal, M., Singh, J., Belur, R., Rathina, S.K.: 2017, Long-term variations in the intensity of plages and networks as observed in Kodaikanal Ca–K digitized data. Solar Phys. 292(7), 85.
+Schrijver, C.J., Cote, J., Zwaan, C., Saar, S.H.: 1989, Relations between the photospheric magnetic field and the emission from the outer atmospheres of cool stars. I – the solar CA II K line core emission. Astrophys. J. 337, 964.
+Sheeley, N.R. Jr., Cooper, T.J., Anderson, J.R.L.: 2011, Carrington maps of Ca II K-line emission for the years 1915 – 1985. Astrophys. J. 730, 51.
+Singh, J., Priyal, M., Sindhuja, G., Ravindra, B.: 2018, Variations in Ca–K line profiles and Ca–K line features as a function of latitude and solar cycle during the 20th century. Proc. Int. Astron. Union 13(S340), 23.
+Skumanich, A., Lean, J.L., Livingston, W.C., White, O.R.: 1984, The Sun as a star – three-component analysis of chromospheric variability in the calcium K line. Astrophys. J. 282, 776.
+Tlatov, A.G., Pevtsov, A.A., Singh, J.: 2009, A new method of calibration of photographic plates from three historic data sets. Solar Phys. 255, 239.

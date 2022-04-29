@@ -1,0 +1,34 @@
+Bayanna, A.R., Kumar, B., Louis, R.E., Venkatakrishnan, P., Mathew, S.K.: 2008, J. Astrophys. Astron. 29, 353.
+Bayanna, A.R., Mathew, S.K., Venkatakrishnan, P., Srivastava, N.: 2014, Solar Phys. 289, 4007.
+Barthol, P., Gandorfer, A., Solanki, S.K., Schussler, M., Chares, B., Curdt, W., et al.: 2011, Solar Phys. 268, 1.
+Bello González, N., Kneer, F.: 2008, Astron. Astrophys. 480, 265.
+Bonaccini, D., Smart, R.N.: 1988, Appl. Opt. 27, 5095.
+Born, M., Wolf, E.: 2002, Principles of Optics, 7th (expanded) edn. Cambridge Univ. Press, Cambridge, 366.
+Burton, C.H., Leistner, A.J., Rust, D.M.: 1987, Appl. Opt. 26, 2637.
+Cavallini, F.: 2006, Solar Phys. 236, 415.
+de la Cruz Rodriguez, J., Rouppe van der Voort, L., Socas-Navarro, H., van Noort, M.: 2013, Astron. Astrophys. 556, 115.
+Denis, S., Coucke, P., Gabriel, E., Christophe, D., Venkatakrishnan, P.: 2008, Proc. SPIE 7012, 35.
+Denis, S., Coucke, P., Gabriel, E., Christophe, D., Venkatakrishnan, P.: 2010, Proc. SPIE 7733, 35.
+Feller, A., Boller, A., Stenflo, J.O.: 2006, In: Casini, R., Lites, B.W. (eds.) Solar Polarization 4, CS-358, Astron. Soc. Pacific, San Francisco, 155.
+Goode, P.R., Coulter, R., Gorceix, N., Yurchyshyn, V., Cao, W.: 2010, Astron. Nachr. 331, 620.
+Gosain, S., Venkatakrishnan, P., Venugopalan, K.: 2006, J. Astrophys. Astron. 27, 285.
+Hobden, M.V., Warner, J.: 1966, Phys. Lett. 22, 243.
+Kentischer, T.J., Schmidt, W., Sigwarth, M., Uexkuell, M.V.: 1998, Astron. Astrophys. 340, 569.
+Kleint, L., Feller, A., Gisler, M.: 2011, Astron. Astrophys. 529, 78.
+Liu, Z., Xu, J., Gu Bo, Z., Wan, S., You, J.Q., Shen, L.X., et al.: 2014, Res. Astron. Astrophys. 14, 705.
+Mathew, S.K., Bhatnagar, A., Prasad, C.D., Ambastha, A.: 1998, Astron. Astrophys. Suppl. 133, 285.
+Mathew, S.K.: 2003, Appl. Opt. 42, 3581.
+Mathew, S.K.: 2009, In: Berdiyugina, S.V., Nagendra, S.K., Ramelli, R. (eds.) Solar Polarization 5: In Honor of Jan Stenflo, CS-405, Astron. Soc. Pacific, San Francisco, 461.
+Mathew, S.K., Gupta, S.K.: 2010 Tech. Rep. PRL-TN-2010-97, Physical Research Laboratory, Ahmedabad.
+Martínez Pillet, V., Del Toro Iniesta, J.C., Álvarez-Herrero, A., Domingo, V., Bonet, J.A., Fernández, G., et al.: 2011, Solar Phys. 268, 57.
+Puschmann, K.G., Denker, C., Kneer, F., Al Erdogan, N., Balthasar, H., Bauer, S.M., et al.: 2012a. Astron. Nachr. 333, 880.
+Puschmann, K.G., Balthasar, H., Bauer, S.-M., Hahn, T., Popow, E., Seelemann, T., et al., 2012b. In: Rimmele, T.R., Tritschler, A., Wöger, F., Collados Vera, M., Socas Navarro, H., Schlichenmaier, R., et al. (eds.) 2nd ATST-EAST Workshop in Solar Physics: Magnetic Fields from the Photosphere to the Corona, CS-463, Astron. Soc. Pacific, San Francisco, 423.
+Rust, D.M.: 1994, Opt. Eng. 33, 3342.
+Rust, D.M., Murphy, G., Strohbehn, K., Keller, C.U.: 1996, Solar Phys. 164, 403.
+Scharmer, G.: 2006, Astron. Astrophys. 447, 1111.
+Schmidt, W., Von der Lühe, O., Volkmer, R., Denker, C., Solanki, S.K., Balthasar, H., et al.: 2012, Astron. Nachr. 333, 796.
+Stix, M.: 2004, The Sun: An Introduction, Springer, Berlin, 106.
+Tritschler, A., Schmidt, W., Langhans, K., Kentischer, T.: 2002, Solar Phys. 211, 17.
+Tiwary, A.R., Mathew, S.K., Bayanna, A.R., Venkatakrishnan, P., Yadav, R.: 2017, Solar Phys. 292, 49.
+Venkatakrishnan, P., Mathew, S.K., Srivastava, N., Bayanna, A.R., Kumar, B., Bireddy, R., Jain, N., Saradava, M.: 2017, Curr. Sci., accepted for publication.
+Yariv, A.: 1991, Optical Electronics, Saunders, Philadelphia.

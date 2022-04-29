@@ -1,0 +1,53 @@
+Aarnio, A.N., Stassun, K.G., Hughes, W.J., McGregor, S.L.: 2011, Solar Phys. 268, 195.
+Aulanier, G.: 2014, The physical mechanisms that initiate and drive solar eruptions. In: Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.) Nature of Prominences and Their Role in Space Weather, IAU Symposium, 300, Cambridge University Press, Cambridge, 184.
+Benz, A.O.: 2008, Living Rev. Solar Phys. 5, 64.
+Cane, H.V., Sheeley, N.R. Jr., Howard, R.A.: 1987, J. Geophys. Res. 92, 9869.
+Cho, K.-S., Bong, S.-C., Kim, Y.-H., Moon, Y.-J., Dryer, M., Shanmugaraju, A., Lee, J., Park, Y.D.: 2008, Astron. Astrophys. 491, 873.
+Cho, K.-S., Bong, S.-C., Moon, Y.-J., Shanmugaraju, A., Kwon, R.Y., Park, Y.D.: 2011, Astron. Astrophys. 530, A16.
+Dumbović, M., Devos, A., Vršnak, B., Sudar, D., Rodriguez, L., Ruždjak, D., Leer, K., Vennerstrøm, S., Veronig, A.: 2015, Solar Phys. 290, 579.
+Eselevich, V.G., Eselevich, M.V., Sadykov, V.M., Zimovets, I.V.: 2015, Adv. Space Res. 56, 2793.
+Evans, R.M., Opher, M., Manchester, W.B.I., Gombosi, T.I.: 2008, Astrophys. J. 687, 1355.
+Feng, S.W., Chen, Y., Kong, X.L., Li, G., Song, H.Q., Feng, X.S., Liu, Y.: 2012, Astrophys. J. 753, 21.
+Feng, S.W., Chen, Y., Kong, X.L., Li, G., Song, H.Q., Feng, X.S., Guo, F.: 2013, Astrophys. J. 767, 8.
+Forbes, T.G., Lin, J.: 2000, J. Atmos. Solar-Terr. Phys. 62, 1499.
+Gao, P.X., Li, Q.X., Zhong, S.H.: 2007, J. Astrophys. Astron. 28, 207.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2007, J. Geophys. Res. 112, 6112.
+Gopalswamy, N., Stone, R.G., Weiler, K.W., Goldstein, M.L., Bougeret, J.-L.: 2000, J. Geophys. Res. 119, 23.
+Gopalswamy, N., Lara, A., Kaiser, M.L., Bougeret, J.L.: 2001, J. Geophys. Res. 106, 25261.
+Gopalswamy, N., Aguilar-Rodriguez, E., Yashiro, S., Nunes, S., Kaiser, M.L., Howard, R.A.: 2005, J. Geophys. Res. 110, A12S07.
+Gopalswamy, N., Xie, H., Akiyama, S., Mäkelä, P., Yashiro, S., Michalek, G.: 2015, Astrophys. J. 804, L23.
+Hu, H.-D., Liu, Y.D., Wang, R., Mostl, C., Yang, Z.: 2016, Astrophys. J. 829, 97.
+Kong, X.L., Chen, Y., Li, G., Feng, S.W., Song, H.Q., Guo, F., Jiao, F.R.: 2012, Astrophys. J. 750, 7.
+Kong, X., Yao, C., Fan, G., Shiwei, F., Bing, W., Guohui, D., Gang, L.: 2015, Astrophys. J. 798, 10.
+Kong, X., Yao, C., Fan, G., Shiwei, F., Guohui, D., Gang, L.: 2016, Astrophys. J. 798, 10.
+Lara, A., Gopalswamy, N., Nunes, S., Muñoz, G., Yashiro, S.: 2003, Geophys. Res. Lett. 30, 8016.
+Lawrance, M.B., Shanmugaraju, A., Vršnak, B.: 2015, Solar Phys. 290, 3365L.
+Lee, J.-O., Moon, Y.-J., Lee, J.-Y., Lee, K.-S., Kim, R.-S.: 2016, J. Geophys. Res. 121, 2853.
+Ma, S., Raymond, J.C., Golub, L., Lin, J., Chen, H., Grigis, P., Testa, P., Long, D.: 2011, Astrophys. J. 738, 160.
+Mancuso, S., Raymond, J.C.: 2004, Astron. Astrophys. 413, 363.
+Michalek, G., Gopalswamy, N., Lara, A., Yashiro, S.: 2006, Space Weather 4, 10003.
+Moon, Y.-J., Choe, G.S., Wang, H., Park, Y.D., Gopalswamy, N., Yang, G., Yashiro, S.: 2002, Astrophys. J. 581, 694.
+Pappa Kalaivani, P., Umapathy, S., Shanmugaraju, A., Prakash, O.: 2010, Astrophys. Space Sci. 330, 237P.
+Prakash, O., Umapathy, S., Shanmugaraju, A., Vršnak, B.: 2009, Solar Phys. 258, 105.
+Prakash, O., Umapathy, S., Shanmugaraju, A., Papa Kalaivani, P., Vršnak, B.: 2010, Solar Phys. 266, 135.
+Prakash, O., Umapathy, S., Shanmugaraju, A., Vasanth, V.: 2012, Solar Phys. 281, 765.
+Priest, E.R., Forbes, T.G.: 2002, Astron. Astrophys. Rev. 10, 313.
+Reiner, M.J., Kaiser, M.L.: 1999, J. Geophys. Res. 104, 16979.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Solar Phys. 290, 3457.
+Shanmugaraju, A., Lawrance, M.B.: 2015, Solar Phys. 290, 2963.
+Shen, C., Liao, C., Wang, Y., Ye, P., Wang, S.: 2013, Solar Phys. 282, 543.
+Shibata, K., Magara, T.: 2011, Living Rev. Solar Phys. 8, 6.
+Shibata, K., Masuda, S., Shimojo, M.: 1995, Astrophys. J. Lett. 451, L83.
+Suresh, K., Shanmugaraju, A.: 2015, Solar Phys. 290, 875.
+Vasanth, V., Umapathy, S., Vršnak, B., Anna Lakshmi, M.: 2011, Solar Phys. 273, 143.
+Verbanac, G., Živković, S., Vršnak, B., Bandić, M., Hojsak, T.: 2013, Astron. Astrophys. 558, A85.
+Vršnak, B.: 2008, Ann. Geophys. 26, 3089.
+Vršnak, B., Ruždjak, D., Sudar, D., Gopalswamy, N.: 2004, Astron. Astrophys. 423, 717.
+Wang, Y.M., Ye, P.Z., Wang, S.: 2003, J. Geophys. Res. 108, 1370.
+Webb, D.F., Cliver, E.W., Crooker, N.U., Cry, O.C., Thompson, B.J.: 2000, J. Geophys. Res. 105, 7491.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, J. Geophys. Res. 109, A07105.
+Yashiro, S., Gopalswamy, N., Akiyama, S., Michalek, G., Howard, R.A.: 2005, J. Geophys. Res. 110, A12S05.
+Yermolaev, Y.I., Yermolaev, M.Y.: 2006, Adv. Space Res. 37, 1175Y.
+Zhang, J., Dere, K.P., Howard, R.A., Kundu, M.R., White, S.M.: 2001, Astrophys. J. 559, 452.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, J. Geophys. Res. 112, A10102.
+Zimovets, I.V., Sadykov, V.M.: 2015, Adv. Space Res. 56, 2811.

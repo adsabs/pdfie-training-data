@@ -1,0 +1,51 @@
+Aboudarham, J., Scholl, I., Fuller, N., Fouesneau, M., Galametz, M., Gonon, F., Maire, A., Leroy, Y.: 2008, Automatic detection and tracking of filaments for a solar feature database. Ann. Geophys. 26, 243.
+Aulanier, G., Démoulin, P., Schrijver, C.J., Janvier, M., Pariat, E., Schmieder, B.: 2013, The standard flare model in three dimensions. II. Upper limit on solar flare energy. Astron. Astrophys. 549, A66.
+Beck, C., Choudhary, D.P., Rezaei, R., Louis, R.E.: 2015, Fast inversion of solar Ca II spectra. Astrophys. J. 798, 100.
+Bertello, L., Ulrich, R.K., Boyden, J.E.: 2010, The mount Wilson Ca ii K plage index time series. Solar Phys. 264, 31.
+Carrington, R.C.: 1859, Description of a singular appearance seen in the Sun on September 1, 1859. Mon. Not. Roy. Astron. Soc. 20, 13.
+Charbonneau, P.: 2010, Dynamo models of the solar cycle. Liv. Rev. Solar Phys. 7, 3.
+Chatzistergos, T., Ermolli, I., Solanki, S.K., Krivova, N.A.: 2018, Analysis of full disc Ca II K spectroheliograms. I. Photometric calibration and centre-to-limb variation compensation. Astron. Astrophys. 609, A92.
+Crosby, N.B., Aschwanden, M.J., Dennis, B.R.: 1993, Frequency distributions and correlations of solar X-ray flare parameters. Solar Phys. 143, 275.
+D’Azambuja, L.: 1920, Le Spectroheliographe. L’Astronomie 34, 487.
+Delbouille, L., Roland, G., Neven, L.: 1973, Atlas photometrique du spectre solaire de [lambda] 3000 a [lambda] 10000, Université de Liège.
+Deslandres, H.: 1909, On the progressive revelation of the entire atmosphere of the Sun. Observatory 32, 282.
+Ellison, M.A.: 1946, Visual and spectrographic observations of a great solar flare, 1946 July 25. Mon. Not. Roy. Astron. Soc. 106, 500.
+Fontenla, J.M., Harder, J., Livingston, W., Snow, M., Woods, T.: 2011, High-resolution solar spectral irradiance from extreme ultraviolet to far infrared. J. Geophys. Res., Atmos. 116, D20108.
+Gallagher, P.T., Denker, C., Yurchyshyn, V., Spirock, T., Qiu, J., Wang, H., Goode, P.R.: 2002, Solar activity monitoring and forecasting capabilities at Big Bear Solar Observatory. Ann. Geophys. 20, 1105.
+Garcia, A., Sobotka, M., Klvaňa, M., Bumba, V.: 2011, Synoptic observations with the Coimbra spectroheliograph. Contrib. Astron. Obs. Skaln. Pleso 41, 69.
+Haigh, J.D.: 2007, The Sun and the Earth’s climate. Liv. Rev. Solar Phys. 4, 2.
+Hale, G.E.: 1907, Some new applications of the spectroheliograph. Astrophys. J. 25, 311.
+Hale, G.E., Ellerman, F., Nicholson, S.B., Joy, A.H.: 1919, The magnetic polarity of sun-spots. Astrophys. J. 49, 153.
+Harvey, J.W., Bolding, J., Clark, R., Hauth, D., Hill, F., Kroll, R., Luis, G., Mills, N., Purdy, T., Henney, C., Holland, D., Winter, J.: 2011, Full-disk solar H-alpha images from GONG. In: AAS/Solar Phys. Div. Abs. #42, Bull. Am. Astron. Soc. 43, 17.45.
+Hasan, S.S., Mallik, D.C.V., Bagare, S.P., Rajaguru, S.P.: 2010, Solar physics at the Kodaikanal Observatory: a historical perspective. Astrophys. Space Sci. Proc. 19, 12.
+Hathaway, D.H.: 2010, The solar cycle. Liv. Rev. Solar Phys. 7, 1.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 2002, Group sunspot numbers: sunspot cycle characteristics. Solar Phys. 211, 357.
+Hodgson, R.: 1859, On a curious appearance seen in the Sun. Mon. Not. Roy. Astron. Soc. 20, 15.
+Hoyt, D.V., Schatten, K.H.: 1998, Group sunspot numbers: a new solar activity reconstruction. Solar Phys. 181, 491.
+Karna, N., Pesnell, W.D., Zhang, J.: 2015, A comprehensive study of cavities on the Sun: structures and evolution. In: AGU Fall Meet. Abs. 2015, SH54B.
+Krucker, S., Benz, A.O.: 1998, Energy distribution of heating processes in the quiet solar corona. Astrophys. J. 501, L213.
+Kuridze, D., Henriques, V., Mathioudakis, M., Koza, J., Zaqarashvili, T.V., Rybák, J., Hanslmeier, A., Keenan, F.P.: 2017, Spectroscopic inversions of the Ca II 8542 Å line in a C-class solar flare. Astrophys. J. 846, 9.
+Lean, J.L.: 2018, Estimating solar irradiance since 850 CE. Earth Space Sci. 5, 133.
+Leroy, J.L., Bommier, V., Sahal-Brechot, S.: 1983, The magnetic field in the prominences of the polar crown. Solar Phys. 83, 135.
+Makarov, V.I., Sivaraman, K.R.: 1989, New results concerning the global solar-cycle. Solar Phys. 123, 367.
+Martres, M.-J., Zlicaric, G.: 1982, L’activité solaire, cartes synoptiques de la chromosphere et des taches. L’Astronomie 96, 45.
+Mein, P.: 1977, Multi-channel subtractive spectrograph and filament observations. Solar Phys. 54, 45.
+Mein, P., Ribes, E.: 1990, Spectroheliograms and motions of magnetic tracers. Astron. Astrophys. 227, 577.
+Mein, P., Mein, N., Malherbe, J.M., Dame, L.: 1987, Inversion of line profile disturbances – a nonlinear method applied to solar CaII lines. Astron. Astrophys. 177, 283.
+Mein, P., Briand, C., Heinzel, P., Mein, N.: 2000, Solar arch filaments observed with THEMIS. Astron. Astrophys. 355, 1146.
+Molowny-Horas, R., Heinzel, P., Mein, P., Mein, N.: 1999, A non-LTE inversion procedure for chromospheric cloud-like features. Astron. Astrophys. 345, 618.
+Mouradian, Z., Soru-Escaut, I.: 1993, On solar activity and the solar cycle. A new analysis of the butterfly diagram of sunspots. Astron. Astrophys. 280, 661.
+Mouradian, Z., Soru-Escaut, I.: 1994, A new analysis of the butterfly diagram for solar filaments. Astron. Astrophys. 290, 279.
+Norton, A.A., Charbonneau, P., Passos, D.: 2014, Hemispheric coupling: comparing dynamo simulations and observations. Space Sci. Rev. 186, 251.
+Parnell, C.E., Jupp, P.E.: 2000, Statistical analysis of the energy distribution of nanoflares in the quiet Sun. Astrophys. J. 529, 554.
+Petrovay, K.: 2010, Solar cycle prediction. Living Rev. Solar Phys. 7, 6.
+Pevtsov, A.A., Virtanen, I., Mursula, K., Tlatov, A., Bertello, L.: 2016, Reconstructing solar magnetic fields from historical observations. I. Renormalized Ca K spectroheliograms and pseudo-magnetograms. Astron. Astrophys. 585, A40.
+Ribes, E., Bonnefond, F.: 1990, Magnetic tracers, a probe of the solar convective layers. Geophys. Astrophys. Fluid Dyn. 55, 241.
+Schmieder, B.: 2018, Extreme solar storms based on solar magnetic field. J. Atmos. Solar-Terr. Phys. 180, 46.
+Schrijver, C.J., Beer, J., Baltensperger, U., Cliver, E.W., Güdel, M., Hudson, H.S., McCracken, K.G., Osten, R.A., Peter, T., Soderblom, D.R., Usoskin, I.G., Wolff, E.W.: 2012, Estimating the frequency of extremely energetic solar events, based on solar, stellar, lunar, and terrestrial records. J. Geophys. Res. (Space Phys.) 117, A08103.
+Schwabe, H.: 1844, Sonnenbeobachtungen im Jahre 1843. Von Herrn Hofrath Schwabe in Dessau. Astron. Nachr. 21, 233.
+Secchi, A.: 1875, Le Soleil.
+Shimizu, T., Tsuneta, S.: 1997, Deep survey of solar nanoflares with Yohkoh. Astrophys. J. 486, 1045.
+Tobias, S.M.: 2002, The solar dynamo. Phil. Trans. Roy. Soc. London Ser. A, Math. Phys. Sci. 360, 2741.
+Toriumi, S., Schrijver, C.J., Harra, L.K., Hudson, H., Nagashima, K.: 2017, Magnetic properties of solar active regions that govern large solar flares and eruptions. Astrophys. J. 834, 56.
+Wolf, R.: 1861, Abstract of his latest results. Mon. Not. Roy. Astron. Soc. 21, 77.

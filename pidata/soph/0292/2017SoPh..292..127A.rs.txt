@@ -1,0 +1,54 @@
+Bale, S.D., Reiner, M.J., Bougeret, J.-L., Kaiser, M.L., Krucker, S., Larson, D.E., Lin, R.P.: 1999, Geophys. Res. Lett. 26, 1573.
+Bemporad, A., Mancuso, S.: 2010, Astrophys. J. 720, 130.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P.J., Manning, R., Goetz, K., Monson, S.J., Monge, N., Friel, L., Meetre, C.A., Perche, C., Sitruk, L., Hoang, S.: 1995, Space Sci. Rev. 71, 231.
+Bougeret, J.-L., Goetz, K., Kaiser, M.L., Bale, S.D., Kellogg, P.J., Maksimovic, M., et al.: 2008, Space Sci. Rev. 136, 487.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, Solar Phys. 162, 357.
+Burlaga, L.F., Plunkett, S.P., St. Cyr, O.C.: 2002, J. Geophys. Res. 107, 1266.
+Cairns, I.-H., Knock, S.-A., Robinson, P.-A., Kuncic, Z.: 2003, Space Sci. Rev. Astrophys. 107, 827.
+Cane, H.V., Sheeley, N.R. Jr., Howard, R.A.: 1987, J. Geophys. Res. 92, 9869.
+Cho, K.-S., Bong, S.-C., Kim, Y.-H., Moon, Y.-J., Dryer, M., Shanmugaraju, A., Lee, J., Park, Y.D.: 2008, Astron. Astrophys. 491, 873.
+Cho, K.-S., Bong, S.-C., Moon, Y.-J., Shanmugaraju, A., Kwon, R.-Y., Park, Y.D.: 2011, Astron. Astrophys. 530, A16.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., et al.: 2014, Solar Phys. 162, 291.
+Ding, L-G., Li, G., Jiang, Y., Le, G-M., Shen, C-L., Wang, Y-M., Chen, Y., Xu, F., Gu, B., Zhang, Y-N.: 2014, Astrophys. J. 793, L35.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2001a, Geophys. Res. Lett. 106, 29219.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.L.: 2001b, Astrophys. J. Lett. 548, L91.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.-L.: 2002, Geophys. Res. Lett. 29, 106.
+Gopalswamy, N., Mäkelä, P., Yashiro, S., Xie, H., Akiyama, S., Thakur, N.: 2015, J. Phys. Conf. Ser. 642, 012012.
+Holman, G.D., Pesses, M.E.: 1983, Astrophys. J. 276, 837.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Space Sci. Rev. 136, 67.
+Kai, K., Melrose, D.B., Suzuki, S.: 1985, In: McLean, D.J., Labrum, N.R. (eds.) Solar Radiophysics, Cambridge University Press, New York.
+Krupar, V., Eastwood, J.P., Kruparova, O., Santolik, O., Soucek, J., Magdalenic, J., Vourlidas, A., Maksimovic, M., Bonnin, X., Bothmer, V., Mrotzek, N., Pluta, A., Barnes, D., Davies, J.A., Martínez Oliveros, J.C., Bale, S.D.: 2016, Astrophys. J. Lett. 823, L5.
+Leblanc, Y., Dulk, G.A., Bougeret, J.-L.: 1998, Solar Phys. 183, 165.
+Lin, R.P., Potter, D.W., Gurnett, D.A., Scarf, F.L.: 1981, Astrophys. J. 251, 364.
+Liu, Y.D., Luhmann, J.G., Lugaz, N., Möstl, C., Davies, J.A., Bale, S.D., Lin, R.P.: 2013, Astrophys. J. 769, 45.
+Lugaz, N., Manchester, W.B. IV, Gombosi, T.I.: 2005, Astrophys. J. 634, 651.
+Lugaz, N., Manchester, W.B. IV, Roussev, I.I., Gombosi, T.I.: 2008, J. Atmos. Solar-Terr. Phys. 70, 598.
+Lugaz, N., Vourlidas, A., Roussev, I.I., Morgan, H.: 2009, Solar Phys. 256, 269.
+Magdalenić, J., Marqué, C., Krupar, V., Mierla, M., Zhukov, A.N., Rodriguez, L., Maksimović, M., Cecconi, B.: 2014, Astrophys. J. 791, 115.
+Mäkelä, P., Gopalswamy, N., Reiner, M.J., Akiyama, S., Krupar, V.: 2016, Astrophys. J. 827, 141.
+Maric˘ić, D., Vrs˘nak, B., Dumbović, M., Z˘ic, T., Ros˘a, D., Hrz˘ina, D., Lulić, S., Roms˘tajn, I., Bus˘ić, I., Salamon, K., Temmer, M., Rollett, T., Veronig, A., Bostanjyan, N., Chilingarian, A., Mailyan, B., Arakelyan, K., Hovhannisyan, A., Mujić, N.: 2014, Solar Phys. 289, 351.
+Martínez Oliveros, J.C., Raftery, C.L., Bain, H.M., Liu, Y., Krupar, V., Bale, S., Krucker, S.: 2012, Astrophys. J. 748, 66.
+Mays, M.L., Thompson, B.J., Jian, L.K., Colaninno, R.C., Odstrcil, D., Möstl, C., Temmer, M., Savani, N.P., Collinson, G., Taktakishvili, A., MacNeice, P.J., Zheng, Y.: 2015, Astrophys. J. 812, 145.
+Möstl, C., Amla, K., Hall, J.R., Liewer, P.C., De Jong, E.M., Colaninno, R.C., Veronig, A.M., Rollett, T., Temmer, M., Peinhart, V., Davies, J.A., Lugaz, N., Liu, Y.D., Farrugia, C.J., Luhmann, J.G., Vršnak, B., Harrison, R.A., Galvin, A.B.: 2014, Astrophys. J. 787, 119.
+Möstl, C., Rollett, T., Frahm, R.A., Liu, Y.D., Long, D.M., Colaninno, R.C., Reiss, M.A., Temmer, M., Farrugia, C.J., Posner, A., Dumbović, M., Janvier, M., Démoulin, P., Boakes, P., Devos, A., Kraaikamp, E., Mays, M.L., Vršnak, B.: 2015, Nat. Commun. 6, 7135.
+Newkirk, G. Jr.: 1961, Astrophys. J. 133, 983.
+Odstrcil, D., Vandas, M., Pizzo, V.J., MacNeice, P.: 2003, In: Velli, M., Bruno, R., Malara, F., Bucci, B. (eds.) Tenth International Solar Wind Conf., AIP Conf. Proc. 679, 699.
+Papaioannou, A., Souvatzoglou, G., Paschalis, P., Gerontidou, M., Mavromichalaki, H.: 2014, Solar Phys. 289, 423.
+Pohjolainen, S., Al-Hamadani, F., Valtonen, E.: 2016, Solar Phys. 291, 487.
+Pohjolainen, S., Allawi, H., Valtonen, E.: 2013, Astron. Astrophys. 558, A7.
+Pohjolainen, S., van Driel-Gesztelyi, L., Culhane, J.L., Manoharan, P.K., Elliott, H.A.: 2007, Solar Phys. 244, 167.
+Reiner, M.J., Karlický, M., Jiřička, K., Aurass, H., Mann, G., Kaiser, M.L.: 2000, Astrophys. J. 530, 1049.
+Reiner, M.J., Klein, K.-L., Karlicky, M., Jiricka, K., Klassen, A., Kaiser, M.L., Bougeret, J.-L.: 2008, Solar Phys. 249, 337.
+Reiner, M.J., Goetz, K., Fainberg, J., Kaiser, M.L., Maksimovic, M., Cecconi, B., Hoang, S., Bale, S.D., Bougeret, J.-L.: 2009, Solar Phys. 259, 255.
+Saito, K.: 1970, Ann. Tokyo Astron. Obs. 12, 53.
+Shanmugaraju, A., Prasanna Subramanian, S., Vrsnak, B., Ibrahim, M.S.: 2014, Solar Phys. 289, 4621.
+Teklu, T.B., Gholap, A.V., Gopalswamy, N., Yashiro, S., Mäkelä, P., Akiyama, S., Thakur, N., Xie, H.: 2016, URSI Asia-Pacific Radio Science Conference, Seoul, 2016, ArXiv e-prints
+Temmer, M., Vrs˘nak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y., Bosman, E.: 2012, Astrophys. J. 749, 57.
+Temmer, M., Veronig, A.M., Peinhart, V., Vrs˘nak, B.: 2014, Astrophys. J. 785, 85.
+Vandas, M., Fischer, S., Dryer, M., Smith, Z., Detman, T., Geranios, A.: 1997, Geophys. Res. Lett. 102, 22295.
+Vrs˘nak, B., Magdalenic˘, J., Zlobec, P.: 2004, Astron. Astrophys. 413, 753.
+Wu, S.T., Wang, A.H., Gopalswamy, N.: 2002, In: Sawaya-Lacoste, H. (ed.) SOLMAG 2002, ESA SP-505, 227.
+Wu, C-C., Liou, K., Vourlidas, A., Plunkett, S., Dryer, M., Wu, S.T., Mewaldt, R.A.: 2016, J. Geophys. Res. 121, 56.
+Wuelser, J.-P., Lemen, J.R., Tarbell, T.D., Wolfson, C.J., Cannon, J.C., Carpenter, B.A., et al.: 2004, EUVI: the STEREO-SECCHI extreme ultraviolet imager. In: Fineschi, S., Gummin, M.A. (eds.) Telescopes and Instrumentation for Solar Astrophysics, Soc. Photo-Optical Instrum. Eng. (SPIE), 111.
+Xie, H., St. Cyr, O.C., Gopalswamy, N., Odstrcil, D., Cremades, H.: 2013, J. Geophys. Res. 118, 4711.
+Zucca, P., Carley, E.P., Bloomfield, D.S., Gallagher, P.T.: 2014, Astron. Astrophys. 564, A47.

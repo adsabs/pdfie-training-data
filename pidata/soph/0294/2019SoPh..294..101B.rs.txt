@@ -1,0 +1,28 @@
+Aschwanden, M.J., Lim, J., Gary, D.E., Klimchuk, J.A.: 1995, Solar rotation stereoscopy in microwaves. Astrophys. J. 454, 512.
+Aschwanden, M.J., Newmark, J.S., Delaboudinière, J.-P., Neupert, W.M., Klimchuk, J.A., Gary, G.A., Portier-Fozzani, F., Zucker, A.: 1999, Three-dimensional stereoscopic analysis of solar active region loops. I. SOHO/EIT observations at temperatures of (1.0 -- 1.5) × 10
+Aschwanden, M.J., Nitta, N.V., Wuelser, J.-P., Lemen, J.R.: 2008, First 3D reconstructions of coronal loops with the STEREO A+B spacecraft. II. Electron density and temperature measurements. Astrophys. J. 680, 1477.
+Aschwanden, M.J., Wuelser, J.-P., Nitta, N.V., Lemen, J.R., Sandman, A.: 2009, First three-dimensional reconstructions of coronal loops with the STEREO A+B spacecraft. III. Instant stereoscopic tomography of active regions. Astrophys. J. 695, 12.
+Aschwanden, M.J., Boerner, P., Schrijver, C.J., Malanushenko, A.: 2013, Automated temperature and emission measure analysis of coronal loops and active regions observed with the atmospheric imaging assembly on the solar dynamics observatory (SDO/AIA). Solar Phys. 283, 5.
+Boerner, P., Edwards, C., Lemen, J., Rausch, A., Schrijver, C., Shine, R., et al.: 2012, Initial calibration of the Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 41.
+Bray, R.J., Cram, L.E., Durrant, C.J., Loughhead, R.E.: 1991, Plasma Loops in the Solar Corona, Digitally printed first paperback edition 2005 edn. Cambridge University Press, Cambridge. ISBN: 978-0-521-02223-1.
+Chifu, I., Wiegelmann, T., Inhester, B.: 2017, Nonlinear force-free coronal magnetic stereoscopy. Astrophys. J. 837, 10.
+Cirtain, J.W., Golub, L., Winebarger, A.R., De Pontieu, B., Kobayashi, K., Moore, R.L., et al.: 2013, Energy release in the solar corona from spatially resolved magnetic braids. Nature 493, 501.
+De Pontieu, B., Title, A.M., Lemen, J.R., Kushner, G.D., Akin, D.J., Allard, B., et al.: 2014, The Interface Region Imaging Spectrograph (IRIS). Solar Phys. 289, 2733.
+Del Zanna, G.: 2013, The multi-thermal emission in solar active regions. Astron. Astrophys. 558, A73.
+Fletcher, L., De Pontieu, B.: 1999, Plasma diagnostics of transition region “Moss” using SOHO/CDS and TRACE. Astrophys. J. Lett. 520, L135.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the SolarSoft system. Solar Phys. 182, 497.
+Hannah, I.G., Kontar, E.P.: 2012, Differential emission measures from the regularized inversion of Hinode and SDO data. Astron. Astrophys. 539, A146.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: An introduction. Space Sci. Rev. 136, 5.
+Kashyap, V., Drake, J.J.: 1998, Markov-chain Monte Carlo reconstruction of emission measure distributions: application to solar extreme-ultraviolet spectra. Astrophys. J. 503, 450.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Malanushenko, A., Schrijver, C.J., DeRosa, M.L., Wheatland, M.S., Gilchrist, S.A.: 2012, Guiding nonlinear force-free modeling using coronal observations: first results using a quasi-grad-Rubin scheme. Astrophys. J. 756, 153.
+Milić, I., van Noort, M.: 2017, Line response functions in nonlocal thermodynamic equilibrium. Isotropic case. Astron. Astrophys. 601, A100.
+Müller, P.H. (ed.): 1975, Lexikon der Stochastik, 2nd edn. Akademie Verlag, Berlin.
+Rosner, R., Tucker, W.H., Vaiana, G.S.: 1978, Dynamics of the quiescent corona. Astrophys. J. 220, 643.
+Schmelz, J.T., Pathak, S., Christian, G.M., Dhaliwal, R.S.S., Paul, K.S.: 2015, The coronal loop inventory project. Astrophys. J. 813, 71.
+Schrijver, C.J., Sandmann, A.W., Achwanden, M.J., DeRosa, M.L.: 2004, The coronal heating mechanism as identified by full-Sun visualizations. Astrophys. J. 615, 512.
+Vásquez, A.M., Huang, Z., Manchester, W.B., Frazin, R.A.: 2011, The WHI corona from differential emission measure tomography. Solar Phys. 274, 259.
+Warren, H.P., Crump, N.A., Ugarte-Urra, I., Sun, X., Aschwanden, M.J., Wiegelmann, T.: 2018, Toward a quantitative comparison of magnetic field extrapolations and observed coronal loops. Astrophys. J. 860, 46.
+Wiegelmann, T.: 2008, Nonlinear force-free modeling of the solar coronal magnetic field. J. Geophys. Res. 113, 3.
+Wiegelmann, T., Thalmann, J.K., Inhester, B., Tadesse, T., Sun, X., Hoeksema, J.T.: 2012, How should one optimize nonlinear force-free coronal magnetic field extrapolations from SDO/HMI vector magnetograms? Solar Phys. 281, 37.

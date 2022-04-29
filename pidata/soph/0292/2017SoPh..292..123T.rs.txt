@@ -1,0 +1,50 @@
+Brun, A.S., Toomre, J.: 2002, Astrophys. J. 570, 865.
+Cabrera Solana, D., Bellot Rubio, L.R., del Toro Iniesta, J.C.: 2005, Astron. Astrophys. 439, 687.
+Caccin, B., Donati-Falchi, A., Falciani, R.: 1973, Solar Phys. 33, 49.
+Caccin, B., Falciani, R., Donati-Falchi, A.: 1976, Solar Phys. 46, 29.
+Caccin, B., Falciani, R., Donati Falchi, A.: 1978, Solar Phys. 57, 13.
+Caccin, B., Falciani, R., Moschi, G., Rigutti, M.: 1970, Solar Phys. 13, 33.
+Cayrel, R.: 1988, In: Cayrel de Strobel, G., Spite, M. (eds.) The Impact of Very High S/N Spectroscopy on Stellar Physics, Proc. IAU Symp. 132, Kluwer, Dordrecht, 345.
+Criscuoli, S., Ermolli, I., Uitenbroek, H., Giorgi, F.: 2013, Astrophys. J. 763, 144.
+Elste, G.: 1986, Solar Phys. 107, 47.
+Fabbian, D., Khomenko, E., Moreno-Insertis, F., Nordlund, Å.: 2010, Astrophys. J. 724, 1536.
+Fabbian, D., Moreno-Insertis, F., Khomenko, E., Nordlund, Å.: 2012, Astron. Astrophys. 548, A35.
+Falciani, R., Rigutti, M., Roberti, G.: 1974, Solar Phys. 35, 277.
+Gray, D.F.: 2005, The Observation and Analysis of Stellar Photospheres, 3rd edn. Cambridge University Press, Cambridge.
+Gray, D.F., Livingston, W.C.: 1997a, Astrophys. J. 474, 798.
+Gray, D.F., Livingston, W.C.: 1997b, Astrophys. J. 474, 802.
+Holweger, H., Gehlsen, M., Ruland, F.: 1978, Astron. Astrophys. 70, 537.
+Hotta, H., Rempel, M., Yokoyama, T.: 2015, Astrophys. J. 798, 51.
+Jevremović, D., Vince, I., Erkapić, S., Popović, L.: 1993, Publ. Obs. Astron. Belgrade 44, 33.
+Kiselman, D., Pereira, T.M.D., Gustafsson, B., Asplund, M., Meléndez, J., Langhans, K.: 2011, Astron. Astrophys. 535, A14.
+Kovtyukh, V.V., Gorlova, N.I.: 2000, Astron. Astrophys. 358, 587.
+Kuhn, J.R., Bush, R.I., Scheick, X., Scherrer, P.: 1998, Nature 392, 155.
+Kurucz, R.L.: 1993, Kurucz CR-ROM No. 13, Harvard-Smithsonian Center for Astrophysics, Cambridge.
+Miesch, M.S., Brun, A.S., Toomre, J.: 2006, Astrophys. J. 641, 618.
+Moore, C.S., Uitenbroek, H., Rempel, M., Criscuoli, S., Rast, M.P.: 2015, Astrophys. J. 799, 150.
+Muller, R., Hanslmeier, A., Utz, D.: 2017, Astron. Astrophys. 598, A6.
+Nakai, Y., Hattori, A.: 1985, Memoirs of the Faculty of Science, Series A of Physics, Astrophysics, Geophysics and Chemistry 36, Kyoto University, Kyoto 385.
+Nordlund, Å., Stein, R.F., Asplund, M.: 2009, Living Rev. Solar Phys. 6, 2.
+Noyes, R.W., Ayres, T.R., Hall, D.N.B.: 1973, Solar Phys. 28, 343.
+Pereira, T.M.D., Asplund, M., Kiselman, D.: 2009, Astron. Astrophys. 508, 1403.
+Petrie, G.J.D.: 2015, Living Rev. Solar Phys. 12, 5.
+Rast, M.P., Ortiz, A., Meisner, R.W.: 2008, Astrophys. J. 673, 1209.
+Rodríguez Hidalgo, I., Collados, M., Vázquez, M.: 1992, Astron. Astrophys. 264, 661.
+Rodríguez Hidalgo, I., Collados, M., Vázquez, M.: 1994, Astron. Astrophys. 283, 263.
+Rutten, R.J.: 1973, Solar Phys. 28, 347.
+Ryabchikova, T., Piskunov, N., Kurucz, R.L., Stempels, H.C., Heiter, U.: 2015, Phys. Scr. 90, 054005.
+Sánchez Almeida, J., Martínez González, M.: 2011, In: Kuhn, J.R., Harrington, D.M., Lin, H., Berdyugina, S.V., Trujillo-Bueno, J., Keil, S.L., Rimmele, T. (eds.) Solar Polarization 6, ASP Conf. Ser. 437, Astron. Soc. Pacific, San Francisco, 451.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I. (MDI Engineering Team): 1995, Solar Phys. 162, 129.
+Sheminova, V.A.: 1993, Kinemat. Fiz. Nebesnyh Tel. 9, 27.
+Sheminova, V.A.: 1998, Astron. Astrophys. 329, 721.
+Stenflo, J.O., Lindegren, I.: 1977, Astron. Astrophys. 59, 367.
+Takeda, Y.: 1993, Publ. Astron. Soc. Japan 45, 453.
+Takeda, Y.: 1994, Publ. Astron. Soc. Japan 46, 53.
+Takeda, Y.: 1995a, Publ. Astron. Soc. Japan 47, 287.
+Takeda, Y.: 1995b, Publ. Astron. Soc. Japan 47, 337.
+Takeda, Y., Ohkubo, M., Sadakane, K.: 2002, Publ. Astron. Soc. Japan 54, 451.
+Takeda, Y., UeNo, S.: 2014, Publ. Astron. Soc. Japan 66, 32.
+Takeda, Y., UeNo, S.: 2017, Publ. Astron. Soc. Japan 69, 46.
+Trujillo Bueno, J., Shchukina, N., Asensio Ramos, A.: 2004, Nature 430, 326.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008, Solar Phys. 249, 167.
+Ulrich, R.K., Boyden, J.E.: 2005, Astrophys. J. 620, L123.

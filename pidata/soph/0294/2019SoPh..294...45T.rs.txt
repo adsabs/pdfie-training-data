@@ -1,0 +1,12 @@
+Antalova, A.: 1971, The ratio of penumbral and umbral areas of sun-spots in the 11-year solar activity cycle. Bull. Astron. Inst. Czech. 22, 352.
+Bogdan, T.J., Gilman, P.A., Lerche, I., Howard, R.: 1988, Distribution of sunspot umbral areas – 1917 – 1982. Astrophys. J. 327, 451.
+Cho, I.-H., Cho, K.-S., Bong, S.-C., Lim, E.-K., Kim, R.-S., Choi, S., Kim, Y.-H., Yurchyshyn, V.: 2015, Statistical comparison between pores and sunspots by using SDO/HMI. Astrophys. J. 811, 49.
+Dmitrieva, M.G., Kopecky, M., Kuklin, V.G.: 1968, The supergranular pattern and the stable stages of sunspot groups. In: Kiepenheuer K.O. (ed.) Structure and Development of Solar Active Regions, IAU Symp. 35, 174.
+Nagovitsyn, Y.A., Pevtsov, A.A., Livingston, W.M.: 2012, On a possible explanation of the long-term decrease in sunspot field strength. Astrophys. J. 758, L20.
+Nagovitsyn, Y.A., Pevtsov, A.A., Osipova, A.A., Tlatov, A.G., Miletskii, E.V., Nagovitsyna, E.Y.: 2016, Two populations of sunspots and secular variations of their characteristics. Astron. Lett. 42, 703.
+Rieutord, M., Rincon, F.: 2010, The Sun’s supergranulation. Living Rev. Solar Phys. 7, 82.
+Sobotka, M.: 2015, Solar activity II: Sunspots and pores. Astron. Nachr. 324, 369.
+Tlatov, A.G., Pevtsov, A.A.: 2014, Bimodal distribution of magnetic fields and areas of sunspots. Solar Phys. 289, 1143.
+Tlatov, A.G., Vasil’eva, V.V., Makarova, V.V., Otkidychev, P.A.: 2014, Applying an automatic image-processing method to synoptic observations. Solar Phys. 289, 1403.
+Tlatov, A.G., Tlatova, K.A., Vasil’eva, V.V., Pevtsov, A.A., Mursula, K.: 2015, Long-term variation of statistical properties of sunspot field strengths and their relation to the characteristics of solar cycles in 1917 – 2013. Adv. Space Res. 55, 835.
+Vitinsky, Y.I., Kopecky, M., Kuklin, G.V.: 1986, The Statistics of Sunspots (Statistika Pjatnoobrazovatelnoj Dejatelnosti Solntsa), Nauka, Moscow (in Russian)

@@ -1,0 +1,167 @@
+Alissandrakis, C.E., Dialetis, D., Mein, P., Schmieder, B., Simon, G.: 1988, The Evershed flow in the solar photosphere, chromosphere and chromosphere-corona transition region. Astron. Astrophys. 201, 339.
+Aulanier, G., Démoulin, P.: 1998, 3-D magnetic configurations supporting prominences. I. The natural presence of lateral feet. Astron. Astrophys. 329, 1125.
+Aulanier, G., Démoulin, P., Grappin, R.: 2005, Equilibrium and observational properties of line-tied twisted flux tubes. Astron. Astrophys. 430, 1067.
+Aulanier, G., Janvier, M., Schmieder, B.: 2012, The standard flare model in three dimensions. I. Strong-to-weak shear transition in post-flare loops. Astron. Astrophys. 543, A110.
+Aulanier, G., Schmieder, B.: 2002, The magnetic nature of wide EUV filament channels and their role in the mass loading of CMEs. Astron. Astrophys. 386, 1106.
+Aulanier, G., Démoulin, P., Schmieder, B., Fang, C., Tang, Y.H.: 1998a, Magnetohydrostatic model of a bald-patch flare. Solar Phys. 183, 369.
+Aulanier, G., Démoulin, P., van Driel-Gesztelyi, L., Mein, P., Deforest, C.: 1998b, 3-D magnetic configurations supporting prominences. II. The lateral feet as a perturbation of a twisted flux-tube. Astron. Astrophys. 335, 309.
+Aulanier, G., Démoulin, P., Mein, N., van Driel-Gesztelyi, L., Mein, P., Schmieder, B.: 1999, 3-D magnetic configurations supporting prominences. III. Evolution of fine structures observed in a filament channel. Astron. Astrophys. 342, 867.
+Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Formation of torus-unstable flux ropes and electric currents in erupting sigmoids. Astrophys. J. 708, 314.
+Aulanier, G., Démoulin, P., Schrijver, C.J., Janvier, M., Pariat, E., Schmieder, B.: 2013, The standard flare model in three dimensions. II. Upper limit on solar flare energy. Astron. Astrophys. 549, A66.
+Berlicki, A., Schmieder, B., Vilmer, N., Aulanier, G., Del Zanna, G.: 2004, Evolution and magnetic topology of the M 1.0 flare of October 22, 2002. Astron. Astrophys. 423, 1119.
+Berlicki, A., Heinzel, P., Schmieder, B., Mein, P., Mein, N.: 2005, Non-LTE diagnostics of velocity fields during the gradual phase of a solar flare. Astron. Astrophys. 430, 679.
+Berlicki, A., Gunar, S., Heinzel, P., Schmieder, B., Schwartz, P.: 2011, 2D radiative-magnetohydrostatic model of a prominence observed by Hinode, SoHO/SUMER and Meudon/MSDP. Astron. Astrophys. 530, A143.
+Bocchialini, K., Grison, B., Menvielle, M., Chambodut, A., Cornilleau-Wehrlin, N., Fontaine, D., Marchaudon, A., Pick, M., Pitout, F., Schmieder, B., Régnier, S., Zouganelis, I.: 2018, Statistical analysis of solar events associated with storm sudden commencements over one year of solar maximum during cycle 23: Propagation from the Sun to the Earth and effects. Solar Phys. 293, 75.
+Canou, A., Amari, T., Bommier, V., Schmieder, B., Aulanier, G., Li, H.: 2009, Evidence for a pre-eruptive twisted flux rope using the THEMIS vector magnetograph. Astrophys. J. Lett. 693, L27.
+Chandra, R., Schmieder, B., Aulanier, G., Malherbe, J.M.: 2009, Evidence of magnetic helicity in emerging flux and associated flare. Solar Phys. 258, 53.
+Chandra, R., Schmieder, B., Mandrini, C.H., Démoulin, P., Pariat, E., Török, T., Uddin, W.: 2011, Homologous flares and magnetic field topology in active region NOAA 10501 on 20 November 2003. Solar Phys. 269, 83.
+Chandra, R., Chen, P.F., Joshi, R., Joshi, B., Schmieder, B.: 2018, Observations of two successive EUV waves and their mode conversion. Astrophys. J. 863, 101.
+Cid, C., Cremades, H., Aran, A., Mandrini, C., Sanahuja, B., Schmieder, B., Menvielle, M., Rodriguez, L., Saiz, E., Cerrato, Y., Dasso, S., Jacobs, C., Lathuillere, C., Zhukov, A.: 2012, Can a halo CME from the limb be geoeffective? J. Geophys. Res. 117, A11102.
+Cremades, H., Mandrini, C.H., Schmieder, B., Crescitelli, A.M.: 2015, Coronal mass ejections from the same active region cluster: Two different perspectives. Solar Phys. 290, 1671.
+Dalmasse, K., Chandra, R., Schmieder, B., Aulanier, G.: 2015, Can we explain atypical solar flares? Astron. Astrophys. 574, A37.
+Dalmasse, K., Pariat, É., Valori, G., Jing, J., Démoulin, P.: 2018, Studying the transfer of magnetic helicity in solar active regions with the connectivity-based helicity flux density method. Astrophys. J. 852, 141.
+Dasso, S., Mandrini, C.H., Schmieder, B., Cremades, H., Cid, C., Cerrato, Y., Saiz, E., Démoulin, P., Zhukov, A.N., Rodriguez, L., Aran, A., Menvielle, M., Poedts, S.: 2009, Linking two consecutive nonmerging magnetic clouds with their solar sources. J. Geophys. Res. 114, A02109.
+Del Zanna, G., Schmieder, B., Mason, H., Berlicki, A., Bradshaw, S.: 2006, The gradual phase of the X17 flare on October 28, 2003. Solar Phys. 239, 173.
+Delannée, C., Artzner, G., Schmieder, B., Parenti, S.: 2014, Time evolution of the altitude of an observed coronal wave. Solar Phys. 289, 2565.
+Démoulin, P., Malherbe, J.M., Priest, E.R.: 1989, The magnetic field around quiescent solar prominences computed from observational boundary conditions. Astron. Astrophys. 211, 428.
+Démoulin, P., Priest, E.R.: 1988, Instability of a prominence supported in a linear force-free field. Astron. Astrophys. 206, 336.
+Démoulin, P., Priest, E.R.: 1993, A model for an inverse-polarity prominence supported in a dip of a quadrupolar region. Solar Phys. 144, 283.
+Démoulin, P., Raadu, M.A.: 1992, Helical structures around quiescent solar prominences computed from observable magnetic fields. Solar Phys. 142, 291.
+Démoulin, P., Malherbe, J.M., Schmieder, B., Raadu, M.A.: 1987, Fine structures in solar filaments. I – Observations and thermal stability. Astron. Astrophys. 183, 142.
+Démoulin, P., Henoux, J.C., Priest, E.R., Mandrini, C.H.: 1996, Quasi-separatrix layers in solar flares. I. Method. Astron. Astrophys. 308, 643.
+Démoulin, P., Bagala, L.G., Mandrini, C.H., Henoux, J.C., Rovira, M.G.: 1997, Quasi-separatrix layers in solar flares. II. Observed magnetic configurations. Astron. Astrophys. 325, 305.
+Deng, Y.Y., Schmieder, B., Mandrini, C.H., Khan, J.I., Démoulin, P., Rudawy, P.: 1999, The evolution from birth to decay of a short-lived active region. Astron. Astrophys. 349, 927.
+Dere, K.P., Schmieder, B., Alissandrakis, C.E.: 1990, Flow patterns in a sunspot region observed in the photosphere, chromosphere and transition region. Astron. Astrophys. 233, 207.
+Dudík, J., Aulanier, G., Schmieder, B., Bommier, V., Roudier, T.: 2008, Topological departures from translational invariance along a filament observed by THEMIS. Solar Phys. 248, 29.
+Dudík, J., Aulanier, G., Schmieder, B., Zapiór, M., Heinzel, P.: 2012, Magnetic topology of bubbles in quiescent prominences. Astrophys. J. 761, 9.
+Dudík, J., Polito, V., Janvier, M., Mulay, S.M., Karlický, M., Aulanier, G., Del Zanna, G., Dzifčáková, E., Mason, H.E., Schmieder, B.: 2016, Slipping magnetic reconnection, chromospheric evaporation, implosion, and precursors in the 2014 September 10 X1.6-class solar flare. Astrophys. J. 823, 41.
+Dudík, J., Zuccarello, F.P., Aulanier, G., Schmieder, B., Démoulin, P.: 2017, Expanding and contracting coronal loops as evidence of vortex flows induced by solar eruptions. Astrophys. J. 844, 54.
+Fang, C.: 2018, Sixty-year career in solar physics. Solar Phys. 293, 72.
+Fontenla, J., Schmieder, B., Simnett, G.M., Tandberg-Hanssen, E.: 1994, Time evolution of a miniflare as seen in H-alpha, UV lines, and X-rays. Astrophys. J. 424, 1022.
+Forbes, T.G., Malherbe, J.M.: 1986, A shock condensation mechanism for loop prominences. Astrophys. J. Lett. 302, L67.
+Georgoulis, M.K., Rust, D.M., Bernasconi, P.N., Schmieder, B.: 2002, Statistics, morphology, and energetics of Ellerman bombs. Astrophys. J. 575, 506.
+Grubecka, M., Schmieder, B., Berlicki, A., Heinzel, P., Dalmasse, K., Mein, P.: 2016, Height formation of bright points observed by IRIS in Mg II line wings during flux emergence. Astron. Astrophys. 593, A32.
+Gu, X.-M., Lin, J., Luan, T., Schmieder, B.: 1992, Time evolution of a two-ribbon flare – Characteristics of post-flare loops. Astron. Astrophys. 259, 649.
+Gu, X.-M., Ding, Y.-J., Luo, Z., Schmieder, B.: 1997, Post-flare loops of May 16, 1981. Astron. Astrophys. 324, 289.
+Gunár, S., Heinzel, P., Schmieder, B., Schwartz, P., Anzer, U.: 2007, Properties of prominence fine-structure threads derived from SOHO/SUMER hydrogen Lyman lines. Astron. Astrophys. 472, 929.
+Gunár, S., Heinzel, P., Anzer, U., Schmieder, B.: 2008, On Lyman-line asymmetries in quiescent prominences. Astron. Astrophys. 490, 307.
+Gunár, S., Schwartz, P., Schmieder, B., Heinzel, P., Anzer, U.: 2010, Statistical comparison of the observed and synthetic hydrogen Lyman line profiles in solar prominences. Astron. Astrophys. 514, A43.
+Gunár, S., Mein, P., Schmieder, B., Heinzel, P., Mein, N.: 2012, Dynamics of quiescent prominence fine structures analyzed by 2D non-LTE modelling of the Hα line. Astron. Astrophys. 543, A93.
+Gunár, S., Schwartz, P., Dudík, J., Schmieder, B., Heinzel, P., Jurčák, J.: 2014, Magnetic field and radiative transfer modelling of a quiescent prominence. Astron. Astrophys. 567, A123.
+Gunár, S., Dudík, J., Aulanier, G., Schmieder, B., Heinzel, P.: 2018, Importance of the Hα visibility and projection effects for the interpretation of prominence fine-structure observations. Astrophys. J. 867, 115.
+Guo, Y., Ding, M.D., Schmieder, B., Li, H., Török, T., Wiegelmann, T.: 2010, Driving mechanism and onset condition of a confined eruption. Astrophys. J. Lett. 725, L38.
+Heinzel, P., Anzer, U., Schmieder, B.: 2003, A spectroscopic model of EUV filaments. Solar Phys. 216, 159.
+Heinzel, P., Schmieder, B., Mein, P.: 1992, Structure and dynamics of cool flare loops. Solar Phys. 139, 81.
+Heinzel, P., Schmieder, B., Tziotziou, K.: 2001, Why are solar filaments more extended in extreme-ultraviolet lines than in Hα ? Astrophys. J. Lett. 561, L223.
+Heinzel, P., Schmieder, B., Vial, J.C., Rudawy, P.: 2000, Solar prominences observed by soho (SUMER, CDS, EIT) and Ground-Based Observatories (GBO). Adv. Space Res. 25, 1777.
+Heinzel, P., Schmieder, B., Fárník, F., Schwartz, P., Labrosse, N., Kotrč, P., Anzer, U., Molodij, G., Berlicki, A., DeLuca, E.E., Golub, L., Watanabe, T., Berger, T.: 2008, Hinode, TRACE, SOHO, and ground-based observations of a quiescent prominence. Astrophys. J. 686, 1383.
+Heinzel, P., Schmieder, B., Mein, N., Gunár, S.: 2015, Understanding the Mg II and Hα spectra in a highly dynamical solar prominence. Astrophys. J. Lett. 800, L13.
+Janvier, M., Aulanier, G., Démoulin, P.: 2015, From coronal observations to MHD simulations, the building blocks for 3D models of solar flares (invited review). Solar Phys. 290, 3425.
+Janvier, M., Aulanier, G., Bommier, V., Schmieder, B., Démoulin, P., Pariat, E.: 2014, Electric currents in flare ribbons: Observations and three-dimensional standard model. Astrophys. J. 788, 60.
+Joshi, N.C., Schmieder, B., Magara, T., Guo, Y., Aulanier, G.: 2016, Chain reconnections observed in sympathetic eruptions. Astrophys. J. 820, 126.
+Joshi, N.C., Zhu, X., Schmieder, B., Aulanier, G., Janvier, M., Joshi, B., Magara, T., Chandra, R., Inoue, S.: 2019, Generalization of the magnetic field configuration of typical and atypical confined flares. Astrophys. J. 871, 165.
+Kucera, T.A., Aulanier, G., Schmieder, B., Mein, N., Vial, J.-C.: 1999, Filament channel structures in a SI IV line related to a 3d magnetic model. Solar Phys. 186, 259.
+Labrosse, N., Heinzel, P., Vial, J.-C., Kucera, T., Parenti, S., Gunár, S., Schmieder, B., Kilper, G.: 2010, Physics of solar prominences: I. Spectral diagnostics and non-LTE modelling. Space Sci. Rev. 151, 243.
+Levens, P.J., Schmieder, B., Labrosse, N., López Ariste, A.: 2016a, Structure of prominence legs: Plasma and magnetic field. Astrophys. J. 818, 31.
+Levens, P.J., Schmieder, B., López Ariste, A., Labrosse, N., Dalmasse, K., Gelly, B.: 2016b, Magnetic field in atypical prominence structures: Bubble, tornado, and eruption. Astrophys. J. 826, 164.
+Levens, P.J., Labrosse, N., Schmieder, B., López Ariste, A., Fletcher, L.: 2017, Comparing UV/EUV line parameters and magnetic field in a quiescent prominence with tornadoes. Astron. Astrophys. 607, A16.
+Li, H., Schmieder, B., Aulanier, G., Berlicki, A.: 2006, Is pre-eruptive null point reconnection required for triggering eruptions? Solar Phys. 237, 85.
+Lopez Ariste, A.L.: 2014, Instrument concepts for the observation of prominences with future ground-based telescopes. In: Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.) Nature of Prominences and Their Role in Space Weather, IAU Symposium 300, 370.
+López Ariste, A., Aulanier, G., Schmieder, B., Sainz Dalda, A.: 2006, First observation of bald patches in a filament channel and at a barb endpoint. Astron. Astrophys. 456, 725.
+Mackay, D.H., Karpen, J.T., Ballester, J.L., Schmieder, B., Aulanier, G.: 2010, Physics of solar prominences: II. Magnetic structure and dynamics. Space Sci. Rev. 151, 333.
+Malherbe, J.M., Schmieder, B., Mein, P.: 1981, Dynamics in the filaments. I – Oscillations in a quiescent filament. Astron. Astrophys. 102, 124.
+Malherbe, J.M., Simon, G., Mein, P., Mein, N., Schmieder, B., Vial, J.C.: 1982, Preflare heating of filaments. Adv. Space Res. 2, 53.
+Malherbe, J.M., Schmieder, B., Ribes, E., Mein, P.: 1983, Dynamics of solar filaments. II – Mass motions in an active region filament from H-alpha center to limb observations. Astron. Astrophys. 119, 197.
+Malherbe, J.M., Schmieder, B., Simon, G., Mein, P., Tandberg-Hanssen, E.: 1987, Closed magnetic structures in the chromosphere and in the transition region. Solar Phys. 112, 233.
+Malherbe, J.-M., Tarbell, T., Wiik, J.E., Schmieder, B., Frank, Z., Shine, R.A., van Driel-Gesztelyi, L.: 1997, The postflare loops and the nearby active chromosphere of 1992 June 26. Astrophys. J. 482, 535.
+Mandrini, C.H., Démoulin, P., van Driel-Gesztelyi, L., Schmieder, B., Cauzzi, G., Hofmann, A.: 1996, 3D magnetic reconnection at an X-ray bright point. Solar Phys. 168, 115.
+Mandrini, C.H., Démoulin, P., Bagala, L.G., van Driel-Gesztelyi, L., Henoux, J.C., Schmieder, B., Rovira, M.G.: 1997, Evidence of magnetic reconnection from Hα , soft X-ray and photospheric magnetic field observations. Solar Phys. 174, 229.
+Mandrini, C.H., Démoulin, P., Schmieder, B., Deluca, E.E., Pariat, E., Uddin, W.: 2006, Companion event and precursor of the X17 flare on 28 October 2003. Solar Phys. 238, 293.
+Mandrini, C.H., Schmieder, B., Démoulin, P., Guo, Y., Cristiani, G.D.: 2014, Topological analysis of emerging bipole clusters producing violent solar events. Solar Phys. 289, 2041.
+Martres, M.-J., Mein, P., Schmieder, B., Soru-Escaut, I.: 1981, Structure and evolution of velocities in quiescent filaments. Solar Phys. 69, 301.
+Mein, N., Schmieder, B.: 1981, Mechanical flux in the solar chromosphere. III – Variation of the mechanical flux. Astron. Astrophys. 97, 310.
+Mein, N., Schmieder, B., Simon, G., Tandberg-Hanssen, E., Wu, S.T.: 1982, Dynamics of the eruptive prominence of 6 May 1980 and its relationship to the coronal transient. Astron. Astrophys. 114, 192.
+Moore, R.L., Schmieder, B., Hathaway, D.H., Tarbell, T.D.: 1997, 3-D magnetic field configuration late in a large two-ribbon flare. Solar Phys. 176, 153.
+Parenti, S., Schmieder, B., Heinzel, P., Golub, L.: 2012, On the nature of prominence emission observed by SDO/AIA. Astrophys. J. 754, 66.
+Pariat, E., Aulanier, G., Schmieder, B., Georgoulis, M.K., Rust, D.M., Bernasconi, P.N.: 2004, Resistive emergence of undulatory flux tubes. Astrophys. J. 614, 1099.
+Pariat, E., Schmieder, B., Berlicki, A., Deng, Y., Mein, N., López Ariste, A., Wang, S.: 2007, Spectrophotometric analysis of Ellerman bombs in the Ca II, Hα , and UV range. Astron. Astrophys. 473, 279.
+Priest, E.R.: 2014, A life of fun playing with solar magnetic fields (special historical review). Solar Phys. 289, 3579.
+Raadu, M.A., Malherbe, J.M., Schmieder, B., Mein, P.: 1987a, Material ejecta in a disturbed solar filament. Solar Phys. 109, 59.
+Raadu, M.A., Schmieder, B., Mein, N., Gesztelyi, L.: 1987b, Photospheric induced destabilization and ejection of prominence material. Hvar Obs. Bull. 11, 105.
+Raadu, M.A., Schmieder, B., Mein, N., Gesztelyi, L.: 1988, Photospheric-induced destabilization and ejection of prominence material. Astron. Astrophys. 197, 289.
+Rodriguez, L., Zhukov, A.N., Cid, C., Cerrato, Y., Saiz, E., Cremades, H., Dasso, S., Menvielle, M., Aran, A., Mandrini, C., Poedts, S., Schmieder, B.: 2009, Three frontside full halo coronal mass ejections with a nontypical geomagnetic response. Space Weather 7, S06003.
+Roudier, T., Švanda, M., Meunier, N., Keil, S., Rieutord, M., Malherbe, J.M., Rondi, S., Molodij, G., Bommier, V., Schmieder, B.: 2008, Large-scale horizontal flows in the solar photosphere. III. Effects on filament destabilization. Astron. Astrophys. 480, 255.
+Roudier, T., Schmieder, B., Filippov, B., Chandra, R., Malherbe, J.M.: 2018, Horizontal photospheric flows trigger a filament eruption. Astron. Astrophys. 618, A43.
+Ruan, G., Schmieder, B., Mein, P., Mein, N., Labrosse, N., Gunár, S., Chen, Y.: 2018, On the dynamic nature of a quiescent prominence observed by IRIS and MSDP spectrographs. Astrophys. J. 865, 123.
+Schmieder, B.: 1972, Fluctuations of temperature and density in the photosphere. Astron. Astrophys. 16, 44.
+Schmieder, B.: 1976, Wave propagation in the photosphere. Solar Phys. 47, 435.
+Schmieder, B.: 1977, Linear hydrodynamical equations coupled with radiative transfer in a non-isothermal atmosphere. I – Method. Solar Phys. 54, 269.
+Schmieder, B.: 1978, Linear hydrodynamical equations coupled with radiative transfer in a non-isothermal atmosphere. II – Application to solar photospheric observations. Solar Phys. 57, 245.
+Schmieder, B.: 1979, Waves in the low solar chromosphere. Astron. Astrophys. 74, 273.
+Schmieder, B.: 2018, Extreme solar storms based on solar magnetic field. J. Atmos. Solar-Terr. Phys. 180, 46.
+Schmieder, B., Archontis, V., Pariat, E.: 2014, Magnetic flux emergence along the solar cycle. Space Sci. Rev. 186, 227.
+Schmieder, B., Aulanier, G.: 2012, What are the physical mechanisms of eruptions and CMEs? Adv. Space Res. 49, 1598.
+Schmieder, B., Aulanier, G.: 2018, Solar active region electric currents before and during eruptive flares. In: Keiling, A., Marghitu, O., Wheatland, M. (eds.) Electric Currents in Geospace and Beyond, Washington DC American Geophysical Union Geophysical Monograph Series 235, 391.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Flare-CME models: An observational perspective (invited review). Solar Phys. 290, 3457.
+Schmieder, B., Démoulin, P., Aulanier, G.: 2013, Solar filament eruptions and their physical role in triggering coronal mass ejections. Adv. Space Res. 51, 1967.
+Schmieder, B., Fang, C., Harra-Murnion, L.K.: 1998, Spectral analysis of a thermal flare on 27 October 1993. Solar Phys. 182, 447.
+Schmieder, B., Golub, L., Antiochos, S.K.: 1994, Comparison between cool and hot plasma behaviors of surges. Astrophys. J. 425, 326.
+Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.): 2014, Nature of Prominences and Their Role in Space Weather, IAU Symposium 300.
+Schmieder, B., Mein, N.: 1980, Mechanical flux in the solar chromosphere. II – Determination of the mechanical flux. Astron. Astrophys. 84, 99.
+Schmieder, B., Raadu, M.A., Wiik, J.E.: 1991, Fine structure of solar filaments. II – Dynamics of threads and footpoints. Astron. Astrophys. 252, 353.
+Schmieder, B., Tziotziou, K., Heinzel, P.: 2003, Spectroscopic diagnostics of an Hα and EUV filament observed with THEMIS and SOHO. Astron. Astrophys. 401, 361.
+Schmieder, B., Mein, P., Vial, J.C., Tandberg-Hanssen, E.: 1982, A surge observed in H alpha and C IV. Adv. Space Res. 2, 225.
+Schmieder, B., Mein, P., Vial, J.-C., Tandberg-Hanssen, E.: 1983, Dynamics of a surge observed in the C IV and H alpha lines. Astron. Astrophys. 127, 337.
+Schmieder, B., Simon, G., Martres, M.-J., Mein, P., Mein, N., Tandberg-Hanssen, E.: 1984, Recurrent mass ejections observed in H-alpha and CIV. Adv. Space Res. 4, 27.
+Schmieder, B., Malherbe, J.M., Simon, G., Poland, A.I.: 1985, Dynamics of solar filaments. IV – Structure and mass flow of an active region filament. Astron. Astrophys. 153, 64.
+Schmieder, B., Démoulin, P., Poland, A., Thompson, B.: 1988a, Some dynamical aspects of a quiescent filament. Astron. Astrophys. 197, 281.
+Schmieder, B., Mein, P., Malherbe, J.-M., Forbes, T.G.: 1988b, Post-flare loops – Formation and velocity. Adv. Space Res. 8, 145.
+Schmieder, B., Mein, P., Simnett, G.M., Tandberg-Hanssen, E.: 1988c, An example of the association of X-ray and UV emission with H-alpha surges. Astron. Astrophys. 201, 327.
+Schmieder, B., Malherbe, J.M., Simnett, G.M., Forbes, T.G., Tandberg-Hanssen, E.: 1990, Evaporation in the transition region during the gradual phase of flares. Astrophys. J. 356, 720.
+Schmieder, B., van Driel-Gesztelyi, L., Gerlei, O., Simnett, G.M.: 1993, A study of surges and flares within an active region. Solar Phys. 146, 163.
+Schmieder, B., Heinzel, P., Wiik, J.E., Lemen, J., Anwar, B., Kotrc, P., Hiei, E.: 1995a, Relation between cool and hot post-flare loops of 26 June 1992 derived from optical and X-ray (SXT-Yohkoh) observations. Solar Phys. 156, 337.
+Schmieder, B., Shibata, K., van Driel-Gesztelyi, L., Freeland, S.: 1995b, H alpha surges and associated soft X-ray loops. Solar Phys. 156, 245.
+Schmieder, B., Démoulin, P., Aulanier, G., Golub, L.: 1996a, Differential magnetic field shear in an active region. Astrophys. J. 467, 881.
+Schmieder, B., Heinzel, P., van Driel-Gesztelyi, L., Lemen, J.R.: 1996b, Post-flare loops of 26 June 1992, II. Solar Phys. 165, 303.
+Schmieder, B., Rovira, M., Simnett, G.M., Fontenla, J.M., Tandberg-Hanssen, E.: 1996c, Subflares and surges in AR 2744 during the solar maximum mission. Astron. Astrophys. 308, 957.
+Schmieder, B., Aulanier, G., Démoulin, P., van Driel-Gesztelyi, L., Roudier, T., Nitta, N., Cauzzi, G.: 1997, Magnetic reconnection driven by emergence of sheared magnetic field. Astron. Astrophys. 325, 1213.
+Schmieder, B., Heinzel, P., Vial, J.C., Rudawy, P.: 1999, SOHO/SUMER observations and analysis of hydrogen Lyman lines in a quiescent prominence. Solar Phys. 189, 109.
+Schmieder, B., Lin, Y., Heinzel, P., Schwartz, P.: 2004a, Multi-wavelength study of a high-latitude EUV filament. Solar Phys. 221, 297.
+Schmieder, B., Mein, N., Deng, Y., Dumitrache, C., Malherbe, J.-M., Staiger, J., Deluca, E.E.: 2004b, Magnetic changes observed in the formation of two filaments in a complex active region: TRACE and MSDP observations. Solar Phys. 223, 119.
+Schmieder, B., Rust, D.M., Georgoulis, M.K., Démoulin, P., Bernasconi, P.N.: 2004c, Emerging flux and the heating of coronal loops. Astrophys. J. 601, 530.
+Schmieder, B., Aulanier, G., Mein, P., López Ariste, A.: 2006, Evolving photospheric flux concentrations and filament dynamic changes. Solar Phys. 238, 245.
+Schmieder, B., Gunár, S., Heinzel, P., Anzer, U.: 2007a, Spectral diagnostics of the magnetic field orientation in a prominence observed with SOHO/SUMER. Solar Phys. 241, 53.
+Schmieder, B., Mandrini, C.H., Démoulin, P., Aulanier, G., Li, H., Berlicki, A.: 2007b, What is the role of magnetic null points in large flares? Adv. Space Res. 39, 1840.
+Schmieder, B., Guo, Y., Moreno-Insertis, F., Aulanier, G., Yelles Chaouche, L., Nishizuka, N., Harra, L.K., Thalmann, J.K., Vargas Dominguez, S., Liu, Y.: 2013, Twisting solar coronal jet launched at the boundary of an active region. Astron. Astrophys. 559, A1.
+Schmieder, B., Roudier, T., Mein, N., Mein, P., Malherbe, J.M., Chandra, R.: 2014a, Proper horizontal photospheric flows in a filament channel. Astron. Astrophys. 564, A104.
+Schmieder, B., Tian, H., Kucera, T., López Ariste, A., Mein, N., Mein, P., Dalmasse, K., Golub, L.: 2014b, Open questions on prominences from coordinated observations by IRIS, Hinode, SDO/AIA, THEMIS, and the Meudon/MSDP. Astron. Astrophys. 569, A85.
+Schmieder, B., Mein, P., Mein, N., Levens, P.J., Labrosse, N., Ofman, L.: 2017a, Hα Doppler shifts in a tornado in the solar corona. Astron. Astrophys. 597, A109.
+Schmieder, B., Zapiór, M., López Ariste, A., Levens, P., Labrosse, N., Gravet, R.: 2017b, Reconstruction of a helical prominence in 3D from IRIS spectra and images. Astron. Astrophys. 606, A30.
+Schwartz, P., Heinzel, P., Anzer, U., Schmieder, B.: 2004, Determination of the 3D structure of an EUV-filament observed by SoHO/CDS, SoHO/SUMER and VTT/MSDP. Astron. Astrophys. 421, 323.
+Schwartz, P., Heinzel, P., Schmieder, B., Anzer, U.: 2006, Study of an extended EUV filament using SoHO/SUMER observations of the hydrogen Lyman lines. Astron. Astrophys. 459, 651.
+Secchi, A.: 1875, Le Soleil, Gauthier-Villars, Paris.
+She, Z.S., Malherbe, J.M., Raadu, M.A.: 1986, Transition zone effects on thermal non-equilibrium and plasma condensation in solar coronal loops. Astron. Astrophys. 164, 364.
+Shibata, K., Isobe, H., Hillier, A., Choudhuri, A.R., Maehara, H., Ishii, T.T., Shibayama, T., Notsu, S., Notsu, Y., Nagao, T., Honda, S., Nogami, D.: 2013, Can superflares occur on our Sun? Publ. Astron. Soc. Japan 65, 49.
+Simon, G., Schmieder, B., Démoulin, P., Poland, A.I.: 1986, Dynamics of solar filaments. VI – Center-to-limb study of H-alpha and C IV velocities in a quiescent filament. Astron. Astrophys. 166, 319.
+Tandberg-Hanssen, E.: 1995, Books-received – The nature of solar prominences. Science 269, 111.
+Tandberg-Hanssen, E.: 2011, Solar prominences – An intriguing phenomenon. Solar Phys. 269, 237.
+Tang, Y.H., Li, Y.N., Fang, C., Aulanier, G., Schmieder, B., Démoulin, P., Sakurai, T.: 2000, Hα and soft X-ray brightening events caused by emerging flux. Astrophys. J. 534, 482.
+Thompson, W.T., Schmieder, B.: 1991, Oscillations in H-alpha filaments – Center-to-limb study. Astron. Astrophys. 243, 501.
+Török, T., Aulanier, G., Schmieder, B., Reeves, K.K., Golub, L.: 2009, Fan-spine topology formation through two-step reconnection driven by twisted flux emergence. Astrophys. J. 704, 485.
+Török, T., Chandra, R., Pariat, E., Démoulin, P., Schmieder, B., Aulanier, G., Linton, M.G., Mandrini, C.H.: 2011, Filament interaction modeled by flux rope reconnection. Astrophys. J. 728, 65.
+Tsiropoula, G., Alissandrakis, C.E., Schmieder, B.: 1993, The fine structure of a chromospheric rosette. Astron. Astrophys. 271, 574.
+Tsiropoula, G., Alissandrakis, C.E., Schmieder, B.: 1994, Time evolution of fine structures in the solar chromosphere. Astron. Astrophys. 290, 285.
+Tsiropoula, G., Schmieder, B.: 1997, Determination of physical parameters in dark mottles. Astron. Astrophys. 324, 1183.
+van Driel-Gesztelyi, L., Schmieder, B., Cauzzi, G., Mein, N., Hofmann, A., Nitta, N., Kurokawa, H., Mein, P., Staiger, J.: 1996, X-ray bright point flares due to magnetic reconnection. Solar Phys. 163, 145.
+van Driel-Gesztelyi, L., Csepura, G., Schmieder, B., Malherbe, J.-M., Metcalf, T.: 1997, Evolution of a delta group in the photosphere and corona. Solar Phys. 172, 151.
+van Driel-Gesztelyi, L., Manoharan, P.K., Démoulin, P., Aulanier, G., Mandrini, C.H., Lopez-Fuentes, M., Schmieder, B., Orlando, S., Thompson, B., Plunkett, S.: 2000, Initiation of CMEs: The role of magnetic twist. J. Atmos. Solar-Terr. Phys. 62, 1437.
+Wiik, J.E., Dere, K., Schmieder, B.: 1993, UV prominences observed with the HRTS: Structure and physical properties. Astron. Astrophys. 273, 267.
+Wiik, J.E., Heinzel, P., Schmieder, B.: 1992, Determination of plasma parameters in a quiescent prominence. Astron. Astrophys. 260, 419.
+Wiik, J.E., Schmieder, B., Heinzel, P., Roudier, T.: 1996, Post-flare loops of 26 June 1992, III. Solar Phys. 166, 89.
+Wiik, J.E., van Driel-Gesztely, L., Schmieder, B., Heinzel, P.: 1997, Dynamics and evolution of the post-flare loops of June 1992. Adv. Space Res. 20, 2345.
+Wiik, J.E., Dammasch, I.E., Schmieder, B., Wilhelm, K.: 1999, Multiple-thread model of a prominence observed by SUMER and EIT on SOHO. Solar Phys. 187, 405.
+Young, P.R., Tian, H., Peter, H., Rutten, R.J., Nelson, C.J., Huang, Z., Schmieder, B., Vissers, G.J.M., Toriumi, S., Rouppe van der Voort, L.H.M., Madjarska, M.S., Danilovic, S., Berlicki, A., Chitta, L.P., Cheung, M.C.M., Madsen, C., Reardon, K.P., Katsukawa, Y., Heinzel, P.: 2018, Solar ultraviolet bursts. Space Sci. Rev. 214, 120.
+Zhao, J., Li, H., Pariat, E., Schmieder, B., Guo, Y., Wiegelmann, T.: 2014, Temporal evolution of the magnetic topology of the NOAA active region 11158. Astrophys. J. 787, 88.
+Zhao, J., Gilchrist, S.A., Aulanier, G., Schmieder, B., Pariat, E., Li, H.: 2016, Hooked flare ribbons and flux-rope-related QSL footprints. Astrophys. J. 823, 62.
+Zhao, J., Schmieder, B., Li, H., Pariat, E., Zhu, X., Feng, L., Grubecka, M.: 2017, Observational evidence of magnetic reconnection for brightenings and transition region arcades in IRIS observations. Astrophys. J. 836, 52.
+Zuccarello, F.P., Chandra, R., Schmieder, B., Aulanier, G., Joshi, R.: 2017, Transition from eruptive to confined flares in the same active region. Astron. Astrophys. 601, A26.

@@ -1,0 +1,26 @@
+Bertello, L., Ulrich, R.K., Boyden, J.E.: 2010, The Mount Wilson Ca II K plage index time series. Solar Phys. 264, 31.
+Charbonneau, P.: 2007, Babcock Leighton models of the solar cycle: Questions and issues. Adv. Space Res. 39, 1661.
+Choudhuri, A.R., Schüssler, M., Dikpati, M.: 1995, The solar dynamo with meridional circulation Astron. Astrophys. 303, L29.
+Ermolli, I., Solanki, S.K., Tlatov, A.G., Krivova, N.A., Ulrich, R.K., Singh, J.: 2009, Comparison among Ca II K spectroheliogram time series with an application to solar activity studies. Astrophys. J. 698, 1000.
+Foukal, P.: 1996, The behavior of solar magnetic plages measured from Mt. Wilson observations between 1915 – 1984. Geophys. Res. Lett. 23, 2169.
+Foukal, P., Fröhlich, C., Spruit, H., Wigley, T.M.L.: 2006, Variations in solar luminosity and their effect on the Earth’s climate. Nature 443, 161.
+Foukal, P., Bertello, L., Livingston, W.C., Pevtsov, A.A., Singh, J., Tlatov, A.G., Ulrich, R.K.: 2009, A century of solar Ca II measurements and their implication for solar UV driving of climate. Solar Phys. 255, 229.
+Gray, D.F., Livingston, W.C.: 1997, Monitoring the solar temperature: Empirical calibration of the temperature sensitivity of C I λ5380. Astrophys. J. 474, 798.
+Hale, G.E., Ellerman, F.: 1903, The Rumford spectroheliograph of the Yerkes Observatory. Pub. Yerkes Obs. 3, I.1.
+Jiang, J., Işik, E., Cameron, R.H., Schmitt, D., Schüssler, M.: 2010, The effect of activity-related meridional flow modulation on the strength of the solar polar magnetic field. Astrophys. J. 717, 597.
+Jin, C.L., Wang, J.X.: 2012, The latitude distribution of small-scale magnetic elements in Solar Cycle 23. Astrophys. J. 745, 39.
+Kuhn, J.R.: 1990, Measuring solar structure variations from helioseismic and photometric observations. In: Osaki, Y., Shibahashi, H. (eds.) Progress of Seismology of the Sun and Stars, Lecture Notes in Physics 367, Springer, Berlin, 157.
+Livingston, W., Wallace, L., White, O.R., Giampapa, M.S.: 2007, Sun-as-a-star spectrum variations 1974 – 2006. Astrophys. J. 657, 1137.
+Nindos, A., Zirin, H.: 1998, The relation of Ca II K features to magnetic field. Solar Phys. 179, 253.
+Ortiz, A., Rast, M.: 2005, How good is the Ca II K as a proxy for the magnetic flux? Mem. Soc. Astron. Ital. 76, 1018.
+Penn, M.J., Livingston, W.: 2006, Temporal changes in sunspot umbral magnetic fields and temperatures. Astrophys. J. Lett. 649, L45.
+Pevtsov, A.A., Bertello, L., Uitenbroek, H.: 2013, On possible variations of basal Ca II K chromospheric line profiles with the solar cycle. Astrophys. J. 767, 56.
+Priyal, M., Singh, J., Ravindra, B., Priya, T.G., Amareswari, K.: 2014, Long term variations in chromospheric features from Ca-K images at Kodaikanal. Solar Phys. 289, 137.
+Sindhuja, G., Singh, J., Ravindra, B.: 2014, Study of meridional flow using Ca-K line profiles during Solar Cycles 22 and 23. Astrophys. J. 792, 22.
+Sivaraman, K.R., Livingston, W.C.: 1982, Ca II K2V spectral features and their relation to small-scale photospheric magnetic fields. Solar Phys. 80, 227.
+Solanki, S.K., Unruh, Y.C.: 2013, Solar irradiance variability. Astron. Nachr. 334, 145.
+Tlatov, A.G., Pevtsov, A.A., Singh, J.: 2009, A new method of calibration of photographic plates from three historic data sets. Solar Phys. 255, 239.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Am. Meteorol. Soc. 79, 61.
+Ulrich, R.K., Bertello, L.: 1995, Solar-cycle dependence of the Sun’s apparent radius in the neutral iron spectral line at 525 nm. Nature 377, 214.
+White, O.R., Livingston, W.C.: 1981, Solar luminosity variation. III – Calcium K variation from solar minimum to maximum in cycle 21. Astrophys. J. 249, 798.
+Worden, J.R., White, O.R., Woods, T.N.: 1998, Evolution of chromospheric structures derived from Ca II K spectroheliograms: Implications for solar ultraviolet irradiance variability. Astrophys. J. 496, 998.

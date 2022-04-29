@@ -1,0 +1,42 @@
+Alhassan, W., Taylor, A.R., Vaccari, M.: 2018, The FIRST classifier: compact and extended radio galaxy classification using deep Convolutional Neural Networks. Mon. Not. Roy. Astron. Soc. 480, 2085.
+Asensio Ramos, A., de laCruz Rodríguez, J., Pastor Yabar, A.: 2018, Real-time, multiframe, blind deconvolution of solar images. Astron. Astrophys. 620, A73.
+Asensio Ramos, A., Requerey, I.S., Vitas, N.: 2017, DeepVel: deep learning for the estimation of horizontal velocities at the solar surface. Astron. Astrophys. 604, A11.
+Bastian, T.S.: 2004, Low-frequency solar radiophysics with LOFAR and FASR. Planet. Space Sci. 52, 1381.
+Bui, H.M., Lech, M., Cheng, E., Neville, K., Burnett, I.S.: 2016, Using grayscale images for object recognition with convolutional-recursive neural network. In: 2016 IEEE Sixth International Conference on Communications and Electronics (ICCE), 321.
+Cybenko, G.: 1989, Approximation by superpositions of a sigmoidal function. Math. Control Signals Syst. 2, 303.
+Dai, J.-M., Tong, J.: 2018, Galaxy Morphology Classification with Deep Convolutional Neural Networks. arXiv e-prints,
+Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., Li, F.F.: 2009, ImageNet: a large-scale hierarchical image database. In: IEEE Conference on Computer Vision and Pattern Recognition, 248.
+Díaz Baso, C.J., Asensio Ramos, A.: 2018, Enhancing SDO/HMI images using deep learning. Astron. Astrophys. 614, A5.
+Elmore, D.F., Rimmele, T., Casini, R., Hegwer, S., Kuhn, J., Lin, H., McMullin, J.P., Reardon, K., Schmidt, W., Tritschler, A., Wöger, F.: 2014, The Daniel K. Inouye Solar Telescope first light instruments and critical science plan. In: Ground-based and Airborne Instrumentation for Astronomy V 9147, 914707.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., Battaglia, M., Bone, L., Caspi, A., Chen, Q., Gallagher, P., Grigis, P.T., Ji, H., Liu, W., Milligan, R.O., Temmer, M.: 2011, An observational overview of solar flares. Space Sci. Rev. 159, 19.
+Florios, K., Kontogiannis, I., Park, S.-H., Guerra, J.A., Benvenuto, F., Bloomfield, D.S., Georgoulis, M.K.: 2018, Forecasting solar flares using magnetogram-based predictors and machine learning. Solar Phys. 293, 28.
+Gunes Baydin, A., Pearlmutter, B.A.: 2014, Automatic differentiation of algorithms for machine learning. arXiv e-prints,
+Hao, Q., Chen, P.F., Fang, C.: 2018, Automated detection methods for solar activities and an application for statistic analysis of solar filament. Proc. Int. Astron. Union 13(S340), 101.
+He, K., Zhang, X., Ren, S., Sun, J.: 2015a, Deep residual learning for image recognition. arXiv e-prints,
+He, K., Zhang, X., Ren, S., Sun, J.: 2015b, Delving deep into rectifiers: surpassing human-level performance on ImageNet classification. arXiv e-prints,
+Hornik, K.: 1991, Approximation capabilities of multilayer feedforward networks. Neural Netw. 4(2), 251.
+Ioffe, S., Szegedy, C.: 2015, Batch normalization: accelerating Deep Network training by reducing internal covariate shift. arXiv e-prints,
+Johnson, J., Alahi, A., Fei-Fei, L.: 2016, Perceptual losses for real-time style transfer and super-resolution. arXiv e-prints,
+Jones, K.L.: 1990, Constructive approximations for neural networks by sigmoidal functions. Proc. IEEE 87, 1586.
+Kupyn, O., Budzan, V., Mykhailych, M., Mishkin, D., Matas, J.: 2017, DeblurGAN: blind motion deblurring using conditional adversarial networks. arXiv e-prints,
+Lecun, Y., Bottou, L., Bengio, Y., Haffner, P.: 1998, Gradient-based learning applied to document recognition. Proc. IEEE 86(11), 2278.
+Lin, R.P.: 2000, The High Energy Solar Spectroscopic Imager (HESSI) mission. In: Ramaty, R., Mandzhavidze, N. (eds.) High Energy Sol. Phys. Workshop – Anticipating Hess!, Astronomical Society of the Pacific Conference Series 206, 1.
+Liu, C., Deng, N., Wang, J.T.L., Wang, H.: 2017, Predicting solar flares using SDO/HMI vector magnetic data products and the random forest algorithm. Astrophys. J. 843, 104.
+Liu, J., Ye, Y., Shen, C., Wang, Y., Erdélyi, R.: 2018, A new tool for CME arrival time prediction using machine learning algorithms: CAT-PUMA. Astrophys. J. 855, 109.
+Lu, Z., Pu, H., Wang, F., Hu, Z., Wang, L.: 2017, The expressive power of neural networks: a view from the width. arXiv e-prints,
+Nair, V., Hinton, G.E.: 2010, Rectified linear units improve restricted Boltzmann machines. In: Proceeding ICML’10 Proceedings of the 27th International Conference on International Conference on Machine Learning, 807.
+Nishizuka, N., Sugiura, K., Kubo, Y., Den, M., Watari, S., Ishii, M.: 2017, Solar flare prediction model with three machine-learning algorithms using ultraviolet brightening and vector magnetograms. Astrophys. J. 835, 156.
+Osborne, C.M.J., Armstrong, J.A., Fletcher, L.: 2019, RADYNVERSION: learning to invert a solar flare atmosphere with Invertible Neural Networks. Astrophys. J. 873, 14.
+Panos, B., Kleint, L., Huwyler, C., Krucker, S., Melchior, M., Ullmann, D., Voloshynovskiy, S.: 2018, Identifying typical Mg II flare spectra using machine learning. Astrophys. J. 861, 62.
+Park, S., Kwak, N.: 2017, Analysis on the dropout effect in convolutional neural networks. In: Lai, S.-H., Lepetit, V., Nishino, K., Sato, Y. (eds.) Computer Vision, ACCV 2016, Springer, Cham, 189. 978-3-319-54184-6.
+Piana, M., Massone, A.M., Benvenuto, F., Campi, C.: 2018, FLARECAST: an I4.0 technology for space weather using satellite data. arXiv e-prints,
+Read, J., Pfahringer, B., Holmes, G., Frank, E.: 2011, Classifier chains for multi-label classification. Mach. Learn. 85(3), 333.
+Rokach, L., Schclar, A., Itach, E.: 2013, Ensemble methods for multi-label classification. arXiv e-prints,
+Schwer, K., Lilly, R.B., Thompson, B.J., Brewer, D.A.: 2002, The SDO mission. In: AGU Fall Meeting Abstracts, SH21C.
+Simard, P.Y., Steinkraus, D., Platt, J.C.: 2003, Best practices for convolutional neural networks applied to visual document analysis. In: Proceedings of the Seventh International Conference on Document Analysis and Recognition, Vol. 2, ICDAR ’03, IEEE Computer Society, Washington, 958. 0-7695-1960-1.
+Simonyan, K., Zisserman, A.: 2014, Very deep convolutional networks for large-scale image recognition. arXiv e-prints,
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R.: 2014, Dropout: a simple way to prevent neural networks from overfitting. J. Mach. Learn. Res. 15, 1929.
+Sutskever, I., Martens, J., Dahl, G., Hinton, G.: 2013, On the importance of initialization and momentum in deep learning. In: Dasgupta, S., McAllester, D. (eds.) Proceedings of the 30th International Conference on Machine Learning, Proceedings of Machine Learning Research 28, PMLR, Atlanta, 1139.
+Title, A.M., Hoeksema, J.T., Schrijver, C.J. (Aia Team): 2006, The atmospheric imaging assembly on the Solar Dynamics Observatory. In: 36th COSPAR Scientific Assembly, COSPAR Meeting 36.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008, The Solar Optical Telescope for the Hinode mission: an overview. Solar Phys. 249, 167.
+Wang, J., Yang, Y., Mao, J., Huang, Z., Huang, C., Xu, W.: 2016, CNN-RNN: a unified framework for multi-label image classification. arXiv e-prints,

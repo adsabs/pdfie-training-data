@@ -1,0 +1,44 @@
+Abramenko, V.I., Longcope, D.W.: 2005, Astrophys. J. 619, 1160.
+Alipour, N., Safari, H.: 2015, Astrophys. J. 807, 175.
+Arish, S., Javaherian, S., Safari, H., Amiri, A.: 2016, Solar Phys. 291, 1209.
+Aschwanden, M.J.: 2010, Solar Phys. 262, 235.
+Aschwanden, M.J.: 2011, Self-Organized Criticality in Astrophysics, Springer, Chichester.
+Aschwanden, M.J.: 2015, Astrophys. J. 814, 19A.
+Buldyrev, S.V., Goldberger, A.L., Havlin, S., Mantegna, R.N., Matsa, M.E., Peng, C.-K., et al.: 1995, Phys. Rev. E 51, 5084.
+Burtseva, O., Petrie, G.: 2013, Solar Phys. 283, 429.
+Clauset, A., Shalizi, C.R., Newman, M.E.J.: 2009, SIAM Rev. 51(4), 661.
+Close, R.M., Parnell, C.E., Longcope, D.W., Priest, E.R.: 2005, Solar Phys. 231, 45.
+DeForest, C.E., Hagenaar, H.J., Lamb, D.A., Parnell, C.E., Welsch, B.T.: 2007, Astrophys. J. 666, 576.
+de Wijn, A.G., Stenflo, J.O., Solanki, S.K., Tsuneta, S.: 2009, Space Sci. Rev. 144, 275.
+Gošić, M., Bellot Rubio, L.R., Orozco Suárez, D., Katsukawa, Y., del Toro Iniesta, J.C.: 2014, Astrophys. J. 797, 49.
+Gošić, M., Bellot Rubio, L.R., del Toro Iniesta, J.C., Orozco Suárez, D., Katsukawa, Y.: 2016, Astrophys. J. 820, 35G.
+Gosain, S.: 2012, Astrophys. J. 749, 85.
+Hagenaar, H.J., Schrijver, C.J., Title, A.M., Shine, R.A.: 1999, Astrophys. J. 511, 932.
+Hagenaar, H.J., Schrijver, C.J., Title, A.M.: 2003, Astrophys. J. 584, 1107.
+Heneghan, C., McDarby, G.: 2000, Phys. Rev. E 62, 6103.
+Honarbakhsh, L., Alipour, N., Safari, H.: 2016, Solar Phys. 291, 941.
+Javaherian, M., Safari, H., Amiri, A., Ziaei, S.: 2014, Solar Phys. 289, 3969.
+Lamb, D.A., Howard, T.A., DeForest, C.E., Parnell, C.E., Welsch, B.T.: 2013, Astrophys. J. 774, 127.
+Mandelbrot, B.B., Van Ness, J.W.: 1968, SIAM Rev. 10(4), 422.
+McAteer, R.T.J., Gallagher, P.T., Ireland, J., Young, C.A.: 2005, Solar Phys. 228, 55.
+Newman, M.E.J.: 2005, Contemp. Phys. 46, 323.
+Parnell, C.E.: 2002, Mon. Not. Roy. Astron. Soc. 335, 389.
+Parnell, C.E., DeForest, C.E., Hagenaar, H.J., Johnston, B.A., Lamb, D.A., Welsch, B.T.: 2009, Astrophys. J. 698, 75.
+Peng, C.K., Buldyrev, S.V., Havlin, S., Simons, M., Stanley, H.E., Goldberger, A.L.: 1994, Phys. Rev. E 49, 1685.
+Priest, E.R.: 2014, Magnetohydrodynamics of the Sun, Cambridge University Press, Cambridge. 9780521854719.
+Rieutord, M., Rincon, F.: 2010, Living Rev. Solar Phys. 7, 2.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., et al.: 1995, Solar Phys. 162, 129.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., et al.: 2012, Solar Phys. 275, 229.
+Schrijver, C.J., Title, A.M., Hagenaar, H.J., Shine, R.A.: 1997a, Solar Phys. 175, 329.
+Schrijver, C.J., Title, A.M., van Ballegooijen, A.A., Hagenaar, H.J., Shine, R.A.: 1997b, Astrophys. J. 487, 424.
+Schrijver, C.J., Title, A.M.: 2003, Astrophys. J. 597, 165.
+Shimazaki, H., Shinomoto, S.: 2007, Neural Comput. 19, 1503.
+Solanki, S.K.: 1993, Space Sci. Rev. 63, 1.
+Solanki, S.K., Inhester, B., Schüssler, M.: 2006, Rep. Prog. Phys. 69, 563.
+Stein, R.F.: 2012, Living Rev. Solar Phys. 9, 4.
+Stangalini, M., Solanki, S.K., Cameron, R., Martínez, V.: 2013, Astron. Astrophys. 554, A115.
+Stenflo, J.O.: 1973, Solar Phys. 32, 41.
+Wang, S., Liu, C., Liu, R., Deng, N., Liu, Y., Wang, H.: 2012, Astrophys. J. Lett. 745, L17.
+Welsch, B.T., Longcope, D.W.: 2003, Astrophys. J. 588, 620.
+Wiegelmann, T., Thalmann, J.K., Solanki, S.K.: 2014, Astron. Astrophys. Rev. 22, 78.
+Yousefzadeh, M., Safari, H., Attie, R., Alipour, N.: 2016, Solar Phys. 291, 29.

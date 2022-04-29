@@ -1,0 +1,30 @@
+Armstrong, J.W., Coles, W.A.: 1978, Interplanetary scintillation of PSR 0531+21 at 74 MHz. Astrophys. J. 220, 346.
+Bisi, M.M., Gonzalez-Esparza, A., Jackson, B.V., Aguilar-Rodriguez, E., Tokumaru, M., Chashei, I.V., Tyul’bashev, S.A., Manoharan, P.K., Fallows, R.A., Chang, O., Mejia-Ambriz, J.C., Yu, H.S., Fujiki, K., Shishov, V.: 2016, The Worldwide Interplanetary Scintillation (IPS) Stations (WIPSS) Network in Support of Space-Weather Science and Forecasting. In: Abs. Am. Geophys. Un., Fall Meeting, abstract id. PA41A-2135
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Chashei, I.V., Shishov, V.I., Tyul’bashev, S.A., Subaev, I.A., Oreshko, V.V., Logvinenko, S.V.: 2015, Global structure of the turbulent solar wind during 24 solar activity maxima from IPS observations with the multibeam radio telescope BSA LPI at 111 MHz. Solar Phys. 290, 2577.
+Chashei, I.V., Tyul’bashev, S.A., Shishov, V.I., Subaev, I.A.: 2016, Interplanetary and ionosphere scintillation produced by ICME 20 December 2015. Space Weather 14, 682.
+Chashei, I.V., Tyul’bashev, S.A., Shishov, V.I., Subaev, I.A.: 2018, Coronal mass ejections in September 2017 from monitoring of interplanetary scintillations with the Large Phased Array of the Lebedev Institute of Physics. Astron. Rep. 62, 346.
+Coles, W.A., Harmon, J.K., Lazarus, A.J., Sullivan, J.D.: 1978, Comparison of 74 MHz interplanetary scintillation and IMP 7 observations of the solar wind during 1973. J. Geophys. Res. 83, 3337.
+Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009, The SOHO/LASCO CME Catalog. Earth Moon Planets 104, 295.
+Hewish, A., Scott, P.F., Wills, D.: 1964, Interplanetary scintillation of small diameter radio sources. Nature 203, 1214.
+Iju, T., Tokumaru, M., Fujiki, K.: 2013, Radial speed evolution of interplanetary coronal mass ejections during solar cycle 23. Solar Phys. 288, 331.
+Iju, T., Tokumaru, M., Fujiki, K.: 2014, Kinematic propagation of slow ICMEs and an interpretation of a modified drag equation for fast and moderate ICMEs. Solar Phys. 289, 2157.
+Jackson, B.V., Hick, P.P., Buffington, A., Bisi, M.M., Clover, J.M., Tokumaru, M., Fujiki, K.: 2011, Three-dimensional reconstruction of heliospheric structure using iterative tomography: a review. J. Atmos. Solar-Terr. Phys. 73, 1214.
+Kojima, M., Kakinuma, T.: 1990, Solar cycle dependence of global distribution of solar wind speed. Space Sci. Rev. 53, 173.
+Lynch, B.J., Coles, W.A., Sheeley, N.R.: 2002, A comparison of mean density and microscale density fluctuations in a CME at 10 R
+Manoharan, P.K.: 2006, Evolution of coronal mass ejections in the inner heliosphere: a study using white-light and scintillation images. Solar Phys. 235, 345.
+Manoharan, P.K., Tokumaru, M., Pick, M., Subramanian, P., Ipavich, F.M., Schenk, K., Kaiser, M.L., Lepping, R.P., Vourlidas, A.: 2001, Coronal mass ejection of July 14, 2000 Flare Event: imaging from near-Sun to Earth environment. Astrophys. J. 559, 1180.
+McComas, D.J., Bame, S.J., Barker, P., Feldman, W.C., Phillips, J.L., Riley, P., Griffee, J.W.: 1998, Solar Wind Electron Proton Alpha Monitor (SWEPAM) for the Advanced Composition Explorer. Space Sci. Rev. 86, 563.
+Moore, V., Harrison, R.A.: 1994, A characterization of discrete solar wind events detected by interplanetary scintillation mapping. J. Geophys. Res. 99, 27.
+Shen, C., Xu, M., Wang, Y., Chi, Y., Luo, B.: 2018, Why the shock-ICME complex structure is important: learning from the early 2017 September CMEs. Astrophys. J. 861, 28.
+Shishov, V.I., Vlasov, V.I., Kojima, M.: 1997, Structure of interplanetary shock waves from radio scintillation data. Solar Phys. 176, 373.
+Shishov, V.I., Chashei, I.V., Oreshko, V.V., Logvinenko, S.V., Tyul’bashev, S.A., Subaev, I.A., Svidskii, P.M., Lapshin, V.M., Dagkesamanskii, R.D.: 2016, Monitoring of the turbulent solar wind with the upgraded Large Phased Array of the Lebedev Institute of Physics: first results. Astron. Rep. 12, 1067.
+Tokumaru, M.: 2013, Three-dimensional exploration of the solar wind using observations of interplanetary scintillation. Proc. Japan. Acad. Ser. B 89, 67.
+Tokumaru, M., Kojima, M., Fujiki, K., Yokobe, A.: 2000, Three-dimensional propagation of interplanetary disturbances detected with radio scintillation measurements at 327 MHz. J. Geophys. Res. 105, 10435.
+Tokumaru, M., Kojima, M., Fujiki, K., Yamashita, M., Yokobe, A.: 2003, Toroidal-shaped interplanetary disturbance associated with the halo coronal mass ejection event on July 14, 2000. J. Geophys. Res. 108, 1220.
+Tokumaru, M., Kojima, M., Fujiki, K., Yamashita, M., Baba, D.: 2005, Interplanetary consequences caused by the extremely intense solar activity during October-November 2003. J. Geophys. Res. 110, A01109.
+Tokumaru, M., Kojima, M., Fujiki, K., Yamashita, M.: 2006, Tracking heliospheric disturbances by interplanetary scintillation. Nonlinear Process. Geophys. 13, 329.
+Tokumaru, M., Kojima, M., Fujiki, K., Yamashita, M., Jackson, B.V.: 2007, The source and propagation of the interplanetary disturbance associated with the full-halo coronal mass ejection on October 28, 2003. J. Geophys. Res. 112, A05106.
+Tokumaru, M., Kojima, M., Fujiki, K., Maruyama, M., Maruyama, Y., Ito, H., Iju, T.: 2011, A newly-developed UHF radiotelescope for interplanetary scintillation observations; Solar Wind Imaging Facility. Radio Sci. 46, RS0F02.
+Vlasov, V.I.: 1979, Radio imagery of the turbulent interplanetary plasma. Soviet Astron. 3, 55.
+Young, A.T.: 1971, Interpretation of interplanetary scintillation. Astrophys. J. 168, 543.

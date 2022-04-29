@@ -1,0 +1,65 @@
+Altschuler, M.D., Newkirk, G.: 1969, Magnetic fields and the structure of the solar corona. I: methods of calculating coronal fields. Solar Phys. 9(1), 131.
+Arge, C.N., Pizzo, V.J.: 2000, Improvement in the prediction of solar wind conditions using near-real time solar magnetic field updates. J. Geophys. Res. 105, 10465.
+Asvestari, E., G., H.S., Temmer, M., Pomoell, J., Kilpua, E., Magdalenic, J., Poedts, S.: 2019, J. Geophys. Res., accepted.
+Belenko, I.A.: 2001, Coronal hole evolution during 1996 – 1999. Solar Phys. 199(1), 23.
+Bohlin, J.D., Sheeley, N.R. Jr.: 1978, Extreme ultraviolet observations of coronal holes. II – association of holes with solar magnetic fields and a model for their formation during the solar cycle. Solar Phys. 56, 125.
+Boucheron, L.E., Valluri, M., McAteer, R.T.J.: 2016, Segmentation of coronal holes using active contours without edges. Solar Phys. 291(8), 2353.
+Caplan, R.M., Downs, C., Linker, J.A.: 2016, Synchronic coronal hole mapping using multi-instrument EUV images: data preparation and detection method. Astrophys. J. 823, 53.
+Couvidat, S., Schou, J., Hoeksema, J.T., Bogart, R.S., Bush, R.I., Duvall, T.L., Liu, Y., Norton, A.A., Scherrer, P.H.: 2016, Observables processing for the Helioseismic and Magnetic Imager instrument on the Solar Dynamics Observatory. Solar Phys. 291, 1887.
+Cranmer, S.R.: 2002, Coronal holes and the high-speed solar wind. Space Sci. Rev. 101, 229.
+Cranmer, S.R.: 2009, Coronal holes. Living Rev. Solar Phys. 6, 3.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Moses, J.D., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Maucherat, A., Clette, F., Cugnon, P., van Dessel, E.L.: 1995, EIT: Extreme-Ultraviolet Imaging Telescope for the SOHO mission. Solar Phys. 162, 291.
+Delouille, V., Hofmeister, S.J., Reiss, M.A., Mampaey, B., Temmer, M., Veronig, A.: 2018, Chapter 15 – coronal holes detection using supervised classification. In: Camporeale, E., Wing, S., Johnson, J.R. (eds.) Machine Learning Techniques for Space Weather, Elsevier, Amsterdam, 365.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: an overview. Solar Phys. 162, 1.
+Edmondson, J.K., Antiochos, S.K., DeVore, C.R., Lynch, B.J., Zurbuchen, T.H.: 2010, Interchange reconnection and coronal hole dynamics. Astrophys. J. 714, 517.
+Garton, T.M., Gallagher, P.T., Murray, S.A.: 2018, Automated coronal hole identification via multi-thermal intensity segmentation. J. Space Weather Space Clim. 8(27), A02.
+Hahn, M., Landi, E., Savin, D.W.: 2011, Differential emission measure analysis of a polar coronal hole during the solar minimum in 2007. Astrophys. J. 736(2), 101.
+Hamada, A., Asikainen, T., Virtanen, I., Mursula, K.: 2018, Automated identification of coronal holes from synoptic EUV maps. Solar Phys. 293, 71.
+Harvey, K.L., Sheeley, N.R. Jr., Harvey, J.W.: 1982, Magnetic measurements of coronal holes during 1975 – 1980. Solar Phys. 79, 149.
+Heinemann, S.G., Hofmeister, S.J., Veronig, A.M., Temmer, M.: 2018b, Three-phase evolution of a coronal hole. II. The magnetic field. Astrophys. J. 863, 29.
+Heinemann, S.G., Temmer, M., Hofmeister, S.J., Veronig, A.M., Vennerstrøm, S.: 2018a, Three-phase evolution of a coronal hole. I. 360
+Hofmeister, S.J., Veronig, A., Reiss, M.A., Temmer, M., Vennerstrom, S., Vršnak, B., Heber, B.: 2017, Characteristics of low-latitude coronal holes near the maximum of Solar Cycle 24. Astrophys. J. 835, 268.
+Hofmeister, S.J., Veronig, A., Temmer, M., Vennerstrom, S., Heber, B., Vršnak, B.: 2018, The dependence of the peak velocity of high-speed solar wind streams as measured in the ecliptic by ACE and the STEREO satellites on the area and co-latitude of their solar source coronal holes. J. Geophys. Res. 123, 1738.
+Hofmeister, S.J., Utz, D., Heinemann, S.G., Veronig, A.M., Temmer, M.: 2019, The magnetic structure of coronal holes. Astron. Astrophys. 629, A22.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., Korendyke, C.M., Cook, J.W., Hurley, A., Davila, J.M., Thompson, W.T., St Cyr, O.C., Mentzell, E., Mehalick, K., Lemen, J.R., Wuelser, J.P., Duncan, D.W., Tarbell, T.D., Wolfson, C.J., Moore, A., Harrison, R.A., Waltham, N.R., Lang, J., Davis, C.J., Eyles, C.J., Mapson-Menard, H., Simnett, G.M., Halain, J.P., Defise, J.M., Mazy, E., Rochus, P., Mercier, R., Ravet, M.F., Delmotte, F., Auchere, F., Delaboudiniere, J.P., Bothmer, V., Deutsch, W., Wang, D., Rich, N., Cooper, S., Stephens, V., Maahs, G., Baugh, R., McMullin, D., Carter, T.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Huang, G.-H., Lin, C.-H., Lee, L.-C.: 2019, Examination of the EUV intensity in the open magnetic field regions associated with coronal holes. Astrophys. J. 874, 45.
+Illarionov, E.A., Tlatov, A.G.: 2018, Segmentation of coronal holes in solar disc images with a convolutional neural network. Mon. Not. Roy. Astron. Soc. 481, 5014.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: an introduction. Space Sci. Rev. 136, 5.
+Karachik, N.V., Pevtsov, A.A., Abramenko, V.I.: 2010, Formation of coronal holes on the ashes of active regions. Astrophys. J. 714(2), 1672.
+Kong, D.F., Pan, G.M., Yan, X.L., Wang, J.C., Li, Q.L.: 2018, Observational evidence of interchange reconnection between a solar coronal hole and a small emerging active region. Astrophys. J. 863(2), L22.
+Krista, L.D., Gallagher, P.T.: 2009, Automated coronal hole detection using local intensity thresholding techniques. Solar Phys. 256, 87.
+Krista, L.D., Gallagher, P.T., Bloomfield, D.S.: 2011, Short-term evolution of coronal hole boundaries. Astrophys. J. 731(2), L26.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Linker, J.A., Caplan, R.M., Downs, C., Riley, P., Mikic, Z., Lionello, R., Henney, C.J., Arge, C.N., Liu, Y., Derosa, M.L., Yeates, A., Owens, M.J.: 2017, The open flux problem. Astrophys. J. 848(1), 70.
+Liu, Y., Hoeksema, J.T., Scherrer, P.H., Schou, J., Couvidat, S., Bush, R.I., Duvall, T.L., Hayashi, K., Sun, X., Zhao, X.: 2012, Comparison of line-of-sight magnetograms taken by the Solar Dynamics Observatory/Helioseismic and Magnetic Imager and Solar and Heliospheric Observatory/Michelson Doppler Imager. Solar Phys. 279(1), 295.
+Lowder, C., Qiu, J., Leamon, R.: 2017, Coronal holes and open magnetic flux over Cycles 23 and 24. Solar Phys. 292(1), 18.
+Lowder, C., Qiu, J., Leamon, R., Liu, Y.: 2014, Measurements of EUV coronal holes and open magnetic flux. Astrophys. J. 783, 142.
+Ma, L., Qu, Z.-Q., Yan, X.-L., Xue, Z.-K.: 2014, Interchange reconnection between an active region and a coronal hole. Res. Astron. Astrophys. 14(2), 221.
+Madjarska, M.S., Doyle, J.G., van Driel-Gesztelyi, L.: 2004, Evidence of magnetic reconnection along coronal hole boundaries. Astrophys. J. 603(1), L57.
+Madjarska, M.S., Wiegelmann, T.: 2009, Coronal hole boundaries evolution at small scales. I. EIT 195 Å and TRACE 171 Å view. Astron. Astrophys. 503, 991.
+Nolte, J.T., Krieger, A.S., Timothy, A.F., Gold, R.E., Roelof, E.C., Vaiana, G., Lazarus, A.J., Sullivan, J.D., McIntosh, P.S.: 1976, Coronal holes as sources of solar wind. Solar Phys. 46, 303.
+Obridko, V.N., Shelting, B.D.: 1989, Coronal holes as indicators of large-scale magnetic fields in the corona. Solar Phys. 124(1), 73.
+Ochsenbein, F., Bauer, P., Marcout, J.: 2000, The VizieR database of astronomical catalogues. Astron. Astrophys. Suppl. Ser. 143, 23.
+Odstrčil, D., Pizzo, V.J.: 1999, Three-dimensional propagation of CMEs in a structured solar wind flow: 1. CME launched within the streamer belt. J. Geophys. Res. 104, 483.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pinto, R.F., Rouillard, A.P.: 2017, A multiple flux-tube solar wind model. Astrophys. J. 838, 89.
+Pomoell, J., Poedts, S.: 2018, EUHFORIA: European heliospheric forecasting information asset. J. Space Weather Space Clim. 8(27), A35.
+Prato, M., Cavicchioli, R., Zanni, L., Boccacci, P., Bertero, M.: 2012, Efficient deconvolution methods for astronomical imaging: algorithms and IDL-GPU codes. Astron. Astrophys. 539, A133.
+Raymond, J.C., Doyle, J.G.: 1981, The energy balance in coronal holes and average quiet-sun regions. Astrophys. J. 247, 686.
+Reiss, M., Temmer, M., Rotter, T., Hofmeister, S.J., Veronig, A.M.: 2014, Identification of coronal holes and filament channels in SDO/AIA 193 Å images via geometrical classification methods. Cent. Eur. Astrophys. Bull. 38, 95.
+Reiss, M.A., Hofmeister, S.J., De Visscher, R., Temmer, M., Veronig, A.M., Delouille, V., Mampaey, B., Ahammer, H.: 2015, Improvements on coronal hole detection in SDO/AIA images using supervised classification. J. Space Weather Space Clim. 5, A23.
+Reiss, M.A., Temmer, M., Veronig, A.M., Nikolic, L., Vennerstrom, S., Schöngassner, F., Hofmeister, S.J.: 2016, Verification of high-speed solar wind stream forecasts using operational solar wind models. Space Weather 14, 495.
+Riley, P., Linker, J.A., Lionello, R., Mikic, Z.: 2012, Corotating interaction regions during the recent solar minimum: the power and limitations of global MHD modeling. J. Atmos. Solar-Terr. Phys. 83, 1.
+Rotter, T., Veronig, A.M., Temmer, M., Vršnak, B.: 2012, Relation between coronal hole areas on the Sun and the solar wind parameters at 1 AU. Solar Phys. 281, 793.
+Rotter, T., Veronig, A.M., Temmer, M., Vršnak, B.: 2015, Real-time solar wind prediction based on SDO/AIA coronal hole data. Solar Phys. 290(5), 1355.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., Wolfson, C.J., Zayer, I., MDI Engineering Team: 1995, The solar oscillations investigation – Michelson Doppler Imager. Solar Phys. 162, 129.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Schwenn, R.: 2006, Solar wind sources and their variations over the solar cycle. Space Sci. Rev. 124, 51.
+Temmer, M., Hinterreiter, J., Reiss, M.A.: 2018, Coronal hole evolution from multi-viewpoint data as input for a stereo solar wind speed persistence model. J. Space Weather Space Clim. 8, A18.
+Tokumaru, M., Satonaka, D., Fujiki, K., Hayashi, K., Hakamada, K.: 2017, Relation between coronal hole areas and solar wind speeds derived from interplanetary scintillation measurements. Solar Phys. 292, 41.
+Verbeeck, C., Delouille, V., Mampaey, B., De Visscher, R.: 2014, The SPoCA-suite: software for extraction, characterization, and tracking of active regions and coronal holes on EUV images. Astron. Astrophys. 561, A29.
+Vršnak, B., Temmer, M., Veronig, A.M.: 2007, Coronal holes and solar wind high-speed streams: I. Forecasting the solar wind parameters. Solar Phys. 240, 315.
+Wallace, S., Arge, C.N., Pattichis, M., Hock-Mysliwiec, R.A., Henney, C.J.: 2019, Estimating total open heliospheric magnetic flux. Solar Phys. 294, 19.
+Wang, Y.-M., Sheeley, N.R. Jr.: 2004, Footpoint switching and the evolution of coronal holes. Astrophys. J. 612(2), 1196.
+Wendeln, C., Landi, E.: 2018, EUV emission and scattered light diagnostics of equatorial coronal holes as seen by Hinode/EIS. Astrophys. J. 856, 28.
+Yang, S., Zhang, J., Li, T., Liu, Y.: 2011, SDO observations of magnetic reconnection at coronal hole boundaries. Astrophys. J. Lett. 732, L7.

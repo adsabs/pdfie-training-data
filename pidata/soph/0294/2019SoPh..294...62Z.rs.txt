@@ -1,0 +1,35 @@
+Alvarez, H., Haddock, F., Lin, R.P.: 1972, Evidence for electron excitation of type III radio burst emission. Solar Phys. 26, 468.
+Arge, C., Pizzo, V.: 2000, Improvement in the prediction of solar wind conditions using near-real time solar magnetic field updates. J. Geophys. Res. 105, 10465.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P., Manning, R., Goetz, K., Monson, S., Monge, N., Friel, L., Meetre, C., Perche, C., et al.: 1995, Waves: the radio and plasma wave investigation on the wind spacecraft. Space Sci. Rev. 71, 231.
+Cecconi, B., Bonnin, X., Hoang, S., Maksimovic, M., Bale, S., Bougeret, J.-L., Goetz, K., Lecacheux, A., Reiner, M., Rucker, H., et al.: 2008, STEREO/WAVES goniopolarimetry. Space Sci. Rev. 136, 549.
+Chen, B., Bastian, T.S., White, S.M., Gary, D.E., Perley, R., Rupen, M., Carlson, B.: 2013, Tracing electron beams in the sun’s corona with radio dynamic imaging spectroscopy. Astrophys. J. Lett. 763, L21.
+Chen, L., Wu, D.J., Zhao, G.Q., Tang, J.F.: 2017, A self-consistent mechanism for electron cyclotron maser emission and its application to Type III solar radio bursts. J. Geophys. Res. 122, 35.
+Chen, B., Yu, S., Battaglia, M., Farid, S., Savcheva, A., Reeves, K.K., Krucker, S., Bastian, T., Guo, F., Tassev, S.: 2018, Magnetic reconnection null points as the origin of semirelativistic electron beams in a solar jet. Astrophys. J. 866, 62.
+Dresing, N., Gómez-Herrero, R., Klassen, A., Heber, B., Kartavykh, Y., Dröge, W.: 2012, The large longitudinal spread of solar energetic particles during the 17 January 2010 solar event. Solar Phys. 281, 281.
+Dulk, G., Goldman, M., Steinberg, J., Hoang, S.: 1987, The speeds of electrons that excite solar radio bursts of Type III. Astron. Astrophys. 173, 366.
+Eberhart, R., Kennedy, J.: 1995, A new optimizer using particle swarm theory. In: Micro Machine and Human Science, 1995. MHS’95, Proc. Sixth Internat. Symp., IEEE Press, New York, 39.
+Fainberg, J., Evans, L.G., Stone, R.: 1972, Radio tracking of solar energetic particles through interplanetary space. Science 178, 743.
+Ginzburg, V., Zhelezniakov, V.: 1958, On the possible mechanisms of sporadic solar radio emission (radiation in an isotropic plasma). Astron. Zh. 35, 694.
+Gómez-Herrero, R., Dresing, N., Klassen, A., Heber, B., Lario, D., Agueda, N., Malandraki, O., Blanco, J., Rodríguez-Pacheco, J., Banjac, S.: 2015, Circumsolar energetic particle distribution on 2011 November 3. Astrophys. J. 799, 55.
+Kaiser, M.L., Kucera, T., Davila, J., Cyr, O.S., Guhathakurta, M., Christian, E.: 2008, The stereo mission: an introduction. Space Sci. Rev. 136, 5.
+Kontar, E., Yu, S., Kuznetsov, A., Emslie, A., Alcock, B., Jeffrey, N., Melnik, V., Bian, N., Subramanian, P.: 2017, Imaging spectroscopy of solar radio burst fine structures. Nat. Commun. 8, 1515.
+Krupar, V., Santolik, O., Cecconi, B., Maksimovic, M., Bonnin, X., Panchenko, M., Zaslavsky, A.: 2012, Goniopolarimetric inversion using svd: an application to type III radio bursts observed by stereo. J. Geophys. Res. 117, 6101.
+Krupar, V., Maksimovic, M., Santolik, O., Cecconi, B., Kruparova, O.: 2014, Statistical survey of type III radio bursts at long wavelengths observed by the solar terrestrial relations observatory (stereo). Solar Phys. 289, 4633.
+Krupar, V., Kontar, E.P., Soucek, J., Santolik, O., Maksimovic, M., Kruparova, O.: 2015, On the speed and acceleration of electron beams triggering interplanetary type III radio bursts. Astron. Astrophys. 580, A137.
+Leblanc, Y., Dulk, G.A., Bougeret, J.-L.: 1998, Tracing the electron density from the corona to 1 AU. Solar Phys. 183, 165.
+Martínez-Oliveros, J.C., Lindsey, C., Bale, S.D., Krucker, S.: 2012, Determination of electromagnetic source direction as an eigenvalue problem. Solar Phys. 279, 153.
+Parker, E.N.: 1958, Dynamics of the interplanetary gas and magnetic fields. Astrophys. J. 128, 664.
+Reid, H.A., Kontar, E.P.: 2018, Solar type III radio burst time characteristics at LOFAR frequencies and the implications for electron beam transport. Astron. Astrophys. 614, A69.
+Reid, H.A.S., Ratcliffe, H.: 2014, A review of solar type III radio bursts. Res. Astron. Astrophys. 14, 773.
+Reiner, M., MacDowall, R.: 2015, Electron exciter speeds associated with interplanetary type III solar radio bursts. Solar Phys. 290, 2975.
+Reiner, M., Stone, R.: 1986, A new method for reconstructing type III trajectories. Solar Phys. 106, 397.
+Reiner, M., Fainberg, J., Kaiser, M., Stone, R.: 1998, Type III radio source located by Ulysses/wind triangulation. J. Geophys. Res. 103, 1923.
+Reiner, M.J., Goetz, K., Fainberg, J., Kaiser, M., Maksimovic, M., Cecconi, B., Hoang, S., Bale, S., Bougeret, J.-L.: 2009, Multipoint observations of solar type III radio bursts from stereo and wind. Solar Phys. 259, 255.
+Shi, Y., Russell, C.E.: 2001, Particle swarm optimization: developments, applications and resources. In: Evolutionary Computation, 2001. Proc 2001 Congr. 1, IEEE Press, New York, 81.
+Steinberg, J., Aubier-Giraud, M., Leblanc, Y., Boischot, A.: 1971, Coronal scattering, absorption and refraction of solar radiobursts. Astron. Astrophys. 10, 362.
+Steinberg, J., Hoang, S., Lecacheux, A., Aubier, M., Dulk, G.: 1984, Type III radio bursts in the interplanetary medium – the role of propagation. Astron. Astrophys. 140, 39.
+Stone, R.G., Bougeret, J.L., Caldwell, J., Canu, P., de Conchy, Y., Cornilleau-Wehrlin, N., Desch, M.D., Fainberg, J., Goetz, K., Goldstein, M.L., et al.: 1992, The unified radio and plasma wave investigation. Astron. Astrophys. Suppl. Ser. 92, 291.
+Wang, C.B.: 2015, A scenario for the fine structures of solar type IIIb radio bursts based on electron cyclotron maser emission. Astrophys. J. 806, 34.
+Wang, L., Lin, R., Krucker, S., Mason, G.M.: 2012, A statistical study of solar electron events over one solar cycle. Astrophys. J. 759, 69.
+Wu, C.S., Wang, C.B., Yoon, P.H., Zheng, H.N., Wang, S.: 2002, Generation of type III solar radio bursts in the low corona by direct amplification. Astrophys. J. 575, 1094.
+Zhang, P.J., Wang, C.B., Ye, L.: 2018, A type III radio burst automatic analysis system and statistic results for a half solar cycle with Nançay Decameter Array data. Astron. Astrophys. 618, A165.

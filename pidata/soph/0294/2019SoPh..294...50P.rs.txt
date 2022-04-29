@@ -1,0 +1,39 @@
+Adhikari, R., Agrawal, R.K.: 2013,
+Aguirre, L.A., Letellier, C., Maquet, J.: 2008, Solar Phys. 249, 103.
+Atici, R.: 2018, Astrophys. Space Sci. 363, 231.
+Attia, A.-F., Ismail, H.A., Basurah, H.M.: 2013, Astrophys. Space Sci. 344, 5.
+Chattopadhyay, G., Chattopadhyay, S.: 2012, Eur. Phys. J. Plus 127, 43.
+Dancho, M.: 2018,
+Dikpati, M., De Toma, G., Gilman, P.A.: 2006, Geophys. Res. Lett. 33, L05102.
+Gkana, A., Zachilas, L.: 2015, J. Eng. Sci. Technol. Rev. 8, 79.
+Hiremath, K.: 2008, Astrophys. Space Sci. 314, 45.
+Javaraiah, J.: 2008, Solar Phys. 252, 419.
+Kane, R.: 2007, Solar Phys. 246, 487.
+Kilcik, A., Anderson, C., Rozelot, J., Ye, H., Sugihara, G., Ozguc, A.: 2009, Astrophys. J. 693, 1173.
+Kim, K.B., Kim, J.H., Chang, H.Y.: 2018, J. Astron. Space Sci. 35, 151.
+Layden, A., Fox, P., Howard, J., Sarajedini, A., Schatten, K., Sofia, S.: 1991, Solar Phys. 132, 1.
+Lewis, N.D.: 2016, Deep Time Series Forecasting with Python: An Intuitive Introduction to Deep Learning for Applied Time Series Modeling, Create Space Independent Publishing Platform, New York.
+Li, K., Feng, W., Li, F.: 2015, J. Atmos. Solar-Terr. Phys. 135, 72.
+Maleki, A., Nasseri, S., Aminabad, M.S., Hadi, M.: 2018, KSCE J. Civ. Eng. 22, 3233.
+Nielsen, M.L., Kjeldsen, H.: 2011, Solar Phys. 270, 385.
+Okoh, D., Seemala, G., Rabiu, A., Uwamahoro, J., Habarulema, J., Aggarwal, M.: 2018, Space Weather 16, 1424.
+Penn, M.J., Livingston, W.: 2011, In: Choudhary, D.P., Strassmeier, K.G. (eds.) The Physics of Sun and Star Spots, IAU Symp. 273, 126.
+Pesnell, W.D.: 2008, Solar Phys. 252, 209.
+Petrovay, K.: 2010, Living Rev. Solar Phys. 7, 6.
+Pishkalo, M.: 2008, Kinemat. Phys. Celest. Bodies 24, 242.
+Pishkalo, M.: 2014, Solar Phys. 289, 1815.
+Quassim, M.S., Attia, A.-F., Elminir, H.K.: 2007, Solar Phys. 243, 253.
+Raissi, M., Karniadakis, G.E.: 2018, J. Comput. Phys. 357, 125.
+Rigozo, N., Echer, M.S., Evangelista, H., Nordemann, D., Echer, E.: 2011, J. Atmos. Solar-Terr. Phys. 73, 1294.
+Sabarinath, A., Anilkumar, A.: 2018, J. Earth Syst. Sci. 127, 84.
+Sagir, S., Atici, R., Ozcan, O.: 2018, Pramāna 91, 54.
+Sagir, S., Yesil, A.: 2018, Wirel. Pers. Commun. 102, 31.
+Sagir, S., Karatay, S., Atici, R., Yesil, A., Ozcan, O.: 2015, Adv. Space Res. 55, 106.
+Sarp, V., Kilcik, A., Yurchyshyn, V., Rozelot, J., Ozguc, A.: 2018, Mon. Not. Roy. Astron. Soc. 481, 2981.
+Sena, D., Nagwani, N.K.: 2016, J. Eng. Appl. Sci. 11, 13123.
+Shaikh, Y.H., Khan, A., Iqbal, M., Behere, S., Bagare, S.: 2008, Fractals 16, 259.
+Shumway, R.H., Stoffer, D.S.: 2011, Time Series Analysis and Its Applications: With R Examples, Springer, Berlin, 47.
+Siami-Namini, S., Namin, A.S.: 2018,
+Sirignano, J., Spiliopoulos, K.: 2018, J. Comput. Phys. 375, 1339.
+Thompson, R.: 1993, Solar Phys. 148, 383.
+Zazo, R., Lozano-Diez, A., Gonzalez-Dominguez, J., Toledano, D.T., Gonzalez-Rodriguez, J.: 2016, PLoS ONE 11, e0146917.

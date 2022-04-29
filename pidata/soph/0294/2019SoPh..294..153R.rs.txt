@@ -1,0 +1,38 @@
+Belcher, J.W., Davis, L. Jr.: 1971, Large-amplitude Alfvén waves in the interplanetary medium, 2. J. Geophys. Res. Space Phys. 76, 3534.
+Bruno, R., Carbone, V.: 2013, The solar wind as a turbulence laboratory. Living Rev. Solar Phys. 10(1), 2.
+Cerri, S.S., Servidio, S., Califano, F.: 2017, Kinetic cascade in solar-wind turbulence: 3d3v hybrid-kinetic simulations with electron inertia. Astrophys. J. Lett. 846, L18.
+Chen, C.H.K., Matteini, L., Schekochihin, A.A., Stevens, M.L., Salem, C.S., Maruca, B.A., Kunz, M.W., Bale, S.D.: 2016, Multi-species measurements of the firehose and mirror instability thresholds in the solar wind. Astrophys. J. 825(2), L26.
+Coleman, P.J. Jr.: 1968, Turbulence, viscosity, and dissipation in the solar-wind plasma. Astrophys. J. 153, 371.
+DeForest, C.E., Howard, R.A., Velli, M., Viall, N., Vourlidas, A.: 2018, The highly structured outer solar corona. Astrophys. J. 862(1), 18.
+Franci, L., Landi, S., Matteini, L., Verdini, A., Hellinger, P.: 2015, High-resolution hybrid simulations of kinetic plasma turbulence at proton scales. Astrophys. J. 812(1), 21.
+Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2018, Solar wind turbulent cascade from MHD to sub-ion scales: Large-size 3D hybrid particle-in-cell simulations. Astrophys. J. 853(1), 26.
+Ghosh, S., Matthaeus, W.H., Roberts, D.A., Goldstein, M.L.: 1998, Waves, structures, and the appearance of two-component turbulence in the solar wind. J. Geophys. Res. Space Phys. 103(A10), 23705.
+Grošelj, D., Mallet, A., Loureiro, N.F., Jenko, F.: 2018, Fully kinetic simulation of 3D kinetic Alfvén turbulence. Phys. Rev. Lett. 120(10), 105101.
+Hellinger, P., Trávnícek, P.M., Kasper, J.C., Lazarus, A.J.: 2006, Solar wind proton temperature anisotropy: Linear theory and WIND/SWE observations. Geophys. Res. Lett. 46(17 – 18), 1.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Strangeway, R.J., Leisner, J.S., Galvin, A.B.: 2009, Ion cyclotron waves in the solar wind observed by STEREO near 1 AU. Astrophys. J. Lett. 701, L105.
+Liewer, P.C., Velli, M., Goldstein, B.E.: 2001, Alfvén wave propagation and ion cyclotron interactions in the expanding solar wind: One-dimensional hybrid simulations. J. Geophys. Res. 106, 29261.
+Maneva, Y.G., Ofman, L., Viñas, A.: 2015, Relative drifts and temperature anisotropies of protons and \upalpha particles in the expanding solar wind: 2.5D hybrid simulations. Astron. Astrophys. 578, A85.
+Maneva, Y.G., Viñas, A.F., Ofman, L.: 2013, Turbulent heating and acceleration of He^{++} ions by spectra of Alfvén-cyclotron waves in the expanding solar wind: 1.5-D hybrid simulations. J. Geophys. Res. Space Phys. 118, 2842.
+Marsch, E.: 2006, Kinetic physics of the solar corona and solar wind. Living Rev. Solar Phys. 3, 1.
+Marsch, E., Ao, X.-Z., Tu, C.-Y.: 2004, On the temperature anisotropy of the core part of the proton velocity distribution function in the solar wind. J. Geophys. Res. Space Phys. 109(A4), A04102.
+Matteini, L., Landi, S., Hellinger, P., Pantellini, F., Maksimovic, M., Velli, M., Goldstein, B.E., Marsch, E.: 2007, Evolution of the solar wind proton temperature anisotropy from 0.3 to 2.5 AU. Geophys. Res. Lett. 34(20), L20105.
+Ofman, L.: 2010, Hybrid model of inhomogeneous solar wind plasma heating by Alfvén wave spectrum: Parametric studies. J. Geophys. Res. 115(A14), 4108.
+Ofman, L., Gary, S.P., Viñas, A.: 2002, Resonant heating and acceleration of ions in coronal holes driven by cyclotron resonant spectra. J. Geophys. Res. Space Phys. 107, 1461.
+Ofman, L., Viñas, A.F.: 2007, Two-dimensional hybrid model of wave and beam heating of multi-ion solar wind plasma. J. Geophys. Res. 112(A11), 6104.
+Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H
+Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-\upalpha drifts on the heating of the solar wind. J. Geophys. Res. Space Phys. 122, 5839.
+Ozak, N., Ofman, L., Viñas, A.-F.: 2015, Ion heating in inhomogeneous expanding solar wind plasma: The role of parallel and oblique ion-cyclotron waves. Astrophys. J. 799, 77.
+Papini, E., Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2019, Can Hall magnetohydrodynamics explain plasma turbulence at sub-ion scales? Astrophys. J. 870(1), 52.
+Roberts, D.A.: 2010, Evolution of the spectrum of solar wind velocity fluctuations from 0.3 to 5 AU. J. Geophys. Res. Space Phys. 115, 12101.
+Roberts, D.A.: 2012, Construction of solar-wind-like magnetic fields. Phys. Rev. Lett. 109(23), 231102.
+Roberts, D.A., Ghosh, S., Goldstein, M.L., Mattheaus, W.H.: 1991, Magnetohydrodynamic simulation of the radial evolution and stream structure of solar-wind turbulence. Phys. Rev. Lett. 67(27), 3741.
+Roberts, D.A., Goldstein, M.L., Matthaeus, W.H., Ghosh, S.: 1992, Velocity shear generation of solar wind turbulence. J. Geophys. Res. Space Phys. 97(A11), 17115.
+Ruiz, M.E., Dasso, S., Matthaeus, W.H., Marsch, E., Weygand, J.M.: 2011, Aging of anisotropy of solar wind magnetic fluctuations in the inner heliosphere. J. Geophys. Res. Space Phys. 116(A10), A10102.
+Servidio, S., Osman, K.T., Valentini, F., Perrone, D., Califano, F., Chapman, S., Matthaeus, W.H., Veltri, P.: 2014, Proton kinetic effects in Vlasov and solar wind turbulence. Astrophys. J. 781(2), L27.
+Smith, C.W., Hamilton, K., Vasquez, B.J., Leamon, R.J.: 2006, Dependence of the dissipation range spectrum of interplanetary magnetic fluctuationson the rate of energy cascade. Astrophys. J. Lett. 645, L85.
+Stribling, T., Roberts, D.A., Goldstein, M.L.: 1996, The evolution of Alfvénic perturbations in a three-dimensional MHD model of the inner heliospheric current sheet region. J. Geophys. Res. Space Phys. 101(A12), 27603.
+Vasquez, B.J., Markovskii, S.A., Chandran, B.D.G.: 2014, Three-dimensional hybrid simulation study of anisotropic turbulence in the proton kinetic regime. Astrophys. J. 788, 178.
+Verscharen, D., Marsch, E., Motschmann, U., Müller, J.: 2012, Kinetic cascade beyond magnetohydrodynamics of solar wind turbulence in two-dimensional hybrid simulations. Phys. Plasmas 19(2), 022305.
+Wicks, R.T., Roberts, D.A., Mallet, A., Schekochihin, A.A., Horbury, T.S., Chen, C.H.K.: 2013, Correlations at large scales and the onset of turbulence in the fast solar wind. Astrophys. J. 778, 177.
+Winske, D., Omidi, N.: 1993, Hybrid codes, methods and applications. In: Matsumoto, H., Omura, Y. (eds.) Computer Space Plasma Physics: Simulation Techniques and Software, Terra Scientific Publishing, Tokyo, 103.
+Xie, H., Ofman, L., Viñas, A.: 2004, Multiple ions resonant heating and acceleration by Alfvén/cyclotron fluctuations in the corona and the solar wind. J. Geophys. Res. Space Phys. 109, A08103.

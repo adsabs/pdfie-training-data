@@ -1,0 +1,18 @@
+Alterman, B.L., Kasper, J.C., Stevens, M.L.: 2018, AGU Fall Meeting Abstracts, SH43B-3701.
+Bushby, P.J., Tobias, S.M.: 2007, Astrophys. J. 661, 1289.
+Charbonneau, P.: 2010, Living Rev. Solar Phys. 7, 3.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., et al.: 1996, Solar Phys. 162, 291.
+Didkovsky, L.V.: 2018, Solar Phys. 293, 87.
+Didkovsky, L., Gurman, J.B.: 2014, Solar Phys. 289, 153.
+Didkovsky, L.V., Wieman, S., Korogodina, E.V.: 2017, Solar Phys. 292, 32.
+Didkovsky, L.V., Judge, D.L., Wieman, S., McMullin, D.: 2010, In: Cranmer, S., Hoeksema, T., Kohl, J. (eds.) SOHO-23: Understanding a Peculiar Solar Minimum, Astron. Soc. Pacific C.S. 428, 73.
+Hovestadt, D., Hilchenbach, M., Bürgi, A., Klecker, B., Laeverenz, P., Scholer, M., Grünwaldt, H., Axford, W.I., Livi, S., Marsch, E., Wilken, B., Winterhoff, P., Ipavich, F.M., Bedini, P., Coplan, M.A., Galvin, A.B., Gloeckler, G., Bochsler, P., Balsiger, H., Fischer, J., Geiss, J., Kallenbach, R., Wurz, P., Reiche, K.-U., Gliem, F., Judge, D.L., Hsieh, K.H., Möbius, E., Lee, M.A., Managadze, G.G., Verigin, M.I., Neugebauer, M.: 1995, Solar Phys. 162, 441.
+Judge, D.L., McMullin, D.R., Ogawa, H.S., Hovestadt, D., Klecker, B., Hilchenbach, M., Möbius, E., Canfield, L.R., Vest, R.E., Watts, R., Tarrio, C., Kuehne, M., Wurz, P.: 1998, Solar Phys. 177, 161.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., et al.: 2012, Solar Phys. 275, 17.
+Maunder, E.W.: 1890, Mon. Not. Roy. Astron. Soc. 50, 251.
+McIntosh, S.W., Leamon, R.J., Hock, R.A., Rast, M.P., Ulrich, R.K.: 2011a, Astrophys. J. Lett. 730, L3.
+McIntosh, S.W., Kiefer, K.K., Leamon, R.J., Kasper, J.C., Stevens, M.L.: 2011b, Astrophys. J. Lett. 740, L23.
+Pesnell, W.D.: 2008, Solar Phys. 252, 209.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, Solar Phys. 275, 3.
+Petrovay, K.: 2010, Living Rev. Solar Phys. 7, 6.
+Williams, P.E., Pesnell, W.D.: 2011, Solar Phys. 270, 125.

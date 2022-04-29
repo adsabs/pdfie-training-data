@@ -1,0 +1,22 @@
+Alissandrakis, C.E.: 1981, On the computation of constant alpha force-free magnetic field. Astron. Astrophys. 100, 197.
+Berger, M.A., Field, G.B.: 1984, The topological properties of magnetic helicity. J. Fluid Mech. 147, 133.
+Georgoulis, M.K.: 2005, A new technique for a routine azimuth disambiguation of solar vector magnetograms. Astrophys. J. Lett. 629, L69.
+Guo, Y., Ding, M.D., Cheng, X., Zhao, J., Pariat, E.: 2013, Twist accumulation and topology structure of a solar magnetic flux rope. Astrophys. J. 779, 157.
+Metcalf, T.R.: 1994, Resolving the 180-degree ambiguity in vector magnetic field measurements: the ‘minimum’ energy solution. Solar Phys. 155, 235.
+Metcalf, T.R., Leka, K.D., Barnes, G., Lites, B.W., Georgoulis, M.K., Pevtsov, A.A., Balasubramaniam, K.S., Gary, G.A., Jing, J., Li, J., Liu, Y., Wang, H.N., Abramenko, V., Yurchyshyn, V., Moon, Y.-J.: 2006, An overview of existing algorithms for resolving the 180° ambiguity in vector magnetic fields: quantitative tests with synthetic data. Solar Phys. 237, 267.
+Moraitis, K., Tziotziou, K., Georgoulis, M.K., Archontis, V.: 2014, Validation and benchmarking of a practical free magnetic energy and relative magnetic helicity budget calculation in solar magnetic structures. Solar Phys. 289, 4453.
+Nindos, A.: 2013, Magnetic helicity ejections and coronal activity. In: Kosovichev, A.G., de Gouveia Dal Pino, E., Yan, Y. (eds.) Solar and Astrophysical Dynamos and Magnetic Activity, IAU Symposium 294, 519.
+Pariat, E., Valori, G., Démoulin, P., Dalmasse, K.: 2015, Testing magnetic helicity conservation in a solar-like active event. Astron. Astrophys. 580, A128.
+Pevtsov, A.A., Berger, M.A., Nindos, A., Norton, A.A., van Driel-Gesztelyi, L.: 2014, Magnetic helicity, tilt, and twist. Space Sci. Rev. 186, 285.
+Régnier, S.: 2013, Magnetic field extrapolations into the corona: success and future improvements. Solar Phys. 288, 481.
+Rudenko, G.V., Anfinogentov, S.A.A.: 2014, Very fast and accurate azimuth disambiguation of vector magnetograms. Solar Phys. 289, 1499.
+Rudenko, G.V., Myshyakov, I.I.: 2009, Analysis of reconstruction methods for nonlinear force-free fields. Solar Phys. 257, 287.
+Rudenko, G.V., Myshyakov, I.I.: 2011, Gauge-invariant helicity for force-free magnetic fields in a rectangular box. Solar Phys. 270, 165.
+Rudenko, G.V., Mysh’yakov, I.I., Anfinogentov, S.A.: 2013, Determining the spatial configurations of the coronal magnetic fields of solar active regions. Astron. Rep. 57, 622.
+Sun, X., Hoeksema, J.T., Liu, Y., Wiegelmann, T., Hayashi, K., Chen, Q., Thalmann, J.: 2012, Evolution of magnetic field and energy in a major eruptive active region based on SDO/HMI observation. Astrophys. J. 748, 77.
+Tziotziou, K., Georgoulis, M.K., Liu, Y.: 2013, Interpreting eruptive behavior in NOAA AR 11158 via the region’s magnetic energy and relative-helicity budgets. Astrophys. J. 772, 115.
+Valori, G., Démoulin, P., Pariat, E.: 2012, Comparing values of the relative magnetic helicity in finite volumes. Solar Phys. 278, 347.
+Wheatland, M.S., Sturrock, P.A., Roumeliotis, G.: 2000, An optimization approach to reconstructing force-free fields. Astrophys. J. 540, 1150.
+Wiegelmann, T.: 2004, Optimization code with weighting function for the reconstruction of coronal magnetic fields. Solar Phys. 219, 87.
+Wiegelmann, T., Thalmann, J.K., Solanki, S.K.: 2014, The magnetic field in the solar atmosphere. Astron. Astrophys. Rev. 22, 78.
+Yang, S., Büchner, J., Santos, J.C., Zhang, H.: 2013, Evolution of relative magnetic helicity: method of computation and its application to a simulated solar corona above an active region. Solar Phys. 283, 369.

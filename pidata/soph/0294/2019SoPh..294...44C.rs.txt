@@ -1,0 +1,42 @@
+Bruno, R., Bavassano, B.: 1997, On the winding of the IMF spiral for slow and fast wind within the inner heliosphere. Geophys. Res. Lett. 24, 2267.
+Choi, K.-E., Lee, D.-Y., Choi, K.-C., Kim, J.: 2017, Statistical properties and geoeffectiveness of southward interplanetary magnetic field with emphasis on weakly southward B
+Chowdhury, P., Choudhary, D.P., Gosain, S., Moon, Y.-J.: 2014, Short-term periodicities in interplanetary, geomagnetic and solar phenomena during Solar Cycle 24. Astrophys. Space Sci. 356, 7.
+Crooker, N.U., Lazarus, A.J., Phillips, J.L., Steinberg, J.T., Szabo, A., Lepping, R.P., Smith, E.J.: 1997, Coronal streamer belt asymmetries and seasonal solar wind variations deduced from Wind and Ulysses data. J. Geophys. Res. 102, 4673.
+Echer, E., Svalgaard, L.: 2004, Asymmetry in the Rosenberg–Coleman effect around solar minimum revealed by wavelet analysis of the interplanetary magnetic field polarity data (1927 – 2002). Geophys. Res. Lett. 31, 12.
+Gavryuseva, E.A.: 2018, Relations between variability of the photospheric and interplanetary magnetic fields, solar wind and geomagnetic characteristics.
+Gonzalez, A.L.C., Gonzalez, W.D.: 1987, Periodicities in the interplanetary magnetic field polarity. J. Geophys. Res. 92, 4357.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99, 5771.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2007, Geoeffectiveness of halo coronal mass ejections. J. Geophys. Res. 112, A06112.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2016, Unusual polar conditions in Solar Cycle 24 and their implications for Cycle 25. Astrophys. J. Lett. 823, 15.
+Gopalswamy, N., Akiyama, S., Yashiro, S., Xie, H., Mäkelä, P., Michalek, G.: 2015, The mild space weather in Solar Cycle 24. In: Proc. 14th Int. Ionospheric Effects Symposium, Alexandria, VA, 1.
+Hoeksema, J.T., Wilcox, J.M., Scherrer, P.H.: 1983, The structure of the heliospheric current sheet: 1978 – 1982. J. Geophys. Res. 88, 9910.
+Jackson, B.V., Hick, P.P., Buffington, A., Clover, J.M., Tokumaru, M.: 2012, Forecasting transient heliospheric solar wind parameters at the locations of the inner planets. Adv. Geosci. 30, 93.
+Jackson, B.V., Hick, P.P., Buffington, A., Yu, H.-S., Bisi, M.M., Tokumaru, M., Zhao, X.: 2015, A determination of the North–South heliospheric magnetic field component from inner corona closed-loop propagation. Astrophys. J. 803, L1.
+Jackson, B.V., Yu, H.-S., Buffington, A., Hick, P.P., Nishimura, N., Nozaki, N., Tokumaru, M., Fujiki, K., Hayashi, K.: 2016, Exploration of solar photospheric magnetic field data sets using the UCSD tomography. J. Geophys. Res. 14, 1107.
+Janardhan, P., Fujiki, K., Ingale, M., Bisoi, S.K., Rout, D.: 2018, Solar Cycle 24: An unusual polar field reversal. Astron. Astrophys. 618, A148.
+Katsavrias, C., Preka-Papadema, P., Moussas, X.: 2012, Wavelet analysis on solar wind parameters and geomagnetic indices. Solar Phys. 280, 623.
+Koskela, J.S., Virtanen, I.I., Mursula, K.: 2017, Comparing coronal and heliospheric magnetic fields over several solar cycles. Astrophys. J. 835, 63.
+Mursula, K., Zieger, B.: 1996, The 13.5-day periodicity in the Sun, solar wind, and geomagnetic activity: The last three solar cycles. J. Geophys. Res. 101, 27077.
+Neugebauer, M., Smith, E.J., Ruzmaikin, A., Feynman, J., Vaughan, A.H.: 2000, The solar magnetic field and the solar wind: Existence of preferred longitudes. J. Geophys. Res. 105, 2315.
+Pinto, R.F., Rouillard, A.P.: 2017, A multiple flux-tube solar wind model. Astrophys. J. 838, 89.
+Pizzo, V., Millward, G., Parsons, A., Biesecker, D., Hill, S., Odstrcil, D.: 2011, Wang-Sheeley-Arge–Enlil cone model transitions to operations. Space Weather 9, S03004.
+Poblet, F.L., Azpilicueta, F.: 2018, 27-day variation in solar-terrestrial parameters: Global characteristics and an origin based approach of the signals. Adv. Space Res. 61, 2275.
+Prabhakaran Nayer, S.R., Radhika, V.N., Revathy, K., Ramadas, V.: 2002, Wavelet analysis of solar, solar wind and geomagnetic parameters. Solar Phys. 208, 359.
+Prigancová, A.: 1992, On spectral structure evolution of interplanetary medium parameters. In: Marsch, E., Schwenn, R. (eds.) Proc. 3rd COSPAR, Germany, 1991, 241.
+Rosenberg, R.L., Coleman, P.J. Jr.: 1969, Heliographic latitude dependence of the dominant polarity of the interplanetary magnetic field. J. Geophys. Res. 74, 5611.
+Russell, C.T., McPherron, R.L.: 1973, Semiannual variation of geomagnetic activity. J. Geophys. Res. 78, 92.
+Schreiber, H.: 1998, On the periodic variations of geomagnetic activity indices Ap and ap. Ann. Geophys. 16, 510.
+Sifuzzaman, M., Islam, M.R., Ali, M.Z.: 2009, Application of wavelet transform and its advantages compared to Fourier transform. J. Phys. Sci. 13, 121.
+Singh, Y.P., Badruddin, S.G.: 2015, Solar-rotational oscillation and its harmonics in the solar-wind, geomagnetic and cosmic ray particles during the last two solar minima. Astrophys. Space Sci. 359, 60.
+Singh, Y.P., Badruddin, S.G.: 2017, Short- and mid-term oscillations of solar, geomagnetic activity and cosmic ray intensity during the last two solar magnetic cycles. Planet. Space Sci. 138, 1.
+Singh, Y.P., Gautam, S., Badruddin, S.G.: 2012, Temporal variations of short- and mid-term periodicities in solar wind parameters and cosmic ray intensity. J. Atmos. Solar-Terr. Phys. 89, 48.
+Svalgaard, L.: 1972, Interplanetary magnetic-sector structure, 1926 – 1971. J. Geophys. Res. 77, 4027.
+Svalgaard, L.: 1975a, On the use of Godhavn H component as an indicator of the interplanetary sector polarity. J. Geophys. Res. 80, 2717.
+Svalgaard, L.: 1975b, An atlas of interplanetary sector structure 1957 – 1974. SUIPR Report No. 629.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Am. Meteorol. Soc. 79, 61.
+Tsichla, M., Gerontidou, M., Mavronmichalaki, H.: 2019, Spectral analysis of solar and geomagnetic parameters in relation to cosmic-ray intensity for the time period 1965 – 2018. Solar Phys. 294, 15.
+Walnut, D.F.: 2001, An Introduction to Wavelet Analysis, Birkhäuser, Boston.
+Wang, Y.-M., Sheely, N.R.: 1990, Solar wind speed and coronal flux-tube expansion. Astrophys. J. 355, 726.
+Wilcox, J.M., Gonzalez, W.: 1971, A rotating solar magnetic “dipole” observed from 1926 to 1968. Science 174, 820.
+Zhang, X.-Y., Moldwin, M.B., Cartwright, M.: 2013, The geo-effectiveness of interplanetary small-scale magnetic flux ropes. J. Atmos. Solar-Terr. Phys. 95–96, 1.
+Zhao, X., Hoeksema, J.T.: 1995, Prediction of the interplanetary magnetic field strength. J. Geophys. Res. 100, 19.

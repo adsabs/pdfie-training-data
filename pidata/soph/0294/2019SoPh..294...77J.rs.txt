@@ -1,0 +1,16 @@
+Arlt, R.: 2008, Digitization of sunspot drawings by Staudacher in 1749 – 1796. Solar Phys. 247, 399.
+Bugge, T.: 1784, Observationes Astronomicae Annis 1781, 1782 and 1783.
+Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Revisiting the sunspot number. A 400-year perspective on the solar cycle. Space Sci. Rev. 186, 35.
+Gyldenkerne, K., Darnell, P.B.: 1990, Dansk astronomi gennem firehundrede år.
+Horrebow, P.: 1735, Basis astronomiae sive astronomiae pars mechanica in qua Danica; simulque eorundem usus, sive methodi observandi Roemerianae describuntur observatoria, atque instrumenta astronomica Roemeriana.
+Hoyt, D.V., Schatten, K.H.: 1995, A new interpretation of Christian Horrebow’s sunspot observations from 1761 to 1777. Solar Phys. 160, 387.
+Hoyt, D.V., Schatten, K.H.: 1998, Group sunspot numbers: a new solar activity reconstruction. Solar Phys. 181, 491.
+Karoff, C., Jørgensen, C.S., Senthamizh Pavai, V., Rainer, A.: 2019, Christian Horrebow’s sunspot observations – II. Construction of a record of sunspot positions. Solar Phys.
+Muñoz-Jaramillo, A., Vaquero, J.M.: 2019, Visualization of the challenges and limitations of the long-term sunspot number record. Nat. Astron. 3, 205.
+Schwabe, H.: 1844, Sonnenbeobachtungen im Jahre 1843. Von Herrn Hofrath Schwabe in Dessau. Astron. Nachr. 21, 233.
+Svalgaard, L.: 2017, A recount of sunspot groups on Staudach’s drawings. Solar Phys. 292, 4.
+Svalgaard, L., Schatten, K.H.: 2016, Reconstruction of the sunspot group number: the Backbone method. Solar Phys. 291, 2653.
+Thiele, T.N.: 1859, De Macularum Solis antiquioribus quibusdam obstervationibus Hafniae institutis, scripsit Th. N. Thiele, astr. stud. Astron. Nachr. 50, 257.
+Usoskin, I.G., Kovaltsov, G.A., Lockwood, M., Mursula, K., Owens, M., Solanki, S.K.: 2016, A new calibrated sunspot group series since 1749: statistics of active day fractions. Solar Phys. 291, 2685.
+Vaquero, J.M., Svalgaard, L., Carrasco, V.M.S., Clette, F., Lefèvre, L., Gallego, M.C., Arlt, R., Aparicio, A.J.P., Richard, J.-G., Howe, R.: 2016, A revised collection of sunspot group numbers. Solar Phys. 291, 3061.
+Wolf, R.: 1873, Astronomische Mittheilungen XXIII. Astron. Mitt. Eidgenöss. Sternwarte Zür. 4, 77.

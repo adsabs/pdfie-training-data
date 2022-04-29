@@ -1,0 +1,155 @@
+Aarons, J.: 1991, The role of the ring current in the generation or inhibition of equatorial f layer irregularities during magnetic storms. Radio Sci. 26(4), 1131.
+Adriani, O., Barbarino, G.C., Bazilevskaya, G.A., Bellotti, R., Boezio, M., Bogomolov, E.A., et al.: 2011, Observations of the 2006 December 13 and 14 solar particle events in the 80 MeV n
+Adriani, O., et al.: 2014, The PAMELA mission: heralding a new era in precision cosmic ray physics. Phys. Rep. 544, 323.
+Ahn, B.-H., Akasofu, S.-I., Kamide, Y.: 1983, The Joule heat production rate and the particle energy injection rate as a function of the geomagnetic indices ae and al. J. Geophys. Res., Space 88(A8), 6275.
+Alberti, T., Piersanti, M., Vecchio, A., De Michelis, P., Lepreti, F., Carbone, V., Primavera, L.: 2016, Identification of the different magnetic field contributions during a geomagnetic storm in magnetospheric and ground observations. Ann. Geophys. 34(11), 1069.
+Alberti, T., Laurenza, M., Cliver, E., Storini, M., Consolini, G., Lepreti, F.: 2017a, Solar activity from 2006 to 2014 and short-term forecasts of solar proton events using the “esperta” model. Astrophys. J. 838, 59.
+Alberti, T., Consolini, G., Lepreti, F., Laurenza, M., Vecchio, A., Carbone, V.: 2017b, Timescale separation in the solar wind-magnetosphere coupling during St. Patrick’s Day storms in 2013 and 2015. J. Geophys. Res. 122(4), 4266.
+Alfonsi, L., Spogli, L., Pezzopane, M., Romano, V., Zuccheretti, E., De Franceschi, G., Cabrera, M., Ezquer, R.: 2013, Comparative analysis of spread-f signature and gps scintillation occurrences at Tucumán, Argentina. J. Geophys. Res. 118(7), 4483.
+Alissandrakis, C.: 1981, On the computation of constant alpha force-free magnetic field. Astron. Astrophys. 100, 197.
+Araki, T.: 1994, A physical model of the geomagnetic sudden commencement. In: Geoph. Monog. 81, AGU, Washington, 183.
+Araki, T., Tsunomura, S., Kikuchi, T.: 2009, Local time variation of the amplitude of geomagnetic sudden commencements (sc) and sc-associated polar cap potential. Earth Planets Space 61(4), e13.
+Aschwanden, M.J.: 2002, Particle acceleration and kinematics in solar flares – a synthesis of recent observations and theoretical concepts. Space Sci. Rev. 101(1–2), 1.
+Astafyeva, E., Zakharenkova, I., Patrick, A.: 2016, Prompt penetration electric fields and the extreme topside ionospheric response to the June 22 – 23, 2015 geomagnetic storm as seen by the Swarm constellation. Earth Planets Space 68(1), 152.
+Baker, D.N., Jaynes, A., Kanekal, S., Foster, J., Erickson, P., Fennell, J., Blake, J., Zhao, H., Li, X., Elkington, S., et al.: 2016a, Highly relativistic radiation belt electron acceleration, transport, and loss: large solar storm events of March and June 2015. J. Geophys. Res. 121(7), 6647.
+Baker, D., Jaynes, A., Turner, D., Nakamura, R., Schmid, D., Mauk, B., Cohen, I., Fennell, J., Blake, J., Strangeway, R., et al.: 2016b, A telescopic and microscopic examination of acceleration in the June 2015 geomagnetic storm: magnetospheric multiscale and van Allen probes study of substorm particle injection. Geophys. Res. Lett. 43(12), 6051.
+Balan, N., Shiokawa, K., Otsuka, Y., Kikuchi, T., Vijaya Lekshmi, D., Kawamura, S., Yamamoto, M., Bailey, G.: 2010, A physical mechanism of positive ionospheric storms at low latitudes and midlatitudes. J. Geophys. Res. 115(A2).
+Baransky, L., Borovkov, J., Gokhberg, M., Krylov, S., Troitskaya, V.: 1985, High resolution method of direct measurement of the magnetic field lines’ eigen frequencies. Planet. Space Sci. 33(12), 1369.
+Bemporad, A., Pagano, P.: 2015, Uncertainties in polarimetric 3D reconstructions of coronal mass ejections. Astron. Astrophys. 576, A93.
+Berube, D., Moldwin, M.B., Ahn, M.: 2006, Computing magnetospheric mass density from field line resonances in a realistic magnetic field geometry. J. Geophys. Res., Space 111(A8), A08206.
+Bibl, K., Reinisch, B.W.: 1978, The universal digital ionosonde. Radio Sci. 13(3), 519.
+Blake, J.B., Kolasinski, W.A., Fillius, R.W., Mullen, E.G.: 1992, Injection of electrons and protons with energies of tens of mev into l < 3 on 24 March 1991. Geophys. Res. Lett. 19(8), 821.
+Blanc, M., Richmond, A.: 1980, The ionospheric disturbance dynamo. J. Geophys. Res. 85(A4), 1669.
+Bobra, M.G., Couvidat, S.: 2015, Solar flare prediction using SDO/HMI vector magnetic field data with a machine-learning algorithm. Astrophys. J. 798, 135.
+Bobra, M.G., Sun, X., Hoeksema, J.T., Turmon, M., Liu, Y., Hayashi, K., Barnes, G., Leka, K.: 2014, The helioseismic and magnetic imager (hmi) vector magnetic field pipeline: sharps–space-weather hmi active region patches. Solar Phys. 289(9), 3549.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock: voyager, helios, and imp 8 observations. J. Geophys. Res. 86(A8), 6673.
+Cane, H.V.: 2000, Coronal mass ejections and Forbush decreases. Space Sci. Rev. 93(1), 55.
+Carpenter, D.L.: 1963, Whistler evidence of a knee in the magnetospheric ionization density profile. J. Geophys. Res. 68(6), 1675.
+Carpenter, D., Anderson, R.: 1992, An isee/whistler model of equatorial electron density in the magnetosphere. J. Geophys. Res. 97(A2), 1097.
+Carter, B.A., Yizengaw, E., Pradipta, R., Weygand, J.M., Piersanti, M., Pulkkinen, A., Moldwin, M.B., Norman, R., Zhang, K.: 2016, Geomagnetically induced currents around the world during the 17 March 2015 storm. J. Geophys. Res. 121(10), 10,496.
+Cesaroni, C., Spogli, L., Alfonsi, L., De Franceschi, G., Ciraolo, L., Monico, J.F.G., Scotto, C., Romano, V., Aquino, M., Bougard, B.: 2015, L-band scintillations and calibrated total electron content gradients over Brazil during the last solar maximum. J. Space Weather Space Clim. 5, A36.
+Chappell, C., Harris, K., Sharp, G.: 1970, The morphology of the bulge region of the plasmasphere. J. Geophys. Res. 75(19), 3848.
+Chi, P., Russell, C., Peterson, W., Le, G., Angelopoulos, V., Reeves, G., Moldwin, M., Chun, F.: 2000, Plasmaspheric depletion and refilling associated with the September 25, 1998 magnetic storm observed by ground magnetometers at l= 2. Geophys. Res. Lett. 27, 633.
+Chisham, G., Lester, M., Milan, S.E., Freeman, M.P., Bristow, W.A., Grocott, A., McWilliams, K.A., Ruohoniemi, J.M., Yeoman, T.K., Dyson, P.L., Greenwald, R.A., Kikuchi, T., Pinnock, M., Rash, J.P.S., Sato, N., Sofko, G.J., Villain, J.-P., Walker, A.D.M.: 2007, A decade of the super dual auroral radar network (superdarn): scientific achievements, new techniques and future directions. Surv. Geophys. 28(1), 33.
+Ciraolo, L., Azpilicueta, F., Brunini, C., Meza, A., Radicella, S.: 2007, Calibration errors on experimental slant total electron content (tec) determined with gps. J. Geod. 81(2), 111.
+Consolini, G., De Michelis, P.: 2005, Local intermittency measure analysis of ae index: the directly driven and unloading component. Geophys. Res. Lett. 32(5), L05101.
+Cristaldi, A., Guglielmino, S.L., Zuccarello, F., Romano, P., Falco, M., van der Voort, L.R., de la Cruz Rodríguez, J., Ermolli, I., Criscuoli, S.: 2014, Dynamic properties along the neutral line of a delta spot inferred from high-resolution observations. Astrophys. J. 789(2), 162.
+Daglis, I., Axford, W., Sarris, E., Livi, S., Wilken, B.: 1997, Particle acceleration in geospace and its association with solar events. Solar Phys. 172(1–2), 287.
+Davis, T.N., Sugiura, M.: 1966, Auroral electrojet activity index AE and its universal time variations. J. Geophys. Res. 71(3), 785.
+De Michelis, P., Tozzi, R., Consolini, G.: 2010, Principal components’ features of mid-latitude geomagnetic daily variation. Ann. Geophys. 28(12), 2213.
+Dessler, A.J., Parker, E.N.: 1959, Hydromagnetic theory of geomagnetic storms. J. Geophys. Res. 64(12), 2239.
+Dmitriev, A., Chao, J.-K., Thomsen, M., Suvorova, A.: 2005, Geosynchronous magnetopause crossings on 29 – 31 October 2003. J. Geophys. Res. 110(A8).
+Dominici, P., Cander, L.R., Zolesi, B.: 1997, On the origin of medium-period ionospheric waves and their possible modelling: a short review. Ann. Geophys. 40(5), 338.
+Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6(2), 47.
+Ermolli, I., Giorgi, F., Romano, P., Zuccarello, F., Criscuoli, S., Stangalini, M.: 2014, Fractal and multifractal properties of active regions as flare precursors: a case study based on SOHO/MDI and SDO/HMI observations. Solar Phys. 289, 2525.
+Falconer, D.A., Moore, R.L., Gary, G.A.: 2002, Correlation of the coronal mass ejection productivity of solar active regions with measures of their global nonpotentiality from vector magnetograms: baseline results. Astrophys. J. 569, 1016.
+Fejer, B.G., Jensen, J.W., Su, S.-Y.: 2008, Seasonal and longitudinal dependence of equatorial disturbance vertical plasma drifts. Geophys. Res. Lett. 35(20).
+Fejer, B.G., Scherliess, L.: 1995, Time dependent response of equatorial ionospheric electric fields to magnetospheric disturbances. Geophys. Res. Lett. 22(7), 851.
+Feldstein, Y.I., Zaitzev, A.N.: 1968, Quiet and disturbed solar-daily variations of magnetic field at high latitudes during the igy. Tellus 20(2), 338.
+Forbush, S.E.: 1937, On diurnal variation in cosmic-ray intensity. Terr. Magn. Atmos. Electr. 42(1), 1.
+Freeland, S., Handy, B.: 1998, Data analysis with the solarsoft system. Solar Phys. 182(2), 497.
+Friis-Christensen, E., Lühr, H., Knudsen, D., Haagmans, R.: 2008, Swarm – an Earth observation mission investigating geospace. Adv. Space Res. 41(1), 210.
+Georgoulis, M.K.: 2005, A new technique for a routine azimuth disambiguation of solar vector magnetograms. Astrophys. J. Lett. 629(1), L69.
+Georgoulis, M.K., LaBonte, B.J.: 2004, Vertical Lorentz force and cross-field currents in the photospheric magnetic fields of solar active regions. Astrophys. J. 615(2), 1029.
+Getley, I., Duldig, M., Smart, D., Shea, M.: 2005, The applicability of model based aircraft radiation dose estimates. Adv. Space Res. 36(9), 1638.
+Giacalone, J., Kóta, J.: 2006, Acceleration of solar-energetic particles by shocks. Space Sci. Rev. 124(1–4), 277.
+Giorgi, F., Ermolli, I., Romano, P., Stangalini, M., Zuccarello, F., Criscuoli, S.: 2015, The signature of flare activity in multifractal measurements of active regions observed by SDO/HMI. Solar Phys. 290, 507.
+Gonzalez, W.D., Tsurutani, B.T., de Gonzalez, A.L.C.: 1999, Interplanetary origin of geomagnetic storms. Space Sci. Rev. 88(3–4), 529.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99(A4), 5771.
+Gosain, S., Venkatakrishnan, P.: 2010, The evolution of the twist shear and dip shear during x-class flare of 2006 December 13: Hinode observations. Astrophys. J. Lett. 720(2), L137.
+Hoeksema, J.T., Liu, Y., Hayashi, K., Sun, X., Schou, J., Couvidat, S., Norton, A., Bobra, M., Centeno, R., Leka, K.D., Barnes, G., Turmon, M.: 2014, The helioseismic and magnetic imager (hmi) vector magnetic field pipeline: overview and performance. Solar Phys. 289(9), 3483.
+Hoff, J., Townsend, L., Zapp, E.: 2004, Interplanetary crew doses and dose equivalents: variations among different bone marrow and skin sites. Adv. Space Res. 34(6), 1347.
+Huang, N.E., Shen, Z., Long, S.R., Wu, M.C., Shih, H.H., Zheng, Q., Yen, N.-C., Tung, C.C., Liu, H.H.: 1998, The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis. Proc. Roy. Soc. A, Math. Phys. 454(1971), 903.
+Huang, C.-S., Sazykin, S., Chau, J.L., Maruyama, N., Kelley, M.C.: 2007, Penetration electric fields: efficiency and characteristic time scale. J. Atmos. Solar-Terr. Phys. 69(10), 1135.
+Hundhausen, A.J.: 1993, Sizes and locations of coronal mass ejections: smm observations from 1980 and 1984-1989. J. Geophys. Res., Space 98(A8), 13177.
+Hunsucker, R.D.: 1992, Auroral and polar-cap ionospheric effects on radio propagation. IEEE Antennas Propag. 40(7), 818.
+Iucci, N., Levitin, A., Belov, A., Eroshenko, E., Ptitsyna, N., Villoresi, G., Chizhenkov, G., Dorman, L., Gromova, L., Parisi, M., et al.: 2005, Space weather conditions and spacecraft anomalies in different orbits. Space Weather 3(1).
+Jiang, C., Wu, S., Feng, X., Hu, Q.: 2016, Data-driven magnetohydrodynamic modelling of a flux-emerging active region leading to solar eruption. Nat. Commun. 7.
+Jing, J., Xu, Y., Cao, W., Liu, C., Gary, D., Wang, H.: 2016, Unprecedented fine structure of a solar flare revealed by the 1.6 m new solar telescope. Sci. Rep. 6, 24319.
+Joselyn, J.A., Tsurutani, B.T.: 1990, Geomagnetic sudden impulses and storm sudden commencements: a note on terminology. Eos, Trans. Am. Geophys. Union 71(47), 1808.
+Kale, Z., Mann, I., Waters, C., Goldstein, J., Menk, F., Ozeke, L.: 2007, Ground magnetometer observation of a cross-phase reversal at a steep plasmapause. J. Geophys. Res. 112(A10).
+Kamide, Y., Kokubun, S.: 1996, Two-component auroral electrojet: importance for substorm studies. J. Geophys. Res. 101(A6), 13027.
+Kennel, C.F., Edmiston, J.P., Russell, C.T., Scarf, F.L., Coroniti, F.V., Smith, E.J., Tsurutani, B.T., Scudder, J.D., Feldman, W.C., Anderson, R.R.: 1984a, Structure of the November 12, 1978, quasi-parallel interplanetary shock. J. Geophys. Res. 89, 5436.
+Kennel, C.F., Edmiston, J.P., Russell, C.T., Scarf, F.L., Coroniti, F.V., Smith, E.J., Tsurutani, B.T., Scudder, J.D., Feldman, W.C., Anderson, R.R.: 1984b, Structure of the November 12, 1978, quasi-parallel interplanetary shock. J. Geophys. Res. 89, 5436.
+Kocharov, L., Torsti, J.: 2002, Hybrid solar energetic particle events observed on board SOHO. Solar Phys. 207(1), 149.
+Kokubun, S.: 1983, Characteristics of storm sudden commencement at geostationary orbit. J. Geophys. Res., Space 88(A12), 10025.
+Kosugi, T., Matsuzaki, K., Sakao, T., Shimizu, T., Sone, Y., Tachikawa, S., Hashimoto, T., Minesugi, K., Ohnishi, A., Yamada, T., et al.: 2007, The hinode (solar-b) mission: an overview. Solar Phys. 243(1), 3.
+Laurenza, M., Cliver, E., Hewitt, J., Storini, M., Ling, A., Balch, C., Kaiser, M.: 2009, A technique for short-term warning of solar energetic particle events based on flare location, flare size, and evidence of particle escape. Space Weather 7(4).
+Lee, D.-Y., Lyons, L.R.: 2004, Geosynchronous magnetic field response to solar wind dynamic pressure pulse. J. Geophys. Res., Space 109(A4), A04201.
+Leka, K.D., Barnes, G.: 2003, Photospheric magnetic field properties of flaring versus flare-quiet active regions. I. Data, general approach, and sample results. Astrophys. J. 595, 1277.
+Leka, K.D., Barnes, G.: 2007, Photospheric magnetic field properties of flaring versus flare-quiet active regions. IV. A statistically significant sample. Astrophys. J. 656, 1173.
+Lemaire, J.F., Gringauz, K.I., Carpenter, D.L., Bassolo, V.: 2005, The Earth’s Plasmasphere, Cambridge University Press, Cambridge, 18.
+Lemen, J.R., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., et al.: 2011, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). In: The Solar Dynamics Observatory, Springer, Berlin, 17.
+Li, X., Roth, I., Temerin, M., Wygant, J.R., Hudson, M.K., Blake, J.B.: 1993, Simulation of the prompt energization and transport of radiation belt particles during the March 24, 1991 SSC. Geophys. Res. Lett. 20(22), 2423.
+Li, X., Baker, D., Elkington, S., Temerin, M., Reeves, G., Belian, R., Blake, J., Singer, H., Peria, W., Parks, G.: 2003, Energetic particle injections in the inner magnetosphere as a response to an interplanetary shock. J. Atmos. Solar-Terr. Phys. 65(2), 233.
+Lichtenberger, J., Clilverd, M.A., Heilig, B., Vellante, M., Manninen, J., Rodger, C.J., Collier, A.B., Jørgensen, A.M., Reda, J., Holzworth, R.H., Friedel, R., Simon-Wedlund, M.: 2013, The plasmasphere during a space weather event: first results from the plasmon project. J. Space Weather Space 3, A23.
+Lites, B., Casini, R., Garcia, J., Socas-Navarro, H.: 2007, A suite of community tools for spectro-polarimetric analysis. Mem. Soc. Astron. Ital. 78, 148.
+Lites, B., Akin, D., Card, G., Cruz, T., Duncan, D., Edwards, C., Elmore, D., Hoffmann, C., Katsukawa, Y., Katz, N., et al.: 2013, The hinode spectro-polarimeter. Solar Phys. 283(2), 579.
+Liu, Y.D., Hu, H., Wang, R., Yang, Z., Zhu, B., Liu, Y.A., Luhmann, J.G., Richardson, J.D.: 2015, Plasma and magnetic field characteristics of solar coronal mass ejections in relation to geomagnetic storm intensity and variability. Astrophys. J. 809(2), L34.
+Lorentzen, K., Mazur, J., Looper, M., Fennell, J., Blake, J.: 2002, Multisatellite observations of mev ion injections during storms. J. Geophys. Res. 107(A9).
+Lyu, L.-H.: 2002, Space Weather Study Using Multipoint Techniques 12, Elsevier, Amsterdam, 22.
+Mannucci, A., Tsurutani, B., Iijima, B., Komjathy, A., Saito, A., Gonzalez, W., Guarnieri, F., Kozyra, J., Skoug, R.: 2005, Dayside global ionospheric response to the major interplanetary events of October 29–30, 2003 “Halloween storms”. Geophys. Res. Lett. 32(12).
+Menk, F., Kale, Z., Sciffer, M., Robinson, P., Waters, C., Grew, R., Clilverd, M., Mann, I.: 2014, Remote sensing the plasmasphere, plasmapause, plumes and other features using ground-based magnetometers. J. Space Weather Space Clim. 4, A34.
+Moldwin, M.B.: 1997, Outer plasmaspheric plasma properties: what we know from satellite data. Space Sci. Rev. 80(1), 181.
+Moran, T.G., Davila, J.M.: 2004, Three-dimensional polarimetric imaging of coronal mass ejections. Science 305, 66.
+Muella, M., Kherani, E., de Paula, E., Cerruti, A., Kintner, P., Kantor, I., Mitchell, C., Batista, I., Abdu, M.: 2010, Scintillation-producing Fresnel-scale irregularities associated with the regions of steepest tec gradients adjacent to the equatorial ionization anomaly. J. Geophys. Res. 115(A3).
+Nicolls, M., Kelley, M., Vlasov, M., Sahai, Y., Chau, J., Hysell, D., Fagundes, P., Becker-Guedes, F., Lima, W.: 2006, Observations and modeling of post-midnight uplifts near the magnetic equator. Ann. Geophys. 24(5), 1317.
+O’Brien, T., Moldwin, M.: 2003, Empirical plasmapause models from magnetic indices. Geophys. Res. Lett. 30(4).
+Park, C.: 1973, Whistler observations of the depletion of the plasmasphere during a magnetospheric substorm. J. Geophys. Res. 78(4), 672.
+Park, C.G.: 1974, Some features of plasma distribution in the plasmasphere deduced from Antarctic whistlers. J. Geophys. Res. 79(1), 169.
+Patel, V.L., Coleman, P.J.: 1970, Sudden impulses in the magnetosphere observed at synchronous orbit. J. Geophys. Res. 75(34), 7255.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The solar dynamics observatory (sdo). Solar Phys. 275(1), 3.
+Pesses, M.E., Tsurutani, B.T., Smith, E.J., van Allen, J.A.: 1979, Acceleration of energetic protons by interplanetary shocks. J. Geophys. Res. 84, 7297.
+Petrie, G.: 2012, The abrupt changes in the photospheric magnetic and Lorentz force vectors during six major neutral-line flares. Astrophys. J. 759(1), 50.
+Piersanti, M., Villante, U.: 2016, On the discrimination between magnetospheric and ionospheric contributions on the ground manifestation of sudden impulses. J. Geophys. Res., Space 121(7), 6674.
+Piersanti, M., Villante, U., Waters, C., Coco, I.: 2012, The 8 June 2000 ulf wave activity: a case study. J. Geophys. Res., Space 117(A2).
+Prölss, G.: 1995, Ionospheric F-Region Storms, Handbook of Atmospheric Electrodynamics 2, 195.
+Reames, D.V.: 1999, Particle acceleration at the sun and in the heliosphere. Space Sci. Rev. 90(3–4), 413.
+Reiff, P., Daou, A., Sazykin, S., Nakamura, R., Hairston, M., Coffey, V., Chandler, M., Anderson, B., Russell, C., Welling, D., et al.: 2016, Multispacecraft observations and modeling of the 22/23 June 2015 geomagnetic storm. Geophys. Res. Lett. 43(14), 7311.
+Reinisch, B.W., Galkin, I.A.: 2011, Global ionospheric radio observatory (giro). Earth Planets Space 63(4), 377.
+Rishbeth, H.: 1971, Polarization fields produced by winds in the equatorial f-region. Planet. Space Sci. 19(3), 357.
+Romano, P., Zuccarello, F.P., Guglielmino, S.L., Zuccarello, F.: 2014, Evolution of the magnetic helicity flux during the formation and eruption of flux ropes. Astrophys. J. 794(2), 118.
+Ruohoniemi, J.M., Baker, K.B.: 1998, Large-scale imaging of high-latitude convection with super dual auroral radar network hf radar observations. J. Geophys. Res., Space 103(A9), 20797.
+Ruohoniemi, J.M., Greenwald, R.A.: 1996, The response of high-latitude convection to a sudden southward imf turning. Geophys. Res. Lett. 25(15), 2913.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The helioseismic and magnetic imager (hmi) investigation for the solar dynamics observatory (sdo). Solar Phys. 275(1), 207.
+Schrijver, C.J.: 2007, A characteristic magnetic field pattern associated with all major solar flares and its use in flare forecasting. Astrophys. J. Lett. 655, L117.
+Schrijver, C.J.: 2009, Driving major solar flares and eruptions: a review. Adv. Space Res. 43, 739.
+Schrijver, C.J., DeRosa, M.L.: 2003, Photospheric and heliospheric magnetic fields. Solar Phys. 212(1), 165.
+Sckopke, N.: 1966, A general relation between the energy of trapped particles and the disturbance field near the Earth. J. Geophys. Res. 71(13), 3125.
+Shepherd, S., Greenwald, R., Ruohoniemi, J.: 2002, Cross polar cap potentials measured with super dual auroral radar network during quasi-steady solar wind and interplanetary magnetic field conditions. J. Geophys. Res. 107(A7).
+Shimizu, T., Lites, B.W., Bamba, Y.: 2014, High-speed photospheric material flow observed at the polarity inversion line of a δ-type sunspot producing an X5.4 flare on 2012 March 7. Publ. Astron. Soc. Japan 66, S14.
+Shue, J.-H., Song, P., Russell, C., Steinberg, J., Chao, J., Zastenker, G., Vaisberg, O., Kokubun, S., Singer, H., Detman, T., et al.: 1998, Magnetopause location under extreme solar wind conditions. J. Geophys. Res. 103(A8), 17691.
+Smith, E.J., Tsurutani, B.T., Rosenberg, R.L.: 1978, Observations of the interplanetary sector structure up to heliographic latitudes of 16°: pioneer 11. J. Geophys. Res., Space 83(A2), 717.
+Spogli, L., Cesaroni, C., Di Mauro, D., Pezzopane, M., Alfonsi, L., Musicò, E., Povero, G., Pini, M., Dovis, F., Romero, R., et al.: 2016, Formation of ionospheric irregularities over southeast Asia during the 2015 St. Patrick’s Day storm. J. Geophys. Res.
+Suvorova, A., Dmitriev, A., Chao, J.-K., Thomsen, M., Yang, Y.-H.: 2005, Necessary conditions for geosynchronous magnetopause crossings. J. Geophys. Res. 110(A1).
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008, The solar optical telescope for the hinode mission: an overview. Solar Phys. 249(2), 167.
+Tsurutani, B.T., Lakhina, G.S.: 2014, An extreme coronal mass ejection and consequences for the magnetosphere and Earth. Geophys. Res. Lett. 41(2), 287.
+Tsurutani, B.T., Lin, R.P.: 1985, Acceleration of greater than 47 keV ions and greater than 2 keV electrons by interplanetary shocks at 1 AU. J. Geophys. Res. 90, 1.
+Tsurutani, B.T., Zhou, X.-Y.: 2003, Interplanetary shock triggering of substorms: wind and polar. Adv. Space Res. 31(4), 1063.
+Tsurutani, B.T., Smith, E.J., Pyle, K.R., Simpson, J.A.: 1982, Energetic protons accelerated at corotating shocks – pioneer 10 and 11 observations from 1 to 6 AU. J. Geophys. Res. 87, 7389.
+Tsurutani, B.T., Gonzalez, W.D., Tang, F., Akasofu, S.I., Smith, E.J.: 1988, Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar maximum (1978 – 1979). J. Geophys. Res. 93(A8), 8519.
+Tsurutani, B., Judge, D., Guarnieri, F., Gangopadhyay, P., Jones, A., Nuttall, J., Zambon, G., Didkovsky, L., Mannucci, A., Iijima, B., et al.: 2005, The October 28, 2003 extreme euv solar flare and resultant extreme ionospheric effects: comparison to other Halloween events and the Bastille day event. Geophys. Res. Lett. 32(3).
+Tsurutani, B., Mannucci, A., Iijima, B., Abdu, M.A., Sobral, J.H.A., Gonzalez, W., Guarnieri, F., Tsuda, T., Saito, A., Yumoto, K., et al.: 2004, Global dayside ionospheric uplift and enhancement associated with interplanetary electric fields. J. Geophys. Res. 109(A8).
+Tsurutani, B., Verkhoglyadova, O., Mannucci, A., Lakhina, G., Li, G., Zank, G.: 2009, A brief review of “solar flare effects” on the ionosphere. Radio Sci. 44(1).
+Tsurutani, B., Verkhoglyadova, O., Mannucci, A., Saito, A., Araki, T., Yumoto, K., Tsuda, T., Abdu, M., Sobral, J., Gonzalez, W., et al.: 2008, Prompt penetration electric fields (ppefs) and their ionospheric effects during the great magnetic storm of 30 – 31 October 2003. J. Geophys. Res. 113(A5).
+Tsyganenko, N.: 2002, A model of the near magnetosphere with a dawn-dusk asymmetry 1. Mathematical structure. J. Geophys. Res. 107(A8).
+Tsyganenko, N.A., Sitnov, M.I.: 2005, Modeling the dynamics of the inner magnetosphere during strong geomagnetic storms. J. Geophys. Res. 110(A3), A03208.
+Tulasi Ram, S., Yokoyama, T., Otsuka, Y., Shiokawa, K., Sripathi, S., Veenadhari, B., Heelis, R., Ajith, K., Gowtam, V., Gurubaran, S., et al.: 2016, Duskside enhancement of equatorial zonal electric field response to convection electric fields during the St. Patrick’s Day storm on 17 march 2015. J. Geophys. Res.
+Valtonen, E.: 2005, Space weather effects on technology. In: Space Weather, Springer, Berlin, 241.
+Vellante, M., Förster, M.: 2006, Inference of the magnetospheric plasma mass density from field line resonances: a test using a plasmasphere model. J. Geophys. Res. 111(A11).
+Vellante, M., Piersanti, M., Pietropaolo, E.: 2014, Comparison of equatorial plasma mass densities deduced from field line resonances observed at ground for dipole and igrf models. J. Geophys. Res. 119(4), 2623. 2013JA019568.
+Vellante, M., Piersanti, M., Heilig, B., Reda, J., Del Corpo, A.: 2014, Magnetospheric plasma density inferred from field line resonances: effects of using different magnetic field models. 2014 XXXIth URSI General Assembly Scien. Symp., 1.
+Venkatesh, K., Tulasi Ram, S., Fagundes, P., Seemala, G.K., Batista, I.: 2017, Electrodynamic disturbances in the brazilian equatorial and low-latitude ionosphere on St. Patrick’s Day storm of 17 March 2015. J. Geophys. Res. 122(4), 4553.
+Villante, U., Piersanti, M.: 2008, An analysis of sudden impulses at geosynchronous orbit. J. Geophys. Res. 113(A8), A08213.
+Villante, U., Piersanti, M.: 2009, Analysis of geomagnetic sudden impulses at low latitudes. J. Geophys. Res. 114(A6), A06209.
+Wang, H., Ewell Jr, M., Zirin, H., Ai, G.: 1994, Vector magnetic field changes associated with x-class flares. Astrophys. J. 424, 436.
+Wanliss, J.A., Showalter, K.M.: 2006, High-resolution global storm index: dst versus sym-h. J. Geophys. Res. 111(A2), A02202.
+Waters, C.L., Menk, F.W., Fraser, B.J.: 1991, The resonance structure of low latitude pc3 geomagnetic pulsations. Geophys. Res. Lett. 18(12), 2293.
+Welsch, B.T., Fisher, G.H., Sun, X.: 2013, A magnetic calibration of photospheric Doppler velocities. Astrophys. J. 765, 98.
+Woodman, R.F.: 1970, Vertical drift velocities and East–West electric fields at the magnetic equator. J. Geophys. Res. 75(31), 6249.
+Zhao, B., Wan, W., Liu, L., Igarashi, K., Nakamura, M., Paxton, L., Su, S.-Y., Li, G., Ren, Z.: 2008, Anomalous enhancement of ionospheric electron content in the Asian–Australian region during a geomagnetically quiet day. J. Geophys. Res. 113(A11).
+Zhou, X., Tsurutani, B.T.: 2001, Interplanetary shock triggering of nightside geomagnetic activity: substorms, pseudobreakups, and quiescent events. J. Geophys. Res. 106(A9), 18957.
+Žic, T., Vršnak, B., Temmer, M.: 2015, Heliospheric propagation of coronal mass ejections: drag-based model fitting. Astrophys. J. 218, 32.
+Zong, Q.-G., Reinisch, B., Song, P., Wei, Y., Galkin, I.: 2010, Dayside ionospheric response to the intense interplanetary shocks–solar wind discontinuities: observations from the digisonde global ionospheric radio observatory. J. Geophys. Res. 115(A6).
+Zuccarello, F., Romano, P., Farnik, F., Karlicky, M., Contarino, L., Battiato, V., Guglielmino, S., Comparato, M., Ugarte-Urra, I.: 2009, The x17. 2 flare occurred in noaa 10486: an example of filament destabilization caused by a domino effect. Astron. Astrophys. 493(2), 629.
+Zurbuchen, T.H., Richardson, I.G.: 2006, In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

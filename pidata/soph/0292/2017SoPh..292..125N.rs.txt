@@ -1,0 +1,54 @@
+Billings, D.E.: 1966, A Guide to the Solar Corona, Academic Press, New York.
+Bothmer, V., Schwenn, R.: 1998, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16, 1.
+Cane, H.V., Richardson, I.G.: 2003, Interplanetary coronal mass ejections in the near-Earth solar wind during 1996 – 2002. J. Geophys. Res. 108, 1156.
+Cheung, M.C.M., Boerner, P., Schrijver, C.J., Testa, P., Chen, F., Peter, H., et al.: 2015, Thermal diagnostics with the atmospheric imaging assembly on board the Solar Dynamics Observatory: A validated method for differential emission measure inversions. Astrophys. J. 807, 143.
+Chi, Y., Shen, C., Wang, Y., Xu, M., Ye, P., Wang, S.: 2016, Statistical study of the interplanetary coronal mass ejections from 1995 to 2015. Solar Phys. 291, 2419.
+Crooker, N.U., Kahler, S.W., Larson, D.E., Lin, R.P.: 2004, Large-scale magnetic field inversions at sector boundaries. J. Geophys. Res. 109, A03108.
+D’Huys, E., Seaton, D.B., Poedts, S., Berghmans, D.: 2014, Observational characteristics of coronal mass ejections without low-coronal signatures. Astrophys. J. 795, 49.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T., Gonzalez, A.L.C.: 2008, Interplanetary conditions causing intense geomagnetic storms (Dst ≤-100~nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113, A05221.
+Gosling, J.T.: 1993, The solar flare myth. J. Geophys. Res. 98, 18937.
+Hess, P., Zhang, J.: 2017, A study of the Earth-affecting CMEs of Solar Cycle 24. Solar Phys. 292, 80.
+Howard, T.A., Harrison, R.A.: 2013, Stealth coronal mass ejections: A perspective. Solar Phys. 285, 269.
+Howard, R.A., Michels, D.J., Sheeley, N.R. Jr., Koomen, M.J.: 1982, The observation of a coronal transient directed at Earth. Astrophys. J. Lett. 263, L101.
+Howard, R.A., Sheeley, N.R. Jr., Michels, D.J., Koomen, M.J.: 1985, Coronal mass ejections – 1979 – 1981. J. Geophys. Res. 90, 8173.
+Howard, R.A., Moses, J.D., Vourlidas, A., Newmark, J.S., Socker, D.G., Plunkett, S.P., et al.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Hudson, H.S., Cliver, E.W.: 2001, Observing coronal mass ejections without coronagraphs. J. Geophys. Res. 106, 25199.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, The STEREO mission: An introduction. Space Sci. Rev. 136, 5.
+Kilpua, E.K.J., Mierla, M., Zhukov, A.N., Rodriguez, L., Vourlidas, A., Wood, B.: 2014, Solar sources of interplanetary coronal mass ejections during the Solar Cycle 23/24 minimum. Solar Phys. 289, 3773.
+Kurita, S., Miyoshi, Y., Blake, J.B., Reeves, G.D., Kletzing, C.A.: 2016, Relativistic electron microbursts and variations in trapped MeV electron fluxes during the 8 – 9 October 2012 storm: SAMPEX and Van Allen probes observations. Geophys. Res. Lett. 43, 3017.
+Lemen, J.R., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Jurcevich, B.K., Morrison, M.D., et al.: 2004, The solar X-ray imager for GOES. In: Fineschi, S., Gummin, M.A. (eds.) Telescopes and Instrumentation for Solar Astrophysics, SPIE CS 5171, 65.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Liu, Y.D., Hu, H., Wang, C., Luhmann, J.G., Richardson, J.D., Yang, Z., et al.: 2016, On Sun-to-Earth propagation of coronal mass ejections: II. Slow events and comparison with others. Astrophys. J. Suppl. 222, 23.
+Lugaz, N., Downs, C., Shibata, K., Roussev, I.I., Asai, A., Gombosi, T.I.: 2011, Numerical investigation of a coronal mass ejection from an anemone active region: Reconnection and deflection of the 2005 August 22 eruption. Astrophys. J. 738, 127.
+Lynch, B.J., Li, Y., Thernisien, A.F.R., Robbrecht, E., Fisher, G.H., Luhmann, J.G., et al.: 2010, Sun to 1 AU propagation and evolution of a slow streamer-blowout coronal mass ejection. J. Geophys. Res. 115, A07106.
+Lynch, B.J., Masson, S., Li, Y., DeVore, C.R., Luhmann, J.G., Antiochos, S.K., et al.: 2016, Amodel for stealth coronalmass ejections. J. Geophys. Res. 121, 10677.
+Ma, S., Attrill, G.D.R., Golub, L., Lin, J.: 2010, Statistical study of coronal mass ejections with and without distinct low coronal signatures. Astrophys. J. 722, 289.
+Marubashi, K.: 1997, Interplanetary magnetic flux ropes and solar filaments. In: Crooker, N., Joselyn, J.A., Feynman, J. (eds.) Coronal Mass Ejections, Geophys. Monogr. Ser. 51, 147.
+Marubashi, K., Cho, K.-S., Ishibashi, H.: 2017, Interplanetary magnetic flux rope as agent connecting solar eruptions and geomagnetic activities. Solar Phys..
+Masson, S., Antiochos, S.K., DeVore, C.R.: 2013, A model for the escape of solar-flare-accelerated particles. Astrophys. J. 771, 82.
+Mulligan, T., Russell, C.T., Luhmann, J.G.: 1998, Solar cycle evolution of the structure of magnetic clouds in the inner heliosphere. Geophys. Res. Lett. 25, 2959.
+Nieves-Chinchilla, T., Vourlidas, A., Stenborg, G., Savani, N.P., Koval, A., Szabo, A., et al.: 2013, Inner heliospheric evolution of a “stealth” CME derived from multi-view imaging and multipoint in situ observations. I. Propagation to 1 AU. Astrophys. J. 779, 55.
+Nieves-Chinchilla, T., Vourlidas, A., Raymond, J.C., Linton, M.G., Al-haddad, N., Savani, N.P., et al.: 2017, Understanding the internal magnetic field configuration of ICMEs using 20+ years of Wind observations. Solar Phys., submitted.
+Nitta, N.V., DeRosa, M.L.: 2008, A comparison of solar open field regions found by type III radio bursts and the potential field source surface model. Astrophys. J. Lett. 673, L207.
+Nitta, N.V., Aschwanden, M.J., Freeland, S.L., Lemen, J.R., Wülser, J.-P., Zarro, D.M.: 2014, The association of solar flares with coronal mass ejections during the extended solar minimum. Solar Phys. 289, 1257.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pevtsov, A.A., Panasenco, O., Martin, S.F.: 2012, Coronal mass ejections from magnetic systems encompassing filament channels without filaments. Solar Phys. 277, 185.
+Reeves, G.D., Spence, H.E., Henderson, M.G., Morley, S.K., Friedel, R.H.W., Funsten, H.O., et al.: 2013, Electron acceleration in the heart of the Van Allen radiation belts. Science 341, 991.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during solar cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Richardson, I.G., Webb, D.F., Zhang, J., Berdichevsky, D.B., Biesecker, D.A., Kasper, J.C., et al.: 2006, Major geomagnetic storms (Dst ≤-100~nT) generated by corotating interaction regions. J. Geophys. Res. 111, A07S09.
+Robbrecht, E., Patsourakos, S., Vourlidas, A.: 2009, No trace left behind: STEREO observation of a coronal mass ejection without low coronal signatures. Astrophys. J. 701, 283.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., et al.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schrijver, C.J., DeRosa, M.L.: 2003, Photospheric and heliospheric magnetic fields. Solar Phys. 212, 165.
+Sheeley, N.R. Jr., Howard, R.A., Koomen, M.J., Michels, D.J., Harvey, J.W., Harvey, K.L.: 1982, Observations of coronal structure during sunspot maximum. Space Sci. Rev. 33, 219.
+Svestka, Z., Cliver, E.W.: 1992, History and basic characteristics of eruptive flares. In: Svestka, Z., Jackson, B.V., Machado, M.E. (eds.) IAU Coll. 133: Eruptive Solar Flares, Lect. Notes Phys., 399, 1, Springer, Berlin.
+Thorne, R.M., Li, W., Ni, B., Ma, Q., Bortnik, J., Chen, L., et al.: 2013, Rapid local acceleration of relativistic radiation-belt electrons by magnetospheric chorus. Nature 504, 411.
+Tsurutani, B.T., Lee, Y.T., Gonzalez, W.D., Tang, F.: 1992, Great magnetic storms. Geophys. Res. Lett. 19, 73.
+UeNo, S., Nagata, S.-i., Kitai, R., Kurokawa, H., Ichimoto, K.: 2004, The development of filter vector magnetographs for the Solar Magnetic Activity Research Telescope (SMART). In: Moorwood, A.F.M., Iye, M. (eds.) Ground-based Instrumentation for Astronomy, SPIE CS 5492, 958.
+van der Holst, B., Manchester, W. IV, Sokolov, I.V., Tóth, G., Gombosi, T.I., DeZeeuw, D., et al.: 2009, Breakout coronal mass ejection or streamer blowout: The bugle effect. Astrophys. J. 693, 1178.
+Vourlidas, A., Colaninno, R., Nieves-Chinchilla, T., Stenborg, G.: 2011, The first observation of a rapidly rotating coronal mass ejection in the middle corona. Astrophys. J. Lett. 733, L23.
+Wagner, W.J.: 1984, Spontaneous coronal mass ejections. Bull. Amer. Astron. Soc. 16, 536.
+Wang, Y., Chen, C., Gui, B., Shen, C., Ye, P., Wang, S.: 2011, Statistical study of coronal mass ejection source locations: Understanding CMEs viewed in coronagraphs. J. Geophys. Res. 116, A04104.
+Webb, D.F., Nitta, N.V.: 2017, Study on understanding problem forecasts of ISEST campaign flare-CME events. Solar Phys., in press.
+Webb, D.F., Cliver, E.W., Crooker, N.U., Cry, O.C.S., Thompson, B.J.: 2000, Relationship of halo coronal mass ejections, magnetic clouds, and magnetic storms. J. Geophys. Res. 105, 7491.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., et al.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst ≤-100~nT) during 1996 – 2005. J. Geophys. Res. 112, A10102.
+Zurbuchen, T.H., Richardson, I.G.: 2006, In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

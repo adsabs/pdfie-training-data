@@ -1,0 +1,52 @@
+Alves, M.V., Echer, E., Gonzalez, W.D.: 2006, Geoeffectiveness of corotating interaction regions as measured by Dst index. J. Geophys. Res. 111, A07S05.
+Balogh, A., Gosling, J.T., Jokipii, J.R., Kallenbach, R., Kunow, H.: 1999, Corotating interaction regions. Space Sci. Rev. 89, 1.
+Bartels, J., Heck, N.H., Johnston, H.F.: 1939, The three-hour-range index measuring geomagnetic activity. Terr. Magn. Atmos. Electr. 44, 411.
+Borovsky, J.E., Denton, M.H.: 2006, Differences between cme-driven storms and cir-driven storms. J. Geophys. Res. 111, A07S08.
+Burlaga, L.F., Lepping, R.P.: 1977, The causes of recurrent geomagnetic storms. Planet. Space Sci. 25, 1151.
+Čalogović, J., Vršnak, B., Temmer, M., Veronig, A.M.: 2009, Cosmic ray modulation by corotating interaction regions. In: Gopalswamy, N., Webb, D.F. (eds.) Universal Heliophysical Processes, IAU Symp. 257, 425.
+Crowley, G., Reynolds, A., Thayer, J.P., Lei, J., Paxton, L.J., Christensen, A.B., Zhang, Y., Meier, R.R., Strickland, D.J.: 2008, Periodic modulations in thermospheric composition by solar wind high speed streams. Geophys. Res. Lett. 35, L21106.
+Davis, T.N., Sugiura, M.: 1966, Auroral electrojet activity index AE and its universal time variations. J. Geophys. Res. 71, 785.
+Dumbović, M., Vršnak, B., Čalogović, J., Karlica, M.: 2011, Cosmic ray modulation by solar wind disturbances. Astron. Astrophys. 531, A91.
+Dumbović, M., Vršnak, B., Čalogović, J., Župan, R.: 2012, Cosmic ray modulation by different types of solar wind disturbances. Astron. Astrophys. 538, A28.
+Echer, E., Gonzalez, W.D., Alves, M.V.: 2006, Minimum variance analysis of interplanetary coronal mass ejections around Solar Cycle 23 maximum (1998 – 2002). Solar Phys. 233, 249.
+Emery, B.A., Richardson, I.G., Evans, D.S., Rich, F.J.: 2009, Solar wind structure sources and periodicities of auroral electron power over three solar cycles. J. Atmos. Solar-Terr. Phys. 71, 1157.
+Finch, I.D., Lockwood, M.L., Rouillard, A.P.: 2008, Effects of solar wind magnetosphere coupling recorded at different geomagnetic latitudes: separation of directly-driven and storage/release systems. Geophys. Res. Lett. 35, L21105.
+Forbush, S.E.: 1937, On the effects in cosmic-ray intensity observed during the recent magnetic storm. Phys. Rev. 51(12), 1108.
+Gibson, S.E., Kozyra, J.U., de Toma, G., Emery, B.A., Onsager, T., Thompson, B.J.: 2009, If the Sun is so quiet, why is the Earth ringing? A comparison of two solar minimum intervals. J. Geophys. Res. 114, A09105.
+Gonzalez, W.D., Echer, E., Tsurutani, B.T., Clúa de Gonzalez, A.L., Dal Lago, A.: 2011, Interplanetary origin of intense, superintense and extreme geomagnetic storms. Space Sci. Rev. 158, 69.
+Gopalswamy, N., Tsurutani, B., Yan, Y.: 2015, Short-term variability of the Sun–Earth system: an overview of progress made during the CAWSES-II period. Prog. Earth Planet. Sci. 2, 13.
+Gosling, J.T.: 1996, Corotating and transient solar wind flows in three dimensions. Annu. Rev. Astron. Astrophys. 34, 35.
+Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
+Hajra, R., Echer, E., Tsurutani, B.T., Gonzalez, W.D.: 2013, Solar cycle dependence of high-intensity long-duration continuous AE activity (HILDCAA) events, relativistic electron predictors? J. Geophys. Res. 118, 5626.
+Kataoka, R., Pulkkinen, A.: 2008, Geomagnetically induced currents during intense storms driven by coronal mass ejections and corotating interacting regions. J. Geophys. Res. 113, A03S12.
+Krieger, A.S., Timothy, A.F., Roelof, E.C.: 1973, A coronal hole and its identification as the source of a high velocity solar wind stream. Solar Phys. 29, 505.
+Lee, C.O., Luhmann, J.G., Odstrcil, D., MacNeice, P.J., de Pater, I., Riley, P., Arge, C.N.: 2009, The solar wind at 1 AU during the declining phase of Solar Cycle 23: comparison of 3D numerical model results with observations. Solar Phys. 254, 155.
+Lei, J., Thayer, J.P., Forbes, J.M., Sutton, E.K., Nerem, R.S.: 2008a, Rotating solar coronal holes and periodic modulation of the upper atmosphere. Geophys. Res. Lett. 35, 10109.
+Lei, J., Thayer, J.P., Forbes, J.M., Sutton, E.K., Nerem, R.S., Temmer, M., Veronig, A.M.: 2008b, Global thermospheric density variations caused by high-speed solar wind streams during the declining phase of Solar Cycle 23. J. Geophys. Res. 113(A12), A11303.
+Lei, J., Thayer, J.P., Forbes, J.M., Wu, Q., She, C., Wan, W., Wang, W.: 2008c, Ionosphere response to solar wind high-speed streams. Geophys. Res. Lett. 35, L19105.
+Lei, J., Thayer, J.P., Wang, W., McPherron, R.L.: 2011, Impact of CIR storms on thermosphere density variability during the solar minimum of 2008. Solar Phys. 274, 427.
+McComas, D.J., Bame, S.J., Barker, P., Feldman, W.C., Phillips, J.L., Riley, P., Griffee, J.W.: 1998, Solar wind electron proton alpha monitor (swepam) for the advanced composition explorer. Space Sci. Rev. 86, 563.
+Neupert, W.M., Pizzo, V.: 1974, Solar coronal holes as sources of recurrent geomagnetic disturbances. In: Bull. Amer. Astron. Soc. 6, 292.
+Nolte, J.T., Krieger, A.S., Timothy, A.F., Gold, R.E., Roelof, E.C., Vaiana, G., Lazarus, A.J., Sullivan, J.D., McIntosh, P.S.: 1976, Coronal holes as sources of solar wind. Solar Phys. 46, 303.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): catalog and summary of properties. Solar Phys. 264, 189.
+Robbrecht, E., Patsourakos, S., Vourlidas, A.: 2009, No trace left behind: STEREO observation of a coronal mass ejection without low coronal signatures. Astrophys. J. 701, 283.
+Rostoker, G.: 1972, Geomagnetic indices. Rev. Geophys. Space Phys. 10, 935.
+Rotter, T., Veronig, A.M., Temmer, M., Vršnak, B.: 2012, Relation between coronal hole areas on the sun and the solar wind parameters at 1 AU. Solar Phys. 281, 793.
+Schwenn, R., dal Lago, A., Huttunen, E., Gonzalez, W.D.: 2005, The association of coronal mass ejections with their effects near the Earth. Ann. Geophys. 23, 1033.
+Smith, E.J., Wolfe, J.H.: 1976, Observations of interaction regions and corotating shocks between one and five AU – Pioneers 10 and 11. Geophys. Res. Lett. 3, 137.
+Smith, C.W., L’Heureux, J., Ness, N.F., Acuña, M.H., Burlaga, L.F., Scheifele, J.: 1998, The ACE magnetic fields experiment. Space Sci. Rev. 86, 613.
+Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.R., Margolies, D., Ormes, J.F., Snow, F.: 1998, The advanced composition explorer. Space Sci. Rev. 86, 1.
+Sugiura, M., Wilson, C.R.: 1964, Oscillation of the geomagnetic field lines and associated magnetic perturbations at conjugate points. J. Geophys. Res. 69, 1211.
+Tanskanen, E.I., Slavin, J.A., Tanskanen, A.J., Viljanen, A., Pulkkinen, T.I., Koskinen, H.E.J., Pulkkinen, A., Eastwood, J.: 2005, Magnetospheric substorms are strongly modulated by interplanetary high-speed streams. Geophys. Res. Lett. 32, L16104.
+Temmer, M., Vršnak, B., Veronig, A.M.: 2007, Periodic appearance of coronal holes and the related variation of solar wind parameters. Solar Phys. 241, 371.
+Tsurutani, B.T., Gonzalez, W.D.: 1987, The cause of high-intensity long-duration continuous AE activity (HILDCAAS) – interplanetary Alfven wave trains. Planet. Space Sci. 35, 405.
+Tsurutani, B.T., McPherron, R.L., Gonzalez, W.D., Lu, G., Sobral, J.H.A., Gopalswamy, N.: 2006, Introduction to special section on corotating solar wind streams and recurrent geomagnetic activity. J. Geophys. Res. 111, 1.
+Tulasi Ram, S., Lei, J., Su, S.-Y., Liu, C.H., Lin, C.H., Chen, W.S.: 2010, Dayside ionospheric response to recurrent geomagnetic activity during the extreme solar minimum of 2008. Geophys. Res. Lett. 37, L02101.
+Vennerstroem, S.: 2001, Interplanetary sources of magnetic storms: a statistical study. J. Geophys. Res. 106, 29175.
+Verbanac, G., Vršnak, B., Veronig, A., Temmer, M.: 2011a, Equatorial coronal holes, solar wind high-speed streams, and their geoeffectiveness. Astron. Astrophys. 526, A20.
+Verbanac, G., Vršnak, B., Živković, S., Hojsak, T., Veronig, A.M., Temmer, M.: 2011b, Solar wind high-speed streams and related geomagnetic activity in the declining phase of solar cycle 23. Astron. Astrophys. 533, A49.
+Verbanac, G., Živković, S., Vršnak, B., Bandić, M., Hojsak, T.: 2013, Comparison of geoeffectiveness of coronal mass ejections and corotating interaction regions. Astron. Astrophys. 558, A85.
+Verkhoglyadova, O.P., Tsurutani, B.T., Mannucci, A.J., Mlynczak, M.G., Hunt, L.A., Runge, T.: 2013, Variability of ionospheric TEC during solar and geomagnetic minima (2008 and 2009): external high speed stream drivers. Ann. Geophys. 31, 263.
+Vršnak, B., Temmer, M., Veronig, A.M.: 2007a, Coronal holes and solar wind high-speed streams: I. Forecasting the solar wind parameters. Solar Phys. 240, 315.
+Vršnak, B., Temmer, M., Veronig, A.M.: 2007b, Coronal holes and solar wind high-speed streams: II. Forecasting the geomagnetic effects. Solar Phys. 240, 331.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst <= -100~nT) during 1996 – 2005. J. Geophys. Res. 112(A11), A10102.

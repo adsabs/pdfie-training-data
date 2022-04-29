@@ -1,0 +1,10 @@
+Balch, C.C.: 2008, Updated verification of the space weather prediction center’s solar energetic particle prediction model. Space Weather 6, 01001.
+Bazilevskaya, G.A.: 1981, The influence of the sector structure of interplanetary magnetic field on the solar cosmic ray characteristics. In: Proc. 17-th International Cosmic Ray Conference, Paris, France 3, 117.
+Bazilevskaya, G.A.: 2017, Once again about origin of the solar cosmic rays. In: IOP Conf. Series: Journal of Physics: Conf. Series 798.
+Bazilevskaya, G.A., Krainev, M.B., Machmutov, V.S.: 1981, The effect of the drift in the regular interplanetary magnetic field on the parameters of the solar cosmic rays. In: Proc. 17-th International Cosmic Ray Conference, Paris, France 3, 393.
+Kichigin, G.N.: 2014, Parker magnetic field and relativistic jets. J. Exp. Theor. Phys. 119, 657.
+Nitta, N.V., Liu, Y., DeRosa, M.L., Nightingale, R.W.: 2012, What are special about ground-level events? Flares, CMEs, active regions and magnetic field connection. Space Sci. Rev. 171, 61.
+Parker, E.N.: 1958, Dynamics of the interplanetary gas and magnetic fields. Astrophys. J. 128, 664.
+Pipin, V.V., Moss, D., Sokoloff, D., Hoeksema, J.T.: 2014, Reversals of the solar magnetic dipole in the light of observational data and simple dynamo models. Astron. Astrophys. 567, A90.
+Raukunen, O., Vainio, R., Tylka, A.J., Dietrich, W.F., Jiggens, P., Heynderickx, D., Dierckxsens, M., Crosby, N., Ganse, U., Siipola, R.: 2018, Two solar proton fluence models based on ground level enhancement observations. J. Space Weather Space Clim. 267, A04.
+Toptygin, I.N.: 1985, Cosmic Rays in Interplanetary Magnetic Fields, Reidel, Dordrecht.

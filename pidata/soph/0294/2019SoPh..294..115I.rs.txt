@@ -1,0 +1,37 @@
+Alania, M.V., Iskra, K., Siluszyk, M.: 2003, Experimental and theoretical investigations of the 11-year variation of galactic cosmic rays. Adv. Space Res. 32(4), 651.
+Alania, M.V., Iskra, K., Siluszyk, M.: 2008a, On the new index of the long-period modulation of the galactic cosmic rays intensity. Acta Phys. Pol. B 39(11), 2961.
+Alania, M.V., Iskra, K., Siluszyk, M.: 2008b, New index of long-term variations of galactic cosmic ray intensity. Adv. Space Res. 41(2), 267.
+Alania, M.V., Iskra, K., Siluszyk, M.: 2010, On relation of the long period galactic cosmic rays intensity variations with the interplanetary magnetic field turbulence. Adv. Space Res. 45(10), 1203.
+Alania, M.V., Aslamazashvili, R.G., Bochorishvili, T.B., Iskra, K., Siluszyk, M.: 2001, The role of drift on the diurnal anisotropy and on temporal changes in the energy spectra of the 11-year variation for galactic cosmic rays. Adv. Space Res. 27(3), 613.
+Balogh, A., Forsyth, R.J., Lucek, E.A., Horbury, T.S., Smith, E.J.: 1999, Heliospheric magnetic field polarity inversions at high heliographic latitudes. Geophys. Res. Lett. 26, 631.
+Burlaga, L.F., McDonald, F.B., Ness, N.F.: 1993, Cosmic ray modulation and the distant heliospheric magnetic field: Voyager 1 and 2 observation from 1986 through 1989. J. Geophys. Res. 98, 1.
+Cane, H.V., Wibberenz, G., Richardson, I.G., von Rosenvinge, T.T.: 1999, Cosmic ray modulation and the solar magnetic field. Geophys. Res. Lett. 26(5), 565.
+Chowdhury, P., Kudela, K.: 2018, Quasi-periodicities in cosmic rays and time lag with the solar activity at a middle latitude neutron monitor: 1982 – 2017. Astrophys. Space Sci. 363, 250.
+Chowdhury, P., Kudela, K., Dwivedi, B.N.: 2013, Heliospheric modulation of galactic cosmic rays during Solar Cycle 23. Solar Phys. 286, 577.
+Cliver, E.W., Ling, A.G.: 2001, 22 year patterns in the relationship of sunspot number and tilt angle to cosmic-ray intensity. Astrophys. J. Lett. 551(2), 189.
+Dorman, L.I.: 1959, Proc. 6th ICRC 4, 328.
+Dorman, L.I.: 1974, Cosmic Rays. Variations and Space Explorations, Elsevier, Amsterdam, New York.
+Ferreira, S.F., Potgieter, M.S.: 2004, Long-term cosmic-ray modulation in the heliosphere. Astrophys. J. 603(2), 744.
+Inceoglu, F., Knudsen, M.F., Karoff, C., Olsen, J.: 2014, Modeling the relationship between neutron counting rates and sunspot numbers using the hysteresis effect. Solar Phys. 289(4), 1387.
+Iskra, K., Siluszyk, M., Alania, M.V.: 2015, Rigidity spectrum of the long-period variations of the galactic cosmic ray intensity in different epochs of solar activity. J. Phys. Conf. Ser. 632, 1.
+Jokipii, J.R.: 1971, Propagation of cosmic rays in the solar wind. Rev. Geophys. Space Phys. 9, 27.
+Jokipii, J.R., Kota, J.: 1996, 3D heliospheric simulations of cosmic rays in the light of Ulysses. Nuovo Cimento C 19(6), 921.
+Jokipii, J.R., Thomas, B.: 1981, Effects of drift on the transport of cosmic rays. IV – Modulation by a wavy interplanetary current sheet. Astrophys. J. 243, 1115.
+Le Roux, J.A., Potgieter, M.S.: 1995, The simulation of complete 11 and 12 year modulation cycles for cosmic rays in the heliosphere using a drift model with global merged interaction regions. Astrophys. J. 442, 847.
+Lockwood, J.A., Webber, W.R.: 1984, Observations of the dynamics of the cosmic ray modulation. J. Geophys. Res. 89, 17.
+Mavromichalaki, H., Belehaki, A., Rafios, X.: 1998, Simulated effects at neutron monitor energies: evidence for a 22-year cosmic-ray variation. Astron. Astrophys. 330, 764.
+Mavromichalaki, H., Paouris, E., Karalidi, T.: 2007, Cosmic-ray modulation: an empirical relation with solar and heliospheric parameters. Solar Phys. 245, 369.
+Nagashima, K., Morishita, I.: 1980a, Long-term modulation of cosmic rays and inferable electromagnetic state in solar modulation region. Planet. Space Sci. 28(2), 177.
+Nagashima, K., Morishita, I.: 1980b, Twenty-two year modulation of cosmic rays associated with polarity reversal of polar magnetic field of the Sun. Planet. Space Sci. 28(2), 195.
+Parker, E.N.: 1963, Interplanetary Dynamical Processes. Interscience Monographs and Texts in Physics and Astronomy, 8. Interscience Publishers, New York.
+Sierra-Porta, D.: 2018, Cross correlation and time-lag between cosmic ray intensity and solar activity during solar cycles 21, 22 and 23. Astrophys. Space Sci. 363(7), 137.
+Siluszyk, M., Iskra, K., Alania, M.V.: 2014, Rigidity dependence of the long period variations of galactic cosmic ray intensity: a relation with the interplanetary magnetic field turbulence for 1968 – 2002. Solar Phys. 289(11), 4297.
+Siluszyk, M., Iskra, K., Alania, M.V.: 2015, 2-D modelling of long period variations of galactic cosmic ray intensity. J. Phys. Conf. Ser. 632, 012080.
+Siluszyk, M., Wawrzynczak, A., Alania, M.V.: 2011, A model of the long period galactic cosmic ray variations. J. Atmos. Solar-Terr. Phys. 73(13), 1923.
+Siluszyk, M., Iskra, K., Modzelewska, R., Alania, M.V.: 2005, Features of the 11-year variation of galactic cosmic rays in different periods of solar magnetic cycles. Adv. Space Res. 35(4), 677.
+Siluszyk, M., Iskra, K., Alania, M.V., Miernicki, S.: 2015, Features of the interplanetary magnetic field turbulences in different periods of solar magnetic cycles. In: Conf. ICRC, Proceedings of Science.
+Siluszyk, M., Iskra, K., Alania, M.V., Miernicki, S.: 2018, Interplanetary magnetic field turbulence and rigidity spectrum of the galactic cosmic rays intensity variation (1969 – 2011). J. Geophys. Res. 123(1), 30.
+Simpson, J.A., et al.: 1995, Cosmic ray and solar particle investigations over the South polar regions of the Sun. Science 268(5213), 1019.
+Singh, P.R., Saxena, A.K., Tiwari, C.M.: 2018, Mid-term periodicities and heliospheric modulation of coronal index and solar flare index during solar cycles 22 – 23. J. Astrophys. Astron. 39, 1.
+Usoskin, I.G., Kananen, H., Mursula, K., Tanskanen, P., Kovaltsov, G.A.: 1998, Correlative study of solar activity and cosmic ray intensity. J. Geophys. Res. 103(A5), 9567.
+Van Allen, J.A.: 2000, On the modulation of galactic cosmic ray intensity during solar activity cycle 19, 20, 21, 22 and early 23. Geophys. Res. Lett. 27(16), 2453.

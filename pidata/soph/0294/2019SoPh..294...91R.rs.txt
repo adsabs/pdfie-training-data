@@ -1,0 +1,32 @@
+Alexander, J.K., Malitson, H.H., Stone, R.G.: 1969, Solar Phys. 8, 388.
+Bale, S.D., Ullrich, R., Goetz, K., Alster, N., Cecconi, B., Dekkali, M., et al.: 2008, Space Sci. Rev. 136, 529.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P.J., Manning, R., Goetz, K., Monson, S.J., et al.: 1995, Space Sci. Rev. 71, 231.
+Bougeret, J.-L., Goetz, K., Kaiser, M.L., Bale, S.D., Kellogg, P.J., Maksimovic, M., et al.: 2008, Space Sci. Rev. 136, 487.
+Brazhenko, A.I., Melnik, V.N., Konovalenko, A.A., Pylaev, O.S., Frantsuzenko, A.V., Dorovskyy, V.V., Vashchishin, R.V., Rucker, H.O.: 2012, Odessa Astron. Pub. 25, 181.
+Cairns, I.H.: 1987, J. Plasma Phys. 38, 199.
+Cairns, I.H.: 1988, J. Geophys. Res. 93, 858.
+Couturier, P., Hoang, S., Meyer-Vernet, N., Steinberg, J.L.: 1981, J. Geophys. Res. 86, 11127.
+Dulk, G.A., Steinberg, J.L., Hoang, S.: 1984, Astron. Astrophys. 141, 30.
+Dulk, G.A., Steinberg, J.L., Hoang, S., Goldman, M.V.: 1987, Astron. Astrophys. 173, 366.
+Fainberg, J., Stone, R.G.: 1970, Solar Phys. 15, 433.
+Fainberg, J., Stone, R.G.: 1974, Space Sci. Rev. 16, 145.
+Gold, R.E., Krimigis, S.M., Hawkins, S.E. III, Haggerty, D.K., Lohr, D.A., Fiore, E., et al.: 1998, Space Sci. Rev. 86, 541.
+Hartz, T.R.: 1969, Planet. Space Sci. 17, 267.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., St. Cyr, O.C., Guhathakurta, M., Christian, E.: 2008, Space Sci. Rev. 136, 5.
+Kellogg, P.J.: 1986, Astron. Astrophys. 169, 329.
+Leblanc, Y., Dulk, G.A., Hoang, S.: 1995, Geophys. Res. Lett. 22, 3429.
+Lepping, R.P., Acuna, M.H., Burlaga, L.F., et al.: 1995, Space Sci. Rev. 71, 207.
+Lin, R.P.: 1974, Space Sci. Rev. 16, 189.
+Lin, R.P., Anderson, K.A., Ashford, S., Carlson, C., Curtis, D., Ergun, R., et al.: 1995, Space Sci. Rev. 71, 125.
+Ogilvie, K.W., Chornay, D.J., Fritzenreiter, R.J., Hunsaker, F., Keller, J., Lobell, J., et al.: 1995, Space Sci. Rev. 71, 55.
+Reiner, M.J., Stone, R.G., Fainberg, J.: 1992, Astrophys. J. 394, 340.
+Reiner, M.J., MacDowall, R.J.: 2015, Solar Phys. 290, 2975.
+Rhee, T., Ryu, C.-M., Woo, M., Kaang, H.H., Yi, S., Yoon, P.H.: 2009, Astrophys. J. 694, 618.
+Takakura, T., Yousef, S.: 1974, Solar Phys. 36, 451.
+Thejappa, G., MacDowall, R.J., Bergamo, M.: 2013, J. Geophys. Res. 118, 4039.
+Wild, J.P., Sheridan, K.V., Neylan, A.A.: 1959, Aust. J. Phys. 12, 369.
+Wild, J.P., Smerd, S.F., Weiss, A.A.: 1963, Annu. Rev. Astron. Astrophys. 1, 291.
+Zheleznyakov, V.V., Zlotnik, E.Ya.: 1974a, In: Newkirk, G. (ed.) Coronal Disturbances, IAU Sym. 57, 289.
+Zheleznyakov, V.V., Zlotnik, E.Ya.: 1974b, Solar Phys. 36, 443.
+Ziebell, L.F., Yoon, P.H., Petruzzellis, L.T., Gaelzer, R., Pavan, J.: 2015, Astrophys. J. 806, 237.
+Zlotnik, Ya.E.: 1978, Soviet Astron. 22, 228.

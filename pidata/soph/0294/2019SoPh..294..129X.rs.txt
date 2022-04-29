@@ -1,0 +1,14 @@
+Bai, X.Y., Deng, Y.Y., Wang, Y.R., Liu, S.Q., Mao, X.J.: 2018, The measurement of flat fields and polarization offset from the routine observation data of a solar rotation. Chin. Sci. Bull. 63, 301.
+Chae, J., Yun, H.S., Sakurai, T., Ichimoto, K.: 1998, Stray-light effect on magnetograph observation. Solar Phys. 183, 229.
+Gao, Y., Zhang, H.Q., Xu, H.Q.: 2008, Probing the method of correcting Faraday rotation in vector magnetograms. Adv. Space Res. 42, 888.
+Hagyard, M.J., Pevtsov, A.A.: 1999, Studies of solar helicity using vector magnetograms. Solar Phys. 189, 25.
+Martinez Pillet, V.: 1992, Stray-light effects on the solar intensity distribution. Solar Phys. 140, 207.
+Pevtsov, A.A., Dun, J.P., Zhang, H.Q.: 2006, Helicity measurements from two magnetographs. Solar Phys. 234, 203.
+Su, J.T., Zhang, H.Q.: 2004, Diagnosis of Faraday rotation with the video vector magnetograph at Huairou. Solar Phys. 222, 17.
+Su, J.T., Zhang, H.Q.: 2007, The effect of polarization crosstalk and solar rotation on measuring full-disk solar photospheric vector magnetic fields. Astrophys. J. 666, 559.
+Su, J.T., Zhang, H.Q., Ruan, G.P., Sun, Y.Z.: 2007, Several problems in measuring solar vector magnetic fields. Adv. Space Res. 39, 1723.
+West, E.A., Balasubramaniam, K.S.: 1992, Crosstalk in solar polarization measurements. Proc. SPIE 1746, 281.
+Xu, H.Q., Gao, Y., Zhang, H.Q.: 2009, Some basic questions on helicity inferred from vector magnetograms. Sci. China Ser. G, Phys. Mech. Astron. 52, 1749.
+Xuan, W.J., Wang, D.G., Deng, Y.Y., Su, J.T., Zhang, Z.Y., Sun, Y.Z.: 2010, Error analysis and performance optimization of birefringent filter. Opt. Precis. Eng. 18, 52. (In Chinese).
+Zhang, H.Q., Labonte, B., Li, J., Sakurai, T.: 2003, Analysis of vector magnetic fields in solar active regions by Huairou, Mees and Mitaka vector magnetographs. Solar Phys. 213, 87.
+Zhang, H.Q., Wang, D.G., Deng, Y.Y., Hu, K.L., Su, J.T., Lin, J.B., et al.: 2007, Solar magnetism and the activity telescope at HSOS. Chin. J. Astron. Astrophys. 7, 281.

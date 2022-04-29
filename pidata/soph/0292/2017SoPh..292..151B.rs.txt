@@ -1,0 +1,37 @@
+Altyntsev, A.A., Fleishman, G.D., Lesovoi, S.V., Meshalkina, N.S.: 2012, Thermal to nonthermal energy partition at the early rise phase of solar flares. Astrophys. J. 758, 138.
+Aschwanden, M.J., Caspi, A., Cohen, C.M.S., Holman, G., Jing, J., Kretzschmar, M., Kontar, E.P., McTiernan, J.M., Mewaldt, R.A., O’Flannagain, A., Richardson, I.G., Ryan, D., Warren, H.P., Xu, Y.: 2017, Global energetics of solar flares. V. Energy closure in flares and coronal mass ejections. Astrophys. J. 836, 17.
+Bastian, T.S., Benz, A.O., Gary, D.E.: 1998, Radio emission from solar flares. Annu. Rev. Astron. Astrophys. 36, 131.
+Battaglia, M., Fletcher, L., Benz, A.O.: 2009, Observations of conduction driven evaporation in the early rise phase of solar flares. Astron. Astrophys. 498, 891.
+Battaglia, M., Fletcher, L., Simões, P.J.A.: 2014, Where is the chromospheric response to conductive energy input from a hot pre-flare coronal loop? Astrophys. J. 789, 47.
+Battaglia, M., Grigis, P.C., Benz, A.O.: 2005, Size dependence of solar X-ray flare properties. Astron. Astrophys. 439, 737.
+Benz, A.O.: 2017, Flare observations. Living Rev. Solar Phys. 14, 2.
+Benz, A.O., Güdel, M.: 1994, X-Ray/microwave ratio of flares and coronae. Astron. Astrophys. 285, 621.
+Benz, A.O., Güdel, M.: 2010, Physical processes in magnetically driven flares on the Sun, stars, and young stellar objects. Annu. Rev. Astron. Astrophys. 48, 241.
+Benz, A.O., Perrenoud, M.R., Fürst, E., Hirth, W.: 1981, Solar radio blips and X-ray kernels. Nature 291, 210.
+Benz, A.O., Barrow, C.H., Dennis, B.R., Pick, M., Raoult, A., Simnett, G.: 1983, X-Ray and radio emissions in the early stages of solar flares. Solar Phys. 83, 267.
+Cliver, E.W., Dennis, B.R., Kiplinger, A.L., Kane, S.R., Neidig, D.F., Sheeley, N.R. Jr., Koomen, M.J.: 1986, Solar gradual hard X-ray bursts and associated phenomena. Astrophys. J. 305, 920.
+Dennis, B.R., Zarro, D.M.: 1993, The Neupert effect – What can it tell us about the impulsive and gradual phases of solar flares? Solar Phys. 146, 177.
+Doschek, G.A., Warren, H.P.: 2017, Sunspots, starspots, and elemental abundances. Astrophys. J. 844, 52.
+Emslie, A.G., Dennis, B.R., Shih, A.Y., Chamberlin, P.C., Mewaldt, R.A., Moore, C.S., Share, G.H., Vourlidas, A., Welsch, B.T.: 2012, Global energetics of thirty-eight large solar eruptive events. Astrophys. J. 759, 71.
+Frost, K.J., Dennis, B.R.: 1971, Evidence from hard X-rays for two-stage particle acceleration in a solar flare. Astrophys. J. 165, 655.
+Fürst, E., Benz, A.O., Hirth, W.: 1982, About the relation between radio and soft X-ray emission in case of very weak solar activity. Astron. Astrophys. 107, 178.
+Gary, D.E., Hartl, M.D., Shimizu, T.: 1997, Nonthermal radio emission from solar soft X-ray transient brightenings. Astrophys. J. 477, 958.
+Grigis, P.C., Benz, A.O.: 2004, The spectral evolution of impulsive solar X-ray flares. Astron. Astrophys. 426, 1093.
+Grigis, P.C., Benz, A.O.: 2008, Spectral hardening in large solar flares. Astrophys. J. 683, 1180.
+Güdel, M., Benz, A.O.: 1993, X-Ray/microwave relation of different types of active stars. Astrophys. J. Lett. 405, L63.
+Güdel, M., Schmitt, J.H.M.M., Bookbinder, J.A., Fleming, T.A.: 1993, A tight correlation between radio and X-ray luminosities of M dwarfs. Astrophys. J. 415, 236.
+Hudson, H.S., Fárník, F.: 2002, Spectral variations of flare hard X-rays. In: Wilson, A. (ed.) Solar Variability: From Core to Outer Frontiers, ESA Special Publication 506, 261.
+Kiplinger, A.L.: 1995, Comparative studies of hard X-ray spectral evolution in solar flares with high-energy proton events observed at Earth. Astrophys. J. 453, 973.
+Kosugi, T., Dennis, B.R., Kai, K.: 1988, Energetic electrons in impulsive and extended solar flares as deduced from flux correlations between hard X-rays and microwaves. Astrophys. J. 324, 1118.
+Krucker, S., Benz, A.O.: 2000, Are heating events in the quiet solar corona small flares? Multiwavelength observations of individual events. Solar Phys. 191, 341.
+Kundu, M.R., White, S.M., Jackson, P.D., Pallavicini, R.: 1988, Co-ordinated VLA and EXOSAT observations of the flare stars UV Ceti, EQ Pegasi, YZ Canis Minoris, and AD Leonis. Astron. Astrophys. 195, 159.
+Lin, R.P.: 2011, Energy release and particle acceleration in flares: Summary and future prospects. Space Sci. Rev. 159, 421.
+Lin, R.P., Dennis, B.R., Hurford, G.J., Smith, D.M., Zehnder, A., Harvey, P.R., Curtis, D.W., Pankow, D., Turin, P., Bester, M., Csillaghy, A., Lewis, M., Madden, N., van Beek, H.F., Appleby, M., Raudorf, T., McTiernan, J., Ramaty, R., Schmahl, E., Schwartz, R., Krucker, S., Abiad, R., Quinn, T., Berg, P., Hashii, M., Sterling, R., Jackson, R., Pratt, R., Campbell, R.D., Malone, D., Landis, D., Barrington-Leigh, C.P., Slassi-Sennou, S., Cork, C., Clark, D., Amato, D., Orwig, L., Boyle, R., Banks, I.S., Shirey, K., Tolbert, A.K., Zarro, D., Snow, F., Thomsen, K., Henneck, R., McHedlishvili, A., Ming, P., Fivian, M., Jordan, J., Wanner, R., Crubb, J., Preble, J., Matranga, M., Benz, A., Hudson, H., Canfield, R.C., Holman, G.D., Crannell, C., Kosugi, T., Emslie, A.G., Vilmer, N., Brown, J.C., Johns-Krull, C., Aschwanden, M., Metcalf, T., Conway, A.: 2002, The Reuven Ramaty High-Energy Solar Spectroscopic Imager (RHESSI). Solar Phys. 210, 3.
+Nakajima, H., Nishio, M., Enome, S., Shibasaki, K., Takano, T., Hanaoka, Y., Torii, C., Sekiguchi, H., Bushimata, T., Kawashima, S., Shinohara, N., Irimajiri, Y., Koshiishi, H., Kosugi, T., Shiomi, Y., Sawa, M., Kai, K.: 1994, The Nobeyama radioheliograph. IEEE Proc. 82, 705.
+Neupert, W.M.: 1968, Comparison of solar X-ray line emission with microwave emission during flares. Astrophys. J. Lett. 153, L59.
+Parks, G.K., Winckler, J.R.: 1969, Sixteen-second periodic pulsations observed in the correlated microwave and energetic X-ray emission from a solar flare. Astrophys. J. Lett. 155, L117.
+Priest, E.: 2014, Magnetohydrodynamics of the Sun 82, Cambridge University Press, Cambridge, 705.
+Shibata, K., Magara, T.: 2011, Solar flares: Magnetohydrodynamic processes. Living Rev. Solar Phys. 8, 6.
+Siarkowski, M., Falewicz, R., Rudawy, P.: 2009, Plasma heating in the very early phase of solar flares. Astrophys. J. Lett. 705, L143.
+Smith, R.K., Brickhouse, N.S., Liedahl, D.A., Raymond, J.C.: 2001, Collisional plasma models with APEC/APED: Emission-line diagnostics of hydrogen-like and helium-like ions. Astrophys. J. Lett. 556, L91.
+Zharkova, V.V., Arzner, K., Benz, A.O., Browning, P., Dauphin, C., Emslie, A.G., Fletcher, L., Kontar, E.P., Mann, G., Onofri, M., Petrosian, V., Turkmani, R., Vilmer, N., Vlahos, L.: 2011, Recent advances in understanding particle acceleration processes in solar flares. Space Sci. Rev. 159, 357.

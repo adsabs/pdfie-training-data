@@ -1,0 +1,74 @@
+Bothmer, V., Rust, D.M.: 1997, The field configuration of magnetic clouds and the solar cycle. Trans. Am. Geophys. Union 99, 139.
+Bothmer, V., Schwenn, R.: 1998, The structure and origin of magnetic clouds in the solar wind. Ann. Geophys. 16, 1.
+Burlaga, L.F.: 1988, Magnetic clouds and force-free fields with constant alpha. J. Geophys. Res. 93, 7217.
+Burlaga, L.F.E.: 1991, In: Schwenn, R., Marsch, E. (eds.) Magnetic Clouds, 152.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock – Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Chian, A.C.-L., Muñoz, P.R.: 2011, Detection of current sheets and magnetic reconnections at the turbulent leading edge of an interplanetary coronal mass ejection. Astrophys. J. Lett. 733, L34.
+Chian, A.C.-L., Feng, H.Q., Hu, Q., Loew, M.H., Miranda, R.A., Muñoz, P.R., Sibeck, D.G., Wu, D.J.: 2016, Genesis of interplanetary intermittent turbulence: A case study of rope–rope magnetic reconnection. Astrophys. J. 832, 179.
+Dasso, S., Démoulin, P., Gulisano, A.M.: 2012, Magnetic clouds along the solar cycle: expansion and magnetic helicity. In: Mandrini, C.H., Webb, D.F. (eds.) Comparative Magnetic Minima: Characterizing Quiet Times in the Sun and Stars, IAU Symp. 286, 139.
+Dasso, S., Mandrini, C.H., Démoulin, P., Luoni, M.L., Gulisano, A.M.: 2005, Large scale MHD properties of interplanetary magnetic clouds. Adv. Space Res. 35, 711.
+Dasso, S., Mandrini, C.H., Démoulin, P., Luoni, M.L.: 2006, A new model-independent method to compute magnetic helicity in magnetic clouds. Astron. Astrophys. 455, 349.
+Dasso, S., Nakwacki, M.S., Démoulin, P., Mandrini, C.H.: 2007, Progressive transformation of a flux rope to an ICME. Comparative analysis using the direct and fitted expansion methods. Solar Phys. 244, 115.
+Dasso, S., Mandrini, C.H., Schmieder, B., Cremades, H., Cid, C., Cerrato, Y., Saiz, E., Démoulin, P., Zhukov, A.N., Rodriguez, L., Aran, A., Menvielle, M., Poedts, S.: 2009, Linking two consecutive nonmerging magnetic clouds with their solar sources. J. Geophys. Res. 114, A02109.
+Démoulin, P., Dasso, S.: 2009, Causes and consequences of magnetic cloud expansion. Astron. Astrophys. 498, 551.
+Domingues, M.O., Mendes, O., da Costa, A.M.: 2005, On wavelet techniques in atmospheric sciences. Adv. Space Res. 35, 831.
+Du, D., Wang, C., Hu, Q.: 2007, Propagation and evolution of a magnetic cloud from ACE to Ulysses. J. Geophys. Res. 112, A09101.
+Gosling, J.T., Skoug, R.M., McComas, D.J., Smith, C.W.: 2005, Direct evidence for magnetic reconnection in the solar wind near 1 AU. J. Geophys. Res. 110, A01107.
+Gosling, J.T., Eriksson, S., McComas, D.J., Phan, T.D., Skoug, R.M.: 2007, Multiple magnetic reconnection sites associated with a coronal mass ejection in the solar wind. J. Geophys. Res. 112, A08106.
+Gulisano, A.M., Dasso, S., Mandrini, C.H., Démoulin, P.: 2007, Estimation of the bias of the Minimum Variance technique in the determination of magnetic clouds global quantities and orientation. Adv. Space Res. 40, 1881.
+Haggerty, D.K., Roelof, E.C., Smith, C.W., Ness, N.F., Skoug, R.M., Tokar, R.L.: 2000, Two distinct plasma and energetic ion distributions within the June 1998 magnetic cloud. In: Mewaldt, R.A., Jokipii, J.R., Lee, M.A., Möbius, E., Zurbuchen, T.H. (eds.) Acceleration and Transport of Energetic Particles Observed in the Heliosphere, Amer. Inst. Phys. Conf. Ser. 528, 266.
+Hau, L.-N., Sonnerup, B.U.Ö.: 1999, Two-dimensional coherent structures in the magnetopause: Recovery of static equilibria from single-spacecraft data. J. Geophys. Res. 104, 6899.
+Hidalgo, M.A.: 2003, A study of the expansion and distortion of the cross section of magnetic clouds in the interplanetary medium. J. Geophys. Res. 108, 1320.
+Hidalgo, M.A.: 2005, Correction to “A study of the expansion and distortion of the cross section of magnetic clouds in the interplanetary medium”. J. Geophys. Res. 110, A03207.
+Hu, Q.: 2017, The Grad–Shafranov reconstruction in twenty years: 1996 – 2016. Sci. China. Earth Sci. 60(8), 1466.
+Hu, Q., Sonnerup, B.U.Ã.: 2003, Reconstruction of two-dimensional structures in the magnetopause: Method improvements. J. Geophys. Res. 108, 1011.
+Hu, Q., Sonnerup, B.U.Ö.: 2001, Reconstruction of magnetic flux ropes in the solar wind. Geophys. Res. Lett. 28, 467.
+Hu, Q., Sonnerup, B.U.Ö.: 2002, Reconstruction of magnetic clouds in the solar wind: Orientations and configurations. J. Geophys. Res. 107, 1142.
+Hu, Q., Smith, C.W., Ness, N.F., Skoug, R.M.: 2003, Double flux-rope magnetic cloud in the solar wind at 1 AU. Geophys. Res. Lett. 30, 38.
+Hu, Q., Smith, C.W., Ness, N.F., Skoug, R.M.: 2004, Multiple flux rope magnetic ejecta in the solar wind. J. Geophys. Res. 109, A03102.
+Huttunen, K.E.J., Schwenn, R., Bothmer, V., Koskinen, H.E.J.: 2005, Properties and geoeffectiveness of magnetic clouds in the rising, maximum and early declining phases of solar cycle 23. Ann. Geophys. 23, 625.
+Isavnin, A., Kilpua, E.K.J., Koskinen, H.E.J.: 2011, Grad–Shafranov reconstruction of magnetic clouds: Overview and improvements. Solar Phys. 273, 205.
+Khrabrov, A.V., Sonnerup, B.U.Ö.: 1998, DeHoffmann–Teller Analysis, ISSI Scien. Rep. Ser. 1, 221.
+Klausner, V., Ojeda González, A., Oliveira Domingues, M., Mendes, O., Reinaldo Rodriguez Papa, A.: 2014, Study of local regularities in solar wind data and ground magnetograms. J. Atmos. Solar-Terr. Phys. 112, 10.
+Klausner, V., Domingues, M.O., Mendes, O., da Costa, A.M., Papa, A.R.R., González, A.O.: 2016, Latitudinal and longitudinal behavior of the geomagnetic field during a disturbed period: A case study using wavelet techniques. Adv. Space Res. 58, 2148.
+Klein, L.W., Burlaga, L.F.: 1982, Interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 87, 613.
+Korth, H., Anderson, B.J., Lyon, J.G., Wiltberger, M.: 2008, Comparison of Birkeland current observations during two magnetic cloud events with MHD simulations. Ann. Geophys. 26, 499.
+Lepping, R.P., Behannon, K.W.: 1980, Magnetic field directional discontinuities. I – Minimum variance errors. J. Geophys. Res. 85, 4695.
+Lepping, R.P., Burlaga, L.F., Jones, J.A.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Little, M., McSharry, P., Moroz, I., Roberts, S.: 2006, Nonlinear, biophysically-informed speech pathology detection. In: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing 2006 2.
+Liu, Y., Luhmann, J.G., Huttunen, K.E.J., Lin, R.P., Bale, S.D., Russell, C.T., Galvin, A.B.: 2008, Reconstruction of the 2007 May 22 magnetic cloud: How much can we trust the flux-rope geometry of CMEs? Astrophys. J. Lett. 677, L133.
+Lugaz, N., Farrugia, C.J.: 2014, A new class of complex ejecta resulting from the interaction of two CMEs and its expected geoeffectiveness. Geophys. Res. Lett. 41, 769.
+Lui, A.T.Y., Sibeck, D.G., Phan, T., Angelopoulos, V., McFadden, J., Carlson, C., Larson, D., Bonnell, J., Glassmeier, K.-H., Frey, S.: 2008, Reconstruction of a magnetic flux rope from THEMIS observations. Geophys. Res. Lett. 35, L17S05.
+Lynch, B.J., Zurbuchen, T.H., Fisk, L.A., Antiochos, S.K.: 2003, Internal structure of magnetic clouds: Plasma and composition. J. Geophys. Res. 108, 1239.
+Malamud, B.D., Turcotte, D.L.: 1999, Self-affine time series: I. Generation and analyses. Adv. Geophys. 40, 1.
+Mallat, S.G.: 1989, Multiresolution approximations and wavelet orthonormal bases of l2(r). Trans. Am. Math. Soc. 315(1), 69.
+Marubashi, K., Lepping, R.P.: 2007, Long-duration magnetic clouds: a comparison of analyses using torus- and cylinder-shaped flux rope models. Ann. Geophys. 25, 2453.
+McComas, D.J., Bame, S.J., Barker, P., Feldman, W.C., Phillips, J.L., Riley, P., Griffee, J.W.: 1998, Solar Wind Electron Proton Alpha Monitor (SWEPAM) for the Advanced Composition Explorer. Space Sci. Rev. 86, 563.
+Mendes, O., Oliveira Domingues, M., Mendes da Costa, A., Clúa de Gonzalez, A.L.: 2005, Wavelet analysis applied to magnetograms: Singularity detections related to geomagnetic storms. J. Atmos. Solar-Terr. Phys. 67, 1827.
+Möstl, C., Farrugia, C.J., Biernat, H.K., Kiehas, S.A., Nakamura, R., Ivanova, V.V., Khotyaintsev, Y.: 2009, The structure of an earthward propagating magnetic flux rope early in its evolution: comparison of methods. Ann. Geophys. 27(5), 2215.
+Mulligan, T., Russell, C.T., Luhmann, J.G.: 1998, Solar cycle evolution of the structure of magnetic clouds in the inner heliosphere. Geophys. Res. Lett. 25, 2959.
+Nieves-Chinchilla, T., Hidalgo, M.A., Sequeiros, J.: 2005, Magnetic clouds observed at 1 Au during the period 2000 – 2003. Solar Phys. 232, 105.
+Ojeda-González, A., Prestes, A., Laurindo Sousa, A.N.: 2016, Discussion about the magnetic field dimensionality, invariant axis condition, and Coulomb gauge to solve the Grad–Shafranov equation. Braz. J. Phys. 46, 408.
+Ojeda-González, A., Calzadilla, A., Lazo, B., Alazo, K., Savio, S.: 2005, Analysis of behavior of solar wind parameters under different IMF conditions using nonlinear dynamics techniques. J. Atmos. Solar-Terr. Phys. 67, 1859.
+Ojeda-González, A., Mendes, O., Calzadilla, M.A., Domingues, M.O.: 2013, Spatio-temporal entropy analysis of the magnetic field to help magnetic cloud characterization. J. Geophys. Res. 118, 5403.
+Ojeda-González, A., Mendes, O., Menconi, V.E., Domingues, M.O.: 2014a, Daubechies wavelet coefficients: a tool to study interplanetary magnetic field fluctuations. Geofís. Int. 53(2), 101.
+Ojeda-González, A., Gonzalez, W.D., Mendes, O., Domingues, M.O., Rosa, R.R.: 2014b, Nonlinear fluctuation analysis for a set of 41 magnetic clouds measured by the Advanced Composition Explorer (ACE) spacecraft. Nonlinear Process. Geophys. 21, 1059.
+Ojeda-González, A., Domingues, M.O., Mendes, O., Kaibara, M.K., Prestes, A.: 2015, Grad–Shafranov reconstruction: Overview and improvement of the numerical solution used in space physics. Braz. J. Phys. 45, 493.
+Ojeda-González, A., Mendes, O., Calzadilla, A., Domingues, M.O., Prestes, A., Klausner, V.: 2017, An alternative method for identifying interplanetary magnetic cloud regions. Astrophys. J. 837, 156.
+Osherovich, V.A., Fainberg, J., Stone, R.G.: 1999, Multi-tube model for interplanetary magnetic clouds. Geophys. Res. Lett. 26, 401.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Richardson, I.G., Zhang, J.: 2008, Multiple-step geomagnetic storms and their interplanetary drivers. Geophys. Res. Lett. 35, L06S07.
+Riley, P., Linker, J.A., Lionello, R., Mikić, Z., Odstrcil, D., Hidalgo, M.A., Cid, C., Hu, Q., Lepping, R.P., Lynch, B.J., Rees, A.: 2004, Fitting flux ropes to a global MHD solution: a comparison of techniques. J. Atmos. Solar-Terr. Phys. 66, 1321.
+Schwenn, R.: 2006, Space weather: The solar perspective. Living Rev. Solar Phys. 3, 2.
+Schwenn, R., Marsch, E., Jackson, B.V.: 1993, Book-Review – Physics of the inner heliosphere – Part two – Particles waves and turbulence. Solar Phys. 145, 405.
+Schwenn, R., dal Lago, A., Huttunen, E., Gonzalez, W.D.: 2005, The association of coronal mass ejections with their effects near the Earth. Ann. Geophys. 23, 1033.
+Skoug, R.M., Feldman, W.C., Gosling, J.T., McComas, D.J., Reisenfeld, D.B., Smith, C.W., Lepping, R.P., Balogh, A.: 2000, Radial variation of solar wind electrons inside a magnetic cloud observed at 1 and 5 AU. J. Geophys. Res. 105, 27269.
+Smith, C.W., L’Heureux, J., Ness, N.F., Acuña, M.H., Burlaga, L.F., Scheifele, J.: 1998, The ACE magnetic fields experiment. Space Sci. Rev. 86, 613.
+Sonnerup, B.U.Ö., Paschmann, G., Phan, T.-D.: 1995, Fluid Aspects of Reconnection at the Magnetopause: In Situ Observations, AGU Monograph Ser. 90, Am. Geophys. Union, Washington, 167.
+Teh, W.-L., Hau, L.-N.: 2004, Evidence for pearl-like magnetic island structures at dawn and dusk side magnetopause. Earth Planets Space 56, 681.
+Teh, W.-L., Hau, L.-N.: 2007, Triple crossings of a string of magnetic islands at duskside magnetopause encountered by AMPTE/IRM satellite on 8 August 1985. J. Geophys. Res. 112, A08207.
+Tian, H., Yao, S., Zong, Q., He, J., Qi, Y.: 2010, Signatures of magnetic reconnection at boundaries of interplanetary small-scale magnetic flux ropes. Astrophys. J. 720, 454.
+Vandas, M., Fischer, S., Geranios, A.: 1999, Double flux rope structure of magnetic clouds? In: Suess, S.T., Gary, G.A., Nerney, S.F. (eds.) American Institute of Physics Conference Series, Amer. Inst. Phys. Conf. Ser. 471, 127.
+Voss, R.F.: 1986, Characterization and measurement of random fractals. Phys. Scr. T 13, 27.
+Vourlidas, A., Lynch, B.J., Howard, R.A., Li, Y.: 2013, How many CMEs have flux ropes? Deciphering the signatures of shocks, flux ropes, and prominences in coronagraph observations of CMEs. Solar Phys. 284, 179.
+Wu, C.-C., Lepping, R.P., Gopalswamy, N.: 2003, Variations of magnetic clouds and CMEs with solar activity cycle. In: Wilson, A. (ed.) Solar Variability as an Input to the Earth’s Environment, ESA SP-535, 429.

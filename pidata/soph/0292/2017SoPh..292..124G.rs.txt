@@ -1,0 +1,25 @@
+Baranyi, T., Gyori, L., Ludmany, A.: 2016, Solar Phys. 291, 3081.
+Brandenburg, A.: 2005, Astrophys. J. 625, 539.
+Gabor, D.: 1946, J. Inst. Electr. Eng. 93, 429.
+Gao, P.X.: 2016, Astrophys. J. 830, 140.
+Gao, P.X., Xu, J.C.: 2016, Mon. Not. Roy. Astron. Soc. 457, 2839.
+Gao, P.X., Zhong, J.: 2016, New Astron. 43, 91.
+Gleissberg, W.: 1939, Observatory 62, 158.
+Huang, N.E., Wu, Z.: 2008, Rev. Geophys. 46, RG2006.
+Huang, N.E., Long, S.R., Shen, Z.: 1996, Adv. Appl. Mech. 32, 59.
+Huang, N.E., Shen, Z., Long, S.R.: 1999, Annu. Rev. Fluid Mech. 31, 417.
+Huang, N.E., Shen, Z., Long, S.R., Wu, M.C., Shih, H.H., Zheng, Q., Yeh, N.-C., Tung, C.C., Liu, H.H.: 1998, Proc. Roy. Soc. London A 454, 903.
+Kilcik, A., Yurchyshyn, V.B., Abramenko, V., Goode, P.R., Ozguc, A., Rozelot, J.P., Cao, W.: 2011, Astrophys. J. 731, 30.
+Kilcik, A., Ozguc, A., Yurchyshyn, V.B., Rozelot, J.P.: 2014a, Solar Phys. 289, 4365.
+Kilcik, A., Yurchyshyn, V.B., Ozguc, A., Rozelot, J.P.: 2014b, Astrophys. J. 794, L2.
+Lefevre, L., Clette, F.: 2011, Astron. Astrophys. 536, L11.
+McIntosh, P.S.: 1981, In: Cram, L.E., Thomas, J.H. (eds.) The Physics of Sunspots, Sacremento Peak National Solar Observatory, Sacremento, 7.
+McIntosh, P.S.: 1990, Solar Phys. 125, 251.
+Schatten, K.: 2009, Solar Phys. 255, 3.
+Schwabe, H.: 1844, Astron. Nachr. 21, 233.
+Van der Pol, B.: 1946, Proc. IEEE 93, 153.
+Waldmeier, M.: 1947, Publ, Zurich Obs. 9, 1.
+Wu, Z., Huang, N.E.: 2004, Proc. Roy. Soc. London A 460, 1597.
+Wu, Z., Huang, N.E.: 2005, In: Huang, N.E., Shen, S.S.P. (eds.) Hilbert–Huang Transform and Its Applications, World Scientific, Singapore, 107.
+Wu, Z., Huang, N.E.: 2009, Adv. Adapt. Data Anal. 1, 1.
+Wu, Z., Huang, N.E., Wallace, J.M., Smoliak, B.V., Chen, X.: 2011, Clim. Dyn. 37, 759.

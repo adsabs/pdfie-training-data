@@ -1,0 +1,57 @@
+Alexandrova, O., Saur, J., Lacombe, C., Mangeney, A., Mitchell, J., Schwartz, S.J., Robert, P.: 2009, Universality of solar-wind turbulent spectrum from MHD to electron scales. Phys. Rev. Lett. 103(16), 165003.
+Bale, S.D., Kellogg, P.J., Mozer, F.S., Horbury, T.S., Reme, H.: 2005, Measurement of the electric fluctuation spectrum of magnetohydrodynamic turbulence. Phys. Rev. Lett. 94(21), 215002.
+Ball, D., Sironi, L., Özel, F.: 2018, Electron and proton acceleration in trans-relativistic magnetic reconnection: dependence on plasma beta and magnetization. Astrophys. J. 862(1), 80.
+Batchelor, G.K.: 1976, Brownian diffusion of particles with hydrodynamic interaction. J. Fluid Mech. 74(1), 1.
+Bieber, J.W., Wanner, W., Matthaeus, W.H.: 1996, Dominant two-dimensional solar wind turbulence with implications for cosmic ray transport. J. Geophys. Res. 101(A2), 2511.
+Bruno, R., Carbone, V. (eds.): 2016, Turbulence in the Solar Wind, Lecture Notes in Physics, 928, Springer, Berlin.
+Burch, J.L., Torbert, R.B., Phan, T.D., Chen, L.-J., Moore, T.E., Ergun, R.E., Eastwood, J.P., Gershman, D.J., Cassak, P.A., Argall, M.R., Wang, S., Hesse, M., Pollock, C.J., Giles, B.L., Nakamura, R., Mauk, B.H., Fuselier, S.A., Russell, C.T., Strangeway, R.J., Drake, J.F., Shay, M.A., Khotyaintsev, Y.V., Lindqvist, P.-A., Marklund, G., Wilder, F.D., Young, D.T., Torkar, K., Goldstein, J., Dorelli, J.C., Avanov, L.A., Oka, M., Baker, D.N., Jaynes, A.N., Goodrich, K.A., Cohen, I.J., Turner, D.L., Fennell, J.F., Blake, J.B., Clemmons, J., Goldman, M., Newman, D., Petrinec, S.M., Trattner, K.J., Lavraud, B., Reiff, P.H., Baumjohann, W., Magnes, W., Steller, M., Lewis, W., Saito, Y., Coffey, V., Chandler, M.: 2016, Electron-scale measurements of magnetic reconnection in space. Science 352, aaf2939.
+Cerri, S.S., Califano, F.: 2017, Reconnection and small-scale fields in 2D-3V hybrid-kinetic driven turbulence simulations. New J. Phys. 19, 025007.
+Chandran, B.D.G., Li, B., Rogers, B.N., Quataert, E., Germaschewski, K.: 2010, Perpendicular ion heating by low-frequency Alfvén-wave turbulence in the solar wind. Astrophys. J. 720, 503.
+Chandrasekhar, S.: 1943, Stochastic problems in physics and astronomy. Rev. Mod. Phys. 15(1), 1.
+Comisso, L., Sironi, L.: 2018, Particle acceleration in relativistic plasma turbulence. Phys. Rev. Lett. 121, 255101.
+Daughton, W., Roytershteyn, V., Karimabadi, H., Yin, L., Albright, B.J., Bergen, B., Bowers, K.J.: 2011, Role of electron physics in the development of turbulent magnetic reconnection in collisionless plasmas. Nat. Phys. 7, 539.
+DeForest, C.E., Matthaeus, W.H., Howard, T.A., Rice, D.R.: 2015, Turbulence in the solar wind measured with comet tail test particles. Astrophys. J. 812, 108.
+Dmitruk, P., Matthaeus, W.H., Seenu, N.: 2004, Test particle energization by current sheets and nonuniform fields in magnetohydrodynamic turbulence. Astrophys. J. 617, 667.
+Drake, J.F., Opher, M., Swisdak, M., Chamoun, J.N.: 2010, A magnetic reconnection mechanism for the generation of anomalous cosmic rays. Astrophys. J. 709, 963.
+Einaudi, G., Velli, M., Politano, H., Pouquet, A.: 1996, Energy release in a turbulent corona. Astrophys. J. 457(2), L113.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The solar probe plus mission: humanity’s first visit to our star. Space Sci. Rev. 204(1), 7.
+Franci, L., Landi, S., Matteini, L., Verdini, A., Hellinger, P.: 2015, High-resolution hybrid simulations of kinetic plasma turbulence at proton scales. Astrophys. J. 812, 21.
+Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2018, Solar wind turbulent cascade from MHD to sub-ion scales: large-size 3D hybrid particle-in-cell simulations. Astrophys. J. 853, 26.
+Haynes, C.T., Burgess, D., Camporeale, E.: 2014, Reconnection and electron temperature anisotropy in sub-proton scale plasma turbulence. Astrophys. J. 783, 38.
+Hellinger, P., Matteini, L., Landi, S., Verdini, A., Franci, L., Trávníček, P.M.: 2015, Plasma turbulence and kinetic instabilities at ion scales in the expanding solar wind. Astrophys. J. 811(2), L32.
+Howes, G.G.: 2017, A prospectus on kinetic heliophysics. Phys. Plasmas 24(5), 055907.
+Isenberg, P.A.: 2005, Turbulence-driven solar wind heating and energization of pickup protons in the outer heliosphere. Astrophys. J. 623, 502.
+Jokipii, J.R., Levy, E.H.: 1977, Effects of particle drifts on the solar modulation of galactic cosmic rays. Astrophys. J. Lett. 213, L85.
+Kasper, J.C., Lazarus, A.J., Gary, S.P.: 2008, Hot solar-wind helium: direct evidence for local heating by Alfvén-cyclotron dissipation. Phys. Rev. Lett. 101, 261103.
+Kim, H., Iza, F., Yang, S., Radmilović-Radjenović, M., Lee, J.: 2005, Particle and fluid simulations of low-temperature plasma discharges: benchmarks and kinetic effects. J. Phys. D, Appl. Phys. 38(19), R283.
+Li, T.C., Howes, G.G., Klein, K.G., TenBarge, J.M.: 2016, Energy dissipation and Landau damping in two- and three-dimensional plasma turbulence. Astrophys. J. Lett. 832, L24.
+Maneva, Y.G., Ofman, L., Viñas, A.: 2015, Relative drifts and temperature anisotropies of protons and α particles in the expanding solar wind: 2.5D hybrid simulations. Astron. Astrophys. 578, A85.
+Maneva, Y.G., Viñas, A.F., Ofman, L.: 2013, Turbulent heating and acceleration of He
+Markidis, S., Lapenta, G., Rizwan-uddin: 2010, Multi-scale simulations of plasma with iPIC3D. Math. Comput. Simul. 80(7), 1509.
+Marsch, E.: 2006, Kinetic physics of the solar corona and solar wind. Living Rev. Solar Phys. 3.
+Matthaeus, W.H., Lamkin, S.L.: 1986, Turbulent magnetic reconnection. Phys. Fluids 29, 2513.
+Matthaeus, W., Qin, G., Bieber, J., Zank, G.: 2003, Nonlinear collisionless perpendicular diffusion of charged particles. Astrophys. J. 590(1), L53.
+Matthews, A.P.: 1994, Current advance method and cyclic leapfrog for 2D multispecies hybrid plasma simulations. J. Comput. Phys. 112, 102.
+Ofman, L.: 2010, Wave modeling of the solar wind. Living Rev. Solar Phys. 7, 4.
+Ofman, L., Viñas, A.F.: 2007, Two-dimensional hybrid model of wave and beam heating of multi-ion solar wind plasma. J. Geophys. Res. 112, A06104.
+Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H
+Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-α drifts on the heating of the solar wind. J. Geophys. Res. 122, 5839.
+Olshevsky, V., Servidio, S., Pucci, F., Primavera, L., Lapenta, G.: 2018, Properties of decaying plasma turbulence at subproton scales. Astrophys. J. 860, 11.
+Ongena, J., Koch, R., Wolf, R., Zohm, H.: 2016, Magnetic-confinement fusion. Nat. Phys. 12(5), 398.
+Osman, K., Matthaeus, W., Greco, A., Servidio, S.: 2010, Evidence for inhomogeneous heating in the solar wind. Astrophys. J. Lett. 727(1), L11.
+Pecora, F., Servidio, S., Greco, A., Matthaeus, W.H., Burgess, D., Haynes, C.T., Carbone, V., Veltri, P.: 2018, Ion diffusion and acceleration in plasma turbulence. J. Plasma Phys. 84(6), 725840601.
+Ruffolo, D., Pianpanit, T., Matthaeus, W.H., Chuychai, P.: 2012, Random ballistic interpretation of nonlinear guiding center theory. Astrophys. J. Lett. 747, L34.
+Schekochihin, A.A., Parker, J.T., Highcock, E.G., Dellar, P.J., Dorland, W., Hammett, G.W.: 2016, Phase mixing versus nonlinear advection in drift-kinetic plasma turbulence. J. Plasma Phys. 82(2), 905820212.
+Servidio, S., Valentini, F., Perrone, D., Greco, A., Califano, F., Matthaeus, W.H., Veltri, P.: 2015, A kinetic model of plasma turbulence. J. Plasma Phys. 81(1), 325810107.
+Servidio, S., Haynes, C.T., Matthaeus, W.H., Burgess, D., Carbone, V., Veltri, P.: 2016, Explosive particle dispersion in plasma turbulence. Phys. Rev. Lett. 117, 095101.
+Servidio, S., Chasapis, A., Matthaeus, W.H., Perrone, D., Valentini, F., Parashar, T.N., Veltri, P., Gershman, D., Russell, C.T., Giles, B., Fuselier, S.A., Phan, T.D., Burch, J.: 2017, Magnetospheric multiscale observation of plasma velocity-space cascade: Hermite representation and theory. Phys. Rev. Lett. 119, 205101.
+Shebalin, J.V.: 2011, Hybrid statistics of ideal 2D MHD turbulence in a mean magnetic field. Radiat. Eff. Defects Solids 166, 774.
+Shebalin, J.V., Matthaeus, W.H., Montgomery, D.: 1983, Anisotropy in MHD turbulence due to a mean magnetic field. J. Plasma Phys. 29, 525.
+Smith, C.W., Matthaeus, W.H., Zank, G.P., Ness, N.F., Oughton, S., Richardson, J.D.: 2001, Heating of the low-latitude solar wind by dissipation of turbulent magnetic fluctuations. J. Geophys. Res. 106(A5), 8253.
+Tessein, J.A., Matthaeus, W.H., Wan, M., Osman, K.T., Ruffolo, D., Giacalone, J.: 2013, Association of suprathermal particles with coherent structures and shocks. Astrophys. J. 776, L8.
+Valentini, F., Trávníček, P., Califano, F., Hellinger, P., Mangeney, A.: 2007, A hybrid-Vlasov model based on the current advance method for the simulation of collisionless magnetized plasma. J. Comput. Phys. 225(1), 753.
+Verma, M., Roberts, D., Goldstein, M.: 1995, Turbulent heating and temperature evolution in the solar wind plasma. J. Geophys. Res. 100(A10), 19839.
+Wang, B., Kuo, J., Bae, S.C., Granick, S.: 2012, When Brownian diffusion is not Gaussian. Nat. Mater. 11(6), 481.
+Winske, D.: 1985, Hybrid simulation codes with application to shocks and upstream waves. Space Sci. Rev. 42, 53.
+Yamada, M., Chen, L.-J., Yoo, J., Wang, S., Fox, W., Jara-Almonte, J., Ji, H., Daughton, W., Le, A., Burch, J., et al.: 2018, The two-fluid dynamics and energetics of the asymmetric magnetic reconnection in laboratory and space plasmas. Nat. Commun. 9(1), 5223.
+Zimbardo, G., Greco, A., Sorriso-Valvo, L., Perri, S., Vörös, Z., Aburjania, G., Chargazia, K., Alexandrova, O.: 2010, Magnetic turbulence in the geospace environment. Space Sci. Rev. 156(1 – 4), 89.

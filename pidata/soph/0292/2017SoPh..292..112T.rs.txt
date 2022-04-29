@@ -1,0 +1,45 @@
+Alzahrani, A., Kimball, J.W., Dagli, C.: 2014, Predicting solar irradiance using time series neural networks. Proc. Comput. Sci. 36, 623.
+Ball, W.T., Unruh, Y.C., Krivova, N.A., Solanki, S.K., Harder, J.W.: 2011, Solar irradiance: A six-year comparison between SORCE observations and the SATIRE model. Astron. Astrophys. 530, A71.
+Balmaceda, L.A., Solanki, S.K., Krivova, N.K.: 2009, A homogeneous sunspot areas database covering more than 130 years. J. Geophys. Res. 114, A07104.
+Bruevich, E.A., Bruevich, V., Yakunina, G.V.: 2014, The study of time series of monthly averaged values of F10.7 from 1950 to 2010. Sun Geophys. 8, 91.
+Chakraborty, K., Mehrotra, K., Mohan, C.K., Ranka, S.: 1992, Forecasting the behavior of multivariate time series using neural networks. Neural Netw. 5, 961.
+Deland, M.T., Cebula, R.P.: 1993, Composite Mg II solar activity index for solar cycles 21 and 22. Geophys. Res. Lett. 98, 12809.
+Demuth, H., Beale, M.: 2000, Neural Network Toolbox: For Use with MATLAB: Computation, Visualization, Programming. User’s Guide, Version 4, The MathWorks, Inc., Natick.
+Detienne, K.B., Detienee, D.H., Joshi, S.A.: 2003, Neural networks as statistical tools for business researchers. Organ. Res. Methods 6, 236.
+Duhoux, M., Suykens, J., De Moor, B., Vandewalle, J.: 2001, Improved long-term temperature prediction by chaining of neural networks. Int. J. Neural Syst. 11(1), 1.
+Faceira, J., Afonso, P., Salgado, P.: 2015, Prediction of solar radiation using artificial neural networks. In: Moreira, A., Matos, A., Veiga, G. (eds.) CONTROLO’2014 – Proc. 11th Portuguese Conf. on Automatic Control 321, Springer, Cham, 397.
+Foukal, P.: 2002, A comparison of variable solar total and ultraviolet irradiance outputs in the 20th century. Geophys. Res. Lett. 29(23), 41.
+Foukal, P., Bertello, L., Livingston, W.C., Pevtsov, A.A., Singh, J., Tlatov, A.G., Ulrich, R.K.: 2009, A century of solar Ca II measurements and their implication for solar UV driving of climate. Solar Phys. 255, 229.
+Fröhlich, C., Lean, J.: 1998, The Sun’s total irradiance: Cycles, trends and related climate change uncertainties since 1976. Geophys. Res. Lett. 25(23), 4377.
+Fröhlich, C., Lean, J.: 2004, Solar radiative output and its variability: Evidence and mechanisms. Astron. Astrophys. Rev. 12(4), 273.
+Fröhlich, C., Pap, J.: 1989, Multi-spectral analysis of total solar irradiance variations. Astron. Astrophys. 220, 272.
+Fröhlich, C., Pap, J., Hudson, H.: 1994, Improvement of the photometric sunspot index and changes of the disk-integrated sunspot contrast with time. Solar Phys. 152, 111.
+Habarulema, J.B., McKinnell, L.-A.: 2012, Investigating the performance of neural network backpropagation algorithms for TEC estimations using South African GPS data. Ann. Geophys. 30, 857.
+Habarulema, J.B., McKinnell, L.-A., Opperman, B.D.L.: 2011, Regional GPS TEC modeling; Attempted spatial and temporal extrapolation of TEC using neural networks. J. Geophys. Res. 116, A04314.
+Haykin, S.: 1998, Neural Networks: A Comprehensive Foundation, Prentice Hall, New York.
+Heath, D.F., Schesinger, B.M.: 1986, The Mg 280-nm doublet as a monitor of changes in solar ultraviolet irradiance. Geophys. Res. Lett. 91, 8672.
+Hippert, H., Pedreira, C., Souza, R.: 2001, Neural networks for short-term load forecasting: A review and evaluation. IEEE Trans. Power Syst. 16(1), 35.
+Hudson, H.S., Silva, S., Woodard, M., Willson, R.C.: 1982, The effects of sunspots on solar irradiance. Solar Phys. 76(2), 211.
+Jain, K., Hasan, S.S.: 2004, Reconstruction of the past total solar irradiance on short timescales. J. Geophys. Res. 109, A03105.
+Keil, S.L., Henry, T.W., Fleck, B.: 1998, NSO/AFRL/Sac peak K-line monitoring program. In: Balasubramaniam, K.S., Harvey, J., Rabin, D. (eds.) Synoptic Solar Physics, Astron. Soc. Pacific Conf. Ser. 140, 301.
+Khashei, M., Bijari, M.: 2010, An artificial neural network (p, d, q) model for timeseries forecasting. Expert Syst. Appl. 27, 479.
+Kopp, G.: 2014, An assessment of the solar irradiance record for climate studies. J. Space Weather Space Clim. 4, A14.
+Kopp, G., Lean, L.: 2011, A new, lower value of total solar irradiance: Evidence and climate significance. Geophys. Res. Lett. 38. L01706.
+Krivova, N.A., Solanki, S.K.: 2013, Models of Solar Total and Spectral Irradiance Variability of Relevance for Climate Studies, Springer, Dordrecht.
+Krivova, N.K., Vieira, L.E.A., Solanki, S.K.: 2010, Reconstruction of solar spectral irradiance since the Maunder minimum. J. Geophys. Res. 115, A12112.
+Krivova, N.A., Solanki, S.K., Fligge, M., Unruh, Y.C.: 2003, Reconstruction of solar total and spectral irradiance variations in cycle 23: Is solar surface magnetism the cause? Astron. Astrophys. 339, L1.
+Lean, J.L.: 2000, Short term, direct indices of solar variability. Space Sci. Rev. 94, 39.
+Lean, J., Foukal, P.: 1988, A model of solar luminosity modulation by magnetic activity between 1954 and 1984. Science 240(4854), 906.
+Lean, J.L., Cook, J., Marquette, W., Johannesson, A.: 1998, Magnetic modulation of the solar irradiance cycle. Astrophys. J. 492, 390.
+MacKay, D.J.C.: 1992, A practical Bayesian framework for backpropagation networks. Neural Comput. 4, 448.
+Mellit, A., Pavan, A.M.: 2010, A 24-h forecast of solar irradiance using artificial neural network: Application for performance prediction of a grid-connected PV plant at Trieste, Italy. Solar Energy 84, 807.
+Rottman, G.: 2006, Measurement of total and spectral solar irradiance. Space Sci. Rev. 125, 39.
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R.: 2014, Dropout: A simple way to prevent neural networks from overfitting. J. Mach. Learn. Res. 15, 1929.
+Steinhilber, F.: 2010, Total solar irradiance since 1996: Is there a long-term variation unrelated to solar surface magnetic phenomena? Astron. Astrophys. 523, A39.
+Tapping, K.F., DeTracey, B.: 1990, The origin of the 10.7 cm flux. Solar Phys. 127(2), 321.
+Tebabal, A., Damtie, D., Nigussie, M., Bires, A., Yizengaw, E.: 2015, Modeling total solar irradiance from PMOD composite using feed-forward neural networks. J. Atmos. Solar-Terr. Phys. 135, 64.
+Thuillier, G., Bruinsma, S.: 2001, The Mg ii index for upper atmosphere modelling. Ann. Geophys. 19, 219.
+Vieira, L.E.A., Dudok de Wit, T., Kretzschmar, M.: 2011, Short-term forecast of the total and spectral solar irradiance.
+Viereck, R., Puga, L., McMullin, D., Judge, D., Weber, M., Tobiska, W.K.: 2001, The Mg ii index: A proxy for solar EUV. Geophys. Res. Lett. 28(7), 1343.
+Yeo, K.L., Krivova, N.A., Solanki, S.K., Glassmeier, K.H.: 2014, Reconstruction of total and spectral irradiance from 1974 to 2013 based on KPVT, SoHo/MDI, and SDO/HMI observations. Astron. Astrophys. 570, A85.
+Zhang, G., Patuwo, B.E., Hu, M.Y.: 1998, Forecasting with artificial neural networks: The state of the art. Int. J. Forecast. 14(1), 35.

@@ -1,0 +1,22 @@
+Aschwanden, M.J., Fletcher, L., Schrijver, C.J., Alexander, D.: 1999, Coronal loop oscillations observed with the transition region and coronal explorer. Astrophys. J. 520, 880.
+Ballai, I.: 2007, Global coronal seismology. Solar Phys. 246, 177.
+Goossens, M., Andries, J., Arregui, I.: 2006, Damping of magnetohydrodynamic waves by resonant absorption in the solar atmosphere. Phil. Trans. Roy. Soc. London Ser. A, Math. Phys. Sci. 364, 433.
+Goossens, M., Andries, J., Aschwanden, M.J.: 2002, Coronal loop oscillations. An interpretation in terms of resonant absorption of quasi-mode kink oscillations. Astron. Astrophys. 394, L39.
+Goossens, M., Erdély, R., Ruderman, M.S.: 2011, Resonant MHD waves in the solar atmosphere. Space Sci. Rev. 158, 289.
+Goossens, M., Hollweg, J.V., Sakurai, T.: 1992, Resonant behaviour of MHD waves on magnetic flux tubes III. The effect of equilibrium flow. Solar Phys. 138, 233.
+Karami, K., Bahari, K.: 2012, The effect of twisted magnetic field on the period ratio P
+Nakariakov, V.M., Ofman, L.: 2001, Determination of the coronal magnetic field by coronal loop oscillations. Astron. Astrophys. 372, L53.
+Nakariakov, V.M., Ofman, L., Deluca, E.E., Roberts, B., Davila, J.M.: 1999, TRACE observation of damped coronal loop oscillations: Implication for coronal heating. Science 285, 862.
+Nakariakov, V.M., Verwichte, E.: 2005, Coronal waves and oscillations. Living Rev. Solar Phys. 2, 3.
+Ofman, L.: 2005, MHD waves and heating in coronal holes. Space Sci. Rev. 120, 67.
+Ofman, L.: 2010, Wave modeling of the solar wind. Living Rev. Solar Phys. 7, 4.
+Roberts, B., Edwin, P.M., Benz, A.O.: 1984, On coronal oscillations. Astrophys. J. 279, 857.
+Rosenberg, H.: 1970, Evidence for MHD pulsations in the solar corona. Astron. Astrophys. 9, 159.
+Ruderman, M.S.: 2007, Nonaxisymmetric oscillations of thin twisted magnetic tubes. Solar Phys. 246, 119.
+Ruderman, M.S.: 2010, The effect of the flows on transverse oscillations of coronal loops. Solar Phys. 267, 377.
+Ruderman, M.S., Roberts, B.: 2002, The damping of coronal loop oscillations. Astrophys. J. 577, 475.
+Ruderman, M.S., Terradas, J.: 2015, Standing kink oscillations of thin twisted magnetic tubes with continuous equilibrium magnetic field. Astron. Astrophys. 580, A57.
+Terradas, J., Arregui, I., Verth, G., Goossens, M.: 2011, Seismology of transversely oscillating coronal loops with siphon flows. Astrophys. J. 729, L22.
+Terradas, J., Goossens, M.: 2012, Transverse kink oscillations in the presence of twist. Astron. Astrophys. 548, A112.
+Uchida, Y.: 1970, Diagnosis of coronal magnetic structure by flare-associated hydromagnetic disturbances. Publ. Astron. Soc. Japan 22, 341.
+Verwichte, E., Foullon, C., Van Doorsselaere, T.: 2010, Spatial seismology of a large coronal loop arcade from TRACE and EIT observations of its transverse oscillations. Astrophys. J. 717, 458.

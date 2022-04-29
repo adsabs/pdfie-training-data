@@ -1,0 +1,17 @@
+Fisk, L.A.: 1978,
+Gloeckler, G., Geiss, G.: 1998, Measurement of the abundance of helium-3 in the Sun and in the local interstellar cloud with SWICS on Ulysses. Space Sci. Rev. 84, 275.
+Gold, R.E., Krimigis, S.M., Hawkins, S.E. III, Haggerty, D.K., Lohr, D.A., Fiore, E., Armstrong, T.P., Holland, G., Lanzerotti, L.J.: 1998, Electron, proton, and alpha monitor on the Advanced Composition Explorer Spacecraft. Space Sci. Rev. 86, 541.
+Ho, G.C., Mason, G.M.: 2016, Composition variations of low energy heavy ions during large solar energetic particle events. AIP Conf. Proc. 1720, 070002.
+Ho, G.C., Roelof, E.C., Mason, G.M.: 2005, Upper limit on
+Ho, G.C., Hamilton, D.C., Gloeckler, G., Bochsler, P.: 2000, Enhanced solar wind
+Ho, G.C., Roelof, E.C., Hawkins, S.E. III, Gold, R.E., Mason, G.M., Dwyer, J.R., Mazur, J.E.: 2001, Energetic electrons in
+Ko, Y-K., Aaron, R.D., Lepri, S.T.: 2018, Boundary of the slow solar wind. Astrophys. J. 864, 139.
+Liu, S., Petrosian, V., Mason, G.M.: 2006, Stochastic acceleration of
+Mason, G.M., Gold, R.E., Krimigis, S.M., Mazur, J.E., Andrews, G.B., Daley, K.A., et al.: 1998, The Ultra-Low-Energy Isotope Spectrometer (ULEIS) for the ACE spacecraft. Space Sci. Rev. 86, 409.
+Petrosian, V., Jiang, Y.W., Liu, S., Ho, G.C., Mason, G.M.: 2009, Relative distributions fluences of
+Reames, D.V.: 1999, Particle acceleration at the Sun and in the heliosphere. Space Sci. Rev. 90, 413.
+Reames, D.V., Meyer, J.P., von Rosenvinge, T.T.: 1994, Energetic-particle abundances in impulsive solar flare events. Int. Astron. Union Colloq. 142, 649.
+Reames, D.V., von Rosenvinge, T.T., Lin, R.P.: 1985, Solar
+Stone, E.C., Frandsen, A.M., Mewaldt, R.A., Christian, E.C., Margolies, D., Ormes, J.F., Snow, F.: 1998, The Advanced Composition Explorer. Space Sci. Rev. 86, 1.
+Temerin, M., Roth, I.: 1992, The production of He-3 and heavy ion enrichment in He-3-rich flares by electromagnetic hydrogen cyclotron waves. Astrophys. J. Lett. 391, L105.
+Widenbeck, M.E., Mason, G.M.: 2014, The interplanetary population of suprathermal ions from impulsive solar energetic particle events: Solar cycle variations. In: Hu, Q., Zank, G. (eds.) Outstanding Problems in Heliophysics: from Coronal Heating to Edge of the Heliosphere. ASP Conf. Ser. 484, 234.

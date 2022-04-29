@@ -1,0 +1,29 @@
+Burlaga, L.: 2001, Terminology of ejecta in solar wind. Eos Trans. AGU 82, 433.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock – Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Burlaga, L.F., Skoug, R.M., Smith, C.W., Webb, D.F., Zurbuchen, T.H., Reinard, A.: 2001, Fast ejecta during the ascending phase of solar cycle 23: ACE observations, 1998 – 1999. J. Geophys. Res. 106, 20957.
+Cane, H.V., Richardson, I.G.: 2003, Interplanetary coronal mass ejections in the near-Earth solar wind during 1996 – 2002. J. Geophys. Res. 108, 1156.
+Chen, J.: 2017, Physics of erupting solar flux ropes: Coronal mass ejections (CMEs) – Recent advances in theory and observation. Phys. Plasmas 24(9), 090501.
+Cho, K.-S., Park, S.-H., Marubashi, K., Gopalswamy, N., Akiyama, S., Yashiro, S., Kim, R.-S., Lim, E.-K.: 2013, Comparison of helicity signs in interplanetary CMEs and their solar source regions. Solar Phys. 284, 105.
+Dere, K.P., Brueckner, G.E., Howard, R.A., Michels, D.J., Delaboudiniere, J.P.: 1999, LASCO and EIT observations of helical structure in coronal mass ejections. Astrophys. J. 516, 465.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001, Predicting the 1-AU arrival times of coronal mass ejections. J. Geophys. Res. 106, 29207.
+Gopalswamy, N., Yashiro, S., Xie, H., Akiyama, S., Mäkelä, P.: 2015, Properties and geoeffectiveness of magnetic clouds during solar cycles 23 and 24. J. Geophys. Res. 120, 9221.
+Gosling, J.T.: 1990, Coronal Mass Ejections and Magnetic Flux Ropes in Interplanetary Space, AGU Geophys. Monograph Ser. 58, 343.
+Johri, A., Manoharan, P.K.: 2016, An intense flare-CME event in 2015: Propagation and interaction effects between the Sun and Earth’s orbit. Solar Phys. 291, 1433.
+Kim, R.-S., Gopalswamy, N., Cho, K.-S., Moon, Y.-J., Yashiro, S.: 2013, Propagation characteristics of CMEs associated with magnetic clouds and ejecta. Solar Phys. 284, 77.
+Klein, L.W., Burlaga, L.F.: 1982, Interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 87, 613.
+Manoharan, P.K.: 2006, Evolution of coronal mass ejections in the inner heliosphere: A study using white-light and scintillation images. Solar Phys. 235, 345.
+Manoharan, P.K.: 2010, Ooty interplanetary scintillation – Remote-sensing observations and analysis of coronal mass ejections in the heliosphere. Solar Phys. 265, 137.
+Manoharan, P.K., Gopalswamy, N., Yashiro, S., Lara, A., Michalek, G., Howard, R.A.: 2004, Influence of coronal mass ejection interaction on propagation of interplanetary shocks. J. Geophys. Res. 109, A06109.
+Manoharan, P.K., Maia, D., Johri, A., Induja, M.S.: 2016, Interplanetary consequences of coronal mass ejection events occurred during 18 – 25 June 2015. In: Dorotovic, I., Fischer, C.E., Temmer, M. (eds.) Coimbra Solar Physics Meeting: Ground-Based Solar Observations in the Space Instrumentation Era, Astron. Soc. Pacific Conf. Ser. 504, 59.
+Marubashi, K.: 2000, Physics of interplanetary magnetic flux ropes: Toward prediction of geomagnetic storms. Adv. Space Res. 26, 55.
+Marubashi, K., Akiyama, S., Yashiro, S., Gopalswamy, N., Cho, K.-S., Park, Y.-D.: 2015, Geometrical relationship between interplanetary flux ropes and their solar sources. Solar Phys. 290, 1371.
+Michałek, G., Gopalswamy, N., Lara, A., Manoharan, P.K.: 2004, Arrival time of halo coronal mass ejections in the vicinity of the Earth. Astron. Astrophys. 423, 729.
+Richardson, I.G., Cane, H.V.: 2004, Identification of interplanetary coronal mass ejections at 1 AU using multiple solar wind plasma composition anomalies. J. Geophys. Res. 109, A09104.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Flare-CME models: An observational perspective (invited review). Solar Phys. 290, 3457.
+Shanmugaraju, A., Vršnak, B.: 2014, Transit time of coronal mass ejections under different ambient solar wind conditions. Solar Phys. 289, 339.
+Syed Ibrahim, M., Manoharan, P.K., Shanmugaraju, A.: 2017, Propagation of coronal mass ejections observed during the rising phase of solar cycle 24. Solar Phys. 292, 133.
+Syed Ibrahim, M., Shanmugaraju, A., Bendict Lawrance, M.: 2015, Transit time of CME/shock associated with four major geo-effective CMEs in solar cycle 24. Adv. Space Res. 55, 407.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Propagation of interplanetary coronal mass ejections: The drag-based model. Solar Phys. 285, 295.
+Webb, D.F., Howard, T.A.: 2012, Coronal mass ejections: Observations. Living Rev. Solar Phys. 9, 3.
+Xie, H., Gopalswamy, N., St. Cyr, O.C.: 2013, Near-Sun flux-rope structure of CMEs. Solar Phys. 284, 47.
+Zurbuchen, T.H., Richardson, I.G.: 2006, In-situ solar wind and magnetic field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

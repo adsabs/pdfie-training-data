@@ -1,0 +1,19 @@
+Abramenko, V., Yurchyshyn, V.: 2010, Magnetic energy spectra in solar active regions. Astrophys. J. 720, 717.
+Abramenko, V., Yurchyshyn, V., Wang, H., Goode, P.R.: 2001, Magnetic power spectra derived from ground and space measurements of the solar magnetic fields. Solar Phys. 201, 225.
+Bentley, R.D., Klein, K.-L., van Driel-Gesztelyi, L., Démoulin, P., Trottet, G., Tassetto, P., Marty, G.: 2000, Magnetic activity associated with radio noise storms. Solar Phys. 193, 227.
+Benz, A.O.: 1996, Radio astronomical diagnostics. In: Chiuderi, C., Einaudi, G. (eds.) Plasma Astrophysics, Lecture Notes in Physics, 468, Springer, Berlin, 213.
+Benz, A.O., Grigis, P.C., Csillaghy, A., Saint-Hilaire, P.: 2005, Survey on solar X-ray flares and associated coherent radio emissions. Solar Phys. 226, 121.
+Benz, A.O., Monstein, C., Meyer, H., Manoharan, P.K., Ramesh, R., Altyntsev, A., Lara, A., Paez, J., Cho, K.: 2009, A world-wide net of solar radio spectrometers: e-CALLISTO. Earth Moon Planets 104, 277.
+de Groot, T., Loonen, J., Slottje, C.: 1976, Chains of type I stormbursts. Solar Phys. 48, 321.
+Elgarøy, E.Ø.: 1977, Solar Noise Storms. Pergamon, Oxford.
+Elgaroy, O., Ugland, O.: 1970, Characteristic properties of small chains of type I solar radio bursts. Astron. Astrophys. 5, 372.
+Kai, K., Melrose, D.B., Suzuki, S.: 1985, In: McLean, D.J., Labrum, N.R. (eds.) Storms, 415.
+Kolmogorov, A.: 1941, The local structure of turbulence in incompressible viscous fluid for very large Reynolds’ numbers. Dokl. Akad. Nauk SSSR 30, 301.
+Krucker, S., Benz, A.O., Aschwanden, M.J., Bastian, T.S.: 1995, Location of type I radio continuum and bursts on Yohkoh soft X-ray maps. Solar Phys. 160(1), 151.
+Mandrini, C.H., Baker, D., Démoulin, P., Cristiani, G.D., van Driel-Gesztelyi, L., Vargas Domínguez, S., Nuevo, F.A., Vásquez, A.M., Pick, M.: 2015, Parallel evolution of quasi-separatrix layers and active region upflows. Astrophys. J. 809, 73.
+Mercier, C., Subramanian, P., Chambe, G., Janardhan, P.: 2015, The structure of solar radio noise storms. Astron. Astrophys. 576, A136.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Santos, J.C., Wrasse, C.M.: 2016, Reorganization of photospheric magnetic fields in active regions during energetic flares. Solar Phys. 291, 1107.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Sodré, Z.A.L., Fernandes, F.C.R.: 2016, Parameters of type I chains and their association with flares in X-ray. In: Dorotovic, I., Fischer, C.E., Temmer, M. (eds.) Coimbra Solar Physics Meeting: Ground-based Solar Observations in the Space Instrumentation Era, CS-504, Astron. Soc. Pacific, San Francisco, 143.
+Spicer, D.S., Benz, A.O., Huba, J.D.: 1982, Solar type I noise storms and newly emerging magnetic flux. Astron. Astrophys. 105, 221.

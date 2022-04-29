@@ -1,0 +1,76 @@
+Amari, T., Luciani, J.F., Aly, J.J., Tagger, M.: 1996, Plasmoid formation in a single sheared arcade and application to coronal mass ejections. Astron. Astrophys. 306, 913.
+Antiochos, S.K., DeVore, C.R., Klimchuk, J.A.: 1999, A model for solar coronal mass ejections. Astrophys. J. 510, 485.
+Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Formation of torus-unstable flux ropes and electric currents in erupting sigmoids. Astrophys. J. 708, 314.
+Bain, H.M., Krucker, S., Saint-Hilaire, P., Raftery, C.L.: 2014, Radio imaging of a type IVM radio burst on the 14th of August 2010. Astrophys. J. 782, 43.
+Baker, D., Brooks, D.H., Démoulin, P., van Driel-Gesztelyi, L., Green, L.M., Steed, K., Carlyle, J.: 2013, Plasma composition in a sigmoidal anemone active region. Astrophys. J. 778, 69.
+Baker, D., Brooks, D.H., Démoulin, P., Yardley, S.L., van Driel-Gesztelyi, L., Long, D.M., Green, L.M.: 2015, FIP bias evolution in a decaying active region. Astrophys. J. 802, 104.
+Bobra, M.G., Sun, X., Hoeksema, J.T., Turmon, M., Liu, Y., Hayashi, K., Barnes, G., Leka, K.D.: 2014, The Helioseismic and Magnetic Imager (HMI) vector magnetic field pipeline: SHARPs – space-weather HMI active region patches. Solar Phys. 289, 3549.
+Brooks, D.H., Warren, H.P.: 2011, Establishing a connection between active region outflows and the solar wind: Abundance measurements with EIS/Hinode. Astrophys. J. Lett. 727, L13.
+Brooks, D.H., Warren, H.P.: 2012, The coronal source of extreme-ultraviolet line profile asymmetries in solar active region outflows. Astrophys. J. Lett. 760, L5.
+Brooks, D.H., Ugarte-Urra, I., Warren, H.P.: 2015, Full-Sun observations for identifying the source of the slow solar wind. Nat. Commun. 6, 5947.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock – Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Cane, H.V., Richardson, I.G.: 2003, Interplanetary coronal mass ejections in the near-Earth solar wind during 1996 – 2002. J. Geophys. Res. 108, 1156.
+Cheng, X., Zhang, J., Liu, Y., Ding, M.D.: 2011, Observing flux rope formation during the impulsive phase of a solar eruption. Astrophys. J. Lett. 732, L25.
+Cheng, X., Ding, M.D., Zhang, J., Sun, X.D., Guo, Y., Wang, Y.M., Kliem, B., Deng, Y.Y.: 2014, Formation of a double-decker magnetic flux rope in the sigmoidal solar active region 11520. Astrophys. J. 789, 93.
+Culhane, J.L., Harra, L.K., James, A.M., Al-Janabi, K., Bradley, L.J., Chaudry, R.A., Rees, K., Tandy, J.A., Thomas, P., Whillock, M.C.R., Winter, B., Doschek, G.A., Korendyke, C.M., Brown, C.M., Myers, S., Mariska, J., Seely, J., Lang, J., Kent, B.J., Shaughnessy, B.M., Young, P.R., Simnett, G.M., Castelli, C.M., Mahmoud, S., Mapson-Menard, H., Probyn, B.J., Thomas, R.J., Davila, J., Dere, K., Windt, D., Shea, J., Hagood, R., Moye, R., Hara, H., Watanabe, T., Matsuzaki, K., Kosugi, T., Hansteen, V., Wikstol, Ø.: 2007, The EUV imaging spectrometer for Hinode. Solar Phys. 243, 19.
+Culhane, J.L., Brooks, D.H., van Driel-Gesztelyi, L., Démoulin, P., Baker, D., DeRosa, M.L., Mandrini, C.H., Zhao, L., Zurbuchen, T.H.: 2014, Tracking solar active region outflow plasma from its source to the near-Earth environment. Solar Phys. 289, 3799.
+Del Zanna, G.: 2013, A revised radiometric calibration for the Hinode/EIS instrument. Astron. Astrophys. 555, A47.
+Del Zanna, G., Dere, K.P., Young, P.R., Landi, E., Mason, H.E.: 2015, CHIANTI – an atomic database for emission lines. Version 8. Astron. Astrophys. 582, A56.
+Démoulin, P., Priest, E.R., Lonie, D.P.: 1996, Three-dimensional magnetic reconnection without null points 2. Application to twisted flux tubes. J. Geophys. Res. 101, 7631.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – an atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: An overview. Solar Phys. 162, 1.
+Edwards, S.J., Parnell, C.E., Harra, L.K., Culhane, J.L., Brooks, D.H.: 2016, A comparison of global magnetic field skeletons and active-region upflows. Solar Phys. 291, 117.
+Forbes, T.G.: 2000, A review on the genesis of coronal mass ejections. J. Geophys. Res. 105, 23153.
+Forbes, T.G., Linker, J.A., Chen, J., Cid, C., Kóta, J., Lee, M.A., Mann, G., Mikić, Z., Potgieter, M.S., Schmidt, J.M., Siscoe, G.L., Vainio, R., Antiochos, S.K., Riley, P.: 2006, CME theory and models. Space Sci. Rev. 123, 251.
+Gary, G.A.: 2001, Plasma beta above a solar active region: Rethinking the paradigm. Solar Phys. 203, 71.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000, Interplanetary acceleration of coronal mass ejections. Geophys. Res. Lett. 27, 145.
+Green, L.M., Kliem, B.: 2009, Flux rope formation preceding coronal mass ejection onset. Astrophys. J. Lett. 700, L83.
+Green, L.M., Kliem, B.: 2014, Observations of flux rope formation prior to coronal mass ejections. In: Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.) Nature of Prominences and Their Role in Space Weather, IAU Symposium 300, 209.
+Janvier, M., Aulanier, G., Bommier, V., Schmieder, B., Démoulin, P., Pariat, E.: 2014, Electric currents in flare ribbons: Observations and three-dimensional Standard Model. Astrophys. J. 788, 60.
+Kerdraon, A., Delouis, J.-M.: 1997, The Nançay radioheliograph. In: Trottet, G. (ed.) Coronal Physics from Radio and Space Observations, Lecture Notes in Physics 483, Springer, Berlin, 192.
+Kliem, B., Török, T.: 2006, Torus instability. Phys. Rev. Lett. 96(25), 255002.
+Kubicka, M., Möstl, C., Amerstorfer, T., Boakes, P.D., Feng, L., Eastwood, J.P., Törmänen, O.: 2016, Prediction of geomagnetic storm strength from inner heliospheric in situ observations. Astrophys. J. 833, 255.
+Laming, J.M.: 2015, The FIP and inverse FIP effects in solar and stellar coronae. Living Rev. Solar Phys. 12, 2.
+Leblanc, Y., Dulk, G.A., Bougeret, J.-L.: 1998, Tracing the electron density from the corona to 1 au. Solar Phys. 183, 165.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Liu, Y., Hoeksema, J.T., Scherrer, P.H., Schou, J., Couvidat, S., Bush, R.I., Duvall, T.L., Hayashi, K., Sun, X., Zhao, X.: 2012, Comparison of line-of-sight magnetograms taken by the solar dynamics observatory/helioseismic and magnetic imager and solar and heliospheric observatory/Michelson Doppler imager. Solar Phys. 279, 295.
+López Fuentes, M.C., Demoulin, P., Mandrini, C.H., van Driel-Gesztelyi, L.: 2000, The counterkink rotation of a non-hale active region. Astrophys. J. 544, 540.
+Luoni, M.L., Démoulin, P., Mandrini, C.H., van Driel-Gesztelyi, L.: 2011, Twisted flux tube emergence evidenced in longitudinal magnetograms: Magnetic tongues. Solar Phys. 270, 45.
+Lynch, B.J., Antiochos, S.K., DeVore, C.R., Luhmann, J.G., Zurbuchen, T.H.: 2008, Topological evolution of a fast magnetic breakout CME in three dimensions. Astrophys. J. 683, 1192.
+Mann, G., Jansen, F., MacDowall, R.J., Kaiser, M.L., Stone, R.G.: 1999, A heliospheric density model and type III radio bursts. Astron. Astrophys. 348, 614.
+Marubashi, K.: 1986, Structure of the interplanetary magnetic clouds and their solar origins. Adv. Space Res. 6, 335.
+McAllister, A.H., Martin, S.F., Crooker, N.U., Lepping, R.P., Fitzenreiter, R.J.: 2001, A test of real-time prediction of magnetic cloud topology and geomagnetic storm occurrence from solar signatures. J. Geophys. Res. 106, 29185.
+McLean, D.J., Labrum, N.R.: 1985, Solar Radiophysics: Studies of Emission from the Sun at Metre Wavelengths.
+Mikic, Z., Linker, J.A.: 1994, Disruption of coronal magnetic field arcades. Astrophys. J. 430, 898.
+Moore, R.L., Labonte, B.J.: 1980, The filament eruption in the 3B flare of July 29, 1973 – onset and magnetic field configuration. In: Dryer, M., Tandberg-Hanssen, E. (eds.) Solar and Interplanetary Dynamics, IAU Symposium 91, 207.
+Moore, R.L., Sterling, A.C., Hudson, H.S., Lemen, J.R.: 2001, Onset of the magnetic explosion in solar flares and coronal mass ejections. Astrophys. J. 552, 833.
+Möstl, C., Miklenic, C., Farrugia, C.J., Temmer, M., Veronig, A., Galvin, A.B., Vršnak, B., Biernat, H.K.: 2008, Two-spacecraft reconstruction of a magnetic cloud and comparison to its solar source. Ann. Geophys. 26, 3139.
+Nindos, A., Patsourakos, S., Vourlidas, A., Tagikas, C.: 2015, How common are hot magnetic flux ropes in the low solar corona? A statistical study of EUV observations. Astrophys. J. 808, 117.
+Palmerio, E., Kilpua, E.K.J., James, A.W., Green, L.M., Pomoell, J., Isavnin, A., Valori, G.: 2017, Determining the intrinsic CME flux rope type using remote-sensing solar disk observations. Solar Phys. 292, 39.
+Patsourakos, S., Vourlidas, A., Stenborg, G.: 2013, Direct evidence for a fast coronal mass ejection driven by the prior formation and subsequent destabilization of a magnetic flux rope. Astrophys. J. 764, 125.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pevtsov, A.A., Canfield, R.C., McClymont, A.N.: 1997, On the subphotospheric origin of coronal electric currents. Astrophys. J. 481, 973.
+Pick, M., Vilmer, N.: 2008, Sixty-five years of solar radioastronomy: Flares, coronal mass ejections and Sun Earth connection. Astron. Astrophys. Rev. 16, 1.
+Reeves, K.K., Golub, L.: 2011, Atmospheric imaging assembly observations of hot flare plasma. Astrophys. J. Lett. 727, L52.
+Reid, H.A.S., Ratcliffe, H.: 2014, A review of solar type III radio bursts. Res. Astron. Astrophys. 14, 773.
+Richardson, I.G., Cane, H.V.: 2010, Near-Earth interplanetary coronal mass ejections during Solar Cycle 23 (1996 – 2009): Catalog and summary of properties. Solar Phys. 264, 189.
+Roumeliotis, G., Sturrock, P.A., Antiochos, S.K.: 1994, A numerical study of the sudden eruption of sheared magnetic fields. Astrophys. J. 423, 847.
+Rust, D.M.: 1994, Spawning and shedding helical magnetic fields in the solar atmosphere. Geophys. Res. Lett. 21, 241.
+Rust, D.M., Kumar, A.: 1996, Evidence for helically kinked magnetic flux ropes in solar eruptions. Astrophys. J. Lett. 464, L199.
+Savcheva, A.S., Green, L.M., van Ballegooijen, A.A., DeLuca, E.E.: 2012, Photospheric flux cancellation and the build-up of sigmoidal flux ropes on the Sun. Astrophys. J. 759, 105.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) Investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Shibata, K., Masuda, S., Shimojo, M., Hara, H., Yokoyama, T., Tsuneta, S., Kosugi, T., Ogawara, Y.: 1995, Hot-plasma ejections associated with compact-loop solar flares. Astrophys. J. Lett. 451, L83.
+SunPy Community Mumford, S.J., Christe, S., Pérez-Suárez, D., Ireland, J., Shih, A.Y., Inglis, A.R., Liedtke, S., Hewett, R.J., Mayer, F., Hughitt, K., Freij, N., Meszaros, T., Bennett, S.M., Malocha, M., Evans, J., Agrawal, A., Leonard, A.J., Robitaille, T.P., Mampaey, B., Campos-Rozo, J.I., Kirk, M.S.: 2015, SunPy – Python for solar physics. Comput. Sci. Discov. 8(1), 014009.
+Titov, V.S., Démoulin, P.: 1999, Basic topology of twisted magnetic configurations in solar flares. Astron. Astrophys. 351, 707.
+Titov, V.S., Priest, E.R., Démoulin, P.: 1993, Conditions for the appearance of “bald patches” at the solar surface. Astron. Astrophys. 276, 564.
+Török, T., Kliem, B.: 2005, Confined and ejective eruptions of kink-unstable flux ropes. Astrophys. J. Lett. 630, L97.
+Török, T., Berger, M.A., Kliem, B.: 2010, The writhe of helical structures in the solar corona. Astron. Astrophys. 516, A49.
+Török, T., Temmer, M., Valori, G., Veronig, A.M., van Driel-Gesztelyi, L., Vršnak, B.: 2013, Initiation of coronal mass ejections by sunspot rotation. Solar Phys. 286, 453.
+van Ballegooijen, A.A., Martens, P.C.H.: 1989, Formation and eruption of solar prominences. Astrophys. J. 343, 971.
+Warren, H.P., Ugarte-Urra, I., Landi, E.: 2014, The absolute calibration of the EUV imaging spectrometer on Hinode. Astrophys. J. Suppl. 213, 11.
+Yan, X.L., Qu, Z.Q., Kong, D.F., Xu, C.L.: 2012, Sunspot rotation, sigmoidal filament, flare, and coronal mass ejection: The event on 2000 February 10. Astrophys. J. 754, 16.
+Yurchyshyn, V.: 2008, Relationship between EIT posteruption arcades, coronal mass ejections, the coronal neutral line, and magnetic clouds. Astrophys. J. Lett. 675, L49.
+Yurchyshyn, V.B., Wang, H., Goode, P.R., Deng, Y.: 2001, Orientation of the magnetic fields in interplanetary flux ropes and solar filaments. Astrophys. J. 563, 381.
+Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.
+Zhang, J., Cheng, X., Ding, M.-D.: 2012, Observation of an evolving magnetic flux rope before and during a solar eruption. Nat. Commun. 3, 747.

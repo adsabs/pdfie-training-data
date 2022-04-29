@@ -1,0 +1,34 @@
+Abbo, L., Ofman, L., Antiochos, S.K., Hansteen, V.H., Harra, L., Ko, Y.-K., Lapenta, G., Li, B., Riley, P., Strachan, L., von Steiger, R., Wang, Y.-M.: 2016, Slow solar wind: Observations and modeling. Space Sci. Rev. 201, 55.
+Athay, R.G.: 1986, Radiation loss rates in Lyman-alpha for solar conditions. Astrophys. J. 308, 975.
+Banaszkiewicz, M., Axford, W.I., McKenzie, J.F.: 1998, An analytic solar magnetic field model. Astron. Astrophys. 337, 940.
+Bochsler, P.: 2002, Abundances and charge states of particles in the solar wind. Rev. Geophys. 38(2), 247.
+Buergi, A., Geiss, J.: 1986, Helium and minor ions in the corona and solar wind – Dynamics and charge states. Solar Phys. 103, 347.
+Byhring, H.S., Cranmer, S.R., Lie-Svendsen, Ø., Habbal, S.R., Esser, R.: 2011, Modeling iron abundance enhancements in the slow solar wind. Astrophys. J. 732, 119.
+Chen, Y., Esser, R., Hu, Y.: 2003, Formation of minor-ion charge states in the fast solar wind: Roles of differential flow speeds of ions of the same element. Astrophys. J. 582, 467.
+Cranmer, S.R.: 2002, Coronal holes and the high-speed solar wind. Space Sci. Rev. 101, 229.
+Cranmer, S.R.: 2009, Coronal holes. Living Rev. Solar Phys. 6, 3.
+Cranmer, S.R.: 2014, Suprathermal electrons in the solar corona: Can nonlocal transport explain heliospheric charge states? Astrophys. J. Lett. 791, L31.
+Cranmer, S.R., van Ballegooijen, A.A., Edgar, R.J.: 2007, Self-consistent coronal heating and solar wind acceleration from anisotropic magnetohydrodynamic turbulence. Astrophys. J. Suppl. 171, 520.
+de Karman, T., Howarth, L.: 1938, On the Statistical Theory of Isotropic Turbulence. Royal Society of London Proceedings Series A 164, 192.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – An atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Dmitruk, P., Milano, L.J., Matthaeus, W.H.: 2001, Wave-driven turbulent coronal heating in open field line regions: Nonlinear phenomenological model. Astrophys. J. 548, 482.
+Esser, R., Edgar, R.J., Brickhouse, N.S.: 1998, High minor ion outflow speeds in the inner corona and observed ion charge states in interplanetary space. Astrophys. J. 498, 448.
+Hollweg, J.V.: 1978, Some physical processes in the solar wind. Rev. Geophys. Space Phys. 16, 689.
+Ko, Y.-K., Geiss, J., Gloeckler, G.: 1998, On the differential ion velocity in the inner solar corona and the observed solar wind ionic charge states. J. Geophys. Res. 103, 14539.
+Ko, Y.-K., Fisk, L.A., Gloeckler, G., Geiss, J.: 1996, Limitations on suprathermal tails of electrons in the lower solar corona. Geophys. Res. Lett. 23, 2785.
+Ko, Y.-K., Gloeckler, G., Cohen, C.M.S., Galvin, A.B.: 1999, Solar wind ionic charge states during the Ulysses pole-to-pole pass. J. Geophys. Res. 104, 17005.
+Landi, E., Lepri, S.T.: 2015, Photoionization in the solar wind. Astrophys. J. Lett. 812, L28.
+Landi, E., Young, P.R., Dere, K.P., Del Zanna, G., Mason, H.E.: 2013, CHIANTI – An atomic database for emission lines. XIII. Soft X-ray improvements and other changes. Astrophys. J. 763, 86.
+Landi, E., Oran, R., Lepri, S.T., Zurbuchen, T.H., Fisk, L.A., van der Holst, B.: 2014, Charge state evolution in the solar wind. III. Model comparison with observations. Astrophys. J. 790, 111.
+Lionello, R., Velli, M., Downs, C., Linker, J.A., Mikić, Z.: 2014a, Application of a solar wind model driven by turbulence dissipation to a 2D magnetic field configuration. Astrophys. J. 796, 111.
+Lionello, R., Velli, M., Downs, C., Linker, J.A., Mikić, Z., Verdini, A.: 2014b, Validating a time-dependent turbulence-driven model of the solar wind. Astrophys. J. 784, 120.
+Matthaeus, W.H., Minnie, J., Breech, B., Parhi, S., Bieber, J.W., Oughton, S.: 2004, Transport of cross helicity and radial evolution of Alfvénicity in the solar wind. Geophys. Res. Lett. 31, 12803.
+Mikić, Z., Linker, J.A., Schnack, D.D., Lionello, R., Tarditi, A.: 1999, Magnetohydrodynamic modeling of the global solar corona. Phys. Plasmas 6, 2217.
+Mikić, Z., Downs, C., Linker, J.A., Caplan, R.M., Mackay, D.H., Upton, L.A., Riley, P., Lionello, R., Török, T., Titov, V.S., Wijaya, J., Druckmüller, M., Pasachoff, J.M., Carlos, W.: 2018, Predicting the corona for the 21 August 2017 total solar eclipse. Nat. Astron.
+Ofman, L., Abbo, L., Giordano, S.: 2013, Observations and models of slow solar wind with Mg^{9 +} ions in quiescent streamers. Astrophys. J. 762, 18.
+Oran, R., Landi, E., van der Holst, B., Lepri, S.T., Vásquez, A.M., Nuevo, F.A., Frazin, R., Manchester, W., Sokolov, I., Gombosi, T.I.: 2015, A steady-state picture of solar wind acceleration and charge state composition derived from a global wave-driven MHD model. Astrophys. J. 806, 55.
+Shen, C., Raymond, J.C., Murphy, N.A., Lin, J.: 2015, A Lagrangian scheme for time-dependent ionization in simulations of astrophysical plasmas. Astron. Comput. 12, 1.
+Usmanov, A.V., Goldstein, M.L., Matthaeus, W.H.: 2012, Three-dimensional magnetohydrodynamic modeling of the solar wind including pickup protons and turbulence transport. Astrophys. J. 754, 40.
+Usmanov, A.V., Matthaeus, W.H., Breech, B.A., Goldstein, M.L.: 2011, Solar wind modeling with turbulence transport and heating. Astrophys. J. 727, 84.
+Verdini, A., Velli, M., Matthaeus, W.H., Oughton, S., Dmitruk, P.: 2010, A turbulence-driven model for heating and acceleration of the fast wind in coronal holes. Astrophys. J. Lett. 708, L116.
+Zurbuchen, T.H., Fisk, L.A., Gloeckler, G., von Steiger, R.: 2002, The solar wind composition throughout the solar cycle: A continuum of dynamic states. Geophys. Res. Lett. 29, 1352.

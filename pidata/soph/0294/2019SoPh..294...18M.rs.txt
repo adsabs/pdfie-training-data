@@ -1,0 +1,12 @@
+Álvarez-Herrero, A., Belenguer, T., Pastor, C., Heredero, R.L., Ramos, G., Martínez Pillet, V., Bonet Navarro, J.A.: 2006, Lithium niobate Fabry–Perot etalons in double-pass configuration for spectral filtering in the visible imager magnetograph IMaX for the SUNRISE mission. In: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Proc. SPIE 6265, 62652G.
+Christensen-Dalsgaard, J.: 2003, Lecture Notes on Stellar Oscillations, fifth edn. Aarhus Universitet Teoretisk Astrofysik Center, Danmarks Grundforskningsfond,
+Hill, F.: 1988, Rings and trumpets – three-dimensional power spectra of solar oscillations. Astrophys. J. 333, 996.
+Leighton, R.B., Noyes, R.W., Simon, G.W.: 1962, Velocity fields in the solar atmosphere. I. Preliminary report. Astrophys. J. 135, 474.
+Libbrecht, K.G.: 1988, Solar and stellar seismology. Space Sci. Rev. 47, 275.
+Martínez Pillet, V., Del Toro Iniesta, J.C., Álvarez-Herrero, A., Domingo, V., Bonet, J.A., González Fernández, L., et al.: 2011, The Imaging Magnetograph eXperiment (IMaX) for the Sunrise Balloon-Borne Solar Observatory. Solar Phys. 268, 57.
+Orozco Suárez, D., Bellot Rubio, L.R., Del Toro Iniesta, J.C., Tsuneta, S., Lites, B., Ichimoto, et al.: 2007, Strategy for the inversion of Hinode spectropolarimetric measurements in the quiet Sun. Publ. Astron. Soc. Japan 59, S837.
+Orozco Suárez, D., Bellot Rubio, L.R., Martínez Pillet, V., Bonet, J.A., Vargas Domínguez, S., Del Toro Iniesta, J.C.: 2010, Retrieval of solar magnetic fields from high-spatial resolution filtergraph data: the imaging magnetograph experiment (IMaXi). Astron. Astrophys. 522, A101.
+Schou, J., Antia, H.M., Basu, S., Bogart, R.S., Bush, R.I., Chitre, S.M., et al.: 1998, Helioseismic studies of differential rotation in the solar envelope by the solar oscillations investigation using the Michelson Doppler imager. Astrophys. J. 505, 390.
+Solanki, S.K., Barthol, P., Danilovic, S., Feller, A., Gandorfer, A., Hirzberger, J., et al.: 2010, SUNRISE: instrument, mission, data, and first results. Astrophys. J. Lett. 723, L127.
+Title, A.M., Tarbell, T.D., Topka, K.P., Ferguson, S.H., Shine, R.A., SOUP Team: 1989, Statistical properties of solar granulation derived from the SOUP instrument on Spacelab 2. Astrophys. J. 336, 475.
+Ulrich, R.K.: 1970, The five-minute oscillations on the solar surface. Astrophys. J. 162, 993.

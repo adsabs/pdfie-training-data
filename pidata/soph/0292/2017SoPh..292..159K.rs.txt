@@ -1,0 +1,46 @@
+Abramenko, V.I.: 2005, Relationship between magnetic power spectrum and flare productivity in solar active regions. Astrophys. J. 629, 1141.
+Alissandrakis, C.E.: 1981, On the computation of constant alpha force-free magnetic field. Astron. Astrophys. 100, 197.
+Barnes, G., Longcope, D.W., Leka, K.D.: 2005, Implementing a magnetic charge topology model for solar active regions. Astrophys. J. 629, 561.
+Bobra, M.G., Couvidat, S.: 2015, Solar flare prediction using SDO/HMI vector magnetic field data with a machine-learning algorithm. Astrophys. J. 798, 135.
+Bobra, M.G., Ilonidis, S.: 2016, Predicting coronal mass ejections using machine learning methods. Astrophys. J. 821, 127.
+Bobra, M.G., Sun, X., Hoeksema, J.T., Turmon, M., Liu, Y., Hayashi, K., Barnes, G., Leka, K.D.: 2014, The Helioseismic and Magnetic Imager (HMI) vector magnetic field pipeline: SHARPs – space-weather HMI active region patches. Solar Phys. 289, 3549.
+Canfield, R.C., de La Beaujardiere, J.-F., Fan, Y., Leka, K.D., McClymont, A.N., Metcalf, T.R., Mickey, D.L., Wuelser, J.-P., Lites, B.W.: 1993, The morphology of flare phenomena, magnetic fields, and electric currents in active regions. I – Introduction and methods. Astrophys. J. 411, 362.
+Chintzoglou, G., Patsourakos, S., Vourlidas, A.: 2015, Formation of magnetic flux ropes during a confined flaring well before the onset of a pair of major coronal mass ejections. Astrophys. J. 809, 34.
+Dalmasse, K., Aulanier, G., Démoulin, P., Kliem, B., Török, T., Pariat, E.: 2015, The origin of net electric currents in solar active regions. Astrophys. J. 810, 17.
+Falconer, D.A.: 2001, A prospective method for predicting coronal mass ejections from vector magnetograms. J. Geophys. Res. 106, 25185.
+Falconer, D.A., Moore, R.L., Gary, G.A.: 2002, Correlation of the coronal mass ejection productivity of solar active regions with measures of their global nonpotentiality from vector magnetograms: baseline results. Astrophys. J. 569, 1016.
+Fletcher, L., Dennis, B.R., Hudson, H.S., Krucker, S., Phillips, K., Veronig, A., Battaglia, M., Bone, L., Caspi, A., Chen, Q., Gallagher, P., Grigis, P.T., Ji, H., Liu, W., Milligan, R.O., Temmer, M.: 2011, An observational overview of solar flares. Space Sci. Rev. 159, 19.
+Georgoulis, M.K.: 2012a, Are solar active regions with major flares more fractal, multifractal, or turbulent than others? Solar Phys. 276, 161.
+Georgoulis, M.K.: 2012b, On our ability to predict major solar flares. Astrophys. Space Sci. Proc. 30, 93.
+Georgoulis, M.K.: 2017, The ambivalent role of field-aligned electric currents in the solar atmosphere. In: Keiling, A., Marghitu, O., Wheatland, M. (eds.) Electric Currents in Geospace and Beyond, AGU Monographs.
+Georgoulis, M.K., Rust, D.M.: 2007, Quantitative forecasting of major solar flares. Astrophys. J. Lett. 661, L109.
+Georgoulis, M.K., Titov, V.S., Mikić, Z.: 2012, Non-neutralized electric current patterns in solar active regions: origin of the shear-generating Lorentz force. Astrophys. J. 761, 61.
+Gosain, S., Démoulin, P., López Fuentes, M.: 2014, Distribution of electric currents in sunspots from photosphere to corona. Astrophys. J. 793, 15.
+Inoue, S., Hayashi, K., Magara, T., Choe, G.S., Park, Y.D.: 2015, Magnetohydrodynamic simulation of the X2.2 solar flare on 2011 February 15. II. Dynamics connecting the solar flare and the coronal mass ejection. Astrophys. J. 803, 73.
+Janvier, M., Aulanier, G., Bommier, V., Schmieder, B., Démoulin, P., Pariat, E.: 2014, Electric currents in flare ribbons: observations and three-dimensional standard model. Astrophys. J. 788, 60.
+Leka, K.D., Barnes, G.: 2003a, Photospheric magnetic field properties of flaring versus flare-quiet active regions. I. Data, general approach, and sample results. Astrophys. J. 595, 1277.
+Leka, K.D., Barnes, G.: 2003b, Photospheric magnetic field properties of flaring versus flare-quiet active regions. II. Discriminant analysis. Astrophys. J. 595, 1296.
+Leka, K.D., Barnes, G.: 2007, Photospheric magnetic field properties of flaring versus flare-quiet active regions. IV. A statistically significant sample. Astrophys. J. 656, 1173.
+Leka, K.D., Canfield, R.C., McClymont, A.N., van Driel-Gesztelyi, L.: 1996, Evidence for current-carrying emerging flux. Astrophys. J. 462, 547.
+McClymont, A.N., Jiao, L., Mikic, Z.: 1997, Problems and progress in computing three-dimensional coronal active region magnetic fields from boundary data. Solar Phys. 174, 191.
+Melrose, D.B.: 1991, Neutralized and unneutralized current patterns in the solar corona. Astrophys. J. 381, 306.
+Melrose, D.B.: 1995, Current paths in the corona and energy release in solar flares. Astrophys. J. 451, 391.
+Parker, E.N.: 1979, Cosmical Magnetic Fields: Their Origin and Their Activity.
+Parker, E.N.: 1996, Inferring mean electric currents in unresolved fibril magnetic fields. Astrophys. J. 471, 485.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Ravindra, B., Venkatakrishnan, P., Tiwari, S.K., Bhattacharyya, R.: 2011, Evolution of currents of opposite signs in the flare-productive solar active region NOAA 10930. Astrophys. J. 740, 19.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Design and ground calibration of the Helioseismic and Magnetic Imager (HMI) instrument on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 229.
+Schrijver, C.J.: 2007, A characteristic magnetic field pattern associated with all major solar flares and its use in flare forecasting. Astrophys. J. Lett. 655, L117.
+Schrijver, C.J.: 2016, The nonpotentiality of coronae of solar active regions, the dynamics of the surface magnetic field, and the potential for large flares. Astrophys. J. 820, 103.
+Schrijver, C.J., DeRosa, M.L., Metcalf, T., Barnes, G., Lites, B., Tarbell, T., McTiernan, J., Valori, G., Wiegelmann, T., Wheatland, M.S., Amari, T., Aulanier, G., Démoulin, P., Fuhrmann, M., Kusano, K., Régnier, S., Thalmann, J.K.: 2008, Nonlinear force-free field modeling of a solar active region around the time of a major flare and coronal mass ejection. Astrophys. J. 675, 1637.
+Semel, M., Skumanich, A.: 1998, An ambiguity-free determination of J
+Shibata, K., Magara, T.: 2011, Solar flares: magnetohydrodynamic processes. Living Rev. Solar Phys. 8, 6.
+Syntelis, P., Gontikakis, C., Patsourakos, S., Tsinganos, K.: 2016, The spectroscopic imprint of the pre-eruptive configuration resulting into two major coronal mass ejections. Astron. Astrophys. 588, A16.
+Török, T., Leake, J.E., Titov, V.S., Archontis, V., Mikić, Z., Linton, M.G., Dalmasse, K., Aulanier, G., Kliem, B.: 2014, Distribution of electric currents in solar active regions. Astrophys. J. Lett. 782, L10.
+Vemareddy, P., Venkatakrishnan, P., Karthikreddy, S.: 2015, Flux emergence in the solar active region NOAA 11158: the evolution of net current. Res. Astron. Astrophys. 15, 1547.
+Wheatland, M.S.: 2000, Are electric currents in solar active regions neutralized? Astrophys. J. 532, 616.
+Wheatland, M.S.: 2005, Initial test of a Bayesian approach to solar flare prediction. Publ. Astron. Soc. Aust. 22, 153.
+Wilkinson, L.K., Emslie, A.G., Gary, G.A.: 1992, On neutralized currents in the solar corona. Astrophys. J. Lett. 392, L39.
+Yang, X., Zhang, H., Gao, Y., Guo, J., Lin, G.: 2012, A statistical study on photospheric magnetic nonpotentiality of active regions and its relationship with flares during Solar Cycles 22 – 23. Solar Phys. 280, 165.
+Zhang, H.: 1995, Formation of magnetic shear and an electric current system in an emerging flux region Astron. Astrophys. 304, 541.

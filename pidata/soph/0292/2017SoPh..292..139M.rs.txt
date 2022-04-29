@@ -1,0 +1,35 @@
+Arge, C.N., Pizzo, V.J.: 2000, Improvement in the prediction of solar wind conditions using near-real time solar magnetic field updates. J. Geophys. Res. 105, 10465.
+Cranmer, S.R.: 2012, Self-consistent models of the solar wind. Space Sci. Rev. 172, 145.
+Goldstein, H., Poole, C.P., Safko, J.L.: 2002, Classical Mechanics.
+Gressl, C., Veronig, A.M., Temmer, M., Odstrčil, D., Linker, J.A., Mikić, Z., Riley, P.: 2014, Comparative study of MHD modeling of the background solar wind. Solar Phys. 289, 1783.
+Hellinger, P., Trávníček, P.M., Štverák, Š., Matteini, L., Velli, M.: 2013, Proton thermal energetics in the solar wind: Helios reloaded. J. Geophys. Res. 118, 1351.
+Hundhausen, A.J.: 1968, Direct observations of solar-wind particles. Space Sci. Rev. 8, 690.
+Jockers, K.: 1970, Solar wind models based on exospheric theory. Astron. Astrophys. 6, 219.
+Lamy, H., Pierrard, V., Maksimovic, M., Lemaire, J.F.: 2003, A kinetic exospheric model of the solar wind with a nonmonotonic potential energy for the protons. J. Geophys. Res. 108, 1047.
+Lemaire, J., Pierrard, V.: 2001, Kinetic models of solar and polar winds. Astrophys. Space Sci. 277, 169.
+Lemaire, J., Scherer, M.: 1971, Simple model for an ion-exosphere in an open magnetic field. Phys. Fluids 14, 1683.
+Maksimovic, M., Pierrard, V., Lemaire, J.F.: 1997, A kinetic model of the solar wind with Kappa distribution functions in the corona. Astron. Astrophys. 324, 725.
+Maksimovic, M., Zouganelis, I., Chaufray, J.-Y., Issautier, K., Scime, E.E., Littleton, J.E., Marsch, E., McComas, D.J., Salem, C., Lin, R.P., Elliott, H.: 2005, Radial evolution of the electron distribution functions in the fast solar wind between 0.3 and 1.5 AU. J. Geophys. Res. 110, A09104.
+McGregor, S.L., Hughes, W.J., Arge, C.N., Owens, M.J., Odstrcil, D.: 2011, The distribution of solar wind speeds during solar minimum: Calibration for numerical solar wind modeling constraints on the source of the slow solar wind. J. Geophys. Res. 116, A03101.
+Odstrčil, D.: 2003, Modeling 3-D solar wind structure. Adv. Space Res. 32, 497.
+Odstrcil, D., Pizzo, V.J.: 1999, Distortion of the interplanetary magnetic field by three-dimensional propagation of coronal mass ejections in a structured solar wind. J. Geophys. Res. 104, 28225.
+Odstrčil, D., Pizzo, V.J.: 1999a, Three-dimensional propagation of CMEs in a structured solar wind flow: 1. CME launched within the streamer belt. J. Geophys. Res. 104, 483.
+Odstrčil, D., Pizzo, V.J.: 1999b, Three-dimensional propagation of coronal mass ejections in a structured solar wind flow 2. CME launched adjacent to the streamer belt. J. Geophys. Res. 104, 493.
+Parker, E.N.: 2010, Kinetic and hydrodynamic representations of coronal expansion and the solar wind. AIP Conf. Proc. 1216, 3.
+Pierrard, V.: 2012, Kinetic models of solar wind electrons, protons and heavy ions. In: Exploring the Solar Wind, 221.
+Pierrard, V., Lazar, M., Schlickeiser, R.: 2011, Evolution of the electron distribution function in the whistler wave turbulence of the solar wind. Solar Phys. 269, 421.
+Pierrard, V., Lemaire, J.: 1996, Lorentzian ion exosphere model. J. Geophys. Res. 101, 7923.
+Pierrard, V., Pieters, M.: 2014, Coronal heating and solar wind acceleration for electrons, protons, and minor ions obtained from kinetic models based on kappa distributions. J. Geophys. Res. 119, 9441.
+Pierrard, V., Issautier, K., Meyer-Vernet, N., Lemaire, J.: 2001, Collisionless model of the solar wind in a spiral magnetic field. Geophys. Res. Lett. 28, 223.
+Pierrard, V., Borremans, K., Stegen, K., Lemaire, J.F.: 2014, Coronal temperature profiles obtained from kinetic models and from coronal brightness measurements obtained during solar eclipses. Solar Phys. 289, 183.
+Pierrard, V., Lazar, M., Poedts, S., Štverák, Š., Maksimovic, M., Trávníček, P.M.: 2016, The electron temperature and anisotropy in the solar wind. Comparison of the core and halo populations. Solar Phys. 291, 2165.
+Pomoell, J., Poedts, S.: 2017, Euhforia heliospheric modeling. J. Space Weather Space Clim., submitted.
+Pomoell, J., Vainio, R.: 2012, Influence of solar wind heating formulations on the properties of shocks in the corona. Astrophys. J. 745, 151.
+Scudder, J.D., Karimabadi, H.: 2013, Ubiquitous non-thermals in astrophysical plasmas: restating the difficulty of maintaining Maxwellians. Astrophys. J. 770, 26.
+Spitzer, L.: 1962, Physics of Fully Ionized Gases.
+Štverák, Š., Trávníček, P.M., Hellinger, P.: 2015, Electron energetics in the expanding solar wind via Helios observations. J. Geophys. Res. 120(10), 8177.
+Voitenko, Y., Pierrard, V.: 2015, Generation of proton beams by non-uniform solar wind turbulence. Solar Phys. 290, 1231.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1990, Solar wind speed and coronal flux-tube expansion. Astrophys. J. 355, 726.
+Wang, Y.-M., Sheeley, N.R. Jr., Phillips, J.L., Goldstein, B.E.: 1997, Solar wind stream interactions and the wind speed-expansion factor relationship. Astrophys. J. Lett. 488, L51.
+Withbroe, G.L.: 1988, The temperature structure, mass, and energy flow in the corona and inner solar wind. Astrophys. J. 325, 442.
+Zouganelis, I., Meyer-Vernet, N., Landi, S., Maksimovic, M., Pantellini, F.: 2005, Acceleration of weakly collisional solar-type winds. Astrophys. J. Lett. 626, L117.

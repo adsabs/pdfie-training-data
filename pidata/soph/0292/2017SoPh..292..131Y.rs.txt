@@ -1,0 +1,56 @@
+Ahmed, O.W., Qahwaji, R., Colak, T., Higgins, P.A., Gallagher, P.T., Bloomfield, D.S.: 2013, Solar flare prediction using advanced feature extraction, machine learning, and feature selection. Solar Phys. 283, 157.
+Al-Omari, M., Qahwaji, R., Colak, T., Ipson, S.: 2010, Machine leaning-based investigation of the associations between cmes and filaments. Solar Phys. 262, 511.
+Attrill, G., Wills-Davey, M.: 2010, Automatic detection and extraction of coronal dimmings from sdo/aia data. Solar Phys. 262, 461.
+Bobra, M.G., Ilonidis, S.: 2016, Predicting coronal mass ejections using machine learning methods. Astrophys. J. 821, 127.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., et al.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Buchlin, É., Mercier, C., Engin, S., Parenti, S., Vial, J.: 2010, Automated detection of filaments in sdo data. In: Boissier, S., Heydari-Malayeri, M., Samadi, R., Valls-Gabaud, D. (eds.) SF2A-2010: Proc. Annu. Meeting French Soc. Astron. Astrophys. 297.
+Burges, C.J.C.: 1998, A tutorial on support vector machines for pattern recognition. Data Min. Knowl. Discov. 2, 121.
+Byrne, J.P., Morgan, H., Habbal, S.R., Gallagher, P.T.: 2012, Automatic detection and tracking of coronal mass ejections. ii. multiscale filtering of coronagraph images. Astrophys. J. 752, 145.
+Caballero, C., Aranda, M.: 2014, Automatic tracking of active regions and detection of solar flares in solar euv images. Solar Phys. 289, 1643.
+Cohen, O., Attrill, G.D., Manchester IV, W.B., Wills-Davey, M.J.: 2009, Numerical simulation of an euv coronal wave based on the 2009 February 13 cme event observed by stereo. Astrophys. J. 705, 587.
+Domingo, V., Fleck, B., Poland, A.: 1995, The soho mission: an overview. Solar Phys. 162, 1.
+Durak, N., Nasraoui, O.: 2008, Feature exploration for mining coronal loops from solar images. In: 2008 20th IEEE Internat. Conf. on Tools with Artificial Intelligence 1, IEEE Press, New York, 547.
+Fürnkranz, J., Hüllermeier, E., Mencía, E.L., Brinker, K.: 2008, Multilabel classification via calibrated label ranking. Mach. Learn. 73, 133.
+Gibson, S., Fan, Y., Török, T., Kliem, B.: 2006, The evolving sigmoid: evidence for magnetic flux ropes in the corona before, during, and after cmes. Space Sci. Rev. 124, 131.
+Hall, M., Frank, E., Holmes, G., Pfahringer, B., Reutemann, P., Witten, I.H.: 2009, The weka data mining software: an update. ACM SIGKDD Explor. Newsl. 11, 10.
+Haralick, R.M., Shanmugam, K., Dinstein, I.H.: 1973, Textural features for image classification. IEEE Trans. Syst. Man Cybern. smc-3, 610.
+Holdsworth, D., Bewsher, D.: 2012, Identifying coronal dimming as the onset for cmes with the solar dynamics observatory,
+Howard, T.A., Harrison, R.A.: 2004, On the coronal mass ejection onset and coronal dimming. Solar Phys. 219, 315.
+Howard, T.A., Tappin, S.J.: 2008, Three-dimensional reconstruction of two solar coronal mass ejections using the stereo spacecraft. Solar Phys. 252, 373.
+Indyk, W., Kajdanowicz, T., Kazienko, P.: 2013, Relational large scale multi-label classification method for video categorization. Multimed. Tools Appl. 65, 63.
+Jiang, Y., Yang, J., Hong, J., Bi, Y., Zheng, R.: 2011, Sympathetic filament eruptions connected by coronal dimmings. Astrophys. J. 738, 179.
+Jing, J., Yurchyshyn, V.B., Yang, G., Xu, Y., Wang, H.: 2004, On the relation between filament eruptions, flares, and coronal mass ejections. Astrophys. J. 614, 1054.
+Kingsbury, N.: 1998, The dual-tree complex wavelet transform: a new technique for shift invariance and directional filters. Image Process., 319.
+Krista, L.D., Gallagher, P.T.: 2009, Automated coronal hole detection using local intensity thresholding techniques. Solar Phys. 256, 87.
+LaBonte, B., Rust, D., Bernasconi, P.: 2002, An automated system for detecting sigmoids in solar x-ray images. In: AGU Spring Meeting Abs. 1, 02.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C.: 2012, The atmospheric imaging assembly (aia) on the solar dynamics observatory (sdo). Solar Phys. 275, 17.
+Li, H., Manjunath, B., Mitra, S.: 1994, Multisensor image fusion using the wavelet transform. Graph. Models Image Process. 57, 235.
+Lima, A.C.E., De Castro, L.N.: 2014, A multi-label, semi-supervised classification approach applied to personality prediction in social media. Neural Netw. 58, 122.
+Liu, J.-J., Wang, Y.-M., Shen, C.-L., Liu, K., Pan, Z.-H., Wang, S.: 2015, A solar coronal jet event triggers a coronal mass ejection. Astrophys. J. 813, 115.
+Martens, P., Attrill, G., Davey, A., Engell, A., Farid, S., Grigis, P., Kasper, J., Korreck, K., Saar, S., Savcheva, A., et al.: 2012, Computer vision for the solar dynamics observatory (sdo). Solar Phys. 275, 79.
+McIntosh, S.W., De Pontieu, B., Tomczyk, S.: 2008, A coherence-based approach for tracking waves in the solar corona. Solar Phys. 252, 321.
+Mohamed, A., Gopalswamy, N., Yashiro, S., Akiyama, S., Mäkelä, P., Xie, H., Jung, H.: 2012, The relation between coronal holes and coronal mass ejections during the rise, maximum, and declining phases of solar cycle 23. J. Geophys. Res. Space Phys. 117(A1).
+Morgan, H., Byrne, J.P., Habbal, S.R.: 2012, Automatically detecting and tracking coronal mass ejections. i. separation of dynamic and quiescent components in coronagraph images. Astrophys. J. 752, 144.
+Nguyen, T.T., Willis, C.P., Paddon, D.J., Nguyen, S.H., Nguyen, H.S.: 2005, Data mining approach to the sunspot classification problem. In: Rough Set Techniques in Knowledge Discovery and Data Mining, 53.
+Qahwaji, R., Colak, T.: 2007, Automatic short-term solar flare prediction using machine learning and sunspot associations. Solar Phys. 241, 195.
+Reinard, A., Biesecker, D.: 2009, The relationship between coronal dimming and coronal mass ejection properties. Astrophys. J. 705, 914.
+Reiss, M.A., Hofmeister, S.J., Visscher, R.D., Temmer, M., Veronig, A.M., Delouille, V., Mampaey, B., Ahammer, H.: 2015, Improvements on coronal hole detection in sdo/aia images using supervised classification. Space Weather Space Clim. 5, A23.
+Rotter, T., Veronig, A., Temmer, M., Vrsnak, B.: 2014, Real-time solar wind forecasting based on coronal hole data. In: EGU Gen. Assemb. Conf. Abs. 16, 910.
+Schuh, M., Banda, J., Bernasconi, P., Angryk, R., Martens, P.: 2014, A comparative evaluation of automated solar filament detection. Solar Phys. 289, 2503.
+Shapire, R.E., Singer, Y.: 2000, Boostexter: a boosting-based system for text categorization. Mach. Learn. 39, 135.
+Sterling, A.C.: 2000, Sigmoid cme source regions at the sun: some recent results. J. Atmos. Solar-Terr. Phys. 62, 1427.
+Sych, R., Nakariakov, V.M.: 2008, The pixelised wavelet filtering method to study waves and oscillations in time sequences of solar atmospheric images. Solar Phys. 248, 395.
+Taylor, P.E., Almeida, G.J., Kanade, T., Hodgins, J.K.: 2010, Classifying human motion quality for knee osteoarthritis using accelerometers. In: Engineering in Medicine and Biology Society (EMBC), 2010 Annu. Internat. Conf. IEEE, IEEE Press, New York, 339.
+Temmer, M., Veronig, A., Gopalswamy, N., Yashiro, S.: 2011, Relation between the 3d-geometry of the coronal wave and associated cme during the 26 April 2008 event. Solar Phys. 273, 421.
+Tomczyk, S., McIntosh, S., Keil, S., Judge, P., Schad, T., Seeley, D., Edmondson, J.: 2007, Alfvén waves in the solar corona. Science 317, 1192.
+Trohidis, K., Tsoumakas, G., Kalliris, G., Vlahavas, I.P.: 2008, Multi-label classification of music into emotions. ismir 8:325-330. EURASIP J. Audio Speech Music Process. 2011, 325.
+Tsoumakas, G., Katakis, I.: 2010, Multi-label classification: an overview. Int. J. Data Warehous. Min. 3, 1.
+Tsoumakas, G., Vlahavas, I.: 2007, Random k-labelsets: an ensemble method for multilabel classification. In: Machine Learning: ECML 2007, Springer, Berlin, 406.
+Tsoumakas, G., Spyromitros-Xioufis, E., Vilcek, J., Vlahavas, I.: 2011, Mulan: a Java library for multi-label learning. J. Mach. Learn. Res. 12, 2411.
+Vršnak, B., Sudar, D., Ruždjak, D.: 2005, The cme-flare relationship: are there really two types of cmes. Astron. Astrophys. 435, 1149.
+Xu, J.: 2011, An extended one-versus-rest support vector machine for multi-label classification. Neurocomputing 74, 3114.
+Zhang, M.-L.: 2009, Ml-rbf: rbf neural networks for multi-label learning. Neural Process. Lett. 29(2), 61.
+Zhang, M.-L., Wu, L.: 2011, Lift: multi-label learning with label-specific features. IEEE Trans. Pattern Anal. Mach. Intell. 37, 1609.
+Zhang, M.-L., Zhou, Z.-H.: 2006, Multilabel neural networks with applications to functional genomics and text categorization. IEEE Trans. Knowl. Data Eng. 18, 1338.
+Zhang, M., Zhou, Z.: 2014, A review on multi-label learning algorithms. IEEE Trans. Knowl. Data Eng. 26, 1819.
+Zheng, R., Jiang, Y., Yang, J., Bi, Y., Hong, J., Yang, D., Yang, B.: 2012, An extreme ultraviolet wave associated with a micro-sigmoid eruption. Astrophys. J. Lett. 753, L29.

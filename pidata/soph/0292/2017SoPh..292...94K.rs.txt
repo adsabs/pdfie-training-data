@@ -1,0 +1,61 @@
+Aschwanden, M.J.: 2002, Particle acceleration and kinematics in solar flares – A synthesis of recent observations and theoretical concepts (invited review). Space Sci. Rev. 101, 1.
+Bárta, M., Vršnak, B., Karlický, M.: 2008, Dynamics of plasmoids formed by the current sheet tearing. Astron. Astrophys. 477, 649.
+Bárta, M., Büchner, J., Karlický, M., Skála, J.: 2011, Spontaneous current-layer fragmentation and cascading reconnection in solar flares. I. Model and analysis. Astrophys. J. 737, 24.
+Benz, A.O., Monstein, C., Meyer, H.: 2005, Callisto a new concept for solar radio spectrometers. Solar Phys. 226, 143.
+Brannon, S.R., Longcope, D.W., Qiu, J.: 2015, Spectroscopic observations of an evolving flare ribbon substructure suggesting origin in current sheet waves. Astrophys. J. 810, 4.
+Brosius, J.W., Daw, A.N.: 2015, Quasi-periodic fluctuations and chromospheric evaporation in a solar flare ribbon observed by IRIS. Astrophys. J. 810, 45.
+Brosius, J.W., Daw, A.N., Inglis, A.R.: 2016, Quasi-periodic fluctuations and chromospheric evaporation in a solar flare ribbon observed by Hinode/EIS, IRIS, and RHESSI. Astrophys. J. 830, 101.
+Carley, E.P., Vilmer, N., Gallagher, P.T.: 2016, Radio diagnostics of electron acceleration sites during the eruption of a flux rope in the solar corona. Astrophys. J. 833, 87.
+De Moortel, I., Hood, A.W.: 2003, The damping of slow MHD waves in solar coronal magnetic fields. Astron. Astrophys. 408, 755.
+Farge, M.: 1992, Wavelet transforms and their applications to turbulence. Annu. Rev. Fluid Mech. 24, 395.
+Fárník, F., Karlický, M., Švestka, Z.: 2003, Hard x-ray pulsations in the initial phase of flares. Solar Phys. 218, 183.
+Freeland, S.L., Handy, B.N.: 1998, Data analysis with the SolarSoft system. Solar Phys. 182, 497.
+Huang, J., Tan, B., Zhang, Y., Karlický, M., Mészárosová, H.: 2014, Quasi-periodic pulsations with varying period in multi-wavelength observations of an X-class flare. Astrophys. J. 791, 44.
+Jelínek, P., Karlický, M.: 2009, Computational study of impulsively generated standing slow acoustic waves in a solar coronal loop. Eur. Phys. J. D 54, 305.
+Jelínek, P., Karlický, M.: 2010, Impulsively generated wave trains in a solar coronal loop. IEEE Trans. Plasma Sci. 38, 2243.
+Jiřička, K., Karlický, M.: 2008, Narrowband pulsating decimeter structure observed by the new Ondřejov solar radio spectrograph. Solar Phys. 253, 95.
+Jiřička, K., Karlický, M., Kepka, O., Tlamicha, A.: 1993, Fast drift burst observations with the new Ondrejov radiospectrograph. Solar Phys. 147, 203.
+Karlický, M.: 1988, Response of the current sheet to a time-limited enhancement of electrical resistivity. Bull. Astron. Inst. Czechoslov. 39, 13.
+Karlický, M.: 2004, Series of high-frequency slowly drifting structures mapping the flare magnetic field reconnection. Astron. Astrophys. 417, 325.
+Karlický, M.: 2008, Separation of accelerated electrons and positrons in the relativistic reconnection. Astrophys. J. 674, 1211.
+Karlický, M.: 2013, Radio continua modulated by waves: Zebra patterns in solar and pulsar radio spectra? Astron. Astrophys. 552, A90.
+Karlický, M., Bárta, M.: 2007, Drifting pulsating structures generated during tearing and coalescence processes in a flare current sheet. Astron. Astrophys. 464, 735.
+Karlický, M., Bárta, M.: 2011, Successive merging of plasmoids and fragmentation in a flare current sheet and their X-ray and radio signatures. Astrophys. J. 733, 107.
+Karlický, M., Rybák, J.: 2017, Oscillation maps in the broadband radio spectrum of the 1 August 2010 event. Solar Phys. 292, 1.
+Karlický, M., Bárta, M., Rybák, J.: 2010, Radio spectra generated during coalescence processes of plasmoids in a flare current sheet. Astron. Astrophys. 514, A28.
+Karlický, M., Mészárosová, H., Jelínek, P.: 2013, Radio fiber bursts and fast magnetoacoustic wave trains. Astron. Astrophys. 550, A1.
+Karlický, M., Zlobec, P., Mészárosová, H.: 2010, Subsecond (0.1 s) pulsations in the 11 April 2001 radio event. Solar Phys. 261, 281.
+Kliem, B., Karlický, M., Benz, A.O.: 2000, Solar flare radio pulsations as a signature of dynamic magnetic reconnection. Astron. Astrophys. 360, 715.
+Konkol, P., Murawski, K., Lee, D., Weide, K.: 2010, Numerical simulations of the attenuation of the fundamental slow magnetoacoustic standing mode in a gravitationally stratified solar coronal arcade. Astron. Astrophys. 521, A34.
+Kumar, P., Cho, K.-S.: 2013, Simultaneous EUV and radio observations of bidirectional plasmoids ejection during magnetic reconnection. Astron. Astrophys. 557, A115.
+Kumar, P., Nakariakov, V.M., Cho, K.-S.: 2016, Observation of a quasiperiodic pulsation in hard X-ray, radio, and extreme-ultraviolet wavelengths. Astrophys. J. 822, 7.
+Kundu, M.R.: 1965, Solar Radio Astronomy, Interscience, New York, 27.
+Kupriyanova, E.G., Melnikov, V.F., Nakariakov, V.M., Shibasaki, K.: 2010, Types of microwave quasi-periodic pulsations in single flaring loops. Solar Phys. 267, 329.
+Kuznetsov, A.A.: 2006, Generation of intermediate drift bursts by magnetohydrodynamic waves in the solar corona. Solar Phys. 237, 153.
+Mann, G., Karlický, M., Motschmann, U.: 1987, On the intermediate drift burst model. Solar Phys. 110, 381.
+Meegan, C., Lichti, G., Bhat, P.N., Bissaldi, E., Briggs, M.S., Connaughton, V., Diehl, R., Fishman, G., Greiner, J., Hoover, A.S., van der Horst, A.J., von Kienlin, A., Kippen, R.M., Kouveliotou, C., McBreen, S., Paciesas, W.S., Preece, R., Steinle, H., Wallace, M.S., Wilson, R.B., Wilson-Hodge, C.: 2009, The Fermi gamma-ray burst monitor. Astrophys. J. 702, 791.
+Mészárosová, H., Rybák, J., Karlický, M.: 2011, Separation of drifting pulsating structures in a complex radio spectrum of the 2001 April 11 event. Astron. Astrophys. 525, A88.
+Mészárosová, H., Karlický, M., Rybák, J., Fárník, F., Jiřička, K.: 2006, Long period variations of dm-radio and X-ray fluxes in three X-class flares. Astron. Astrophys. 460, 865.
+Mészárosová, H., Karlický, M., Jelínek, P., Rybák, J.: 2014, Magnetoacoustic waves propagating along a dense slab and Harris current sheet and their wavelet spectra. Astrophys. J. 788, 44.
+Nakariakov, V.M., Melnikov, V.F.: 2009, Quasi-periodic pulsations in solar flares. Space Sci. Rev. 149, 119.
+Nakariakov, V.M., Pascoe, D.J., Arber, T.D.: 2005, Short quasi-periodic MHD waves in coronal structures. Space Sci. Rev. 121, 115.
+Nakariakov, V.M., Tsiklauri, D., Kelly, A., Arber, T.D., Aschwanden, M.J.: 2004, Acoustic oscillations in solar and stellar flaring loops. Astron. Astrophys. 414, L25.
+Nakariakov, V.M., Foullon, C., Verwichte, E., Young, N.P.: 2006, Quasi-periodic modulation of solar and stellar flaring emission by magnetohydrodynamic oscillations in a nearby loop. Astron. Astrophys. 452, 343.
+Nakariakov, V.M., Inglis, A.R., Zimovets, I.V., Foullon, C., Verwichte, E., Sych, R., Myagkova, I.N.: 2010, Oscillatory processes in solar flares. Plasma Phys. Control. Fusion 52(12), 124009.
+Nakariakov, V.M., Pilipenko, V., Heilig, B., Jelínek, P., Karlický, M., Klimushkin, D.Y., Kolotkov, D.Y., Lee, D.-H., Nisticò, G., Van Doorsselaere, T., Verth, G., Zimovets, I.V.: 2016, Magnetohydrodynamic oscillations in the solar corona and Earth’s magnetosphere: towards consolidated understanding. Space Sci. Rev. 200, 75.
+Nishizuka, N., Karlický, M., Janvier, M., Bárta, M.: 2015, Particle acceleration in plasmoid ejections derived from radio drifting pulsating structures. Astrophys. J. 799, 126.
+Nisticò, G., Pascoe, D.J., Nakariakov, V.M.: 2014, Observation of a high-quality quasi-periodic rapidly propagating wave train using SDO/AIA. Astron. Astrophys. 569, A12.
+Norman, C.A., Smith, R.A.: 1978, Kinetic processes in solar flares. Astron. Astrophys. 68, 145.
+Ofman, L., Wang, T.: 2002, Hot coronal loop oscillations observed by SUMER: Slow magnetosonic wave damping by thermal conduction. Astrophys. J. Lett. 580, L85.
+Ofman, L., Wang, T.J., Davila, J.M.: 2012, Slow magnetosonic waves and fast flows in active region loops. Astrophys. J. 754, 111.
+Ohyama, M., Shibata, K.: 1998, X-ray plasma ejection associated with an impulsive flare on 1992 October 5: Physical conditions of X-ray plasma ejection. Astrophys. J. 499, 934.
+Pascoe, D.J., De Moortel, I.: 2014, Standing kink modes in three-dimensional coronal loops. Astrophys. J. 784, 101.
+Pohjolainen, S., van Driel-Gesztelyi, L., Culhane, J.L., Manoharan, P.K., Elliott, H.A.: 2007, CME propagation characteristics from radio observations. Solar Phys. 244, 167.
+Roberts, B., Edwin, P.M., Benz, A.O.: 1984, On coronal oscillations. Astrophys. J. 279, 857.
+Selwa, M., Murawski, K., Solanki, S.K.: 2005, Excitation and damping of slow magnetosonic standing waves in a solar coronal loop. Astron. Astrophys. 436, 701.
+Tan, B.: 2008, Observable parameters of solar microwave pulsating structure and their implications for solar flare. Solar Phys. 253, 117.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Am. Meteorol. Soc. 79, 61.
+Treumann, R.A., Guedel, M., Benz, A.O.: 1990, Alfven wave solitons and solar intermediate drift bursts. Astron. Astrophys. 236, 242.
+Van Doorsselaere, T., Kupriyanova, E.G., Yuan, D.: 2016, Quasi-periodic pulsations in solar and stellar flares: An overview of recent results (invited review). Solar Phys. 291, 3143.
+Wang, T.J., Solanki, S.K., Innes, D.E., Curdt, W.: 2005, Initiation of hot coronal loop oscillations: Spectral features. Astron. Astrophys. 435, 753.
+Watanabe, K., Masuda, S., Segawa, T.: 2012, Hinode flare catalogue. Solar Phys. 279, 317.

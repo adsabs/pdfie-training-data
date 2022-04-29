@@ -1,0 +1,50 @@
+Bisschoff, D., Potgieter, M.S.: 2015, New local interstellar spectra for protons, Helium and Carbon derived from PAMELA and Voyager 1 observations. Astrophys. Space Sci. 361, 48.
+Burlaga, L.F., Ness, N.F., Acuna, M.H., Lepping, R.P., Connerney, J.E.P., Stone, E.C., McDonald, F.B.: 2005, Crossing the termination shock into the heliosheath: Magnetic fields. Science 309, 2027.
+Burlaga, L.F., Ness, N.F., Stone, E.C.: 2013, Magnetic field observations as Voyager 1 entered the heliosheath depletion region. Science 341, 147.
+Burlaga, L.F., Ness, N.F., Acuna, M.H., Lepping, R.P., Connerney, J.E.P., Richardson, J.D.: 2008, Magnetic fields at the solar wind termination shock. Nature 454, 75.
+Burlaga, L.F., Ness, N.F., Acuna, M.H., Richardson, J.D., Stone, E., McDonald, F.B.: 2009, Observation of the heliosheath and solar wind near the termination shock by Voyager 2. Astrophys. J. 692, 1125.
+Caballero-Lopez, R.A., Moraal, H.: 2004, Limitations of the force field equation to describe cosmic ray modulation. J. Geophys. Res. 109, A01101.
+Cummings, A.C., Stone, E.C., Heikkila, B.C., Lal, N., Webber, W.R., Johannesson, G., et al.: 2015, Voyager 1 observations of galactic cosmic rays in the local interstellar medium: Energy density and ionization rates. In: Proc. of 34th Int. Cosmic Ray Conf., Proceeding Science Server, The Hague, 318.
+Decker, R.B., Krimigis, S.M., Roelof, E.C., Hill, M.E., Armstrong, T.P., Gloeckler, G., et al.: 2005, Voyager 1 in the foreshock, termination shock, and heliosheath. Science 309, 2020.
+Decker, R.B., Krimigis, S.M., Roelof, E.C., Hill, M.E., Armstrong, T.P., Gloeckler, G., et al.: 2008, Mediation of the solar wind termination shock by non-thermal ions. Nature 454, 67.
+Dolginov, A.Z., Toptygin, I.N.: 1966, Ž. èksp. Teor. Fiz. 51, 1771.
+Dorman, L.I.: 2006, Cosmic Ray Interactions, Propagation, and Acceleration in Space Plasmas, Springer, Dordrecht.
+Dorman, L.I., Katz, M.E., Fedorov, Yu.I., Shakhov, B.A.: 1983, Variation of cosmic ray energy in interplanetary space. Astrophys. Space Sci. 94, 43.
+Fedorov, Yu.I.: 2014, Charged particle acceleration in the front of the shock wave bounding supersonic solar wind. Kinemat. Phys. Celest. Bodies 30, 109.
+Fedorov, Yu.I.: 2015, Modulation of galactic cosmic ray intensity in the turbulent heliosphere. Kinemat. Phys. Celest. Bodies 31, 105.
+Florinski, V., Pogorelov, N.V.: 2009, Four-dimensional transport of galactic cosmic rays in the outer heliosphere and heliosheath. Astrophys. J. 701, 642.
+Gleeson, L.J., Axford, W.I.: 1968, Solar modulation of galactic cosmic rays. Astrophys. J. 154, 1011.
+Gleeson, L.J., Urch, I.H.: 1973, A study a force-field equation for the propagation of galactic cosmic rays. Astrophys. Space Sci. 25, 387.
+Gleeson, L.J., Webb, G.M.: 1978, Energy changes of cosmic rays in the interplanetary region. Astrophys. Space Sci. 58, 21.
+Goldstein, M.L., Ramaty, R., Fisk, L.A.: 1970, Interstellar cosmic ray spectra from the non-thermal radio background from 0.4 to 400 MHz. Phys. Rev. Lett. 24, 1193.
+Guo, X., Florinski, V.: 2014, Galactic cosmic-ray modulation near the heliopause. Astrophys. J. 793, 18.
+Herbst, K., Heber, B., Kopp, A., Sternal, O., Steinhilber, F.: 2012, The local interstellar spectrum beyond the heliopause: What can we learn from Voyager in the inner heliosheath? Astrophys. J. 761, 17.
+Jokipii, J.R., Parker, E.N.: 1967, Energy changes of cosmic rays in the solar system. Planet. Space Sci. 15, 1375.
+Jokipii, J.R., Parker, E.N.: 1976, On the physical interpretation on the cosmic-ray transport equation. Astrophys. J. 208, 220.
+Kolesnik, Yu.L., Shakhov, B.A.: 2012, Effect of the heliosheath and standing termination shock on galactic cosmic ray propagation in a stationary heliosphere model. Kinemat. Phys. Celest. Bodies 28, 261.
+Kota, J., Jokipii, J.R.: 2014, Are cosmic rays modulated beyond the heliopause? Astrophys. J. 782, 24.
+Krimigis, S.M., Decker, R.B., Roelof, E.C., Hill, M.E., Armstrong, T.P., Gloeckler, G., et al.: 2013, Search for the exit: Voyager 1 at heliosphere’s border with the Galaxy. Science 341, 144.
+Langner, U.W., Potgieter, M.S., Fichtner, H., Borrmann, T.: 2006a, Effects of different solar wind speed profiles in the heliosheath on the modulation of cosmic-ray protons. Astrophys. J. 640, 1119.
+Langner, U.W., Potgieter, M.S., Fichtner, H., Borrmann, T.: 2006b, Modulation of anomalous protons: Effects of different solar wind speed profiles in the heliosheath. J. Geophys. Res. 111, A01106.
+Manuel, R., Ferreira, S.E.S., Potgieter, M.S.: 2014, Time-dependent modulation of cosmic rays in the heliosphere. Solar Phys. 289, 2207.
+Moraal, H.: 2013, Cosmic ray modulation equations. Space Sci. Rev. 176, 299.
+Parker, E.N.: 1965, The passage of energetic charged particles through interplanetary space. Planet. Space Sci. 13, 9.
+Perko, J.S.: 1987, Solar modulation of galactic antiprotons. Astron. Astrophys. 184, 119.
+Potgieter, M.S.: 2013, Solar modulation of cosmic rays. Living Rev. Solar Phys. 10, 3.
+Potgieter, M.S.: 2014, A very local interstellar spectrum for galactic electrons, protons and helium. Braz. J. Phys. 44, 581.
+Potgieter, M.S., Strauss, R.T.: 2013, At what rigidities does the solar modulation of galactic cosmic rays begin? In: Saa, A. (ed.) Proc. of 33rd Int. Cosmic Ray Conf., Springer Server, Rio de Janeiro, 0156.
+Ptuskin, V.S., Volk, H.J., Zirakashvili, V.N., Breitschwerdt, D.: 1997, Transport of relativistic nucleons in a galactic wind driven by cosmic rays. Astron. Astrophys. 321, 434.
+Richardson, J.D., Burlaga, L.F.: 2013, The solar wind in the outer heliosphere and heliosheath. Space Sci. Rev. 176, 217.
+Richardson, J.D., Stone, E.C.: 2009, The solar wind in the outer heliosphere. Space Sci. Rev. 143, 7.
+Richardson, J.D., Kasper, J.C., Wang, C., Belcher, J.W., Lazarus, A.J.: 2008, Cool heliosheath plasma and deceleration of the upstream solar wind at the termination shock. Nature 454, 63.
+Scherer, K., Fichtner, H., Strauss, R.D., Ferreira, S.E.S., Fahr, H.-J.: 2011, On cosmic ray modulation beyond the heliopause: Where is the modulation boundary? Astrophys. J. 735, 128.
+Schlickeiser, R.: 2002, Cosmic Ray Astrophysics, Springer, Berlin.
+Shakhov, B.A., Kolesnik, Yu.L.: 2006, Iterative method for solving boundaryvalue problems in the theory of cosmic ray propagation. Kinemat. Phys. Celest. Bodies 22, 61.
+Stone, E.C., Cummings, A.C., McDonald, F.B., Heikkila, B.C., Lal, N., Webber, W.R.: 2005, Voyager 1 explores the termination shock region and the heliosheath beyond. Science 309, 2017.
+Stone, E.C., Cummings, A.C., McDonald, F.B., Heikkila, B.C., Lal, N., Webber, W.R.: 2008, An asymmetric solar wind termination shock. Nature 454, 71.
+Stone, E.C., Cummings, A.C., McDonald, F.B., Heikkila, B.C., Lal, N., Webber, W.R.: 2013, Voyager 1 observes low-energy galactic cosmic rays in a region depleted of heliospheric ions. Science 341, 150.
+Strauss, R.D., Fichtner, H.: 2014, Cosmic ray anisotropies near the heliopause. Astron. Astrophys. Lett. 572, L3.
+Urch, I.H., Gleeson, L.J.: 1972, Galactic cosmic ray modulation from 1965 – 1970. Astrophys. Space Sci. 17, 426.
+Webber, W.R., McDonald, F.B.: 2013, Recent Voyager 1 data indicate that on 25 August 2012 at a distance of 121.7 AU from the Sun, sudden and unprecedented intensity changes were observed in anomalous and galactic cosmic rays. Geophys. Res. Lett. 40, 1665.
+Webber, W.R., Hiegbie, P.R., McDonald, F.B.: 2013, The unfolding of the spectra of low energy galactic cosmic ray H and He nuclei as the Voyager 1 spacecraft exits the region of heliospheric modulation.
+Zhang, M., Luo, X., Pogorelov, N.: 2015, Where is the cosmic-ray modulation boundary of the heliosphere? Phys. Plasmas 22, 091501.

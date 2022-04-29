@@ -1,0 +1,50 @@
+Akhmedov, S.B., Borovik, V.N., Gelfreikh, G.B., Bogod, V.M., Korzhavin, A.N., Petrov, Z.E., Dikij, V.N., Lang, K.R., Willson, R.F.: 1986, Astrophys. J. 301, 460.
+Alissandrakis, C.E., Kundu, M.R., Lantos, P.: 1980, Astron. Astrophys. 82, 30.
+Alissandrakis, C.E.: 1981, Astron. Astrophys. 100, 197.
+Alissandrakis, C.E., Kundu, M.R.: 1982, Astrophys. J. 253, L49.
+Alissandrakis, C.E., Kundu, M.R.: 1984, Astron. Astrophys. 139, 271.
+Alissandrakis, C.E., Gel’Frejkh, G.B., Borovik, V.N., Korzhavin, A.N., Bogod, V.M., Nindos, A., Kundu, M.R.: 1993, Astron. Astrophys. 270, 509.
+Alissandrakis, C.E., Kochanov, A.A., Patsourakos, S., Altyntsev, A.T., Lesovoi, S.V., Lesovoya, N.N.: 2013, Publ. Astron. Soc. Japan 65, S8.
+Avrett, E.H., Loeser, R.: 2008, Astrophys. J. Suppl. 175, 229.
+Avrett, E., Tian, H., Landi, E., Curdt, W., Wülser, J.-P.: 2015, Astrophys. J. 811, 87.
+Bakunina, I.A., Melnikov, V.F., Solov’ev, A.A., Abramov-Maximov, V.E.: 2015, Solar Phys. 290, 37.
+Bezrukov, D., Ryabov, B., Peterova, N., Topchilo, N.: 2011, Latv. J. Phys. Tech. Sci. 48, 56.
+Bogod, V.M.: 2011, Astrophys. Bull. 66, 190.
+Bogod, V.M., Alesin, A.M., Pervakov, A.A.: 2011, Astrophys. Bull. 66, 205.
+Bogod, V.M., Kaltman, T.I., Yasnov, L.V.: 2012, Astrophys. Bull. 67, 425.
+Bogod, V.M., Peterova, N.G., Ryabov, B.I., Topchilo, N.A.: 2015, Cosm. Res. 53, 10.
+Chiuderi Drago, F., Alissandrakis, C., Hagyard, M.: 1987, Solar Phys. 112, 89.
+Chiuderi Drago, F., Melozzi, M.: 1984, Astron. Astrophys. 131, 103.
+Gelfreikh, G.B., Lubyshev, B.I.: 1979, Astron. Zh. 56, 562.
+Gelfreikh, G.B.: 1990 In: Basic Plasma Processes on the Sun, IAU Symp. 142, Kluwer Academic, Dordrecht, 483.
+Hannah, I.G., Kontar, E.P.: 2012, Astron. Astrophys. 539, A146.
+Harper, G.M.: 1992, Mon. Not. Roy. Astron. Soc. Lett. 256, 37.
+Kakinuma, T., Swarup, G.: 1962, Astrophys. J. 136, 975.
+Kaltman, T.I., Bogod, V.M., Stupishin, A.G., Yasnov, L.V.: 2012, Astron. Rep. 56, 790.
+Kaltman, T.I., Bogod, V.M., Stupishin, A.G., Yasnov, L.V.: 2013, Geomagn. Aeron. 53, 1030.
+Kaltman, T.I., Kochanov, A.A., Myshyakov, I.I., Maksimov, V.P., Prosovetsky, D.V., Tokhchukova, S.K.: 2015, Geomagn. Aeron. 55, 1124.
+Korzhavin, A.N., Opeikina, L.V., Peterova, N.G.: 2010, Astrophys. Bull. 65, 60.
+Krüger, A., Hildebrandt, J., Fürstenberg, F.: 1985, Astron. Astrophys. 143, 72.
+Kundu, M.R., Alissandrakis, C.E., Bregman, J.D., Hin, A.C.: 1977, Astrophys. J. 213, 278.
+Landi, E., Chiuderi Drago, F.: 2008, Astrophys. J. 675, 1629.
+Lang, K.R., Willson, R.F., Kile, J.N., Lemen, J., Strong, K.T., Bogod, V.L., Gelfreikh, G.B., Ryabov, B.I., Hafizov, S.R., Abramov, V.E., Svetkov, S.V.: 1993, Astrophys. J. 419, 398.
+Levine, R.H., Withbroe, G.L.: 1977, Solar Phys. 51, 83.
+Nindos, A., Alissandrakis, C.E., Gelfreikh, G.B., Kundu, M.R., Dere, K.P., Korzhavin, A.N., Bogod, V.M.: 1996, Solar Phys. 166, 55.
+Nindos, A., Kundu, M.R., White, S.M., Shibasaki, K., Gopalswamy, N.: 2000, Astrophys. J. Suppl. 130, 485.
+Nita, G.M., Viall, N.M., Klimchuk, J.A., Loukitcheva, M.A., Gary, D.E., Kuznetsov, A.A., Fleishman, G.D.: 2018, Astrophys. J. 853, 66.
+Plowman, J., Kankelborg, C., Martens, P.: 2013, Astrophys. J. 771, 2.
+Rosner, R., Tucker, W.H., Vaiana, G.S.: 1978, Astrophys. J. 220, 643.
+Ryabov, B.I., Gary, D.E., Peterova, N.G., Shibasaki, K., Topchilo, N.A.: 2015, Solar Phys. 290, 21.
+Selhorst, C.L., Silva-Válio, A., Costa, J.E.R.: 2008, Astron. Astrophys. 488, 1079.
+Strong, K.T., Alissandrakis, C.E., Kundu, M.R.: 1984, Astrophys. J. 277, 865.
+Stupishin, A.G., Kaltman, T.I., Bogod, V.M., Yasnov, L.V.: 2018, Solar Phys. 293, 13.
+Syntelis, P., Gontikakis, C., Patsourakos, S., Tsinganos, K.: 2016, Astron. Astrophys. 588, A16.
+Tian, H., Curdt, W., Teriaca, L., Landi, E., Marsch, E.: 2009, Astron. Astrophys. 505, 307.
+Topchilo, N.A., Peterova, N.G., Borisevich, T.P.: 2010, Astron. Rep. 54, 69.
+Tun, S.D., Gary, D.E., Georgoulis, M.K.: 2011, Astrophys. J. 728, 1.
+Uralov, A.M., Rudenko, G.V., Rudenko, I.G.: 2006, Publ. Astron. Soc. Japan 58, 21.
+Uralov, A.M., Grechnev, V.V., Rudenko, G.V., Rudenko, I.G., Nakajima, H.: 2008, Solar Phys. 249, 315.
+Wang, Z., Gary, D.E., Fleishman, G.D., White, S.M.: 2015, Astrophys. J. 805, 93.
+Withbroe, G.L.: 1975, Solar Phys. 45, 301.
+Withbroe, G.L., Noyes, R.W.: 1977, Annu. Rev. Astron. Astrophys. 15, 363.
+Zheleznyakov, V.V.: 1962, Soviet Astron. 6, 3.

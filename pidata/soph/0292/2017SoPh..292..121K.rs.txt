@@ -1,0 +1,38 @@
+Abramenko, V.I.: 2013, Proc. IAU Symp. 294, 289.
+Abramenko, V., Yurchyshyn, V., Wang, H.: 2008, Astrophys. J. 681, 1669.
+Abramenko, V., Yurchyshyn, V., Goode, P., Kilcik, A.: 2010, Astrophys. J. 725, L101.
+Benkhalil, A., Zharkova, V.V., Zharkov, S., Ipson, S.: 2006, Solar Phys. 235, 87.
+Boberg, F., Lundstedt, H., Hoeksema, J.T., Scherrer, P.H., Liu, W.: 2002, J. Geophys. Res. A 107, 1318.
+Bremer, J.: 1996, Ann. Geophys. 39, 713.
+Demidov, M.L.: 1995, Solar Phys. 159, 23.
+Demidov, M.: 2011, Physics of Sun and Star Spots 273, 56.
+Frisch, U.: 1995, Turbulence, The Legacy of A.N. Kolmogorov/U. Frisch, Cambridge University Press, Cambridge, 296 p.
+García, R.A., Boumier, P., Charra, J., Foglizzo, T., Gabriel, A.H., Grec, G., Régulo, C., Robillot, J.M., Turck-Chièze, S., Ulrich, R.K.: 1999, Astron. Astrophys. 346, 626.
+Hagenaar, H.J.: 2001, Astrophys. J. 555, 448.
+Hagenaar, H.J., Schrijver, C.J., Title, A.M.: 2003, Astrophys. J. 584, 1107.
+Haneychuk, V.I., Kotov, V.A., Tsap, T.T.: 2003, Astron. Astrophys. 403, 1115.
+Ishikawa, R., Tsuneta, S.: 2010, Astrophys. J. 718, L171.
+Ishikawa, R., Tsuneta, S.: 2011, Astrophys. J. 735, 74.
+Karak, B.B., Brandenburg, A.: 2016, Astrophys. J. 816, 28.
+Kotov, V.A., Stepanian, N.N., Shcherbakova, Z.A.: 1977, Izv. Ordena Tr. Krasn. Znam. Krym. Astrofiz. Obs. 56, 75 (in Russian).
+Kutsenko, A.S., Abramenko, V.I.: 2016, Solar Phys. 291, 1613.
+Lawrence, J.K., Ruzmaikin, A.A., Cadavid, A.C.: 1993, Astrophys. J. 417, 805.
+Lites, B.W., Kubo, M., Socas-Navarro, H., Berger, T., Frank, Z., Shine, R., Tarbell, T., Title, A., Ichimoto, K., Katsukawa, Y., Tsuneta, S., Suematsu, Y., Shimizu, T., Nagata, S.: 2008, Astrophys. J. 672, 1237.
+Liu, Y., Hoeksema, J.T., Scherrer, P.H., Schou, J., Couvidat, S., Bush, R.I., Duvall, T.L., Hayashi, K., Sun, X., Zhao, X.: 2012, Solar Phys. 279, 295.
+Livingston, W., Donnelly, R.F., Grigoryev, V., et al.: 1991, In: Cox, A.N., Livingston, W.C., Matthews, M.S. (eds.) Solar Interior and Atmosphere, The University of Arizona Press, Tucson.
+McAteer, R.T.J., Aschwanden, M.J., Dimitropoulou, M., Georgoulis, M.K., Pruessner, G., Morales, L., Ireland, J., Abramenko, V.: 2016, Space Sci. Rev. 198, 217.
+Milovanov, A.V., Zelenyi, L.M., Zimbardo, G., Veltri, P.: 2001, J. Geophys. Res. 106, 6291.
+Muñoz-Jaramillo, A., Senkpeil, R.R., Windmueller, J.C., Amouzou, E.C., Longcope, D.W., Tlatov, A.G., Nagovitsyn, Y.A., Pevtsov, A.A., Chapman, G.A., Cookson, A.M., Yeates, A.R., Watson, F.T., Balmaceda, L.A., DeLuca, E.E., Martens, P.C.H.: 2015, Astrophys. J. 800, 48.
+Pustil’nik, L.A.: 1999, Astron. Astrophys. Trans. 18, 227.
+Schatten, K.H.: 2007, Astrophys. J. Suppl. 169, 137.
+Scherrer, P.H., Wilcox, J.M., Kotov, V., Severnyi, A.B., Howard, R.: 1977, Solar Phys. 52, 3.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, Solar Phys. 275, 207.
+Schou, J., Scherrer, P.H., Bush, R.I., Wachter, R., Couvidat, S., Rabello-Soares, M.C., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Akin, D.J., Allard, B.A., Miles, J.W., Rairden, R., Shine, R.A., Tarbell, T.D., Title, A.M., Wolfson, C.J., Elmore, D.F., Norton, A.A., Tomczyk, S.: 2012, Solar Phys. 275, 229.
+Severny, A.B.: 1971, Q. J. Roy. Astron. Soc. 12, 363.
+Severny, A., Wilcox, J.M., Scherrer, P.H., Colburn, D.S.: 1970, Solar Phys. 15, 3.
+Sheeley, N.R. Jr., DeVore, C.R.: 1986, Solar Phys. 103, 203.
+Sheeley, N.R. Jr., DeVore, C.R., Boris, J.P.: 1985, Solar Phys. 98, 219.
+Sheeley, N.R. Jr., Wang, Y.-M.: 2015, Astrophys. J. 809, 113.
+van Driel-Gesztelyi, L., Green, L.M.: 2015, Living Rev. Solar Phys. 12, 1.
+Wentzel, D.G., Seiden, P.E.: 1992, Astrophys. J. 390, 280.
+Xiang, N.B., Qu, Z.N.: 2016, Astron. J. 151, 76.

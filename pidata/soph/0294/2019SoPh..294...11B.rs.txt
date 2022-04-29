@@ -1,0 +1,62 @@
+Alfvén, H., Lindblad, B.: 1947, Granulation, magneto-hydrodynamic waves, and the heating of the solar corona. Mon. Not. Roy. Astron. Soc. 107, 211.
+Andrae, R., Schulze-Hartung, T., Melchior, P.: 2010, Dos and don’ts of reduced chi-squared.
+Anfinogentov, S.A., Nakariakov, V.M., Nisticò, G.: 2015, Decayless low-amplitude kink oscillations: a common phenomenon in the solar corona? Astron. Astrophys. 583, A136.
+Arregui, I.: 2015, Wave heating of the solar atmosphere. Phil. Trans. Roy. Soc., Math. Phys. Eng. Sci. 373, 20140261.
+Auchère, F., Froment, C., Bocchialini, K., Buchlin, E., Solomon, J.: 2016a, On the Fourier and wavelet analysis of coronal time series. Astrophys. J. 825, 110.
+Auchère, F., Froment, C., Bocchialini, K., Buchlin, E., Solomon, J.: 2016b, Thermal non-equilibrium revealed by periodic pulses of random amplitudes in solar coronal loops. Astrophys. J. 827, 152.
+Battams, K., Gallagher, B.M., Weigel, R.S.: 2019, Investigating dominant chromospheric oscillations via power spectra. Solar Phys.
+Bogdan, T.J.: 2000, Sunspot oscillations: A review – (invited review). Solar Phys. 192, 373.
+Bogdan, T.J., Judge, P.G.: 2006, Observational aspects of sunspot oscillations. Phil. Trans. Roy. Soc., Math. Phys. Eng. Sci. 364(1839), 313.
+Botha, G.J.J., Arber, T.D., Nakariakov, V.M., Zhugzhda, Y.D.: 2011, Chromospheric resonances above sunspot umbrae. Astrophys. J. 728, 84.
+Carlsson, M., Stein, R.S.: 1999, Wave modes in a chromospheric cavity. In: Schmieder, B., Hofmann, A., Staude, J. (eds.) Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations, CS-184, 206. Astron. Soc. Pacific, San Francisco.
+DeMoortel, I.: 2009, Longitudinal waves in coronal loops. Space Sci. Rev. 149, 65.
+Dmitruk, P., Gómez, D.O.: 1997, Turbulent coronal heating and the distribution of nanoflares. Astrophys. J. Lett. 484, L83.
+Dmitruk, P., Gómez, D.O., Matthaeus, W.H.: 2003, Energy spectrum of turbulent fluctuations in boundary driven reduced magnetohydrodynamics. Phys. Plasmas 10, 3584.
+Einaudi, G., Velli, M., Politano, H., Pouquet, A.: 1996, Energy release in a turbulent corona. Astrophys. J. Lett. 457, L113.
+Handy, B.N., Acton, L.W., Kankelborg, C.C., Wolfson, C.J., Akin, D.J., Bruner, M.E., Caravalho, R., Catura, R.C., Chevalier, R., Duncan, D.W., Edwards, C.G., Feinstein, C.N., Freeland, S.L., Friedlaender, F.M., Hoffmann, C.H., Hurlburt, N.E., Jurcevich, B.K., Katz, N.L., Kelly, G.A., Lemen, J.R., Levay, M., Lindgren, R.W., Mathur, D.P., Meyer, S.B., Morrison, S.J., Morrison, M.D., Nightingale, R.W., Pope, T.P., Rehse, R.A., Schrijver, C.J., Shine, R.A., Shing, L., Strong, K.T., Tarbell, T.D., Title, A.M., Torgerson, D.D., Golub, L., Bookbinder, J.A., Caldwell, D., Cheimets, P.N., Davis, W.N., Deluca, E.E., McMullen, R.A., Warren, H.P., Amato, D., Fisher, R., Maldonado, H., Parkinson, C.: 1999, Solar Phys. 187, 229.
+Hanson, C.S., Donea, A.C., Leka, K.D.: 2015, Enhanced acoustic emission in relation to the acoustic halo surrounding active region 11429. Solar Phys. 290(8), 2171.
+Harvey, K., Harvey, J.: 1973, Observations of moving magnetic features near sunspots. Solar Phys. 28, 61.
+Heyvaerts, J., Priest, E.R.: 1992, A self-consistent turbulent model for solar coronal heating. Astrophys. J. 390, 297.
+Hill, F., Martens, P., Yoshimura, K., Gurman, J., Hourclé, J., Dimitoglou, G., Suárez-Solá, I., Wampler, S., Reardon, K., Davey, A., Bogart, R.S., Tian, K.Q.: 2009, The Virtual Solar Observatory – A resource for international heliophysics research. Earth Moon Planets 104, 315.
+Howe, R., Jain, K., Bogart, R.S., Haber, D.A., Baldner, C.S.: 2012, Two-dimensional helioseismic power, phase, and coherence spectra of solar dynamics observatory photospheric and chromospheric observables. Solar Phys. 281, 533.
+Inglis, A.R., Ireland, J., Dominique, M.: 2015, Quasi-periodic pulsations in solar and stellar flares: Re-evaluating their nature in the context of power-law flare Fourier spectra. Astrophys. J. 798, 108.
+Ireland, J., McAteer, R.T.J., Inglis, A.R.: 2015, Coronal Fourier power spectra: Implications for coronal seismology and coronal heating. Astrophys. J. 798, 1.
+Jess, D.B., DeMoortel, I., Mathioudakis, M., Christian, D.J., Reardon, K.P., Keys, P.H., Keenan, F.P.: 2012, The source of 3 minute magnetoacoustic oscillations in coronal fans. Astrophys. J. 757, 160.
+Khomenko, E., Collados, M.: 2015, Oscillations and waves in sunspots. Living Rev. Solar Phys. 12, 6.
+Kitiashvili, I.N., Kosovichev, A.G., Mansour, N.N., Wray, A.A.: 2015, Realistic modeling of local dynamo processes on the Sun. Astrophys. J. 809, 84.
+Leighton, R.B., Noyes, R.W., Simon, G.W.: 1962, Velocity fields in the solar atmosphere. I. Preliminary report. Astrophys. J. 135, 474.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2011, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Lindsey, C., Braun, D.C.: 1998, The acoustic moat and thermal transport in the neighborhoods of sunspots. Astrophys. J. 499, L99.
+Matsumoto, T.: 2016, Competition between shock and turbulent heating in coronal loop system. Mon. Not. Roy. Astron. Soc. 463, 502.
+McIntosh, S.W., de Pontieu, B., Tomczyk, S.: 2008, A coherence-based approach for tracking waves in the solar corona. Solar Phys. 252, 321.
+McIntosh, S.W., Smillie, D.G.: 2004, Characteristic scales of chromospheric oscillation wave packets. Astrophys. J. 604, 924.
+Muglach, K.: 2003, Dynamics of solar active regions. Astron. Astrophys. 401, 685.
+Müller, W.-C., Grappin, R.: 2005, Spectral energy dynamics in magnetohydrodynamic turbulence. Phys. Rev. Lett. 95, 114502.
+Mumford, S.J., Christe, S., Pérez-Suárez, D., Ireland, J., Shih, A.Y., Inglis, A.R., Liedtke, S., Hewett, R.J., Mayer, F., Hughitt, K., Freij, N., Meszaros, T., Bennett, S.M., Malocha, M., Evans, J., Agrawal, A., Leonard, A.J., Robitaille, T.P., Mampaey, B., Campos-Rozo, J.I., Kirk, M.S. (SunPy Community): 2015, SunPy – Python for solar physics. Comput. Sci. Discov. 8(1), 014009.
+Nakariakov, V.M., Anfinogentov, S.A., Nisticò, G., Lee, D.-H.: 2016, Undamped transverse oscillations of coronal loops as a self-oscillatory process. Astron. Astrophys. 591, L5.
+Nisticò, G., Nakariakov, V.M., Verwichte, E.: 2013, Decaying and decayless transverse oscillations of a coronal loop. Astron. Astrophys. 552, A57.
+Parnell, C.E., DeMoortel, I.: 2012, A contemporary view of coronal heating. Phil. Trans. Roy. Soc., Math. Phys. Eng. Sci. 370, 3217.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Rappazzo, A.F., Velli, M., Einaudi, G.: 2010, Shear photospheric forcing and the origin of turbulence in coronal loops. Astrophys. J. 722, 65.
+Rappazzo, A.F., Velli, M., Einaudi, G., Dahlburg, R.B.: 2007, Coronal heating, weak MHD turbulence, and scaling laws. Astrophys. J. Lett. 657, L47.
+Rappazzo, A.F., Velli, M., Einaudi, G., Dahlburg, R.B.: 2008, Nonlinear dynamics of the Parker scenario for coronal heating. Astrophys. J. 677, 1348.
+Reardon, K.P., Lepreti, F., Carbone, V., Vecchio, A.: 2008, Evidence of shock-driven turbulence in the solar chromosphere. Astrophys. J. Lett. 683, L207.
+Reznikova, V.E., Shibasaki, K.: 2012, Spatial structure of sunspot oscillations observed with SDO/AIA. Astrophys. J. 756, 35.
+Reznikova, V.E., Shibasaki, K., Sych, R.A., Nakariakov, V.M.: 2012, Three-minute oscillations above sunspot umbra observed with the Solar Dynamics Observatory/Atmospheric Imaging Assembly and Nobeyama Radioheliograph. Astrophys. J. 746, 119.
+Roberts, B.: 2006, Slow magnetohydrodynamic waves in the solar atmosphere. Phil. Trans. Roy. Soc., Math. Phys. Eng. Sci. 364(1839), 447.
+Ryutova, M., Shine, R., Title, A., Sakai, J.I.: 1998, A possible mechanism for the origin of emerging flux in the sunspot moat. Astrophys. J. 492, 402.
+Sheeley, N.R. Jr., Stauffer, J.R., Thomassie, J.C., Warren, H.P.: 2017, Tracking the magnetic flux in and around sunspots. Astrophys. J. 836, 144.
+Sheeley, N.R., Warren, H.P.: 2012, Coronal cells. Astrophys. J. 749, 40.
+Taroyan, Y., Erdélyi, R.: 2008, Global acoustic resonance in a stratified solar atmosphere. Solar Phys. 251, 523.
+Taroyan, Y., Erdélyi, R., Bradshaw, S.J.: 2011, Observational signatures of impulsively heated coronal loops: Power-law distribution of energies. Solar Phys. 269, 295.
+Threlfall, J., DeMoortel, I., Conlon, T.: 2017, Above the noise: The search for periodicities in the inner heliosphere. Solar Phys. 292, 165.
+Tziotziou, K., Tsiropoula, G., Mein, N., Mein, P.: 2007, Dual-line spectral and phase analysis of sunspot oscillations. Astron. Astrophys. 463, 1153.
+van Ballegooijen, A.A.: 1986, Cascade of magnetic energy as a mechanism of coronal heating. Astrophys. J. 311, 1001.
+Vecchio, A., Cauzzi, G., Reardon, K.P., Janssen, K., Rimmele, T.: 2006, Solar atmospheric oscillations and the chromospheric magnetic topology. Astron. Astrophys. 461, L1.
+Verdini, A., Velli, M., Buchlin, E.: 2009, Turbulence in the sub-Alfvénic solar wind driven by reflection of low-frequency Alfvén waves. Astrophys. J. Lett. 700, L39.
+Vrabec, D.: 1971, Magnetic fields spectroheliograms from the San Fernando Observatory. In: Howard, R. (ed.) Solar Magnetic Fields, IAU Symposium 43, Springer, Dordrecht, 329.
+Wilson, P.R.: 1973, The cooling of a sunspot. III: Recent observations. Solar Phys. 32, 435.
+Yuan, D., Sych, R., Reznikova, V.E., Nakariakov, V.M.: 2014, Multi-height observations of magnetoacoustic cut-off frequency in a sunspot atmosphere. Astron. Astrophys. 561, A19.
+Zhao, J., Kosovichev, A.G.: 2006, Surface magnetism effects in time–distance helioseismology. Astrophys. J. 643, 1317.
+Zhou, Y., Matthaeus, W., Dmitruk, P.: 2004, Colloquium: Magnetohydrodynamic turbulence and time scales in astrophysical and space plasmas. Rev. Mod. Phys. 76, 1015.
+Zhugzhda, Y.D.: 2008, Seismology of a sunspot atmosphere. Solar Phys. 251, 501.

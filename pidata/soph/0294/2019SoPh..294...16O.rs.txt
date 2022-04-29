@@ -1,0 +1,54 @@
+Ahluwalia, H.S., Ygbuhay, R.C., Duldig, M.L.: 2009, Two intense Forbush decreases of solar activity cycle 22. Adv. Space Res. 44, 58.
+Ananth, A.G., Venkatesan, D.: 1993, Effect of interplanetary shocks and magnetic clouds on onset cosmic-ray decreases. Solar Phys. 143, 373.
+Badruddin, Venkatesan, D., Zhu, B.Y.: 1991, Study and effect of magnetic clouds on the transient modulation of cosmic-ray intensity. Solar Phys. 134, 203.
+Barouch, E., Burlaga, L.F.: 1975, Causes of Forbush decreases and other cosmic ray variations. J. Geophys. Res. 80, 449.
+Belov, A.V.: 2008, Forbush effects and their connection with solar, interplanetary and geomagnetic phenomena. In: Proceedings IAU Symposium 257.
+Bhaskar, B., Subramanian, P., Vichare, G.: 2016, Relative contribution of the magnetic field barrier and solar wind speed in ICME-associated Forbush decreases. Astrophys. J. 828, 104.
+Bieber, J.W., Chen, J.: 1991, Cosmic-ray diurnal anisotropy, 1936 – 1988: implications for drift and modulation theories. Astrophys. J. 372, 301.
+Cane, H.V.: 2000, Coronal mass ejections and Forbush decreases. Space Sci. Rev. 93, 55.
+Cane, H.V., Richardson, I.G., von Rosenvinge, T.T.: 1996, Cosmic ray decreases: 1964 – 1994. J. Geophys. Res. 101(A10), 21561.
+Chree, C.: 1912, Some phenomena of sunspots and of terrestrial magnetism, at Kew Observatory. Philos. Trans. Roy. Soc. London, Ser. A, Contain. Pap. Math. Phys. Character 212, 484.
+Chree, C.: 1914, Some phenomena of sunspots and of terrestrial magnetism II. Philos. Trans. Roy. Soc. London, Ser. A, Contain. Pap. Math. Phys. Character 213, 245.
+Chronis, T.G.: 2009, Investigating possible links between incoming cosmic rays fluxes and lightning activity over the United States. J. Climate 22, 5748.
+Dragic, A., Anicin, I., Banjanac, R., Udovicic, V., Jokovic, D., Maletic, D., Puzovic, J.: 2011, Forbush decreases – clouds relation in the neutron monitor era. Astrophys. Space Sci. Trans. 7, 315.
+Fenton, A.G., McCracken, K.G., Rose, D.C., Wilson, B.G.: 1959, The onset times of cosmic ray intensity decreases. Can. J. Phys. 37, 970.
+Forbush, S.E.: 1938, On world-wide changes in cosmic-ray intensity. Phys. Rev. 54(12), 975.
+Forbush, S.E., Pomerantz, M.A., Duggal, S.P., Tsao, C.H.: 1983, Statistical considerations in the analysis of solar oscillation data by the superposed epoch method. Solar Phys. 82, 113.
+Haurwitz, M.W., Brier, G.W.: 1981, A critique of the superposed epoch analysis method: its application to solar–weather relations. Mon. Weather Rev. 109, 2074.
+Hofer, M.Y., Fluckiger, E.O.: 2000, Cosmic ray spectral variations and anisotropy near Earth during the March 24, 1991, Forbush decrease. J. Geophys. Res. 105, 23,085.
+Jenkins, R.W., Lockwood, J.A., Ifedili, S.O., Chupp, E.L.: 1970, Latitude and altitude dependence of the cosmic ray albedo neutron flux. J. Geophys. Res. 75(22), 4197.
+Kane, R.P.: 2010, Severe geomagnetic storms and Forbush decreases: interplanetary relationships re-examined. Ann. Geophys. 28, 479.
+Kristjansson, J.E., Stjern, C.W., Stordal, F., Fjaraa, A.M., Myrhre, G., Jonasson, K.: 2008, Cosmic rays, cloud condensation nuclei and clouds – a reassessment using MODIS data. Atmos. Chem. Phys. Discuss. 8, 13265.
+Lagouvardos, K., Kotroni, V., Betz, H., Schmidt, K.: 2009, A comparison of lightning data provided by ZEUS and LINET networks over Western Europe. Nat. Hazards Earth Syst. Sci. 9, 1713.
+Laken, B.A., Kniveton, D.R.: 2011, Forbush decreases and Antarctic cloud anomalies in the upper troposphere. J. Atmos. Solar-Terr. Phys. 73, 371.
+Laken, B., Kniveton, D., Wolfendale, A.: 2011, Forbush decreases, solar irradiance variations, and anomalous cloud changes. J. Geophys. Res. 116.
+Lemaitre, G., Vallarta, M.S.: 1933, On Compton’s latitude effect of cosmic radiation. Phys. Rev. 43(2), 87.
+Lingri, D., Mavromichalaki, H., Belov, A., Eroshenko, E., Yanke, V., Abunin, A., Abunina, M.: 2016, Solar activity parameters and associated Forbush decreases during the minimum between Cycles 23 and 24 and the ascending phase of Cycle 24. Solar Phys., 291(3), 1025.
+Lockwood, J.A.: 1971, Forbush decreases in the cosmic radiation. Space Sci. Rev. 12, 658.
+Lockwood, J.A., Razdan, H.: 1963, Asymmetries in the Forbush decreases of the cosmic radiation 1. Differences in onset times. J. Geophys. Res. 68(6), 1581.
+Lockwood, J.A., Webber, W.R.: 1969, Cosmic-ray intensity variations on January 26 – 27, 1968. J. Geophys. Res. 74, 5599.
+Marcz, F.: 1997, Short-term changes in atmospheric electricity associated with Forbush decreases. J. Atmos. Solar-Terr. Phys. 59(9), 957.
+Oh, S.Y., Yi, Y.: 2009, Statistical reality of globally nonsimultaneous Forbush decrease events. J. Geophys. Res. 114, A11102.
+Oh, S.Y., Yi, Y., Kim, H.Y.: 2008, Globally simultaneous Forbush decrease events and their implications. J. Geophys. Res. 113, A01103.
+Okike, O., Collier, A.B.: 2011a, A multivariate study of Forbush decrease simultaneity. J. Atmos. Solar-Terr. Phys. 73, 796.
+Okike, O., Collier, A.B.: 2011b, Testing the cosmic ray-lightning connection hypothesis. In: General Assembly and Scientific Symposium, 2011 XXXth URSI IEEE, 1.
+Pankaj, K.S., Shukla, R.P.: 1994, High-speed solar wind stream of two different origins and cosmic-ray variations during 1980 – 1986. Solar Phys. 154, 177.
+Pankaj, K.S., Singh, N.S.: 2005, Latitude and distribution of solar flares and their association with coronal mass ejection. Chin. J. Astron. Astrophys. 5(2), 198.
+Parker, E.N.: 1964, Theory of streaming of cosmic rays and the diurnal variation. Planet. Space Sci. 12(8), 735.
+Prager, M.H., Hoenig, J.M.: 1989, Superposed epoch analysis: a randomization test of environmental effects on recruitment with application to chub mackerel. Trans. Am. Fish. Soc. 118, 608.
+R Core Team: 2014, R: A language and environment for statistical computing. R Foundation for Statistical Computing.
+Ramirez, O.O.U., Galicia, J.F.V., Munoz, G., Huttunen, E.: 2013, A catalog of Forbush decreases of the cosmic radiation for the period 1997 – 2007. In: 33rd International Cosmic Ray Conference, Rio de Janeiro.
+Rao, U.R.: 1972, Solar modulation of galactic cosmic radiation. Space Sci. Rev. 12, 719.
+Shea, M.A., Smart, D.F., McCracken, K.G.: 1965, A study of vertical cutoff rigidities using sixth degree simulations of the geomagnetic field. J. Geophys. Res. 70(17), 4117.
+Shea, M.A., Smart, D.F., Swinson, D.B., Wilson, M.D.: 1993, High energy cosmic ray modulation in March – June 1991. In: Proceedings of 23rd ICRC, Calgary 3, 735.
+Singh, Y.P., Badruddin: 2006, Statistical considerations in superposed epoch analysis and its applications in space research. J. Atmos. Solar-Terr. Phys. 68(7), 803.
+Smart, D.F., Shea, M.A., Fluckiger, E.O.: 2000, Magnetospheric models and trajectories computations. Space Sci. Rev. 93, 305.
+Storey, J.R.: 1959, Latitude dependence of a Forbush-type cosmic-ray intensity decrease observed at aircraft altitude. Phys. Rev. 113(1), 302.
+Svensmark, H., Bondo, T., Svensmark, J.: 2009, Cosmic ray decreases affect atmospheric aerosols and clouds. Geophys. Res. Lett. 36, L15101.
+Svensmark, J., Enghoff, M.B., Svensmark, H.: 2012,. Atmos. Chem. Phys. Discuss. 12, 3595.
+Tezari, A., Mavromichalaki, H.: 2016, Diurnal anisotropy of cosmic rays during intensive solar activity for the period 2001 – 2014. New Astron. 46, 78.
+Tezari, A., Mavromichalaki, H., Katsinis, D., Kanellakopoulos, A., Kolovi, S., Plainaki, C., Andriopoulou, M.: 2016, Latitudinal and longitudinal dependence of the cosmic ray diurnal anisotropy during 2001 – 2014. Ann. Geophys. 34, 1053.
+Todd, M.C., Kniveton, D.R.: 2001, Changes in cloud cover associated with Forbush decreases of galactic cosmic rays. J. Geophys. Res. 106, 32031.
+Tsyganenko, N.A., Stern, D.P.: 1996, Modeling the global magnetic field of the large-scale Birkeland current systems. J. Geophys. Res. 101, 27187.
+Van Allen, J.A.: 1993, Recovery of interplanetary cosmic ray intensity following the great Forbush decrease of Mid-1991. Geophys. Res. Lett. 20(24), 2798.
+Venkatesan, D., Badruddin, Ananth, A.G., Pillai, S.: 1992, Significance of the turbulent sheath following the interplanetary shocks in producing Forbush decreases. Solar Phys. 137, 345.

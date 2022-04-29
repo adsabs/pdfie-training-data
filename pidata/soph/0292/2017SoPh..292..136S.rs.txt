@@ -1,0 +1,54 @@
+Cane, H.V.: 1984, Astron. Astrophys. 140, 205.
+Cane, H.V., Erickson, W.C.: 2005, Astrophys. J. 623, 1180.
+Cane, H.V., Reames, D.V.: 1988, Astrophys. J. 325, 901.
+Cho, K.S., Moon, Y.J., Dryer, M., Shanmugaraju, A., Fry, C.D., Kim, Y.H., Bong, S.C., Park, Y.D.: 2005, J. Geophys. Res. 110, A12101.
+Cho, K.S., Lee, J., Moon, Y.J., Dryer, M., Bong, S.C., Kim, Y.H., Park, Y.D.: 2007, Astron. Astrophys. 461, 1121.
+Cho, K.S., Bong, S.C., Kim, Y.H., Moon, Y.J., Dryer, M., Shanmugaraju, A., Lee, J., Park, D.: 2008, Astron. Astrophys. 491, 873.
+Cho, K.S., Bong, S.C., Moon, Y.J., Shanmugaraju, A., Kwon, R.Y., Park, Y.D.: 2011, Astron. Astrophys. 530, A16.
+Cho, K.S., Gopalswamy, N., Kwon, R.Y., Kim, R.S., Yashiro, S.: 2013, Astrophys. J. 765, 148.
+Cliver, E.W., Webb, D.F., Howard, R.A.: 1999, Solar Phys. 187, 89.
+Cliver, E.W., Nitta, N.V., Thompson, B.J., Zhang, J.: 2004, Solar Phys. 225, 105.
+Evans, R.M., Opher, M., Manchester, W.B. IV, Gombosi, T.I.: 2008, Astrophys. J. 687, 1355.
+Gopalswamy, N.: 2000, Type II Solar Radio Bursts, AGU Geophys. 119, 23.
+Gopalswamy, N., Thompson, B.J.: 2000, J. Atmos. Solar-Terr. Phys. 62, 1457.
+Gopalswamy, N., Kaiser, M.L., Lepping, R.P., Kahler, S.W., Ogilvie, K., Berdichevksy, D., Kondo, T., Isobe, T., Akioka, M.: 1998, J. Geophys. 103, 307.
+Gopalswamy, N., Lara, A., Kaiser, M.L., Bougeret, J.L.: 2001a, J. Geophys. Res. 106, 25261.
+Gopalswamy, N., Yashiro, S., Kaiser, M.L., Howard, R.A., Bougeret, J.L.: 2001b, J. Geophys. Res. 106, 29219.
+Gopalswamy, N., Aguilar-Rodriguez, E., Yashiro, S., Nunes, S., Kaiser, M.L., Howard, R.A.: 2005, J. Geophys. Res. 110, A12S07.
+Gopalswamy, N., Thompson, W.T., Davila, J.M., Kaiser, M.L., Yashiro, S., Makela, P., Michalek, G., Bougeret, J.L., Howard, R.A.: 2009, Solar Phys. 259, 227.
+Gopalswamy, N., Nitta, N.V., Akiyama, S., Makela, P., Yashiro, S.: 2012a, Astrophys. J. 744, 72.
+Gopalswamy, N., Xie, H., Yashiro, S., Akiyama, S., Mäkelä, P., Usoskin, I.G.: 2012b, Space Sci. Rev. 171, 23.
+Gopalswamy, N., Xie, H., Makela, P., Yashiro, S., Akiyama, S., Uddin, W., Srivastava, A.K., Joshi, N.C., Chandra, R., Manoharan, P.K., Mahalakshmi, K., Dwivedi, V.C., Jain, R., Awasthi, A.K., Nitta, N.V., Aschwanden, M.J., Choudhary, D.P.: 2013, Adv. Space Res. 51, 1981.
+Kaiser, M.L., Reiner, M.J., Gopalswamy, N., Howard, R.A., St. Cyr, O.C., Thompson, B.J., Bougeret, J.-L.: 1998, Geophys. Res. Lett. 25, 2501.
+Lawrance, M.B., Shanmugaraju, A., Vrsnak, B.: 2015, Solar Phys. 290, 3365.
+Leblanc, Y., Dulk, G.A., Bougeret, J.L.: 1998, Solar Phys. 183, 165.
+Leblanc, Y., Dulk, G.A., Vourlidas, A., Bougeret, J.L.: 2001, J. Geophys. Res. 106, 25301.
+Lee, J.-O., Moon, Y.-J., Lee, J.-Y., Lee, K.-S., Kim, R.S.: 2016, J. Geophys. Res. 121, 2853.
+Liu, Y., Luhmann, J.G., Bale, S.D., Lin, R.D.: 2009, Astrophys. J. Lett. 691, L151.
+Magdalenic, J., Marque, C., Zhukov, A.N., Vrsnak, B., Zic, T.: 2010, Astrophys. J. Lett. 718(1), L266.
+Magdalenic, J., Marque, C., Zhukov, A.N., Vrsnak, B., Veronig, A.: 2012, Astrophys. J. 746(2), 152.
+Makela, P., Gopalswamy, N., Akiyama, S., Xie, H., Yashiro, S.: 2015, Astrophys. J. 806, 13.
+Mann, G., Classen, H.T., Aurass, H.: 1995, Astron. Astrophys. 295, 775.
+Nelson, G.J., Melrose, D.B.: 1985, Solar Radiophysics, Cambridge University Press, Cambridge, 350.
+Nindos, A., Alissandrakis, C.E., Hillaris, A., Preka-Papadema, P.: 2011, Astron. Astrophys. 531, 31.
+Pohjolainen, S., Allawi, H., Valtonen, E.: 2013, Astron. Astrophys. 558, 7.
+Pohjolainen, S., Hori, K., Sakurai, T.: 2008, Solar Phys. 253, 291.
+Prakash, O., Umapathy, S., Shanmugaraju, A., Vrnak, B.: 2009, Solar Phys. 258, 105.
+Prakash, O., Umapathy, S., Shanmugaraju, A., Pappa Kalaivani, P., Vrnak, B.: 2010, Solar Phys. 266, 135.
+Ramesh, R., Anna Lakshmi, M., Kathiravan, C., Gopalswamy, N., Umapathy, S.: 2012, Astrophys. J. 752(2), 107.
+Reiner, M.J., Kaiser, M.L., Gopalswamy, N., Aurass, H., Mann, G., Vourlidas, A., Maksimovic, M.: 2001, J. Geophys. 106, 25279.
+Reiner, M.J., Jackson, B.V., Webb, D.F., Mizuno, D.R., Kaiser, M.L., Bougeret, J.L.: 2005, J. Geophys. Res. 110, A09S14.
+Reiner, M.J., Kaiser, M.L., Bougeret, J.L.: 2007, Astrophys. J. 663, 1369.
+Saito, K., Poland, A.I., Munro, R.H.: 1977, Solar Phys. 55, 121.
+Shanmugaraju, A., Moon, Y.H., Dryer, M., Umapathy, S.: 2003, Solar Phys. 215, 161.
+Shanmugaraju, A., Moon, Y.H., Kim, Y.H., Dryer, M., Umapathy, S.: 2004, Solar Phys. 225, 141.
+Shanmugaraju, A., Lawrance, M.B.: 2015, Solar Phys. 290, 2963.
+Shen, C., Liao, C., Wang, Y., Ye, P., Wang, S.: 2013, Solar Phys. 282, 543.
+Vrsnak, B., Rusdjak, V., Zlobec, P., Aurass, H.: 1995, Solar Phys. 158, 331.
+Vrsnak, B., Lulic, S.: 2000, Solar Phys. 196, 181.
+Vrsnak, B.: 2001, J. Geophys. Res. 106, 25291.
+Wild, J.P., McCready, L.L.: 1950, Aust. J. Sci. Res., Ser. A 3, 387.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, J. Geophys. Res. 109, A07105.
+Zhang, J., Dere, K.P., Howard, R.A., Kundu, M.R., White, S.M.: 2001, Astrophys. J. 559, 452.
+Zhang, J., Dere, K.P., Howard, R.A., Vourlidas, A.: 2004, Astrophys. J. 604, 420.
+Zucca, P., Carley, E.P., Bloomfield, D.S., Gallagher, P.T.: 2014, Astron. Astrophys. 564, 9.

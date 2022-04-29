@@ -1,0 +1,47 @@
+Aschwanden, M.J., Freeland, S.L.: 2012, Automated solar flare statistics in soft X-rays over 37 years of GOES observations: The invariance of self-organized criticality during three solar cycles. Astrophys. J. 754, 112.
+Aschwanden, M.J., Dennis, B.R., Benz, A.O.: 1998, Logistic avalanche processes, elementary time structures, and frequency distributions in solar flares. Astrophys. J. 497, 972.
+Bornmann, P.L.: 1990, Limits to derived flare properties using estimates for the background fluxes – examples from GOES. Astrophys. J. 356, 733.
+Bornmann, P.L., Speich, D., Hirman, J., Pizzo, V.J., Grubb, R., Balch, C., Heckman, G.: 1996, GOES solar X-ray imager: overview and operational goals. 2812, 309.
+Brett, D.R., West, R.G., Wheatley, P.J.: 2004, The automated classification of astronomical light curves using Kohonen self-organizing maps. Mon. Not. Roy. Astron. Soc. 353, 369.
+de Jager, C., Bruner, M.E., Crannel, C.J., Dennis, B.R., Lemen, J.R., Martin, S.F.: 1989 In: Energetic Phenomena on the Sun.
+Dere, K.P., Landi, E., Mason, H.E., Monsignori Fossi, B.C., Young, P.R.: 1997, CHIANTI – an atomic database for emission lines. Astron. Astrophys. Suppl. 125, 149.
+Engell, A.J., Siarkowski, M., Gryciuk, M., Sylwester, J., Sylwester, B., Golub, L., Korreck, K., Cirtain, J.: 2011, Flares and their underlying magnetic complexity. Astrophys. J. 726, 12.
+Feldman, U., Doschek, G.A., Behring, W.E.: 1996, Electron temperature and emission measure determinations of very faint solar flares. Astrophys. J. 461, 465.
+Feldman, U., Doschek, G.A., Klimchuk, J.A.: 1997, The occurrence rate of soft X-ray flares as a function of solar activity. Astrophys. J. 474, 511.
+Feldman, U., Mandelbaum, P., Seely, J.F., Doschek, G.A., Gursky, H.: 1992, The potential for plasma diagnostics from stellar extreme-ultraviolet observations. Astrophys. J. Suppl. 81, 387.
+Feldman, U., Doschek, G.A., Mariska, J.T., Brown, C.M.: 1995, Relationships between temperature and emission measure in solar flares determined from highly ionized iron spectra and from broadband X-ray detectors. Astrophys. J. 450, 441.
+Garcia, H.A.: 1994, Temperature and emission measure from GOES soft X-ray measurements. Solar Phys. 154, 275.
+Gburek, S., Siarkowski, M., Kepa, A., Sylwester, J., Kowalinski, M., Bakala, J., Podgorski, P., Kordylewski, Z., Plocieniak, S., Sylwester, B., Trzebinski, W., Kuzin, S.: 2011a, Soft X-ray variability over the present minimum of solar activity as observed by SphinX. Solar Syst. Res. 45, 182.
+Gburek, S., Sylwester, J., Kowalinski, M., Bakala, J., Kordylewski, Z., Podgorski, P., Plocieniak, S., Siarkowski, M., Sylwester, B., Trzebinski, W., Kuzin, S.V., Pertsov, A.A., Kotov, Y.D., Farnik, F., Reale, F., Phillips, K.J.H.: 2011b, SphinX soft X-ray spectrophotometer: Science objectives, design and performance. Solar Syst. Res. 45, 189.
+Gburek, S., Sylwester, J., Kowalinski, M., Bakala, J., Kordylewski, Z., Podgorski, P., Plocieniak, S., Siarkowski, M., Sylwester, B., Trzebinski, W., Kuzin, S.V., Pertsov, A.A., Kotov, Y.D., Farnik, F., Reale, F., Phillips, K.J.H.: 2013, SphinX: The solar photometer in X-rays. Solar Phys. 283, 631.
+Jakimiec, J., Sylwester, B., Sylwester, J., Serio, S., Peres, G., Reale, F.: 1992, Dynamics of flaring loops. II – Flare evolution in the density–temperature diagram. Astron. Astrophys. 253, 269.
+Kepa, A., Sylwester, J., Sylwester, B., Siarkowski, M., Kuznetsov, V.: 2005, DEM Distributions for short and long duration flares as determined from RESIK soft X-ray spectra. In: Proceedings of the 11th European Solar Physics Meeting. The Dynamic Sun: Challenges for Theory and Observations, 87.
+Kotov, Y.D.: 2011, Scientific goals and observational capabilities of the CORONAS-PHOTON solar satellite project. Solar Syst. Res. 45, 93.
+Kowalinski, M.: 2012, SphinX X-ray spectrophotometer. In: Romaniuk, R. (ed.) Photonics Applications in Astronomy, Communications, Industry, and High-Energy Physics Experiments, Proc. SPIE, 8454
+Kuzin, S.V., Bogachev, S.A., Zhitnik, I.A., Pertsov, A.A., Ignatiev, A.P., Mitrofanov, A.M., Slemzin, V.A., Shestov, S.V., Sukhodrev, N.K., Bugaenko, O.I.: 2009, TESIS experiment on EUV imaging spectroscopy of the Sun. Adv. Space Res. 43, 1001.
+Kuzin, S.V., Zhitnik, I.A., Shestov, S.V., Bogachev, S.A., Bugaenko, O.I., Ignat’ev, A.P., Pertsov, A.A., Ulyanov, A.S., Reva, A.A., Slemzin, V.A., Sukhodrev, N.K., Ivanov, Y.S., Goncharov, L.A., Mitrofanov, A.V., Popov, S.G., Shergina, T.A., Solov’ev, V.A., Oparin, S.N., Zykov, A.M.: 2011, The TESIS experiment on the CORONAS-PHOTON spacecraft. Solar Syst. Res. 45, 162.
+Landi, E., Phillips, K.J.H.: 2006, CHIANTI – an atomic database for emission lines. VIII. Comparison with solar flare spectra from the solar maximum mission flat crystal spectrometer. Astrophys. J. Suppl. 166, 421.
+Lang, K.R.: 2001, The Cambridge Encyclopedia of the Sun, 268.
+Lee, T.T., Petrosian, V., McTiernan, J.M.: 1995, The Neupert effect and the chromospheric evaporation model for solar flares. Astrophys. J. 448, 915.
+Lemen, J.R., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Jurcevich, B.K., Morrison, M.D., Springer, L.A., Stern, R.A., Wuelser, J.-P., Bruner, M.E., Catura, R.C.: 2004, The solar X-ray imager for GOES. In: Fineschi, S., Gummin, M.A. (eds.) Telescopes and Instrumentation for Solar Astrophysics, Proc. SPIE 5171, 65.
+Markwardt, C.B.: 2009, Non-linear least-squares fitting in IDL with MPFIT. In: Astronomical Data Analysis Software and Systems XVIII, ASP Conference Series 411, Astronomical Society of the Pacific, San Francisco, 251.
+Mazzotta, P., Mazzitelli, G., Colafrancesco, S., Vittorio, N.: 1998, Ionization balance for optically thin plasmas: Rate coefficients for all atoms and ions of the elements H to NI. Astron. Astrophys. Suppl. 133, 403.
+Mewe, R., Schrijver, J.: 1978, Heliumlike ion line intensities. I – Stationary plasmas. II – Non-stationary plasmas. Astron. Astrophys. 65, 99.
+More, J.J.: 1977, The Levenberg–Marquardt algorithm: Implementation and theory. In: Watson, G.A. (ed.) Numerical Analysis, Lecture Notes in Mathematics 630, Springer, Berlin, 105.
+Narukage, N., Sakao, T., Kano, R., Hara, H., Shimojo, M., Bando, T., Urayama, F., Deluca, E., Golub, L., Weber, M., Grigis, P., Cirtain, J., Tsuneta, S.: 2011, Coronal-temperature-diagnostic capability of the Hinode/X-ray telescope based on self-consistent calibration. Solar Phys. 269, 169.
+Parker, E.N.: 1988, Nanoflares and the solar X-ray corona. Astrophys. J. 330, 474.
+Peres, G., Serio, S., Vaiana, G.S., Rosner, R.: 1982, Coronal closed structures. IV – Hydrodynamical stability and response to heating perturbations. Astrophys. J. 252, 791.
+Pizzo, V.J., Hill, S.M., Balch, C.C., Biesecker, D.A., Bornmann, P., Hildner, E., Grubb, R.N., Chipman, E.G., Davis, J.M., Wallace, K.S., Russell, K., Cauffman, S.A., Saha, T.T., Berthiume, G.D.: 2005, The NOAA Goes-12 Solar X-Ray Imager (SXI) 2. Performance. Solar Phys. 226, 283.
+Reale, F., Peres, G., Orlando, S.: 2001, The Sun as an X-ray star. III. Flares. Astrophys. J. 557, 906.
+Reinard, A., Hill, S., Viereck, R., Bailey, S.: 2005, Calibration of GOES/SXI and XRS instruments. In: AGU Fall Meeting Abstracts, B344.
+Rosner, R., Tucker, W.H., Vaiana, G.S.: 1978, Dynamics of the quiescent solar corona. Astrophys. J. 220, 643.
+Ryan, D.F., Milligan, R.O., Gallagher, P.T., Dennis, B.R., Tolbert, A.K., Schwartz, R.A., Young, C.A.: 2012, The thermal properties of solar flares over three solar cycles using GOES X-ray observations. Astrophys. J. Suppl. 202, 11.
+Ryan, D.F., Dominique, M., Seaton, D., Stegen, K., White, A.: 2016, Effects of flare definitions on the statistics of derived flare distributions. Astron. Astrophys. 592, A133.
+Sterling, A.C., Doschek, G.A., Pike, C.D.: 1994, Fe XXV temperatures in flares from the YOHKOH Bragg crystal spectrometer. Astrophys. J. 435, 898.
+Sylwester, B., Sylwester, J., Siarkowski, M., Engell, A.J., Kuzin, S.V.: 2011, Physical characteristics of AR 11024 plasma based on SPHINX and XRT data. Cent. Eur. Astrophys. Bull. 35, 171.
+Sylwester, J., Kuzin, S., Kotov, Y., Farnik, F., Reale, F.: 2008, SphinX: A fast solar photometer in X-rays. Astrophys. J. Lett. 29, 339.
+Sylwester, J., Kowalinski, M., Gburek, S., Siarkowski, M., Kuzin, S., Farnik, F., Reale, F., Phillips, K.J.H., Bakała, J., Gryciuk, M., Podgorski, P., Sylwester, B.: 2012, SphinX measurements of the 2009 solar minimum X-ray emission. Astrophys. J. 751, 111.
+Thomas, R.J., Crannell, C.J., Starr, R.: 1985, Expressions to determine temperatures and emission measures for solar X-ray events from GOES measurements. Solar Phys. 95, 323.
+van Beek, H.F., de Feiter, L.D., de Jager, C.: 1974, Hard X-ray observations of elementary flare bursts, and their interpretation. In: Rycroft, M.J., Reasenberg, R.D. (eds.) Space Research XIV, 447.
+Veronig, A., Temmer, M., Hanslmeier, A., Otruba, W., Messerotti, M.: 2002, Temporal aspects and frequency distributions of solar soft X-ray flares. Astron. Astrophys. 382, 1070.
+White, S.M., Thomas, R.J., Schwartz, R.A.: 2005, Updated expressions for determining temperatures and emission measures from goes soft X-ray measurements. Solar Phys. 227, 231.

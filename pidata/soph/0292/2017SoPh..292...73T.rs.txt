@@ -1,0 +1,23 @@
+Athay, R.G., Warwick, C.S.: 1961, Indices of solar activity. Adv. Geophys. 8, 1.
+Charbonneau, P., Blais-Laurier, G., St-Jean, C.: 2004, Intermittency and phase persistence in a Babcock–Leighton model of the solar cycle. Astrophys. J. Lett. 616, L183.
+Charbonneau, P., St-Jean, C., Zacharias, P.: 2005, Fluctuations in Babcock–Leighton dynamos. I. Period doubling and transition to chaos. Astrophys. J. 619, 613.
+Choudhuri, A.R.: 2003, In: Dwivedi, B.N., Parker, F.b.E.N. (eds.) The Solar Dynamo as a Model of the Solar Cycle, 103.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: Assembling all corrections. Solar Phys. 291, 2629.
+Clette, F., Lefèvre, L., Cagnotti, M., Cortesi, S., Bulling, A.: 2016, The revised Brussels–Locarno sunspot number (1981 – 2015). Solar Phys. 291, 2733.
+Eddy, J.A.: 1976a, The Maunder minimum. Science 192, 1189.
+Eddy, J.A.: 1976b, The sun since the Bronze Age. In: Williams, D.J. (ed.) Physics of Solar Planetary Environments, 958.
+Eddy, J.A.: 1977, Historical evidence for the existence of the solar cycle. In: White, O.R. (ed.) The Solar Output and its Variation, 51.
+Eddy, J.A.: 1979, Limits of historical evidence of solar variability. In: Robertson, P.C., Pepin, R.O., Eddy, J.A., Merrill, R.B. (eds.) The Ancient Sun: Fossil Record in the Earth, Moon and Meteorites, LPI Contributions 390, 22.
+Janardhan, P., Bisoi, S.K., Gosain, S.: 2010, Solar polar fields during cycles 21 – 23: Correlation with meridional flows. Solar Phys. 267, 267.
+Janardhan, P., Bisoi, S.K., Ananthakrishnan, S., Sridharan, R., Jose, L.: 2015, Solar and interplanetary signatures of a Maunder-like grand solar minimum around the corner – implications to near-Earth space. Sun Geosph. 10, 147.
+Komitov, B., Kaftan, V.: 2004, The sunspot activity in the last two millenia on the basis of indirect and instrumental indexes: Time series models and their extrapolations for the 21st century. In: Stepanov, A.V., Benevolenskaya, E.E., Kosovichev, A.G. (eds.) Multi-Wavelength Investigations of Solar Activity, IAU Symposium 223, 113.
+Krüger, A.: 1979, Introduction to Solar Radio Astronomy and Radio Physics.
+Kundu, M.R.: 1965, Solar Radio Astronomy.
+Livingston, W., Penn, M.J., Svalgaard, L.: 2012, Decreasing sunspot magnetic fields explain unique 10.7 cm radio flux. Astrophys. J. Lett. 757, L8.
+Lockwood, M., Stamper, R.: 1999, Long-term drift of the coronal source magnetic flux and the total solar irradiance. Geophys. Res. Lett. 26, 2461.
+Penn, M.J., Livingston, W.: 2006, Temporal changes in sunspot umbral magnetic fields and temperatures. Astrophys. J. Lett. 649, L45.
+Penn, M.J., Livingston, W.: 2011, Long-term evolution of sunspot magnetic fields. In: Prasad Choudhary, D., Strassmeier, K.G. (eds.) Physics of Sun and Star Spots, IAU Symposium 273, 126.
+Sarychev, A.P., Roshchina, E.M.: 2006, Total sunspot area as a solar activity index. Solar Syst. Res. 40, 521.
+Tapping, K.F.: 2013, The 10.7 cm solar radio flux (F
+Tapping, K.F., Valdés, J.J.: 2011, Did the sun change its behaviour during the decline of cycle 23 and into cycle 24? Solar Phys. 272, 337.
+Usoskin, I.G.: 2008, A history of solar activity over millennia. Living Rev. Solar Phys. 5, 3.

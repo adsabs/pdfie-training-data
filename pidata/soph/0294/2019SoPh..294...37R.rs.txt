@@ -1,0 +1,74 @@
+Asplund, M., Grevesse, N., Sauval, A.J., Scott, P.: 2009, The chemical composition of the Sun. Annu. Rev. Astron. Astrophys. 47, 481.
+Breneman, H.H., Stone, E.C.: 1985, Solar coronal and photospheric abundances from solar energetic particle measurements. Astrophys. J. Lett. 299, L57.
+Bučík, R., Innes, D.E., Mall, U., Korth, A., Mason, G.M., Gómez-Herrero, R.: 2014, Multi-spacecraft observations of recurrent
+Bučík, R., Innes, D.E., Chen, N.H., Mason, G.M., Gómez-Herrero, R., Wiedenbeck, M.E.: 2015, Long-lived energetic particle source regions on the Sun. J. Phys. CS-642, 012002.
+Bučík, R., Innes, D.E., Mason, G.M., Wiedenbeck, M.E., Gómez-Herrero, R., Nitta, N.V.: 2018,
+Caffau, E., Ludwig, H.-G., Steffen, M., Freytag, B., Bonofacio, P.: 2011, Solar chemical abundances determined with a CO
+Chen, N.H., Bučík, R., Innes, D.E., Mason, G.M.: 2015, Case studies of multi-day
+Cliver, E.W., Kahler, S.W., Reames, D.V.: 2004, Coronal shocks and solar energetic proton events. Astrophys. J. 605, 902.
+Cohen, C.M.S., Mason, G.M., Mewaldt, R.A.: 2017, Characteristics of solar energetic ions as a function of longitude. Astrophys. J. 843, 132.
+Desai, M.I., Giacalone, J.: 2016, Large gradual solar energetic particle events. Living Rev. Solar Phys. 13, 3.
+Desai, M.I., Mason, G.M., Dwyer, J.R., Mazur, J.E., Gold, R.E., Krimigis, S.M., Smith, C.W., Skoug, R.M.: 2003, Evidence for a suprathermal seed population of heavy ions accelerated by interplanetary shocks near 1 AU. Astrophys. J. 588, 1149.
+Drake, J.F., Cassak, P.A., Shay, M.A., Swisdak, M., Quataert, E.: 2009, A magnetic reconnection mechanism for ion acceleration and abundance enhancements in impulsive flares. Astrophys. J. Lett. 700, L16.
+Gosling, J.T.: 1993, The solar flare myth. J. Geophys. Res. 98, 18937.
+Kahler, S.W., Reames, D.V., Sheeley, N.R. Jr.: 2001, Coronal mass ejections associated with impulsive solar energetic particle events. Astrophys. J. 562, 558.
+Kahler, S.W., Sheeley, N.R. Jr., Howard, R.A., Koomen, M.J., Michels, D.J., McGuire, R.E., von Rosenvinge, T.T., Reames, D.V.: 1984, Associations between coronal mass ejections and solar energetic proton events. J. Geophys. Res. 89, 9683.
+Laming, J.M.: 2009, Non-WKB models of the first ionization potential effect: Implications for solar coronal heating and the coronal helium and neon abundances. Astrophys. J. 695, 954.
+Laming, J.M.: 2015, The FIP and inverse FIP effects in solar and stellar coronae. Living Rev. Solar Phys. 12, 2.
+Lee, M.A.: 1983, Coupled hydromagnetic wave excitation and ion acceleration at interplanetary traveling shocks. J. Geophys. Res. 88, 6109.
+Lee, M.A.: 2005, Coupled hydromagnetic wave excitation and ion acceleration at an evolving coronal/interplanetary shock. Astrophys. J. Suppl. 158, 38.
+Lee, M.A., Mewaldt, R.A., Giacalone, J.: 2012, Shock acceleration of ions in the heliosphere. Space Sci. Rev. 173, 247.
+Lodders, K., Palme, H., Gail, H.-P.: 2009, Abundances of the elements in the solar system. In: Trümper, J.E. (ed.) Landolt-Börnstein, New Series VI/4B, Springer, Berlin, 560. Chapter 4.4.
+Mason, G.M.: 2007,
+Mason, G.M., Mazur, J.E., Dwyer, J.R.: 2002, A new heavy ion abundance enrichment pattern in
+Mason, G.M., Ng, C.K., Klecker, B., Green, G.: 1989, Impulsive acceleration and scatter-free transport of about 1 MeV per nucleon ions in
+Mason, G.M., Mazur, J.E., Dwyer, J.R., Jokipii, J.R., Gold, R.E., Krimigis, S.M.: 2004, Abundances of heavy and ultraheavy ions in
+Mewaldt, R.A., Cohen, C.M.S., Leske, R.A., Christian, E.R., Cummings, A.C., Stone, E.C., von Rosenvinge, T.T., Wiedenbeck, M.E.: 2002, Fractionation of solar energetic particles and solar wind according to first ionization potential. Adv. Space Res. 30, 79.
+Meyer, J.-P.: 1985, The baseline composition of solar energetic particles. Astrophys. J. Suppl. 57, 151.
+Ng, C.K., Reames, D.V.: 2008, Shock acceleration of solar energetic protons: The first 10 minutes. Astrophys. J. Lett. 686, L123.
+Ng, C.K., Reames, D.V., Tylka, A.J.: 1999, Effect of proton-amplified waves on the evolution of solar energetic particle composition in gradual events. Geophys. Res. Lett. 26, 2145.
+Ng, C.K., Reames, D.V., Tylka, A.J.: 2001, Abundances, spectra, and anisotropies in the 1998 Sep. 30 and 2000 Apr. 4 large SEP events. In: Proc. 27th Int. Cosmic-Ray Conf. 8, Hamburg, 3140.
+Ng, C.K., Reames, D.V., Tylka, A.J.: 2003, Modeling shock-accelerated solar energetic particles coupled to interplanetary Alfvén waves. Astrophys. J. 591, 461.
+Ng, C.K., Reames, D.V., Tylka, A.J.: 2012, Solar energetic particles: Shock acceleration and transport through self-amplified waves. In: AIP CP-1436, Melville, 212.
+Parker, E.N.: 1963, Interplanetary Dynamical Processes, Interscience, New York.
+Reames, D.V.: 1988, Bimodal abundances in the energetic particles of solar and interplanetary origin. Astrophys. J. Lett. 330, L71.
+Reames, D.V.: 1995, Coronal abundances determined from energetic particles. Adv. Space Res. 15(7), 41.
+Reames, D.V.: 1999, Particle acceleration at the Sun and in the heliosphere. Space Sci. Rev. 90, 413.
+Reames, D.V.: 2000, Abundances of trans-iron elements in solar energetic particle events. Astrophys. J. Lett. 540, L111.
+Reames, D.V.: 2009, Solar release times of energetic particles in ground-level events. Astrophys. J. 693, 812.
+Reames, D.V.: 2013, The two sources of solar energetic particles. Space Sci. Rev. 175, 53.
+Reames, D.V.: 2014, Element abundances in solar energetic particles and the solar corona. Solar Phys. 289, 977.
+Reames, D.V.: 2015, What are the sources of solar energetic particles? Element abundances and source plasma temperatures. Space Sci. Rev. 194, 303.
+Reames, D.V.: 2016a, Temperature of the source plasma in gradual solar energetic particle events. Solar Phys. 291, 911.
+Reames, D.V.: 2016b, The origin of element abundance variations in solar energetic particles. Solar Phys. 291, 2099.
+Reames, D.V.: 2017a, Solar Energetic Particles, Lecture Notes in Physics 932, Springer, Berlin. ISBN 978-3-319-50870-2.
+Reames, D.V.: 2017b, Spatial distribution of element abundances and ionization states in solar energetic-particle events. Solar Phys. 292, 133.
+Reames, D.V.: 2017c, The abundance of helium in the source plasma of solar energetic particles. Solar Phys. 292, 156.
+Reames, D.V.: 2018a, The “FIP effect” and the origins of solar energetic particles and of the solar wind. Solar Phys. 293, 47.
+Reames, D.V.: 2018b, Abundances, ionization states, temperatures, and FIP in solar energetic particles. Space Sci. Rev. 214, 61.
+Reames, D.V.: 2019, Helium suppression in impulsive solar energetic-particle events. Solar Phys. 294, 32.
+Reames, D.V.: 2019b, Hydrogen and the abundances of elements in gradual solar energetic-particle events. Solar Phys. Submitted.
+Reames, D.V., Barbier, L.M., Ng, C.K.: 1996, The spatial distribution of particles accelerated by coronal mass ejection-driven shocks. Astrophys. J. 466, 473.
+Reames, D.V., Cliver, E.W., Kahler, S.W.: 2014a, Abundance enhancements in impulsive solar energetic-particle events with associated coronal mass ejections. Solar Phys. 289, 3817.
+Reames, D.V., Cliver, E.W., Kahler, S.W.: 2014b, Variations in abundance enhancements in impulsive solar energetic-particle events and related CMEs and flares. Solar Phys. 289, 4675.
+Reames, D.V., Cliver, E.W., Kahler, S.W.: 2015, Temperature of the source plasma for impulsive solar energetic particles. Solar Phys. 290, 1761.
+Reames, D.V., Kahler, S.W., Ng, C.K.: 1997, Spatial and temporal invariance in the spectra of energetic particles in gradual solar events. Astrophys. J. 491, 414.
+Reames, D.V., Meyer, J.P., von Rosenvinge, T.T.: 1994, Energetic-particle abundances in impulsive solar flare events. Astrophys. J. Suppl. 90, 649.
+Reames, D.V., Ng, C.K.: 2004, Heavy-element abundances in solar energetic particle events. Astrophys. J. 610, 510.
+Reames, D.V., Ng, C.K.: 2010, Streaming-limited intensities of solar energetic particles on the intensity plateau. Astrophys. J. 723, 1286.
+Reames, D.V., Ng, C.K., Berdichevsky, D.: 2001, Angular distributions of solar energetic particles. Astrophys. J. 550, 1064.
+Reames, D.V., Ng, C.K., Tylka, A.J.: 2000, Initial time dependence of abundances in solar particle events. Astrophys. J. Lett. 531, L83.
+Reames, D.V., Stone, R.G.: 1986, The identification of solar
+Reames, D.V., von Rosenvinge, T.T., Lin, R.P.: 1985, Solar
+Reames, D.V., Barbier, L.M., von Rosenvinge, T.T., Mason, G.M., Mazur, J.E., Dwyer, J.R.: 1997, Energy spectra of ions accelerated in impulsive and gradual solar events. Astrophys. J. 483, 515.
+Roth, I., Temerin, M.: 1997, Enrichment of
+Rouillard, A., Sheeley, N.R. Jr., Tylka, A., Vourlidas, A., Ng, C.K., Rakowski, C., Cohen, C.M.S., Mewaldt, R.A., Mason, G.M., Reames, D., et al.: 2012, The longitudinal properties of a solar energetic particle event investigated using modern solar imaging. Astrophys. J. 752, 44.
+Schmelz, J.T., Reames, D.V., von Steiger, R., Basu, S.: 2012, Composition of the solar corona, solar wind, and solar energetic particles. Astrophys. J. 755, 33.
+Serlemitsos, A.T., Balasubrahmanyan, V.K.: 1975, Solar particle events with anomalously large relative abundance of
+Temerin, M., Roth, I.: 1992, The production of
+Tylka, A.J., Lee, M.A.: 2006, Spectral and compositional characteristics of gradual and impulsive solar energetic particle events. Astrophys. J. 646, 1319.
+Tylka, A.J., Boberg, P.R., Cohen, C.M.S., Dietrich, W.F., Maclennan, C.G., Mason, G.M., Ng, C.K., Reames, D.V.: 2002, Flare- and shock-accelerated energetic particles in the solar events of 2001 April 14 and 15. Astrophys. J. 581, 119.
+Tylka, A.J., Cohen, C.M.S., Dietrich, W.F., Lee, M.A., Maclennan, C.G., Mewaldt, R.A., Ng, C.K., Reames, D.V.: 2005, Shock geometry, seed populations, and the origin of variable elemental composition at high energies in large gradual solar particle events. Astrophys. J. 625, 474.
+von Rosenvinge, T.T., Barbier, L.M., Karsch, J., Liberman, R., Madden, M.P., Nolan, T., Reames, D.V., Ryan, L., Singh, S., Trexel, H.: 1995, The Energetic Particles: Acceleration, Composition, and Transport (EPACT) investigation on the Wind spacecraft. Space Sci. Rev. 71, 152.
+Webber, W.R.: 1975, Solar and galactic cosmic ray abundances – A comparison and some comments. In: Proc. 14th Int. Cosmic Ray Conf. 5, Munich, 1597.
+Zank, G.P., Rice, W.K.M., Wu, C.C.: 2000, Particle acceleration and coronal mass ejection driven shocks: A theoretical model. J. Geophys. Res. 105, 25079.

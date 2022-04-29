@@ -1,0 +1,43 @@
+An, J.M., Magara, T.: 2013, Stability and dynamics of a flux rope formed via flux emergence into the solar atmosphere. Astrophys. J. 773, 21.
+Antiochos, S.K., DeVore, C.R., Klimchuk, J.A.: 1999, A model for solar coronal mass ejections. Astrophys. J. 510, 485.
+Aulanier, G.: 2014, The physical mechanisms that initiate and drive solar eruptions. In: Schmieder, B., Malherbe, J.-M., Wu, S.T. (eds.) Nature of Prominences and Their Role in Space Weather, IAU Symp. 300, 184.
+Bi, Y., Jiang, Y., Yang, J., Hong, J., Li, H., Yang, D., Yang, B.: 2014, Solar filament material oscillations and drainage before eruption. Astrophys. J. 790, 100.
+Bommier, V., Landi Degl’Innocenti, E., Leroy, J.-L., Sahal-Brechot, S.: 1994, Complete determination of the magnetic field vector and of the electron density in 14 prominences from linear polarization measurements in the HeI D3 and H-alpha lines. Solar Phys. 154, 231.
+Chifor, C., Mason, H.E., Tripathi, D., Isobe, H., Asai, A.: 2006, The early phases of a solar prominence eruption and associated flare: a multi-wavelength analysis. Astron. Astrophys. 458, 965.
+Filippov, B.P.: 2007, Eruptive Processes on the Sun, Fizmatlit, Moscow. (In Russian).
+Filippov, B.: 2017, Transversal segments in Hα solar filament channels. Mon. Not. Roy. Astron. Soc. 472, 1753.
+Filippov, B.P., Den, O.G.: 2000, Prominence height and vertical gradient in magnetic field. Astron. Lett. 26, 322.
+Filippov, B., Martsenyuk, O., Srivastava, A.K., Uddin, W.: 2015, Solar magnetic flux ropes. J. Astrophys. Astron. 36, 157.
+Forbes, T.G., Isenberg, P.A.: 1991, A catastrophe mechanism for coronal mass ejections. Astrophys. J. 373, 294.
+Gunár, S., Heinzel, P., Schmieder, B., Schwartz, P., Anzer, U.: 2007, Properties of prominence fine-structure threads derived from SOHO/SUMER hydrogen Lyman lines. Astron. Astrophys. 472, 929.
+Hirayama, T.: 1972, Ionized helium in prominences and in the chromosphere. Solar Phys. 24, 310.
+Isobe, H., Tripathi, D., Asai, A., Jain, R.: 2007, Large-amplitude oscillation of an erupting filament as seen in EUV, Hα , and microwave observations. Solar Phys. 246, 89.
+Jenkins, J.M., Long, D.M., van Driel-Gesztelyi, L., Carlyle, J.: 2018, Understanding the role of mass-unloading in a filament eruption. Solar Phys. 293, 7.
+Kadomtsev, B.B.: 1966, Hydromagnetic stability of a plasma. Rev. Plasma Phys. 2, 153.
+Kippenhahn, R., Schlüter, A.: 1957, Eine Theorie der solaren Filamente. Z. Astrophys. 43, 36.
+Kliem, B., Török, T.: 2006, Torus instability. Phys. Rev. Lett. 96(25), 255002.
+Kolotkov, D.Y., Nisticò, G., Nakariakov, V.M.: 2016, Transverse oscillations and stability of prominences in a magnetic field dip. Astron. Astrophys. 590, A120.
+Kolotkov, D.Y., Nisticò, G., Rowlands, G., Nakariakov, V.M.: 2018, Finite amplitude transverse oscillations of a magnetic rope. J. Atmos. Solar-Terr. Phys. 172, 40.
+Kuperus, M., Raadu, M.A.: 1974, The support of prominences formed in neutral sheets. Astron. Astrophys. 31, 189.
+Landman, D.A.: 1985, Physical conditions in the cool parts of prominences. III. The Sr(+)/Ba(+) resonance line ratios and the internal Lyman-alpha flux. Astrophys. J. 290, 369.
+Longcope, D.W., Forbes, T.G.: 2014, Breakout and tether-cutting eruption models are both catastrophic (sometimes). Solar Phys. 289, 2091.
+McCauley, P.I., Su, Y.N., Schanche, N., Evans, K.E., Su, C., McKillop, S., Reeves, K.K.: 2015, Prominence and filament eruptions observed by the Solar Dynamics Observatory: statistical properties, kinematics, and online catalog. Solar Phys. 290, 1703.
+Mei, Z.X., Keppens, R., Roussev, I.I., Lin, J.: 2018, Parametric study on kink instabilities of twisted magnetic flux ropes in the solar atmosphere. Astron. Astrophys. 609, A2.
+Mikic, Z., Schnack, D.D., van Hoven, G.: 1990, Dynamical evolution of twisted magnetic flux tubes. I – Equilibrium and linear stability. Astrophys. J. 361, 690.
+Moore, R.L., Sterling, A.C., Hudson, H.S., Lemen, J.R.: 2001, Onset of the magnetic explosion in solar flares and coronal mass ejections. Astrophys. J. 552, 833.
+Parenti, S.: 2014, Solar prominences: observations. Living Rev. Solar Phys. 11, 1.
+Patsourakos, S., Vial, J.-C.: 2002, Soho contribution to prominence science. Solar Phys. 208, 253.
+Priest, E.R.: 1982, Solar Magneto-Hydrodynamics.
+Priest, E.R., Forbes, T.G.: 1990, Magnetic field evolution during prominence eruptions and two-ribbon flares. Solar Phys. 126, 319.
+Régnier, S., Walsh, R.W., Alexander, C.E.: 2011, A new look at a polar crown cavity as observed by SDO/AIA. Structure and dynamics. Astron. Astrophys. 533, L1.
+Schmieder, B., Démoulin, P., Aulanier, G.: 2013, Solar filament eruptions and their physical role in triggering coronal mass ejections. Adv. Space Res. 51, 1967.
+Song, H.Q., Chen, Y., Zhang, J., Cheng, X., Fu, H., Li, G.: 2015, Acceleration phases of a solar filament during its eruption. Astrophys. J. Lett. 804, L38.
+Sterling, A.C., Moore, R.L.: 2004, Evidence for gradual external reconnection before explosive eruption of a solar filament. Astrophys. J. 602, 1024.
+Sterling, A.C., Moore, R.L.: 2005, Slow-rise and fast-rise phases of an erupting solar filament, and flare emission onset. Astrophys. J. 630, 1148.
+Tripathi, D., Isobe, H., Jain, R.: 2009, Large amplitude oscillations in prominences. Space Sci. Rev. 149, 283.
+van Ballegooijen, A.A., Martens, P.C.H.: 1989, Formation and eruption of solar prominences. Astrophys. J. 343, 971.
+van Tend, W., Kuperus, M.: 1978, The development of coronal electric current systems in active regions and their relation to filaments and flares. Solar Phys. 59, 115.
+Vial, J.-C., Engvold, O. (eds.): 2015, Solar Prominences, Astrophys. Space Sci. Lib. 415.
+Xing, C., Li, H.C., Jiang, B., Cheng, X., Ding, M.D.: 2018, Two types of long-duration quasi-static evolution of solar filaments. Astrophys. J. Lett. 857, L14.
+Zaitsev, V.V., Stepanov, A.V.: 2018, Prominence activation by increase in electric current. J. Atmos. Solar-Terr. Phys. 179, 149.
+Zuccarello, F.P., Aulanier, G., Gilchrist, S.A.: 2015, Critical decay index at the onset of solar eruptions. Astrophys. J. 814, 126.

@@ -1,0 +1,36 @@
+Auer, L.H., House, L.L., Heasley, J.N.: 1977, The determination of vector magnetic fields from Stokes profiles. Solar Phys. 55, 47.
+Baur, T.G., Elmore, D.E., Lee, R.H., Querfeld, C.W., Rogers, S.R.: 1981, Stokes II – a new polarimeter for solar observations. Solar Phys. 70, 395.
+Bellot Rubio, L.R.: 2006, Stokes inversion techniques: recent advances and new challenges. In: Casini, R., Lites, B.W. (eds.) Astron. Soc. Pac. Conf. Ser. 358, 107.
+Borrero, J.M., Ichimoto, K.: 2011, Magnetic structure of sunspots. Living Rev. Solar Phys. 8, 4.
+Borrero, J.M., Tomczyk, S., Kubo, M., Socas-Navarro, H., Schou, J., Couvidat, S., Bogart, R.: 2011, VFISV: very fast inversion of the Stokes vector for the helioseismic and magnetic imager. Solar Phys. 273, 267.
+Borrero, J.M., Lites, B.W., Lagg, A., Rezaei, R., Rempel, M.: 2014, Comparison of inversion codes for polarized line formation in MHD simulations. I. Milne–Eddington codes. Astron. Astrophys. 572, A54.
+Centeno, R., Schou, J., Hayashi, K., Norton, A., Hoeksema, J.T., Liu, Y., Leka, K.D., Barnes, G.: 2014, The helioseismic and magnetic imager (HMI) vector magnetic field pipeline: optimization of the spectral line inversion code. Solar Phys. 289, 3531.
+del Toro Iniesta, J.C.: 2003, Introduction to Spectropolarimetry, Cambridge University Press, Cambridge, 244.
+del Toro Iniesta, J.C., Ruiz Cobo, B.: 2016, Inversion of the radiative transfer equation for polarized light. Living Rev. Solar Phys. 13(1), 4.
+Denis, S., Coucke, P., Gabriel, E., Delrez, C., Venkatakrishnan, P.: 2008, Optomechanical and thermal design of the multi-application solar telescope for USO. In: Ground-Based and Airborne Telescopes II, Proc. SPIE 7012, 701235.
+Denis, S., Coucke, P., Gabriel, E., Delrez, C., Venkatakrishnan, P.: 2010, Multi-application solar telescope: assembly, integration, and testing. In: Ground-Based and Airborne Telescopes III, Proc. SPIE 7733, 773335.
+Frutiger, C.: 2000, Ph.D. thesis. ETH, Zürich, No. 13896.
+Frutiger, C., Solanki, S.K., Fligge, M., Bruls, J.H.M.J.: 1999, Inversion of Stokes profiles. In: Nagendra, K.N., Stenflo, J.O. (eds.) Solar Polarization Astrophys. Spa. Sci. Lib. 243, 281.
+Hui, A.K., Armstrong, B.H., Wray, A.A.: 1978, Rapid computation of the Voigt and complex error functions. J. Quant. Spectrosc. Radiat. Transf. 19(5), 509.
+Lagg, A., Woch, J., Krupp, N., Solanki, S.K.: 2004, Retrieval of the full magnetic vector with the He I multiplet at 1083 nm. Maps of an emerging flux region. Astron. Astrophys. 414, 1109.
+Landi Degl’Innocenti, E., Landolfi, M.: 1982, Thermodynamical properties of unresolved magnetic flux tubes. I – A diagnostic method based on circular polarization ratios in line pairs. Solar Phys. 77, 13.
+Leka, K.D., Barnes, G., Crouch, A.: 2009, An automated ambiguity-resolution code for hinode/SP vector magnetic field data. In: Lites, B., Cheung, M., Magara, T., Mariska, J., Reeves, K. (eds.) The Second Hinode Science Meeting: Beyond Discovery-Toward Understanding, Astron. Soc. Pac. Conf. Ser. 415, 365.
+Lites, B., Casini, R., Garcia, J., Socas-Navarro, H.: 2007, A suite of community tools for spectro-polarimetric analysis. Mem. Soc. Astron. Ital. 78, 148.
+Mathew, S.K.: 2009, A new 0.5 m telescope (MAST) for solar imaging and polarimetry. In: Berdyugina, S.V., Nagendra, K.N., Ramelli, R. (eds.) Solar Polarization 5: In Honor of Jan Stenflo, Astron. Soc. Pac. Conf. Ser. 405, 461.
+Metcalf, T.R.: 1994, Resolving the 180-degree ambiguity in vector magnetic field measurements: the ‘minimum’ energy solution. Solar Phys. 155, 235.
+Press, W.H., Teukolsky, S.A., Vetterling, W.T., Flannery, B.P.: 1992, Numerical Recipes in FORTRAN. The Art of Scientific Computing, Cambridge University Press, Cambridge.
+Rachkovsky, D.N.: 1962, Magnetic rotation effects in spectral lines. Izv. Ordena Trudovogo Krasnogo Znameni Krym. Astrofiz. Obs. 28, 259.
+Rachkovsky, D.N.: 1967, The reduction for anomalous dispersion in the theory of absorption line formation in a magnetic field. Izv. Ordena Trudovogo Krasnogo Znameni Krym. Astrofiz. Obs. 37, 56.
+Raja Bayanna, A., Mathew, S.K., Venkatakrishnan, P., Srivastava, N.: 2014, Narrow-band imaging system for the multi-application solar telescope at Udaipur Solar Observatory: characterization of lithium niobate etalons. Solar Phys. 289, 4007.
+Ruiz Cobo, B., del Toro Iniesta, J.C.: 1992, Inversion of Stokes profiles. Astrophys. J. 398, 375.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The helioseismic and magnetic imager (HMI) investigation for the solar dynamics observatory (SDO). Solar Phys. 275, 207.
+Skumanich, A., Lites, B.W.: 1987, Stokes profile analysis and vector magnetic fields. I – Inversion of photospheric lines. Astrophys. J. 322, 473.
+Socas-Navarro, H.: 2001, Stokes inversion techniques: recent achievements and future horizons. In: Sigwarth, M. (ed.) Advanced Solar Polarimetry – Theory, Observation, and Instrumentation, Astron. Soc. Pac. Conf. Ser. 236, 487.
+Socas-Navarro, H.: 2015, NICOLE: NLTE Stokes Synthesis/Inversion Code, Astrophysics Source Code Library.
+Solanki, S.K.: 1993, Smallscale solar magnetic fields – an overview. Space Sci. Rev. 63, 1.
+Solanki, S.K.: 2003, Sunspots: An overview. Astron. Astrophys. Rev. 11, 153.
+Stix, M.: 2004, The Sun: An Introduction. 2nd edn. Springer, Berlin.
+Tiwary, A.R., Mathew, S.K., Bayanna, A.R., Venkatakrishnan, P., Yadav, R.: 2017, Imaging spectropolarimeter for the multi-application solar telescope at Udaipur Solar Observatory: characterization of polarimeter and preliminary observations. Solar Phys. 292(4), 49.
+Tsuneta, S., Ichimoto, K., Katsukawa, Y., Nagata, S., Otsubo, M., Shimizu, T., Suematsu, Y., Nakagiri, M., Noguchi, M., Tarbell, T., Title, A., Shine, R., Rosenberg, W., Hoffmann, C., Jurcevich, B., Kushner, G., Levay, M., Lites, B., Elmore, D., Matsushita, T., Kawaguchi, N., Saito, H., Mikami, I., Hill, L.D., Owens, J.K.: 2008, The solar optical telescope for the Hinode mission: an overview. Solar Phys. 249, 167.
+Unno, W.: 1956, Line formation of a normal Zeeman triplet. Publ. Astron. Soc. Japan 8, 108.
+Westendorp Plaza, C., del Toro Iniesta, J.C., Ruiz Cobo, B., Martínez Pillet, V., Lites, B.W., Skumanich, A.: 1998, Optical tomography of a sunspot. I. Comparison between two inversion techniques. Astrophys. J. 494, 453.

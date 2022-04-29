@@ -1,0 +1,11 @@
+Ackermann, M., Ajello, M., Albert, A., Allafort, A., Baldini, L., Barbiellini, G., et al.: 2014, Astrophys. J. 787, 15.
+Biermann, L., Haxcel, O., Shulter, A.: 1951, Z. Naturforsch. A 6, 47.
+Chupp, E.L., Forrest, D.J., Ryan, J.M., Heslin, J., Reppin, C., Pinkau, K., et al.: 1982, Astrophys. J. Lett. 263, L95.
+Chupp, E.L., Debrunner, H., Fluckiger, E., Forrest, D.J., Golliez, F., Kanbach, G.K., et al.: 1987, Astrophys. J. 318, 913.
+Imaida, I., Muraki, Y., Matsubara, Y., Masuda, K., Tsuchiya, H., Hoshida, T., et al.: 1999, Nucl. Instrum. Methods Phys. A 421, 99.
+Koga, K., Goka, T., Matsumoto, H., Obara, T., Muraki, Y., Yamamoto, T., et al.: 2011, Astrophys. Space Sci. Trans. 7, 411.
+Mandzhavidze, N., Ramaty, R.: 1992, Astrophys. J. 396, L111.
+Muraki, Y., Koga, K., Goka, T., Matsumoto, H., Obara, T., Okudaira, O., et al.: 2012, Adv. Astron. 14, 379304.
+Muraki, Y., Lopez, D., Koga, K., Kakimoto, F., Goka, T., González, X., et al.: 2016, Solar Phys. 291, 1241.
+Sakai, J.: 1990, Astrophys. J. 36, 354.
+Sakai, J., de Jager, C.: 1996, Space Sci. Rev. 77, 1.

@@ -1,0 +1,47 @@
+Adhikari, B.: 2015, HILDCAA-related effects recorded in middle-low latitude Magnetometers. Ph.D. Thesis, Instituto Nacional de Pesquisas Espaciais (INPE).
+Adhikari, B., Chapagain, N.P.: 2015, Polar cap potential and merging electric field during high intensity long duration continuous auroral activity. J. Nepal Phys. Soc. 3(1), 6.
+Adhikari, B., Baruwal, P., Chapagain, N.P.: 2017, Analysis of moderate storm events with reference to polar cap potential and polar cap index. Earth Space Sci. 4, 2.
+Alves, M.V., Echer, E., Gonzalez, W.D.: 2006, Geoeffectiveness of corotating interaction regions as measured by Dst index. J. Geophys. Res. 111, A07S05.
+Bieber, J.W., Clem, J., Evenson, P., Pyle, R., Sáiz, A., Ruffolo, D.: 2013, Giant ground level enhancement of relativistic solar protons on 2005 January 20. I. Spaceship Earth Observations. Astrophys. J. 771, 92.
+Blanco, J.J., Catalan, E., Hidalgo, M.A., Medina, J., Garcia, O., Rodriguez-Pacheco, J.: 2013, Observable effects of interplanetary coronal mass ejections on ground level neutron monitor counting rates. Solar Phys. 284, 167.
+Bütikofer, R., Flückiger, E.O., Desorghner, L., Moser, M.R., Pirard, B.: 2009, The solar cosmic ray ground-level enhancement on 20 January 2005 and 13 December 2006. Adv. Space Res. 43, 499.
+Cane, H.V.: 2000, Coronal mass ejections and Forbush decreases. Space Sci. Rev. 93, 55.
+Cane, H.V., Richardson, I.G., Von Rosenvinge, T.T.: 1993, Cosmic ray decreases and particle acceleration in 1978 – 1982 and the associated solar wind structures. J. Geophys. Res. 98, 295.
+Cane, H.V., Richardson, I.G., Von Rosenvinge, T.T.: 1996, Cosmic ray decreases: 1964 – 1994. J. Geophys. Res. 101, 561.
+Chapagain, N.P.: 2016, Total ozone content over Kathmandu from TOMS observations. Int. J. Eng. Res. Appl. 6, 69.
+De Mendonça, R.R.S., Raulin, J.P., Echer, E., Makhmutov, V.S., Fernandez, G.: 2013, Analysis of atmospheric pressure and temperature effects on cosmic ray measurements. J. Geophys. Res. Space Phys. 118, 1403.
+Dungey, J.W.: 1961, Interplanetary magnetic field and the auroral zones. Phys. Rev. Lett. 6, 47.
+Echer, E., Gonzalez, W.D., Tsurutani, B.T., Clua-Gonzalez, A.L.: 2008, Interplanetary conditions leading to superintense geomagnetic storms (Dst≤ {-}250~nT) during solar cycle 23 (1996 – 2006). J. Geophys. Res. 113(13), 17.
+Forbush, S.E.: 1937, On the effects in cosmic-ray intensity observed during the recent magnetic storm. Phys. Rev. 51(12), 1108.
+Gonzalez, W.D., Tsurutani, B.T.: 1987, Criteria of interplanetary parameters causing intense magnetic storms (dst<{-}100~nt). Planet. Space Sci. 35, 1101.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. Space Phys. 99(A4), 5771.
+Gonzalez, W.D., Tsurutani, B.T., Clua de Gonzalez, A.L.: 1999, Interplanetary origin of geomagnetic storms. Space Sci. Rev. 88, 529.
+Gosling, J.T., Pizzo, V.J.: 1999, Formation and evolution of corotating interaction regions and their three dimensional structure. Space Sci. Rev. 89, 21.
+Gosling, J.T., Mccomas, D.K., Phillips, J.L., Bame, S.J.: 1991, Geomagnetic activity associated with Earth passage of interplanetary shock disturbances and coronal mass ejections. J. Geophys. Res. 96, 7831.
+Guarnieri, F.L., Tsurutani, B.T., Gonzalez, W.D., Echer, E., Gonzalez, A.L.C., Grande, M., Soraas, F.: 2006, ICME and CIR storms with particular emphasis on HILDCAA events. In: ILWS Workshop, Goa.
+Hajra, R., Echer, E., Tsurutani, B.T., Gonzalez, W.D.: 2013, Solar cycle dependence of High-Intensity Long-Duration Continuous AE Activity (HILDCAA) events, relativistic electron predictors? J. Geophys. Res. Space Phys. 118, 5626.
+Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D.: 2014, Relativistic electron acceleration during high-intensity, long-duration, continuous AE activity (HILDCAA) events: Solar cycle phase dependences. Geophys. Res. Lett. 41, 1876.
+Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D., Gjerloev, J.W.: 2016, Supersubstorms (SML<-2500~nT): Magnetic storm and solar cycle dependences. J. Geophys. Res. Space Phys. 121, 7805.
+Hudson, H.S., Bougeret, J.-L., Burkepile, J.: 2006, Coronal mass ejections: Overview of observations. Space Sci. Rev. 123, 13.
+Kamide, Y., Richmond, A.D., Matsushita, S.: 1981, Estimation of ionospheric electric fields, ionospheric currents and field-aligned currents from ground magnetic records. J. Geophys. Res. 86, 801.
+Kozyra, J.U., et al.: 2014, Solar filament impact on 21 January 2005: Geospace consequences. J. Geophys. Res. Space Phys. 119, 5401.
+Kudela, K., Brenkus, R.: 2004, Cosmic ray decreases and geomagnetic activity: List of events 1982 – 2002. J. Atmos. Solar-Terr. Phys. 66, 1121.
+Kumar, A., Badruddin: 2014, Cosmic-ray modulation due to high-speed solar-wind streams of different sources, speed, and duration. Solar Phys. 289, 4267.
+Lakhina, G.S., Alex, S., Tsurutani, B.T., Gonzalez, W.D.: 2005, Research on historical records of geomagnetic storms. In: Proceedings of the International Astronomical Union, 2004 (IAUS226), 3.
+Lockwood, J.A.: 1971, Forbush decreases in the cosmic radiation. Space Sci. Rev. 12, 658.
+Lockwood, J.A., Webber, W.R.: 1992, On the interplanetary cosmic ray latitudinal gradient. J. Geophys. Res. Space Phys. 97(A6), 8221.
+Lyons, L.R., Lee, D.-Y., Thorne, R.M., Horne, R.B., Smith, A.J.: 2005, Solar wind–magnetosphere coupling leading to relativistic electron energization during high-speed streams. J. Geophys. Res. 110, A11202.
+Parnahaj, I., Kudela, K., Kancirova, M.: 2013, On cosmic ray decreases, geomagnetic storms, and CMEs. In: WDS’13 Proceedings of Contributed Papers, Part II, 13.
+Prestes, A., Klausner, V., Ojeda-Gonzalez, A., Serra, S.L.: 2016, HILDCAA* events between 1998 and 2007 and their related interplanetary magnetic field and plasma values.
+Ryan, J.M., Lockwood, J.A., Debrunner, H.: 2000, Solar energetical particles. Space Sci. Rev. 93, 35.
+Shea, M.A., Smart, D.F.: 2001, Vertical cutoff rigidities for cosmic ray stations since 1955. In: Proc. Int. Conf. Cosmic Rays 27th, 4063.
+Silva, M.R., Alarcon, W.D., Echer, E., et al.: 2007, Multitaper spectral analysis of cosmic rays Sao Martinho da Serra’s muon telescope and Newark’s neutron monitor data. Rev. Bras. Geofís. 25(suppl2), 163.
+Simpson, J.A.: 2000, The cosmic ray nucleonic component: the invention and scientific uses of the neutron monitor. Space Sci. Rev. 93, 11.
+Simpson, J.A., Fonger, W., Treiman, S.B.: 1953, Cosmic radiation intensity-time variations and their origin. I. Neutron intensity variation method and meteorological factors. Phys. Rev. 90, 934.
+Smith, E.J., Wolf, J.H.: 1976, Observation of interaction region and corotating shocks between one and five AU: Pioneer 10 and 11. Geophys. Res. Lett. 3, 137.
+Tanskanen, E., Pulkkinen, T.I., Koskinen, H.E.J.: 2002, Substorm energy budget during low and high solar activity: 1997 and 1999 compared. J. Geophys. Res. 107(A6), 1086.
+Tsurutani, B.T., Gonzalez, W.D., Tang, F., Akasofu, S.I., Smith, E.J.: 1988, Origin of interplanetary southward magnetic fields responsible for major magnetic storms near solar maximum (1978 – 1979). J. Geophys. Res. 93, 8519.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L.C., Tang, F., Arballo, J.K., Okada, M.: 1995, Interplanetary origin of geomagnetic activity in the declining phase of the solar cycle. J. Geophys. Res. 100, 21717.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, F.L., Kamide, Y., Zhou, X., Arballo, J.K.: 2004, Are High-Intensity Long-Duration Continuous AE Activity (HILDCAA) events substorm expansion events? J. Atmos. Solar-Terr. Phys. 66, 167.
+Tsurutani, B.T., Hajra, R., Echer, E., Gjerloev, J.W.: 2015, Extremely intense (SML ≤ {-}2500~nT) substorms: Isolated events that are externally triggered? Ann. Geophys. 33, 519.
+Zurbuchen, T.H., Richardson, I.: 2006, In-situ solar wind and field signatures of interplanetary coronal mass ejections. Space Sci. Rev. 123, 31.

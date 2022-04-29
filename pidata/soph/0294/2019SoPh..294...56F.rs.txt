@@ -1,0 +1,81 @@
+Asai, A., Ishii, T.T., Isobe, H., Kitai, R., Ichimoto, K., UeNo, S., Nagata, S., Morita, S., Nishida, K., Shiota, D., Oi, A., Akioka, M., Shibata, K.: 2012, First simultaneous observation of an H\upalpha Moreton wave, EUV wave, and filament/prominence oscillations. Astrophys. J. Lett. 745, L18.
+Attrill, G.D.R., Harra, L.K., van Driel-Gesztelyi, L., Démoulin, P.: 2007, Coronal “wave”: magnetic footprint of a coronal mass ejection? Astrophys. J. Lett. 656, L101.
+Attrill, G.D.R., Engell, A.J., Wills-Davey, M.J., Grigis, P., Testa, P.: 2009, Hinode/XRT and STEREO observations of a diffuse coronal “wave”-coronal mass ejection-dimming event. Astrophys. J. 704, 1296.
+Ballai, I.: 2007, Global coronal seismology. Solar Phys. 246, 177.
+Ballai, I., Erdélyi, R., Pintér, B.: 2005, On the nature of coronal EIT waves. Astrophys. J. Lett. 633, L145.
+Benz, A.O., Thejappa, G.: 1988, Radio emission of coronal shock waves. Astron. Astrophys. 202, 267.
+Biesecker, D.A., Thompson, B.J.: 2002, Can EIT waves be used to predict halo CME properties? In: American Astronomical Society Meeting Abstracts #200, Bulletin of the American Astronomical Society 34, 695.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Chandra, R., Schmieder, B., Aulanier, G., Malherbe, J.M.: 2009, Evidence of magnetic helicity in emerging flux and associated flare. Solar Phys. 258, 53.
+Chandra, R., Schmieder, B., Mandrini, C.H., Démoulin, P., Pariat, E., Török, T., Uddin, W.: 2011, Homologous flares and magnetic field topology in active region NOAA 10501 on 20 November 2003. Solar Phys. 269, 83.
+Chandra, R., Chen, P.F., Fulara, A., Srivastava, A.K., Uddin, W.: 2016, Peculiar stationary EUV wave fronts in the eruption on 2011 May 11. Astrophys. J. 822, 106.
+Chandra, R., Chen, P.F., Joshi, R., Joshi, B., Schmieder, B.: 2018, Observations of two successive EUV waves and their mode conversion. Astrophys. J. 863, 101.
+Chen, P.F.: 2009, The relation between EIT waves and coronal mass ejections. Astrophys. J. Lett. 698, L112.
+Chen, P.F.: 2016, Global Coronal Waves, Geophysical Monograph Series 216, American Geophysical Union, Washington DC, 381.
+Chen, P.: 2017, The continued debate on solar coronal EUV waves. Sci. China Ser. G, Phys. Mech. Astron. 60, 29631.
+Chen, P.F., Fang, C., Shibata, K.: 2005, A full view of EIT waves. Astrophys. J. 622, 1202.
+Chen, P.F., Wu, Y.: 2011, First evidence of coexisting EIT wave and coronal Moreton wave from SDO/AIA observations. Astrophys. J. Lett. 732, L20.
+Chen, P.F., Wu, S.T., Shibata, K., Fang, C.: 2002, Evidence of EIT and Moreton waves in numerical simulations. Astrophys. J. Lett. 572, L99.
+Chen, P.F., Fang, C., Chandra, R., Srivastava, A.K.: 2016, Can a fast-mode EUV wave generate a stationary front? Solar Phys. 291, 3195.
+Cheng, X., Zhang, J., Olmedo, O., Vourlidas, A., Ding, M.D., Liu, Y.: 2012, Investigation of the formation and separation of an extreme-ultraviolet wave from the expansion of a coronal mass ejection. Astrophys. J. Lett. 745, L5.
+Cohen, O., Attrill, G.D.R., Manchester, W.B. IV, Wills-Davey, M.J.: 2009, Numerical simulation of an EUV coronal wave based on the 2009 February 13 CME event observed by STEREO. Astrophys. J. 705, 587.
+Dai, Y., Auchère, F., Vial, J.-C., Tang, Y.H., Zong, W.G.: 2010, Large-scale extreme-ultraviolet disturbances associated with a limb coronal mass ejection. Astrophys. J. 708, 913.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Moses, J.D., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Maucherat, A., Clette, F., Cugnon, P., van Dessel, E.L.: 1995, EIT: Extreme-ultraviolet Imaging Telescope for the SOHO mission. Solar Phys. 162, 291.
+Delannée, C., Aulanier, G.: 1999, CME associated with transequatorial loops and a bald patch flare. Solar Phys. 190, 107.
+Delannée, C., Hochedez, J.-F., Aulanier, G.: 2007, Stationary parts of an EIT and Moreton wave: a topological model. Astron. Astrophys. 465, 603.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, The SOHO mission: an overview. Solar Phys. 162, 1.
+Downs, C., Roussev, I.I., van der Holst, B., Lugaz, N., Sokolov, I.V.: 2012, Understanding SDO/AIA observations of the 2010 June 13 EUV wave event: direct insight from a global thermodynamic MHD simulation. Astrophys. J. 750, 134.
+Gallagher, P.T., Long, D.M.: 2011, Large-scale bright fronts in the solar corona: a review of “EIT waves”. Space Sci. Rev. 158, 365.
+Gilbert, H.R., Daou, A.G., Young, D., Tripathi, D., Alexander, D.: 2008, The filament-Moreton wave interaction of 2006 December 6. Astrophys. J. 685, 629.
+Gopalswamy, N., Yashiro, S., Temmer, M., Davila, J., Thompson, W.T., Jones, S., McAteer, R.T.J., Wuelser, J.-P., Freeland, S., Howard, R.A.: 2009, EUV wave reflection from a coronal hole. Astrophys. J. Lett. 691, L123.
+Guo, Y., Ding, M.D., Chen, P.F.: 2015, Slow patchy extreme-ultraviolet propagating fronts associated with fast coronal magneto-acoustic waves in solar eruptions. Astrophys. J. Suppl. 219, 36.
+Guo, Y., Erdélyi, R., Srivastava, A.K., Hao, Q., Cheng, X., Chen, P.F., Ding, M.D., Dwivedi, B.N.: 2015, Magnetohydrodynamic seismology of a coronal loop system by the first two modes of standing kink waves. Astrophys. J. 799, 151.
+Harra, L.K., Sterling, A.C.: 2003, Imaging and spectroscopic investigations of a solar coronal wave: properties of the wave front and associated erupting material. Astrophys. J. 587, 429.
+Janvier, M.: 2017, Three-dimensional magnetic reconnection and its application to solar flares. J. Plasma Phys. 83, 535830101.
+Jin, M., Ding, M.D., Chen, P.F., Fang, C., Imada, S.: 2009, Coronal mass ejection induced outflows observed with Hinode/EIS. Astrophys. J. 702, 27.
+Joshi, B., Kushwaha, U., Veronig, A.M., Dhara, S.K., Shanmugaraju, A., Moon, Y.-J.: 2017, Formation and eruption of a flux rope from the sigmoid active region NOAA 11719 and associated M6.5 flare: a multi-wavelength study. Astrophys. J. 834, 42.
+Kienreich, I.W., Muhr, N., Veronig, A.M., Berghmans, D., De Groof, A., Temmer, M., Vršnak, B., Seaton, D.B.: 2013, Solar TErrestrial Relations Observatory-A (STEREO-A) and PRoject for on-board autonomy 2 (PROBA2) quadrature observations of reflections of three EUV waves from a coronal hole. Solar Phys. 286, 201.
+Kondo, T., Isobe, T., Igi, S., Watari, S., Tokimura, M.: 1995, The Hiraiso Radio Spectrograph (HiRAS) for monitoring solar radio bursts. J. Commun. Res. Lab. 42(1), 111.
+Kumar, P., Cho, K.-S., Chen, P.F., Bong, S.-C., Park, S.-H.: 2013, Multiwavelength study of a solar eruption from AR NOAA 11112: II. Large-scale coronal wave and loop oscillation. Solar Phys. 282, 523.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Liu, W., Ofman, L.: 2014, Advances in observing various coronal EUV waves in the SDO era and their seismological applications (invited review). Solar Phys. 289, 3233.
+Long, D.M., Gallagher, P.T., McAteer, R.T.J., Bloomfield, D.S.: 2008, The kinematics of a globally propagating disturbance in the solar corona. Astrophys. J. Lett. 680, L81.
+Long, D.M., Baker, D., Williams, D.R., Carley, E.P., Gallagher, P.T., Zucca, P.: 2015, The energetics of a global shock wave in the low solar corona. Astrophys. J. 799, 224.
+Long, D.M., Bloomfield, D.S., Chen, P.F., Downs, C., Gallagher, P.T., Kwon, R.-Y., Vanninathan, K., Veronig, A.M., Vourlidas, A., Vršnak, B., Warmuth, A., Žic, T.: 2017, Understanding the physical nature of coronal “EIT waves”. Solar Phys. 292, 7.
+Lulić, S., Vršnak, B., Žic, T., Kienreich, I.W., Muhr, N., Temmer, M., Veronig, A.M.: 2013, Formation of coronal shock waves. Solar Phys. 286, 509.
+Ma, S., Raymond, J.C., Golub, L., Lin, J., Chen, H., Grigis, P., Testa, P., Long, D.: 2011, Observations and interpretation of a low coronal shock wave observed in the EUV by the SDO/AIA. Astrophys. J. 738, 160.
+Mann, G., Klassen, A., Aurass, H., Classen, H.T.: 2003, Development of shocks waves in the solar corona and the interplanetary space. In: Solar Wind Ten, American Institute of Physics Conference Series 679, 612.
+Mei, Z., Udo, Z., Lin, J.: 2012, Numerical experiments of disturbance to the solar atmosphere caused by eruptions. Sci. China Ser. G, Phys. Mech. Astron. 55, 1316.
+Moses, D., Clette, F., Delaboudinière, J.-P., Artzner, G.E., Bougnet, M., Brunaud, J., Carabetian, C., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Newmark, J., Thompson, B., Maucherat, A., Portier-Fozzani, F., Berghmans, D., Cugnon, P., van Dessel, E.L., Gabryl, J.R.: 1997, EIT observations of the extreme ultraviolet sun. Solar Phys. 175, 571.
+Muhr, N., Veronig, A.M., Kienreich, I.W., Temmer, M., Vršnak, B.: 2011, Analysis of characteristic parameters of large-scale coronal waves observed by the Solar-Terrestrial Relations Observatory/Extreme Ultraviolet Imager. Astrophys. J. 739, 89.
+Muhr, N., Veronig, A.M., Kienreich, I.W., Vršnak, B., Temmer, M., Bein, B.M.: 2014, Statistical analysis of large-scale EUV waves observed by STEREO/EUVI. Solar Phys. 289, 4563.
+Newkirk, G. Jr.: 1961, The solar corona in active regions and the thermal origin of the slowly varying component of solar radio radiation. Astrophys. J. 133, 983.
+Nitta, N.V., Schrijver, C.J., Title, A.M., Liu, W.: 2013, Large-scale coronal propagating fronts in solar eruptions as observed by the Atmospheric Imaging Assembly on board the Solar Dynamics Observatory – an ensemble study. Astrophys. J. 776, 58.
+Ouyang, Y., Zhou, Y.H., Chen, P.F., Fang, C.: 2017, Chirality and magnetic configurations of solar filaments. Astrophys. J. 835, 94.
+Patsourakos, S., Vourlidas, A.: 2009, “Extreme ultraviolet waves” are waves: first quadrature observations of an extreme ultraviolet wave from STEREO. Astrophys. J. Lett. 700, L182.
+Patsourakos, S., Vourlidas, A.: 2012, On the nature and genesis of EUV waves: a synthesis of observations from SOHO, STEREO, SDO, and Hinode (invited review). Solar Phys. 281, 187.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Schmidt, J.M., Ofman, L.: 2010, Global simulation of an Extreme Ultraviolet Imaging Telescope wave. Astrophys. J. 713, 1008.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Flare-CME models: an observational perspective (invited review). Solar Phys. 290, 3457.
+Sterling, A.C., Hudson, H.S.: 1997, Yohkoh SXT observations of X-ray “dimming” associated with a halo coronal mass ejection. Astrophys. J. Lett. 491, L55.
+Su, W., Cheng, X., Ding, M.D., Chen, P.F., Ning, Z.J., Ji, H.S.: 2016, Investigating the conditions of the formation of a Type II radio burst on 2014 January 8. Astrophys. J. 830, 70.
+Thompson, B.J., Myers, D.C.: 2009, A catalog of coronal “EIT wave” transients. Astrophys. J. 183, 225.
+Thompson, B.J., Plunkett, S.P., Gurman, J.B., Newmark, J.S., St. Cyr, O.C., Michels, D.J.: 1998, SOHO/EIT observations of an Earth-directed coronal mass ejection on May 12, 1997. Geophys. Res. Lett. 25, 2465.
+Torrence, C., Compo, G.P.: 1998, A practical guide to wavelet analysis. Bull. Am. Meteorol. Soc. 79, 61.
+Vemareddy, P., Mishra, W.: 2015, A full study on the Sun–Earth connection of an Earth-directed CME magnetic flux rope. Astrophys. J. 814, 59.
+Veronig, A.M., Temmer, M., Vršnak, B.: 2008, High-cadence observations of a global coronal wave by STEREO EUVI. Astrophys. J. Lett. 681, L113.
+Wang, Y.-M.: 2000, EIT waves and fast-mode propagation in the solar corona. Astrophys. J. Lett. 543, L89.
+Wang, T., Yan, Y., Wang, J., Kurokawa, H., Shibata, K.: 2002, The large-scale coronal field structure and source region features for a halo coronal mass ejection. Astrophys. J. 572, 580.
+Warmuth, A.: 2007, Large-scale Waves and Shocks in the Solar Corona, Lecture Notes in Physics 725, Springer, Berlin, 107.
+Warmuth, A.: 2010, Large-scale waves in the solar corona: the continuing debate. Adv. Space Res. 45, 527.
+Warmuth, A.: 2015, Large-scale globally propagating coronal waves. Living Rev. Solar Phys. 12, 3.
+Webb, D.F., Lepping, R.P., Burlaga, L.F., DeForest, C.E., Larson, D.E., Martin, S.F., Plunkett, S.P., Rust, D.M.: 2000, The origin and development of the May 1997 magnetic cloud. J. Geophys. Res. 105, 27251.
+Wills-Davey, M.J., Attrill, G.D.R.: 2009, EIT waves: a changing understanding over a solar cycle. Space Sci. Rev. 149, 325.
+Wills-Davey, M.J., Thompson, B.J.: 1999, Observations of a propagating disturbance in TRACE. Solar Phys. 190, 467.
+Wu, S.T., Zheng, H., Wang, S., Thompson, B.J., Plunkett, S.P., Zhao, X.P., Dryer, M.: 2001, Three-dimensional numerical simulation of MHD waves observed by the Extreme Ultraviolet Imaging Telescope. J. Geophys. Res. 106, 25089.
+Zheng, R., Chen, Y., Feng, S., Wang, B., Song, H.: 2018, An extreme-ultraviolet wave generating upward secondary waves in a streamer-like solar structure. Astrophys. J. Lett. 858, L1.
+Zhou, X-p., Liang, H-f.: 2017, A study on the fast solar corona extreme-ultraviolet wave associated with a coronal mass ejection. Chin. J. Astron. Astrophys. 41, 224.
+Zhukov, A.N.: 2011, EIT wave observations and modeling in the STEREO era. J. Atmos. Solar-Terr. Phys. 73, 1096.
+Zhukov, A.N., Auchère, F.: 2004, On the nature of EIT waves, EUV dimmings and their link to CMEs. Astron. Astrophys. 427, 705.
+Zong, W., Dai, Y.: 2017, Mode conversion of a solar extreme-ultraviolet wave over a coronal cavity. Astrophys. J. Lett. 834, L15.
+Zucca, P., Carley, E.P., Bloomfield, D.S., Gallagher, P.T.: 2014, The formation heights of coronal shocks from 2D density and Alfvén speed maps. Astron. Astrophys. 564, A47.

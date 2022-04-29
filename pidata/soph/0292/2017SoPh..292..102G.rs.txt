@@ -1,0 +1,88 @@
+Afanasyev, A.N., Uralov, A.M., Grechnev, V.V.: 2013, Astron. Rep. 57, 594.
+Akinian, S.T., Alibegov, M.M., Kozlovski, V.D., Chertok, I.M.: 1978, Geomagn. Aeron. 18, 410.
+Aschwanden, M.J.: 2012, Space Sci. Rev. 173, 3.
+Balasubramaniam, K.S., Pevtsov, A.A., Neidig, D.F.: 2007, Astrophys. J. 658, 1372.
+Belov, A.V., Eroshenko, E.A., Kryakunova, O.N., Kurt, V.G., Yanke, V.G.: 2010, Geomagn. Aeron. 50, 21.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P.J., Manning, R., Goetz, K., Monson, S.J., Monge, N., Friel, L., Meetre, C.A., Perche, C., Sitruk, L., Hoang, S.: 1995, Space Sci. Rev. 71, 231.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., et al.: 1995, Solar Phys. 162, 357.
+Cane, H.V., Erickson, W.C.: 2005, Astrophys. J. 623, 1180.
+Cane, H.V., Richardson, I.G., von Rosenvinge, T.T.: 2010, J. Geophys. Res. A 115, A08101.
+Castelli, J.P., Barron, W.R.: 1977, J. Geophys. Res. 82, 1275.
+Chertok, I.M.: 1995, In: Iucci, N., Lamanna, E. (eds.) 24th Internat. Cosmic Ray Conf., Rome, Italy, 4, 78. Internat. Union Pure and Appl. Phys.
+Chupp, E.L., Ryan, J.M.: 2009, Res. Astron. Astrophys. 9, 11.
+Ciaravella, A., Raymond, J.C., Kahler, S.W.: 2006, Astrophys. J. 652, 774.
+Cliver, E.W.: 2006, Astrophys. J. 639, 1206.
+Croom, D.L.: 1971, Solar Phys. 19, 171.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., et al.: 1995, Solar Phys. 162, 291.
+Desai, M.I., Mason, G.M., Gold, R.E., Krimigis, S.M., Cohen, C.M.S., Mewaldt, R.A., Mazur, J.E., Dwyer, J.R.: 2006, Astrophys. J. 649, 470.
+Dierckxsens, M., Tziotziou, K., Dalla, S., Patsou, I., Marsh, M.S., Crosby, N.B., Malandraki, O., Tsiropoula, G.: 2015, Solar Phys. 290, 841.
+Filippov, B., Golub, L., Koutchmy, S.: 2009, Solar Phys. 254, 259.
+Geier, S., Barbier, L.M., Binns, W.R., Christian, E.R., Cummings, J.R., de Nolfo, S.M., Israel, M.H., Link, J.T., Mewaldt, R.A., Mitchell, J.W., et al.: 2003, In: Kajita, T., Asaoka, Y., Kawachi, A., Matsubara, Y., Sasaki, M. (eds.) 28th Internat. Cosmic Ray Conf. 6, Universal Academy Press, Tokyo, 3261.
+Gopalswamy, N., Mäkelä, P., Akiyama, S., Yashiro, S., Xie, H., Thakur, N., Kahler, S.W.: 2015, Astrophys. J. 806, 8.
+Gopalswamy, N., Xie, H., Yashiro, S., Akiyama, S., Mäkelä, P., Usoskin, I.G.: 2012, Space Sci. Rev. 171, 23.
+Grechnev, V.V.: 2003, Solar Phys. 213, 103.
+Grechnev, V.V., Kochanov, A.A.: 2016, Solar Phys. 291, I.
+Grechnev, V.V., Lesovoi, S.V., Smolkov, G.Y., Krissinel, B.B., Zandanov, V.G., Altyntsev, A.T., Kardapolova, N.N., Sergeev, R.Y., Uralov, A.M., Maksimov, V.P., Lubyshev, B.I.: 2003, Solar Phys. 216, 239.
+Grechnev, V.V., Uralov, A.M., Zandanov, V.G., Rudenko, G.V., Borovik, V.N., Grigorieva, I.Y., Slemzin, V.A., Bogachev, S.A., Kuzin, S.V., Zhitnik, I., Pertsov, A.A., Shibasaki, K., Livshits, M.A.: 2006, Publ. Astron. Soc. Japan 58, 55.
+Grechnev, V.V., Kurt, V.G., Chertok, I.M., Uralov, A.M., Nakajima, H., Altyntsev, A.T., Belov, A.V., Yushkov, B.Y., Kuznetsov, S.N., Kashapova, L.K., Meshalkina, N.S., Prestage, N.P.: 2008a, Solar Phys. 252, 149.
+Grechnev, V.V., Uralov, A.M., Slemzin, V.A., Chertok, I.M., Kuzmenko, I.V., Shibasaki, K.: 2008b, Solar Phys. 253, 263.
+Grechnev, V.V., Uralov, A.M., Chertok, I.M., Kuzmenko, I.V., Afanasyev, A.N., Meshalkina, N.S., Kalashnikov, S.S., Kubo, Y.: 2011, Solar Phys. 273, 433.
+Grechnev, V.V., Kiselev, V.I., Uralov, A.M., Meshalkina, N.S., Kochanov, A.A.: 2013a. Publ. Astron. Soc. Japan 65(sp1), S9.
+Grechnev, V.V., Meshalkina, N.S., Chertok, I.M., Kiselev, V.I.: 2013b, Publ. Astron. Soc. Japan 65(sp1), S4.
+Grechnev, V.V., Uralov, A.M., Chertok, I.M., Belov, A.V., Filippov, B.P., Slemzin, V.A., Jackson, B.V.: 2014a, Solar Phys. 289, 4653.
+Grechnev, V.V., Uralov, A.M., Chertok, I.M., Slemzin, V.A., Filippov, B.P., Egorov Ya, I., Fainshtein, V.G., Afanasyev, A.N., Prestage, N., Temmer, M.: 2014b, Solar Phys. 289, 1279.
+Grechnev, V.V., Kiselev, V.I., Meshalkina, N.S., Chertok, I.M.: 2015a, Solar Phys. 290, 2827.
+Grechnev, V.V., Uralov, A.M., Kuzmenko, I.V., Kochanov, A.A., Chertok, I.M., Kalashnikov, S.S.: 2015b, Solar Phys. 290, 129.
+Grechnev, V.V., Uralov, A.M., Kochanov, A.A., Kuzmenko, I.V., Prosovetsky, D.V., Egorov, Y.I., Fainshtein, V.G., Kashapova, L.K.: 2016, Solar Phys. 291, 1173.
+Grechnev, V.V., Uralov, A.M., Kiselev, V.I., Kochanov, A.A.: 2017, Solar Phys. 292(3), II.
+Handy, B.N., Acton, L.W., Kankelborg, C.C., Wolfson, C.J., Akin, D.J., Bruner, M.E., Caravalho, R., Catura, R.C., Chevalier, R., Duncan, D.W., et al.: 1999, Solar Phys. 187, 229.
+Kahler, S.W.: 1982, J. Geophys. Res. 87, 3439.
+Kallenrode, M.-B.: 2003, J. Phys. G, Nucl. Part. Phys. 29, 965.
+Klein, K.-L., Trottet, G.: 2001, Space Sci. Rev. 95, 215.
+Klein, K.-L., Mouradian, Z.: 2002, Astron. Astrophys. 381, 683.
+Klein, K.-L., Chupp, E.L., Trottet, G., Magun, A., Dunphy, P.P., Rieger, E., Urpo, S.: 1999, Astron. Astrophys. 348, 271.
+Klein, K.-L., Masson, S., Bouratzis, C., Grechnev, V., Hillaris, A., Preka-Papadema, P.: 2014, Astron. Astrophys. 572, AA4.
+Kocharov, L., Pohjolainen, S., Mishev, A., Reiner, M.J., Lee, J., Laitinen, T., Didkovsky, L.V., Pizzo, V.J., Kim, R., Klassen, A., Karlicky, M., Cho, K.-S., Gary, D.E., Usoskin, I., Valtonen, E., Vainio, R.: 2017, Astrophys. J. 839, 79.
+Knock, S.A., Cairns, I.H.: 2005, J. Geophys. Res. 110(A1), A01101.
+Kwon, R.-Y., Zhang, J., Olmedo, O.: 2014, Astrophys. J. 794, 148.
+Kwon, R.-Y., Zhang, J., Vourlidas, A.: 2015, Astrophys. J. Lett. 799, L29.
+Laitinen, T., Huttunen-Heikinmaa, K., Valtonen, E., Dalla, S.: 2015, Astrophys. J. 806, 114.
+Lario, D., Aran, A., Decker, R.B.: 2009, Solar Phys. 260, 407.
+Mann, G., Klassen, A., Aurass, H., Classen, H.-T.: 2003, Astron. Astrophys. 400, 329.
+Masson, S., Antiochos, S.K., DeVore, C.R.: 2013, Astrophys. J. 771, 82.
+Masson, S., Pariat, E., Aulanier, G., Schrijver, C.J.: 2009, Astrophys. J. 700, 559.
+McLean, D.J.: 1973, Proc. Astron. Soc. Austral. 2, 222.
+Melnikov, V.F., Podstrigach, T.S., Dajbog, E.I., Stolpovskij, V.G.: 1991, Cosm. Res. 29, 87.
+Meshalkina, N.S., Uralov, A.M., Grechnev, V.V., Altyntsev, A.T., Kashapova, L.K.: 2009, Publ. Astron. Soc. Japan 61, 791.
+Mewaldt, R.A., Looper, M.D., Cohen, C.M.S., Haggerty, D.K., Labrador, A.W., Leske, R.A., Mason, G.M., Mazur, J.E., von Rosenvinge, T.T.: 2012, Space Sci. Rev. 171, 97.
+Miklenic, C.H., Veronig, A.M., Vršnak, B.: 2009, Astron. Astrophys. 499, 893.
+Miroshnichenko, L.I., Vashenyuk, E.V., Pérez-Peraza, J.A.: 2013, Geomagn. Aeron. 53, 541.
+Nakajima, H., Nishio, M., Enome, S., Shibasaki, K., Takano, T., Hanaoka, Y., Torii, C., Sekiguchi, H., et al.: 1994, Proc. IEEE 82, 705.
+Nakajima, H., Sekiguchi, H., Sawa, M., Kai, K., Kawashima, S.: 1985, Publ. Astron. Soc. Japan 37, 163.
+Neupert, W.M.: 1968, Astrophys. J. Lett. 153, L59.
+Newkirk, G. Jr.: 1961, Astrophys. J. 133, 983.
+Nitta, N.V., Liu, Y., DeRosa, M.L., Nightingale, R.W.: 2012, Space Sci. Rev. 171, 61.
+Qiu, J., Hu, Q., Howard, T., Yurchyshyn, V.: 2007, Astrophys. J. 659, 758.
+Reames, D.V.: 2009a, Astrophys. J. 693, 812.
+Reames, D.V.: 2009b, Astrophys. J. 706, 844.
+Reames, D.V.: 2013, Space Sci. Rev. 175, 53.
+Reiner, M.J., Vourlidas, A., St. Cyr, O.C., Burkepile, J.T., Howard, R.A., Kaiser, M.L., Prestage, N.P., Bougeret, J.-L.: 2003, Astrophys. J. 590, 533.
+Rouillard, A.P., Sheeley, N.R., Tylka, A., Vourlidas, A., Ng, C.K., Rakowski, C., Cohen, C.M.S., Mewaldt, R.A., Mason, G.M., Reames, D., Savani, N.P., St. Cyr, O.C., Szabo, A.: 2012, Astrophys. J. 752, 44.
+Saito, K.: 1970, Ann. Tokyo Astron. Obs. 12, 53.
+Saito, K., Poland, A.I., Munro, R.H.: 1977, Solar Phys. 55, 121.
+Scherrer, P.H., Bogart, R.S., Bush, R.I., Hoeksema, J.T., Kosovichev, A.G., Schou, J., Rosenberg, W., Springer, L., Tarbell, T.D., Title, A., et al.: 1995, Solar Phys. 162, 129.
+Sheeley, N.R., Wang, Y.-M., Hawley, S.H., Brueckner, G.E., Dere, K.P., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Paswaters, S.E., et al.: 1997, Astrophys. J. 484, 472.
+Smolkov, G.I., Pistolkors, A.A., Treskov, T.A., Krissinel, B.B., Putilov, V.A.: 1986, Astrophys. Space Sci. 119, 1.
+Temmer, M., Veronig, A.M., Vršnak, B., Rybák, J., Gömöry, P., Stoiser, S., Maričić, D.: 2008, Astrophys. J. 673, 95.
+Temmer, M., Veronig, A., Kontar, E., Krucker, S., Vršnak, B.: 2010, Astrophys. J. 712, 1410.
+Trottet, G., Samwel, S., Klein, K.-L., Dudok de Wit, T., Miteva, R.: 2015, Solar Phys. 290, 819.
+Tylka, A.J., Lee, M.A.: 2006, Astrophys. J. 646, 1319.
+Tylka, A.J., Cohen, C.M.S., Dietrich, W.F., Lee, M.A., Maclennan, C.G., Mewaldt, R.A., Ng, C.K., Reames, D.V.: 2005, Astrophys. J. 625, 474.
+Tylka, A.J., Malandraki, O.E., Dorrian, G., Ko, Y.-K., Marsden, R.G., Ng, C.K., Tranquille, C.: 2013, Solar Phys. 285, 251.
+Uralov, A.M., Grechnev, V.V., Rudenko, G.V., Myshyakov, I.I., Chertok, I.M., Filippov, B.P., Slemzin, V.A.: 2014, Solar Phys. 289, 3747.
+Uralova, S.V., Uralov, A.M.: 1994, Solar Phys. 152, 457.
+Vilmer, N., MacKinnon, A.L., Hurford, G.J.: 2011, Space Sci. Rev. 159, 167.
+Vršnak, B., Cliver, E.W.: 2008, Solar Phys. 253, 215.
+Vršnak, B., Warmuth, A., Brajša, R., Hanslmeier, A.: 2002, Astron. Astrophys. 394, 299.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, J. Geophys. Res. 109, A07105.
+Zhang, J., Dere, K.P., Howard, R.A., Kundu, M.R., White, S.M.: 2001, Astrophys. J. 559, 452.

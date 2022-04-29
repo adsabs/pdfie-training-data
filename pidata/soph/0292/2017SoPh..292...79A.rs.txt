@@ -1,0 +1,44 @@
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Cane, H.V., Richardson, I.G., St. Cyr, O.C.: 2000, Coronal mass ejections, interplanetary ejecta and geomagnetic storms. Geophys. Res. Lett. 27, 3591.
+Dumbović, M., Devos, A., Vršnak, B., Sudar, D., Rodriguez, L., Ruždjak, D., Leer, K., Vennerstrøm, S., Veronig, A.: 2015, Geoeffectiveness of coronal mass ejections in the SOHO era. Solar Phys. 290, 579.
+Gonzalez, W.D., Joselyn, J.A., Kamide, Y., Kroehl, H.W., Rostoker, G., Tsurutani, B.T., Vasyliunas, V.M.: 1994, What is a geomagnetic storm? J. Geophys. Res. 99, 5771.
+Gonzalez, W.D., Echer, E., Tsurutani, B.T., Clúa de Gonzalez, A.L., Dal Lago, A.: 2011, Interplanetary origin of intense, superintense and extreme geomagnetic storms. Space Sci. Rev. 158, 69.
+Gopalswamy, N.: 2009, The CME link to geomagnetic storms. In: IAU Symp. 264, 326.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2007, Geoeffectiveness of halo coronal mass ejections. J. Geophys. Res. 112(A6).
+Gopalswamy, N., Xie, H., Mäkelä, P., Akiyama, S., Yashiro, S., Kaiser, M., Howard, R., Bougeret, J.-L.: 2010a, Interplanetary shocks lacking type II radio bursts. Astrophys. J. 710(2), 1111.
+Gopalswamy, N., Yashiro, S., Michalek, G., Xie, H., Mäkelä, P., Vourlidas, A., Howard, R.A.: 2010b, A catalog of halo coronal mass ejections from SOHO. Sun Geosph. 5, 7.
+Gopalswamy, N., Yashiro, S., Xie, H., Akiyama, S., Mäkelä, P.: 2015a, Properties and geoeffectiveness of magnetic clouds during solar cycles 23 and 24. J. Geophys. Res. 120(11), 9221.
+Gopalswamy, N., Xie, H., Akiyama, S., Mäkelä, P., Yashiro, S., Michalek, G.: 2015b, The peculiar behavior of halo coronal mass ejections in solar cycle 24. Astrophys. J. Lett. 804, L23.
+Gosling, J.T., McComas, D.J., Phillips, J.L., Bame, S.J.: 1991, Geomagnetic activity associated with Earth passage of interplanetary shock disturbances and coronal mass ejections. J. Geophys. Res. 96, 7831.
+Kilpua, E.K.J., Olspert, N., Grigorievskiy, A., Käpylä, M.J., Tanskanen, E.I., Miyahara, H., Kataoka, R., Pelt, J., Liu, Y.D.: 2015, Statistical study of strong and extreme geomagnetic disturbances and solar cycle characteristics. Astrophys. J. 806, 272.
+Kim, R.-S., Cho, K.-S., Moon, Y.-J., Kim, Y.-H., Yi, Y., Dryer, M., Bong, S.-C., Park, Y.-D.: 2005, Forecast evaluation of the coronal mass ejection (CME) geoeffectiveness using halo CMEs from 1997 to 2003. J. Geophys. Res. 110(A9), A11104.
+Kim, R.-S., Cho, K.-S., Kim, K.-H., Park, Y.-D., Moon, Y.-J., Yi, Y., Lee, J., Wang, H., Song, H., Dryer, M.: 2008, CME earthward direction as an important geoeffectiveness indicator. Astrophys. J. 677(2), 1378.
+Kim, R.-S., Moon, Y.-J., Gopalswamy, N., Park, Y.-D., Kim, Y.-H.: 2014, Two-step forecast of geomagnetic storm using coronal mass ejection and solar wind condition. Space Weather 12(4), 246.
+Lee, J.-O., Moon, Y.-J., Lee, K.-S., Kim, R.-S.: 2014, Dependence of geomagnetic storms on their associated halo CME parameters. Solar Phys. 289, 2233.
+Lindsay, G.M., Russell, C.T., Luhmann, J.G.: 1995, Coronal mass ejection and stream interaction region characteristics and their potential geomagnetic effectiveness. J. Geophys. Res. 100, 16999.
+Loewe, C., Prölss, G.: 1997, Classification and mean behavior of magnetic storms. J. Geophys. Res. 102(A7), 14209.
+Mayaud, P.N.: 1980, Derivation, Meaning, and Use of Geomagnetic Indices. AGU Geophys. Monograph Ser. 22.
+Michalek, G.: 2006, An asymmetric cone model for halo coronal mass ejections. Solar Phys. 237, 101.
+Michałek, G., Gopalswamy, N., Yashiro, S.: 2003, A new method for estimating widths, velocities, and source location of halo coronal mass ejections. Astrophys. J. 584, 472.
+Michalek, G., Gopalswamy, N., Yashiro, S.: 2007, Prediction of space weather using an asymmetric cone model for halo CMEs. Solar Phys. 246, 399.
+Michalek, G., Gopalswamy, N., Lara, A., Yashiro, S.: 2006, Properties and geoeffectiveness of halo coronal mass ejections. Space Weather 4, S10003.
+Moon, Y.-J., Kim, R.-S., Cho, K.-S.: 2009, Geometrical implication of the CME earthward direction parameter and its comparison with cone model parameters. J. Korean Astron. Soc. 42, 27.
+Moon, Y.-J., Cho, K.-S., Dryer, M., Kim, Y.-H., Bong, S.-c., Chae, J., Park, Y.: 2005, New geoeffective parameters of very fast halo coronal mass ejections. Astrophys. J. 624(1), 414.
+Richardson, I., Cane, H.: 2010, Near-earth interplanetary coronal mass ejections during solar cycle 23 (1996 – 2009): catalog and summary of properties. Solar Phys. 264(1), 189.
+Richardson, I.G., Cane, H.V.: 2012, Solar wind drivers of geomagnetic storms during more than four solar cycles. J. Space Weather Space Clim. 2(27), A01.
+Shanmugaraju, A., Vršnak, B.: 2014, Transit time of coronal mass ejections under different ambient solar wind conditions. Solar Phys. 289(1), 339.
+Shanmugaraju, A., Ibrahim, M.S., Moon, Y.-J., Rahman, A.M., Umapathy, S.: 2015, Empirical relationship between CME parameters and geo-effectiveness of halo CMEs in the rising phase of solar cycle 24 (2011 – 2013). Solar Phys. 290(5), 1417.
+Srivastava, N., Venkatakrishnan, P.: 2004, Solar and interplanetary sources of major geomagnetic storms during 1996 – 2002. J. Geophys. Res. 109(A18), A10103.
+Tsurutani, B.T., Gonzalez, W.D.: 1997, The Interplanetary Causes of Magnetic Storms: A Review. AGU Geophys. Monograph. Ser. 98, 77.
+Vasanth, V., Umapathy, S.: 2013, A statistical study on DH CMEs and its geoeffectiveness. ISRN Astron. Astrophys. 2013, 129426.
+Vasanth, V., Chen, Y., Kong, X., Wang, B.: 2015, Investigation of the geoeffectiveness of CMEs associated with ip type II radio bursts. Solar Phys. 290(6), 1815.
+Vršnak, B., Žic, T., Vrbanec, D., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., et al.: 2013, Propagation of interplanetary coronal mass ejections: the drag-based model. Solar Phys. 285(1-2), 295.
+Wang, Y.M., Ye, P.Z., Wang, S., Zhou, G.P., Wang, J.X.: 2002, A statistical study on the geoeffectiveness of Earth-directed coronal mass ejections from March 1997 to December 2000. J. Geophys. Res. 107, 1340.
+Webb, D.F., Cliver, E.W., Crooker, N.U., Cry, O.C.S., Thompson, B.J.: 2000, Relationship of halo coronal mass ejections, magnetic clouds, and magnetic storms. J. Geophys. Res. 105, 7491.
+Xu, D., Chen, T., Zhang, X.X., Liu, Z.: 2009, Statistical relationship between solar wind conditions and geomagnetic storms in 1998 – 2008. Planet. Space Sci. 57, 1500.
+Xystouris, G., Sigala, E., Mavromichalaki, H.: 2014, A complete catalogue of high-speed solar wind streams during solar cycle 23. Solar Phys. 289(3), 995.
+Yakovchouk, O.S., Mursula, K., Holappa, L., Veselovsky, I.S., Karinen, A.: 2012, Average properties of geomagnetic storms in 1932 – 2009. J. Geophys. Res. 117, A03201.
+Zhang, J., Dere, K.P., Howard, R.A., Bothmer, V.: 2003, Identification of solar sources of major geomagnetic storms between 1996 and 2000. Astrophys. J. 582, 520.
+Zhang, J., Richardson, I.G., Webb, D.F., Gopalswamy, N., Huttunen, E., Kasper, J.C., Nitta, N.V., Poomvises, W., Thompson, B.J., Wu, C.-C., Yashiro, S., Zhukov, A.N.: 2007, Solar and interplanetary sources of major geomagnetic storms (Dst ≤ -100~nT) during 1996 – 2005. J. Geophys. Res. 112(A11), A10102.
+Zhang, X.-Y., Moldwin, M.B.: 2014, The source, statistical properties, and geoeffectiveness of long-duration southward interplanetary magnetic field intervals. J. Geophys. Res. 119, 658.
+Zhao, X.P., Webb, D.F.: 2003, Source regions and storm effectiveness of frontside full halo coronal mass ejections. J. Geophys. Res. 108, 1234.

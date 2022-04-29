@@ -1,0 +1,36 @@
+Aslam, O.P.M., Badruddin: 2015, Study of cosmic-ray modulation during the recent unusual minimum and mini-maximum of Solar Cycle 24. Solar Phys. 290, 2333.
+Badruddin, Singh, M., Singh, Y.P.: 2007, Modulation loops, time lag and relationship between cosmic ray intensity and tilt of the heliospheric current sheet. Astron. Astrophys. 466, 697.
+Balasubrahmanyan, V.K.: 1969, Solar activity and the 11-year modulation of cosmic rays. Solar Phys. 7, 39.
+Ball, P.C., Evans, R.: 1989, Temperature dependence of gas adsorption on a mesoporous solid: Capillary criticality and hysteresis. Langmuir 5, 714.
+Belov, A.: 2000, Large scale modulation: View from the Earth. In: Bieber, J.W., Eroshenko, E., Evenson, P., Flückiger, E.O., Kallenbach, R. (eds.) Cosmic Rays and Earth, Springer, Dordrecht, 79.
+Belov, A.V., Gushchina, R.T.: 2018, Index of the long-term influence of sporadic solar activity on cosmic ray modulation. Geomagn. Aeron. 58, 1.
+Belov, A., Abunin, A., Abunina, M., Eroshenko, E., Oleneva, V., Yanke, V., Papaioannou, A., Mavromichalaki, H., Gopalswamy, N., Yashiro, S.: 2014, Coronal mass ejections and non-recurrent Forbush decreases. Solar Phys. 289, 3949.
+Cane, H.V., Richardson, I.G., von Rosenvinge, T.T.: 1996, Cosmic ray decreases: 1964 – 1994. J. Geophys. Res. 101, 21561.
+Chowdhury, P., Kudela, K., Moon, Y.-J.: 2016, A study of heliospheric modulation and periodicities of galactic cosmic rays during Cycle 24. Solar Phys. 291, 581.
+Clette, F., Lefèvre, L.: 2016, The new sunspot number: Assembling all corrections. Solar Phys. 291, 2629.
+Forbush, S.E.: 1938, On cosmic-ray effects associated with magnetic storms. Terr. Magn. Atmos. Electr. 43, 203.
+Forbush, S.E.: 1954, World-wide cosmic-ray variations, 1937 – 1952. J. Geophys. Res. 59, 525.
+Forbush, S.E.: 1958, Cosmic-ray intensity variations during two solar cycles. J. Geophys. Res. 63, 651.
+Jones, G.H., Balogh, A., Smith, E.J.: 2003, Solar magnetic field reversal as seen at Ulysses. Geophys. Res. Lett. 30, 8028.
+Kane, R.P.: 2003, Lags, hysteresis, and double peaks between cosmic rays and solar activity. J. Geophys. Res. Space Phys. 108, 1379.
+Kilcik, A., Yurchyshyn, V.B., Abramenko, V., Goode, P.R., Gopalswamy, N., Ozguc, A., Rozelot, J.P.: 2011, Maximum coronal mass ejection speed as an indicator of solar and geomagnetic activities. Astrophys. J. 727, 44.
+Kramer, B.P., Fussenegger, M.: 2005, Hysteresis in a synthetic mammalian gene network. Proc. Natl. Acad. Sci. USA 102, 9517.
+Krasnosel’skií, M.A., Pokrovskií, A.V.: 1989, Systems with Hysteresis, 1st edn. Springer, Berlin. 978-3-642-64782-6.
+Lara, A., Gopalswamy, N., Caballero-López, R.A., Yashiro, S., Xie, H., Valdés-Galicia, J.F.: 2005, Coronal mass ejections and galactic cosmic-ray modulation. Astrophys. J. 625, 441.
+Mavromichalaki, H., Paouris, E.: 2012, Long-term cosmic ray variability and the CME-index. Adv. Astron. 2012, 607172.
+Mikić, Z., Lee, M.A.: 2006, An introduction to theory and models of CMEs, shocks, and solar energetic particles. Space Sci. Rev. 123, 57.
+Mishra, V.K., Mishra, A.P.: 2016, Study of solar activity and cosmic ray modulation during Solar Cycle 24 in comparison to previous solar cycle. Indian J. Phys. 90, 1333.
+Parker, E.N.: 1965, The passage of energetic charged particles through interplanetary space. Planet. Space Sci. 13, 9.
+Penna, R.F., Quillen, A.C.: 2005, Decay of interplanetary coronal mass ejections and Forbush decrease recovery times. J. Geophys. Res. Space Phys. 110, A09S05.
+Preisach, F.: 1935, Über die magnetische Nachwirkung. Z. Phys. 94, 277.
+Reid, G.C., Leinbach, H.: 1959, Low-energy cosmic-ray events associated with solar flares. J. Geophys. Res. 64, 1801.
+Shea, M.A., Smart, D.F., Humble, J.E., Fluckiger, E.O., Gentile, L.C., Humble, J.E., Nichol, M., Shea, M.A., Smart, D.F.: 1987, A revised standard format for cosmic ray ground-level event data. In: Kozyarivsky, V.A., Lidvansky, A.S., Tulupova, T.I., Tayabuk, A.L., Voevodsky, A.V., Volgemut, N.S. (eds.) Internat. Cosmic Ray Conf. 3, Nauka, Moscow, 171.
+Singh, S., Mishra, A.P.: 2018, Cosmic ray intensity increases during high solar activity period for the Solar Cycles 22 and 23. Indian J. Phys.
+Snyder, C.W., Neugebauer, M., Rao, U.R.: 1963, The solar wind velocity and its correlation with cosmic-ray variations and with solar and geomagnetic activity. J. Geophys. Res. 68, 6361.
+Stoner, E.C., Wohlfarth, E.P.: 1948, A mechanism of magnetic hysteresis in heterogeneous alloys. Phil. Trans. Roy. Soc. London A, Math. Phys. Eng. Sci. 240, 599.
+Sun, W., Xue, Y.: 2018, An improved fuzzy comprehensive evaluation system and application for risk assessment of floor water inrush in deep mining. Geotech. Geolog. Eng. 37, 1135.
+Tomassetti, N., Orcinha, M., Barão, F., Bertucci, B.: 2017, Evidence for a time lag in solar modulation of galactic cosmic rays. Astrophys. J. Lett. 849, L32.
+Usoskin, I.G.: 2017, A history of solar activity over millennia. Living Rev. Solar Phys. 14, 3.
+Usoskin, I.G., Mursula, K., Kangas, J.: 2001, On-line database of cosmic ray intensities. In: Kampert, K.H., Heinzelmann, G., Spirering, C. (eds.) Proc. 27th Internat. Cosmic Ray Conf. 9, Internat. Union Pure Appl. Phys., Hamburg, 3842.
+Visintin, A.: 2006, Mathematical models of hysteresis. In: Bertotti, G., Mayergoyz, I.D. (eds.) The Science of Hysteresis, Elsevier, Oxford, 1. 978-0-12-480874-4.
+Wawrzynczak, A., Alania, M.V.: 2008, Modeling of the recurrent Forbush effect of the galactic cosmic ray intensity and comparison with the experimental data. Adv. Space Res. 41, 325.

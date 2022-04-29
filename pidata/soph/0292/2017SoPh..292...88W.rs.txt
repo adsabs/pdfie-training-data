@@ -1,0 +1,60 @@
+Bastian, T.S., Ewell, M.W., Zirin, H.: 1993, The center-to-limb brightness variation of the sun at lambda = 850~microns. Astrophys. J. 415, 364.
+Brajša, R., Benz, A.O., Temmer, M., Jurdana-Šepić, R., Šaina, B., Wöhl, H.: 2007, An interpretation of the coronal holes’ visibility in the millimeter wavelength range. Solar Phys. 245, 167.
+Brogan, C.L., Hunter, T.R.: 2014, ALMA Single-Dish Imaging Parameters. NAASC Memo 114 (draft).
+Broguière, D., Lucas, R., Pardo, J., Roche, J.-C.: 2011, TELCAL: The on-line calibration software for ALMA. In: Evans, I.N., Accomazzi, A., Mink, D.J., Rots, A.H. (eds.) Astronomical Data Analysis Software and Systems XX CS-442, Astron. Soc. Pacific, San Francisco, 277.
+Buhl, D., Tlamicha, A.: 1970, The mapping of the Sun at 3.5 MM. Astron. Astrophys. 5, 102.
+Carlsson, M., Hansteen, V.H., Gudiksen, B.V., Leenaarts, J., De Pontieu, B.: 2016, A publicly available simulation of an enhanced network region of the Sun. Astron. Astrophys. 585, A4.
+Casalta, J.M., Molins, A., Bassas, M., Canchado, M., Creus, E., Tomàs, A.: 2008, ALMA front end amplitude calibration device design and measured performances. In: Advanced Optical and Mechanical Technologies in Telescopes and Instrumentation, Proc. IEEE 7018, 701838.
+Chamberlin, R.A., Bally, J.: 1995, The observed relationship between the South pole 225-GHz atmospheric opacity and the water vapor column density. Int. J. Infrared Millim. Waves 16, 907.
+Clark, T.A., Naylor, D.A., Tompkins, G.J., Duncan, W.D.: 1992, Extension of the solar limb and sub-millimeter and millimeter wavelengths. Solar Phys. 140, 393.
+Coates, R.J.: 1958, Measurement of solar radiation and atmospheric attenuation at 4.3-millimeters wavelength. Proc. IRE 46, 122.
+Delgado, G., Otárola, A., Belitsky, V., Urbain, D.: 1999, The Determination of Precipitable Water Vapour at Llano de Chajnantor from Observations of the 183 GHz Water Line. ALMA Memo 271, Joint ALMA Observatory, Santiago.
+Ekers, R.D., Rots, A.H.: 1979, Short spacing synthesis from a primary beam scanned interferometer. In: van Schooneveld, C. (ed.) IAU Colloq. 49: Image Formation from Coherence Functions in Astronomy 61, Reidel, Dordrecht.
+Hills, R.E.: 2016, PM Antenna Servo Characterization. ALMA CSV-3243 Report.
+Hills, R.E.: 2010, Correcting for the effects of the atmosphere. In: ALMA Newsletter 6, ESO, Garching, 2.
+Iguchi, S., Morita, K.-I., Sugimoto, M., Vila Vilaró, B., Saito, M., Hasegawa, T., Kawabe, R., Tatematsu, K., Seiichi, S., Kiuchi, H., Okumura, S.K., Kosugi, G., Inatani, J., Takakuwa, S., Iono, D., Kamazaki, T., Ogasawara, R., Ishiguro, M.: 2009, The Atacama Compact Array (ACA). Publ. Astron. Soc. Japan 61, 1.
+Iwai, K.: 2016a, Fast Scan Pattern Simulation. ALMA CSV-3244 Solar Commissioning Report.
+Iwai, K.: 2016b, Nonlinearity of ALMA Antennas in Detuning Mode 1. ALMA CSV-3246 Solar Commissioning Report.
+Iwai, K., Shimojo, M.: 2015, Observation of the chromospheric sunspot at millimeter range with the Nobeyama 45 m telescope. Astrophys. J. 804, 48.
+Jewell, P.R.: 2002, Millimeter wave calibration techniques. In: Stanimirovic, S., Altschuler, D., Goldsmith, P., Salter, C. (eds.) Single-Dish Radio Astronomy: Techniques and Applications CS-278, Astron. Soc. Pacific, San Francisco, 313.
+Kaufmann, P., Strauss, F.M., Schaal, R.E., Laporte, C.: 1982, The use of the large mm-wave antenna at Itapetinga in high-sensitivity solar research. Solar Phys. 78, 389.
+Koda, J., Scoville, N., Sawada, T., La Vigne, M.A., Vogel, S.N., Potts, A.E., Carpenter, J.M., Corder, S.A., Wright, M.C.H., White, S.M., Zauderer, B.A., Patience, J., Sargent, A.I., Bock, D.C.J., Hawkins, D., Hodges, M., Kemball, A., Lamb, J.W., Plambeck, R.L., Pound, M.W., Scott, S.L., Teuben, P., Woody, D.P.: 2009, Dynamically driven evolution of the interstellar medium in M51. Astrophys. J. Lett. 700, L132.
+Kosugi, T., Ishiguro, M., Shibasaki, K.: 1986, Polar-cap and coronal-hole-associated brightenings of the sun at millimeter wavelengths. Publ. Astron. Soc. Japan 38, 1.
+Kundu, M.R.: 1970, Solar active regions at millimeter wavelengths. Solar Phys. 13, 348.
+Kutner, M.L., Ulich, B.L.: 1981, Recommendations for calibration of millimeter-wavelength spectral line data. Astrophys. J. 250, 341.
+Labrum, N.R.: 1978, Evidence on chromospheric structure from observations of solar brightness distribution at millimeter wavelengths. Proc. Astron. Soc. Aust. 3, 256.
+Lindsey, C., Hudson, H.S.: 1976, Solar limb brightening in submillimeter wavelengths. Astrophys. J. 203, 753.
+Linsky, J.L.: 1973a, A recalibration of the quiet sun millimeter spectrum based on the moon as an absolute radiometric standard. Solar Phys. 28, 409.
+Linsky, J.L.: 1973b, The Moon as a proposed radiometric standard for microwave and infrared observations of extended sources. Astrophys. J. Suppl. 25, 163.
+Loukitcheva, M., Solanki, S.K., White, S.M.: 2006, The dynamics of the solar chromosphere: comparison of model predictions with millimeter-interferometer observations. Astron. Astrophys. 456, 713.
+Loukitcheva, M., Solanki, S.K., White, S.M.: 2014, The chromosphere above sunspots at millimeter wavelengths. Astron. Astrophys. 561, A133.
+Loukitcheva, M., Solanki, S.K., Carlsson, M., White, S.M.: 2015, Millimeter radiation from a 3D model of the solar atmosphere. I. Diagnosing chromospheric thermal structure. Astron. Astrophys. 575, A15.
+Loukitcheva, M., White, S.M., Solanki, S.K., Fleishman, G.D., Carlsson, M.: 2017, Millimeter radiation from a 3D model of the solar atmosphere. II. Chromospheric magnetic field. Astron. Astrophys. 601, A43.
+Lucas, R.: 2012, Temperature Scale Calibration. Unpublished talk for ALMA staff.
+Mangum, J.: 2002, Load calibration at millimeter and submillimeter wavelengths. ALMA Memo 434, Joint ALMA Observatory, Santiago.
+Mangum, J.G.: 1993, Main-beam efficiency measurements of the Caltech Submillimeter Observatory. Publ. Astron. Soc. Pac. 105, 117.
+Mangum, J.G., Emerson, D.T., Greisen, E.W.: 2007, The On The Fly imaging technique. Astron. Astrophys. 474, 679.
+Newstead, R.A.: 1969, Solar limb brightening and enhancement measurements at 1.2 mm. Solar Phys. 6, 56.
+Nikolic, B., Bolton, R.C., Graves, S.F., Hills, R.E., Richer, J.S.: 2013, Phase correction for ALMA with 183 GHz water vapour radiometers. Astron. Astrophys. 552, A104.
+Noyes, R.W., Beckers, J.M., Low, F.J.: 1968, Observational studies of the solar intensity profile in the far infrared and millimeter regions. Solar Phys. 3, 36.
+Pardo, J.R., Cernicharo, J., Serabyn, E.: 2001, Atmospheric Transmission at Microwaves (ATM): An improved model for millimeter/submillimeter applications. IEEE Trans. Antennas Propag. 49, 1683.
+Phillips, N., Hills, R., Bastian, T., Hudson, H., Marson, R., Wedemeyer, S.: 2015, Fast single-dish scans of the Sun using ALMA. In: Iono, D., Tatematsu, K., Wootten, A., Testi, L. (eds.) Revolution in Astronomy with ALMA: The Third Year CS-499, Astron. Soc. Pacific, San Francisco, 347.
+Righini, G., Simon, M.: 1976, Solar brightness distribution at 350 and 450 microns. Astrophys. J. 203, L95.
+Shimojo, M., Bastian, T.S., Hales, A., White, S.M., Iwai, K., Hills, R.E., Hirota, A., Phillips, N.M., Sawada, T., Yagoubov, P., Siringo, G., Asayama, S., Sugimoto, M., Brajša, R., Skokić, I., Bárta, M., Kim, S., de Gregorio, I., Corder, S.A., Hudson, H.S., Wedemeyer, S., Gary, D.E., De Pontieu, B., Loukitcheva, M., Fleishman, G.D., Chen, B., Kobelski, A., Yan, Y.: 2017, Observing the Sun with ALMA: High Resolution Interferometric Imaging. Solar Phys. 292.
+Sinton, W.M.: 1952, Detection of millimeter wave solar radiation. Phys. Rev. 86, 424.
+Sugimoto, M., Kosugi, G., Iguchi, S., Iwashita, H., Saito, M., Inatani, J., Takahashi, T., Tasaki, M., Nakanishi, K., McMullin, J.P., Puga, J.P., Hoff, B., Norambuena, J., Kamazaki, T., Vila-Vilar, B., Ikenoue, B., Morita, K.-I., Asayama, S., Yamada, M., Kiuchi, H.: 2009, Beam pattern measurements and observational evaluations of the ALMA/ACA 12-m antenna. Publ. Astron. Soc. Japan 61, 451.
+Tamura, Y., Sugimoto, M.: 2012, Preliminary Analysis of the Forward Efficiency. ALMA System Verification Report SYS #132, Joint ALMA Observatory, Santiago.
+Tolbert, C.W., Straiton, A.W.: 1961, Solar emission at millimeter wavelengths. Astrophys. J. 134, 91.
+Ulich, B.L., Haas, R.W.: 1976, Absolute calibration of millimeter-wavelength spectral lines. Astrophys. J. Suppl. 30, 247.
+Urpo, S., Krüger, A., Hildebrandt, J.: 1986, Millimetre wave sources in the solar corona. Astron. Astrophys. 163, 340.
+van Kempen, T., Corder, S., Lucas, R., Mauersberger, R.: 2012, How ALMA is calibrated. In: ALMA Newsletter 9, ESO, Garching, 8.
+Vernazza, J.E., Avrett, E.H., Loeser, R.: 1976, Structure of the solar chromosphere. II. The underlying photosphere and temperature-minimum region. Astrophys. J. Suppl. 30, 1.
+Vršnak, B., Pohjolainen, S., Urpo, S., Terasranta, H., Brajša, R., Ruždjak, V., Mouradian, Z., Jurac, S.: 1992, Large-scale patterns on the sun observed in the millimetric wavelength range. Solar Phys. 137, 67.
+Warmels, R., Remijan, A.J.: 2017, ALMA Cycle 5 Technical Handbook, Joint ALMA Observatory, Santiago.
+Wedemeyer, S., Bastian, T., Brajša, R., Hudson, H., Fleishman, G., Loukitcheva, M., Fleck, B., Kontar, E.P., De Pontieu, B., Yagoubov, P., Tiwari, S.K., Soler, R., Black, J.H., Antolin, P., Scullion, E., Gunár, S., Labrosse, N., Ludwig, H.-G., Benz, A.O., White, S.M., Hauschildt, P., Doyle, J.G., Nakariakov, V.M., Ayres, T., Heinzel, P., Karlicky, M., Van Doorsselaere, T., Gary, D., Alissandrakis, C.E., Nindos, A., Solanki, S.K., Rouppe van der Voort, L., Shimojo, M., Kato, Y., Zaqarashvili, T., Perez, E., Selhorst, C.L., Barta, M.: 2016, Solar science with the Atacama Large Millimeter/submillimeter Array – A new view of our Sun. Space Sci. Rev. 200, 1.
+Wedemeyer-Böhm, S., Ludwig, H.G., Steffen, M., Leenaarts, J., Freytag, B.: 2007, Inter-network regions of the Sun at millimetre wavelengths. Astron. Astrophys. 471, 977.
+White, S.M.: 1999, Radio versus euv/x-ray observations of the solar atmosphere. Solar Phys. 190, 309.
+Whitehurst, R.N., Copeland, J., Mitchell, F.H.: 1957, Solar radiation and atmospheric attenuation at 6-millimeter wavelength. J. Appl. Phys. 28, 295.
+Wootten, A., Thompson, A.R.: 2009, The Atacama Large Millimeter/submillimeter Array. IEEE Proc. 97, 1463.
+Yagoubov, P.A.: 2013, Solar observations with ALMA – How to minimize saturation in SIS mixers. In: 38th International Conference on Infrared, Millimeter, and Terahertz Waves, IEEE, New York, 1.
+Yagoubov, P.A., Murk, A., Wylde, R., Bell, G., Tan, G.H.: 2011, Calibration loads for ALMA. In: 36th International Conference on Infrared, Millimeter, and Terahertz Waves, IEEE, New York, 1.

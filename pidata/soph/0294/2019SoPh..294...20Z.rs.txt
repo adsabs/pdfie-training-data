@@ -1,0 +1,46 @@
+Ajabshirizadeh, A., Ebadi, H., Vekalati, R.E., Molaverdikhani, K.: 2015, The possibility of Kelvin–Helmholtz instability in solar spicules. Astrophys. Space Sci. 367, 33.
+Banerjee, D., O’Shea, E., Doyle, J.G.: 2000, Giant macro-spicule as observed by CDS on SOHO. Astron. Astrophys. 355, 1152.
+Bennett, S.M., Erdélyi, R.: 2015, On the statistics of macrospicules. Astrophys. J. 808, 135.
+Bennett, K., Roberts, B., Narain, U.: 1999, Waves in twisted magnetic flux tubes. Solar Phys. 185, 41.
+Bohlin, J.D., Vogel, S.N., Purcell, J.D., Sheeley, N.R. Jr., Tousey, R., VanHoosier, M.E.: 1975, A newly observed solar feature: macrospicules in He ii 304 Å. Astrophys. J. 197, L133.
+Chandrasekhar, S.: 1961, Hydrodynamic and Hydromagnetic Stability, Clarendon Press, Oxford. Chap. 11.
+Culhane, J.L., Harra, L.K., James, A.M., et al.: 2007, The EUV Imaging Spectrometer for Hinode. Solar Phys. 243, 19.
+De Pontieu, B., McIntosh, S., Hansteen, V.H., et al.: 2007, A tale of two spicules: the impact of spicules on the magnetic chromosphere. Proc. Astron. Soc. Japan 59, S655.
+De Pontieu, B., Rouppe van der Voort, L., McIntosh, S.W., et al.: 2014, On the prevalence of small-scale twist in the solar chromosphere and transition region. Science 346, 1255732.
+Domingo, V., Fleck, B., Poland, A.I.: 1995, SOHO: the Solar and Heliospheric Observatory. Space Sci. Rev. 72, 81.
+Ebadi, H.: 2016, Kelvin–Helmholtz instability in solar spicules. Iranian J. Phys. Res. 16, 41.
+Golub, L., Deluca, E., Austin, G., et al.: 2007, The X-Ray Telescope (XRT) for the Hinode Mission. Solar Phys. 243, 63.
+Goossens, M., Hollweg, J., Sakurai, T.: 1992, Resonant behaviour of MHD waves on magnetic flux tubes. III. Effect of equilibrium flow. Solar Phys. 138, 233.
+Harrison, R.A., Fludra, A., Pike, C.D., Payne, J., Thompson, W.T., Poland, A.I., Breeveld, E.R., Breeveld, A.A., Culhane, J.L., Kjeldseth-Moe, O., Huber, M.C.E., Aschenbach, B.: 1997, High-resolution observations of the extreme ultraviolet Sun. Solar Phys. 170, 123.
+Howard, T.A., Moses, J.D., Vourlidas, A., et al.: 2008, Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Space Sci. Rev. 136, 67.
+Iijima, H., Yokoyama, T.: 2017, Three-dimensional magnetohydrodynamic simulation of the formation of solar chromospheric jets with twisted magnetic field lines. Astrophys. J. 848, 38.
+Kaiser, M.L., Kucera, T.A., Davila, J.M., et al.: 2008, The STEREO Mission: an introduction. Space Sci. Rev. 136, 5.
+Kamio, S., Curdt, W., Teriaca, L., Inhester, B., Solanki, S.K.: 2010, Observations of a rotating macrospicule associated with an X-ray jet. Astron. Astrophys. 510, L1.
+Kayshap, P., Srivastava, A.K., Murawski, K., Tripathi, D.: 2013, Origin of macrospicule and jet in polar corona by a small-scale kinked flux tube. Astrophys. J. 770, L3.
+Kiss, T.S., Gyenge, N., Erdélyi, R.: 2017, Systematic variations of macrospicule properties observed by SDO/AIA over half a decade. Astrophys. J. 835, 47.
+Kosugi, T., Matsuzaki, K., Sakao, T., et al.: 2007, The Hinode (Solar-B) Mission: an overview. Solar Phys. 243, 3.
+Kuridze, D., Zaqarashvili, T.V., Henriques, V., Mathioudakis, M., Keenan, F.P., Hanslmeier, A.: 2016, Kelvin–Helmholtz instability in solar chromospheric jets: theory and observation. Astrophys. J. 830, 133.
+Lemen, J.R., Title, A.M., Akin, D.J., et al.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Loboda, I.P., Bogachev, S.A.: 2017, Plasma dynamics in solar macrospicules from high-cadence extreme-UV observations. Astron. Astrophys. 597, A78.
+Madjarska, M.S., Vanninathan, K., Doyle, J.G.: 2011, Can coronal hole spicules reach coronal temperatures? Astron. Astrophys. 532, L1.
+Miura, A.: 1984, Anomalous transport by magnetohydrodynamic Kelvin–Helmholtz instabilities in the solar wind–magnetosphere interaction. J. Geophys. Res. 89, 801.
+Murawski, K., Srivastava, A.K., Zaqarashvili, T.V.: 2011, Numerical simulations of solar macrospicules. Astron. Astrophys. 535, A58.
+Parenti, S., Bromage, B.J.I., Bromage, G.E.: 2002, An erupting macrospicule: characteristics derived from SOHO-CDS spectroscopic observations. Astron. Astrophys. 384, 303.
+Pesnell, W.D., Thompson, B.J., Chamberlin, P.C.: 2012, The Solar Dynamics Observatory (SDO). Solar Phys. 275, 3.
+Pike, C.D., Harrison, R.A.: 1997, Euv observations of a macrospicule: evidence for solar wind acceleration? Solar Phys. 175, 457.
+Pike, C.D., Mason, H.E.: 1998, Rotating transition region features observed with the SOHO Coronal Diagnostic Spectrometer. Solar Phys. 182, 333.
+Ryu, D., Jones, T.W., Frank, A.: 2000, The magnetohydrodynamic Kelvin–Helmholtz instability: a three-dimensional study of nonlinear evolution. Astrophys. J. 545, 475.
+Scullion, E., Doyle, J.G., Erdélyi, R.: 2010, A spectroscopic analysis of macrospicules. Mem. Soc. Astron. Ital. 81, 737.
+Vernazza, J.E., Avrett, E.H., Loeser, R.: 1981, Structure of the solar chromosphere. III – models of the EUV brightness components of the quiet-sun. Astrophys. J. Suppl. 45, 635.
+Wilhelm, K., Curdt, W., Marsch, E., et al.: 1995, SUMER – Solar Ultraviolet Measurements of Emitted Radiation. Solar Phys. 162, 189.
+Zank, G.P., Matthaeus, W.H.: 1993, Nearly incompressible fluids. II: magnetohydrodynamics, turbulence, and waves. Phys. Fluids 5, 257.
+Zaqarashvili, T.V., Erdélyi, R.: 2009, Oscillations and waves in solar spicules. Space Sci. Rev. 149, 355.
+Zaqarashvili, T.V., Vörös, Z., Zhelyazkov, I.: 2014, Kelvin–Helmholtz instability of twisted magnetic flux tubes in the solar wind. Astron. Astrophys. 561, A62.
+Zaqarashvili, T.V., Zhelyazkov, I., Ofman, L.: 2015, Stability of rotating magnetized jets in the solar atmosphere. I. Kelvin–Helmholtz instability. Astrophys. J. 813, 123.
+Zaqarashvili, T.V., Díaz, A.J., Oliver, R., Ballester, J.L.: 2010, Instability of twisted magnetic tubes with axial mass flows. Astron. Astrophys. 516, A84.
+Zhelyazkov, I.: 2012, Magnetohydrodynamic waves and their stability status in solar spicules. Astron. Astrophys. 537, A124.
+Zhelyazkov, I.: 2013, Kelvin–Helmholtz instability of kink waves in photospheric, chromospheric, and X-ray solar jets. In: Zhelyazkov, I., Mishonov, T. (eds.) Space Plasma Physics: Proceedings of the 4th School and Workshop on Space Plasma Physics, AIP Conf. Proc. 1551, 150.
+Zhelyazkov, I., Chandra, R.: 2018, High mode magnetohydrodynamic waves propagation in a twisted rotating jet emerging from a filament eruption. Mon. Not. Roy. Astron. Soc. 478, 5505.
+Zhelyazkov, I., Chandra, R., Srivastava, A.K.: 2016, Kelvin–Helmholtz instability in an active region jet observed with Hinode. Astrophys. Space Sci. 361, 51.
+Zhelyazkov, I., Zaqarashvili, T.V.: 2012, Kelvin–Helmholtz instability of kink waves in photospheric twisted flux tubes. Astron. Astrophys. 547, A14.
+Zhelyazkov, I., Zaqarashvili, T.V., Ofman, L., Chandra, R.: 2018, Kelvin–Helmholtz instability in a twisting solar polar coronal hole jet observed by SDO/AIA. Adv. Space Res. 61, 628.

@@ -1,0 +1,38 @@
+Baumann, I., Schmitt, D., Schüssler, M.: 2006, A necessary extension of the surface flux transport model. Astron. Astrophys. 446, 307.
+Baumann, I., Schmitt, D., Schüssler, M., Solanki, S.K.: 2004, Evolution of the large-scale magnetic field on the solar surface: a parameter study. Astron. Astrophys. 426, 1075.
+Belucz, B., Dikpati, M.: 2013, Role of asymmetric meridional circulation in producing North–South asymmetry in a solar cycle dynamo model. Astrophys. J. 779, 4.
+Cameron, R., Schüssler, M.: 2015, The crucial role of surface magnetic fields for the solar dynamo. Science 347, 1333.
+Cameron, R.H., Jiang, J., Schmitt, D., Schüssler, M.: 2010, Surface flux transport modeling for Solar Cycles 15–21: effects of cycle-dependent tilt angles of sunspot groups. Astrophys. J. 719, 264.
+Cameron, R.H., Jiang, J., Schüssler, M., Gizon, L.: 2014, Physical causes of solar cycle amplitude variability. J. Geophys. Res., Space Phys. 119, 680.
+Charbonneau, P., St-Jean, C., Zacharias, P.: 2005, Fluctuations in Babcock–Leighton dynamos. I. Period doubling and transition to chaos. Astrophys. J. 619, 613.
+Charbonneau, P., Christensen-Dalsgaard, J., Henning, R., Larsen, R.M., Schou, J., Thompson, M.J., Tomczyk, S.: 1999, Helioseismic constraints on the structure of the solar tachocline. Astrophys. J. 527, 445.
+Choudhuri, A.R., Chatterjee, P., Jiang, J.: 2007, Predicting Solar Cycle 24 with a solar dynamo model. Phys. Rev. Lett. 98, 131103.
+Dasi-Espuig, M., Solanki, S.K., Krivova, N.A., Cameron, R., Peñuela, T.: 2010, Sunspot group tilt angles and the strength of the solar cycle. Astron. Astrophys. 518, A7.
+Dikpati, M., Charbonneau, P.: 1999, A Babcock–Leighton flux transport dynamo with solar-like differential rotation. Astrophys. J. 518, 508.
+Dikpati, M., Gilman, P.A., de Toma, G., Ulrich, R.K.: 2010, Impact of changes in the Sun’s conveyor-belt on recent solar cycles. Geophys. Res. Lett. 37, L14107.
+Fan, Y.: 2009, Magnetic fields in the solar convection zone. Living Rev. Solar Phys. 6, 4
+Hathaway, D.H., Upton, L.: 2014, The solar meridional circulation and sunspot cycle variability. J. Geophys. Res., Space Phys. 119, 3316.
+Hathaway, D.H., Upton, L.A.: 2016, Predicting the amplitude and hemispheric asymmetry of Solar Cycle 25 with surface flux transport. J. Geophys. Res., Space Phys. 121, 10.
+Hazra, G., Choudhuri, A.R., Miesch, M.S.: 2017, A theoretical study of the build-up of the Sun’s polar magnetic field by using a 3D kinematic dynamo model. Astrophys. J. 835, 39.
+Jiang, J., Cameron, R.H., Schüssler, M.: 2014, Effects of the scatter in sunspot group tilt angles on the large-scale magnetic field at the solar surface. Astrophys. J. 791, 5.
+Jiang, J., Cameron, R.H., Schüssler, M.: 2015, The cause of the weak Solar Cycle 24. Astrophys. J. Lett. 808, L28.
+Jiang, J., Işik, E., Cameron, R.H., Schmitt, D., Schüssler, M.: 2010, The effect of activity-related meridional flow modulation on the strength of the solar polar magnetic field. Astrophys. J. 717, 597.
+Jiang, J., Hathaway, D.H., Cameron, R.H., Solanki, S.K., Gizon, L., Upton, L.: 2014, Magnetic flux transport at the solar surface. Space Sci. Rev. 186, 491.
+Lemerle, A., Charbonneau, P.: 2017, A coupled 2×2D Babcock–Leighton solar dynamo model. II. Reference dynamo solutions. Astrophys. J. 834, 133.
+Lemerle, A., Charbonneau, P., Carignan-Dugas, A.: 2015, A coupled 2×2D Babcock–Leighton solar dynamo model. I. Surface magnetic flux evolution. Astrophys. J. 810, 78.
+McClintock, B.H., Norton, A.A., Li, J.: 2014, Re-examining sunspot tilt angle to include anti-hale statistics. Astrophys. J. 797, 130.
+Miesch, M.S., Dikpati, M.: 2014, A three-dimensional Babcock–Leighton solar dynamo model. Astrophys. J. Lett. 785, L8.
+Muñoz-Jaramillo, A., Dasi-Espuig, M., Balmaceda, L.A., DeLuca, E.E.: 2013, Solar cycle propagation, memory, and prediction: insights from a century of magnetic proxies. Astrophys. J. Lett. 767, L25.
+Muñoz-Jaramillo, A., Senkpeil, R.R., Windmueller, J.C., Amouzou, E.C., Longcope, D.W., Tlatov, A.G., Nagovitsyn, Y.A., Pevtsov, A.A., Chapman, G.A., Cookson, A.M., Yeates, A.R., Watson, F.T., Balmaceda, L.A., DeLuca, E.E., Martens, P.C.H.: 2015, Small-scale and global dynamos and the area and flux distributions of active regions, sunspot groups, and sunspots: a multi-database study. Astrophys. J. 800, 48.
+Petrie, G.J.D., Petrovay, K., Schatten, K.: 2014, Solar polar fields and the 22-year activity cycle: observations and models. Space Sci. Rev. 186, 325.
+Petrovay, K.: 2010, Solar cycle prediction. Living Rev. Solar Phys. 7, 6.
+Schatten, K.H., Scherrer, P.H., Svalgaard, L., Wilcox, J.M.: 1978, Using dynamo theory to predict the sunspot number during Solar Cycle 21. Geophys. Res. Lett. 5, 411.
+Svalgaard, L., Cliver, E.W., Kamide, Y.: 2005, Sunspot cycle 24: smallest cycle in 100 years? Geophys. Res. Lett. 32, L01104.
+Tlatov, A.G., Pevtsov, A.A.: 2014, Bimodal distribution of magnetic fields and areas of sunspots. Solar Phys. 289, 1143.
+Toriumi, S., Schrijver, C.J., Harra, L.K., Hudson, H., Nagashima, K.: 2017, Magnetic properties of solar active regions that govern large solar flares and eruptions. Astrophys. J. 834, 56.
+Upton, L., Hathaway, D.H.: 2014, Effects of meridional flow variations on Solar Cycles 23 and 24. Astrophys. J. 792, 142.
+van Ballegooijen, A.A., Choudhuri, A.R.: 1988, The possible role of meridional flows in suppressing magnetic buoyancy. Astrophys. J. 333, 965.
+Wang, Y.-M., Nash, A.G., Sheeley, N.R. Jr.: 1989, Magnetic flux transport on the Sun. Science 245, 712.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1991, Magnetic flux transport and the sun’s dipole moment – new twists to the Babcock–Leighton model. Astrophys. J. 375, 761.
+Yeates, A.R., Baker, D., van Driel-Gesztelyi, L.: 2015, Source of a prominent poleward surge during Solar Cycle 24. Solar Phys. 290, 3189.
+Yeates, A.R., Muñoz-Jaramillo, A.: 2013, Kinematic active region formation in a three-dimensional solar dynamo model. Mon. Not. Roy. Astron. Soc. 436, 3366.

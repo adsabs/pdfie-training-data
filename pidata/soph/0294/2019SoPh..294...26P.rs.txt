@@ -1,0 +1,27 @@
+Beck, C., Rezaei, R., Puschmann, K.G., Fabbian, D.: 2016, Spectroscopy at the solar limb: II. Are spicules heated to coronal temperatures? Solar Phys. 291, 2281.
+Brekke, P., Hassler, D.M., Wilhelm, K.: 1997, Doppler shifts in the quiet-Sun transition region and corona observed with SUMER on SOHO. Solar Phys. 175, 349.
+Brooks, D.H., Warren, H.P.: 2012, The coronal source of extreme-ultraviolet line profile asymmetries in solar active region outflows. Astrophys. J. Lett. 760, L5.
+Bryans, P., Young, P.R., Doschek, G.A.: 2010, Multiple component outflows in an active region observed with the EUV imaging spectrometer on Hinode. Astrophys. J. 715, 1012.
+Brynildsen, N., Kjeldseth-Moe, O., Maltby, P.: 1995, Quiet-sun connection between intensity, Doppler shift, and line broadening in solar ultraviolet emission lines. Astrophys. J. Lett. 455, L81.
+Chae, J., Yun, H.S., Poland, A.I.: 1998, Temperature dependence of ultraviolet line average Doppler shifts in the quiet Sun. Astron. Astrophys. Suppl. Ser. 114, 151.
+Chandrasekhar, T., Ashok, N.M., Desai, J.N., Pasachoff, J.M., Sivaraman, K.R.: 1984, Fabry–Perot interferometric observations of the coronal red and green lines during the 1983 Indonesian eclipse. Appl. Opt. 23, 508.
+Chandrasekhar, T., Desai, J.N., Ashok, N.M., Pasachoff, J.M.: 1991, Fabry–Perot line profiles in the 5303 A and 6374 A coronal lines obtained during the 1983 Indonesian eclipse. Solar Phys. 131, 25.
+Dadashi, N., Teriaca, L., Solanki, S.K.: 2011, The quiet Sun average Doppler shift of coronal lines up to 2 MK. Astron. Astrophys. 534, A90.
+De Pontieu, B., McIntosh, S.W., Hansteen, V.H., Schrijver, C.J.: 2009, Observing the roots of solar coronal heating – in the chromosphere. Astrophys. J. Lett. 701, L1.
+Delone, A.B., Makarova, E.A.: 1969, Interferometric investigation of the red and green coronal lines during the total solar eclipse of May 30, 1965. Solar Phys. 9, 116.
+Delone, A.B., Makarova, E.A.: 1975, Interferometric investigation of the line of sight velocities in the 5303-A line during the eclipse 11 September, 1968. Solar Phys. 45, 157.
+Delone, A.B., Makarova, E.A., Yakunina, G.V.: 1988, Erratum: “Evidence for moving features in the corona from emission line profiles observed during eclipses” [ J. Astrophys. Astron. 9(1), 41 – 47 (1988)]. J. Astrophys. Astron. 9, 125.
+McIntosh, S.W., Tian, H., Sechler, M., De Pontieu, B.: 2012, On the Doppler velocity of emission line profiles formed in the “coronal contraflow” that is the chromosphere-corona mass cycle. Astrophys. J. 749, 60.
+Mierla, M., Schwenn, R., Teriaca, L., Stenborg, G., Podlipnik, B.: 2008, Analysis of the Fe X and Fe XIV line width in the solar corona using LASCO-C1 spectral data. Astron. Astrophys. 480, 509.
+Patsourakos, S., Klimchuk, J.A.: 2006, Nonthermal spectral line broadening and the nanoflare model. Astrophys. J. 647, 1452.
+Peter, H.: 2010, Asymmetries of solar coronal extreme ultraviolet emission lines. Astron. Astrophys. 521, A51.
+Peter, H., Judge, P.G.: 1999, On the Doppler shifts of solar ultraviolet emission lines. Astrophys. J. 522, 1148.
+Prabhakar, M., Raju, K.P., Chandrasekhar, T.: 2013, Analysis of the solar coronal green line profiles from eclipse observations. In: International Symposium on Solar-Terrestrial Physics, Astronomical Society of India Conference Series 10.
+Prasad, S.K., Singh, J., Banerjee, D.: 2013, Variation of emission line width in mid- and high-latitude corona. Solar Phys. 282, 427.
+Raju, K.P.: 1999, The effect of mass motions inside the coronal loops on emission line profiles. Solar Phys. 185, 311.
+Raju, K.P., Chandrasekhar, T., Ashok, N.M.: 2011, Analysis of coronal green line profiles: Evidence of excess blueshifts. Astrophys. J. 736, 164.
+Raju, K.P., Desai, J.N., Chandrasekhar, T., Ashok, N.M.: 1993, Line-of velocities observed in the inner solar corona during the total solar eclipses of 1980 and 1983. Mon. Not. Roy. Astron. Soc. 263, 789.
+Raouafi, N.-E., Solanki, S.K.: 2004, Effect of the electron density stratification on off-limb O VI line profiles: How large is the velocity distribution anisotropy in the solar corona? Astron. Astrophys. 427, 725.
+Sakurai, T.: 2017, Heating mechanisms of the solar corona. Proc. Japan Acad. Ser. B 93, 87.
+Singh, J., Sakurai, T., Ichimoto, K., Muneer, S.: 2006, Spectroscopic studies of solar corona VI: Trend in line-width variation of coronal emission lines with height independent of the structure of coronal loops. J. Astrophys. Astron. 27, 115.
+Teriaca, L., Banerjee, D., Doyle, J.G., Erdély, R.: 1999, SUMER observations of line shifts in the quiet sun and in an active region. In: Vial, J.-C., Kaldeich-Schü, B. (eds.) 8th SOHO Workshop: Plasma Dynamics and Diagnostics in the Solar Transition Region and Corona, ESA Special Publication 446, 645.

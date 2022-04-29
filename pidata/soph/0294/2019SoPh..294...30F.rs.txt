@@ -1,0 +1,43 @@
+Akiyama, S., Gopalswamy, N., Yashiro, S., Mäkelä, P.: 2013, A study of coronal holes observed by SoHO/EIT and the Nobeyama radioheliograph. Publ. Astron. Soc. Japan 65, S15.
+Altschuler, M.D., Newkirk, G.: 1969, Magnetic fields and the structure of the solar corona. I: Methods of calculating coronal fields. Solar Phys. 9, 131.
+Babin, A.N., Gopasiuk, S.I., Efanov, V.A., Kotov, V.A., Moiseev, I.G., Nesterov, N.S., Tsap, T.T.: 1976, Intensification of magnetic fields, millimeter-range radio brightness, and H-alpha activity in polar regions on the Sun. Izv. Krym. Astrofiz. Obs. 55, 3.
+Bame, S.J., McComas, D.J., Barraclough, B.L., Phillips, J.L., Sofaly, K.J., Chavez, J.C., Goldstein, B.E., Sakurai, R.K.: 1992, The ULYSSES solar wind plasma experiment. Astron. Astrophys. Suppl. Ser. 92, 237.
+Efanov, V.A., Moiseev, I.G., Nesterov, N.S., Stewart, R.T.: 1980, Radio emission of the solar polar regions at millimeter wavelengths. In: Kundu, M.R., Gergely, T.E. (eds.) Radio Physics of the Sun, IAU Symp. 86, Reidel, Dordrecht, 141.
+Fujiki, K., Kojima, M., Tokumaru, M., Ohmi, T., Yokobe, A., Hayashi, K., McComas, D.J., Elliott, H.A.: 2003, How did the solar wind structure change around the solar maximum? From interplanetary scintillation observation. Ann. Geophys. 21, 1257.
+Fujiki, K., Hirano, M., Kojima, M., Tokumaru, M., Baba, D., Yamashita, M., Hakamada, K.: 2005, Relation between solar wind velocity and properties of its source region. Adv. Space Res. 35, 2185.
+Fujiki, K., Tokumaru, M., Iju, T., Hakamada, K., Kojima, M.: 2015, Relationship between solar-wind speed and coronal magnetic-field properties. Solar Phys.
+Fujiki, K., Tokumaru, M., Hayashi, K., Satonaka, D., Hakamada, K.: 2016, Long-term trend of solar coronal hole distribution from 1975 to 2014. Astrophys. J. Lett. 827, L41.
+Gelfreikh, G.B., Makarov, V.I., Tlatov, A.G., Riehokainen, A., Shibasaki, K.: 2002, A study of the development of global solar activity in the 23rd solar cycle based on radio observations with the Nobeyama radio heliograph. I. Latitude distribution of the active and dark regions. Astron. Astrophys. 389, 618.
+Gopalswamy, N., Shibasaki, K., Salem, M.: 2000, Microwave enhancement in coronal holes: Statistical properties. Astron. Astrophys. 21, 413.
+Gopalswamy, N., Yashiro, S., Akiyama, S.: 2016, Unusual polar conditions in Solar Cycle 24 and their implications for Cycle 25. Astrophys. J. Lett. 823, L15.
+Gopalswamy, N., Shibasaki, K., Thompson, B.J., Gurman, J.B., Deforest, C.E.: 1999a, In: Suess, S.T., Gary, G.A., Nerney, S.F. (eds.) Is the Chromosphere Hotter in Coronal Holes? CS-471, AIP, Melville, 277.
+Gopalswamy, N., Shibasaki, K., Thompson, B.J., Gurman, J., DeForest, C.: 1999b, Microwave enhancement and variability in the elephant’s trunk coronal hole: Comparison with SOHO observations. J. Geophys. Res. 104, 9767.
+Gopalswamy, N., Yashiro, S., Mäkelä, P., Michalek, G., Shibasaki, K., Hathaway, D.H.: 2012, Behavior of Solar Cycles 23 and 24 revealed by microwave observations. Astrophys. J. Lett. 750, L42.
+Gopalswamy, N., Mäkelä, P., Yashiro, S., Akiyama, S.: 2018, Long-term solar activity studies using microwave imaging observations and prediction for Cycle 25. J. Atmos. Solar-Terr. Phys. 176, 26.
+Hakamada, K.: 1995, A simple method to compute spherical harmonic coefficients for the potential model of the coronal magnetic field. Solar Phys. 159, 89.
+Hewish, A., Scott, P.F., Wills, D.: 1964, Interplanetary scintillation of small diameter radio sources. Nature 203, 1214.
+Kim, S., Park, J.-Y., Kim, Y.-H.: 2017, Solar cycle variation of microwave polar brightening and EUV coronal hole observed by Nobeyama radioheliograph and SDO/AIA. J. Korean Astron. Soc. 50, 125.
+Kojima, M., Kakinuma, T.: 1990, Solar cycle dependence of global distribution of solar wind speed. Space Sci. Rev. 53, 173.
+Kojima, M., Tokumaru, M., Watanabe, H., Yokobe, A., Asai, K., Jackson, B.V., Hick, P.L.: 1998, Heliospheric tomography using interplanetary scintillation observations 2. Latitude and heliocentric distance dependence of solar wind structure at 0.1 – 1 AU. J. Geophys. Res. 103, 1981.
+Kojima, M., Fujiki, K., Ohmi, T., Tokumaru, M., Yokobe, A., Hakamada, K.: 1999, Low-speed solar wind from the vicinity of solar active regions. J. Geophys. Res. 104, 16993.
+Kosugi, T., Ishiguro, M., Shibasaki, K.: 1986, Polar-cap and coronal-hole-associated brightenings of the Sun at millimeter wavelengths. Publ. Astron. Soc. Japan 38, 1.
+Krieger, A.S., Timothy, A.F., Roelof, E.C.: 1973, A coronal hole and its identification as the source of a high velocity solar wind stream. Solar Phys. 29, 505.
+McComas, D.J., Riley, P., Gosling, J.T., Balogh, A., Forsyth, R.: 1998, Ulysses’ rapid crossing of the polar coronal hole boundary. J. Geophys. Res. 103, 1955.
+McComas, D.J., Barraclough, B.L., Funsten, H.O., Gosling, J.T., Santiago-Muñoz, E., Skoug, R.M., Goldstein, B.E., Neugebauer, M., Riley, P., Balogh, A.: 2000, Solar wind observations over Ulysses’ first full polar orbit. J. Geophys. Res. 105, 10419.
+McComas, D.J., Elliott, H.A., Gosling, J.T., Reisenfeld, D.B., Skoug, R.M., Goldstein, B.E., Neugebauer, M., Balogh, A.: 2002, Ulysses’ second fast-latitude scan: Complexity near solar maximum and the reformation of polar coronal holes. Geophys. Res. Lett. 29, 1290.
+McComas, D.J., Ebert, R.W., Elliott, H.A., Goldstein, B.E., Gosling, J.T., Schwadron, N.A., Skoug, R.M.: 2008, Weaker solar wind from the polar coronal holes and the whole sun. Geophys. Res. Lett. 35, 18103.
+Nakajima, H., Nishio, M., Enome, S., Shibasaki, K., Takano, T., Hanaoka, Y., Torii, C., Sekiguchi, H., Bushimata, T., Kawashima, S., Shinohara, N., Irimajiri, Y., Koshiishi, H., Kosugi, T., Shiomi, Y., Sawa, M., Kai, K.: 1994, The Nobeyama radioheliograph. IEEE Proc. 82, 705.
+Nitta, N.V., Sun, X., Hoeksema, J.T., DeRosa, M.L.: 2014, Solar cycle variations of the radio brightness of the solar polar regions as observed by the Nobeyama radioheliograph. Astrophys. J. Lett. 780, L23.
+Nolte, J.T., Krieger, A.S., Timothy, A.F., Gold, R.E., Roelof, E.C., Vaiana, G., Lazarus, A.J., Sullivan, J.D., McIntosh, P.S.: 1976, Coronal holes as sources of solar wind. Solar Phys. 46, 303.
+Ohmi, T., Kojima, M., Yokobe, A., Tokumaru, M., Fujiki, K., Hakamada, K.: 2001, Polar low-speed solar wind at the solar activity maximum. J. Geophys. Res. 106, 24923.
+Phillips, J.L., Bame, S.J., Feldman, W.C., Goldstein, B.E., Gosling, J.T., Hammond, C.M., McComas, D.J., Neugebauer, M., Scime, E.E., Suess, S.T.: 1995, Ulysses solar wind plasma observations at high southerly latitudes. Science 268, 1030.
+Reiss, M.A., Temmer, M., Veronig, A.M., Nikolic, L., Vennerstrom, S., Schöngassner, F., Hofmeister, S.J.: 2016, Verification of high-speed solar wind stream forecasts using operational solar wind models. Space Weather 14, 495.
+Rotter, T., Veronig, A.M., Temmer, M., Vršnak, B.: 2015, Real-time solar wind prediction based on SDO/AIA coronal hole data. Solar Phys. 290, 1355.
+Schatten, K.H., Wilcox, J.M., Ness, N.F.: 1969, A model of interplanetary and coronal magnetic fields. Solar Phys. 6, 442.
+Selhorst, C.L., Silva, A.V.R., Costa, J.E.R., Shibasaki, K.: 2003, Temporal and angular variation of the solar limb brightening at 17 GHz. Astron. Astrophys. 401, 1143.
+Shibasaki, K.: 2013, Long-term global solar activity observed by the Nobeyama radioheliograph. Publ. Astron. Soc. Japan 65, S17.
+Tokumaru, M., Fujiki, K., Iju, T.: 2015, North–South asymmetry in global distribution of the solar wind speed during 1985 – 2013. J. Geophys. Res. 120, 3283.
+Tokumaru, M., Kojima, M., Fujiki, K.: 2010, Solar cycle evolution of the solar wind speed distribution from 1985 to 2008. J. Geophys. Res. 115, A04102.
+Tokumaru, M., Satonaka, D., Fujiki, K., Hayashi, K., Hakamada, K.: 2017, Relation between coronal hole areas and solar wind speeds derived from interplanetary scintillation measurements. Solar Phys. 292, 41.
+Wang, Y.-M., Sheeley, N.R. Jr.: 1990, Solar wind speed and coronal flux-tube expansion. Astrophys. J. 355, 726.
+Zirin, H., Baumert, B.M., Hurford, G.J.: 1991, The microwave brightness temperature spectrum of the quiet sun. Astrophys. J. 370, 779.

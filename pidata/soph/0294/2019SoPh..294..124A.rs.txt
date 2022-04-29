@@ -1,0 +1,47 @@
+Alissandrakis, C.E., Vial, J.-C., Koukras, A., Buchlin, E., Chane-Yook, M.: 2018, IRIS observations of spicules and structures near the solar limb. Solar Phys. 293, 20.
+Arber, T.D., Haynes, M., Leake, J.E.: 2007, Emergence of a flux tube through a partially ionized solar atmosphere. Astrophys. J. 666, 541.
+Aschwanden, M.J., Fletcher, L., Schrijver, C.J., Alexander, D.: 1999, Coronal loop oscillations observed with the transition region and coronal explorer. Astrophys. J. 520, 880.
+Avrett, E.H., Loeser, R.: 2008, Models of the solar chromosphere and transition region from sumer and hrts observations: formation of the extreme-ultraviolet spectrum of hydrogen, carbon, and oxygen. Astrophys. J. Suppl. 175, 229.
+Brady, C.S., Arber, T.D.: 2016, Simulations of Alfven and kink wave driving of the solar chromosphere: efficient heating and spicule launching. Astrophys. J. 829, 80.
+De Pontieu, B., Marten, P.C.H., Hudson, H.S.: 2001, Chromospheric damping of Alfvén waves. Astrophys. J. 558, 859.
+De Pontieu, B., Erdelyi, R., De Moortel, I., Metcalf, T.: 2004, Photospheric oscillations in the solar atmosphere: driving chromospheric spicules and coronal waves. In: AGU Fall Meeting Abstracts, SH13A.
+De Pontieu, B., McIntosh, S., Hansteen, V.H., Carlsson, M., Schrijver, C.J., Tarbell, T.D., Title, A.M., Shine, R.A., Suematsu, Y., Tsuneta, S., Katsukawa, Y., Ichimoto, K., Shimizu, T., Nagata, S.: 2007, A tale of two spicules: the impact of spicules on the magnetic chromosphere. Publ. Astron. Soc. Japan 59, S655.
+Dedner, A., Kemm, F., Kröner, D., Munz, C.-D., Schnitzer, T., Wesenberg, M.: 2002, Hyperbolic divergence cleaning for the MHD equations. J. Comput. Phys. 175, 645.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The solar probe plus mission: humanity’s first visit to our star. Space Sci. Rev. 204, 7.
+Gabriel, A.H.: 1976, A magnetic model of the solar transition region. Phil. Roy. Soc. London A 281, 339.
+Gudiksen, B.V., Carlsson, M., Hansteen, V.H., Hayek, W., Leenaarts, J., Martínez-Sykora, J.: 2011, The stellar atmosphere simulation code Bifrost. Code description and validation. Astron. Astrophys. 531, A154.
+Hasan, S.S.: 2008, Chromospheric dynamics. Adv. Space Res. 42, 86.
+Hillier, A., Takasao, S., Nakamura, N.: 2016, The formation and evolution of reconnection-driven, slow-mode shocks in a partially ionised plasma. Astron. Astrophys. 591, A112.
+Jess, D.B., Mathioudakis, M., Erdélyi, R., Crockett, P.J., Keenan, F.P., Christian, D.J.: 2009, Alfvén waves in the lower solar atmosphere. Science 323, 1582.
+Khomenko, E.: 2017, On the effects of ion-neutral interactions in solar plasmas. Plasma Phys. Control. Fusion 59, 014038.
+Kurganov, A., Tadmor, E.: 2000, New high-resolution central schemes for nonlinear conservation laws and convection–diffusion equations. J. Comput. Phys. 160, 241.
+Kuźma, B., Murawski, K., Kayshap, P., Wójcik, D., Srivastava, A.K., Dwivedi, B.N.: 2017a, Two-fluid numerical simulations of solar spicules. Astrophys. J. 849, 78.
+Kuźma, B., Murawski, K., Zaqarashvili, T.V., Konkol, P., Mignone, A.: 2017b, Numerical simulations of solar spicules: adiabatic and non-adiabatic studies. Astrophys. J. 597, A133.
+Leake, J.E., Arber, T.D.: 2006, The emergence of magnetic flux through a partially ionised solar atmosphere. Astron. Astrophys. 450, 805.
+Leake, J.E., Lukin, V.S., Linton, M.G.: 2013, Magnetic reconnection in a weakly ionized plasma. Phys. Plasmas 20, 061202.
+Leake, J.E., Lukin, V.S., Linton, M.G., Meier, E.T.: 2012, Multi-fluid simulations of chromospheric magnetic reconnection in a weakly ionized reacting plasma. Astrophys. J. 760, 109.
+Leake, J.E., DeVore, C.R., Thayer, J.P., Burns, A.G., Crowley, G., Gilbert, H.R., Huba, J.D., Krall, J., Linton, M.G., Lukin, V.S., Wang, W.: 2014, Ionized plasma and neutral gas coupling in the sun’s chromosphere and Earth’s ionosphere/thermosphere. Space Sci. Rev. 184, 107.
+Maneva, Y.G., Laguna, A.A., Lani, A., Poedts, S.: 2017, Multi-fluid modeling of magnetosonic wave propagation in the solar chromosphere: effects of impact ionization and radiative recombination. Astrophys. J. 836, 197.
+Martinez-Sykora, J., De Pontieu, B., Hansteen, V.: 2012, Two-dimensional radiative magnetohydrodynamic simulations of the importance of partial ionization in the chromosphere. Astrophys. J. 753, 161.
+Martinez-Sykora, J., De Pontieu, B., Carlsson, M., Hansteen, V.H., Nóbrega-Siverio, D., Gudiksen, B.V.: 2017, Two-dimensional radiative magnetohydrodynamic simulations of partial ionization in the chromosphere. II. Dynamics and energetics of the low solar atmosphere. Astrophys. J. 847, 36.
+Mathioudakis, M., Jess, D.B., Erdélyi, R.: 2013, Alfvén waves in the solar atmosphere. From theory to observations. Space Sci. Rev. 175, 1.
+McIntosh, S.W., De Pontieu, B., Carlsson, M., Hansteen, V., Boerner, P., Goossens, M.: 2011, Alfvénic waves with sufficient energy to power the quiet solar corona and fast solar wind. Nature 475, 477.
+Mignone, A., Tzeferacos, P., Bodo, G.: 2010, High-order conservative finite difference GLM-MHD schemes for cell-centered MHD. J. Comput. Phys. 229, 5896.
+Nakariakov, V.M., Ofman, L., Deluca, E.E., Roberts, B., Davila, J.M.: 1999, TRACE observation of damped coronal loop oscillations: implications for coronal heating. Science 285, 862.
+Ni, L., Lin, J., Roussev, I.I., Schmieder, B.: 2016, Heating mechanisms in the low solar atmosphere through magnetic reconnection in current sheets. Astrophys. J. 832, 195.
+Nishizuka, N., Nakamura, T., Kawate, T., Singh, K.A.P., Shibata, K.: 2011, Statistical study of chromospheric anemone jets observed with hinode/sot. Astrophys. J. 731, 43.
+Ofman, L., Wang, T.J.: 2008, Hinode observations of transverse waves with flows in coronal loops. Astron. Astrophys. 482, L9.
+Roe, P.L.: 1986, Characteristic-based schemes for the Euler equations. Annu. Rev. Fluid Mech. 18, 337.
+Rupp, K., Tillet, P., Rudolf, F.: 2016, Viennacl – linear algebra library for multi- and many-core architectures.
+Rutten, R.J.: 2007, Observing the solar chromosphere. In: Heinzel, P., Dorotovič, I., Rutten, R.J. (eds.) The Physics of Chromospheric Plasmas, CS-368, Astron. Soc. Pacific, San Francisco, 27.
+Sanderson, C., Curtin, R.: 2016, Armadillo: a template-based C++ library for linear algebra.
+Shimojo, M., Shibata, K.: 2000, Physical parameters of solar x-ray jets. Astrophys. J. 542, 1100.
+Sod, G.A.: 1978, A survey of several finite difference methods for systems of nonlinear hyperbolic conservation laws. J. Comput. Phys. 27, 1.
+Soler, R., Carbonell, M., Ballester, J.L., Terradas, J.: 2013, Alfvén waves in a partially ionized two-fluid plasma. Astrophys. J. 767, 171.
+Song, P.: 2017, A model of the solar chromosphere: structure and internal circulation. Astrophys. J. 846, 2.
+Song, P., Vasyliūnas, V.M.: 2011, Heating of the solar atmosphere by strong damping of Alfvén waves. J. Geophys. Res. 116, A09104.
+Song, P., Vasyliūnas, V.M.: 2014, Effect of horizontally inhomogeneous heating on flow and magnetic field in the chromosphere of the sun. Astrophys. J. Lett. 796, L23.
+Tu, J., Song, P.: 2013, A study of Alfvén wave propagation and heating the chromosphere. Astrophys. J. 777, 53.
+Tu, J., Song, P.: 2016, A two-dimensional global simulation study of inductive-dynamic magnetosphere-ionosphere coupling. J. Geophys. Res. 121, 11.
+Vasyliūnas, V.M., Song, P.: 2005, Meaning of ionospheric Joule heating. J. Geophys. Res. 110, A02301.
+Wójcik, D., Murawski, K., Musielak, Z.E.: 2018, Acoustic waves in two-fluid solar atmosphere model: cut-off periods, chromospheric cavity, and wave tunnelling. Mon. Not. Roy. Astron. Soc. 481, 262.

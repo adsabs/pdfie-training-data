@@ -1,0 +1,63 @@
+Benz, A.O.: 1980, Electron trapping in the solar magnetic field and emission of decimetric continuum radio bursts. Astrophys. J. 240, 892.
+Bougeret, J.-L., Kaiser, M.L., Kellogg, P.J., Manning, R., Goetz, K., Monson, S.J., Monge, N., Friel, L., Meetre, C.A., Perche, C., Sitruk, L., Hoang, S.: 1995, Waves: The radio and plasma wave investigation on the Wind Spacecraft. Space Sci. Rev. 71, 231.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D., Socker, D.G., Dere, K.P., Lamy, P.L., Llebaria, A., Bout, M.V., Schwenn, R., Simnett, G.M., Bedford, D.K., Eyles, C.J.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162, 357.
+Cairns, I.H., Knock, S.A., Robinson, P.A., Kuncic, Z.: 2003, Type II solar radio bursts: Theory and space weather implications. Space Sci. Rev. 107, 27.
+Cane, H.V., Erickson, W.C., Prestage, N.P.: 2002, Solar flares, type III radio bursts, coronal mass ejections, and energetic particles. J. Geophys. Res. 107, 1315.
+Cane, H.V., McGuire, R.E., von Rosenvinge, T.T.: 1986, Two classes of solar energetic particle events associated with impulsive and long-duration soft X-ray flares. Astrophys. J. 301, 448.
+Cane, H.V., Reames, D.V., von Rosenvinge, T.T.: 1988, The role of interplanetary shocks in the longitude distribution of solar energetic particles. J. Geophys. Res. 93, 9555.
+Cane, H.V., Richardson, I.G., von Rosenvinge, T.T.: 2010, A study of solar energetic particle events of 1997 – 2006: Their composition and associations. J. Geophys. Res. 115, A08101.
+Cantrell, C.A.: 2008, Technical note: Review of methods for linear least-squares fitting of data and application to atmospheric chemistry problems. Atmos. Chem. Phys. Discuss. 8, 6409.
+Cliver, E.W., Kahler, S.W., Reames, D.V.: 2004, Coronal shocks and solar energetic proton events. Astrophys. J. 605, 902.
+Cliver, E.W., Ling, A.G.: 2009, Low-frequency type III bursts and solar energetic particle events. Astrophys. J. 690, 598.
+Gopalswamy, N.: 2003, Solar and geospace connections of energetic particle events. Geophys. Res. Lett. 30, 8013.
+Gopalswamy, N., Aguilar-Rodriguez, E., Yashiro, S., Nunes, S., Kaiser, M.L., Howard, R.A.: 2005, Type II radio bursts and energetic solar eruptions. J. Geophys. Res. 110, A12S07.
+Gopalswamy, N., Yashiro, S., Michalek, G., Xie, H., Mäkelä, P., Vourlidas, A., Howard, R.A.: 2010, A catalog of halo coronal mass ejections from SOHO. Sun Geosph. 5, 7.
+Gopalswamy, N., Xie, H., Yashiro, S., Akiyama, S., Mäkelä, P., Usoskin, I.G.: 2012, Properties of ground level enhancement events and the associated solar eruptions during Solar Cycle 23. Space Sci. Rev. 171, 23.
+Gopalswamy, N., Xie, H., Mäkelä, P., Yashiro, S., Akiyama, S., Uddin, W., Srivastava, A.K., Joshi, N.C., Chandra, R., Manoharan, P.K.: 2013, Height of shock formation in the solar corona inferred from observations of type II radio bursts and coronal mass ejections. Adv. Space Res. 51(11), 1981.
+Gopalswamy, N., Mäkelä, P., Akiyama, S., Yashiro, S., Xie, H., Thakur, N., Kahler, S.W.: 2015, Large solar energetic particle events associated with filament eruptions outside of active regions. Astrophys. J. 806, 8.
+Gopalswamy, N., Akiyama, S., Mäkelä, P., Yashiro, S., Cairns, I.H.: 2016a, On the directivity of low-frequency type IV radio bursts. In: URSI Asia-Pacific Radio Science Conference in Seoul, August 21 – 25, 2016.
+Gopalswamy, N., Yashiro, S., Thakur, N., Mäkelä, P., Xie, H., Akiyama, S.: 2016b, The 2012 July 23 backside eruption: An extreme energetic particle event? Astrophys. J. 833, 216.
+Gopalswamy, N., Mäkelä, P., Yashiro, S., Thakur, N., Akiyama, S., Xie, H.: 2017, A hierarchical relationship between the fluence spectra and CME kinematics in large solar energetic particle events: A radio perspective. In: Journal of Physics Conference Series, Journal of Physics Conference Series 900, 012009.
+Hillaris, A., Bouratzis, C., Nindos, A.: 2016, Interplanetary type IV bursts. Solar Phys. 291, 2049.
+Huttunen-Heikinmaa, K., Valtonen, E., Laitinen, T.: 2005, Proton and helium release times in SEP events observed with SOHO/ERNE. Astron. Astrophys. 442, 673.
+Kahler, S., Ragot, B.R.: 2006, Near-relativistic electron c/v onset plots. Astrophys. J. 646, 634.
+Kim, R.-S., Cho, K.-S., Lee, J., Bong, S.-C., Park, Y.-D.: 2014, A refined classification of SPEs based on the multienergy channel observations. J. Geophys. Res. 119, 9419.
+Kim, R.-S., Cho, K.-S., Lee, J., Bong, S.-C., Joshi, A.D., Park, Y.-D.: 2015, Characteristics of four SPE groups with different origins and acceleration processes. J. Geophys. Res. 120, 7083.
+Klein, K.-L., Posner, A.: 2005, The onset of solar energetic particle events: Prompt release of deka-MeV protons and associated coronal activity. Astron. Astrophys. 438, 1029.
+Klein, K.-L., Krucker, S., Trottet, G., Hoang, S.: 2005, Coronal phenomena at the release of solar energetic electron events. Astron. Astrophys. 431, 1047.
+Klein, K.-L., Krucker, S., Lointier, G., Kerdraon, A.: 2008, Open magnetic flux tubes in the corona and the transport of solar energetic particles. Astron. Astrophys. 486, 589.
+Kouloumvakos, A., Nindos, A., Valtonen, E., Alissandrakis, C.E., Malandraki, O., Tsitsipis, P., Kontogeorgos, A., Moussas, X., Hillaris, A.: 2015, Properties of solar energetic particle events inferred from their associated radio emission. Astron. Astrophys. 580, A80.
+Krucker, S., Lin, R.P.: 2000, Two classes of solar proton events derived from onset time analysis. Astrophys. J. Lett. 542, L61.
+Laitinen, T., Huttunen-Heikinmaa, K., Valtonen, E., Dalla, S.: 2015, Correcting for interplanetary scattering in velocity dispersion analysis of solar energetic particles. Astrophys. J. 806, 114.
+Lario, D., Aran, A., Gómez-Herrero, R., Dresing, N., Heber, B., Ho, G.C., Decker, R.B., Roelof, E.C.: 2013, Longitudinal and radial dependence of solar energetic particle peak intensities: STEREO, ACE, SOHO, GOES, and MESSENGER observations. Astrophys. J. 767, 41.
+Leblanc, Y., Dulk, G.A., Bougeret, J.-L.: 1998, Tracing the electron density from the corona to 1 AU. Solar Phys. 183, 165.
+Lin, R.P.: 1985, Energetic solar electrons in the interplanetary medium. Solar Phys. 100, 537.
+Lin, R.P., Anderson, K.A., Ashford, S., Carlson, C., Curtis, D., Ergun, R., Larson, D., McFadden, J., McCarthy, M., Parks, G.K., Rème, H., Bosqued, J.M., Coutelier, J., Cotin, F., D’Uston, C., Wenzel, K.-P., Sanderson, T.R., Henrion, J., Ronnet, J.C., Paschmann, G.: 1995, A three-dimensional plasma and energetic particle investigation for the Wind Spacecraft. Space Sci. Rev. 71, 125.
+Lintunen, J., Vainio, R.: 2004, Solar energetic particle event onset as analyzed from simulated data. Astron. Astrophys. 420, 343.
+Markwardt, C.B.: 2009, Non-linear least-squares fitting in IDL with MPFIT. In: Bohlender, D.A., Durand, D., Dowler, P. (eds.) Astronomical Data Analysis Software and Systems XVIII, Astronomical Society of the Pacific Conference Series 411, 251.
+Miteva, R.: 2018, Solar radio bursts: Implications to the origin of in situ particles. Sun Geosph. 13, 145.
+Miteva, R., Klein, K.-L., Malandraki, O., Dorrian, G.: 2013, Solar energetic particle events in the 23rd solar cycle: Interplanetary magnetic field configuration and statistical relationship with flares and CMEs. Solar Phys. 282, 579.
+Nindos, A., Aurass, H., Klein, K.-L., Trottet, G.: 2008, Radio emission of flares and coronal mass ejections. Invited Review. Solar Phys. 253, 3.
+Paassilta, M., Raukunen, O., Vainio, R., Valtonen, E., Papaioannou, A., Siipola, R., Riihonen, E., Dierckxsens, M., Crosby, N., Malandraki, O., Heber, B., Klein, K.-L.: 2017, Catalogue of 55 – 80 MeV solar proton events extending through solar cycles 23 and 24. J. Space Weather Space Clim. 7(27), A14.
+Paassilta, M., Papaioannou, A., Dresing, N., Vainio, R., Valtonen, E., Heber, B.: 2018, Catalogue of {>} 55~MeV wide-longitude solar proton events observed by SOHO, ACE, and the STEREOs at {≈} 1~AU during 2009 – 2016. Solar Phys. 293, 70.
+Prakash, O., Feng, L., Michalek, G., Gan, W., Lu, L., Shanmugaraju, A., Umapathy, S.: 2017, Characteristics of events with metric-to-decahectometric type II radio bursts associated with CMEs and flares in relation to SEP events. Astrophys. Space Sci. 362, 56.
+Reames, D.V.: 1999, Particle acceleration at the Sun and in the heliosphere. Space Sci. Rev. 90, 413.
+Reames, D.V.: 2009, Solar release times of energetic particles in ground-level events. Astrophys. J. 693, 812.
+Reames, D.V., Barbier, L.M., Ng, C.K.: 1996, The spatial distribution of particles accelerated by coronal mass ejection–driven shocks. Astrophys. J. 466, 473.
+Richardson, I.G., von Rosenvinge, T.T., Cane, H.V., Christian, E.R., Cohen, C.M.S., Labrador, A.W., Leske, R.A., Mewaldt, R.A., Wiedenbeck, M.E., Stone, E.C.: 2014, {>} 25~MeV proton events observed by the high energy telescopes on the STEREO A and B spacecraft and/or at Earth during the first ∼ seven years of the STEREO mission. Solar Phys. 289, 3059.
+Rouillard, A.P., Sheeley, N.R., Tylka, A., Vourlidas, A., Ng, C.K., Rakowski, C., Cohen, C.M.S., Mewaldt, R.A., Mason, G.M., Reames, D., Savani, N.P., StCyr, O.C., Szabo, A.: 2012, The longitudinal properties of a solar energetic particle event investigated using modern solar imaging. Astrophys. J. 752, 44.
+Saito, K., Makita, M., Nishi, K., Hata, S.: 1970, A non-spherical axisymmetric model of the solar K corona of the minimum type. Ann. Tokyo Astron. Obs. 12, 53.
+Sáiz, A., Evenson, P., Ruffolo, D., Bieber, J.W.: 2005, On the estimation of solar energetic particle injection timing from onset times near Earth. Astrophys. J. 626, 1131.
+Talebpour Sheshvan, N., Pohjolainen, S.: 2018, Visibility and origin of compact interplanetary radio type IV bursts. Solar Phys. 293, 148.
+Tan, L.C., Malandraki, O.E., Reames, D.V., Ng, C.K., Wang, L., Patsou, I., Papaioannou, A.: 2013, Comparison between path lengths traveled by solar electrons and ions in ground-level enhancement events. Astrophys. J. 768, 68.
+Torsti, J., Valtonen, E., Lumme, M., Peltonen, P., Eronen, T., Louhola, M., Riihonen, E., Schultz, G., Teittinen, M., Ahola, K., Holmlund, C., Kelhä, V., Leppälä, K., Ruuska, P., Strömmer, E.: 1995, Energetic particle experiment ERNE. Solar Phys. 162, 505.
+Vainio, R., Valtonen, E., Heber, B., Malandraki, O.E., Papaioannou, A., Klein, K.-L., Afanasiev, A., Agueda, N., Aurass, H., Battarbee, M., Braune, S., Dröge, W., Ganse, U., Hamadache, C., Heynderickx, D., Huttunen-Heikinmaa, K., Kiener, J., Kilian, P., Kopp, A., Kouloumvakos, A., Maisala, S., Mishev, A., Miteva, R., Nindos, A., Oittinen, T., Raukunen, O., Riihonen, E., Rodríguez-Gasén, R., Saloniemi, O., Sanahuja, B., Scherer, R., Spanier, F., Tatischeff, V., Tziotziou, K., Usoskin, I.G., Vilmer, N.: 2013, The first SEPServer event catalogue {∼} 68-MeV solar proton events observed at 1 AU in 1996 – 2010. J. Space Weather Space Clim. 3(27), A12.
+Van Hollebeke, M.A.I., Ma Sung, L.S., McDonald, F.B.: 1975, The variation of solar proton energy spectra and size distribution with heliolongitude. Solar Phys. 41(1), 189.
+Vršnak, B., Magdalenić, J., Zlobec, P.: 2004, Band-splitting of coronal and interplanetary type II bursts. III. Physical conditions in the upper corona and interplanetary space. Astron. Astrophys. 413, 753.
+Williams, M.J., Bureau, M., Cappellari, M.: 2010, The Tully–Fisher relations of early-type spiral and S0 galaxies. Mon. Not. Roy. Astron. Soc. 409, 1330.
+Williamson, J.H.: 1968, Least-squares fitting of a straight line. Can. J. Phys. 46, 1845.
+Xie, H., Ofman, L., Lawrence, G.: 2004, Cone model for halo CMEs: Application to space weather forecasting. J. Geophys. Res. Space Phys. 109, A03109.
+Xie, H., Mäkelä, P., Gopalswamy, N., St. Cyr, O.C.: 2016, Energy dependence of SEP electron and proton onset times. J. Geophys. Res. 121, 6168.
+York, D., Evensen, N.M., Martínez, M.L., De Basabe Delgado, J.: 2004, Unified equations for the slope, intercept, and standard errors of the best straight line. Am. J. Phys. 72, 367.
+Zhang, J., Dere, K.P.: 2006, A statistical study of main and residual accelerations of coronal mass ejections. Astrophys. J. 649, 1100.
+Zhang, J., Dere, K.P., Howard, R.A., Kundu, M.R., White, S.M.: 2001, On the temporal relationship between coronal mass ejections and flares. Astrophys. J. 559, 452.

@@ -1,0 +1,39 @@
+Amato, E.: 2014, The origin of galactic cosmic rays. Int. J. Mod. Phys. D 23, 1430013.
+Beresnyak, A.: 2013, Asymmetric diffusion of magnetic field lines. Astrophys. J. Lett. 767, L39.
+Bieber, J.W., Smith, C.W., Matthaeus, W.H.: 1988, Cosmic-ray pitch-angle scattering in isotropic turbulence. Astrophys. J. 334, 470.
+Boris, J.P., Shanny, R.A.: 1972, Proceedings: Fourth Conference on Numerical Simulation of Plasmas, November 2, 3, 1970, Naval Research Laboratory.
+Carbone, V.: 1994, Scaling exponents of the velocity structure functions in the interplanetary medium. Ann. Geophys. 12, 585.
+Crooker, N.U., Gosling, J.T., Bothmer, V., Forsyth, R.J., Gazis, P.R., Hewish, A., Horbury, T.S., Intriligator, D.S., Jokipii, J.R., Kóta, J., Lazarus, A.J., Lee, M.A., Lucek, E., Marsch, E., Posner, A., Richardson, I.G., Roelof, E.C., Schmidt, J.M., Siscoe, G.L., Tsurutani, B.T., Wimmer-Schweingruber, R.F.: 1999, CIR morphology, turbulence, discontinuities, and energetic particles. Space Sci. Rev. 89, 179.
+Dasso, S., Milano, L.J., Matthaeus, W.H., Smith, C.W.: 2005, Anisotropy in fast and slow solar wind fluctuations. Astrophys. J. Lett. 635, L181.
+Giacalone, J.: 2012, Energetic charged particles associated with strong interplanetary shocks. Astrophys. J. 761, 28.
+Giacalone, J., Jokipii, J.R.: 1999, The transport of cosmic rays across a turbulent magnetic field. Astrophys. J. 520, 204.
+Horbury, T.S., Forman, M., Oughton, S.: 2008, Anisotropic scaling of magnetohydrodynamic turbulence. Phys. Rev. Lett. 101(17), 175005.
+Horbury, T.S., Balogh, A., Forsyth, R.J., Smith, E.J.: 1996, The rate of turbulent evolution over the Sun’s poles. Astron. Astrophys. 316, 333.
+Horbury, T.S., Balogh, A., Forsyth, R.J., Smith, E.J.: 1997, ULYSSES observations of intermittent heliospheric turbulence. Adv. Space Res. 19, 847.
+Kennel, C.F., Petschek, H.E.: 1966, Limit on stably trapped particle fluxes. J. Geophys. Res. 71, 1.
+Kirk, J.G., Duffy, P., Gallant, Y.A.: 1996, Stochastic particle acceleration at shocks in the presence of braided magnetic fields. Astron. Astrophys. 314, 1010.
+Klafter, J., Blumen, A., Shlesinger, M.F.: 1987, Stochastic pathway to anomalous diffusion. Phys. Rev. A 35, 3081.
+Laitinen, T., Kopp, A., Effenberger, F., Dalla, S., Marsh, M.S.: 2016, Solar energetic particle access to distant longitudes through turbulent field-line meandering. Astron. Astrophys. 591, A18.
+Lazarian, A., Yan, H.: 2014, Superdiffusion of cosmic rays: Implications for cosmic ray acceleration. Astrophys. J. 784, 38.
+Malara, F., Di Mare, F., Nigro, G., Sorriso-Valvo, L.: 2016, Fast algorithm for a three-dimensional synthetic model of intermittent turbulence. Phys. Rev. E 94(5), 053109.
+Palmer, I.D.: 1982, Transport coefficients of low-energy cosmic rays in interplanetary space. Rev. Geophys. Space Phys. 20, 335.
+Perri, S.: 2018, Superdiffusion of relativistic electrons at supernova remnant shocks. Plasma Phys. Control. Fusion 60(1), 014005.
+Perri, S., Zimbardo, G.: 2007, Evidence of superdiffusive transport of electrons accelerated at interplanetary shocks. Astrophys. J. Lett. 671, L177.
+Perri, S., Zimbardo, G.: 2008, Superdiffusive transport of electrons accelerated at corotating interaction regions. J. Geophys. Res. 113, A03107.
+Perri, S., Zimbardo, G.: 2009, Ion superdiffusion at the solar wind termination shock. Astrophys. J. Lett. 693, L118.
+Perri, S., Zimbardo, G.: 2012a, Magnetic variances and pitch-angle scattering times upstream of interplanetary shocks. Astrophys. J. 754, 8.
+Perri, S., Zimbardo, G.: 2012b, Superdiffusive shock acceleration. Astrophys. J. 750, 87.
+Perri, S., Zimbardo, G.: 2015, Short acceleration times from superdiffusive shock acceleration in the heliosphere. Astrophys. J. 815, 75.
+Perri, S., Amato, E., Zimbardo, G.: 2016, Transport of relativistic electrons at shocks in shell-type supernova remnants: diffusive and superdiffusive regimes. Astron. Astrophys. 596, A34.
+Perri, S., Zimbardo, G., Effenberger, F., Fichtner, H.: 2015, Parameter estimation of superdiffusive motion of energetic particles upstream of heliospheric shocks. Astron. Astrophys. 578, A2.
+Pucci, F., Malara, F., Perri, S., Zimbardo, G., Sorriso-Valvo, L., Valentini, F.: 2016, Energetic particle transport in the presence of magnetic turbulence: influence of spectral extension and intermittency. Mon. Not. Roy. Astron. Soc. 459, 3395.
+Reames, D.V.: 1999, Particle acceleration at the Sun and in the heliosphere. Space Sci. Rev. 90, 413.
+Saul, L., Möbius, E., Isenberg, P., Bochsler, P.: 2007, On pitch-angle scattering rates of interstellar pickup ions as determined by in situ measurement of velocity distributions. Astrophys. J. 655, 672.
+Sorriso-Valvo, L., Carbone, F., Perri, S., Greco, A., Marino, R., Bruno, R.: 2018, On the statistical properties of turbulent energy transfer rate in the inner heliosphere. Solar Phys. 293, 10.
+Sugiyama, T., Shiota, D.: 2011, Sign for super-diffusive transport of energetic ions associated with a coronal-mass-ejection-driven interplanetary shock. Astrophys. J. Lett. 731, L34.
+Wang, Y., Qin, G., Zhang, M., Dalla, S.: 2014, A numerical simulation of solar energetic particle dropouts during impulsive events. Astrophys. J. 789, 157.
+Xu, S., Yan, H.: 2013, Cosmic-ray parallel and perpendicular transport in turbulent magnetic fields. Astrophys. J. 779, 140.
+Yordanova, E., Balogh, A., Noullez, A., von Steiger, R.: 2009, Turbulence and intermittency in the heliospheric magnetic field in fast and slow solar wind. J. Geophys. Res. 114, A08101.
+Zimbardo, G., Perri, S.: 2013, From Lévy walks to superdiffusive shock acceleration. Astrophys. J. 778, 35.
+Zimbardo, G., Perri, S.: 2017, Superdiffusive shock acceleration at galaxy cluster shocks. Nat. Astron. 1, 0163.
+Zimbardo, G., Perri, S.: 2018, Understanding the radio spectral indices of galaxy cluster relics by superdiffusive shock acceleration. Mon. Not. Roy. Astron. Soc. 478, 4922.

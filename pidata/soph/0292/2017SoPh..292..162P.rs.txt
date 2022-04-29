@@ -1,0 +1,25 @@
+Alburger, D.E., Harbottle, G., Norton, E.F.: 1986, Half life of
+Broda, R., Cassette, P., Kossert, K.: 2007, Radionuclide metrology using liquid scintillation counting. Metrologia 44, S36.
+Desai, S., Liu, D.W.: 2016, A search for evidence of solar rotation in Super-Kamiokande solar neutrino dataset. Astropart. Phys. 82, 86.
+Gough, D.O.: 2017, Is the Sun a magnet? Solar Phys. 292, 70.
+Komm, R., Howe, R., Durney, B.R., Hill, F.: 2003, Temporal variation of angular momentum in the solar convection zone. Astrophys. J. 586, 650.
+Kossert, K., Nähle, O.J.: 2014, Long-term measurements of
+Kossert, K., Nähle, O.J.: 2015, Disproof of solar influence on the decay rates of
+Kossert, K., Broda, R., Cassette, P., Ratel, G., Zimmerman, B.: 2015, Uncertainty determination for activity measurements by means of the TDCR method and the CIEMAT/NIST efficiency tracing technique. Metrologia 52, S172.
+Lomb, N.R.: 1976, Least-squares frequency analysis of unequally spaced data. Astrophys. Space Sci. 39, 447.
+Nähle, O., Kossert, K.: 2015, Comment on “Comparative study of beta-decay data for eight nuclides measured at the Physikalisch-Technische Bundesanstalt” [Astropart. Phys. 59 (2014) 47 – 58]. Astropart. Phys. 66, 8.
+Nähle, O., Kossert, K., Cassette, P.: 2010, Activity standardization of
+Pommé, S.: 2007, Methods for primary standardization of activity. Metrologia 44, S17.
+Pommé, S.: 2015, The uncertainty of the half-life. Metrologia 52, S51.
+Pommé, S.: 2016, When the model doesn’t cover reality: examples from radionuclide metrology. Metrologia 53, S55.
+Pommé, S., Stroh, H., Paepen, J., Van Ammel, R., Marouli, M., Altzitzoglou, T., et al.: 2016, Evidence against solar influence on nuclear decay constants. Phys. Lett. B 761, 281.
+Pommé, S., Stroh, H., Paepen, J., Van Ammel, R., Marouli, M., Altzitzoglou, T., et al.: 2017a, On decay constants and orbital distance to the Sun – Part I: Alpha decay. Metrologia 54, 1.
+Pommé, S., Stroh, H., Paepen, J., Van Ammel, R., Marouli, M., Altzitzoglou, T., et al.: 2017b, On decay constants and orbital distance to the Sun – Part II: Beta minus decay. Metrologia 54, 19.
+Pommé, S., Stroh, H., Paepen, J., Van Ammel, R., Marouli, M., Altzitzoglou, T., et al.: 2017c, On decay constants and orbital distance to the Sun – Part III: Beta plus and electron capture decay. Metrologia 54, 36.
+Pommé, S., Stroh, H., Altzitzoglou, T., Paepen, J., Van Ammel, R., Kossert, K., et al.: 2018, in press, Is decay constant? Appl. Radiat. Isot.
+Scargle, J.D.: 1982, Studies in astronomical time series analysis. II – Statistical aspects of spectral analysis of unevenly spaced data. Astrophys. J. 263, 835.
+Schou, J., Antia, H.M., Basu, S., Bogart, R.S., Bush, R.I., Chitre, S.M.: 1998, Helioseismic studies of differential rotation in the solar envelope by the solar oscillations investigation using the Michelson Doppler Imager. Astrophys. J. 505, 390.
+Sturrock, P.A., Javorsek, D. II, Jenkins, J., Lee, R.: 2013, An analysis of apparent r-mode oscillations in solar activity, the solar diameter, the solar neutrino flux, and nuclear decay rates, with implications concerning the Sun’s internal structure and rotation, and neutrino processes. Astropart. Phys. 42, 62.
+Sturrock, P.A., Fischbach, E., Scargle, J.D.: 2016, Comparative analyses of Brookhaven National Laboratory nuclear decay measurements and Super-Kamiokande solar neutrino measurements: Neutrinos and neutrino-induced beta-decays as probes of the deep solar interior. Solar Phys. 291, 3467.
+Sturrock, P.A., Fischbach, E., Scargle, J.D.: 2017, Analysis of ten years of Radon-chain decay measurements: Evidence of solar influences and inferences concerning solar internal structure and the role of neutrinos.
+Yoo, J., Ashie, Y., Fukuda, S., Ishihara, K., Itow, Y., Koshio, Y., et al. (Super-Kamiokande collaboration): 2003, Search for periodic modulations of the solar neutrino flux in Super-Kamiokande-I. Phys. Rev. D 68, 092002.

@@ -1,0 +1,13 @@
+Chae, J.: 2004, Flat-fielding of solar magnetograph observations using relatively shifted images. Solar Phys. 221, 15.
+Chae, J., Park, H.-M., Ahn, K., Yang, H., Park, Y.-D., Nah, J., Jang, B.H., Cho, K.-S., Cao, W., Goode, P.R.: 2013, Fast imaging solar spectrograph of the 1.6 meter new solar telescope at big bear solar observatory. Solar Phys. 288, 1.
+Collados, M., López, R., Páez, E., Hernández, E., Reyes, M., Calcines, A., Ballesteros, E., Díaz, J.J., Denker, C., Lagg, A., Schlichenmaier, R., Schmidt, W., Solanki, S.K., Strassmeier, K.G., von der Lühe, O., Volkmer, R.: 2012, GRIS: The GREGOR infrared spectrograph. Astron. Nachr. 333, 872.
+Hong, J., Ding, M.D., Li, Y., Fang, C., Cao, W.: 2014, Spectral observations of Ellerman bombs and fitting with a two-cloud model. Astrophys. J. 792, 13.
+Johannesson, A.: 1992, High spatial resolution imaging from sequences of slit spectra. Technical report.
+Kiselman, D.: 1994, High-spatial-resolution solar observations of spectral lines used for abundance analysis. Astron. Astrophys. Suppl. 104, 23.
+Liu, Z., Xu, J., Gu, B.-Z., Wang, S., You, J.-Q., Shen, L.-X., Lu, R.-W., Jin, Z.-Y., Chen, L.-F., Lou, K., Li, Z., Liu, G.-Q., Xu, Z., Rao, C.-H., Hu, Q.-Q., Li, R.-F., Fu, H.-W., Wang, F., Bao, M.-X., Wu, M.-C., Zhang, B.-R.: 2014, New vacuum solar telescope and observations with high resolution. Res. Astron. Astrophys. 14, 705.
+Rao, C.-H., Zhu, L., Rao, X.-J., Zhang, L.-Q., Bao, H., Ma, X.-A., Gu, N.-T., Guan, C.-L., Chen, D.-H., Wang, C., Lin, J., Jin, Z.-Y., Liu, Z.: 2016a, First generation solar adaptive optics system for 1-m new vacuum solar telescope at Fuxian solar observatory. Res. Astron. Astrophys. 16, 23.
+Rao, C., Zhu, L., Rao, X., Zhang, L., Bao, H., Kong, L., Guo, Y., Zhong, L., Ma, X., Li, M., Wang, C., Zhang, X., Fan, X., Chen, D., Feng, Z., Wang, X., Gu, N., Wang, Z.: 2016b, Solar adaptive optics for 1 m new vacuum solar telescope. In: Adaptive Optics Systems V, Proc. SPIE. 9909, 99092I.
+Wang, R., Xu, Z., Jin, Z.-Y., Li, Z., Fu, Y., Liu, Z.: 2013, The first observation and data reduction of the multi-wavelength spectrometer on the new vacuum solar telescope. Res. Astron. Astrophys. 13, 1240.
+Wöhl, H., Kučera, A., Rybák, J., Hanslmeier, A.: 2002, Precise reduction of solar spectra obtained with large CCD arrays. Astron. Astrophys. 394, 1077.
+Xiang, Y.-y., Liu, Z., Jin, Z.-y.: 2016, High resolution reconstruction of solar prominence images observed by the new vacuum solar telescope. New Astron. 49, 8.
+Yang, H., Chae, J., Lim, E.K., Park, H., Cho, K., Maurya, R.A., Song, D., Kim, Y.H., Goode, P.R.: 2013, Velocities and temperatures of an Ellerman bomb and its associated features. Solar Phys. 288(1), 39.

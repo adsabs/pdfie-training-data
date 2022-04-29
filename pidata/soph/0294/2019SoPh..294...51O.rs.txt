@@ -1,0 +1,43 @@
+Bale, S.D., Kasper, J.C., Howes, G.G., Quataert, E., Salem, C., Sundkvist, D.: 2009, Magnetic fluctuation power near proton temperature anisotropy instability thresholds in the solar wind. Phys. Rev. Lett. 103, 211101.
+Borovsky, J.E.: 2016, The plasma structure of coronal hole solar wind: Origins and evolution. J. Geophys. Res. 121, 5055.
+Borovsky, J.E., Gary, S.P.: 2014, How important are the alpha-proton relative drift and the electron heat flux for the proton heating of the solar wind in the inner heliosphere? J. Geophys. Res. 119, 5210.
+Bourouaine, S., Marsch, E., Neubauer, F.M.: 2011a, On the relative speed and temperature ratio of solar wind alpha particles and protons: Collisions versus wave effects. Astrophys. J. 728, L3.
+Bourouaine, S., Marsch, E., Neubauer, F.M.: 2011b, Temperature anisotropy and differential streaming of solar wind ions. Correlations with transverse fluctuations. Astron. Astrophys. 536, A39.
+Bourouaine, S., Alexandrova, O., Marsch, E., Maksimovic, M.: 2012, On spectral breaks in the power spectra of magnetic fluctuations in fast solar wind between 0.3 and 0.9 AU. Astrophys. J. 749, 102.
+Bourouaine, S., Verscharen, D., Chandran, B.D.G., Maruca, B.A., Kasper, J.C.: 2013, Limits on alpha particle temperature anisotropy and differential flow from kinetic instabilities: Solar wind observations. Astrophys. J. Lett. 777, L3.
+Bruno, R., Carbone, V.: 2013, The solar wind as a turbulence laboratory. Living Rev. Solar Phys. 10, 2.
+Davidson, R.C., Ogden, J.M.: 1975, Electromagnetic ion cyclotron instability driven by ion energy anisotropy in high-beta plasmas. Phys. Fluids 18, 1045.
+Durovcová, T., Němeček, Z., Šafránková, J.: 2019, Evolution of the α -proton differential motion across stream interaction regions. Astrophys. J. 873, 24.
+Fox, N.J., Velli, M.C., Bale, S.D., Decker, R., Driesman, A., Howard, R.A., Kasper, J.C., Kinnison, J., Kusterer, M., Lario, D., Lockwood, M.K., McComas, D.J., Raouafi, N.E., Szabo, A.: 2016, The solar probe plus mission: Humanity’s first visit to our star. Space Sci. Rev. 204, 7.
+Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2018, Solar wind turbulent cascade from MHD to sub-ion scales: Large-size 3D hybrid particle-in-cell simulations. Astrophys. J. 853, 26.
+Gary, S.P.: 1993, Theory of Space Plasma Microinstabilities, Cambridge University Press, New York.
+Gary, S.P., Yin, L., Winske, D., Ofman, L.: 2001, Electromagnetic heavy ion cyclotron instability: Anisotropy constraint in the solar corona. J. Geophys. Res. 106, 10715.
+Gary, S.P., Yin, L., Winske, D., Ofman, L., Goldstein, B.E., Neugebauer, M.: 2003, Consequences of proton and alpha anisotropies in the solar wind: Hybrid simulations. J. Geophys. Res. 108, 1068.
+Grappin, R., Velli, M.: 1996, Waves and streams in the expanding solar wind. J. Geophys. Res. 101, 425.
+Hellinger, P., Trávníček, P., Mangeney, A., Grappin, R.: 2003, Hybrid simulations of the expanding solar wind: Temperatures and drift velocities. Geophys. Res. Lett. 30, 1211.
+Hellinger, P., Velli, M., TráVníčEk, P., Gary, S.P., Goldstein, B.E., Liewer, P.C.: 2005, Alfvén wave heating of heavy ions in the expanding solar wind: Hybrid simulations. J. Geophys. Res. 110(A9), A12109.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Strangeway, R.J., Leisner, J.S., Galvin, A.B.: 2009, Ion cyclotron waves in the solar wind observed by STEREO near 1 AU. Astrophys. J. 701, L105.
+Jian, L.K., Russell, C.T., Luhmann, J.G., Anderson, B.J., Boardsen, S.A., Strangeway, R.J., Cowee, M.M., Wennmacher, A.: 2010, Observations of ion cyclotron waves in the solar wind near 0.3 AU. J. Geophys. Res. 115, A12115.
+Jian, L.K., Wei, H.Y., Russell, C.T., Luhmann, J.G., Klecker, B., Omidi, N., Isenberg, P.A., Goldstein, M.L., Figueroa-Viñas, A., Blanco-Cano, X.: 2014, Electromagnetic waves near the proton cyclotron frequency: STEREO observations. Astrophys. J. 786, 123.
+Kasper, J.C., Lazarus, A.J., Gary, S.P.: 2008, Hot solar-wind helium: Direct evidence for local heating by Alfvén-cyclotron dissipation. Phys. Rev. Lett. 101(26), 261103.
+Kasper, J.C., Maruca, B.A., Stevens, M.L., Zaslavsky, A.: 2013, Sensitive test for ion-cyclotron resonant heating in the solar wind. Phys. Rev. Lett. 110(9), 091102.
+Kasper, J.C., Abiad, R., Austin, G., Balat-Pichelin, M., Bale, S.D., Belcher, J.W., Berg, P., Bergner, H., Berthomier, M., Bookbinder, J., Brodu, E., Caldwell, D., Case, A.W., Chandran, B.D.G., Cheimets, P., Cirtain, J.W., Cranmer, S.R., Curtis, D.W., Daigneau, P., Dalton, G., Dasgupta, B., DeTomaso, D., Diaz-Aguado, M., Djordjevic, B., Donaskowski, B., Effinger, M., Florinski, V., Fox, N., Freeman, M., Gallagher, D., Gary, S.P., Gauron, T., Gates, R., Goldstein, M., Golub, L., Gordon, D.A., Gurnee, R., Guth, G., Halekas, J., Hatch, K., Heerikuisen, J., Ho, G., Hu, Q., Johnson, G., Jordan, S.P., Korreck, K.E., Larson, D., Lazarus, A.J., Li, G., Livi, R., Ludlam, M., Maksimovic, M., McFadden, J.P., Marchant, W., Maruca, B.A., McComas, D.J., Messina, L., Mercer, T., Park, S., Peddie, A.M., Pogorelov, N., Reinhart, M.J., Richardson, J.D., Robinson, M., Rosen, I., Skoug, R.M., Slagle, A., Steinberg, J.T., Stevens, M.L., Szabo, A., Taylor, E.R., Tiu, C., Turin, P., Velli, M., Webb, G., Whittlesey, P., Wright, K., Wu, S.T., Zank, G.: 2016, Solar Wind Electrons Alphas and Protons (SWEAP) investigation: Design of the solar wind and coronal plasma instrument suite for solar probe plus. Space Sci. Rev. 204, 131.
+Liewer, P.C., Velli, M., Goldstein, B.E.: 2001, Alfvén wave propagation and ion cyclotron interactions in the expanding solar wind: One-dimensional hybrid simulations. J. Geophys. Res. 106, 29261.
+Maneva, Y.G., Ofman, L., Viñas, A.: 2015, Relative drifts and temperature anisotropies of protons and α particles in the expanding solar wind: 2.5D hybrid simulations. Astron. Astrophys. 578, A85.
+Maneva, Y.G., Poedts, S.: 2018, Generation and evolution of anisotropic turbulence and related energy transfer in drifting proton-alpha plasmas. Astron. Astrophys. 613, A10.
+Marsch, E., Rosenbauer, H., Schwenn, R., Muehlhaeuser, K.-H., Neubauer, F.M.: 1982, Solar wind helium ions: Observations of the Helios solar probes between 0.3 and 1 AU. J. Geophys. Res. 87, 35.
+Maruca, B.A., Kasper, J.C., Bale, S.D.: 2011, What are the relative roles of heating and cooling in generating solar wind temperature anisotropies? Phys. Rev. Lett. 107(20), 201101.
+Maruca, B.A., Kasper, J.C., Gary, S.P.: 2012, Instability-driven limits on helium temperature anisotropy in the solar wind: Observations and linear Vlasov analysis. Astrophys. J. 748, 137.
+Ofman, L.: 2010, Hybrid model of inhomogeneous solar wind plasma heating by Alfvén wave spectrum: Parametric studies. J. Geophys. Res. 115(A14), 4108.
+Ofman, L., Viñas, A.F.: 2007, Two-dimensional hybrid model of wave and beam heating of multi-ion solar wind plasma. J. Geophys. Res. 112(A11), 6104.
+Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H
+Ofman, L., Viñas, A.-F., Moya, P.S.: 2011, Hybrid models of solar wind plasma heating. Ann. Geophys. 29, 1071.
+Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-α drifts on the heating of the solar wind. J. Geophys. Res. 122, 5839.
+Ozak, N., Ofman, L., Viñas, A.-F.: 2015, Ion heating in inhomogeneous expanding solar wind plasma: The role of parallel and oblique ion-cyclotron waves. Astrophys. J. 799, 77.
+Perrone, D., Bourouaine, S., Valentini, F., Marsch, E., Veltri, P.: 2014, Generation of temperature anisotropy for alpha particle velocity distributions in solar wind at 0.3 AU: Vlasov simulations and Helios observations. J. Geophys. Res. 119, 2400.
+Telloni, D., Bruno, R., Trenchi, L.: 2015, Radial evolution of spectral characteristics of magnetic field fluctuations at proton scales. Astrophys. J. 805, 46.
+Vasquez, B.J.: 2015, Heating rate scaling of turbulence in the proton kinetic regime. Astrophys. J. 806, 33.
+Vasquez, B.J., Markovskii, S.A., Chandran, B.D.G.: 2014, Three-dimensional hybrid simulation study of anisotropic turbulence in the proton kinetic regime. Astrophys. J. 788, 178.
+Wambecq, A.: 1978, Rational Runge–Kutta methods for solving systems of ordinary differential equations. Computing 20, 333.
+Winske, D., Omidi, N.: 1993, In: Matsumoto, H., Omura, Y. (eds.) Computer Space Plasma Physics: Simulation Techniques and Sowftware, Terra Scientific Publishing, Tokyo, 103.
+Xie, H., Ofman, L., Viñas, A.: 2004, Multiple ions resonant heating and acceleration by Alfvén/cyclotron fluctuations in the corona and the solar wind. J. Geophys. Res. 109, A08103.

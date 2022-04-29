@@ -1,0 +1,53 @@
+Abreu, J.A., Beer, J., Ferriz-Mas, A., McCracken, K.G., Steinhilber, F.: 2012, Astron. Astrophys. 548, A88.
+Belucz, B., Dikpati, M.: 2013, Astrophys. J. 779, 4.
+Carbonell, M., Oliver, R., Ballester, J.L.: 1993, Astron. Astrophys. 274, 497.
+Chowdhury, P., Choudhary, D.P., Gosain, S.: 2013, Astrophys. J. 768, 188.
+Chowdhury, P., Gokhale, M.H., Singh, J., Moon, Y.-J.: 2016, Astrophys. Space Sci. 361, 54.
+Cionco, R.G., Compagnucci, R.H.: 2012, Adv. Space Res. 50, 1434.
+DeRosa, M.L., Brun, A.S., Hoeksema, J.T.: 2012, Astrophys. J. 757, 96.
+Dikpati, M., Gilman, P.A.: 2006, Astrophys. J. 649, 498.
+Dikpati, M., Gilman, P.A., de Toma, G.: 2008, Astrophys. J. Lett. 673, L99.
+Foukal, P.V.: 1972, Astrophys. J. 173, 439.
+Gao, P.X.: 2016, Astrophys. J. 830, 140.
+Gilman, P.A., Foukal, P.V.: 1979, Astrophys. J. 229, 1179.
+Gnevyshev, M.N.: 1963, Soviet Astron. 7, 311.
+Győri, L., Baranyi, T., Ludmány, A.: 2010 In: Proc. Intern. Astron. Union 6, Sympo. S273, 403.
+Hathaway, D.H.: 2015, Liv. Rev. Solar Phys. 12(4), 1.
+Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 1994, Solar Phys. 151, 177.
+Hiremath, K.M.: 2002, Astron. Astrophys. 386, 674.
+Howard, R.F.: 1996, Annu. Rev. Astron. Astrophys. 34, 75.
+Hoyt, D.V., Schatten, K.H.: 1997, The Role of the Sun in Climate Change, Oxford University Press, New York, 279 pp.
+Javaraiah, J.: 2005, Mon. Not. Roy. Astron. Soc. 362, 1311.
+Javaraiah, J.: 2007, Mon. Not. Roy. Astron. Soc. 377, L34.
+Javaraiah, J.: 2008, Solar Phys. 252, 419.
+Javaraiah, J.: 2012, Solar Phys. 281, 827.
+Javaraiah, J.: 2015, New Astron. 34, 54.
+Javaraiah, J.: 2016, Astrophys. Space Sci. 361, 208.
+Javaraiah, J.: 2017, Solar Phys. 292, 172.
+Javaraiah, J., Bertello, L., Ulrich, R.K.: 2005, Solar Phys. 232, 25.
+Javaraiah, J., Gokhale, M.H.: 1997a, Solar Phys. 170, 389.
+Javaraiah, J., Gokhale, M.H.: 1997b, Astron. Astrophys. 327, 795.
+Juckett, D.A.: 2003, Astron. Astrophys. 399, 731.
+Kane, R.P.: 2007, Solar Phys. 243, 205.
+Komitov, B., Sello, S., Duchlev, P., Dechev, M., Penev, K., Koleva, K.: 2016, Bulg. Astron. J. 25, 78.
+Mandal, S., Banerjee, D.: 2016, Astrophys. J. Lett. 830, L33.
+Norton, A.A., Gallagher, J.C.: 2010, Solar Phys. 261, 193.
+Obridko, V.N., Shelting, B.D.: 2008, Solar Phys. 248, 191.
+Pesnell, W.D.: 2008, Solar Phys. 252, 209.
+Pesnell, W.D., Schatten, K.H.: 2018, Solar Phys. 293, 112.
+Ramesh, K.B., Rohini, V.S.: 2008, Astrophys. J. Lett. 686, L41.
+Ravindra, B., Javaraiah, J.: 2015, New Astron. 39, 55.
+Sarp, V., Kilcik, A., Yarchyshyan, V., Rozelot, J.P., Ozguc, A.: 2018, Mon. Not. Roy. Astron. Soc. 481, 2981.
+Shetye, J., Tripathi, D., Dikpati, M.: 2015, Astrophys. J. 799, 220.
+Sivaraman, K.R., Sivaraman, H., Gupta, S.S., Howard, R.: 2003, Solar Phys. 214, 65.
+Sokoloff, D., Nesme-Ribes, E.: 1994, Astron. Astrophys. 288, 293.
+Solanki, S.K., Krivova, N.A., Schüssler, M., Fligge, M.: 2002, Astron. Astrophys. 396, 1029.
+Stefani, F., Giesecke, A., Weber, N., Weier, T.: 2016, Solar Phys. 291, 2197.
+Svalgaard, L., Cliver, E.W., Kamide, Y.: 2005, Geophys. Res. Lett. 32, L01104.
+Tan, B.: 2011, Astrophys. Space Sci. 332, 65.
+Upton, L.A., Hathaway, D.H.: 2018, Geophys. Res. Lett. 45, 8091.
+Verma, V.K.: 1993, Astrophys. J. 403, 797.
+Vizoso, G., Ballester, J.L.: 1990, Astron. Astrophys. 229, 540.
+Waldmeier, M.: 1935, Astron. Mitt. Zurich 14(133), 105.
+Waldmeier, M.: 1939, Astron. Mitt. Zurich 14(138), 470.
+Wilson, I.R.G.: 2013, Pattern Recog. Phys. 1, 147.

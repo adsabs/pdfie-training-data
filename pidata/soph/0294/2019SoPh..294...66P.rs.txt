@@ -1,0 +1,65 @@
+Abunin, A., Abunina, M., Belov, A., Eroshenko, E., Oleneva, V., Yanke, V.: 2012, Forbush effects with a sudden and gradual onset. Geomagn. Aeron. 52(3), 292.
+Abunin, A., Abunina, M., Belov, A., Eroshenko, E., Oleneva, V., Yanke, V.: 2013, Forbush-decreases in 19th solar cycle. J. Phys. Conf. Ser. 409, 012165.
+Abunina, M., Abunin, A., Belov, A., Eroshenko, E., Oleneva, V., Yanke, V.: 2013a, Long-period variations in the amplitude-phase interrelation of the first cosmic ray anisotropy harmonic. Geomagn. Aeron. 53(5), 561.
+Abunina, M., Abunin, A., Belov, A., Eroshenko, E., Asipenka, A., Oleneva, V., Yanke, V.: 2013b, Relationship between Forbush effect parameters and the heliolongitude of solar sources. Geomagn. Aeron. 53(1), 10.
+Abunina, M., Abunin, A., Belov, A., Eroshenko, E., Oleneva, V., Yanke, V.: 2015, Phase distribution of the first harmonic of the cosmic ray anisotropy during the initial phase of Forbush effects. J. Phys. Conf. Ser. 632, 012044.
+Arge, C., Pizzo, V.: 2000, Improvement in the prediction of solar wind conditions using near-real time solar magnetic field updates. J. Geophys. Res. 105(A5), 10465.
+Arge, C., Luhmann, J., Odstrcil, D., Schrijver, C., Li, Y.: 2004, Stream structure and coronal sources of the solar wind during the May 12th, 1997 CME. J. Atmos. Solar-Terr. Phys. 66(15), 1295.
+Asipenka, A., Belov, A., Eroshenko, E., Klepach, E., Oleneva, V., Yanke, V.: 2009, Interactive database of cosmic ray anisotropy (DB-A10). Adv. Space Res. 43(4), 708.
+Belov, A.: 1987, The first harmonic of cosmic ray anisotropy in the convection-diffusion model. In: International Cosmic Ray Conference 4, 119.
+Belov, A.V.: 2009, Forbush effects and their connection with solar, interplanetary and geomagnetic phenomena. In: Gopalswamy, N., Webb, D.F. (eds.) Universal Heliophysical Processes, IAU Symposium 257, 439.
+Belov, A., Eroshenko, E., Oleneva, V., Struminsky, A., Yanke, V.: 2001, What determines the magnitude of Forbush decreases? Adv. Space Res. 27(3), 625.
+Belov, A., Abunin, A., Abunina, M., Eroshenko, E., Oleneva, V., Yanke, V., Papaioannou, A., Mavromichalaki, H.: 2015, Galactic cosmic ray density variations in magnetic clouds. Solar Phys. 290(5), 1429.
+Belov, A., Eroshenko, E., Yanke, V., Oleneva, V., Abunin, A., Abunina, M., Papaioannou, A., Mavromichalaki, H.: 2018, The global survey method applied to ground-level cosmic ray measurements. Solar Phys. 293(4), 68.
+Brueckner, G., Howard, R., Koomen, M., Korendyke, C., Michels, D., Moses, J., Socker, D., Dere, K., Lamy, P., Llebaria, A., et al.: 1995, The Large Angle Spectroscopic Coronagraph (LASCO). Solar Phys. 162(1–2), 357.
+Burlaga, L., Plunkett, S., St. Cyr, O.: 2002, Successive CMEs and complex ejecta. J. Geophys. Res. 107(A10), 1266.
+Burlaga, L., Berdichevsky, D., Gopalswamy, N., Lepping, R., Zurbuchen, T.: 2003, Merged interaction regions at 1 AU. J. Geophys. Res. 108(A12), 1425.
+Cane, H.V.: 2000, Coronal mass ejections and Forbush decreases. Space Sci. Rev. 93(1), 55.
+Cane, H., Richardson, I., Wibberenz, G.: 1995, The response of energetic particles to the presence of ejecta material. In: International Cosmic Ray Conference 4, 377.
+Clauset, A., Shalizi, C.R., Newman, M.E.: 2009, Power-law distributions in empirical data. SIAM Rev. 51(4), 661.
+Clem, J.M., Dorman, L.I.: 2000, Neutron monitor response functions. Space Sci. Rev. 93(1), 335.
+Domingo, V., Fleck, B., Poland, A.: 1995, SOHO: The Solar and Heliospheric Observatory. Space Sci. Rev. 72(1–2), 81.
+Dumbović, M., Heber, B., Vršnak, B., Temmer, M., Kirin, A.: 2018, An analytical diffusion–expansion model for Forbush decreases caused by flux ropes. Astrophys. J. 860(1), 71.
+Ehresmann, B., Zeitlin, C., Hassler, D.M., Wimmer-Schweingruber, R.F., Böhm, E., Böttcher, S., Brinza, D.E., Burmeister, S., Guo, J., Köhler, J., et al.: 2014, Charged particle spectra obtained with the Mars Science Laboratory Radiation Assessment Detector (MSL/RAD) on the surface of Mars. J. Geophys. Res. 119(3), 468.
+Forbush, S.: 1938, On cosmic-ray effects associated with magnetic storms. J. Geophys. Res. 43(3), 203.
+Freiherr von Forstner, J.L., Guo, J., Wimmer-Schweingruber, R.F., Hassler, D.M., Temmer, M., Dumbović, M., Jian, L.K., Appel, J.K., Čalogović, J., Ehresmann, B., et al.: 2018, Using Forbush decreases to derive the transit time of ICMEs propagating from 1 AU to Mars. J. Geophys. Res. 123(1), 39.
+Gopalswamy, N., Yashiro, S., Michalek, G., Stenborg, G., Vourlidas, A., Freeland, S., Howard, R.: 2009, The SOHO/LASCO CME Catalog. Earth Moon Planets 104, 295.
+Grotzinger, J.P., Crisp, J., Vasavada, A.R., Anderson, R.C., Baker, C.J., Barry, R., Blake, D.F., Conrad, P., Edgett, K.S., Ferdowski, B., et al.: 2012, Mars Science Laboratory mission and science investigation. Space Sci. Rev. 170(1–4), 5.
+Guo, J., Zeitlin, C., Wimmer-Schweingruber, R.F., Rafkin, S., Hassler, D.M., Posner, A., Heber, B., Köhler, J., Ehresmann, B., Appel, J.K., et al.: 2015, Modeling the variations of dose rate measured by RAD during the first MSL Martian year: 2012 – 2014. Astrophys. J. 810(1), 24.
+Guo, J., Slaba, T.C., Zeitlin, C., Wimmer-Schweingruber, R.F., Badavi, F.F., Böhm, E., Böttcher, S., Brinza, D.E., Ehresmann, B., Hassler, D.M., et al.: 2017, Dependence of the Martian radiation environment on atmospheric depth: modeling and measurement. J. Geophys. Res. 122(2), 329.
+Guo, J., Lillis, R., Wimmer-Schweingruber, R.F., Zeitlin, C., Simonson, P., Rahmati, A., Posner, A., Papaioannou, A., Lundt, N., Lee, C.O., et al.: 2018, Measurements of Forbush decreases at Mars: both by MSL on ground and by MAVEN in orbit. Astron. Astrophys. 611, A79.
+Guo, J., Wimmer-Schweingruber, R.F., Grande, M., Lee-Payne, Z.H., Matthiä, D.: 2019, Ready functions for calculating the martian radiation environment. J. Space Weather Space Clim. 9, A7.
+Hassler, D., Zeitlin, C., Wimmer-Schweingruber, R., Böttcher, S., Martin, C., Andrews, J., Böhm, E., Brinza, D., Bullock, M., Burmeister, S., et al.: 2012, The Radiation Assessment Detector (RAD) investigation. Space Sci. Rev. 170(1–4), 503.
+Hassler, D.M., Zeitlin, C., Wimmer-Schweingruber, R.F., Ehresmann, B., Rafkin, S., Eigenbrode, J.L., Brinza, D.E., Weigle, G., Böttcher, S., Böhm, E., et al.: 2014, Mars’ surface radiation environment measured with the Mars Science Laboratory’s Curiosity rover. Science 343(6169), 1244797.
+Heber, B., Wallmann, C., Galsdorf, D., Herbst, K., Kühl, P., Dumbović, M., Vršnak, B., Veronig, A., Temmer, M., Möstl, C., et al.: 2015, Forbush decreases associated to stealth coronal mass ejections. Cent. Eur. Astrophys. Bull. 39, 75.
+Iucci, N., Parisi, M., Storini, M., Villoresi, G.: 1979, High-speed solar-wind streams and galactic cosmic-ray modulation. Nuovo Cimento C 2(4), 421.
+Jordan, A., Spence, H.E., Blake, J., Mulligan, T., Shaul, D., Galametz, M.: 2009, Multipoint, high time resolution galactic cosmic ray observations associated with two interplanetary coronal mass ejections. J. Geophys. Res. 114(A7), A07107.
+Jordan, A., Spence, H.E., Blake, J., Shaul, D.: 2011, Revisiting two-step Forbush decreases. J. Geophys. Res. 116(A11), A11103.
+Klyueva, A., Belov, A., Eroshenko, E.: 2017, Specific features of the rigidity spectrum of Forbush effects. Geomagn. Aeron. 57(2), 177.
+Köhler, J., Zeitlin, C., Ehresmann, B., Wimmer-Schweingruber, R.F., Hassler, D.M., Reitz, G., Brinza, D., Weigle, G., Appel, J., Böttcher, S., et al.: 2014, Measurements of the neutron spectrum on the martian surface with MSL/RAD. J. Geophys. Res. 119(3), 594.
+Kryakunova, O., Tsepakina, I., Nikolayevskiy, N., Malimbayev, A., Belov, A., Abunin, A., Abunina, M., Eroshenko, E., Oleneva, V., Yanke, V.: 2013, Influence of high-speed streams from coronal holes on cosmic ray intensity in 2007. J. Phys. Conf. Ser. 409, 012181.
+Kryakunova, O., Belov, A., Abunin, A., Abunina, M., Eroshenko, E., Malimbayev, A., Tsepakina, I., Yanke, V.: 2015, Recurrent and sporadic Forbush-effects in deep solar minimum. J. Phys. Conf. Ser. 632, 012062.
+Liu, Y.D., Luhmann, J.G., Möstl, C., Martinez-Oliveros, J.C., Bale, S.D., Lin, R.P., Harrison, R.A., Temmer, M., Webb, D.F., Odstrcil, D.: 2012, Interaction between coronal mass ejections viewed in coordinated imaging and in situ observations. Astrophys. J. 746(2), L15.
+Lockwood, J.A.: 1971, Forbush decreases in the cosmic radiation. Space Sci. Rev. 12(5), 658.
+Lugaz, N., Farrugia, C.: 2014, A new class of complex ejecta resulting from the interaction of two CMEs and its expected geoeffectiveness. Geophys. Res. Lett. 41(3), 769.
+McDonald, F., Trainor, J., Webber, W.: 1981, Pioneer and Voyager observations of Forbush decreases between 6 and 24 AU. In: International Cosmic Ray Conference 10, 147.
+Möstl, C., Rollett, T., Frahm, R.A., Liu, Y.D., Long, D.M., Colaninno, R.C., Reiss, M.A., Temmer, M., Farrugia, C.J., Posner, A., et al.: 2015, Strong coronal channelling and interplanetary evolution of a solar storm up to Earth and Mars. Nat. Commun. 6, 7135.
+Newman, M.E.: 2005, Power laws, Pareto distributions and Zipf’s law. Contemp. Phys. 46(5), 323.
+Papaioannou, A., Mavromichalaki, H., Eroshenko, E., Belov, A., Oleneva, V.: 2005, The burst of solar and geomagnetic activity in August – September. Ann. Geophys. 27, 1019.
+Papaioannou, A., Belov, A., Mavromichalaki, H., Eroshenko, E., Oleneva, E.: 2009b, The unusual cosmic ray variations in July 2005 resulted from western and behind the limb solar activity. Adv. Space Res. 43, 582.
+Papaioannou, A., Malandraki, O., Belov, A., Skoug, R., Mavromichalaki, H., Eroshenko, E., Abunin, A., Lepri, S.: 2010, On the analysis of the complex Forbush decreases of January 2005. Solar Phys. 266(1), 181.
+Papaioannou, A., Souvatzoglou, G., Paschalis, P., Gerontidou, M., Mavromichalaki, H.: 2014, The first ground-level enhancement of solar cycle 24 on 17 May 2012 and its real-time detection. Solar Phys. 289(1), 423.
+Parker, E.: 1965, Dynamical theory of the solar wind. Space Sci. Rev. 4(5–6), 666.
+Rafkin, S.C., Zeitlin, C., Ehresmann, B., Hassler, D., Guo, J., Köhler, J., Wimmer-Schweingruber, R., Gomez-Elvira, J., Harri, A.-M., Kahanpää, H., et al.: 2014, Diurnal variations of energetic particle radiation at the surface of Mars as observed by the Mars Science Laboratory Radiation Assessment Detector. J. Geophys. Res. 119(6), 1345.
+Richardson, I., Cane, H.: 2011, Galactic cosmic ray intensity response to interplanetary coronal mass ejections/magnetic clouds in 1995 – 2009. Solar Phys. 270(2), 609.
+Roussos, E., Jackman, C., Thomsen, M., Kurth, W., Badman, S., Paranicas, C., Kollmann, P., Krupp, N., Bučík, R., Mitchell, D., et al.: 2017, Solar energetic particles (SEP) and galactic cosmic rays (GCR) as tracers of solar wind conditions near Saturn: event lists and applications. Icarus 300, 47.
+Shea, M., Smart, D.: 2012, Space weather and the ground-level solar proton events of the 23rd solar cycle. Space Sci. Rev. 171(1–4), 161.
+Temmer, M., Vršnak, B., Rollett, T., Bein, B., de Koning, C.A., Liu, Y., Bosman, E., Davies, J.A., Möstl, C., Žic, T., et al.: 2012, Characteristics of kinematics of a coronal mass ejection during the 2010 August 1 CME–CME interaction event. Astrophys. J. 749(1), 57.
+Van Allen, J.A., Fillius, R.W.: 1992, Propagation of a large Forbush decrease in cosmic-ray intensity past the Earth, Pioneer 11 at 34 AU, and Pioneer 10 at 53 AU. Geophys. Res. Lett. 19(14), 1423.
+Vanhoefer, O.: 1996, Master Thesis, University of Kiel.
+Wang, Y., Shen, C., Liu, R., Liu, J., Guo, J., Li, X., Xu, M., Hu, Q., Zhang, T.: 2018, Understanding the twist distribution inside magnetic flux ropes by anatomizing an interplanetary magnetic cloud. J. Geophys. Res. 123(5), 3238.
+Wibberenz, G., Le Roux, J., Potgieter, M., Bieber, J.: 1998, Transient effects and disturbed conditions. Space Sci. Rev. 83(1–2), 309.
+Winslow, R.M., Schwadron, N.A., Lugaz, N., Guo, J., Joyce, C.J., Jordan, A.P., Wilson, J.K., Spence, H.E., Lawrence, D.J., Wimmer-Schweingruber, R.F., et al.: 2018, Opening a window on ICME-driven GCR modulation in the inner solar system. Astrophys. J. 856(2), 139.
+Witasse, O., Sánchez-Cano, B., Mays, M., Kajdič, P., Opgenoorth, H., Elliott, H., Richardson, I., Zouganelis, I., Zender, J., Wimmer-Schweingruber, R., et al.: 2017, Interplanetary coronal mass ejection observed at STEREO-A, Mars, comet 67P/Churyumov–Gerasimenko, Saturn, and New Horizons en route to Pluto: comparison of its Forbush decreases at 1.4, 3.1, and 9.9 AU. J. Geophys. Res. 122(8), 7865.
+Zeitlin, C., Hassler, D., Wimmer-Schweingruber, R., Ehresmann, B., Appel, J., Berger, T., Böhm, E., Böttcher, S., Brinza, D., Burmeister, S., et al.: 2016, Calibration and characterization of the Radiation Assessment Detector (RAD) on Curiosity. Space Sci. Rev. 201(1–4), 201.
+Zhuang, B., Wang, Y., Shen, C., Liu, S., Wang, J., Pan, Z., Li, H., Liu, R.: 2017, The significance of the influence of the CME deflection in interplanetary space on the CME arrival at Earth. Astrophys. J. 845(2), 117.

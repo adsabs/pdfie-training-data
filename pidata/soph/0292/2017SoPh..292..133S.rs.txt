@@ -1,0 +1,38 @@
+Akasofu, S.I.: 1981, J. Geophys. Res. 86, 4820.
+Basu, S.: 2016, Living Rev. Solar Phys. 13, 126.
+Bothmer, V., Schwenn, R.: 1998, Ann. Geophys. 16, 1.
+Brueckner, G.E., Howard, R.A., Koomen, M.J., Korendyke, C.M., Michels, D.J., Moses, J.D.: 1995, Solar Phys. 162, 357.
+Cane, H.V., Richardson, I.G.: 2003, J. Geophys. Res. 108, 1156.
+Delaboudinière, J.P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Moses, J.D., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Maucherat, A., Clette, F., Cugnon, P., van Dessel, E.L.: 1995, Solar Phys. 162, 291.
+Gonzalez-Esparza, J.A., Lara, A., Perez-Tijerina, E., Santillan, A., Gopalswamy, N.: 2003, J. Geophys. Res. 108, 1039.
+Gopalswamy, N.: 2002, Solar-terrestrial magnetic activity and space environment. In: Proceedings of the COSPAR Colloquium Held in the NAOC in Beijing, China 14, 157.
+Gopalswamy, N., Lara, A., Lepping, R.P., Kaiser, M.L., Berdichevsky, D., St. Cyr, O.C.: 2000, Geophys. Res. Lett. 27, 145.
+Gopalswamy, N., Lara, A., Yashiro, S., Kaiser, M.L., Howard, R.A.: 2001, J. Geophys. Res. 106, 207.
+Gopalswamy, N., Yashiro, S., Michalek, G., Kaiser, M.L., Howard, R.A., Reames, D.V., Leske, R., von Rosenvinge, T.: 2002, Astrophys. J. 572, L103.
+Gopalswamy, N., Lara, A., Manoharan, P.K., Howard, R.A.: 2005, Adv. Space Res. 36, 2289.
+Gopalswamy, N., Akiyama, S., Yashiro, S., Xie, H., Makela, P., Michalek, G.: 2014, Geophys. Res. Lett. 41, 2673.
+Gosling, J.T.: 1990, In: Russell, C.T., et al. (eds.) Physics of Magnetic Flux Ropes, AGU Monograph. 58, 343.
+Gosling, J.T., Riley, P.: 1996, Geophys. Res. Lett. 23, 2867.
+Howard, R.A., Michels, D.J., Sheeley, N.R., Koomen, M.J.: 1982, Astrophys. J. 263, L101.
+Johri, A., Manoharan, P.K.: 2016, Solar Phys. 291, 1433.
+Kim, R.S., Cho, K.S., Moon, Y.J., Kim, Y.H., Yi, Y., Dryer, M., Bong, S.C., Park, Y.D.: 2005, J. Geophys. Res. 110, 104.
+Lepping, R.P., Wu, C.C., Berdichevsky, D.B.: 2005, Ann. Geophys. 23, 2687.
+Manoharan, P.K.: 2006, Solar Phys. 235, 345.
+Manoharan, P.K.: 2009, In: Proceedings of the Conference Held 8 – 12 December 2008, at the National Centre for Radio Astrophysics, NCRA, TIFR, Pune, India 407, Astron. Soc. Pac., San Francisco, 359.
+Manoharan, P.K.: 2010, In: Proc. Int. Astron. Union, IAU Symposium 264, 356.
+Manoharan, P.K.: 2012, Astrophys. J. 751, 128.
+Manoharan, P.K., Rahman, M.A.: 2011, J. Atmos. Solar-Terr. Phys. 73, 671.
+Manoharan, P.K., Gopalswamy, N., Yashiro, S., Lara, A., Michalek, G., Howard, R.A.: 2004, J. Geophys. Res. 109(A6), A06109.
+Manoharan, P.K., Maia, D., Johri, A., Induja, M.S.: 2016, In: Coimbra Solar Physics Meeting: Ground-Based Solar Observations in the Space Instrumentation Era. ASP Conf. Ser. 504 59.
+Moon, Y.J., Cho, K., Dryer, M., Kim, Y., Bong, S., Chae, S.J., Park, Y.D.: 2005, Astrophys. J. 624, 414.
+Owens, M.J., Lockwood, M., Riley, P.: 2017, Sci. Rep. 7, 41548.
+Shanmugaraju, A., Vršnak, B.: 2014, Solar Phys. 289, 339.
+Shanmugaraju, A., Prasanna Subramanian, S., Vršnak, B., Syed Ibrahim, M.: 2014, Solar Phys. 289, 4621.
+Shanmugaraju, A., Syed Ibrahim, M., Moon, Y.J., Rahman, M.A., Umapathy, S.: 2015, Solar Phys. 290, 1417.
+Shi, T., Wang, Y., Wan, L., Cheng, X., Ding, M., Zhang, J.: 2015, Astrophys. J. 806, 9.
+Srivastava, N., Venkatakrishnan, P.: 2002, Geophys. Res. Lett. 29, 1287.
+Syed Ibrahim, M., Shanmugaraju, A., Bendict Lawrance, M.: 2015, Adv. Space Res. 36, 2289.
+Tsurutani, B.T., Gonzalez, W.D., Gonzalez, A.L.C., Guarnieri, F.L., Gopalswamy, N., Grande, M., Kamide, Y., Kasahara, Y., Lu, G., Mann, I., McPherron, R., Soraas, F., Vasyliunas, V.: 2006, J. Geophys. Res. 111, A07S01.
+Vršnak, B., Žic, T., Vrbanec, M., Temmer, M., Rollett, T., Möstl, C., Veronig, A., Čalogović, J., Dumbović, M., Lulić, S., Moon, Y.-J., Shanmugaraju, A.: 2013, Solar Phys. 285, 295.
+Yashiro, S., Gopalswamy, N., Michalek, G., St. Cyr, O.C., Plunkett, S.P., Rich, N.B., Howard, R.A.: 2004, J. Geophys. Res. 109, A07105.
+Zhang, J., Dere, K.P., Howard, R.A., Bothmer, V.: 2003, Astrophys. J. 582, 520.

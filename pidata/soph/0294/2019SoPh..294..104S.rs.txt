@@ -1,0 +1,56 @@
+Acuña, M.H., Neubauer, F.M., Ness, N.F.: 1981, Standing Alfvén wave current system at Io: Voyager 1 observations. J. Geophys. Res. 86, 8513.
+Antolin, P., Okamoto, T.J., De Pontieu, B., Uitenbroek, H., Van Doorsselaere, T., Yokoyama, T.: 2015, Resonant absorption of transverse oscillations and associated heating in a solar prominence. II. Numerical aspects. Astrophys. J. 809, 72.
+Aschwanden, M.J., Fletcher, L., Schrijver, C.J., Alexander, D.: 1999, Coronal loop oscillations observed with the transition region and coronal explorer. Astrophys. J. 520, 880.
+Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Formation of torus-unstable flux ropes and electric currents in erupting sigmoids. Astrophys. J. 708, 314.
+Berdichevsky, D.B., Lepping, R.P., Farrugia, C.J.: 2003, On geometric considerations of the evolution of magnetic flux ropes. Phys. Rev. E 67, 036405.
+Bernstein, I.B., Kulsrud, R.M.: 1965, On the explosion of a supernova into the interstellar magnetic field. I. Astrophys. J. 142, 479.
+Burlaga, L., Sittler, E., Mariani, F., Schwenn, R.: 1981, Magnetic loop behind an interplanetary shock: Voyager, Helios, and IMP 8 observations. J. Geophys. Res. 86, 6673.
+Byrne, J.P., Morgan, H., Seaton, D.B., Bain, H.M., Habbal, S.R.: 2014, Bridging EUV and white-light observations to inspect the initiation phase of a “Two-Stage” solar eruptive event. Solar Phys. 289, 4545.
+Chandra, R., Filippov, B., Joshi, R., Schmieder, B.: 2017, Two-step filament eruption during 14 – 15 March 2015. Solar Phys. 292, 81.
+Chen, J.: 1996, Theory of prominence eruption and propagation: interplanetary consequences. J. Geophys. Res. 101, 27499.
+Chen, J., Garren, D.A.: 1993, Interplanetary magnetic clouds: topology and driving mechanism. Geophys. Res. Lett. 20, 2319.
+Chen, P.F., Shibata, K.: 2000, An emerging flux trigger mechanism for coronal mass ejections. Astrophys. J. 545, 524.
+Cheng, X., Ding, M.D., Guo, Y., Zhang, J., Vourlidas, A., Liu, Y.D., Olmedo, O., Sun, J.Q., Li, C.: 2014, Tracking the evolution of a coherent magnetic flux rope continuously from the inner to the outer corona. Astrophys. J. 780, 28.
+Chust, T., Roux, A., Kurth, W.S., Gurnett, D.A., Kivelson, M.G., Khurana, K.K.: 2005, Are Io’s Alfvén wings filamented? Galileo observations. Planet. Space Sci. 53, 395.
+Dasso, S., Nakwacki, M.S., Démoulin, P., Mandrini, C.H.: 2007, Progressive transformation of a flux rope to an ICME. Comparative analysis using the direct and fitted expansion methods. Solar Phys. 244, 115.
+DeVore, C.R., Antiochos, S.K.: 2000, Dynamical formation and stability of helical prominence magnetic fields. Astrophys. J. 539, 954.
+Drell, S.D., Foley, H.M., Ruderman, M.A.: 1965, Drag and propulsion of large satellites in the ionosphere: an Alfvén propulsion engine in space. J. Geophys. Res. 70, 3131.
+Filippov, B.: 2018, Two-step solar filament eruptions. Mon. Not. Roy. Astron. Soc. 475, 1646.
+Gary, G.A., Moore, R.L.: 2004, Eruption of a multiple-turn helical magnetic flux tube in a large flare: evidence for external and internal reconnection that fits the breakout model of solar magnetic eruptions. Astrophys. J. 611, 545.
+Gibson, S.E., Low, B.C.: 1998, A time-dependent three-dimensional magnetohydrodynamic model of the coronal mass ejection. Astrophys. J. 493, 460.
+Goertz, C.K.: 1980, Io’s interaction with the plasma torus. J. Geophys. Res. 85, 2949.
+Gosain, S., Filippov, B., Ajor Maurya, R., Chandra, R.: 2016, Interrupted eruption of large quiescent filament associated with a halo CME. Astrophys. J. 821, 85.
+Hill, T.W., Dessler, A.J., Goertz, C.K.: 1983, Magnetospheric models. In: Dessler, A.J. (ed.) Physics of the Jovian Magnetosphere, Cambridge University Press, New York, 365.
+Hollweg, J.V.: 1991, Alfvén waves. In: Ulmschneider, P., Priest, E.R., Rosner, R. (eds.) Mechanisms of Chromospheric and Coronal Heating, Springer, Berlin, 423.
+Inoue, S., Kusano, K., Büchner, J., Skála, J.: 2018, Formation and dynamics of a solar eruptive flux tube. Nat. Commun. 9, 174.
+Ionson, J.A.: 1978, Resonant absorption of Alfvénic surface waves and the heating of solar coronal loops. Astrophys. J. 226, 650.
+Isenberg, P.A., Forbes, T.G., Démoulin, P.: 1993, Catastrophic evolution of a force-free flux rope: a model for eruptive flares. Astrophys. J. 417, 368.
+Joshi, N.C., Srivastava, A.K., Filippov, B., Kayshap, P., Uddin, W., Chandra, R., Prasad Choudhary, D., Dwivedi, B.N.: 2014, Confined partial filament eruption and its reformation within a stable magnetic flux rope. Astrophys. J. 787, 11.
+Kulsrud, R.M., Bernstein, I.B., Kruskal, M., Fanucci, J., Ness, N.: 1965, On the explosion of a supernova into the interstellar magnetic field. II. Astrophys. J. 142, 491.
+Kumar, A., Rust, D.M.: 1996, Interplanetary magnetic clouds, helicity conservation, and current-core flux-ropes. J. Geophys. Res. 101, 15667.
+Lepping, R.P., Jones, J.A., Burlaga, L.F.: 1990, Magnetic field structure of interplanetary magnetic clouds at 1 AU. J. Geophys. Res. 95, 11957.
+Low, B.C.: 1982, Self-similar magnetohydrodynamics. I. The γ =4/3 polytrope and the coronal transient. Astrophys. J. 254, 796.
+Mandrini, C.H., Démoulin, P., Klimchuk, J.A.: 2000, Magnetic field and plasma scaling laws: their implications for coronal heating models. Astrophys. J. 530, 999.
+Marubashi, K.: 1986, Structure of the interplanetary magnetic clouds and their solar origins. Adv. Space Res. 6, 335.
+McIntosh, S.W., de Pontieu, B., Carlsson, M., Hansteen, V., Boerner, P., Goossens, M.: 2011, Alfvénic waves with sufficient energy to power the quiet solar corona and fast solar wind. Nature 475, 477.
+Nakariakov, V.M., Ofman, L., Deluca, E.E., Roberts, B., Davila, J.M.: 1999, TRACE observation of damped coronal loop oscillations: implications for coronal heating. Science 285, 862.
+Neubauer, F.M.: 1980, Nonlinear standing Alfvén wave current system at Io: theory. J. Geophys. Res. 85, 1171.
+Odstrčil, D., Pizzo, V.J.: 1999, Three-dimensional propagation of coronal mass ejections (CMEs) in a structured solar wind flow: 1. CME launched within the streamer belt. J. Geophys. Res. 104, 483.
+Ofman, L., Wang, T.J.: 2008, Hinode observations of transverse waves with flows in coronal loops. Astrophys. J. Lett. 482, L9.
+Okamoto, T.J., Antolin, P., De Pontieu, B., Uitenbroek, H., Van Doorsselaere, T., Yokoyama, T.: 2015, Resonant absorption of transverse oscillations and associated heating in a solar prominence. I. Observational aspects. Astrophys. J. 809, 71.
+Osherovich, V.A., Farrugia, C.J., Burlaga, L.F.: 1993, Nonlinear evolution of magnetic flux ropes: 1. Low-beta limit. J. Geophys. Res. 98, 13225.
+Osherovich, V.A., Farrugia, C.J., Burlaga, L.F.: 1995, Nonlinear evolution of magnetic flux ropes: 2. Finite beta plasma. J. Geophys. Res. 100, 12307.
+Osterbrock, D.E.: 1961, The heating of the solar chromosphere, plages, and corona by magnetohydrodynamic waves. Astrophys. J. 134, 347.
+Panasenco, O., Martin, S.F., Velli, M.: 2014, Apparent solar tornado-like prominences. Solar Phys. 289, 603.
+Patsourakos, S., Vourlidas, A., Stenborg, G.: 2013, Direct evidence for a fast coronal mass ejection driven by the prior formation and subsequent destabilization of a magnetic flux rope. Astrophys. J. 764, 125.
+Priest, E.R., Forbes, T.G.: 1990, Magnetic field evolution during prominence eruptions and two-ribbon flares. Solar Phys. 126, 319.
+Sakurai, T., Goossens, M., Hollweg, J.V.: 1991, Resonant behaviour of MHD waves on magnetic flux tubes. I – Connection formulae at the resonant surfaces. Solar Phys. 133, 227.
+Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Flare-CME models: an observational perspective (invited review). Solar Phys. 290, 3457.
+Shimazu, H., Terasawa, T.: 1995, Electromagnetic induction heating of meteorite parent bodies by the primordial solar wind. J. Geophys. Res. 100, 16923.
+Shimazu, H., Vandas, M.: 2002, A self-similar solution of expanding cylindrical flux ropes for any polytropic index value. Earth Planets Space 54, 783.
+Southwood, D.J., Kivelson, M.G., Walker, R.J., Slavin, J.A.: 1980, Io and its plasma environment. J. Geophys. Res. 85, 5959.
+Van Tend, W., Kuperus, M.: 1978, The development of coronal electric current systems in active regions and their relation to filaments and flares. Solar Phys. 59, 115.
+Vandas, M., Odstrčil, D.: 2000, Magnetic cloud evolution: a comparison of analytical and numerical solutions. J. Geophys. Res. 105, 12605.
+Vandas, M., Fischer, S., Dryer, M., Smith, Z., Detman, T.: 1995, Simulation of magnetic cloud propagation in the inner heliosphere in two-dimensions: 1. A loop perpendicular to the ecliptic plane. J. Geophys. Res. 100, 12285.
+Wright, A.N., Schwartz, S.J.: 1990, The equilibrium of a conducting body embedded in a flowing plasma. J. Geophys. Res. 95, 4027.
+Wu, S.T., Guo, W.P., Dryer, M.: 1997, Dynamical evolution of a coronal streamer – flux rope system: II. A self-consistent non-planar magnetohydrodynamic simulation. Solar Phys. 170, 265.

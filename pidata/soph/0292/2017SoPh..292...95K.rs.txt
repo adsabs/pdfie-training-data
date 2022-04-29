@@ -1,0 +1,47 @@
+Bapanayya, C., Raju, P., Sharma, S.D., Ramesh, D.: 2011, Information theory-based measures of similarity for imaging shallow-mantle discontinuities. Lithosphere 3(4), 289.
+Carbone, A., Castelli, G., Stanley, H.: 2004, Analysis of clusters formed by the moving average of a long-range correlated time series. Phys. Rev. E 69(2), 026105.
+Clilverd, M.A., Clarke, E., Ulich, T., Rishbeth, H., Jarvis, M.J.: 2006, Predicting solar cycle 24 and beyond. Space Weather 4(9), S09005.
+Das Sharma, S., Ramesh, D., Bapanayya, C., Raju, P.: 2012, Sea surface temperatures in cooler climate stages bear more similarity with atmospheric CO
+De Michelis, P., Consolini, G., Materassi, M., Tozzi, R.: 2011, An information theory approach to the storm-substorm relationship. J. Geophys. Res. Space Phys. 116(A8), A08225.
+de Toma, G., Gibson, S., Emery, B., Arge, C.: 2010, The minimum between cycle 23 and 24: Is sunspot number the whole story? In: SOHO-23: Understanding a Peculiar Solar Minimum 428, 217.
+Dikpati, M., Charbonneau, P.: 1999, A Babcock–Leighton flux transport dynamo with solar-like differential rotation. Astrophys. J. 518(1), 508.
+Dikpati, M., Gilman, P.A.: 2008, Global solar dynamo models: Simulations and predictions. J. Astrophys. Astron. 29(1 – 2), 29.
+Dikpati, M., De Toma, G., Gilman, P.A.: 2006, Predicting the strength of solar cycle 24 using a flux-transport dynamo-based tool. Geophys. Res. Lett. 33(5), L05102.
+Emmert, J., Lean, J., Picone, J.: 2010, Record-low thermospheric density during the 2008 solar minimum. Geophys. Res. Lett. 37(12), L12102.
+Ermolli, I., Matthes, K., Dudok de Wit, T., Krivova, N.A., Tourpali, K., Weber, M., Unruh, Y.C., Gray, L., Langematz, U., Pilewskie, P., et al.: 2013, Recent variability of the solar spectral irradiance and its impact on climate modelling. Atmos. Chem. Phys. 13(8), 3945.
+Feynman, J.: 1982, Geomagnetic and solar wind cycles, 1900 – 1975. J. Geophys. Res. Space Phys. 87(A8), 6153.
+Gkana, A., Zachilas, L.: 2015, Sunspot numbers: Data analysis, predictions and economic impacts. J. Eng. Sci. Tech. Rev. 8, 79.
+Gkana, A., Zachilas, L.: 2016, Re-evaluation of predictive models in light of new data: Sunspot number version 2.0. Solar Phys. 291, 2457.
+Hajra, R., Tsurutani, B.T., Echer, E., Gonzalez, W.D.: 2014, Relativistic electron acceleration during high-intensity, long-duration, continuous AE activity (HILDCAA) events: Solar cycle phase dependences. Geophys. Res. Lett. 41(6), 1876.
+Hao, Y., Shi, H., Xiao, Z., Zhang, D.: 2014, Weak ionization of the global ionosphere in solar cycle 24. In: Annales Geophysicae 32, 809. Copernicus GmbH.
+Hathaway, D.H.: 2010, The solar cycle. Living Rev. Solar Phys. 7(1), 1.
+Hathaway, D.H., Wilson, R.M.: 2004, What the sunspot record tells us about space climate. Solar Phys. 224(1 – 2), 5.
+Hathaway, D.H., Wilson, R.M.: 2006, Geomagnetic activity indicates large amplitude for sunspot cycle 24. Geophys. Res. Lett. 33(18), L18101.
+Janardhan, P., Bisoi, S.K., Ananthakrishnan, S., Tokumaru, M., Fujiki, K., Jose, L., Sridharan, R.: 2015, A 20 year decline in solar photospheric magnetic fields: Inner-heliospheric signatures and possible implications. J. Geophys. Res. Space Phys. 120(7), 5306.
+Kakad, B.: 2011, A new method for prediction of peak sunspot number and ascent time of the solar cycle. Solar Phys. 270(1), 393.
+Kakad, B., Kakad, A., Ramesh, D.S.: 2015, A new method for forecasting the solar cycle descent time. J. Space Weather Space Clim. 5, A29.
+Kane, R.: 2007, A preliminary estimate of the size of the coming solar cycle 24, based on Ohl’s precursor method. Solar Phys. 243(2), 205.
+Materassi, M., Wernik, A., Yordanova, E.: 2007, Determining the verse of magnetic turbulent cascades in the Earth’s magnetospheric cusp via transfer entropy analysis: Preliminary results. Nonlinear Process. Geophys. 14(2), 153.
+McComas, D., Ebert, R., Elliott, H., Goldstein, B., Gosling, J., Schwadron, N., Skoug, R.: 2008, Weaker solar wind from the polar coronal holes and the whole Sun. Geophys. Res. Lett. 35(18), L18103.
+Mundt, M.D., Maguire, W.B., Chase, R.R.P.: 1991, Chaos in the sunspot cycle: Analysis and prediction. J. Geophys. Res. Space Phys. 96(A2), 1705.
+Muñoz-Jaramillo, A., Dasi-Espuig, M., Balmaceda, L.A., DeLuca, E.E.: 2013, Solar cycle propagation, memory, and prediction: Insights from a century of magnetic proxies. Astrophys. J. Lett. 767(2), L25.
+Ohl, A.: 1966, Wolf’s number prediction for the maximum of the cycle 20. Soln. Dannye 12, 84.
+Pesnell, W.D.: 2008, Predictions of solar cycle 24. Solar Phys. 252(1), 209.
+Pesnell, W.D.: 2014, Predicting solar cycle 24 using a geomagnetic precursor pair. Solar Phys. 289(6), 2317.
+Pesnell, W.D.: 2016, Predictions of solar cycle 24: How are we doing? Space Weather 14(1), 10.
+Pishkalo, M.I.: 2014, Prediction of solar cycle 24 using sunspot number near the cycle minimum. Solar Phys. 289(5), 1815.
+Price, C.P., Prichard, D., Hogenson, E.A.: 1992, Do the sunspot numbers form a “chaotic” set? J. Geophys. Res. Space Phys. 97(A12), 19113.
+Scott, D.W.: 1979, On optimal and data-based histograms. Biometrika 66, 605.
+Shannon, C.E.: 1948, A mathematical theory of communication. Bell Syst. Tech. J. 27, 379.
+Solomon, S.C., Qian, L., Burns, A.G.: 2013, The anomalous ionosphere between solar cycles 23 and 24. J. Geophys. Res. Space Phys. 118(10), 6524.
+Svalgaard, L., Kamide, Y.: 2012, Asymmetric solar polar field reversals. Astrophys. J. 763(1), 23.
+Svalgaard, L., Cliver, E.W., Kamide, Y.: 2005, Sunspot cycle 24: Smallest cycle in 100 years? Geophys. Res. Lett. 32(1), L01104.
+Thompson, R.: 1993, A technique for predicting the amplitude of the solar cycle. Solar Phys. 148(2), 383.
+Tripathy, S.C.: 2016, Predictions of solar cycle. Asian J. Phys. 25, 387.
+Usoskin, I.G., Solanki, S., Kovaltsov, G.: 2007, Grand minima and maxima of solar activity: New observational constraints. Astron. Astrophys. 471(1), 301.
+Usoskin, I.G., Solanki, S., Kovaltsov, G.: 2011, Grand minima of solar activity during the last millennia. Proc. Int. Astron. Union 7(S286), 372.
+Vichare, G., Bhaskar, A., Ramesh, D.S.: 2016, Are the equatorial electrojet and the Sq coupled systems? transfer entropy approach. Adv. Space Res. 57(9), 1859.
+Wallis, K.: 2006, A note on the calculation of entropy from histograms.
+Wilson, R.M.: 1990, On the level of skill in predicting maximum sunspot number: A comparative study of single variate and bivariate precursor techniques. Solar Phys. 125(1), 143.
+Zachilas, L., Gkana, A.: 2015, On the verge of a grand solar minimum: A second Maunder minimum? Solar Phys. 290(5), 1457.
+Zhao, L.-L., Qin, G.: 2013, An observation-based GCR model of heavy nuclei: Measurements from CRIS onboard ACE spacecraft. J. Geophys. Res. Space Phys. 118(5), 1837.

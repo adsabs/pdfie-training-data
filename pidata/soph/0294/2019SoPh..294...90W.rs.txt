@@ -1,0 +1,20 @@
+Baumjohann, W., Paschmann, G., Nagai, T.: 1992, Thinning and expansion of the plasma sheet. J. Geophys. Res. 97, 17173.
+Bavassano, B., Woo, R., Bruno, R.: 1997, Heliospheric plasma sheet and coronal streamers. Geophys. Res. Lett. 24(13), 1655.
+Bevington, P.R., Robinson, D.K.: 2003, Data Reduction and Error Analysis for the Physical Sciences, 3rd edn. McGraw–Hill, New York.
+Borrini, G., Gosling, J.T., Bame, S.J., Feldman, W.C., Wilcox, J.M.: 1981, Solar wind helium and hydrogen structure near the heliospheric current sheet: A signal of coronal streamers at 1 AU. J. Geophys. Res. 86(A6), 4565.
+Crooker, N.U., Huang, C.-L., Lamassa, S.M., Larson, D.E., Kahler, S.W., Spence, H.E.: 2004, Heliospheric plasma sheets. J. Geophys. Res. 109, A03107.
+Fitzenreiter, R.J., Burlaga, L.F.: 1978, Structure of current sheets in magnetic holes at 1 AU. J. Geophys. Res. 83, 5579.
+Foullon, C., Lavraud, B., Wardle, N.C., Owen, C.J., Kucharek, H., Fazakerley, A.N., et al.: 2009, The Apparent layered structure of the heliospheric current sheet: Multi-spacecraft observations. Solar Phys. 259, 389.
+Gosling, J.T., Asbridge, J.R., Bame, S.J., Feldman, W.C., Borrini, G., Hansen, R.T.: 1981, Coronal streamers in the solar wind at 1 AU. J. Geophys. Res. 86, 5438.
+Intriligator, D.S., Webber, W.R.: 2014, Analyses of Voyager 2 plasma observations in the heliosheath: Near the heliospheric current sheet and streamer belt. In: Hu, Q., Zank, G.P. (eds.) Outstanding Problems in Heliophysics: From Coronal Heating to the Edge of the Heliosphere, CS-484, 84. Astron. Soc. Pacific, San Francisco.
+Lepping, R.P., Szabo, A., Peredo, M., Hoeksema, J.T.: 1996, Large-scale properties and solar connection of the heliospheric current and plasma sheets: Wind observations. Geophys. Res. Lett. 23, 1199.
+Liou, K., Wu, C.-C.: 2016, A possible cause of the diminished solar wind during the solar cycle 23 – 24 minimum. Solar Phys. 291, 3777.
+Simunac, K.D.C., Galvin, A.B., Farrugia, C.J., Kistler, L.M., Kucharek, H., Lavraud, B., et al.: 2012, The heliospheric plasma sheet observed in situ by three spacecraft over four solar rotations. Solar. Phys. 281, 42.
+Smith, E.: 2001, The heliospheric current sheet. J. Geophys. Res. 106, 15819.
+Smith, E., Zhou, X.: 2007, Slow mode waves in the heliospheric plasma sheet. In: Shaikh, D., Zank, G.P. (eds.) Turbulence and Nonlinear Processes in Astrophysical Plasmas, AIP CS-932, 144.
+Suess, S.T., Ko, Y.-K., Steiger, R., Moore, R.L.: 2009, Quiescent current sheets in the solar wind and origins of slow wind. J. Geophys. Res. 114, A04103. DOI:10.1029/2008JA013704.
+Winterhalter, D., Smith, E.J., Burton, M.E., Murphy, N., McComas, D.J.: 1994, The heliospheric plasma sheet. J. Geophys. Res. 99(A4), 6667.
+Wu, C.-C., Liou, K., Plunkett, S., Craig, D.F., Wu, S.T.: 2013, Investigation of solar/heliospheric anomalies associated with solar minimum during 2007 – 2008. Terr. Atmos. Oceanic Sci. 24, 243.DOI.
+Wu, C.-C., Liou, K., Wu, S.T., Dryer, M.: 2016, Heliospheric plasma sheet inflation as a cause of solar wind anomaly during the solar cycle 23 – 24 minimum. In: Wang, L., Bruno, R., Möbius, E., Vourlidas, A., Zank, G.P. (eds.) Proc. Solar Wind 14, AIP CP-1720, 040021.
+Wu, C.-C., Liou, K., Lepping, R.P., Vourlidas, A., Plunkett, S., Socker, D., Wu, S.T.: 2017, Observation of an extremely large-density heliospheric plasma sheet compressed by an interplanetary shock at 1 AU. Solar Phys. 292, 109.
+Zhou, X.-Y., Smith, E.J., Winterhalter, D., McComas, D.J., Skoug, R.M., Goldstein, B.E., Smith, C.W.: 2005, Morphology and evolution of the heliospheric current and plasma sheets from 1 to 5 AU. In: Fleck, B., Zurbuchen, T.H., Lacoste, H. (eds.) Proc. Solar Wind 11 / SOHO 16, Connecting Sun and Heliosphere SP-592, ESA, Noordwijk, 659. ISBN 92-9092-903-0.

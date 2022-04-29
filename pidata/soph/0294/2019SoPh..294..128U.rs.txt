@@ -1,0 +1,41 @@
+Aly, J.J.: 1989, On the reconstruction of the nonlinear force-free coronal magnetic field from boundary data. Solar Phys. 120, 19.
+Aschwanden, M.J.: 1999, Do EUV nanoflares account for coronal heating? Solar Phys. 190, 233.
+Aschwanden, M.J., Holman, G., O’Flannagain, A., Caspi, A., McTiernan, J.M., Kontar, E.P.: 2016, Global energetics of solar flares. III. Nonthermal energies. Astrophys. J. 832, 27.
+Aschwanden, M.J., Caspi, A., Cohen, C.M.S., Holman, G., Jing, J., Kretzschmar, M., Kontar, E.P., McTiernan, J.M., Mewaldt, R.A., O’Flannagain, A., Richardson, I.G., Ryan, D., Warren, H.P., Xu, Y.: 2017, Global energetics of solar flares. V. Energy closure in flares and coronal mass ejections. Astrophys. J. 836, 17.
+Barnes, W.T., Cargill, P.J., Bradshaw, S.J.: 2016a, Inference of heating properties from “hot” non-flaring plasmas in active region cores. I. Single nanoflares. Astrophys. J. 829, 31.
+Barnes, W.T., Cargill, P.J., Bradshaw, S.J.: 2016b, Inference of heating properties from “hot” non-flaring plasmas in active region cores. II. Nanoflare trains. Astrophys. J. 833, 217.
+Benz, A.O., Grigis, P.C.: 2002, Microflares and hot component in solar active regions. Solar Phys. 210, 431.
+Benz, A.O., Krucker, S.: 2002, Energy distribution of microevents in the quiet solar corona. Astrophys. J. 568, 413.
+Bogachev, S.A., Somov, B.V., Kosugi, T., Sakao, T.: 2005, The motions of the hard X-ray sources in solar flares: Images and statistics. Astrophys. J. 630, 561.
+Craig, I.J.D., Sneyd, A.D.: 1986, A dynamic relaxation technique for determining the structure and stability of coronal magnetic fields. Astrophys. J. 311, 451.
+Cranmer, S.R.: 2018, Low-frequency Alfvén waves produced by magnetic reconnection in the Sun’s magnetic carpet. Astrophys. J. 862, 6.
+Delaboudinière, J.-P., Artzner, G.E., Brunaud, J., Gabriel, A.H., Hochedez, J.F., Millier, F., Song, X.Y., Au, B., Dere, K.P., Howard, R.A., Kreplin, R., Michels, D.J., Moses, J.D., Defise, J.M., Jamar, C., Rochus, P., Chauvineau, J.P., Marioge, J.P., Catura, R.C., Lemen, J.R., Shing, L., Stern, R.A., Gurman, J.B., Neupert, W.M., Maucherat, A., Clette, F., Cugnon, P., van Dessel, E.L.: 1995, EIT: Extreme-Ultraviolet Imaging Telescope for the SOHO mission. Solar Phys. 162, 291.
+Georgoulis, M.K., Rust, D.M., Bernasconi, P.N., Schmieder, B.: 2002, Statistics, morphology, and energetics of Ellerman bombs. Astrophys. J. 575, 506.
+Guerreiro, N., Haberreiter, M., Hansteen, V., Schmutz, W.: 2017, Small-scale heating events in the solar atmosphere. II. Lifetime, total energy, and magnetic properties. Astron. Astrophys. 603, A103.
+Hoyng, P., Brown, J.C., van Beek, H.F.: 1976, High time resolution analysis of solar hard X-ray flares observed on board the ESRO TD-1A satellite. Solar Phys. 48, 197.
+Hudson, H.S.: 1991, Solar flares, microflares, nanoflares, and coronal heating. Solar Phys. 133, 357.
+Kirichenko, A.S., Bogachev, S.A.: 2013, Long-duration plasma heating in solar microflares of X-ray class A1.0 and lower. Astron. Lett. 39, 797.
+Kirichenko, A.S., Bogachev, S.A.: 2017a, Plasma heating in solar microflares: Statistics and analysis. Astrophys. J. 840, 45.
+Kirichenko, A.S., Bogachev, S.A.: 2017b, The relation between magnetic fields and X-ray emission for solar microflares and active regions. Solar Phys. 292, 120.
+Kuzin, S.V., Bogachev, S.A., Zhitnik, I.A., Pertsov, A.A., Ignatiev, A.P., Mitrofanov, A.M., Slemzin, V.A., Shestov, S.V., Sukhodrev, N.K., Bugaenko, O.I.: 2009, TESIS experiment on EUV imaging spectroscopy of the Sun. Adv. Space Res. 43, 1001.
+Lemen, J.R., Title, A.M., Akin, D.J., Boerner, P.F., Chou, C., Drake, J.F., Duncan, D.W., Edwards, C.G., Friedlaender, F.M., Heyman, G.F., Hurlburt, N.E., Katz, N.L., Kushner, G.D., Levay, M., Lindgren, R.W., Mathur, D.P., McFeaters, E.L., Mitchell, S., Rehse, R.A., Schrijver, C.J., Springer, L.A., Stern, R.A., Tarbell, T.D., Wuelser, J.-P., Wolfson, C.J., Yanari, C., Bookbinder, J.A., Cheimets, P.N., Caldwell, D., Deluca, E.E., Gates, R., Golub, L., Park, S., Podgorski, W.A., Bush, R.I., Scherrer, P.H., Gummin, M.A., Smith, P., Auker, G., Jerram, P., Pool, P., Soufli, R., Windt, D.L., Beardsley, S., Clapp, M., Lang, J., Waltham, N.: 2012, The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO). Solar Phys. 275, 17.
+Longcope, D.W.: 2005, Topological methods for the analysis of solar magnetic fields. Liv. Rev. Solar Phys. 2, 7.
+Meyer, K.A., Mackay, D.H., van Ballegooijen, A.A.: 2012, Solar magnetic carpet II: Coronal interactions of small-scale magnetic fields. Solar Phys. 278, 149.
+Nelson, C.J., Doyle, J.G., Erdélyi, R., Huang, Z., Madjarska, M.S., Mathioudakis, M., Mumford, S.J., Reardon, K.: 2013, Statistical analysis of small Ellerman bomb events. Solar Phys. 283, 307.
+Nitta, N., van Driel-Gesztelyi, L., Leka, K.D., Shibata, K.: 1996, Emerging flux and flares in NOAA 7260. Adv. Space Res. 17, 201.
+Parker, E.N.: 1988, Nanoflares and the solar X-ray corona. Astrophys. J. 330, 474.
+Parnell, C.E., Jupp, P.E.: 2000, Statistical analysis of the energy distribution of nanoflares in the quiet Sun. Astrophys. J. 529, 554.
+Pevtsov, A.A., Fisher, G.H., Acton, L.W., Longcope, D.W., Johns-Krull, C.M., Kankelborg, C.C., Metcalf, T.R.: 2003, The relationship between X-ray radiance and magnetic flux. Astrophys. J. 598, 1387.
+Priest, E.: 2014, Magnetohydrodynamics of the Sun, Cambridge University Press, Cambridge.
+Priest, E.R., Chitta, L.P., Syntelis, P.: 2018, A cancellation nanoflare model for solar chromospheric and coronal heating. Astrophys. J. Lett. 862, L24.
+Priest, E., Forbes, T.: 2007, Magnetic Reconnection, Cambridge University Press, Cambridge.
+Reid, A., Mathioudakis, M., Doyle, J.G., Scullion, E., Nelson, C.J., Henriques, V., Ray, T.: 2016, Magnetic flux cancellation in Ellerman bombs. Astrophys. J. 823, 110.
+Reva, A., Shestov, S., Bogachev, S., Kuzin, S.: 2012, Investigation of Hot X-Ray Points (HXPs) using spectroheliograph Mg xii experiment data from CORONAS-F/SPIRIT. Solar Phys. 276, 97.
+Scherrer, P.H., Schou, J., Bush, R.I., Kosovichev, A.G., Bogart, R.S., Hoeksema, J.T., Liu, Y., Duvall, T.L., Zhao, J., Title, A.M., Schrijver, C.J., Tarbell, T.D., Tomczyk, S.: 2012, The Helioseismic and Magnetic Imager (HMI) investigation for the Solar Dynamics Observatory (SDO). Solar Phys. 275, 207.
+Schuck, P.W.: 2006, Tracking magnetic footpoints with the magnetic induction equation. Astrophys. J. 646, 1358.
+Shimizu, T., Tsuneta, S.: 1997, Deep survey of solar nanoflares with Yohkoh. Astrophys. J. 486, 1045.
+Somov, B.V.: 2007, Plasma Astrophysics, Part II: Reconnection and Flares, Springer, Berlin.
+Somov, B.V.: 2012, On the magnetic reconnection of electric currents in solar flares. Astron. Lett. 38, 128.
+Somov, B.V., Kosugi, T., Hudson, H.S., Sakao, T., Masuda, S.: 2002, Magnetic reconnection scenario of the Bastille Day 2000 flare. Astrophys. J. 579, 863.
+Stenflo, J.O.: 1985, Measurements of magnetic fields and the analysis of Stokes profiles. Solar Phys. 100, 189.
+Watanabe, H., Vissers, G., Kitai, R., Rouppe van der Voort, L., Rutten, R.J.: 2011, Ellerman bombs at high resolution. I. Morphological evidence for photospheric reconnection. Astrophys. J. 736, 71.

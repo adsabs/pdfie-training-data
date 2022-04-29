@@ -1,0 +1,36 @@
+Bárta, M., Karlický, M.: 2006, Interference patterns in solar radio spectra: high-resolution structural analysis of the corona. Astron. Astrophys. 450, 359.
+Benáček, J., Karlický, M.: 2018, Double plasma resonance instability as a source of solar zebra emission. Astron. Astrophys. 611, A60.
+Benáček, J., Karlický, M., Yasnov, L.: 2017, Temperature dependent growth rates of the upper-hybrid waves and solar radio zebra patterns. Astron. Astrophys. 598, A106.
+Bian, N.H., Emslie, A.G., Stackhouse, D.J., Kontar, E.P.: 2014, The formation of Kappa-distribution accelerated electron populations in solar flares. Astrophys. J. 796, 142.
+Chernov, G.P.: 1976, Microstructure in the continuous radiation of type IV meter bursts. Observations and model of the source. Soviet Astron. 20, 449.
+Chernov, G.P.: 1990, Whistlers in the solar corona and their relevance to fine structures of type IV radio emission. Solar Phys. 130, 75.
+Chernov, G.P.: 2010, Recent results of zebra patterns in solar radio bursts. Res. Astron. Astrophys. 10, 821.
+Chernov, G.P., Yan, Y.-H., Fu, Q.-J.: 2014, The importance of source positions during radio fine structure observations. Res. Astron. Astrophys. 14, 831.
+Chernov, G.P., Sych, R.A., Meshalkina, N.S., Yan, Y., Tan, C.: 2012, Spectral and spatial observations of microwave spikes and zebra structure in the short radio burst of May 29, 2003. Astron. Astrophys. 538, A53.
+Dory, R.A., Guest, G.E., Harris, E.G.: 1965, Unstable electrostatic plasma waves propagating perpendicular to a magnetic field. Phys. Rev. Lett. 14, 131.
+Holman, G.D., Sui, L., Schwartz, R.A., Emslie, A.G.: 2003, Electron bremsstrahlung hard X-ray spectra, electron distributions, and energetics in the 2002 July 23 solar flare. Astrophys. J. Lett. 595, L97.
+Karlický, M.: 2013, Radio continua modulated by waves: zebra patterns in solar and pulsar radio spectra? Astron. Astrophys. 552, A90.
+Kašparová, J., Karlický, M.: 2009, Kappa distribution and hard X-ray emission of solar flares. Astron. Astrophys. 497, L13.
+Kontar, E.P., Dickson, E., Kašparová, J.: 2008, Low-energy cutoffs in electron spectra of solar flares: statistical survey. Solar Phys. 252, 139.
+Kuijpers, J.: 1974, A coherent radiation mechanism for type IV DM radio bursts. Solar Phys. 36, 157.
+Kuijpers, J.: 1975, A unified explanation of solar type IV DM continua and ZEBRA patterns. Astron. Astrophys. 40, 405.
+Kuznetsov, A.A., Tsap, Y.T.: 2007, Loss-cone instability and formation of zebra patterns in type IV solar radio bursts. Solar Phys. 241, 127.
+LaBelle, J., Treumann, R.A., Yoon, P.H., Karlický, M.: 2003, A model of zebra emission in solar type IV radio bursts. Astrophys. J. 593, 1195.
+Laptukhov, A.I., Chernov, G.P.: 2009, Concerning mechanisms for the zebra pattern formation in the solar radio emission. Plasma Phys. Rep. 35, 160.
+Ledenev, V.G., Yan, Y., Fu, Q.: 2006, Interference mechanism of “zebra-pattern” formation in solar radio emission. Solar Phys. 233, 129.
+Oka, M., Ishikawa, S., Saint-Hilaire, P., Krucker, S., Lin, R.P.: 2013, Kappa distribution model for hard X-ray coronal sources of solar flares. Astrophys. J. 764, 6.
+Oka, M., Krucker, S., Hudson, H.S., Saint-Hilaire, P.: 2015, Electron energy partition in the above-the-looptop solar hard X-ray sources. Astrophys. J. 799, 129.
+Rosenberg, H., Tarnstrom, G.: 1972, Frequency separation in structure of solar continuum radio bursts. Solar Phys. 24, 210.
+Saint-Hilaire, P., Benz, A.O.: 2005, Thermal and non-thermal energies of solar flares. Astron. Astrophys. 435, 743.
+Slottje, C.: 1972, Peculiar absorption and emission microstructures in the type IV solar radio outburst of March 2, 1970. Solar Phys. 25, 210.
+Stepanov, A.V.: 1974, A mechanism for generating type IV solar radio bursts. Soviet Astron. 17, 781.
+Tan, B.: 2010, A physical explanation of solar microwave zebra pattern with the current-carrying plasma loop model. Astrophys. Space Sci. 325, 251.
+Tan, B., Yan, Y., Tan, C., Sych, R., Gao, G.: 2012, Microwave zebra pattern structures in the X2.2 solar flare on 2011 February 15. Astrophys. J. 744, 166.
+Tan, B., Tan, C., Zhang, Y., Mészárosová, H., Karlický, M.: 2014, Statistics and classification of the microwave zebra patterns associated with solar flares. Astrophys. J. 780, 129.
+White, S.M., Melrose, D.B., Dulk, G.A.: 1983, Electron cyclotron masers during solar flares. Proc. Astron. Soc. Aust. 5, 188.
+Winglee, R.M., Dulk, G.A.: 1986, The electron-cyclotron maser instability as a source of plasma radiation. Astrophys. J. 307, 808.
+Yasnov, L.V., Benáček, J., Karlický, M.: 2017, Brightness temperature of radio zebras and wave energy densities in their sources. Solar Phys. 292, 163.
+Yasnov, L.V., Karlický, M.: 2004, The growth rate of upper-hybrid waves and dynamics of microwave zebra structures. Solar Phys. 219, 289.
+Yasnov, L.V., Karlický, M., Stupishin, A.G.: 2016, Physical conditions in the source region of a zebra structure. Solar Phys. 291, 2037.
+Zheleznyakov, V.V., Zlotnik, E.Y.: 1975, Cyclotron wave instability in the corona and origin of solar radio emission with fine structure. III. Origin of zebra-pattern. Solar Phys. 44, 461.
+Zheleznyakov, V.V., Zlotnik, E.Y., Zaitsev, V.V., Shaposhnikov, V.E.: 2016, Double plasma resonance and its manifestations in radio astronomy. Phys. Usp. 59, 997.

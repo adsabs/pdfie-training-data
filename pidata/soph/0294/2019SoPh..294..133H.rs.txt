@@ -1,0 +1,41 @@
+Albregtsen, F., Lynne Hansen, T.: 1977, The wavelength dependence of granulation. Solar Phys. 54, 31.
+Basden, A., Bharmal, N., Jenkins, D., Morris, T., Osborn, J., Jia, P., Staykov, L.: 2018, The durham adaptive optics simulation platform (dasp): Current status. SoftwareX 7, 63.
+Danilovic, S., Gandorfer, A., Lagg, A., Schüssler, M., Solanki, S.K., Vögler, A., Katsukawa, Y., Tsuneta, S.: 2008, The intensity contrast of solar granulation: Comparing Hinode SP results with MHD simulations. Astron. Astrophys. 484, L17.
+Deng, H., Zhang, D., Wang, T., Ji, K., Wang, F., Liu, Z., Xiang, Y., Jin, Z., Cao, W.: 2015, Objective image-quality assessment for high-resolution photospheric images by median filter-gradient similarity. Solar Phys. 290, 1479.
+Denker, C., Mascarinas, D., Xu, Y., Cao, W., Yang, G., Wang, H., Goode, P., Rimmele, T.: 2005, High-spatial-resolution imaging combining high-order adaptive optics, frame selection, and speckle masking reconstruction. Solar Phys. 227, 217.
+Denker, C., Deng, N., Rimmele, T.R., Tritschler, A., Verdoni, A.: 2007, Field-dependent adaptive optics correction derived with the spectral ratio technique. Solar Phys. 241, 411.
+Denker, C., Dineva, E., Balthasar, H., Verma, M., Kuckein, C., Diercke, A., González Manrique, S.J.: 2018, Image quality in high-resolution and high-cadence solar imaging. Solar Phys. 293, 44.
+Gatys, L., Ecker, A., Bethge, M.: 2015a, A neural algorithm of artistic style. In: Proc. CVPR IEEE.
+Gatys, L.A., Ecker, A.S., Bethge, M.: 2015b, Texture synthesis using convolutional neural networks. In: Proc. CVPR IEEE, 262.
+Guo, Y., Zhao, G., Pietikainen, M.: 2012, Discriminative features for texture description. Lect. Notes Comput. Sci. 45, 3834.
+Heeger, D.J., Bergen, J.R.: 1995, Pyramid-based texture analysis/synthesis. IEEE Trans. Image Process. 3, 3648.
+Hofmann, T., Scholkopf, B., Smola, A.J.: 2008, Kernel methods in machine learning. Ann. Stat. 36(3), 1171.
+Jia, P., Dongmei, C., Wang, D.: 2014, Parallel blind deconvolution of astronomical images based on the fractal energy ratio of the image and regularization of the point spread function. Exp. Astron. 38, 1.
+Jia, P., Dongmei, C., Wang, D., Basden, A.: 2015a, Real-time generation of atmospheric turbulence phase screen with non-uniform fast fourier transform. Mon. Not. Roy. Astron. Soc. 450, 38.
+Jia, P., Dongmei, C., Wang, D., Basden, A.: 2015b, Simulation of atmospheric turbulence phase screen for large telescope and optical interferometer. Mon. Not. Roy. Astron. Soc. 447, 3467.
+Johnson, J., Alahi, A., Feifei, L.: 2016, Perceptual losses for real-time style transfer and super-resolution. Lect. Notes Comput. Sci., 9906, 694.
+Julesz, B.: 1962, Visual pattern discrimination. IRE Trans. Inf. Theory 8, 84.
+Li, X.-B., Liu, Z., Wang, F., Jin, Z., Xiang, Y., Zheng, Y.-F.: 2015, High-performance parallel image reconstruction for the new vacuum solar telescope. Publ. Astron. Soc. Japan 67, 47.
+Liu, G., Gousseau, Y., Xia, G.-S.: 2016, Texture synthesis through convolutional neural networks and spectrum constraints. In: Int. Conf. on Pattern Recognition, 3234.
+Liu, Z., Xu, J., Gu, B.-Z., Wang, S., You, J.-Q., Shen, L.-X., Lu, R.-W., Jin, Z., Chen, L.-F., Lou, K., Li, Z., Lu, G.-Q., Xu, Z., Rao, C., Hu, Q.-Q., Li, R.-F., Fu, H.-W., Bao, M.-X., Wu, M.-C., Zhang, B.-R.: 2014, New vacuum solar telescope and observations with high resolution. Res. Astron. Astrophys. 14, 705.
+Mikurda, K., Von Der Lühe, O.: 2006, High resolution solar speckle imaging with the extended knox-thompson algorithm. Solar Phys. 235, 31.
+Motoyoshi, I., Nishida, S., Sharan, L., Adelson, E.: 2007, Image statistics and the perception of surface qualities. Nature 447, 206.
+Peng, F., Zhou, D.-L., Min, L., Sun, X.-M.: 2016, Discrimination of natural images and computer generated graphics based on multi-fractal and regression analysis. AEU Int. J. Electron. Commun. 71, 72.
+Pfister, T., Simonyan, K., Charles, J., Zisserman, A.: 2014, Deep convolutional neural networks for efficient pose estimation in gesture videos. Lect. Notes Comput. Sci. 9333, 538.
+Popowicz, A., Radlak, K., Bernacki, K., Orlov, V.: 2017, Review of image quality measures for solar imaging. Solar Phys. 292, 187.
+Portilla, J., Simoncelli, E.: 2000, A parametric texture model based on joint statistics of complex wavelet coefficients. Int. J. Comput. Vis. 40, 49.
+Sarazin, M., Le Louarn, M., Ascenso, J., Lombardi, G., Navarrete, J.: 2013, Defining reference turbulence profiles for E-ELT AO performance simulations. In: Esposito, S., Fini, L. (eds.) Proc. Third AO4ELT Conf., 89.
+Scharmer, G.B.: 1989, High resolution granulation observations from La Palma: Techniques and first results. In: Rutten, R.J., Severino, G. (eds.) Solar and Stellar Granulation, Springer, Dordrecht, 161.
+Scharmer, G., Gudiksen, B., Kiselman, D., Löfdahl, M., Rouppe van der Voort, L.H.M.: 2002, Dark cores in sunspot penumbral filaments. Nature 420, 151.
+Scharmer, G., Löfdahl, M., van Werkhoven, T.I.M., de la Cruz Rodriguez, J.: 2010, High-order aberration compensation with multi-frame blind deconvolution and phase diversity image restoration techniques. Astron. Astrophys. 521, A68.
+Schmidt, W., von der Lühe, O., Volkmer, R., Denker, C., Solanki, S., Balthasar, H., Bello Gonzalez, N., Berkefeld, T., Collados, M., Fischer, A., Halbgewachs, C., Heidecke, F., Hofmann, A., Kneer, F., Lagg, A., Nicklas, H., Popow, E., Puschmann, K.G., Schmidt, D., Waldmann, T.A.: 2012, The 1.5 meter solar telescope gregor. Astron. Nachr. 333, 796.
+Thompson, L.: 2000, Adaptive optics for astronomical telescopes, by John W. Hardy adaptive optics in astronomy, by François Roddier. Phys. Today 53, 69.
+Turiel, A., Parga, N.: 2001, The multifractal structure of contrast changes in natural images: From sharp edges to textures. Neural Comput. 12, 763.
+Ustyuzhaninov, I., Michaelis, C., Brendel, W., Bethge, M.: 2018, One-shot texture segmentation. In: Proc. CVPR IEEE.
+Van Noort, M., Rouppe Van Der Voort, L., Löfdahl, M.: 2005, Solar image restoration by use of multi-frame blind de-convolution with multiple objects and phase diversity. Solar Phys. 228, 191.
+Volkmer, R., von der Lühe, O., Denker, C., Solanki, S., Balthasar, H., Berkefeld, T., Caligari, P., Collados, M., Fischer, A., Halbgewachs, C., Heidecke, F., Hofmann, A., Klvaňa, M., Kneer, F., Lagg, A., Popow, E., Schmidt, D., Schmidt, W., Sobotka, M., Strassmeier, K.G.: 2010, Gregor solar telescope: Design and status. Astron. Nachr. 331, 624.
+von der Lühe, O., Schmidt, W., Soltau, D., Kneer, F., Staude, J.: 2001, Gregor: a 1.5 m telescope for solar research. Astron. Nachr. 463, 629.
+Wang, Z., Bovik, A.C., Sheikh, H.R., Simoncelli, E.P.: 2004, Image quality assessment: From error visibility to structural similarity. IEEE Trans. Image Process. 13(4), 600.
+Yu, Y., Schmid, A.M., Victor, J.D.: 2015, Visual processing of informative multipoint correlations arises primarily in v2. eLIFE 4, e06604.
+Zeiler, M.D., Fergus, R.: 2013, Visualizing and understanding convolutional neural networks. Lect. Notes Comput. Sci. 8689, 818.
+Zelinsky, A.: 2009, Learning opencv – computer vision with the opencv library (Bradski, G.R. et al.; 2008) [on the shelf]. IEEE Robot. Autom. Mag. 16(3), 100.
