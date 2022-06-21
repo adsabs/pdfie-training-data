@@ -40,6 +40,8 @@ def summarize():
         info.n_docs += 1
         info.collections.add(doc.collection_name)
 
+    n_refstrings = 0
+
     # Scan
 
     for doc in scan(load_def=True):
@@ -56,6 +58,11 @@ def summarize():
         if ".rs.txt" in doc.extensions:
             add(doc, "Refstring ground truth")
 
+            with open(doc.ext_path(".rs.txt")) as f:
+                for line in f:
+                    if line.strip():
+                        n_refstrings += 1
+
     # Report
 
     print("Document counts:")
@@ -63,6 +70,9 @@ def summarize():
 
     for desc, info in aspects.items():
         print(f"  {desc}: {info.n_docs} docs in {len(info.collections)} collections")
+
+    print()
+    print("Total number of ground-truth refstrings:", n_refstrings)
 
 
 if __name__ == "__main__":
