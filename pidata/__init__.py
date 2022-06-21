@@ -11,7 +11,13 @@ from pathlib import Path
 import toml
 from typing import FrozenSet, Generator, Optional, Set, Tuple, Union
 
-__all__ = ["COLLECTIONS_ROOT", "RECOGNIZED_EXTENSIONS", "Document", "scan", "scan_for_ext"]
+__all__ = [
+    "COLLECTIONS_ROOT",
+    "RECOGNIZED_EXTENSIONS",
+    "Document",
+    "scan",
+    "scan_for_ext",
+]
 
 COLLECTIONS_ROOT = Path(os.path.dirname(__file__))
 
@@ -73,19 +79,24 @@ class Document:
         return COLLECTIONS_ROOT / self.collection_name / (self.collection_id + ext)
 
 
-def scan(bibcode=False, rs=False, no_raster=False) -> Generator[Document, None, None]:
+def scan(
+    load_def=False, bibcode=False, rs=False, no_raster=False
+) -> Generator[Document, None, None]:
     """
     Scan all of the documents in the database.
 
     This function is a generator that yields Document instances.
 
-    If *bibcode* is True, only documents with metadata that specify their ADS
-    bibcodes are yielded.
+    If *load_def* is True, the document's metadata will be loaded from its
+    associated `.doc.toml` file. This adds I/O overhead to the scan.
 
-    If *rs* is True, only documents with `.rs.txt` refstring files are
-    yielded.
+    If *bibcode* is True, only documents with metadata that specify their ADS
+    bibcodes are yielded. Implies *load_def*.
+
+    If *rs* is True, only documents with `.rs.txt` refstring files are yielded.
 
     If *no_raster* is True, documents with raster-based PDFs are skipped.
+    Implies *load_def*.
     """
 
     for coll_item in COLLECTIONS_ROOT.iterdir():
@@ -95,7 +106,7 @@ def scan(bibcode=False, rs=False, no_raster=False) -> Generator[Document, None, 
         collection_name = coll_item.name
         coll_item = str(coll_item)
         n_strip_prefix = len(coll_item) + 1
-        need_doc_def = bibcode or no_raster
+        need_doc_def = load_def or bibcode or no_raster
 
         for dirpath, _dirnames, filenames in os.walk(coll_item):
             # Files in the toplevel collection subdirectory never correspond to
@@ -130,7 +141,10 @@ def scan(bibcode=False, rs=False, no_raster=False) -> Generator[Document, None, 
 
                 yield doc
 
-def scan_for_ext(rootdir: Union[Path, str], extension: str) -> Generator[Tuple[str, Path], None, None]:
+
+def scan_for_ext(
+    rootdir: Union[Path, str], extension: str
+) -> Generator[Tuple[str, Path], None, None]:
     """
     Scan a directory tree for files with a given extension.
 

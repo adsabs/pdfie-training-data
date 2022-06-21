@@ -50,13 +50,13 @@ import html.entities
 import os.path
 from pathlib import Path
 import random
-import sys
 import toml
 from typing import Dict, TextIO
 
 
 def envpath(env_var_name: str, default: str) -> Path:
     return Path(os.environ.get(env_var_name, default))
+
 
 REFERENCES_PREFIX = envpath("ADS_REFERENCES", "/proj/ads/references")
 FULLTEXT_PREFIX = envpath("ADS_FULLTEXT", "/proj/ads/fulltext")
@@ -79,7 +79,9 @@ class Doc:
         # $ADS_FULLTEXT so that I can get away with setting up fewer mounts when
         # doing Docker or sshfs-based processing.
 
-        ads_pdf_path = self.pdf_path.replace(str(FULLTEXT_PREFIX), '$ADS_ARTICLES/fulltext')
+        ads_pdf_path = self.pdf_path.replace(
+            str(FULLTEXT_PREFIX), "$ADS_ARTICLES/fulltext"
+        )
 
         # Analyze PDF file
 
@@ -123,7 +125,7 @@ def scan_candidates() -> Dict[str, Dict[str, Doc]]:
                 pdf_path = pieces[1]
                 doc = Doc(bibcode=bibcode, pdf_path=pdf_path)
 
-                volume = pdf_path[len(prefix):].split('/', 1)[0]
+                volume = pdf_path[len(prefix) :].split("/", 1)[0]
                 by_vol.setdefault(volume, {})[bibcode] = doc
                 n += 1
 
@@ -198,7 +200,7 @@ class SpringerProcessor:
 
         if line.startswith("<ADSBIBCODE>"):
             bibcode = line[12:]
-            bibcode = bibcode[:bibcode.index("<")]
+            bibcode = bibcode[: bibcode.index("<")]
             self.maybe_start_new(bibcode)
         elif self.cur_output is not None:
             try:
@@ -206,12 +208,12 @@ class SpringerProcessor:
             except ValueError:
                 pass
             else:
-                text = line[i+17:]
+                text = line[i + 17 :]
                 # There are cases with additional "XML" content in tags within
                 # the `<BibUnstructured>` (e.g. `<ExternalRef>`). Hopefully the
                 # XML is un-busted enough that any less-thans in the
                 # unstructured references are properly escaped.
-                text = text[:text.index("<")]
+                text = text[: text.index("<")]
                 text = handle_entities(text)
                 print(text.strip(), file=self.cur_output)
 
@@ -236,6 +238,7 @@ _MORE_ENTITIES = [
     ("&ecedil;", "ę"),
     ("&gcaron;", "ǧ"),
 ]
+
 
 def handle_entities(text: str) -> str:
     text = html.unescape(text)
