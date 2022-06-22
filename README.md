@@ -7,8 +7,27 @@ are organized into “collections” using homogeneous data formats. The big dat
 namely, PDFs — are stored externally. Straightforward scripts transform subsets
 of these data into formats used by ML tools, ADS pipelines, etc.
 
+
+## Summary statistics
+
 For some summary statistics about the corpus, run:
 
 ```
 $ python -m pidata
 ```
+
+
+## arxiv-reference-extractor export
+
+To export the corpus into a filesystem structure suitable for processing
+using the [arxiv-reference-extractor] framework, use:
+
+```
+$ python -m pidata.export_arxiv
+  [--ads-arxiv-fulltext-shadow=$PATH]
+  $OUTDIR
+```
+
+This will create a tree defining a single “session” named `all`.
+
+[arxiv-reference-extractor]: https://github.com/adsabs/arxiv-reference-extractor
