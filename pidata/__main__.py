@@ -28,6 +28,7 @@ ASPECTS = [
     "ADS bibcode",
     "Vector PDF source",
     "Raster PDF source",
+    "PDF source in ADS holdings",
     "Refstring ground truth",
 ]
 
@@ -49,6 +50,9 @@ def summarize():
 
         if doc.bibcode is not None:
             add(doc, "ADS bibcode")
+
+        if doc.ads_pdf_path_symbolic is not None:
+            add(doc, "PDF source in ADS holdings")
 
         if doc.pdf_is_raster:
             add(doc, "Raster PDF source")
