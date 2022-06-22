@@ -20,6 +20,7 @@ COLL_PREFIX = os.path.dirname(__file__)
 
 REFERENCES_SUBDIR = "sources/ESASP"
 ARTICLES_PDF_SUBDIR_TMPL = "bitmaps/seri/ESASP/{vol}/PDF/{bibcode}.pdf"
+PDFS_ARE_RASTER = True
 
 
 def do_one_doc(refdirpath: str, reffn: str):
@@ -45,7 +46,9 @@ def do_one_doc(refdirpath: str, reffn: str):
         "bibcode": bibcode,
         "pdf_sha256": sha256,
         "pdf_n_bytes": n_bytes,
-        "pdf_path": "$ADS_ARTICLES/" + pdf_sub_path,
+        "ads_pdf_path": "$ADS_ARTICLES/" + pdf_sub_path,
+        "random_index": util.make_random_index(),
+        "pdf_is_raster": PDFS_ARE_RASTER,
     }
 
     toml_path = os.path.join(COLL_PREFIX, vol, bibcode + ".doc.toml")
