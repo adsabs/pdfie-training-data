@@ -1,0 +1,390 @@
+Adams, J. C. (1847). An explanation of the observed irregularities in the motion of Uranus, on the hypothesis of disturbances caused by a more distant planet; with a determination of the mass, orbit, and position of the disturbing body, Mon. Not. R. Astron. Soc. 7, 149–152.
+Aggarwal, H. R. and Oberbeck, V. R. (1974). Roche limit of a solid body, Astrophy. J. 191, 577–588.
+Aksnes, K. (1988). General formulas for three-body resonances, in Long-Term Dynamical Behaviour of Natural and Artificial N-Body Systems, ed. A. E. Roy (Kluwer, Dordrecht).
+Alfvén, H. (1964). On the origin of asteroids, Icarus 3, 52–56.
+Allan, R. R. (1969). Evolution of the Mimas–Tethys commensurability, Astron. J. 74, 497–506.
+Anderson, J. D., Lau, E. L., Sjogren, W. L., Schubert, G., and Moore, W. B. (1996a). Gravitational constraints on the internal structure of Ganymede, Nature 384, 541–543.
+Anderson, J. D., Lau, E. L., Sjogren, W. L., Schubert, G., and Moore, W. B. (1997a). Europa’s differentiated internal structure: Inferences from two Galileo experiments, Science 276, 1236–1239.
+Anderson, J. D., Lau, E. L., Sjogren, W. L., Schubert, G., and Moore, W. B. (1997b). Gravitational evidence for an undifferentiated Callisto, Nature 387, 264–266.
+Anderson, J. D., Schubert, G., Jacobson, R. A., Lau, E. L., Moore, W. B., and Sjogren, W. L. (1998). Distribution of rock, metals, and ices in Callisto, Science 280, 1573–1576.
+Anderson, J. D., Sjogren, W. L., and Schubert, G. (1996b). Galileo gravity results and the internal structure of Io, Science 272, 709–712.
+Applegate, J., Douglas, M. R., Gürsel, Y., Sussman, G. J., and Wisdom, J. (1986). The outer solar system for 200 million years, Astron. J. 92, 176–194.
+Baierlein, R. (1983). Newtonian Dynamics (McGraw-Hill, New York).
+Bailey, M. E., Chamber, J. E., and Hahn, G. (1992). Origin of sungrazers: a frequent cometary end-state, Astron. Astrophys. 257, 315–322.
+Belton, M. J. S., Chapman, C. R., Thomas, P. C., Davies, M. E., Greenberg, R., Klaasen, K., Byrnes, D., D’Amario, L., Synnott, S., Johnson, T. V., McEwen, A., Merline, W., Davis, D. R., Petit, J.-M., Storrs, A., Veverka, J., and Zellner, B. (1995). Bulk density of asteroid 243-Ida from the orbit of its satellite Dactyl, Nature 374, 785–788.
+Bernal, J. D. (1969). Science in History. Vol. 1. The Emergence of Science (Pelican, Harmondsworth).
+Black, G. J., Nicholson, P. D., and Thomas, P. C. (1995). Hyperion: Rotational dynamics, Icarus 117, 149–171.
+Blakely, R. J. (1995). Potential Theory in Gravity and Magnetic Applications (Cambridge University Press, Cambridge).
+Blitzer, L. (1982). Dynamical stability and potential energy, Am. J. Phys. 50, 431–434.
+Boquet, F. (1889). Développement de la fonction perturbatrice, calcul des terms du huitième ordre, Ann. Obs. Paris, Mém. 19, B1–B75.
+Borderies, N. and Goldreich, P. (1984). A simple derivation of capture probabilities for the j + 1 : j and j + 2 : j orbit–orbit resonance problems, Celest. Mech. 32, 127–136.
+Borderies, N., Goldreich, P., and Tremaine, S. (1983). Perturbed particle disks, Icarus 55, 124–132.
+Borderies, N., Goldreich, P., and Tremaine, S. (1984). Unsolved problems in planetary ring dynamics, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Borderies, N., Goldreich, P., and Tremaine, S. (1985). A granular flow model for dense planetary rings, Icarus 63, 406–420.
+Borderies, N., Goldreich, P., and Tremaine, S. (1989). The formation of sharp edges in planetary rings by nearby satellites, Icarus 80, 344–360.
+Bosh, A. and Rivkin, A. (1996). Observations of Saturn’s inner satellites during the May 1995 ring-plane crossing, Science 272, 518–521.
+Bowman, F. (1958). Introduction to Bessel Functions (Dover, New York).
+Brahic, A. (1977). Systems of colliding bodies in a gravitational field. I. Numerical simulation of the standard model, Astron. Astrophys. 54, 895–907.
+Bretagnon, P. (1974). Termes à longues périodes dans le système solaire, Astron. Astrophys. 30, 141–154.
+Bretagnon, P. (1982). Théorie du mouvement de l’ensemble des planètes. Solution VSOP-82, Astron. Astrophys. 114, 278–288.
+Broadfoot, A. L. et al. (1986). Ultraviolet spectrometer observations of Uranus, Science 233, 74–79.
+Brouwer, D. and Clemence, G. M. (1961). Methods of Celestial Mechanics (Academic Press, New York).
+Brouwer, D. and van Woerkom, A. J. J. (1950). The secular variations of the orbital elements of the principal planets, Astron. Papers Amer. Ephem. 13, 81–107.
+Brown, E. W. and Shook, C. A. (1933). Planetary Theory (Cambridge University Press, Cambridge).
+Bullen, K. E. (1975). The Earth’s Density (Chapman and Hall, London).
+Burkardt, T. M. and Danby, J. M. A. (1983). The solution of Kepler’s equation, II, Celest. Mech. 31, 317–328.
+Burns, J. A. (1973). Where are the satellites of the inner planets? Nature Physical Science 242, 23–25.
+Burns, J. A. (1976). Elementary derivation of the perturbation equations of celestial mechanics, Am. J. Phys. 44, 944–949.
+Burns, J. A. (1986). The evolution of satellite orbits, in Satellites, ed. J. A. Burns and M. S. Matthews (University of Arizona Press, Tucson).
+Burns, J. A., Lamy, P., and Soter, S. (1979). Radiation forces on small particles in the solar system, Icarus 40, 1–48.
+Burns, J. A., Schaffer, L. E., Greenberg, R. J., and Showalter, M. (1985). Lorentz resonances and the structure of the jovian ring, Nature 316, 115–119.
+Burns, J. A., Showalter, M. R., Cuzzi, J. N., and Pollack, J. B. (1980). Physical processes in Jupiter’s ring: Clues to its origin by Jove! Icarus 44, 339–360.
+Burns, J. A., Showalter, M. R., Hamilton, D. P., Nicholson, P. D., de Pater, I., Ocketr-Bell, M. E., and Thomas, P. C. (1999). The formation of Jupiter’s faint rings, Science 284, 1146–1150.
+Burns, J. A., Showalter, M. R., and Morfill, G. E. (1984). The ethereal rings of Jupiter and Saturn, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Carpino, M., Milani, A., Nobili, A. M. (1987). Long-term numerical integrations and synthetic theories for the motion of the outer planets, Astron. Astrophys. 181, 182–194.
+Cauchy, A. L. (1827). Sur les moments d’inértie, Exercises de Mathématiques 2, 93–103.
+Champenois, S. and Vienne, A. (1999a). Chaos and secondary resonances in the Mimas–Tethys system, Celest. Mech. Dyn. Astron. in Press.
+Champenois, S. and Vienne, A. (1999b). The role of secondary resonances in the evolution of the Mimas–Tethys system, Icarus (in press).
+Chandrasekhar, S. (1987). Ellipsoidal Figures of Equilibrium (Dover, New York).
+Chirikov, B. V. (1979). A universal instability of many-dimensional oscillator systems, Phys. Rep. 52, 263–379.
+Chodas, P. W. and Yeomans, D. K. (1996). The orbital motion and impact circumstances of Comet Shoemaker-Levy 9, in The Collision of Comet Shoemaker-Levy 9 and Jupiter, ed. K. S. Knoll, H. A. Weaver, and P. D. Feldman (Cambridge University Press, Cambridge).
+Chree, C. (1896a). Forced vibrations in isotropic elastic solid spheres and spherical shells, Cambridge Phil. Trans. 16, 14–57.
+Chree, C. (1896b). Tides, on the “equilibrium theory”, Cambridge Phil. Trans. 16, 133–151.
+Christou, A. A. (1999). A numerical survey of transient co-orbitals of the terrestrial planets, Icarus (submitted).
+Christou, A. A. and Murray, C. D. (1997). A second order Laplace–Lagrange theory applied to the uranian satellite system, Astron. Astrophys. 326, 416–427.
+Clairaut, A. C. (1743). Théorie de la Figure de la Terre, Tirée des Principes de l’Hydrastatique (Durand, Paris).
+Cochran, A. L., Levison, H. F., Stern, S. A., and Duncan, M. J. (1995). The discovery of Halley-sized Kuiper belt objects using the Hubble Space Telescope, Astrophys. J. 455, 342–346.
+Cohen, C. J. and Hubbard, E. C. (1965). Libration of the close approaches of Pluto to Neptune, Astron. J. 70, 10–13.
+Colombo, G., Franklin, F. A., and Munford, C. M. (1968). On a family of periodic orbits of the restricted three-body problem and the question of the gaps in the asteroid belt and in Saturn’s rings, Astron. J. 73, 111–123.
+Colombo, G., Lautman, D. A., and Shapiro, I. I. (1966). The Earth’s dust belt: Fact or fiction? 2. Gravitational focussing and Jacobi capture, J. Geophys. Res. 71, 5705–5717.
+Colwell, P. (1993). Solving Kepler’s Equation Over Three Centuries (Willmann-Bell, Richmond).
+Consolmagno, G. J. (1983). Lorentz forces on the dust in Jupiter’s ring, J. Geophys. Res. 88, 5607–5612.
+Cook, A. F. and Franklin, F. A. (1964). Rediscussion of Maxwell’s Adams prize essay on the stability of Saturn’s rings, Astron. J. 69, 173–200.
+Cook, A. H. (1973). Physics of the Earth and Planets (Macmillan, London).
+Cook, A. H. (1980). Interiors of the Planets (Cambridge University Press, Cambridge).
+Cooke, M. L. (1991). Saturn’s rings: Radial variation in the Keeler Gap and C ring photometry, Cornell University PhD thesis.
+Cuzzi, J. N. and Burns, J. A. (1988). Charged particle depletion surrounding Saturn’s F ring: Evidence for a moonlet belt? Icarus 74, 284–324.
+Cuzzi, J. N. and Scargle, J. D. (1985). Wavy edges suggest moonlet in Encke’s Gap, Astrophys. J. 292, 276–290.
+Danby, J. M. A. (1987). The solution of Kepler’s equation, III, Celest. Mech. 40, 303–312.
+Danby, J. M. A. (1988). Fundamentals of Celestial Mechanics, 2nd ed. (Willmann-Bell, Richmond).
+Danby, J. M. A. and Burkardt, T. M. (1983). The solution of Kepler’s equation, I, Celest. Mech. 31, 95–107.
+Darwin, G. H. (1899). The theory of the figure of the Earth carried to the second order in small quantities, Mon. Not. R. Astron. Soc. 60, 82–124.
+Darwin, G. H. (1908). Tidal friction and cosmogony, in Scientific Papers 2 (Cambridge University Press, Cambridge).
+Deprit, A. and Deprit-Bartholomé, A. (1967). Stability of the triangular Lagrangian points, Astron. J. 72, 173–179.
+Deprit, A., Henrard, J., and Rom, A. (1971). Analytical lunar ephemeris: Delaunay’s theory, Astron. J. 76, 269–272.
+Dermott, S. F. (1972). Bode’s law and the preference for near-commensurability among pairs of orbital periods in the Solar System, in The Origin of the Solar System, ed. H. Reeves (CNRS, Paris).
+Dermott, S. F. (1973). Bode’s law and the resonant structure of the Solar System, Nature Physical Science 244, 18–21.
+Dermott, S. F. (1979a). Tidal dissipation in the solid cores of the major planets, Icarus 37, 310–321.
+Dermott, S. F. (1979b). Shapes and gravitational moments of satellites and asteroids, Icarus 37, 576–586.
+Dermott, S. F. (1984). Dynamics of narrow rings, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Dermott, S. F. and Gold, T. (1977). The rings of Uranus: Theory, Nature 267, 590–593.
+Dermott, S. F., Gold, T., and Sinclair, A. T. (1979). The rings of Uranus: Nature and origin, Astron. J. 84, 1225–1234.
+Dermott, S. F., Gomes, R. S., Durda, D. D., Gustafson, B. A. S., Jayaraman, S., Xu, Y. L., and Nicholson, P. D. (1992). Dynamics of the zodiacal cloud, in Chaos, Resonance and Collective Dynamical Phenomena in the Solar System, ed. S. Ferraz-Mello (Kluwer, Dordrecht).
+Dermott, S. F., Jayaraman, S., Xu, Y. L., Gustafson, B. Å. S., and Liou, J. C. (1994). A circumsolar ring of asteroidal dust in resonant lock with the Earth, Nature 369, 719–723.
+Dermott, S. F., Malhotra, R., and Murray, C. D. (1988). Dynamics of the uranian and saturnian satellite systems: A chaotic route to melting Miranda? Icarus 76, 295–334.
+Dermott, S. F. and Murray, C. D. (1980). Origin of the eccentricity gradient and apse alignment of the ε ring of Uranus, Icarus 43, 338–349.
+Dermott, S. F. and Murray, C. D. (1981a). The dynamics of tadpole and horseshoe orbits. I. Theory, Icarus 48, 1–11.
+Dermott, S. F. and Murray, C. D. (1981b). The dynamics of tadpole and horseshoe orbits. II. The coorbital satellites of Saturn, Icarus 48, 12–22.
+Dermott, S. F. and Murray, C. D. (1983). Nature of the Kirkwood gaps in the asteroid belt, Nature 301, 201–205.
+Dermott, S. F., Murray, C. D., and Sinclair, A. T. (1980). The narrow rings of Jupiter, Saturn and Uranus, Nature 284, 309–313.
+Dermott, S. F. and Nicholson, P. D. (1986). Masses of the satellites of Uranus, Nature 319, 115–120.
+Dermott, S. F., Nicholson, P. D., Burns, J. A., and Houck, J. R. (1984). Origin of the Solar System dust bands discovered by IRAS, Nature 312, 505–509.
+Dermott, S. F., Nicholson, P. D., Burns, J. A., and Houck, J. R. (1985). An analysis of IRAS’ Solar System dust bands, in Properties and Interactions of Interplanetary Dust, ed. R. H. Giese and P. Lamy (D. Reidel, Dordrecht).
+Dermott, S. F. and Sagan, C. (1995). Tidal effects of disconnected hydrocarbon seas on Titan, Nature 374, 238–240.
+Dermott, S. F. and Thomas, P. C. (1988). The shape and internal structure of Mimas, Icarus 73, 25–65.
+Domingo, V., Fleck, B., and Poland, A. I. (1995). The SOHO mission – An overview, Solar Physics 162, 1–37.
+Duncan, M., Quinn, T., and Tremaine, S. (1987). The origin of short-period comets, Astrophys. J. 328, L69–73.
+Duncan, M., Quinn, T., and Tremaine, S. (1989). The long-term evolution of orbits in the solar system: A mapping approach, Icarus 82, 402–418.
+Duriez, L. (1979). Approche d’une théorie générale planétaire en variables elliptiques héliocentriques, University of Lille PhD thesis.
+Duxbury, T. C. and Callahan, J. (1982). Phobos and Deimos cartography, Lunar Planet. Sci. XIII, 190.
+Edgeworth, K. E. (1943). The evolution of our planetary system, J. Brit. Astron. Assoc. 53, 181–188.
+Elliot, J. L., Dunham, E. W., and Mink, D. J. (1977). The rings of Uranus, Nature 267, 328–330.
+Elliot, J. L. and Nicholson, P. D. (1984). The rings of Uranus, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Ellis, K. M. and Murray, C. D. (1999). The disturbing function in solar system dynamics, Icarus (submitted for publication).
+Fernandez, J. A. (1997). The formation of the Oort cloud and the primitive galactic environment, Icarus 129, 106–119.
+Feynman, R. P., Leighton, R. B., and Sands, M. (1963). The Feynman Lectures on Physics, Vol. 1 (Addison-Wesley, Reading, MA).
+Field, J. V. (1988). Kepler’s Geometric Cosmology (Athlone Press, London).
+French, R. G., Elliot, J. L., French, L. M., Kangas, J. A., Meech, K. J., Ressler, M. E., Buie, M. W., Frogel, J. A., Holberg, J. B., Fuensalida, J. J., and Joy, M. (1988). Uranian ring orbits from Earth-based and Voyager occultation experiments, Icarus 73, 349–378.
+French, R. G., Nicholson, P. D., Porco, C. C., and Marouf, E. A. (1991). Dynamics and structure of the uranian rings, in Uranus, ed. J. Bergstrahl et al. (University of Arizona Press, Tucson).
+Froeschlé, C., Hahn, G., Gonczi, R., Morbidelli, A., and Farinella, P. (1995). Secular resonances and the dynamics of Mars-crossing and near-Earth asteroids, Icarus 117, 45–61.
+Froeschlé, Ch. and Morbidelli, A. (1994). The secular resonances in the solar system, in Asteroids, Comets, Meteors 1993, ed. A. Milani, M. di Martino, and A. Cellino (Kluwer, Dordrecht).
+Gehrels, T. et al. (1980). Imaging photopolarimeter on Pioneer Saturn, Science 207, 434–439.
+Giuliatti Winter, S. M. (1994). The dynamics of Saturn’s F ring, University of London PhD thesis.
+Gladman, B. J., Migliorini, F., Morbidelli, A., Zappala, V., Michel, P., Cellino, A., Froeschlé, C., Levison, H. F., Bailey, M., and Duncan, M. (1997). Dynamical lifetimes of objects injected into asteroid belt resonances, Science 277, 197–201.
+Goldreich, P. (1965). An explanation of the frequent occurrence of commensurable mean motions in the solar system, Mon. Not. R. Astron. Soc. 130, 159–181.
+Goldreich, P. (1966). Final spin states of planets and satellites, Astron. J. 71, 1–7.
+Goldreich, P. and Nicholson, P. D. (1977a). Turbulent viscosity and Jupiter’s tidal Q, Icarus 30, 301–304.
+Goldreich, P. and Nicholson, P. D. (1977b). The revenge of tiny Miranda, Nature 269, 783–785.
+Goldreich, P. and Peale, S. J. (1966). Spin-orbit coupling in the solar system, Astron. J. 71, 425–438.
+Goldreich, P. and Peale, S. J. (1968). Dynamics of planetary rotations, Annu. Rev. Astron. Astrophys. 6, 287–320.
+Goldreich, P. and Soter, S. (1966). Q in the solar system, Icarus 5, 375–389.
+Goldreich, P. and Tremaine, S. (1978a). The velocity dispersion in Saturn’s rings, Icarus 34, 227–239.
+Goldreich, P. and Tremaine, S. (1978b). The formation of the Cassini Division in Saturn’s rings, Icarus 34, 240–253.
+Goldreich, P. and Tremaine, S. (1979a). Towards a theory for the uranian rings, Nature 277, 97–99.
+Goldreich, P. and Tremaine, S. (1979b). Precession of the ε ring of Uranus, Astron. J. 84, 1638–1641.
+Goldreich, P. and Tremaine, S. (1980). Disk–satellite interactions, Astrophys. J. 241, 425–441.
+Goldreich, P. and Tremaine, S. (1981). The origin of the eccentricities of the rings of Uranus, Astrophys. J. 243, 1062–1075.
+Goldreich, P. and Tremaine, S. (1982). The dynamics of planetary rings, Annu. Rev. Astron. Astrophys. 20, 249–283.
+Goldreich, P., Tremaine, S., and Borderies, N. (1986). Towards a theory for Neptune’s arc rings, Astron. J. 92, 490–494.
+Greenberg, R. (1973). The inclination-type resonance of Mimas and Tethys, Mon. Not. R. Astron. Soc. 165, 305–311.
+Greenberg, R. (1975). On the Laplace relation among the satellites of Uranus, Mon. Not. R. Astron. Soc. 173, 121–129.
+Greenberg, R. (1976). The Laplace relation and the masses of Uranus’ satellites, Icarus 29, 427–433.
+Greenberg, R. (1977). Orbit–orbit resonances among natural satellites, in Planetary Satellites, ed. J. A. Burns (University of Arizona Press, Tucson).
+Greenberg, R. (1981). Apsidal precession of orbits about an oblate planet, Astron. J. 86, 912–914.
+Greenberg, R. and Brahic, A. (1984). Planetary Rings (University of Arizona Press, Tucson).
+Greenberg, R. and Scholl, H. (1979). Resonances in the asteroid belt, in Asteroids, ed. T. Gehrels (University of Arizona Press, Tucson).
+Grosser, M. (1979). The Discovery of Neptune (Dover, New York).
+Grün, E., Morfill, G. E., and Mendis, D. A. (1984). Dust–magnetosphere interactions, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Guckenheimer, J. and Holmes, P. (1983). Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields (Springer-Verlag, New York).
+Hagihara, Y. (1970). Celestial Mechanics I. Dynamical Principles and Transformation Theory (MIT Press, Cambridge).
+Hagihara, Y. (1972a). Celestial Mechanics II, i. Perturbation Theory (MIT Press, Cambridge).
+Hagihara, Y. (1972b). Celestial Mechanics II, ii. Perturbation Theory (MIT Press, Cambridge).
+Hagihara, Y. (1974a). Celestial Mechanics III, i. Differential Equations in Celestial Mechanics (Japan Society for the Promotion of Science, Tokyo).
+Hagihara, Y. (1974b). Celestial Mechanics III, ii. Differential Equations in Celestial Mechanics (Japan Society for the Promotion of Science, Tokyo).
+Hagihara, Y. (1975a). Celestial Mechanics IV, i. Periodic and Quasi-Periodic Solutions (Japan Society for the Promotion of Science, Tokyo).
+Hagihara, Y. (1975b). Celestial Mechanics IV, ii. Periodic and Quasi-Periodic Solutions (Japan Society for the Promotion of Science, Tokyo).
+Hagihara, Y. (1976a). Celestial Mechanics V, i. Topology of the Three-Body Problem (Japan Society for the Promotion of Science, Tokyo).
+Hagihara, Y. (1976b). Celestial Mechanics V, ii. Topology of the Three-Body Problem (Japan Society for the Promotion of Science, Tokyo).
+Hamilton, D. P. (1994). A comparison of Lorentz, planetary gravitational, and satellite gravitational resonances, Icarus 109, 221–240.
+Hamilton, D. P. and Burns, J. A. (1994). Origin of Saturn’s E ring: Self-sustained, naturally, Science 264, 550–553.
+Hanel, R. et al. (1981). Infrared observations of the saturnian system from Voyager 1, Science 212, 192–200.
+Harper, D. and Taylor, D. B. (1993). The orbits of the major satellites of Saturn, Astron. Astrophys. 268, 326–349.
+Haughton, S. (1855). On the rotation of a solid body round a fixed point; being an account of the late Professor MacCullagh’s lectures on that subject, Trans. Royal Irish Academy 22, 139–154.
+Hénon, M. (1969). Numerical exploration of the restricted problem. V. Hill’s case: Periodic orbits and their stability, Astron. Astrophys. 1, 223–238.
+Hénon, M. and Petit, J.-M. (1986). Series expansions for encounter-type solutions of Hill’s problem, Celest. Mech. 38, 67–100.
+Henrard, J. (1982). Capture into resonance: An extension of the use of adiabatic invariants, Celest. Mech. 27, 3–22.
+Henrard, J. and Lemaı̂tre, A. (1983). A second fundamental model of resonance, Celest. Mech. 30, 197–218.
+Her Majesty’s Stationery Office (1994). Astronomical Almanac for the Year 1995 (HMSO, London).
+Hill, G. W. (1878). Researches in the lunar theory, Am. J. Math. 1, 5–26, 129–147, 245–261.
+Hill, G. W. (1897). On the values of the eccentricities and longitudes of the perihelia of Jupiter and Saturn for distant epochs, Astron. J. 17, 81–87.
+Hirayama, K. (1918). Groups of asteroid probably of common origin, Astron. J. 31, 185–188.
+Holberg, J. B., Forrester, W. T., and Lissauer, J. J. (1982). Identification of resonance features within the rings of Saturn, Nature 297, 115–120.
+Holman, M. J. and Murray, N. W. (1996). Chaos in high-order mean motion resonances in the outer asteroid belt, Astron. J. 112, 1278–1293.
+Holman, M. J., Touma, J., and Tremaine, S. (1997). Chaotic variations in the eccentricity of the planet orbiting 16 Cygni B, Nature 386, 254–256.
+Horanyi, M. and Porco, C. C. (1993). Where exactly are the arcs of Neptune? Icarus 106, 525–535.
+Hoyle, F. (1974). The work of Nicolaus Copernicus, Proc. R. Soc. London. A 336, 105–114.
+Hubbard, W. B., Brahic, A., Sicardy, B., Elicer, L.-R., Roques, F., and Vilas, F. (1986). Occultation detection of a neptunian ring-like arc, Nature 319, 636–640.
+Hughes, S. (1981). The computation of tables of Hansen coefficients, Celest. Mech. 25, 101–107.
+Huygens, C. (1659). Systema Saturnium (The Hague).
+Jefferys, W. H. (1971). An Atlas of Surfaces of Section for the Restricted Problem of Three Bodies (University of Texas, Austin).
+Jeffreys, H. (1929). The Earth, 2nd ed. (Cambridge University Press, Cambridge).
+Jeffreys, H. (1961). The effect of tidal friction on eccentricity and inclination, Mon. Not. R. Astron. Soc. 122, 339–343.
+Jeffreys, H. (1970). The Earth, 5th ed. (Cambridge University Press, Cambridge).
+Jewitt, D. and Luu, J. (1996). The Plutinos, in Completing the Inventory of the Solar System, ASP Conference Series, Vol. 107, ed. T. W. Rettig and J. M. Hahn (Astronomical Society of the Pacific, San Francisco).
+Julian, W. H. and Toomre, A. (1966). Non-axisymmetric responses of differentially rotating disks of stars, Astrophys. J. 146, 810–830.
+Kaula, W. M. (1961). Analysis of gravitational and geometric aspects of geodetic utilization of satellites, Geophys. J. 5, 104–133.
+Kaula, W. M. (1962). Development of the lunar and solar disturbing functions for a close satellite, Astron. J. 67, 300–303.
+Kaula, W. M. (1966). Theory of Satellite Geodesy (Blaisdell, Waltham, MA.).
+Kepler, J. (1596). Mysterium Cosmographicum, 1st ed. (Tübingen).
+Kepler, J. (1609). Astronomia Nova (Heidelberg).
+Kepler, J. (1610). Dissertatio cum Nuncio Sidereo (Prague).
+Kepler, J. (1619). Harmonices Mundi Libri V (Linz).
+Kepler, J. (1621). Mysterium Cosmographicum, 2nd ed. (Frankfurt).
+Kinoshita, H. and Nakai, H. (1984). The motions of the perihelions of Neptune and Pluto, Celest. Mech. 34, 203–217.
+Kinoshita, H. and Nakai, H. (1996). Long-term behaviour of the motion of Pluto over 5.5 billion years, Earth, Moon, and Planets 72, 165–173.
+Kinoshita, H., Yoshida, H., and Nakai, H. (1991). Symplectic integrators and their application to dynamical astronomy, Celest. Mech. Dyn. Astron. 50, 59–71.
+Kirkwood, D. (1867). Meteoric Astronomy (Lippincott, Philadelphia).
+Klavetter, J. J. (1989). Rotation of Hyperion. I. Observations, Astron. J. 97, 570–579.
+Knežević, Z. and Milani, A. (1994). Asteroid proper elements: The big picture, in Asteroids, Comets, Meteors 1993, ed. A. Milani, M. di Martino, and A. Cellino (Kluwer, Dordrecht).
+Kolvoord, R. A., Burns, J. A., and Showalter, M. R. (1990). Periodic features in Saturn’s F ring, Nature 345, 695–697.
+Kopal, Z. (1972). The Solar System (Oxford University Press, London).
+Kozai, Y. (1957). On the astronomical constants of saturnian satellite system, Ann. Tokyo Astron. Obs. 2nd Ser. 5, 73–106.
+Kozai, Y. (1962). Secular perturbations of asteroids with high inclinations and eccentricities, Astron. J. 67, 591–598.
+Kuiper, G. (1944). Titan: A satellite with an atmosphere, Astrophys. J. 100, 378–383.
+Kuiper, G. (1951). The origin of the solar system, in Astrophysics: A Topical Symposium, ed. J. A. Hyner (McGraw-Hill, New York), pp. 357–406.
+Lane, A. L., Hord, C. W., West, R. A., Esposito, L. W., Coffeen, D. L., Sato, M., Simmons, K. E., Pomphrey, R. B., and Morris, R. B. (1982). Photopolarimetry from Voyager 2: Preliminary results on Saturn, Titan, and the rings, Science 215, 537–543.
+Laskar, J. (1985). Accurate methods in general planetary theory, Astron. Astrophys. 144, 133–146.
+Laskar, J. (1986a). Secular terms of classical planetary theories using the results of general theory, Astron. Astrophys. 157, 59–70.
+Laskar, J. (1986b). A general theory for the uranian satellites, Astron. Astrophys. 166, 349–358.
+Laskar, J. (1988). Secular evolution of the Solar System over 10 million years, Astron. Astrophys. 198, 341–362.
+Laskar, J. (1989). A numerical experiment on the chaotic behaviour of the solar system, Nature 338, 237–238.
+Laskar, J. (1994). Large scale chaos in the solar system, Astron. Astrophys. 287, L9–12.
+Laskar, J., Quinn, T., and Tremaine, S. (1992). Confirmation of resonant structure in the solar system, Icarus 95, 148–152.
+Lemaı̂tre, A. and Morbidelli, A. (1994). Proper elements for highly inclined asteroidal orbits, Celest. Mech. Dyn. Astron. 60, 29–56.
+Le Verrier, U. J.-J. (1847). Sur la planète qui produit les anomalies observées dans le mouvement d’Uranus. Détermination de sa masse, de son orbite et de sa position actuelle, Comptes Rendus 23, 428–438, 657–659.
+Le Verrier, U. J.-J. (1855). Développement de la fonction qui sert de base au calcul des perturbations des mouvements des planètes, Ann. Obs. Paris, Mém. 1, 258–331.
+Levison, H. F. and Duncan, M. J. (1994). The long-term dynamical behavior of short-period comets, Icarus 108, 18–36.
+Lichtenberg, A. J. and Lieberman, M. A. (1983). Regular and Stochastic Motion (Springer-Verlag, New York).
+Lieske, J. H. (1998). Galilean satellite ephemerides E5, Astron. Astrophys. Suppl. 129, 205–217.
+Lin, D. N. C. and Papaloizou, J. (1979). Tidal torques on accretion discs in binary systems with extreme mass ratios, Mon. Not. R. Astron. Soc. 186, 799–812.
+Lissauer, J. J. (1985). Shepherding model for Neptune’s arc ring, Nature 318, 544–545.
+Lissauer, J. J., Goldreich, P., and Tremaine, S. (1985). Evolution of the Janus–Epimetheus coorbital resonance due to torques from Saturn’s rings, Icarus 64, 425–434.
+Longuet-Higgins, M. S. (1950). A theory of the origin of microseisms, Phil. Trans. R. Soc. London A 243, 1–35.
+Love, A. E. H. (1911). Some Problems of Geodynamics (Cambridge University Press, Cambridge).
+Love, A. E. H. (1944). A Treatise on the Mathematical Theory of Elasticity, 4th ed. (Dover, New York).
+Low, F. J. et al. (1984). Infrared cirrus: New components of the extended infrared emission, Astrophys. J. 278, L19–22.
+Lunine, J. I. (1993). Does Titan have an ocean? A review of current understanding of Titan’s surface, Rev. Geophys. 31, 133–149.
+Luu, J. (1994). The Kuiper belt, in Asteroids, Comets, Meteors 1993, ed. A. Milani, M. Di Martino, and M. Cellino (Kluwer, Dordrecht).
+Luu, J., and Jewitt, D. (1996). Enlarging the solar system: The Kuiper belt, in Completing the Inventory of the Solar System, ASP Conference Series, Vol. 107, ed. T. W. Rettig and J. M. Hahn (Astronomical Society of the Pacific, San Francisco).
+Lynden-Bell, D. and Pringle, J. E. (1974). The evolution of viscous discs and the origin of the nebular variables, Mon. Not. R. Astron. Soc. 168, 603–637.
+MacCullagh, J. (1844a). Proc. Royal Irish Academy 2, 520–526.
+MacCullagh, J. (1844b). Proc. Royal Irish Academy 2, 542–545.
+MacDonald, G. J. F. (1964). Tidal friction, Rev. Geophys. 2, 467–541.
+MacMillan, W. D. (1936). Dynamics of Rigid Bodies (McGraw-Hill, New York).
+MacRobert, T. M. (1967). Spherical Harmonics (Pergamon Press, Oxford).
+Malhotra, R. (1988). Some aspects of the dynamics of orbit–orbit resonances in the uranian satellite system, Cornell University PhD thesis.
+Malhotra, R. (1993). The origin of Pluto’s peculiar orbit, Nature 365, 819–820.
+Malhotra, R. (1994). A mapping method for the gravitational few-body problem with dissipation, Celest. Mech. Dyn. Astron. 60, 373–385.
+Malhotra, R. (1995). The origin of Pluto’s orbit – Implications for the solar system beyond Neptune, Astron. J. 110, 420–429.
+Malhotra, R., Black, D., Eck, A., and Jackson, A. (1992). Resonant orbital evolution in the putative planetary system of PSR1257+12, Nature 356, 583–585.
+Malhotra, R., Fox, K., Murray, C. D., and Nicholson, P. D. (1989). Secular perturbations of the uranian satellites: Theory and practice, Astron. Astrophys. 221, 348–358.
+Marchal, C. (1990). The Three-Body Problem (Elsevier, Amsterdam).
+Marley, M. S. (1990). Nonradial oscillations of Saturn: Implications for ring system structure, University of Arizona PhD thesis.
+Marley, M. S. and Porco, C. C. (1993). Planetary acoustic mode seismology: Saturn’s rings, Icarus 106, 508–524.
+Marsden, B. G. and Williams, G. V. (1997). IAU Circular 6780.
+Maxwell, J. C. (1859). On the Stability of the Motions of Saturn’s Rings (MacMillan, London).
+Meech, K. and Belton, M. (1989), IAU Circular 4770.
+Melnikov, V. K. (1963). On the stability of the center for time periodic perturbations, Trans. Moscow Math. Soc. 12, 1–57.
+Message, P. J. (1966). On nearly-commensurable periods in the restricted problem of three bodies, with calculations of the long-period variations of the interior 2:1 case, in The Theory of Orbits in the Solar System and in Stellar Systems, IAU Symposium No. 25, ed. G. Contopoulos (Academic Press, London).
+Message, P. J. (1989). The use of computer algorithms in the construction of a theory of the long-period perturbations of Saturn’s satellite Hyperion, Celest. Mech. 45, 45–53.
+Message, P. J. (1993). On the second order long-period motion of Hyperion, Celest. Mech. Dyn. Astron. 56, 277–284.
+Michel, P. and Thomas, F. (1995). The Kozai resonance for near-Earth asteroids with semimajor axes smaller than 2 AU, Astron. Astrophys. 307, 310–318.
+Mikkola, S., Innanen, K. A., Muinonen, K., and Bowell, E. (1994). A preliminary analysis of the orbit of the Mars trojan asteroid (5261) Eureka, Celest. Mech. Dyn. Astron. 58, 53–64.
+Milani, A. (1993). The Trojan asteroid belt: Proper elements, stability, chaos and families, Celest. Mech. 57, 59–94.
+Milani, A., Carpino, M., Hahn, G., and Nobili, A. M. (1989). Dynamics of planet-crossing asteroids: Classes of orbital behaviour, Icarus 78, 212–269.
+Milani, A. and Knežević, Z. (1990). Secular perturbation theory and computation of asteroid proper elements, Celest. Mech. 49, 347–411.
+Milani, A. and Nobili, A. M. (1992). An example of stable chaos in the solar system, Nature 357, 569–571.
+Molnar, L. A. and Dunn, D. E. (1995). The Mimas 2:1 eccentric corotational resonance in Saturn’s outer B ring, Icarus 116, 397–408.
+Montenbruck, O. (1989). Practical Ephemeris Calculations (Springer-Verlag, Heidelberg).
+Moons, M. and Morbidelli, A. (1995). Secular resonances in mean motion commensurabilities – the 4/1, 3/1, 5/2, and 7/3 cases, Icarus 114, 33–50.
+Morabito, L., Synnott, S. P., Kupferman, P. N., and Collins, S. A. (1979). Discovery of current active extraterrestrial volcanism, Science 204, 972.
+Murray, C. D. (1985). A note on Le Verrier’s expansion of the disturbing function, Celest. Mech. 36, 163–164.
+Murray, C. D. (1986). The structure of the 2:1 and 3:2 jovian resonances, Icarus 65, 70–82.
+Murray, C. D. (1994a). Planetary ring dynamics, Phil. Trans. R. Soc. London A 349, 335–344.
+Murray, C. D. (1994b). The dynamical effects of drag in the circular restricted three-body problem: I. The location and stability of the Lagrangian equilibrium points, Icarus 112, 465–484.
+Murray, C. D. (1996). Real and imaginary Kirkwood gaps, Mon. Not. R. Astron. Soc. 279, 978–986.
+Murray, C. D. (1998). Chaotic motion in the solar system, in Encyclopedia of the Solar System, ed. T. Johnson, P. Weissman, and L. McFadden (Academic Press, Orlando).
+Murray, C. D. (1999). The dynamics of planetary rings and small satellites, in Dynamics of Small Bodies in the Solar System: A Major Key to Solar System Studies, ed. B. Steves and A. E. Roy (Kluwer, Dordrecht).
+Murray, C. D. and Fox, K. (1984). Structure of the 3:1 jovian resonance: A comparison of numerical methods, Icarus 59, 221–233.
+Murray, C. D. and Giuliatti Winter, S. M. (1996). Periodic collisions between the moon Prometheus and Saturn’s F ring, Nature 380, 139–141.
+Murray, C. D., Gordon, M. K., and Giuliatti Winter, S. M. (1997). Unraveling the strands of Saturn’s F ring, Icarus 129, 304–316.
+Murray, C. D. and Thompson, R. P. (1990). Orbits of shepherd satellites deduced from structure of the rings of Uranus, Nature 348, 499–502.
+Murray, N. and Holman, M. (1997). Diffusive chaos in the outer asteroid belt, Astron. J. 114, 1246–1259.
+Nakamura, Y., Latham, G. V., and Dorman, H. J. (1976). Seismic structure of the Moon, Proc. Lunar Sci. Conf. 7, 602–603.
+Namouni, F. (1999). Secular interactions of coorbiting objects, Icarus 137, 293–314.
+Namouni, F., Christou, A. A., and Murray, C. D. (1999). New coorbital dynamics in the solar system, Astro-ph/9904016.
+Namouni, F., Luciani, J. F., Tabachnik, S., and Pellat, R. (1996). A mapping approach to Hill’s distant encounters, Astron. Astrophys. 313, 979–992.
+Neugebauer, G., Beichmann, C. A., Soifer, B. T., Aumann, H. H., Chester, T. J., Gautier, T. N., Gillet, F. C., Hauser, M. G., Houck, J. R., Lonsdale, C. J., Low, F. J., and Young, E. (1984). Early results from the Infrared Astronomical Satellite, Science 224, 14–21.
+Newcomb, S. (1895). A development of the perturbative function in cosines of multiples of the mean anomalies and of angles between the perihelia and common node and in powers of the eccentricities and mutual inclination, Astron. Papers Am. Ephem. 5, 5–48.
+Newton, I. (1687). Philosophiae Naturalis Principia Mathematica (Royal Society, London).
+Nicholson, P. D. and Dones, L. (1991). Planetary rings, Rev. Geophys., Suppl. 29, 313–327.
+Nicholson, P. D., Hamilton, D. P., Matthews, K., and Yoder, C. F. (1992). New observations of Saturn’s coorbital satellites, Icarus 100, 464–484.
+Nicholson, P. D. and Matthews, K. (1991). Near-infrared observations of the jovian ring and small satellites, Icarus 93, 331–346.
+Nicholson, P. D. and Porco, C. C. (1988). A new constraint on Saturn’s zonal gravity harmonics supplied by Voyager observations of an eccentric ringlet, J. Geophys. Res. 93, 10209–10224.
+Nicholson, P. D., Showalter, M. R., Dones, L., French, R. G., Larson, S. M., Lissauer, J. J., McGhee, C. A., Seitzer, P., Sicardy, B., and Danielson, G. E. (1996). Observations of Saturn’s ring-plane crossings in August and November 1995, Science 272, 509–515.
+Nieto, M. M. (1972). The Titius–Bode Law of Planetary Distances: Its History and Theory (Pergamon Press, Oxford).
+Null, G. W., Owen, W. M., and Synnott, S. P. (1993). Masses and densities of Pluto and Charon, Astron. J. 105, 2319–2335.
+Ockert-Bell, M. E., Burns, J. A., Daubar, I. J., Thomas, P. C., Veverka, J., Belton, M. J. S., and Klaasen, K. P. (1999). The structure of Jupiter’s ring system as revealed by the Galileo imaging experiment, Icarus 138, 188-213.
+Oikawa, S. and Everhart, E. (1979). Past and future orbit of 1977UB, Object Chiron, Astron. J. 84, 134–139.
+Owen, W. M. and Synnott, S. P. (1987). Orbits of the ten small satellites of Uranus, Astron. J. 93, 1268–1271.
+Owen, W. M., Vaughan, R. M., and Synnott, S. P. (1991). Orbits of the six new satellites of Neptune, Astron. J. 101, 1511–1515.
+Peale, S. J. (1976). Orbital resonances in the solar system, Annu. Rev. Astron. Astrophys. 14, 215–245.
+Peale, S. J. (1986). Orbital resonances, unusual configurations and exotic rotation states among planetary satellites, in Satellites, ed. J. A. Burns and M. S. Matthews (University of Arizona Press, Tucson).
+Peale, S. J. (1988). Speculative histories of the uranian satellite system, Icarus 74, 153–171.
+Peale, S. J. (1993a). On the verification of the planetary system around PSR1257+12, Astron. J. 105, 1562–1570.
+Peale, S. J. (1993b). The effect of the nebula on the Trojan precursors, Icarus 106, 308–322.
+Peale, S. J., Cassen, P. and Reynolds, R. T. (1979). Melting of Io by tidal dissipation, Science 203, 892–894.
+Peirce, B. (1849). Development of the perturbative function of planetary motion, Astron. J. 1, 1–8, 31–36.
+Pettengill, G. H. and Dyce, R. B. (1965). A radar determination of the rotation of the planet Mercury, Nature 206, 1240.
+Plummer, H. C. (1918). An Introductory Treatise on Dynamical Astronomy (Cambridge University Press, Cambridge).
+Poincaré, H. (1892). Les Méthodes Nouvelles de la Mécanique Céleste I (Gauthier-Villars, Paris).
+Poincaré, H. (1893). Les Méthodes Nouvelles de la Mécanique Céleste II (Gauthier-Villars, Paris).
+Poincaré, H. (1899). Les Méthodes Nouvelles de la Mécanique Céleste III (Gauthier-Villars, Paris).
+Poincaré, H. (1902). Sur les planètes du type d’Hécube, Bulletin Astronomique 19, 289–312.
+Poincaré, H. (1905). Leçons de Mécanique Céleste I (Gauthier-Villars, Paris).
+Porco, C. C. (1983). Voyager observations of Saturn’s rings, California Institute of Technology PhD thesis.
+Porco, C. C. (1990). Narrow rings: Observation and theory, Adv. Space Res. 10, 221–229.
+Porco, C. C. (1991). An explanation for Neptune’s ring arcs, Science 253, 995–1001.
+Porco, C. C., Danielson, G. E., Goldreich, P., Holberg, J. B., and Lane, A. L. (1984a). Saturn’s non-axisymmetric ring edges at 1.95RS and 2.27RS , Icarus 60, 17–28.
+Porco, C. C. and Goldreich, P. (1987). Shepherding of the uranian rings. I. Kinematics, Astron. J. 93, 724–729.
+Porco, C. C. and Nicholson, P. D. (1987). Eccentric features in Saturn’s outer C ring, Icarus 72, 437–467.
+Porco, C. C., Nicholson, P. D., Borderies, N., Danielson, G. E., Goldreich, P., Holberg, J. B., and Lane, A. L. (1984b). The eccentric saturnian ringlets at 1.29RS and 1.45RS, Icarus 60, 1–16.
+Porco, C. C., Nicholson, P. D., Cuzzi, J. N., Lissauer, J. J., and Esposito, L. W. (1995). Neptune’s ring system, in Neptune and Triton, ed. D. P. Cruikshank (University of Arizona Press, Tucson).
+Proudman, J. (1953). Dynamical Oceanography (Methuen, London).
+Quinn, T. R., Tremaine, S., and Duncan, M. (1991). A three million year integration of the Earth’s orbit, Astron. J. 101, 2287–2305.
+Radau, R. (1885). Sur la loi des densités à l’intérieur de la Terre, C.R. Acad. Sci. Paris 100, 972–974.
+Ramsey, A. S. (1937). Dynamics. Part 2 (Cambridge University Press, Cambridge).
+Ramsey, A. S. (1940). An Introduction to the Theory of Newtonian Attraction (Cambridge University Press, Cambridge).
+Rappaport, N., Bertotti, B., Giampieri, G., and Anderson, J. D. (1997). Doppler measurements of the quadrupole moments of Titan, Icarus 126, 313–323.
+Rasio, F. A., Nicholson, P.D., Shapiro, S.L., and Teukolsky, S.A. (1992). An observational test for the existence of a planetary system orbiting PSR1257+12, Nature 355, 325–326.
+Reach, W. T., Franz, B. A., Weiland, J. L., Hauser, M. G., Kelsall, T. N., Wright, E. L., Rawley, G., Stemwedel, S. W., and Spiesman, W. J. (1995). Observational confirmation of a circumsolar dust ring by the COBE satellite, Nature 374, 521–523.
+Reid, M. (1973). The tidal loss of satellite-orbiting objects and its implication for the lunar surface, Icarus 20, 240–248.
+Rosen, P. A. (1989). Waves in Saturn’s rings probed by radio occultation, Stanford University PhD thesis.
+Roseveare, N. T. (1982). Mercury’s Perihelion from Le Verrier to Einstein (Clarendon Press, Oxford).
+Roy, A. E. (1988). Orbital Motion (Adam Hilger, Bristol).
+Roy, A. E. and Ovenden, M. W. (1954). On the occurrence of commensurable mean motions in the solar system, Mon. Not. R. Astron. Soc. 114, 232–241.
+Roy, A. E., Walker, I. W., Macdonald, A. J., Williams, I. P., Fox, K., Murray, C. D., Milani, A., Nobili, A. M., Message, P. J., Sinclair, A. T., and Carpino, M. (1988). Project LONGSTOP, Vistas in Astronomy 32, 95–116.
+Safronov, V. S. (1972). Evolution of the Protoplanetary Cloud and Formation of the Earth and Planets (Israel Program for Scientific Translation, Jerusalem).
+Sagan, C. (1994). Pale Blue Dot (Random House, New York).
+Sagan, C. and Dermott, S. F. (1982). The tide in the seas of Titan, Nature 300, 731–733.
+Saha, P. and Tremaine, S. (1992). Symplectic integrators for solar system dynamics, Astron. J. 104, 1633–1640.
+Saha, P. and Tremaine, S. (1994). Long-term planetary integration with individual time steps, Astron. J. 108, 1962–1969.
+Schaffer, L. E. and Burns, J. A. (1987). The dynamics of weakly charged dust: Motion through Jupiter’s gravitational and magnetic fields, J. Geophys. Res. 92, 2264–2280.
+Schuerman, D. (1980). The restricted three-body problem including radiation pressure, Astrophys. J. 238, 337–342.
+Sears, W. D. (1995). Tidal dissipation in oceans on Titan, Icarus 113, 39–56.
+Seidelmann, P. K. (1992) (ed.) Explanatory Supplement to the Astronomical Almanac (University Science Books, Mill Valley, CA).
+Shoemaker, E. M., Shoemaker, E. S., and Wolfe, R. F. (1989). Trojan asteroids: Populations, dynamical structure and origin of the L 4 and L 5 swarms, in Asteroids II, ed. R. P. Binzel, T. Gehrels, and M. S. Matthews (University of Arizona Press, Tucson).
+Showalter, M. R. (1985). Jupiter’s ring system resolved: Physical properties inferred from the Voyager images, Cornell University PhD thesis.
+Showalter, M. R. (1991). Visual detection of 1981S13, Saturn’s eighteenth satellite, and its role in the Encke gap, Nature 351, 709–713.
+Showalter, M. R., Burns, J. A., Cuzzi, J. N., and Pollack, J. B. (1987). Jupiter’s ring system: New results on structure and particle properties, Icarus 69, 458–498.
+Showalter, M. R. and Cuzzi, J. N. (1992). Physical properties of Neptune’s ring system, Bull. Am. Astron. Soc. 24, 1029.
+Showalter, M. R., Cuzzi, J. N., Marouf, E. A., and Esposito, L. W. (1986). Satellite wakes and the orbit of the Encke gap moonlet, Icarus 66, 297–323.
+Shu, F. (1984). Waves in planetary rings, in Planetary Rings, ed. R. Greenberg and A. Brahic (University of Arizona Press, Tucson).
+Shu, F., Cuzzi, J. N., and Lissauer, J. J. (1983). Bending waves in Saturn’s rings, Icarus 53, 185–206.
+Šidlichovsky, M. and Melendo, B. (1986). Mapping for the 5/2 asteroidal commensurability, Bull. Astron. Inst. Czech. 37, 65–80.
+Simmons, J. F. L., McDonald, A. J. C., and Brown, J. C. (1985). The restricted 3-body problem with radiation pressure, Celest. Mech. 35, 145–187.
+Sinclair, A. T. (1972). On the origin of the commensurabilities amongst the satellites of Saturn, Mon. Not. R. Astron. Soc. 160, 169–187.
+Smith, B. A., et al. (1979a). The Jupiter system seen through the eyes of Voyager 1, Science 204, 951–972.
+Smith, B. A., et al. (1979b). The Galilean satellites and Jupiter: Voyager 2 imaging science results, Science 206, 927–950.
+Smith, B. A., et al. (1981). Encounter with Saturn: Voyager 1 imaging science results, Science 212, 163–191.
+Smith, B. A., et al. (1982). A new look at the Saturn system: The Voyager 2 images, Science 215, 504–537.
+Smith, B. A., et al. (1989). Voyager 2 at Neptune: Imaging science results, Science 246, 1422–1449.
+Spohn, T. (1997). Tides of Io, in Tidal Phenomena, ed. H. Wilhelm, W. Zurn, and H.-G. Wenzel (Springer, Berlin).
+Standish, E. M. and Hellings, R. W. (1989). A determination of the masses of Ceres, Pallas, and Vesta from their perturbations upon the orbit of Mars, Icarus 80, 326–333.
+Standish, E. M., Newhall, X. X., Williams, J. G., and Yeomans, D. K. (1992). Orbital ephemerides of the Sun, Moon, and planets, in Explanatory Supplement to the Astronomical Almanac, ed. P. K. Seidelmann (University Science Books, Mill Valley, CA).
+Stevenson, D. J. (1983). Anomalous bulk viscosity of two-phase fluids and implications for planetary interiors, J. Geophys. Res. 88, 2445–2455.
+Street, R. O. (1925). Oceanic tides as modified by a yielding Earth, Mon. Not. R. Astron. Soc. Geophys. Suppl. 1, 292–306.
+Sussman, G. J. and Wisdom, J. (1988). Numerical evidence that Pluto is chaotic, Science 241, 433–437.
+Synnott, S. P., Terrile, R. J., Jacobson, R. A., and Smith, B. A. (1983). Orbits of Saturn’s F-ring and its shepherding satellites, Icarus 53, 156–158.
+Szebehely, V. (1967). The Theory of Orbits (Academic Press, New York).
+Taylor, D. B. (1981). Horseshoe periodic orbits in the restricted problem of three bodies for a Sun–Jupiter mass ratio, Astron. Astrophys. 103, 288–294.
+Tholen, D. J. and Buie, M. W. (1997). The orbit of Charon. 1. New Hubble Space Telescope observations, Icarus 125, 245–260.
+Tholen, D. J., Hartmann, W. K., and Cruikshank, D. P. (1988). IAU Circular 4554.
+Thomas, F. and Morbidelli, A. (1996). The Kozai resonance in the outer solar system and the dynamics of long-period comets, Celest. Mech. Dyn. Astron. 64, 209–229.
+Thomas, P., Veverka, J., and Dermott, S. F. (1986). Small satellites, in Satellites, ed. J. A. Burns and M. S. Matthews (University of Arizona Press, Tucson).
+Thomas, P., Veverka, J., Wenkert, D., Danielson, G. E., and Davies, M. (1984). Hyperion: 13-day rotation from Voyager data, Nature 307, 716–717.
+Thomson, W. (Lord Kelvin) (1863). Dynamical problems regarding elastic spheroidal shells; and On the rigidity of the Earth, Phil. Trans. R. Soc. London 153, 573–616.
+Tisserand, F.-F. (1896). Traité de Mécanique Céleste IV (Gauthier-Villars, Paris).
+Tittemore, W. C. and Wisdom, J. (1988). Tidal evolution of the uranian satellites. I. Passage of Ariel and Umbriel through the 5:3 mean-motion commensurability, Icarus 74, 172–230.
+Tittemore, W. C. and Wisdom, J. (1989). Tidal evolution of the uranian satellites. II. An explanation of the anomalously high orbital inclination of Miranda, Icarus 78, 63–89.
+Tittemore, W. C. and Wisdom, J. (1990). Tidal evolution of the uranian satellites. III. Evolution through the Miranda–Umbriel 3:1, Miranda–Ariel 5:3 and Ariel–Umbriel 2:1 mean-motion resonances, Icarus 85, 394–443.
+Veeder, G. J., Matson, D. L., Johnson, T. V., Blaney, D. L., and Goguen, J. D. (1994). Io’s heat flow from infrared radiometry: 1983–1993, J. Geophys. Res. 99, 17095–17162.
+Ward, W. R. and Reid, M. J. (1973). Solar tidal friction and satellite loss, Mon. Not. R. Astron. Soc. 164, 21–32.
+Webb, D. J. (1982). Tides and the evolution of the Earth–Moon system, Geophys. J. R. Astron. Soc. 70, 261–271.
+Westfall, R. S. (1980). Never at Rest. A Biography of Isaac Newton (Cambridge University Press, Cambridge).
+Wetherill, G. W. (1985). Asteroidal source of ordinary chondrites, Meteoritics 18, 1–22.
+Wiegert, P. A., Innanen, K. A., and Mikkola, S. (1997). An asteroidal companion to the Earth, Nature 387, 685–686.
+Williams, J. G. (1969). Secular perturbations in the solar system, University of California Los Angeles PhD thesis.
+Williams, J. G. (1979). Proper elements and family membership of the asteroids, in Asteroids, ed. T. Gehrels (University of Arizona Press, Tucson).
+Williams, J. G. and Faulkner, J. (1981). The positions of secular resonance surfaces, Icarus 46, 390–399.
+Winter, O. C. and Murray, C. D. (1994a). Atlas of the planar, circular, restricted three-body problem. I. Internal orbits, QMW Maths Notes, No.16, Queen Mary and Westfield College, London.
+Winter, O. C. and Murray, C. D. (1994b). Atlas of the planar, circular, restricted three-body problem. II. External orbits, QMW Maths Notes, No.17, Queen Mary and Westfield College, London.
+Winter, O. C. and Murray, C. D. (1997). Resonance and chaos. I. First-order interior resonances, Astron. Astrophys. 319, 290–304.
+Wisdom, J. (1980). The resonance overlap criterion and the onset of stochastic behavior in the restricted three-body problem, Astron. J. 85, 1122–1133.
+Wisdom, J. (1982). The origin of the Kirkwood gaps: A mapping technique for asteroidal motion near the 3/1 commensurability, Astron. J. 87, 577–593.
+Wisdom, J. (1983). Chaotic behavior and the origin of the 3/1 Kirkwood gap, Icarus 56, 51–74.
+Wisdom, J. (1985a). A perturbative treatment of motion near the 3/1 commensurability, Icarus 63, 272–289.
+Wisdom, J. (1985b). Meteorites may follow a chaotic route to Earth, Nature 315, 731–733.
+Wisdom, J. (1987a). Urey Prize Lecture: Chaotic dynamics in the solar system, Icarus 72, 241–275.
+Wisdom, J. (1987b). Chaotic behaviour in the solar system, Proc. R. Soc. London. A 413, 109–129.
+Wisdom, J. and Holman, M. (1991). Symplectic maps for the N -body problem, Astron. J. 102, 1528–1538.
+Wisdom, J., Peale, S. J., and Mignard, F. (1984). The chaotic rotation of Hyperion, Icarus 58, 137–152.
+Wolszczan, A. (1994). Confirmation of Earth-mass planets orbiting the millisecond pulsar PSR B1257+12, Science 264, 538–542.
+Wolszczan, A. and Frail, D. A. (1992). A planetary system around the millisecond pulsar PSR1257+12, Nature 355, 145–147.
+Woltjer, J. (1928). The motion of Hyperion, Annalen van de Sterrewacht te Leiden XVI, Pt. 3.
+Yoder, C. F. (1973). On the establishment and evolution of orbit–orbit resonances, University of California Santa Barbara PhD thesis.
+Yoder, C. F. (1995). Astrometric and geodetic properties of Earth and the solar system, in Global Earth Physics. A Handbook of Physical Constants, ed. T. Ahrens (American Geophysical Union, Washington).
+Yoder, C. F., Colombo, G., Synnott, S. P., and Yoder, K. A. (1983). Theory of motion of Saturn’s coorbiting satellites, Icarus 53, 431–443.
+Yoder, C. F. and Peale, S. J. (1981). The tides of Io, Icarus 47, 1–35.
+Yoshikawa, M. (1989). A survey of the motions of asteroids in the commensurabilities with Jupiter, Astron. Astrophys. 213, 436–458.
+Yuasa, M. (1973). Theory of secular perturbations of asteroids including terms of higher order and higher degree, Publ. Astron. Soc. Japan 25, 399–445.

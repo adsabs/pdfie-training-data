@@ -31,3 +31,17 @@ $ python -m pidata.export_arxiv
 This will create a tree defining a single “session” named `all`.
 
 [arxiv-reference-extractor]: https://github.com/adsabs/arxiv-reference-extractor
+
+
+## Ingesting one-off documents
+
+We have a few PDFs of interest that aren't, and shouldn't be, part of ADS' holdings.
+These can be ingested with:
+
+```
+$ python -m pidata.misc.ingest $NAME $PDF_PATH
+```
+
+followed by manual editing of the generated TOML and addition of whatever other
+metadata files are appropriate. This requires the environment variable
+`$PDFIE_LOCAL_DATA` to be set.
