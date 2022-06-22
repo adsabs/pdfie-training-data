@@ -11,12 +11,11 @@ forever, or maybe centralize it into some common scripts.
 Only a subset of ESASP has textual references available, so we index from that subset.
 """
 
-import hashlib
 import os.path
 import toml
 
-REFERENCES_PREFIX = os.environ.get("ADS_REFERENCES", "/proj/ads/references")
-ARTICLES_PREFIX = os.environ.get("ADS_ARTICLES", "/proj/ads/articles")
+from .. import util
+
 COLL_PREFIX = os.path.dirname(__file__)
 
 REFERENCES_SUBDIR = "sources/ESASP"
@@ -39,25 +38,12 @@ def do_one_doc(refdirpath: str, reffn: str):
     bibcode = bibcode.replace("ESASP.624", "soho...18")
 
     pdf_sub_path = ARTICLES_PDF_SUBDIR_TMPL.format(vol=vol, bibcode=bibcode)
-    pdf_path = os.path.join(ARTICLES_PREFIX, pdf_sub_path)
-
-    # Analyze PDF file
-
-    b = bytearray(128 * 1024)
-    mv = memoryview(b)
-    h = hashlib.sha256()
-    n_bytes = 0
-
-    with open(pdf_path, "rb", buffering=0) as f:
-        while n := f.readinto(mv):
-            h.update(mv[:n])
-            n_bytes += n
-
-    # Emit
+    pdf_path = os.path.join(util.ADS_ARTICLES_PREFIX, pdf_sub_path)
+    n_bytes, sha256 = util.nbytes_and_sha256_of_path(pdf_path)
 
     metadata = {
         "bibcode": bibcode,
-        "pdf_sha256": h.hexdigest(),
+        "pdf_sha256": sha256,
         "pdf_n_bytes": n_bytes,
         "pdf_path": "$ADS_ARTICLES/" + pdf_sub_path,
     }
@@ -70,7 +56,7 @@ def do_one_doc(refdirpath: str, reffn: str):
 
 
 def main():
-    ref_root = os.path.join(REFERENCES_PREFIX, REFERENCES_SUBDIR)
+    ref_root = os.path.join(util.ADS_REFERENCES_PREFIX, REFERENCES_SUBDIR)
 
     for dirpath, _dirnames, filenames in os.walk(ref_root):
         for fn in filenames:

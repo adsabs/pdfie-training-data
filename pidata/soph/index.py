@@ -45,25 +45,16 @@ There are also JATS files with no "unstructured" version of the reference, e.g.
 """
 
 from dataclasses import dataclass
-import hashlib
 import html.entities
 import os.path
 from pathlib import Path
-import random
 import toml
 from typing import Dict, TextIO
 
-
-def envpath(env_var_name: str, default: str) -> Path:
-    return Path(os.environ.get(env_var_name, default))
+from .. import util
 
 
-REFERENCES_PREFIX = envpath("ADS_REFERENCES", "/proj/ads/references")
-FULLTEXT_PREFIX = envpath("ADS_FULLTEXT", "/proj/ads/fulltext")
-ABSTRACTS_PREFIX = envpath("ADS_ABSTRACTS", "/proj/ads/abstracts")
 COLL_PREFIX = Path(os.path.dirname(__file__))
-FULLTEXT_LINKS_PATH = ABSTRACTS_PREFIX / "config/links/fulltext/all.links"
-
 REFERENCES_SUBDIR = "sources/SoPh/"
 FULLTEXT_SUBDIR = "sources/SoPh/"
 PDFS_ARE_RASTER = False
@@ -80,29 +71,17 @@ class Doc:
         # doing Docker or sshfs-based processing.
 
         ads_pdf_path = self.pdf_path.replace(
-            str(FULLTEXT_PREFIX), "$ADS_ARTICLES/fulltext"
+            str(util.ADS_FULLTEXT_PREFIX), "$ADS_ARTICLES/fulltext"
         )
 
-        # Analyze PDF file
-
-        b = bytearray(128 * 1024)
-        mv = memoryview(b)
-        h = hashlib.sha256()
-        n_bytes = 0
-
-        with open(self.pdf_path, "rb", buffering=0) as f:
-            while n := f.readinto(mv):
-                h.update(mv[:n])
-                n_bytes += n
-
-        # Emit
+        n_bytes, sha256 = util.nbytes_and_sha256_of_path(self.pdf_path)
 
         return {
             "bibcode": self.bibcode,
-            "pdf_sha256": h.hexdigest(),
+            "pdf_sha256": sha256,
             "pdf_n_bytes": n_bytes,
             "ads_pdf_path": ads_pdf_path,
-            "random_index": random.randint(0, 999999),
+            "random_index": util.make_random_index(),
             "pdf_is_raster": PDFS_ARE_RASTER,
         }
 
@@ -115,9 +94,9 @@ def scan_candidates() -> Dict[str, Dict[str, Doc]]:
 
     by_vol = {}
     n = 0
-    prefix = str(FULLTEXT_PREFIX / FULLTEXT_SUBDIR) + os.path.sep
+    prefix = str(util.ADS_FULLTEXT_PREFIX / FULLTEXT_SUBDIR) + os.path.sep
 
-    with FULLTEXT_LINKS_PATH.open("rt") as f:
+    with util.ADS_FULLTEXT_LINKS_PATH.open("rt") as f:
         for line in f:
             pieces = line.split()
             if len(pieces) > 1 and pieces[1].startswith(prefix):
@@ -138,7 +117,7 @@ def process_volume(vol: str, docs: Dict[str, Doc]):
     # are `.springer.xml` and `.jats.xml` files, and we can only obtain the
     # unstructured citation from `.springer.xml`.
 
-    vol_dir = REFERENCES_PREFIX / REFERENCES_SUBDIR / vol
+    vol_dir = util.ADS_REFERENCES_PREFIX / REFERENCES_SUBDIR / vol
     print(f"Volume {vol}:")
 
     for fn in vol_dir.iterdir():
