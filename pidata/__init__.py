@@ -69,7 +69,7 @@ class Document:
             info = {}
 
         self.bibcode = info.get("bibcode")
-        self.pdf_sha256 = info.get("pdf_sha256")
+        self.pdf_sha256_hex = info.get("pdf_sha256")
         self.pdf_n_bytes = info.get("pdf_n_bytes")
         self.ads_pdf_path_symbolic = info.get("ads_pdf_path")
         self.pdf_is_raster = info.get("pdf_is_raster", False)
