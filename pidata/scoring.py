@@ -5,9 +5,10 @@
 Scoring PDF processing results.
 """
 
+import argparse
 from pathlib import Path
 import re
-from typing import Generator, Tuple
+from typing import Generator, Iterable, Tuple
 
 from . import scan_for_ext
 
@@ -22,6 +23,7 @@ def load_rs_data(stream) -> str:
     """
     Load a ``.rs.txt`` formatted file into a string for scoring.
     """
+
     def linewords():
         first = True
 
@@ -33,16 +35,18 @@ def load_rs_data(stream) -> str:
 
             yield from line.split()
 
-    return ' '.join(linewords())
+    return " ".join(linewords())
 
 
 _LEADING_REF_NUM_TEXT = re.compile(r"^(\[\d+\]|\(\d+\)|\d+\.\s)\s*")
+
 
 def load_ads_refs_raw_data(stream) -> str:
     """
     Load a ``.raw`` formatted file as used in the ADS references
     tree.
     """
+
     def linewords():
         _bibcode = stream.readline()
         zee = stream.readline()
@@ -61,10 +65,11 @@ def load_ads_refs_raw_data(stream) -> str:
 
             yield from line.split()
 
-    return ' '.join(linewords())
+    return " ".join(linewords())
 
 
 _WER_TRANSFORM = None
+
 
 def score_wer(truth: str, hypothesis: str) -> float:
     """
@@ -78,15 +83,22 @@ def score_wer(truth: str, hypothesis: str) -> float:
     import jiwer
 
     if _WER_TRANSFORM is None:
-        _WER_TRANSFORM = jiwer.Compose([
-            jiwer.ToLowerCase(),
-            jiwer.Strip(),
-            jiwer.RemoveWhiteSpace(replace_by_space=True),
-            jiwer.RemoveMultipleSpaces(),
-            jiwer.ReduceToListOfListOfWords(word_delimiter=" ")
-        ])
+        _WER_TRANSFORM = jiwer.Compose(
+            [
+                jiwer.ToLowerCase(),
+                jiwer.Strip(),
+                jiwer.RemoveWhiteSpace(replace_by_space=True),
+                jiwer.RemoveMultipleSpaces(),
+                jiwer.ReduceToListOfListOfWords(word_delimiter=" "),
+            ]
+        )
 
-    return jiwer.wer(truth, hypothesis, truth_transform=_WER_TRANSFORM, hypothesis_transform=_WER_TRANSFORM)
+    return jiwer.wer(
+        truth,
+        hypothesis,
+        truth_transform=_WER_TRANSFORM,
+        hypothesis_transform=_WER_TRANSFORM,
+    )
 
 
 class RefstringDatabase(object):
@@ -119,7 +131,9 @@ class AdsRefsRawDatabase(object):
             return load_ads_refs_raw_data(f)
 
 
-def wer_scores_from_ground_truth(gt_db, hy_db) -> Generator[Tuple[str, float], None, None]:
+def wer_scores_from_ground_truth(
+    gt_db, hy_db
+) -> Generator[Tuple[str, float], None, None]:
     for gid in gt_db.scan():
         ground_truth = gt_db.load(gid)
 
@@ -130,3 +144,72 @@ def wer_scores_from_ground_truth(gt_db, hy_db) -> Generator[Tuple[str, float], N
             score = 1.0
 
         yield (gid, score)
+
+
+# CLI
+
+
+def _summarize_scores(scores: Iterable[Tuple[str, float]]):
+    """
+    Need to think about what stats are the best here.
+    """
+    import numpy as np
+
+    all = list(t[1] for t in scores)
+    all = np.array(all)
+    n_all = all.size
+    print("  Number of items:", n_all)
+
+    n_fail = (all == 1.0).sum()
+    print(f"  Number of failures: {n_fail} = {100 * n_fail / n_all:.3}%")
+
+    n_perf = (all == 0.0).sum()
+    print(f"  Number of perfect extractions: {n_perf} = {100 * n_perf / n_all:.3}%")
+    print(f"  Mean score: {all.mean():.2}")
+    pct = np.percentile(all, [30, 50, 70, 90])
+    pct = ", ".join(f"{x:.2}" for x in pct)
+    print(f"  [30, 50, 70, 90]th percentiles: {pct}")
+
+
+def _do_score_arxiv_extractor(settings):
+    gt_path = Path(settings.export_dir) / "references" / "groundtruth" / "pdfietd"
+    hy_path = Path(settings.run_dir) / "references" / "sources" / "pdfietd"
+
+    gt_db = RefstringDatabase(gt_path)
+    hy_db = AdsRefsRawDatabase(hy_path)
+    scores = wer_scores_from_ground_truth(gt_db, hy_db)
+
+    print("Scores based on Word Error Rate metric:")
+    _summarize_scores(scores)
+
+
+def entrypoint():
+    parser = argparse.ArgumentParser()
+    commands = parser.add_subparsers(dest="subcommand")
+
+    p = commands.add_parser("score-arxiv-extractor")
+    p.add_argument(
+        "export_dir",
+        metavar="PATH",
+        help="Path to the results directory created by export_arxiv",
+    )
+    p.add_argument(
+        "run_dir",
+        metavar="PATH",
+        help="Path to a results directory that reprocessed the export",
+    )
+
+    settings = parser.parse_args()
+    if settings.subcommand is None:
+        raise Exception("use a subcommand: score-arxiv-extractor")
+
+    if settings.subcommand == "score-arxiv-extractor":
+        _do_score_arxiv_extractor(settings)
+    else:
+        raise Exception(
+            f"unknown subcommand `{settings.subcommand}`; run without arguments for a list"
+        )
+
+
+if __name__ == "__main__":
+    entrypoint()
