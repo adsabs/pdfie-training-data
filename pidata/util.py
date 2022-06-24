@@ -10,6 +10,7 @@ __all__ = """
 ADS_REFERENCES_PREFIX
 ADS_FULLTEXT_PREFIX
 ADS_ABSTRACTS_PREFIX
+ADS_ARTICLES_PREFIX
 ADS_FULLTEXT_LINKS_PATH
 AnyPath
 envpath
@@ -18,14 +19,23 @@ make_random_index
 nbytes_and_sha256_of_path
 optional_envpath
 try_local_data_path
+warn
 """.split()
 
 import hashlib
 import os.path
 from pathlib import Path
 import random
+import sys
 import tempfile
-from typing import BinaryIO, IO, Optional, Tuple, Union
+from typing import BinaryIO, Optional, Tuple, Union
+
+
+# I/O help
+
+
+def warn(s: str):
+    print("warning:", s, file=sys.stderr, flush=True)
 
 
 # Path helpers
@@ -49,8 +59,11 @@ def optional_envpath(env_var_name: str) -> Optional[Path]:
 
 
 ADS_REFERENCES_PREFIX = envpath("ADS_REFERENCES", "/proj/ads/references")
-ADS_FULLTEXT_PREFIX = envpath("ADS_FULLTEXT", "/proj/ads/fulltext")
+ADS_FULLTEXT_PREFIX = envpath(
+    "ADS_FULLTEXT", "/proj/ads/fulltext"
+)  # NB: this resolves to $ADS_ARTICLES/fulltext
 ADS_ABSTRACTS_PREFIX = envpath("ADS_ABSTRACTS", "/proj/ads/abstracts")
+ADS_ARTICLES_PREFIX = envpath("ADS_ARTICLES", "/proj/ads/articles")
 ADS_FULLTEXT_LINKS_PATH = ADS_ABSTRACTS_PREFIX / "config/links/fulltext/all.links"
 
 
@@ -80,9 +93,9 @@ def make_random_index() -> int:
 LOCAL_DATA_PREFIX = optional_envpath("PDFIE_LOCAL_DATA")
 
 
-def try_local_data_path(hexdigest: str, **kwargs) -> Optional[IO]:
+def try_local_data_path(hexdigest: str) -> Optional[Path]:
     """
-    Try to fetch a data file from the local database.
+    Try to fetch the path of data file in the local database.
 
     Files are identified by their SHA256 digest in a standard content-based
     addressing scheme.
@@ -91,8 +104,9 @@ def try_local_data_path(hexdigest: str, **kwargs) -> Optional[IO]:
     $PDFIE_LOCAL_DATA. If it is unset, all attempts to fetch files will fail,
     indicated by a None return value.
 
-    kwargs are passed to ``pathlib.Path.open()`` to allow customization of the
-    way that the file is opened.
+    We attempt to validate that the path exists before returning it. This
+    introduces a classic race condition, but is the more convenient behavior in
+    my current usage (in export_arxiv).
     """
 
     assert len(hexdigest) == 64, f"{hexdigest!r} not a SHA256 hex digest?"
@@ -101,11 +115,7 @@ def try_local_data_path(hexdigest: str, **kwargs) -> Optional[IO]:
         return None
 
     path = LOCAL_DATA_PREFIX / hexdigest[:2] / hexdigest[2:]
-
-    try:
-        return path.open(**kwargs)
-    except FileNotFoundError:
-        return None
+    return path if path.exists else None
 
 
 def ingest_stream_to_local_data(stream: BinaryIO) -> Tuple[int, str, Path]:

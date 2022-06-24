@@ -11,10 +11,7 @@ import os
 from pathlib import Path
 import shutil
 
-from . import scan
-
-ARTICLES_PREFIX = os.environ.get("ADS_ARTICLES", "/proj/ads/articles")
-REFERENCES_PREFIX = os.environ.get("ADS_REFERENCES", "/proj/ads/references")
+from . import scan, util
 
 
 def main():
@@ -22,7 +19,7 @@ def main():
     parser.add_argument(
         "--ads-arxiv-fulltext-shadow",
         metavar="PATH",
-        help="ArXiv reference extractor fulltext directory for custom symlinking (see script, sorry)"
+        help="ArXiv reference extractor fulltext directory for custom symlinking (see script, sorry)",
     )
     parser.add_argument("out_dir")
     settings = parser.parse_args()
@@ -36,7 +33,7 @@ def main():
 
     fulltext_prefix = "pdfietd"
 
-    docs = list(scan(bibcode=True, rs=True, no_raster=True))
+    docs = list(scan(rs=True, no_raster=True))
     print(f"Scan yielded {len(docs)} documents.")
 
     # Do the log files
@@ -49,17 +46,28 @@ def main():
             arxiv_id = doc.global_id.replace(".", "_")
             fake_pdf_path = f"{fulltext_prefix}/{arxiv_id}.pdf"
             refs_path = os.path.join(
-                REFERENCES_PREFIX, "sources", fulltext_prefix, arxiv_id + ".raw"
+                util.ADS_REFERENCES_PREFIX,
+                "sources",
+                fulltext_prefix,
+                arxiv_id + ".raw",
             )
             print(fake_pdf_path, refs_path, file=f)
 
     print(f"Wrote `{logs_dir / 'extractrefs.out'}`")
+    fake_bibcode_serial = 0
 
     with (logs_dir / "fulltextharvest.out").open("wt") as f:
         for doc in docs:
             arxiv_id = doc.global_id.replace(".", "_")
             fake_pdf_path = f"{fulltext_prefix}/{arxiv_id}.pdf"
-            print(fake_pdf_path, doc.bibcode, "fakeaccno", "fakesubdate", file=f)
+
+            if doc.bibcode:
+                bibcode = doc.bibcode
+            else:
+                bibcode = "9999" + str(fake_bibcode_serial).rjust(14, ".") + "."
+                fake_bibcode_serial += 1
+
+            print(fake_pdf_path, bibcode, "fakeaccno", "fakesubdate", file=f)
 
     print(f"Wrote `{logs_dir / 'fulltextharvest.out'}`")
 
@@ -93,7 +101,20 @@ def main():
             ft_dir.mkdir(parents=True, exist_ok=True)
             shadow_ft_path = ft_dir / (ap.name + ".pdf")
 
-            real_pdf_path = doc.ads_pdf_path_symbolic.replace("$ADS_ARTICLES", ARTICLES_PREFIX)
+            if doc.ads_pdf_path_symbolic is not None:
+                real_pdf_path = doc.ads_pdf_path_symbolic.replace(
+                    "$ADS_ARTICLES", str(util.ADS_ARTICLES_PREFIX)
+                )
+            elif doc.pdf_sha256_hex is not None:
+                real_pdf_path = util.try_local_data_path(doc.pdf_sha256_hex)
+            else:
+                real_pdf_path = None
+
+            if real_pdf_path is None:
+                util.warn(
+                    f"cannot set up fulltext shadow document for doc `{doc.global_id}`"
+                )
+                continue
 
             try:
                 shadow_ft_path.unlink()
