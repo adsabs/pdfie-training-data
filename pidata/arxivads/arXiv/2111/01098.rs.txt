@@ -1,48 +1,25 @@
 M. Luscher, Commun. Math. Phys. 105, 153-188 (1986) doi:10.1007/BF01211097
 M. Luscher, Nucl. Phys. B 354, 531-578 (1991) doi:10.1016/0550-3213(91)90366-6
-K. Rummukainen and S. A. Gottlieb, Nucl. Phys. B 450, 397-436 (1995) doi:10.1016/0550-3213(95)00313-H
-K. Rummukainen and S. A. Gottlieb, 1995, arXiv:hep-lat/9503028 [hep-lat
-C. h. Kim, C. T. Sachrajda and S. R. Sharpe, Nucl. Phys. B 727, 218-243 (2005) doi:10.1016/j.nuclphysb.2005.08.029
-C. h. Kim, C. T. Sachrajda and S. R. Sharpe, 2005, arXiv:hep-lat/0507006 [hep-lat
-S. He, X. Feng and C. Liu, JHEP 07, 011 (2005) doi:10.1088/1126-6708/2005/07/011
-S. He, X. Feng and C. Liu, 2005, arXiv:hep-lat/0504019 [hep-lat
-M. T. Hansen and S. R. Sharpe, Phys. Rev. D 86, 016007 (2012) doi:10.1103/PhysRevD.86.016007
-M. T. Hansen and S. R. Sharpe, 2012, arXiv:1204.0826 [hep-lat
-R. A. Briceno, Phys. Rev. D 89, no.7, 074507 (2014) doi:10.1103/PhysRevD.89.074507
-R. A. Briceno, 2014, arXiv:1401.3312 [hep-lat
-R. A. Briceno, J. J. Dudek and R. D. Young, Rev. Mod. Phys. 90, no.2, 025001 (2018) doi:10.1103/RevModPhys.90.025001
-R. A. Briceno, J. J. Dudek and R. D. Young, 2018, arXiv:1706.06223 [hep-lat
-L. Lellouch and M. Luscher, Commun. Math. Phys. 219, 31-44 (2001) doi:10.1007/s002200100410
-L. Lellouch and M. Luscher, 2001, arXiv:hep-lat/0003023 [hep-lat
-R. A. Briceno, M. T. Hansen and A. Walker-Loud, Phys. Rev. D 91, no.3, 034501 (2015) doi:10.1103/PhysRevD.91.034501
-R. A. Briceno, M. T. Hansen and A. Walker, 2015, arXiv:1406.5965 [hep-lat
-R. A. Briceno and M. T. Hansen, Phys. Rev. D 92, no.7, 074509 (2015) doi:10.1103/PhysRevD.92.074509
-R. A. BriceNo. and M. T. Hansen, 2015, arXiv:1502.04314 [hep-lat
-C. J. Shultz, J. J. Dudek and R. G. Edwards, Phys. Rev. D 91, no.11, 114501 (2015) doi:10.1103/PhysRevD.91.114501
-C. J. Shultz, J. J. Dudek and R. G. Edwards, 2015, arXiv:1501.07457 [hep-lat
-R. A. Briceno, J. J. Dudek and L. Leskovec, Phys. Rev. D 104, no.5, 054509 (2021) doi:10.1103/PhysRevD.104.054509
-R. A. Briceno, J. J. Dudek and L. Leskovec, arXiv:2105.02017 [hep-lat
-R. A. Briceno, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, Phys. Rev. Lett. 115, 242001 (2015) doi:10.1103/PhysRevLett.115.242001
-R. A. Briceno, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, 2015, arXiv:1507.06622 [hep-ph
-R. A. Briceno, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, Phys. Rev. D 93, no.11, 114508 (2016) doi:10.1103/PhysRevD.93.114508
-R. A. Briceno, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, 2016, arXiv:1604.03530 [hep-ph
-C. Alexandrou, L. Leskovec, S. Meinel, J. Negele, S. Paul, M. Petschlies, A. Pochinsky, G. Rendon and S. Syritsyn, Phys. Rev. D 98, no.7, 074502 (2018) doi:10.1103/PhysRevD.98.074502
-C. Alexandrou, L. Leskovec, S. Meinel, J. Negele, S. Paul, M. Petschlies, A. Pochinsky, G. Rendon and S. Syritsyn, arXiv:1807.08357 [hep-lat
-A. Agadjanov, V. Bernard, U. G. Meiner and A. Rusetsky, Nucl. Phys. B 910, 387-409 (2016) doi:10.1016/j.nuclphysb.2016.07.005
-A. Agadjanov, V. Bernard, U. G. Meiner and A. Rusetsky, 2016, arXiv:1605.03386 [hep-lat
-R. A. Briceno and Z. Davoudi, Phys. Rev. D 88, no.9, 094507 (2013) doi:10.1103/PhysRevD.88.094507
-R. A. BriceNo. and Z. Davoudi, 2013, arXiv:1204.1110 [hep-lat
-R. A. Briceno and M. T. Hansen, Phys. Rev. D 94, no.1, 013008 (2016) doi:10.1103/PhysRevD.94.013008
-R. A. BriceNo. and M. T. Hansen, 2016, arXiv:1509.08507 [hep-lat
-A. Baroni, R. A. Briceno, M. T. Hansen and F. G. Ortega-Gama, Phys. Rev. D 100, no.3, 034511 (2019) doi:10.1103/PhysRevD.100.034511
-A. Baroni, R. A. Briceno, M. T. Hansen and F. G. Ortega, arXiv:1812.10504 [hep-lat
-M. Albaladejo and J. A. Oller, Phys. Rev. D 86, 034003 (2012) doi:10.1103/PhysRevD.86.034003
-M. Albaladejo and J. A. Oller, 2012, arXiv:1205.6606 [hep-ph
-R. A. Briceno, A. W. Jackura, F. G. Ortega-Gama and K. H. Sherman, Phys. Rev. D 103, no.11, 114512 (2021) doi:10.1103/PhysRevD.103.114512
-R. A. Briceno, A. W. Jackura, F. G. Ortega-Gama and K. H. Sherman, arXiv:2012.13338 [hep-lat
-R. A. Briceno, M. T. Hansen and A. W. Jackura, Phys. Rev. D 100, no.11, 114505 (2019) doi:10.1103/PhysRevD.100.114505
-R. A. Briceno, M. T. Hansen and A. W. Jackura, arXiv:1909.10357 [hep-lat
-Z. Davoudi and M. J. Savage, Phys. Rev. D 84, 114502 (2011) doi:10.1103/PhysRevD.84.114502
-Z. Davoudi and M. J. Savage, 2011, arXiv:1108.5371 [hep-lat
-R. A. Briceno, M. T. Hansen and A. W. Jackura, Phys. Rev. D 101, no.9, 094508 (2020) doi:10.1103/PhysRevD.101.094508
-R. A. Briceno, M. T. Hansen and A. W. Jackura, arXiv:2002.00023 [hep-lat
+K. Rummukainen and S. A. Gottlieb, Nucl. Phys. B 450, 397-436 (1995) doi:10.1016/0550-3213(95)00313-H [arXiv:hep-lat/9503028 [hep-lat]]
+C. h. Kim, C. T. Sachrajda and S. R. Sharpe, Nucl. Phys. B 727, 218-243 (2005) doi:10.1016/j.nuclphysb.2005.08.029 [arXiv:hep-lat/0507006 [hep-lat]]
+S. He, X. Feng and C. Liu, JHEP 07, 011 (2005) doi:10.1088/1126-6708/2005/07/011 [arXiv:hep-lat/0504019 [hep-lat]]
+M. T. Hansen and S. R. Sharpe, Phys. Rev. D 86, 016007 (2012) doi:10.1103/PhysRevD.86.016007 [arXiv:1204.0826 [hep-lat]]
+R. A. Briceno, Phys. Rev. D 89, no.7, 074507 (2014) doi:10.1103/PhysRevD.89.074507 [arXiv:1401.3312 [hep-lat]]
+R. A. Briceno, J. J. Dudek and R. D. Young, Rev. Mod. Phys. 90, no.2, 025001 (2018) doi:10.1103/RevModPhys.90.025001 [arXiv:1706.06223 [hep-lat]]
+L. Lellouch and M. Luscher, Commun. Math. Phys. 219, 31-44 (2001) doi:10.1007/s002200100410 [arXiv:hep-lat/0003023 [hep-lat]]
+R. A. Briceño, M. T. Hansen and A. Walker-Loud, Phys. Rev. D 91, no.3, 034501 (2015) doi:10.1103/PhysRevD.91.034501 [arXiv:1406.5965 [hep-lat]]
+R. A. Briceño and M. T. Hansen, Phys. Rev. D 92, no.7, 074509 (2015) doi:10.1103/PhysRevD.92.074509 [arXiv:1502.04314 [hep-lat]]
+C. J. Shultz, J. J. Dudek and R. G. Edwards, Phys. Rev. D 91, no.11, 114501 (2015) doi:10.1103/PhysRevD.91.114501 [arXiv:1501.07457 [hep-lat]]
+R. A. Briceño, J. J. Dudek and L. Leskovec, Phys. Rev. D 104, no.5, 054509 (2021) doi:10.1103/PhysRevD.104.054509 [arXiv:2105.02017 [hep-lat]]
+R. A. Briceno, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, Phys. Rev. Lett. 115, 242001 (2015) doi:10.1103/PhysRevLett.115.242001 [arXiv:1507.06622 [hep-ph]]
+R. A. Briceño, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas and D. J. Wilson, Phys. Rev. D 93, no.11, 114508 (2016) doi:10.1103/PhysRevD.93.114508 [arXiv:1604.03530 [hep-ph]]
+C. Alexandrou, L. Leskovec, S. Meinel, J. Negele, S. Paul, M. Petschlies, A. Pochinsky, G. Rendon and S. Syritsyn, Phys. Rev. D 98, no.7, 074502 (2018) doi:10.1103/PhysRevD.98.074502 [arXiv:1807.08357 [hep-lat]]
+A. Agadjanov, V. Bernard, U. G. Meiner and A. Rusetsky, Nucl. Phys. B 910, 387-409 (2016) doi:10.1016/j.nuclphysb.2016.07.005 [arXiv:1605.03386 [hep-lat]]
+R. A. Briceno and Z. Davoudi, Phys. Rev. D 88, no.9, 094507 (2013) doi:10.1103/PhysRevD.88.094507 [arXiv:1204.1110 [hep-lat]]
+R. A. Briceño and M. T. Hansen, Phys. Rev. D 94, no.1, 013008 (2016) doi:10.1103/PhysRevD.94.013008 [arXiv:1509.08507 [hep-lat]]
+A. Baroni, R. A. Briceño, M. T. Hansen and F. G. Ortega-Gama, Phys. Rev. D 100, no.3, 034511 (2019) doi:10.1103/PhysRevD.100.034511 [arXiv:1812.10504 [hep-lat]]
+M. Albaladejo and J. A. Oller, Phys. Rev. D 86, 034003 (2012) doi:10.1103/PhysRevD.86.034003 [arXiv:1205.6606 [hep-ph]]
+R. A. Briceño, A. W. Jackura, F. G. Ortega-Gama and K. H. Sherman, Phys. Rev. D 103, no.11, 114512 (2021) doi:10.1103/PhysRevD.103.114512 [arXiv:2012.13338 [hep-lat]]
+R. A. Briceño, M. T. Hansen and A. W. Jackura, Phys. Rev. D 100, no.11, 114505 (2019) doi:10.1103/PhysRevD.100.114505 [arXiv:1909.10357 [hep-lat]]
+Z. Davoudi and M. J. Savage, Phys. Rev. D 84, 114502 (2011) doi:10.1103/PhysRevD.84.114502 [arXiv:1108.5371 [hep-lat]]
+R. A. Briceño, M. T. Hansen and A. W. Jackura, Phys. Rev. D 101, no.9, 094508 (2020) doi:10.1103/PhysRevD.101.094508 [arXiv:2002.00023 [hep-lat]]

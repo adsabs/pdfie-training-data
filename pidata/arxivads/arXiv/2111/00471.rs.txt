@@ -1,46 +1,46 @@
-Allan A., Vidotto A. A., 2019,, MNRAS, 490, 3760
+Allan A., Vidotto A. A., 2019, MNRAS, 490, 3760
 Anninos P., Zhang Y., Abel T., Norman M. L., 1997, New Astron., 2, 209
 Bourrier V., et al., 2018, A&A, 620, A147
-Carolan S., Vidotto A. A., Plavchan P., Villarreal D'Angelo C., Hazra G., 2020,, MNRAS, 498, L53
-Carolan S., Vidotto A. A., Villarreal D'Angelo C., Hazra G., 2021a,, MNRAS, 500, 3382
-Carolan S., Vidotto A. A., Hazra G., Villarreal D'Angelo C., Kubyshkina D., 2021b,, MNRAS, 508, 6001
+Carolan S., Vidotto A. A., Plavchan P., Villarreal D'Angelo C., Hazra G., 2020, MNRAS, 498, L53
+Carolan S., Vidotto A. A., Villarreal D'Angelo C., Hazra G., 2021a, MNRAS, 500, 3382
+Carolan S., Vidotto A. A., Hazra G., Villarreal D'Angelo C., Kubyshkina D., 2021b, MNRAS, 508, 6001
 Cauley P. W., Shkolnik E. L., Llama J., Lanza A. F., 2019, Nature Astronomy, 3, 1128
-Christie D., Arras P., Li Z.-Y., 2013,, ApJ, 772, 144
-Christie D., Arras P., Li Z.-Y., 2016,, ApJ, 820, 3
-Drake J. J., Cohen O., Yashiro S., Gopalswamy N., 2013,, ApJ, 764, 170
-Dring A. R., Linsky J., Murthy J., Henry R. C., Moos W., Vidal-Madjar A., Audouze J., Landsman W., 1997,, ApJ, 488, 760
-Ehrenreich D., et al., 2015,, Nature, 522, 459
-Esquivel A., Schneiter M., Villarreal D'Angelo C., Sgro M. A., Krapp L., 2019,, MNRAS, 487, 5788
+Christie D., Arras P., Li Z.-Y., 2013, ApJ, 772, 144
+Christie D., Arras P., Li Z.-Y., 2016, ApJ, 820, 3
+Drake J. J., Cohen O., Yashiro S., Gopalswamy N., 2013, ApJ, 764, 170
+Dring A. R., Linsky J., Murthy J., Henry R. C., Moos W., Vidal-Madjar A., Audouze J., Landsman W., 1997, ApJ, 488, 760
+Ehrenreich D., et al., 2015, Nature, 522, 459
+Esquivel A., Schneiter M., Villarreal D'Angelo C., Sgro M. A., Krapp L., 2019, MNRAS, 487, 5788
 Feinstein A. D., Montet B. T., Ansdell M., Nord B., Bean J. L., Gunther M. N., Gully-Santiago M. A., Schlieder J. E., 2020, AJ, 160, 219
-Fossati L., Koskinen T., Lothringer J. D., France K., Young M. E., Sreejith A. G., 2018,, ApJ, 868, L30
-Garcia Munoz A., Youngblood A., Fossati L., Gandolfi D., Cabrera J., Rauer H., 2020,, ApJ, 888, L21
-Harbach L. M., Moschou S. P., Garraffo C., Drake J. J., Alvarado-Gomez J. D., Cohen O., Fraschetti F., 2021,, ApJ, 913, 130
-Johnstone C. P., et al., 2015,, ApJ, 815, L12
-Khodachenko M. L., Shaikhislamov I. F., Lammer H., Berezutsky A. G., Miroshnichenko I. B., Rumenskikh M. S., Kislyakova K. G., Dwivedi N. K., 2019,, ApJ, 885, 67
-Lammer H., Selsis F., Ribas I., Guinan E. F., Bauer S. J., Weiss W. W., 2003,, ApJ, 598, L121
+Fossati L., Koskinen T., Lothringer J. D., France K., Young M. E., Sreejith A. G., 2018, ApJ, 868, L30
+García Muñoz A., Youngblood A., Fossati L., Gandolfi D., Cabrera J., Rauer H., 2020, ApJ, 888, L21
+Harbach L. M., Moschou S. P., Garraffo C., Drake J. J., Alvarado-Gomez J. D., Cohen O., Fraschetti F., 2021, ApJ, 913, 130
+Johnstone C. P., et al., 2015, ApJ, 815, L12
+Khodachenko M. L., Shaikhislamov I. F., Lammer H., Berezutsky A. G., Miroshnichenko I. B., Rumenskikh M. S., Kislyakova K. G., Dwivedi N. K., 2019, ApJ, 885, 67
+Lammer H., Selsis F., Ribas I., Guinan E. F., Bauer S. J., Weiss W. W., 2003, ApJ, 598, L121
 Lecavelier des Etangs A., et al., 2012, A&A, 543, L4
-Leitzinger M., Odert P., Greimel R., Korhonen H., Guenther E. W., Hanslmeier A., Lammer H., Khodachenko M. L., 2014,, MNRAS, 443, 898
+Leitzinger M., Odert P., Greimel R., Korhonen H., Guenther E. W., Hanslmeier A., Lammer H., Khodachenko M. L., 2014, MNRAS, 443, 898
 Maehara H., Notsu Y., Notsu S., Namekata K., Honda S., Ishii T. T., Nogami D., Shibata K., 2017, PASJ, 69, 41
 Matsakos T., Uribe A., Konigl A., 2015, A&A, 578, A6
-McCann J., Murray-Clay R. A., Kratter K., Krumholz M. R., 2019,, ApJ, 873, 89
-Mignone A., Bodo G., Massaglia S., Matsakos T., Tesileanu O., Zanni C., Ferrari A., 2007,, ApJS, 170, 228
-Murray-Clay R. A., Chiang E. I., Murray N., 2009,, ApJ, 693, 23
-Nakatani R., Yoshida N., 2019,, ApJ, 883, 127
-Nakatani R., Hosokawa T., Yoshida N., Nomura H., Kuiper R., 2018a,, ApJ, 857, 57
-Nakatani R., Hosokawa T., Yoshida N., Nomura H., Kuiper R., 2018b,, ApJ, 865, 75
+McCann J., Murray-Clay R. A., Kratter K., Krumholz M. R., 2019, ApJ, 873, 89
+Mignone A., Bodo G., Massaglia S., Matsakos T., Tesileanu O., Zanni C., Ferrari A., 2007, ApJS, 170, 228
+Murray-Clay R. A., Chiang E. I., Murray N., 2009, ApJ, 693, 23
+Nakatani R., Yoshida N., 2019, ApJ, 883, 127
+Nakatani R., Hosokawa T., Yoshida N., Nomura H., Kuiper R., 2018a, ApJ, 857, 57
+Nakatani R., Hosokawa T., Yoshida N., Nomura H., Kuiper R., 2018b, ApJ, 865, 75
 Odert P., et al., 2020, A&A, 638, A49
 Osterbrock D. E., Ferland G. J., 2006, Astrophysics of gaseous nebulae and active galactic nuclei
 Owen J. E., Jackson A. P., 2012, Monthly Notices of the Royal Astronomical Society, 425, 2931
-Schneiter E. M., Esquivel A., Villarreal D'Angelo C. S., Velazquez P. F., Raga A. C., Costa A., 2016,, MNRAS, 457, 1666
+Schneiter E. M., Esquivel A., Villarreal D'Angelo C. S., Velazquez P. F., Raga A. C., Costa A., 2016, MNRAS, 457, 1666
 Spitzer L., 1978, Physical processes in the interstellar medium, doi:10.1002/9783527617722.
 Tian F., 2013, Earth and Planetary Science Letters, 379, 104
-Tian F., Toon O. B., Pavlov A. A., De Sterck H., 2005,, ApJ, 621, 1049
-Tripathi A., Kratter K. M., Murray-Clay R. A., Krumholz M. R., 2015,, ApJ, 808, 173
-Vidal-Madjar A., Lecavelier des Etangs A., Desert J. M., Ballester G. E., Ferlet R., Hebrard G., Mayor M., 2003,, Nature, 422, 143
-Vidotto A. A., Cleary A., 2020,, MNRAS, 494, 2417
-Villarreal D'Angelo C., Schneiter M., Costa A., Velazquez P., Raga A., Esquivel A., 2014,, MNRAS, 438, 1654
-Villarreal D'Angelo C., Esquivel A., Schneiter M., Sgro M. A., 2018,, MNRAS, 479, 3115
-Villarreal D'Angelo C., Vidotto A. A., Esquivel A., Hazra G., Youngblood A., 2021,, MNRAS, 501, 4383
-Wood B. E., et al., 2021,, ApJ, 915, 37
+Tian F., Toon O. B., Pavlov A. A., De Sterck H., 2005, ApJ, 621, 1049
+Tripathi A., Kratter K. M., Murray-Clay R. A., Krumholz M. R., 2015, ApJ, 808, 173
+Vidal-Madjar A., Lecavelier des Etangs A., Desert J. M., Ballester G. E., Ferlet R., Hebrard G., Mayor M., 2003, Nature, 422, 143
+Vidotto A. A., Cleary A., 2020, MNRAS, 494, 2417
+Villarreal D'Angelo C., Schneiter M., Costa A., Velazquez P., Raga A., Esquivel A., 2014, MNRAS, 438, 1654
+Villarreal D'Angelo C., Esquivel A., Schneiter M., Sgro M. A., 2018, MNRAS, 479, 3115
+Villarreal D'Angelo C., Vidotto A. A., Esquivel A., Hazra G., Youngblood A., 2021, MNRAS, 501, 4383
+Wood B. E., et al., 2021, ApJ, 915, 37
 Yelle R. V., 2004, Icarus, 170, 167
 Zhang M., et al., 2021, arXiv e-prints, p. arXiv:2106.05273

@@ -1,11 +1,11 @@
-J. Rafelski, B. Muller, "Strangeness Production in the Quark-Gluon Plasma", Phys. Rev. Lett. 48, 1066-1069 (1982), doi:10.1103/PhysRevLett.48.1066.
-The WA97 Collaboration, "Strangeness enhancement at mid-rapidity in Pb Pb collisions at 158-A-GeV/c", Physics Letters B 449, 401-406 (1999), doi:10.1016/S0370-2693(99)00140-9.
-Agakishiev, G. et al. (STAR Collaboration), "Strangeness Enhancement in Cu-Cu and Au-Au Collisions at s"NN = 200 GeV, Phys. Rev. Lett. 108, 072301 (2012), doi:10.1103/PhysRevLett.108.072301.
-Abelev, B. et al. (ALICE Collaboration), "Multi-strange baryon production at mid-rapidity in Pb-Pb collisions at sNN" = 2.76 TeV, Phys. Lett. B 728, 216 (2014), doi:10.1016/j.physletb.2013.11.048.
-ALICE Collaboration, "Enhanced production of multi-strange hadrons in high-multiplicity proton-proton collisions", Nature Physics 13, 535-539 (2017), doi:10.1038/nphys4111.
-Vovchenko, V . et al., "Canonical statistical model analysis of p-p, p-Pb, and Pb-Pb collisions at energies available at the CERN Large Hadron Collider", Phys. Rev. C 100, 054906 (2019), doi:10.1103/PhysRevC.100.054906.
-Nayak, R. et al., "Effect of rope hadronization on strangeness enhancement in p-p collisions at LHC energies", Phys. Rev. D 100, 074023 (2019), doi:10.1103/PhysRevD.100.074023.
-Kanakubo, Y. et al., "Unified description of hadron yield ratios from dynamical core-corona initialization", Phys. Rev. C 101, 024912 (2020), doi:10.1103/PhysRevC.101.024912.
-Aamodt, K. et al., (ALICE Collaboration), "The ALICE experiment at the CERN LHC", JINST 3, S08002 (2008), doi:10.1088/1748-0221/3/08/S08002.
-Akindinov, A., et al., "Multiplicity studies and effective energy in ALICE at the LHC" Eur. Phys. J. C 50, 341-352 (2007), , doi:10.1140/epjc/s10052-007-0260-4.
-The ALICE Collaboration, "Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC", https://arxiv.org/abs/2107.10757.
+J. Rafelski, B. Muller, Strangeness Production in the Quark-Gluon Plasma, Phys. Rev. Lett. 48, 1066-1069 (1982), doi:10.1103/PhysRevLett.48.1066.
+The WA97 Collaboration, Strangeness enhancement at mid-rapidity in Pb Pb collisions at 158-A-GeV/c, Physics Letters B 449, 401-406 (1999), doi:10.1016/S0370-2693(99)00140-9.
+Agakishiev, G. et al. (STAR Collaboration), Strangeness Enhancement in Cu-Cu and Au-Au Collisions at sNN = 200 GeV, Phys. Rev. Lett. 108, 072301 (2012), doi:10.1103/PhysRevLett.108.072301.
+Abelev, B. et al. (ALICE Collaboration), Multi-strange baryon production at mid-rapidity in Pb-Pb collisions at sNN = 2.76 TeV, Phys. Lett. B 728, 216 (2014), doi:10.1016/j.physletb.2013.11.048.
+ALICE Collaboration, Enhanced production of multi-strange hadrons in high-multiplicity proton-proton collisions, Nature Physics 13, 535-539 (2017), doi:10.1038/nphys4111.
+Vovchenko, V . et al., Canonical statistical model analysis of p-p, p-Pb, and Pb-Pb collisions at energies available at the CERN Large Hadron Collider, Phys. Rev. C 100, 054906 (2019), doi:10.1103/PhysRevC.100.054906.
+Nayak, R. et al., Effect of rope hadronization on strangeness enhancement in p-p collisions at LHC energies, Phys. Rev. D 100, 074023 (2019), doi:10.1103/PhysRevD.100.074023.
+Kanakubo, Y. et al., Unified description of hadron yield ratios from dynamical core-corona initialization, Phys. Rev. C 101, 024912 (2020), doi:10.1103/PhysRevC.101.024912.
+Aamodt, K. et al., (ALICE Collaboration), The ALICE experiment at the CERN LHC, JINST 3, S08002 (2008), doi:10.1088/1748-0221/3/08/S08002.
+Akindinov, A., et al., Multiplicity studies and effective energy in ALICE at the LHC Eur. Phys. J. C 50, 341-352 (2007), , doi:10.1140/epjc/s10052-007-0260-4.
+The ALICE Collaboration, Measurement of very forward energy and particle production at midrapidity in pp and p-Pb collisions at the LHC, https://arxiv.org/abs/2107.10757.

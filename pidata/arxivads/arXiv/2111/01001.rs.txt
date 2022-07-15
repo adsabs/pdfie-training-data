@@ -14,4 +14,4 @@ S. Catterall and N. Butt, Phys. Rev. D 99, 014505 (2019), 1810.00853.
 N. Butt and S. Catterall, PoS LATTICE2018, 294 (2019), 1811.01015.
 C. van den Doel and J. Smit, Nucl. Phys. B 228, 122 (1983).
 M. F. Golterman and J. Smit, Nucl. Phys. B 245, 61 (1984).
-I. n. Garc ia-Etxebarria and M. Montero, JHEP 08, 003 (2019), 1808.00009.
+I. n. García-Etxebarria and M. Montero, JHEP 08, 003 (2019), 1808.00009.

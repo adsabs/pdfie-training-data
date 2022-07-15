@@ -1,76 +1,76 @@
-Abdikamalov A. B., Ayzenberg D., Bambi C., Dauser T., Garcia J. A., Nampalliwar S., 2019,, ApJ, 878, 91
+Abdikamalov A. B., Ayzenberg D., Bambi C., Dauser T., García J. A., Nampalliwar S., 2019, ApJ, 878, 91
 Arnaud K. A., 1996, in Jacoby G. H., Barnes J., eds, Astronomical Society of the Pacific Conference Series Vol. 101, Astronomical Data Analysis Software and Systems V. p. 17
 Augusteijn T., Kuulkers E., van Kerkwijk M. H., 2001, A&A, 375, 447
 Bambi C., 2017a, Black Holes: A Laboratory for Testing Strong Gravity. Springer Singapore, doi:10.1007/978-981-10-4524-0
 Bambi C., 2017b, Reviews of Modern Physics, 89, 025001
 Bambi C., 2021, arXiv e-prints, p. arXiv:2106.04084
-Bambi C., Cardenas-Avendano A., Dauser T., Garcia J. A., Nampalliwar S., 2017,, ApJ, 842, 76
+Bambi C., Cardenas-Avendano A., Dauser T., García J. A., Nampalliwar S., 2017, ApJ, 842, 76
 Bambi C., et al., 2021, Space Sci. Rev., 217, 65
 Brenneman L., 2013, SpringerBriefs in Astronomy
 Carter B., 1971, Phys. Rev. Lett., 26, 331
 Casares J., Jonker P. G., 2014, Space Sci. Rev., 183, 223
 Chrusciel P. T., Costa J. L., Heusler M., 2012, Living Reviews in Relativity, 15, 7
-Connors R. M. T., et al., 2021,, ApJ, 909, 146
-Dauser T., Garcia J., Wilms J., Bock M., Brenneman L. W., Falanga M., Fukumura K., Reynolds C. S., 2013,, MNRAS, 430, 1694
-Draghis P. A., Miller J. M., Cackett E. M., Kammoun E. S., Reynolds M. T., Tomsick J. A., Zoghbi A., 2020,, ApJ, 900, 78
-El-Batal A. M., et al., 2016,, ApJ, 826, L12
-Garcia J., Kallman T. R., 2010,, ApJ, 718, 695
-Garcia J., Dauser T., Reynolds C. S., Kallman T. R., McClintock J. E., Wilms J., Eikmann W., 2013,, ApJ, 768, 146
-Garcia J., et al., 2014,, ApJ, 782, 76
-Gatuzz E., Diaz Trigo M., Miller-Jones J. C. A., Migliari S., 2019,, MNRAS, 482, 2597
-Gofford J., Reeves J. N., Tombesi F., Braito V., Turner T. J., Miller L., Cappi M., 2013,, MNRAS, 430, 60
-Guan J., et al., 2021,, MNRAS, 504, 2168
+Connors R. M. T., et al., 2021, ApJ, 909, 146
+Dauser T., García J., Wilms J., Bock M., Brenneman L. W., Falanga M., Fukumura K., Reynolds C. S., 2013, MNRAS, 430, 1694
+Draghis P. A., Miller J. M., Cackett E. M., Kammoun E. S., Reynolds M. T., Tomsick J. A., Zoghbi A., 2020, ApJ, 900, 78
+El-Batal A. M., et al., 2016, ApJ, 826, L12
+García J., Kallman T. R., 2010, ApJ, 718, 695
+García J., Dauser T., Reynolds C. S., Kallman T. R., McClintock J. E., Wilms J., Eikmann W., 2013, ApJ, 768, 146
+García J., et al., 2014, ApJ, 782, 76
+Gatuzz E., Diaz Trigo M., Miller-Jones J. C. A., Migliari S., 2019, MNRAS, 482, 2597
+Gofford J., Reeves J. N., Tombesi F., Braito V., Turner T. J., Miller L., Cappi M., 2013, MNRAS, 430, 60
+Guan J., et al., 2021, MNRAS, 504, 2168
 Guo C.-C., et al., 2020, Journal of High Energy Astrophysics, 27, 44
-Harrison F. A., et al., 2013,, ApJ, 770, 103
-Huang Y., et al., 2018,, ApJ, 866, 122
-Jiang J., Fabian A. C., Wang J., Walton D. J., Garcia J. A., Parker M. L., Steiner J. F., Tomsick J. A., 2019,, MNRAS, 484, 1972
+Harrison F. A., et al., 2013, ApJ, 770, 103
+Huang Y., et al., 2018, ApJ, 866, 122
+Jiang J., Fabian A. C., Wang J., Walton D. J., García J. A., Parker M. L., Steiner J. F., Tomsick J. A., 2019, MNRAS, 484, 1972
 Johannsen T., 2013, Phys. Rev. D, 88, 044002
-Jones C., Forman W., Tananbaum H., Turner M. J. L., 1976,, ApJ, 210, L9
-King A. L., et al., 2014,, ApJ, 784, L2
+Jones C., Forman W., Tananbaum H., Turner M. J. L., 1976, ApJ, 210, L9
+King A. L., et al., 2014, ApJ, 784, L2
 Kong L. D., et al., 2020, Journal of High Energy Astrophysics, 25, 29
-Kuulkers E., Wijnands R., Belloni T., Mendez M., van der Klis M., van Paradijs J., 1998,, ApJ, 494, 753
+Kuulkers E., Wijnands R., Belloni T., Mendez M., van der Klis M., van Paradijs J., 1998, ApJ, 494, 753
 Liao J.-Y., et al., 2020a, Journal of High Energy Astrophysics, 27, 14
 Liao J.-Y., et al., 2020b, Journal of High Energy Astrophysics, 27, 24
-Liu H., Ji L., Bambi C., Jain P., Misra R., Rawat D., Yadav J. S., Zhang Y., 2021,, ApJ, 909, 63
+Liu H., Ji L., Bambi C., Jain P., Misra R., Rawat D., Yadav J. S., Zhang Y., 2021, ApJ, 909, 63
 Matsuoka M., et al., 2009, PASJ, 61, 999
 McClintock J. E., Narayan R., Steiner J. F., 2014, Space Sci. Rev., 183, 295
-Miller J. M., Cackett E. M., Reis R. C., 2009,, ApJ, 707, L77
-Miller J. M., et al., 2013,, ApJ, 775, L45
-Miller J. M., et al., 2018,, ApJ, 860, L28
-Miniutti G., Fabian A. C., Goyder R., Lasenby A. N., 2003,, MNRAS, 344, L22
+Miller J. M., Cackett E. M., Reis R. C., 2009, ApJ, 707, L77
+Miller J. M., et al., 2013, ApJ, 775, L45
+Miller J. M., et al., 2018, ApJ, 860, L28
+Miniutti G., Fabian A. C., Goyder R., Lasenby A. N., 2003, MNRAS, 344, L22
 Mitsuda K., et al., 1984, PASJ, 36, 741
-Munoz-Darias T., Coriat M., Plant D. S., Ponti G., Fender R. P., Dunn R. J. H., 2013,, MNRAS, 432, 1330
+Munoz-Darias T., Coriat M., Plant D. S., Ponti G., Fender R. P., Dunn R. J. H., 2013, MNRAS, 432, 1330
 Nakahira S., et al., 2018, PASJ, 70, 95
-Pahari M., et al., 2018,, ApJ, 867, 86
+Pahari M., et al., 2018, ApJ, 867, 86
 Pinto C., Fabian A., Middleton M., Walton D., 2017, Astronomische Nachrichten, 338, 234
 Priedhorsky W., 1986, Ap&SS, 126, 89
-Reis R. C., Fabian A. C., Ross R. R., Miniutti G., Miller J. M., Reynolds C., 2008,, MNRAS, 387, 1489
+Reis R. C., Fabian A. C., Ross R. R., Miniutti G., Miller J. M., Reynolds C., 2008, MNRAS, 387, 1489
 Reynolds C. S., 2014, Space Sci. Rev., 183, 277
 Reynolds C. S., 2019, Nature Astronomy, 3, 41
-Reynolds C. S., Brenneman L. W., Lohfink A. M., Trippe M. L., Miller J. M., Fabian A. C., Nowak M. A., 2012,, ApJ, 755, 88
+Reynolds C. S., Brenneman L. W., Lohfink A. M., Trippe M. L., Miller J. M., Fabian A. C., Nowak M. A., 2012, ApJ, 755, 88
 Riaz S., Abdikamalov A. B., Ayzenberg D., Bambi C., Wang H., Yu Z., 2020, arXiv e-prints, p. arXiv:2012.07469
-Riaz S., Szanecki M., Niedzwiecki A., Ayzenberg D., Bambi C., 2021,, ApJ, 910, 49
+Riaz S., Szanecki M., Niedzwiecki A., Ayzenberg D., Bambi C., 2021, ApJ, 910, 49
 Robinson D. C., 1975, Phys. Rev. Lett., 34, 905
-Ross R. R., Fabian A. C., 2005,, MNRAS, 358, 211
-Ross R. R., Fabian A. C., 2007,, MNRAS, 381, 1697
-Seifina E., Titarchuk L., Shaposhnikov N., 2014,, ApJ, 789, 57
-Sridhar N., Bhattacharyya S., Chandra S., Antia H. M., 2019,, MNRAS, 487, 4221
-Steiner J. F., Garcia J. A., Eikmann W., McClintock J. E., Brenneman L. W., Dauser T., Fabian A. C., 2017,, ApJ, 836, 119
-Svensson R., Zdziarski A. A., 1994,, ApJ, 436, 599
-Tetarenko B. E., Sivakoff G. R., Heinke C. O., Gladstone J. C., 2016,, ApJS, 222, 15
+Ross R. R., Fabian A. C., 2005, MNRAS, 358, 211
+Ross R. R., Fabian A. C., 2007, MNRAS, 381, 1697
+Seifina E., Titarchuk L., Shaposhnikov N., 2014, ApJ, 789, 57
+Sridhar N., Bhattacharyya S., Chandra S., Antia H. M., 2019, MNRAS, 487, 4221
+Steiner J. F., García J. A., Eikmann W., McClintock J. E., Brenneman L. W., Dauser T., Fabian A. C., 2017, ApJ, 836, 119
+Svensson R., Zdziarski A. A., 1994, ApJ, 436, 599
+Tetarenko B. E., Sivakoff G. R., Heinke C. O., Gladstone J. C., 2016, ApJS, 222, 15
 Tombesi F., Cappi M., Reeves J. N., Palumbo G. G. C., Yaqoob T., Braito V., Dadina M., 2010, A&A, 521, A57
-Tripathi A., Abdikamalov A. B., Ayzenberg D., Bambi C., Grinberg V., Zhou M., 2021a,, ApJ, 907, 31
-Tripathi A., Zhang Y., Abdikamalov A. B., Ayzenberg D., Bambi C., Jiang J., Liu H., Zhou M., 2021b,, ApJ, 913, 79
-Verner D. A., Ferland G. J., Korista K. T., Yakovlev D. G., 1996,, ApJ, 465, 487
-Wilkins D. R., Gallo L. C., 2015,, MNRAS, 449, 129
-Wilms J., Allen A., McCray R., 2000,, ApJ, 542, 914
-Xu Y., et al., 2018a,, ApJ, 852, L34
-Xu Y., et al., 2018b,, ApJ, 865, 18
-Xu Y., Nampalliwar S., Abdikamalov A. B., Ayzenberg D., Bambi C., Dauser T., Garcia J. A., Jiang J., 2018c,, ApJ, 865, 134
-Zdziarski A. A., Johnson W. N., Magdziarz P., 1996,, MNRAS, 283, 193
-Zhang S. N., Cui W., Chen W., 1997,, ApJ, 482, L155
+Tripathi A., Abdikamalov A. B., Ayzenberg D., Bambi C., Grinberg V., Zhou M., 2021a, ApJ, 907, 31
+Tripathi A., Zhang Y., Abdikamalov A. B., Ayzenberg D., Bambi C., Jiang J., Liu H., Zhou M., 2021b, ApJ, 913, 79
+Verner D. A., Ferland G. J., Korista K. T., Yakovlev D. G., 1996, ApJ, 465, 487
+Wilkins D. R., Gallo L. C., 2015, MNRAS, 449, 129
+Wilms J., Allen A., McCray R., 2000, ApJ, 542, 914
+Xu Y., et al., 2018a, ApJ, 852, L34
+Xu Y., et al., 2018b, ApJ, 865, 18
+Xu Y., Nampalliwar S., Abdikamalov A. B., Ayzenberg D., Bambi C., Dauser T., García J. A., Jiang J., 2018c, ApJ, 865, 134
+Zdziarski A. A., Johnson W. N., Magdziarz P., 1996, MNRAS, 283, 193
+Zhang S. N., Cui W., Chen W., 1997, ApJ, 482, L155
 Zhang S., Lu F. J., Zhang S. N., Li T. P., 2014, in Takahashi T., den Herder J.-W. A., Bautz M., eds, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series Vol. 9144, Space Telescopes and Instrumentation 2014: Ultraviolet to Gamma Ray. p. 914421, doi:10.1117/12.2054144
-Zhang Y., Abdikamalov A. B., Ayzenberg D., Bambi C., Nampalliwar S., 2019,, ApJ, 884, 147
+Zhang Y., Abdikamalov A. B., Ayzenberg D., Bambi C., Nampalliwar S., 2019, ApJ, 884, 147
 Zhao X.-S., et al., 2020, Journal of High Energy Astrophysics, 27, 53
-Zhao X., et al., 2021,, ApJ, 916, 108
-Zycki P. T., Done C., Smith D. A., 1999,, MNRAS, 309, 561
+Zhao X., et al., 2021, ApJ, 916, 108
+Zycki P. T., Done C., Smith D. A., 1999, MNRAS, 309, 561

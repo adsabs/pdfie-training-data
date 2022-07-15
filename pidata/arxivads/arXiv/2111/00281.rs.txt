@@ -1,35 +1,35 @@
-Arons, J., & Barnard, J. J. 1986,, ApJ, 302, 120
-Barnard, J. J. 1986,, ApJ, 303, 280
-Beloborodov, A. M., & Thompson, C. 2007,, ApJ, 657, 967
-Beskin, V. S., & Philippov, A. A. 2012,, MNRAS, 425, 814
+Arons, J., & Barnard, J. J. 1986, ApJ, 302, 120
+Barnard, J. J. 1986, ApJ, 303, 280
+Beloborodov, A. M., & Thompson, C. 2007, ApJ, 657, 967
+Beskin, V. S., & Philippov, A. A. 2012, MNRAS, 425, 814
 Budden, K. G. 1952, Proceedings of the Royal Society of London Series A, 215, 215
-Caleb, M., van Straten, W., Keane, E. F., Jameson, A., Bailes, M., Barr, E. D., Flynn, C., Ilie, C. D., Petroff, E., Rogers, A., Stappers, B. W., Venkatraman Krishnan, V., & Weltevrede, P. 2019,, MNRAS, 487, 1191
-Cheng, A. F., & Ruderman, M. A. 1979,, ApJ, 229, 348
+Caleb, M., van Straten, W., Keane, E. F., Jameson, A., Bailes, M., Barr, E. D., Flynn, C., Ilie, C. D., Petroff, E., Rogers, A., Stappers, B. W., Venkatraman Krishnan, V., & Weltevrede, P. 2019, MNRAS, 487, 1191
+Cheng, A. F., & Ruderman, M. A. 1979, ApJ, 229, 348
 Ginzburg, V. L., & Syrovatskii, S. I. 1965, ARA&A, 3, 297
-Goldreich, P., & Julian, W. H. 1969,, ApJ, 157, 869
---. 1970,, ApJ, 160, 971
-Heyl, J. S., & Shaviv, N. J. 2000,, MNRAS, 311, 555
-Jones, P. B. 2020,, MNRAS, 498, 5003
-Kazbegi, A. Z., Machabeli, G. Z., & Melikidze, G. I. 1991a,, MNRAS, 253, 377
+Goldreich, P., & Julian, W. H. 1969, ApJ, 157, 869
+—. 1970, ApJ, 160, 971
+Heyl, J. S., & Shaviv, N. J. 2000, MNRAS, 311, 555
+Jones, P. B. 2020, MNRAS, 498, 5003
+Kazbegi, A. Z., Machabeli, G. Z., & Melikidze, G. I. 1991a, MNRAS, 253, 377
 Kazbegi, A. Z., Machabeli, G. Z., Melikidze, G. I., & Smirnova, T. V. 1991b, Astrophysics, 34, 234
 Lyutikov, M. 1999, Journal of Plasma Physics, 62, 65
---. 2002,, ApJ, 580, L65
---. 2007,, MNRAS, 381, 1190
---. 2021a, arXiv e-prints, arXiv:2102.07010
---. 2021b, arXiv e-prints, arXiv:2109.02524
-Lyutikov, M., & Gavriil, F. P. 2006,, MNRAS, 368, 690
+—. 2002, ApJ, 580, L65
+—. 2007, MNRAS, 381, 1190
+—. 2021a, arXiv e-prints, arXiv:2102.07010
+—. 2021b, arXiv e-prints, arXiv:2109.02524
+Lyutikov, M., & Gavriil, F. P. 2006, MNRAS, 368, 690
 Lyutikov, M., & Popov, S. 2020, arXiv e-prints, arXiv:2005.05093
-Masui, K., Lin, H.-H., Sievers, J., Anderson, C. J., Chang, T.-C., Chen, X., Ganguly, A., Jarvis, M., Kuo, C.-Y., Li, Y.-C., Liao, Y.-W., McLaughlin, M., Pen, U.-L., Peterson, J. B., Roman, A., Timbie, P. T., Voytek, T., & Yadav, J. K. 2015,, Nature, 528, 523
-Michel, F. C. 1969,, ApJ, 158, 727
---. 1973,, ApJ, 180, L133
-Michilli, D., Seymour, A., Hessels, J. W. T., Spitler, L. G., Gajjar, V., Archibald, A. M., Bower, G. C., Chatterjee, S., Cordes, J. M., Gourdji, K., Heald, G. H., Kaspi, V. M., Law, C. J., Sobey, C., Adams, E. A. K., Bassa, C. G., Bogdanov, S., Brinkman, C., Demorest, P., Fernandez, F., Hellbourg, G., Lazio, T. J. W., Lynch, R. S., Maddox, N., Marcote, B., McLaughlin, M. A., Paragi, Z., Ransom, S. M., Scholz, P., Siemion, A. P. V., Tendulkar, S. P., van Rooy, P., Wharton, R. S., & Whitlow, D. 2018,, Nature, 553, 182
+Masui, K., Lin, H.-H., Sievers, J., Anderson, C. J., Chang, T.-C., Chen, X., Ganguly, A., Jarvis, M., Kuo, C.-Y., Li, Y.-C., Liao, Y.-W., McLaughlin, M., Pen, U.-L., Peterson, J. B., Roman, A., Timbie, P. T., Voytek, T., & Yadav, J. K. 2015, Nature, 528, 523
+Michel, F. C. 1969, ApJ, 158, 727
+—. 1973, ApJ, 180, L133
+Michilli, D., Seymour, A., Hessels, J. W. T., Spitler, L. G., Gajjar, V., Archibald, A. M., Bower, G. C., Chatterjee, S., Cordes, J. M., Gourdji, K., Heald, G. H., Kaspi, V. M., Law, C. J., Sobey, C., Adams, E. A. K., Bassa, C. G., Bogdanov, S., Brinkman, C., Demorest, P., Fernandez, F., Hellbourg, G., Lazio, T. J. W., Lynch, R. S., Maddox, N., Marcote, B., McLaughlin, M. A., Paragi, Z., Ransom, S. M., Scholz, P., Siemion, A. P. V., Tendulkar, S. P., van Rooy, P., Wharton, R. S., & Whitlow, D. 2018, Nature, 553, 182
 Petroff, E., Hessels, J. W. T., & Lorimer, D. R. 2019, A&A Rev., 27, 4
-Petrova, S. A. 2006,, MNRAS, 366, 1539
+Petrova, S. A. 2006, MNRAS, 366, 1539
 Petrova, S. A., & Lyubarskii, Y. E. 2000, A&A, 355, 1168
 Popov, S. B., & Postnov, K. A. 2013, arXiv e-prints, arXiv:1307.4924
-Price, D. C., Foster, G., Geyer, M., van Straten, W., Gajjar, V., Hellbourg, G., Karastergiou, A., Keane, E. F., Siemion, A. P. V., Arcavi, I., Bhat, R., Caleb, M., Chang, S. W., Croft, S., DeBoer, D., de Pater, I., Drew, J., Enriquez, J. E., Farah, W., Gizani, N., Green, J. A., Isaacson, H., Hickish, J., Jameson, A., Lebofsky, M., MacMahon, D. H. E., Moller, A., Onken, C. A., Petroff, E., Werthimer, D., Wolf, C., Worden, S. P., & Zhang, Y. G. 2019,, MNRAS, 486, 3636
+Price, D. C., Foster, G., Geyer, M., van Straten, W., Gajjar, V., Hellbourg, G., Karastergiou, A., Keane, E. F., Siemion, A. P. V., Arcavi, I., Bhat, R., Caleb, M., Chang, S. W., Croft, S., DeBoer, D., de Pater, I., Drew, J., Enriquez, J. E., Farah, W., Gizani, N., Green, J. A., Isaacson, H., Hickish, J., Jameson, A., Lebofsky, M., MacMahon, D. H. E., Moller, A., Onken, C. A., Petroff, E., Werthimer, D., Wolf, C., Worden, S. P., & Zhang, Y. G. 2019, MNRAS, 486, 3636
 Radhakrishnan, V., & Cooke, D. J. 1969, Astrophys. Lett., 3, 225
 Ravi, V., Shannon, R. M., Bailes, M., Bannister, K., Bhandari, S., Bhat, N. D. R., Burke-Spolaor, S., Caleb, M., Flynn, C., Jameson, A., Johnston, S., Keane, E. F., Kerr, M., Tiburzi, C., Tuntsov, A. V., & Vedantham, H. K. 2016, Science, 354, 1249
-Thompson, C., Blandford, R. D., Evans, C. R., & Phinney, E. S. 1994,, ApJ, 422, 304
-Thompson, C., Lyutikov, M., & Kulkarni, S. R. 2002,, ApJ, 574, 332
+Thompson, C., Blandford, R. D., Evans, C. R., & Phinney, E. S. 1994, ApJ, 422, 304
+Thompson, C., Lyutikov, M., & Kulkarni, S. R. 2002, ApJ, 574, 332
 Zheleznyakov, V. V. 1996, Radiation in Astrophysical Plasmas, Vol. 204

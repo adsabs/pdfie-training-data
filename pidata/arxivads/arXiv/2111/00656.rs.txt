@@ -1,41 +1,41 @@
 Arber, T. D., Bennett, K., Brady, C. S., et al. 2015, Plasma Physics and Controlled Fusion, 57, 113001
-Beloborodov, A. M. 2020,, ApJ, 896, 142
-Blandford, R. D., & Scharlemann, E. T. 1976,, MNRAS, 174, 59
-Coppi, P., Blandford, R. D., & Rees, M. J. 1993,, MNRAS, 262, 603
+Beloborodov, A. M. 2020, ApJ, 896, 142
+Blandford, R. D., & Scharlemann, E. T. 1976, MNRAS, 174, 59
+Coppi, P., Blandford, R. D., & Rees, M. J. 1993, MNRAS, 262, 603
 Drake, J. F., Kaw, P. K., Lee, Y. C., et al. 1974, Physics of Fluids, 17, 778
 Edwards, M. R., Fisch, N. J., & Mikhailova, J. M. 2016, Phys. Rev. Lett., 116, 015004
 Galeev, A. A., & Syunyaev, R. A. 1973, Soviet Journal of Experimental and Theoretical Physics, 36, 669
-Gedalin, M., & Eichler, D. 1993,, ApJ, 406, 629
-Iwamoto, M., Amano, T., Hoshino, M., & Matsumoto, Y. 2017,, ApJ, 840, 52
+Gedalin, M., & Eichler, D. 1993, ApJ, 406, 629
+Iwamoto, M., Amano, T., Hoshino, M., & Matsumoto, Y. 2017, ApJ, 840, 52
 Karpman, V. I. 1975, Non-linear waves in dispersive media. (Oxford: Pergamon Press)
-Kumar, P., & Lu, W. 2020,, MNRAS, 494, 1217
+Kumar, P., & Lu, W. 2020, MNRAS, 494, 1217
 Lin, A. T., & Dawson, J. M. 1975, Physics of Fluids, 18, 201
 Litvak, A. G., & Trakhtengerts, V. Y. 1971, Soviet Journal of Experimental and Theoretical Physics, 33, 921
-Lu, W., & Kumar, P. 2018,, MNRAS, 477, 2470
-Luan, J., & Goldreich, P. 2014,, ApJ, 785, L26
+Lu, W., & Kumar, P. 2018, MNRAS, 477, 2470
+Luan, J., & Goldreich, P. 2014, ApJ, 785, L26
 Lyubarskii, Y. E., & Petrova, S. A. 1996, Astronomy Letters, 22, 399
-Lyubarsky, Y. 2008,, ApJ, 682, 1443
---. 2019,, MNRAS, 490, 1474
---. 2020,, ApJ, 897, 1
-Lyubarsky, Y., & Ostrovska, S. 2016,, ApJ, 818, 74
+Lyubarsky, Y. 2008, ApJ, 682, 1443
+—. 2019, MNRAS, 490, 1474
+—. 2020, ApJ, 897, 1
+Lyubarsky, Y., & Ostrovska, S. 2016, ApJ, 818, 74
 Max, C. E., Arons, J., & Langdon, A. B. 1974, Phys. Rev. Lett., 33, 209
 Melrose, D. B. 1980, Plasma astro-physics: Nonthermal processes in diffuse magnetized plasmas. Volume 1 - The emission, absorption and transfer of waves in plasmas (Gordon and Breach)
-Metzger, B. D., Margalit, B., & Sironi, L. 2019,, MNRAS, 485, 4091
-Montes, C. 1977,, ApJ, 216, 329
+Metzger, B. D., Margalit, B., & Sironi, L. 2019, MNRAS, 485, 4091
+Montes, C. 1977, ApJ, 216, 329
 Montgomery, D., & Tidman, D. A. 1964, Physics of Fluids, 7, 242
 Mourou, G. A., Tajima, T., & Bulanov, S. V. 2006, Reviews of Modern Physics, 78, 309
 Ott, E., Manheimer, W. M., & Klein, H. H. 1974, Physics of Fluids, 17, 1757
-Petrova, S. A. 2008a,, MNRAS, 385, 2143
---. 2008b,, ApJ, 673, 400
---. 2009,, MNRAS, 395, 1723
+Petrova, S. A. 2008a, MNRAS, 385, 2143
+—. 2008b, ApJ, 673, 400
+—. 2009, MNRAS, 395, 1723
 Schluck, F., Lehmann, G., & Spatschek, K. H. 2017, Phys. Rev. E, 96, 053204
 Schmidt, G. 1979, Physics of high temperature plasmas /2nd edition/ (Academic Press)
 Sironi, L., Plotnikov, I., Nattila, J., & Beloborodov, A. M. 2021, Phys. Rev. Lett., 127, 035101
 Sluijter, F. W., & Montgomery, D. 1965, Physics of Fluids, 8, 551
-Sobacchi, E., Lyubarsky, Y., Beloborodov, A. M., & Sironi, L. 2020,, MNRAS, 500, 272
-Spitkovsky, A. 2008,, ApJ, 673, L39
+Sobacchi, E., Lyubarsky, Y., Beloborodov, A. M., & Sironi, L. 2020, MNRAS, 500, 272
+Spitkovsky, A. 2008, ApJ, 673, L39
 Syunyaev, R. A. 1971, Soviet Ast., 15, 190
-Thompson, C., Blandford, R. D., Evans, C. R., & Phinney, E. S. 1994,, ApJ, 422, 304
-Wilson, D. B. 1982,, MNRAS, 200, 881
-Wilson, D. B., & Rees, M. J. 1978,, MNRAS, 185, 297
+Thompson, C., Blandford, R. D., Evans, C. R., & Phinney, E. S. 1994, ApJ, 422, 304
+Wilson, D. B. 1982, MNRAS, 200, 881
+Wilson, D. B., & Rees, M. J. 1978, MNRAS, 185, 297
 Zel'Dovich, Y. B., Levich, E. V., & Syunyaev, R. A. 1972, Soviet Journal of Experimental and Theoretical Physics, 35, 733

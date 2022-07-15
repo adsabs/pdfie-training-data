@@ -1,55 +1,55 @@
-Allen M. G., Groves B. A., Dopita M. A., Sutherland R. S., Kewley L. J., 2008,, ApJS, 178, 20
+Allen M. G., Groves B. A., Dopita M. A., Sutherland R. S., Kewley L. J., 2008, ApJS, 178, 20
 Arias M., et al., 2018, A&A, 612, A110
 Barlow M. J., et al., 2010, A&A, 518, L138
 Bertoldi F., Carilli C. L., Cox P., Fan X., Strauss M. A., Beelen A., Omont A., Zylka R., 2003, A&A, 406, L55
-Bevan A., Barlow M. J., 2016,, MNRAS, 456, 1269
-Bevan A., Barlow M. J., Milisavljevic D., 2017,, MNRAS, 465, 4044
-Bevan A., et al., 2019,, MNRAS, 485, 5192
-Bevan A. M., et al., 2020,, ApJ, 894, 111
-Chawner H., et al., 2019,, MNRAS, 483, 70
-Chawner H., et al., 2020,, MNRAS, 493, 2706
-De Looze I., Barlow M. J., Swinyard B. M., Rho J., Gomez H. L., Matsuura M., Wesson R., 2017,, MNRAS, 465, 3309
-De Looze I., et al., 2019,, MNRAS, 488, 164
-De Looze I., et al., 2020,, MNRAS, 496, 3668
-DeLaney T., Kassim N. E., Rudnick L., Perley R. A., 2014,, ApJ, 785, 7
+Bevan A., Barlow M. J., 2016, MNRAS, 456, 1269
+Bevan A., Barlow M. J., Milisavljevic D., 2017, MNRAS, 465, 4044
+Bevan A., et al., 2019, MNRAS, 485, 5192
+Bevan A. M., et al., 2020, ApJ, 894, 111
+Chawner H., et al., 2019, MNRAS, 483, 70
+Chawner H., et al., 2020, MNRAS, 493, 2706
+De Looze I., Barlow M. J., Swinyard B. M., Rho J., Gomez H. L., Matsuura M., Wesson R., 2017, MNRAS, 465, 3309
+De Looze I., et al., 2019, MNRAS, 488, 164
+De Looze I., et al., 2020, MNRAS, 496, 3668
+DeLaney T., Kassim N. E., Rudnick L., Perley R. A., 2014, ApJ, 785, 7
 Docenko D., Sunyaev R. A., 2010, A&A, 509, A59
 Dorschner J., Begemann B., Henning T., Jaeger C., Mutschke H., 1995, A&A, 300, 503
-Dwek E., Galliano F., Jones A. P., 2007,, ApJ, 662, 927
+Dwek E., Galliano F., Jones A. P., 2007, ApJ, 662, 927
 Foreman-Mackey D., Hogg D. W., Lang D., Goodman J., 2013, PASP, 125, 306
-Gall C., et al., 2014,, Nature, 511, 326
+Gall C., et al., 2014, Nature, 511, 326
 Galliano F., et al., 2021, A&A, 649, A18
-Hwang U., Laming J. M., 2012,, ApJ, 746, 130
-Isensee K., Rudnick L., DeLaney T., Smith J. D., Rho J., Reach W. T., Kozasa T., Gomez H., 2010,, ApJ, 725, 2059
+Hwang U., Laming J. M., 2012, ApJ, 746, 130
+Isensee K., Rudnick L., DeLaney T., Smith J. D., Rho J., Reach W. T., Kozasa T., Gomez H., 2010, ApJ, 725, 2059
 Jager C., Dorschner J., Mutschke H., Posch T., Henning T., 2003, A&A, 408, 193
-Kirchschlager F., Schmidt F. D., Barlow M. J., Fogerty E. L., Bevan A., Priestley F. D., 2019,, MNRAS, 489, 4465
-Kirchschlager F., Barlow M. J., Schmidt F. D., 2020,, ApJ, 893, 70
-Koo B.-C., Kim H.-J., Lee Y.-H., Raymond J. C., Lee J.-J., Yoon S.-C., Moon D.-S., 2018,, ApJ, 866, 139
-Laming J. M., Temim T., 2020,, ApJ, 904, 115
-Laor A., Draine B. T., 1993,, ApJ, 402, 441
-Mart inez-Gonzalez S., Wunsch R., Silich S., Tenorio-Tagle G., Palous J., Ferrara A., 2019,, ApJ, 887, 198
-Mathis J. S., Rumpl W., Nordsieck K. H., 1977,, ApJ, 217, 425
-Matsuura M., et al., 2015,, ApJ, 800, 50
-Matsuura M., et al., 2019,, MNRAS, 482, 1715
+Kirchschlager F., Schmidt F. D., Barlow M. J., Fogerty E. L., Bevan A., Priestley F. D., 2019, MNRAS, 489, 4465
+Kirchschlager F., Barlow M. J., Schmidt F. D., 2020, ApJ, 893, 70
+Koo B.-C., Kim H.-J., Lee Y.-H., Raymond J. C., Lee J.-J., Yoon S.-C., Moon D.-S., 2018, ApJ, 866, 139
+Laming J. M., Temim T., 2020, ApJ, 904, 115
+Laor A., Draine B. T., 1993, ApJ, 402, 441
+Mart inez-Gonzalez S., Wunsch R., Silich S., Tenorio-Tagle G., Palous J., Ferrara A., 2019, ApJ, 887, 198
+Mathis J. S., Rumpl W., Nordsieck K. H., 1977, ApJ, 217, 425
+Matsuura M., et al., 2015, ApJ, 800, 50
+Matsuura M., et al., 2019, MNRAS, 482, 1715
 Milisavljevic D., Fesen R. A., 2015, Science, 347, 526
-Morgan H. L., Edmunds M. G., 2003,, MNRAS, 343, 427
+Morgan H. L., Edmunds M. G., 2003, MNRAS, 343, 427
 Nanni A., Burgarella D., Theule P., Cote B., Hirashita H., 2020, A&A, 641, A168
-Niculescu-Duvaz M., Barlow M. J., Bevan A., Milisavljevic D., De Looze I., 2021,, MNRAS, 504, 2133
-Nozawa T., Kozasa T., Habe A., Dwek E., Umeda H., Tominaga N., Maeda K., Nomoto K., 2007,, ApJ, 666, 955
-Owen P. J., Barlow M. J., 2015,, ApJ, 801, 141
-Priddey R. S., Isaak K. G., McMahon R. G., Robson E. I., Pearson C. P., 2003,, MNRAS, 344, L74
-Priestley F. D., Barlow M. J., De Looze I., 2019,, MNRAS, 485, 440
-Priestley F. D., Barlow M. J., De Looze I., Chawner H., 2020,, MNRAS, 491, 6020
+Niculescu-Duvaz M., Barlow M. J., Bevan A., Milisavljevic D., De Looze I., 2021, MNRAS, 504, 2133
+Nozawa T., Kozasa T., Habe A., Dwek E., Umeda H., Tominaga N., Maeda K., Nomoto K., 2007, ApJ, 666, 955
+Owen P. J., Barlow M. J., 2015, ApJ, 801, 141
+Priddey R. S., Isaak K. G., McMahon R. G., Robson E. I., Pearson C. P., 2003, MNRAS, 344, L74
+Priestley F. D., Barlow M. J., De Looze I., 2019, MNRAS, 485, 440
+Priestley F. D., Barlow M. J., De Looze I., Chawner H., 2020, MNRAS, 491, 6020
 Priestley F. D., De Looze I., Barlow M. J., 2021, arXiv e-prints, p. arXiv:2110.06952
-Raymond J. C., Koo B.-C., Lee Y.-H., Milisavljevic D., Fesen R. A., Chilingarian I., 2018,, ApJ, 866, 128
-Reed J. E., Hester J. J., Fabian A. C., Winkler P. F., 1995,, ApJ, 440, 706
-Rho J., et al., 2008,, ApJ, 673, 271
-Rho J., et al., 2018,, MNRAS, 479, 5101
-Slavin J. D., Dwek E., Mac Low M.-M., Hill A. S., 2020,, ApJ, 902, 135
-Smith J. D. T., Rudnick L., Delaney T., Rho J., Gomez H., Kozasa T., Reach W., Isensee K., 2009,, ApJ, 693, 713
-Toala J. A., et al., 2021,, MNRAS, 503, 1543
-Wang W., Li Z., 2016,, ApJ, 825, 102
-Watson D., Christensen L., Knudsen K. K., Richard J., Gallazzi A., Michalowski M. J., 2015,, Nature, 519, 327
-Wesson R., Barlow M. J., Matsuura M., Ercolano B., 2015,, MNRAS, 446, 2089
+Raymond J. C., Koo B.-C., Lee Y.-H., Milisavljevic D., Fesen R. A., Chilingarian I., 2018, ApJ, 866, 128
+Reed J. E., Hester J. J., Fabian A. C., Winkler P. F., 1995, ApJ, 440, 706
+Rho J., et al., 2008, ApJ, 673, 271
+Rho J., et al., 2018, MNRAS, 479, 5101
+Slavin J. D., Dwek E., Mac Low M.-M., Hill A. S., 2020, ApJ, 902, 135
+Smith J. D. T., Rudnick L., Delaney T., Rho J., Gomez H., Kozasa T., Reach W., Isensee K., 2009, ApJ, 693, 713
+Toala J. A., et al., 2021, MNRAS, 503, 1543
+Wang W., Li Z., 2016, ApJ, 825, 102
+Watson D., Christensen L., Knudsen K. K., Richard J., Gallazzi A., Michalowski M. J., 2015, Nature, 519, 327
+Wesson R., Barlow M. J., Matsuura M., Ercolano B., 2015, MNRAS, 446, 2089
 Willingale R., Bleeker J. A. M., van der Heyden K. J., Kaastra J. S., 2003, A&A, 398, 1021
-Zubko V. G., Mennella V., Colangeli L., Bussoletti E., 1996,, MNRAS, 282, 1321
+Zubko V. G., Mennella V., Colangeli L., Bussoletti E., 1996, MNRAS, 282, 1321
 de Gasperin F., et al., 2020, A&A, 635, A150

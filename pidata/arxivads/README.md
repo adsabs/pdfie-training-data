@@ -13,4 +13,5 @@ I see some artifacts in the refstrings that ADS has extracted:
 - Sometimes doubled commas
 - Em-dashes expressed as `--` ligatures.
 - Loss off accents on characters :-(
-- `astrophysics` in text became `astro-physics` in resolved ref file?? (arXiv/2111/000012, Rybicki&Lightman)
+- `astrophysics` in text became `astro-physics` in resolved ref file?? (arXiv/2111/00012, Rybicki&Lightman)
+- Duplications of references containing `[]` characters (arXiv/2111/00665)

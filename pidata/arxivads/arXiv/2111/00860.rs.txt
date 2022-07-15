@@ -1,13 +1,8 @@
 K. G. Wilson, Phys. Rev. D 10 (1974), 2445-2459 doi:10.1103/PhysRevD.10.2445
 M. Luscher and P. Weisz, Commun. Math. Phys. 97 (1985), 59 [erratum: Commun. Math. Phys. 98 (1985), 433] doi:10.1007/BF01206178
-T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 90 (2014) no.5, 054501 doi:10.1103/PhysRevD.90.054501
-T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 90, 2014, arXiv:1407.4201 [hep-lat
-O. Akerlund and P. de Forcrand, JHEP 06 (2015), 183 doi:10.1007/JHEP06(2015)183
-O. Akerlund and P. de Forcrand, JHEP 06, 2015, arXiv:1505.02666 [hep-lat
+T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 90 (2014) no.5, 054501 doi:10.1103/PhysRevD.90.054501 [arXiv:1407.4201 [hep-lat]]
+O. Akerlund and P. de Forcrand, JHEP 06 (2015), 183 doi:10.1007/JHEP06(2015)183 [arXiv:1505.02666 [hep-lat]]
 V. G. Bornyakov, M. Creutz and V. K. Mitrjushkin, Phys. Rev. D 44 (1991), 3918-3923 doi:10.1103/PhysRevD.44.3918
-D. Nogradi, L. Szikszai and Z. Varga, JHEP 08 (2018), 032 doi:10.1007/JHEP08(2018)032
-D. Nogradi, L. Szikszai and Z. Varga, JHEP 08, arXiv:1807.05295 [hep-lat
-B. B. Brandt, R. Lohmayer and T. Wettig, JHEP 07 (2019), 043 doi:10.1007/JHEP07(2019)043
-B. B. Brandt, R. Lohmayer and T. Wettig, JHEP 07, arXiv:1904.04351 [hep-lat
-W. Bietenholz, K. Jansen, K. I. Nagai, S. Necco, L. Scorzato and S. Shcheredin, JHEP 03 (2006), 017 doi:10.1088/1126-6708/2006/03/017
-W. Bietenholz, K. Jansen, K. I. Nagai, S. Necco, L. Scorzato and S. Shcheredin, JHEP 03, arXiv:hep-lat/0511016 [hep-lat
+D. Nogradi, L. Szikszai and Z. Varga, JHEP 08 (2018), 032 doi:10.1007/JHEP08(2018)032 [arXiv:1807.05295 [hep-lat]]
+B. B. Brandt, R. Lohmayer and T. Wettig, JHEP 07 (2019), 043 doi:10.1007/JHEP07(2019)043 [arXiv:1904.04351 [hep-lat]]
+W. Bietenholz, K. Jansen, K. I. Nagai, S. Necco, L. Scorzato and S. Shcheredin, JHEP 03 (2006), 017 doi:10.1088/1126-6708/2006/03/017 [arXiv:hep-lat/0511016 [hep-lat]]
