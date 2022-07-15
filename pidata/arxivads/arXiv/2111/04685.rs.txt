@@ -1,0 +1,14 @@
+Poppel, W., 1997, Fundamentals of Cosmic Physics, 18, 1
+Palous, J. and Ehlerov, S., 2017, "Gould's Belt: Local Large-Scale Structure in the Milky Way", Handbook of Supernovae, 2301
+Lallement, R., Babusiaux, C., Vergely, J. L., et al., 2019, "Gaia-2MASS 3D maps of Galactic interstellar dust within 3 kpc", A&A, 625, A135
+Alves, J., Zucker, C., Goodman, A.A., et al., 2020, "A Galactic-scale gas wave in the solar neighbourhood",, Nature, 578, 237
+Xu, Y., Hou, L. G., Bian, S. B., et al., 2021, "Local spiral structure based on the Gaia EDR3 parallaxes", A&A, 645, L8
+Torra, J., Fernndez, D. and Figueras, F., 2001, "Kinematics of young stars (I): Local irregularities", A&A, 359, 82
+Pantaleoni-Gonzalez, M., Maz-Apellniz, J., Barb, R.H., et al., 2021, "The Alma catalogue of OB stars - II. A cross-match with Gaia DR2 and an updated map of the solar neighbourhood",, MNRAS, 504, 2968
+Cantat-Gaudin, T., Anders, F., Castro-Ginard, A., et al., 2020, "Painting a portrait of the Galactic disc with its stellar clusters", A&A, 640, A1
+Bovy, J., 2015,, ApJS, "galpy: A python LIBRARY FOR GALACTIC DYNAMICS", 216, 29
+Dzib, S.A.; Loinard, L.; Ortiz-Len, G. N., et al, 2018, "Distances and Kinematics of Gould Belt Star-forming Regions with Gaia DR2 Results",, ApJ, 867 , 151D, A10
+Poggio, E., Drimmel, R., Cantat-Gaudin, T., et al., 2021, "Galactic spiral structure revealed by Gaia EDR3", A&A, send, arXiv:2103.01970
+Anders, F., Khalatyan, A., Chiappini, C., et al., 2019, "Photo-astrometric distances, extinctions, and astro-physical parameters for Gaia DR2 stars brighter than G = 18", A&A, 628, A94
+Maz Apellniz, J., 2001, "The Spatial Distribution of O-B5 Stars in the Solar Neighborhood as Measured by Hipparcos", AJ, 121, 2737
+Maz Apellniz, J., 2005, in Turon C., OFlaherty K. S., Perryman M. A. C., eds, ESA Special Publication Vol. 576, The Three-Dimensional Universe with Gaia. p. 179

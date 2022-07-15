@@ -1,0 +1,92 @@
+Aird, J., Nandra, K., Laird, E. S., et al. 2010,, MNRAS, 401, 2531, doi: 10.1111/j.1365-2966.2009.15829.x
+Allen, M. G., Groves, B. A., Dopita, M. A., Sutherland, R. S., & Kewley, L. J. 2008,, ApJS, 178, 20, doi: 10.1086/589652
+Armus, L., Bernard-Salas, J., Spoon, H. W. W., et al. 2006,, ApJ, 640, 204, doi: 10.1086/500040
+Baan, W. A., Hagiwara, Y., & Hofner, P. 2007,, ApJ, 661, 173, doi: 10.1086/513593
+Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, PASP, 93, 5, doi: 10.1086/130766
+Banda-Barragan, W., Bruggen, M., Heesen, V., et al. 2020, arXiv e-prints, arXiv:2011.05240. https://arxiv.org/abs/2011.05240
+Beirao, P., Armus, L., Lehnert, M. D., et al. 2015,, MNRAS, 451, 2640, doi: 10.1093/mnras/stv1101
+Bruggen, M., & Scannapieco, E. 2016,, ApJ, 822, 31, doi: 10.3847/0004-637X/822/1/31
+Cappellari, M., & Emsellem, E. 2004, PASP, 116, 138, doi: 10.1086/381875
+Childress, M. J., Vogt, F. P. A., Nielsen, J., & Sharp, R. G. 2014, Ap&SS, 349, 617, doi: 10.1007/s10509-013-1682-0
+Cicone, C., Maiolino, R., Sturm, E., et al. 2014, A&A, 562, A21, doi: 10.1051/0004-6361/201322464
+Cicone, C., Severgnini, P., Papadopoulos, P. P., et al. 2018,, ApJ, 863, 143, doi: 10.3847/1538-4357/aad32a
+Colbert, E. J. M., Wilson, A. S., & Bland-Hawthorn, J. 1994,, ApJ, 436, 89, doi: 10.1086/174883
+D'Agostino, J. J., Kewley, L. J., Groves, B. A., et al. 2019,, MNRAS, 485, L38, doi: 10.1093/mnrasl/slz028
+D'Agostino, J. J., Poetrodjojo, H., Ho, I.-T., et al. 2018,, MNRAS, 479, 4907, doi: 10.1093/mnras/sty1676
+Davies, R. I., Sternberg, A., Lehnert, M., & Tacconi-Garman, L. E. 2003,, ApJ, 597, 907, doi: 10.1086/378634
+Davies, R. L., Groves, B., Kewley, L. J., et al. 2017,, MNRAS, 470, 4974, doi: 10.1093/mnras/stx1559
+Dopita, M., Hart, J., McGregor, P., et al. 2007, Ap&SS, 310, 255, doi: 10.1007/s10509-007-9510-z
+Dopita, M., Rhee, J., Farage, C., et al. 2010, Ap&SS, 327, 245, doi: 10.1007/s10509-010-0335-9
+Doyon, R., Wright, G. S., & Joseph, R. D. 1994,, ApJ, 421, 115, doi: 10.1086/173630
+Engel, H., Davies, R. I., Genzel, R., et al. 2010, A&A, 524, A56, doi: 10.1051/0004-6361/201015338
+Feruglio, C., Fiore, F., Piconcelli, E., et al. 2013a, A&A, 558, A87, doi: 10.1051/0004-6361/201321275
+Feruglio, C., Fiore, F., Maiolino, R., et al. 2013b, A&A, 549, A51, doi: 10.1051/0004-6361/201219746
+Garmire, G. P., Bautz, M. W., Ford, P. G., Nousek, J. A., & Ricker, Jr., G. R. 2003, in Proc. SPIE, Vol. 4851, X-Ray and Gamma-Ray Telescopes and Instruments for Astronomy., ed. J. E. Truemper & H. D. Tananbaum, 28-44
+Gonzalez-Alfonso, E., Fischer, J., Spoon, H. W. W., et al. 2017,, ApJ, 836, 11, doi: 10.3847/1538-4357/836/1/11
+Gowardhan, A., Spoon, H., Riechers, D. A., et al. 2018,, ApJ, 859, 35, doi: 10.3847/1538-4357/aabccc
+Guillard, P., Boulanger, F., Pineau Des Forets, G., & Appleton, P. N. 2009, A&A, 502, 515, doi: 10.1051/0004-6361/200811263
+Heckman, T. M., Armus, L., & Miley, G. K. 1987, AJ, 93, 276, doi: 10.1086/114310
+--. 1990,, ApJS, 74, 833, doi: 10.1086/191522
+Hill, M. J., & Zakamska, N. L. 2014,, MNRAS, doi: 10.1093/mnras/stu123
+Hinshaw, G., Weiland, J. L., Hill, R. S., et al. 2009,, ApJS, 180, 225, doi: 10.1088/0067-0049/180/2/225
+Ho, I.-T., Kewley, L. J., Dopita, M. A., et al. 2014,, MNRAS, 444, 3894, doi: 10.1093/mnras/stu1653
+Ho, I.-T., Medling, A. M., Groves, B., et al. 2016, Ap&SS, 361, 280, doi: 10.1007/s10509-016-2865-2
+Hollenbach, D., & McKee, C. F. 1980, ApJL, 241, L47, doi: 10.1086/183358
+Hummer, D. G., & Storey, P. J. 1987,, MNRAS, 224, 801, doi: 10.1093/mnras/224.3.801
+Kartaltepe, J. S., Sanders, D. B., Le Floc'h, E., et al. 2010,, ApJ, 721, 98, doi: 10.1088/0004-637X/721/1/98
+Kartaltepe, J. S., Dickinson, M., Alexander, D. M., et al. 2012,, ApJ, 757, 23, doi: 10.1088/0004-637X/757/1/23
+Keel, W. C. 1990, AJ, 100, 356, doi: 10.1086/115519
+Kennicutt, Jr., R. C. 1998,, ApJ, 498, 541, doi: 10.1086/305588
+Kewley, L. J., Groves, B., Kauffmann, G., & Heckman, T. 2006,, MNRAS, 372, 961, doi: 10.1111/j.1365-2966.2006.10859.x
+Kewley, L. J., Nicholls, D. C., & Sutherland, R. S. 2019, ARA&A, 57, 511, doi: 10.1146/annurev-astro-081817-051832
+Kim, D.-C., Evans, A. S., Vavilkin, T., et al. 2013,, ApJ, 768, 102, doi: 10.1088/0004-637X/768/2/102
+Komossa, S., Burwitz, V., Hasinger, G., et al. 2003, ApJL, 582, L15, doi: 10.1086/346145
+Larkin, J. E., Armus, L., Knop, R. A., Soifer, B. T., & Matthews, K. 1998,, ApJS, 114, 59, doi: 10.1086/313063
+Lutz, D., Sturm, E., Genzel, R., et al. 2003, A&A, 409, 867, doi: 10.1051/0004-6361:20031165
+Madau, P., Pozzetti, L., & Dickinson, M. 1998,, ApJ, 498, 106, doi: 10.1086/305523
+Marconi, A., Oliva, E., van der Werf, P. P., et al. 2000, A&A, 357, 24
+Markwardt, C. B. 2009, in Astronomical Society of the Pacific Conference Series, Vol. 411, Astronomical Data Analysis Software and Systems XVIII, ed. D. A. Bohlender, D. Durand, & P. Dowler, 251
+Max, C. E., Canalizo, G., & de Vries, W. H. 2007, Science, 316, 1877, doi: 10.1126/science.1136205, doi:10.1126/science.1136205
+Max, C. E., Canalizo, G., Macintosh, B. A., et al. 2005,, ApJ, 621, 738, doi: 10.1086/427546
+Medling, A. M., Ammons, S. M., Max, C. E., et al. 2011,, ApJ, 743, 32, doi: 10.1088/0004-637X/743/1/32
+Medling, A. M., U, V., Guedes, J., et al. 2014,, ApJ, 784, 70, doi: 10.1088/0004-637X/784/1/70
+Medling, A. M., U, V., Rich, J. A., et al. 2015,, MNRAS, 448, 2301, doi: 10.1093/mnras/stv081
+Meijerink, R., Kristensen, L. E., Wei, A., et al. 2013,, ApJ, 762, L16, doi: 10.1088/2041-8205/762/2/L16
+Moorwood, A. F. M., van der Werf, P. P., Kotilainen, J. K., Marconi, A., & Oliva, E. 1996, A&A, 308, L1
+Muller-Sanchez, F., Nevin, R., Comerford, J. M., et al. 2018,, Nature, 556, 345, doi: 10.1038/s41586-018-0033-2UNREFEREED:
+Nardini, E., Wang, J., Fabbiano, G., et al. 2013,, ApJ, 765, 141, doi: 10.1088/0004-637X/765/2/141
+Ohyama, Y., Yoshida, M., & Takata, T. 2003, AJ, 126, 2291, doi: 10.1086/378709
+Puxley, P. J., Hawarden, T. G., & Mountain, C. M. 1990,, ApJ, 364, 77, doi: 10.1086/169386
+Rich, J. A., Dopita, M. A., Kewley, L. J., & Rupke, D. S. N. 2010,, ApJ, 721, 505, doi: 10.1088/0004-637X/721/1/505
+Rich, J. A., Kewley, L. J., & Dopita, M. A. 2011,, ApJ, 734, 87, doi: 10.1088/0004-637X/734/2/87
+Roussel, H., Helou, G., Hollenbach, D. J., et al. 2007,, ApJ, 669, 959, doi: 10.1086/521667
+Rupke, D. S. N., & Veilleux, S. 2013, ApJL, 775, L15, doi: 10.1088/2041-8205/775/1/L15
+Saito, T., Iono, D., Ueda, J., et al. 2018,, MNRAS, 475, L52, doi: 10.1093/mnrasl/slx207
+Sanders, D. B., & Mirabel, I. F. 1996, ARA&A, 34, 749, doi: 10.1146/annurev.astro.34.1.749
+Scannapieco, E., & Bruggen, M. 2015,, ApJ, 805, 158, doi: 10.1088/0004-637X/805/2/158
+Schneider, E. E., & Robertson, B. E. 2017,, ApJ, 834, 144, doi: 10.3847/1538-4357/834/2/144
+Schneider, E. E., Robertson, B. E., & Thompson, T. A. 2018,, ApJ, 862, 56, doi: 10.3847/1538-4357/aacce1
+Sharp, R. G., & Bland-Hawthorn, J. 2010,, ApJ, 711, 818, doi: 10.1088/0004-637X/711/2/818
+Spoon, H. W. W., Farrah, D., Lebouteiller, V., et al. 2013,, ApJ, 775, 127, doi: 10.1088/0004-637X/775/2/127
+Sturm, E., Gonzalez-Alfonso, E., Veilleux, S., et al. 2011, ApJL, 733, L16, doi: 10.1088/2041-8205/733/1/L16
+Sutherland, R. S., & Dopita, M. A. 2017,, ApJS, 229, 34, doi: 10.3847/1538-4365/aa6541
+Tacconi, L. J., Genzel, R., Tecza, M., et al. 1999,, ApJ, 524, 732, doi: 10.1086/307839
+Tecza, M., Genzel, R., Tacconi, L. J., et al. 2000,, ApJ, 537, 178, doi: 10.1086/309021
+Thompson, T. A., Quataert, E., Zhang, D., & Weinberg, D. H. 2016,, MNRAS, 455, 1830, doi: 10.1093/mnras/stv2428
+Treister, E., Messias, H., Privon, G. C., et al. 2020,, ApJ, 890, 149, doi: 10.3847/1538-4357/ab6b28
+U, V., Medling, A. M., Inami, H., et al. 2019,, ApJ, 871, 166, doi: 10.3847/1538-4357/aaf1c2
+van Dam, M. A., Le Mignant, D., & Macintosh, B. A. 2004, ApOpt, 43, 5458, doi: 10.1364/AO.43.005458
+van der Werf, P. P., Genzel, R., Krabbe, A., et al. 1993,, ApJ, 405, 522, doi: 10.1086/172384
+Veilleux, S., Kim, D.-C., & Sanders, D. B. 2002,, ApJS, 143, 315, doi: 10.1086/343844
+Veilleux, S., & Osterbrock, D. E. 1987,, ApJS, 63, 295, doi: 10.1086/191166
+Veilleux, S., Rupke, D. S. N., & Swaters, R. 2009, ApJL, 700, L149, doi: 10.1088/0004-637X/700/2/L149
+Veilleux, S., Shopbell, P. L., Rupke, D. S., Bland-Hawthorn, J., & Cecil, G. 2003, AJ, 126, 2185, doi: 10.1086/379000
+Veilleux, S., Melendez, M., Sturm, E., et al. 2013,, ApJ, 776, 27, doi: 10.1088/0004-637X/776/1/27
+Wagner, A. Y., Umemura, M., & Bicknell, G. V. 2013, ApJL, 763, L18, doi: 10.1088/2041-8205/763/1/L18
+Walter, F., Weiss, A., & Scoville, N. 2002, ApJL, 580, L21, doi: 10.1086/345287
+Wang, J., Nardini, E., Fabbiano, G., et al. 2014,, ApJ, 781, 55, doi: 10.1088/0004-637X/781/1/55
+Weaver, R., McCray, R., Castor, J., Shapiro, P., & Moore, R. 1977,, ApJ, 218, 377, doi: 10.1086/155692
+Wizinowich, P. L., Acton, D. S., Lai, O., et al. 2000, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4007, Adaptive Optical Systems Technology, ed. P. L. Wizinowich, 2-13
+Wright, E. L. 2006, PASP, 118, 1711, doi: 10.1086/510102
+Yoshida, M., Yagi, M., Ohyama, Y., et al. 2016,, ApJ, 820, 48, doi: 10.3847/0004-637X/820/1/48
+Yun, M. S., Hibbard, J. E., Condon, J. J., & Reddy, N. 1999, Ap&SS, 266, 29

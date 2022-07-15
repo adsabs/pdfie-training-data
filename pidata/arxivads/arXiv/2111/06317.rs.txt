@@ -1,0 +1,103 @@
+omez, C., Chanam e, J., Pinsonneault, M. H., & Carlberg, J. K. 2016,, ApJ, 829, 127
+Banerjee, D. P. K., Geballe, T. R., Evans, A., Shahbandeh, M., Woodward, C. E., Gehrz, R. D., Eyres, S. P. S., Starrfield, S. & Zijlstra, A. 2020, ApJL, 904, L23. doi:10.3847/2041-8213/abc885
+Baschek, B., Kegel, W. H., & Traving, G. 1975, Problems in Stellar Atmospheres and Envelopes, XIX, 375 pp. 75 figs.. Springer-Verlag Berlin Heidelberg New York, 75
+Bear E., Kashi A., Soker N., 2011,, MNRAS, 416, 1965. doi:10.1111/j.1365-2966.2011.19171.x
+Berger, E., Soderberg, A. M., Chevalier, R. A., et al. 2009,, ApJ, 699, 1850
+Blagorodnova, N., Klencki, J., Pejcha, O., Vreeswijk, P. M., Bond, H. E., Burdge, K. B., De, K., et al. 2021, A&A, 653, A134. doi:10.1051/0004-6361/202140525
+Blagorodnova, N., Kotak, R., Polshaw, J., et al. 2017,, ApJ, 834, 107
+Boian, I., & Groh, J. H. 2019, A&A, 621, A109.
+Cai, Y.-Z., Pastorello, A., Fraser, M., et al. 2019, A&A, 632, L6
+Campante T. L., Lund M. N., Kuszlewicz J. S., Davies G. R., Chaplin W. J., Albrecht S., Winn J. N., et al., 2016,, ApJ, 819, 85. doi:10.3847/0004-637X/819/1/85
+Carlberg, J. K., Majewski, S. R., & Arras, P. 2009,, ApJ, 700, 832
+Chamandy L., Blackman E. G., Nordhaus J., Wilson E., 2021,, MNRAS, 502, L110. doi:10.1093/mnrasl/slab017
+David T. J., Cody A. M., Hedges C. L., Mamajek E. E., Hillenbrand L. A., Ciardi D. R., Beichman C. A., et al., 2019, AJ, 158, 79. doi:10.3847/1538-3881/ab290f
+Dawson R. I., Huang C. X., Brahm R., Collins K. A., Hobson M. J., Jord an A., Dong J., et al., 2021, AJ, 161, 161. doi:10.3847/1538-3881/abd8d0
+Ferreira T., Saito R. K., Minniti D., Navarro M. G., Ramos R. C., Smith L., Lucas P. W., 2019,, MNRAS, 486, 1220. doi:10.1093/mnras/stz878 Garc
+ia-Segura, G., Villaver, E., Langer, N., Yoon, S.-C., & Manchado, A. 2014,, ApJ, 783, 74
+Geier, S., Kupfer, T., Schaffenroth, V., & Heber, U., 2016, The General Assembly of Galaxy Halos: Structure, Origin and Evolution, 317, 302. doi:10.1017/S174392131500681
+Gilkis, A., Soker, N., & Kashi, A. 2019,, MNRAS, 482, 4233
+Gill S., Wheatley P. J., Cooke B. F., Jord an A., Nielsen L. D., Bayliss D., Anderson D. R., et al., 2020, ApJL, 898, L11. doi:10.3847/2041-8213/ab9eb9
+Guidarelli G., Nordhaus J., Carroll-Nellenback J., Chamandy L., Blackman E. G., Frank A., 2021, arXiv, 2105.00077
+Guidarelli G., Nordhaus J., Chamandy L., Chen Z., Blackman E. G., Frank A., Carroll-Nellenback J., et al., 2019,, MNRAS, 490, 1179. doi:10.1093/mnras/stz2641
+Guo, J., Lin, L., Bai, C., & Liu, J., 2016, Ap&SS, 361, 122. doi:10.1007/s10509-016-2684-5
+Hegazi A., Bear E., Soker N., 2020,, MNRAS, 496, 612. doi:10.1093/mnras/staa1551
+Howitt, G., Stevenson, S., Vigna-G omez, A., Justham, S., Ivanova, N., Woods, T. E., Neijssel, C. J., & Mandel, I. 2020,, MNRAS, 492, 3229. doi:10.1093/mnras/stz3542 Hubov
+a D., Pejcha O., 2019,, MNRAS, 489, 891. doi:10.1093/mnras/stz2208
+Ivanova, N., Justham, S., Avendano Nandez, J. L., & Lombardi, J. C. 2013, Science, 339, 433
+Jencson, J. E., Kasliwal, M. M., Adams, S. M., et al. 2019,, ApJ, 886, 40
+Jimenez, R., Gr ae JOrgensen, U., & Verde, L. 2020, JCAP, 2020, 027. doi:10.1088/1475-7516/2020/10/027 Kami
+nski T., Mason E., Tylenda R., Schmidt M. R., 2015, A&A, 580, A34. doi:10.1051/0004-6361/201526212 Kami
+nski T., Steffen W., Bujarrabal V., Tylenda R., Menten K. M., Hajduk M., 2021a, A&A, 646, A1. doi:10.1051/0004-6361/202039634 Kami
+nski T., Steffen W., Tylenda R., Young K. H., Patel N. A., Menten K. M., 2018, A&A, 617, A129. doi:10.1051/0004-6361/201833165 Kami
+nski T., Tylenda R., Kiljan A., Schmidt M., Lisiecki K., Melis C., Frankowski A., et al., 2021b, arXiv, 2106.07427
+Kashi, A. 2018, Galaxies, 6, 82. doi:10.3390/galaxies6030082
+Kashi, A., Frankowski, A., & Soker, N. 2010, ApJL, 709, L11
+Kashi, A., Michaelis, A. M., & Feigin, L. 2019, Galaxies, 8, 2. doi:10.3390/galaxies8010002
+Kashi, A., & Soker, N. 2016, Research in Astronomy and Astrophysics, 16, 99
+Kashi, A. & Soker, N. 2017,, MNRAS, 468, 4938. doi:10.1093/mnras/stx767
+Kasliwal, M. M. 2011, Bulletin of the Astronomical Society of India, 39, 375
+Kasliwal, M. M. 2013, IAU Symposium, 281, 9
+Kramer, M., Schneider, F. R. N., Ohlmann, S. T., Geier, S., Schaffenroth, V., Pakmor, R., & R opke, F. K., 2020, A&A, 642, A97. doi:10.1051/0004-6361/202038702
+Lagos, F., Schreiber, M. R., Zorotovic, M., G ansicke, B. T., Ronco, M. P., & Hamers, A. S., 2021,, MNRAS, 501, 676. doi:10.1093/mnras/staa3703
+MacLeod, M. & Loeb, A. 2020,, ApJ, 895, 29. doi:10.3847/1538-4357/ab89b6
+MacLeod, M., Macias, P., Ramirez-Ruiz, E., Grindlay, J., Batta, A., & Montes, G. 2017,, ApJ, 835, 282
+MacLeod, M., Ostriker, E. C., & Stone, J. M. 2018,, ApJ, 868, 136.
+Mason, E., Diaz, M., Williams, R. E., Preston, G., & Bensby, T. 2010, A&A, 516, A108
+Massarotti, A. 2008, AJ, 135, 2287
+Merlov A., Bear E., Soker N., 2021, ApJL, 915, L34. doi:10.3847/2041-8213/ac0f7d
+Michaelis, A. M., Kashi, A., & Kochiashvili, N. 2018, NewA, 65, 29
+Mould, J., Cohen, J., Graham, J. R., et al. 1990, ApJL, 353, L35
+Mustill, A. J., & Villaver, E. 2012,, ApJ, 761, 121
+Muthukrishna, D., Narayan, G., Mandel, K. S., Biswas, R., & Hlo zek, R. 2019, PASP, 131, 118002
+Nandez J. L. A., Ivanova N., Lombardi J. C., 2014,, ApJ, 786, 39. doi:10.1088/0004-637X/786/1/39
+Nelemans G., Tauris T. M., 1998, A&A, 335, L85
+Nesvorny D., Chrenko O., Flock M., 2021, arXiv:2110.09577
+Nordhaus, J., & Spiegel, D. S. 2013,, MNRAS, 432, 500
+Nordhaus, J., Spiegel, D. S., Ibgui, L., Goodman, J., & Burrows, A. 2010,, MNRAS, 408, 631
+Ofek, E. O., Kulkarni, S. R., Rau, A., et al. 2008,, ApJ, 674, 447
+Pastorello, A., & Fraser, M. 2019, Nature Astronomy, 3, 676
+Pastorello, A., Kochanek, C. S., Fraser, M., et al. 2018,, MNRAS, 474, 197
+Pastorello, A., Mason, E., Taubenberger, S., et al. 2019, A&A, 630, A75
+Pastorello, A., Valerin, G., Fraser, M., Elias-Rosa, N., Valenti, S., Reguitti, A., Mazzali, P. A., et al. 2021, A&A, 647, A93. doi:10.1051/0004-6361/202039953
+Paxton, B., Bildsten, L., Dotter, A., et al. 2011,, ApJS, 192, 3
+Paxton, B., Cantiello, M., Arras, P., et al. 2013,, ApJS, 208, 4
+Paxton, B., Marchant, P., Schwab, J., et al. 2015,, ApJS, 220, 15
+Paxton, B., Schwab, J., Bauer, E. B., et al. 2018,, ApJS, 234, 34
+Paxton, B., Smolec, R., Schwab, J., et al. 2019,, ApJS, 243, 10, doi:10.3847/1538-4365/ab2241
+Pejcha, O., Metzger, B. D., & Tomida, K. 2016a,, MNRAS, 455, 4351
+Pejcha, O., Metzger, B. D., & Tomida, K. 2016b,, MNRAS, 461, 2527
+Pejcha O., Metzger B. D., Tyles J. G., Tomida K., 2017,, ApJ, 850, 59. doi:10.3847/1538-4357/aa95b9
+Privitera, G., Meynet, G., Eggenberger, P., Vidotto, A. A., Villaver, E., & Bianda M., 2016, A&A, 591, A45. doi:10.1051/0004-6361/201528044
+Rapoport, I., Bear, E., & Soker, N. 2021,, MNRAS, 506, 468. doi:10.1093/mnras/stab1774
+Rao, S., Meynet, G., Eggenberger, P., Haemmerl e, L., Privitera, G., Georgy, C., Ekstr om, S., et al., 2018, A&A, 618, A18. doi:10.1051/0004-6361/201833107
+Rau, A., Kulkarni, S. R., Ofek, E. O., & Yan, L. 2007,, ApJ, 659, 1536
+Retter, A., & Marom, A. 2003,, MNRAS, 345, L25
+Retter, A., Zhang, B., Siess, L., Levinson , A. 2006,, MNRAS, 370, 1573. doi:10.1111/j.1365-2966.2006.10585.x
+Sabach, E., & Soker, N. 2018a,, MNRAS, 473, 286
+Sabach, E., & Soker, N. 2018b,, MNRAS, 479, 2249
+Schaffenroth, V., Barlow, B. N., Geier, S., et al. 2019, A&A, 630, A80. doi:10.1051/0004-6361/201936019
+Schreier, R., Hillel, S., Shiber, S., & Soker, N. 2021, MNRAS. doi:10.1093/mnras/stab2687
+Schroder S. L., MacLeod M., Loeb A., Vigna-G omez A., Mandel I., 2020,, ApJ, 892, 13. doi:10.3847/1538-4357/ab7014
+Schneider, J., Dedieu, C., Le Sidaner, P., Savalle, R., & Zolotukhin, I., 2011, A&A, 532, A79
+Segev, R., Sabach, E., & Soker, N. 2019,, ApJ, 884, 58
+Siess, L., & Livio, M. 1999a,, MNRAS, 304, 925
+Soker, N. 1996, ApJL, 460, L53
+Soker N., 1998, AJ, 116, 1308. doi:10.1086/300503
+Soker, N. 2016, NewA, 47, 16
+Soker N., 2020,, ApJ, 893, 20. doi:10.3847/1538-4357/ab7dbb
+Soker, N., & Gilkis, A. 2018,, MNRAS, 475, 1198
+Soker, N., & Kashi, A. 2016,, MNRAS, 462, 217
+Soker, N. & Tylenda, R. 2003, ApJL, 582, L105. doi:10.1086/367759
+Soker N., Kashi A., 2016,, MNRAS, 462, 217. doi:10.1093/mnras/stw1686
+Staff, J. E., De Marco, O., Wood, P., Galaviz, P., & Passy, J.-C. 2016,, MNRAS, 458, 832
+Stritzinger M. D., Taddia F., Fraser M., Tauris T. M., Contreras C., Drybye S., Galbany L., et al., 2020, A&A, 639, A104. doi:10.1051/0004-6361/202038019
+Tylenda R., G orny S. K., Kami nski T., Schmidt M., 2015, A&A, 578, A75. doi:10.1051/0004-6361/201425592
+Tylenda R., Hajduk M., Kami nski T., Udalski A., Soszy nski I., Szyma nski M. K., Kubiak M., et al., 2011, A&A, 528, A114. doi:10.1051/0004-6361/201016221
+Tylenda R., Kami nski T., 2016, A&A, 592, A134. doi:10.1051/0004-6361/201527700
+Tylenda, R., Kami nski, T., Udalski, A., et al. 2013, A&A, 555, A16
+Tylenda, R., Soker, N., & Szczerba, R. 2005, A&A, 441, 1099. doi:10.1051/0004-6361:20042485
+Van Eylen V., Albrecht S., 2015,, ApJ, 808, 126. doi:10.1088/0004-637X/808/2/126
+Veras, D. 2016, Royal Society Open Science, 3, 150571
+Villaver, E., & Livio, M. 2009, ApJL, 705, L81
+Weiss L. M., Marcy G. W., Rowe J. F., Howard A. W., Isaacson H., Fortney J. J., Miller N., et al., 2013,, ApJ, 768, 14. doi:10.1088/0004-637X/768/1/14
+Yalinewich, A., & Matzner, C. D. 2019,, MNRAS, 490, 312

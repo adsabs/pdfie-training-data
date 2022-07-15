@@ -1,0 +1,13 @@
+Arnold C., Fosalba P., Springel V., Puchwein E., Blot L., 2019,, MNRAS, 483, 790
+Baugh C. M., et al., 2019,, MNRAS, 483, 4922
+Bett P., Eke V., Frenk C. S., Jenkins A., Helly J., Navarro J., 2007,, MNRAS, 376, 215
+Cole S., Lacey C., 1996, Monthly Notices of the Royal Astronomical Society, 281, 716
+Croton D. J., et al., 2006,, MNRAS, 365, 11
+Gao L., White S. D. M., 2007,, MNRAS, 377, L5
+Hernandez-Aguayo C., Prada F., Baugh C. M., Klypin A., 2021,, MNRAS, 503, 2318
+Planck Collaboration et al., 2016, A&A, 594, A13
+Ramakrishnan S., Paranjape A., Sheth R. K., 2021,, MNRAS, 503, 2053
+Springel V., White S. D. M., Tormen G., Kauffmann G., 2001,, MNRAS, 328, 726
+Springel V., et al., 2005,, Nature, 435, 629
+Springel V., Pakmor R., Zier O., Reinecke M., 2020, arXiv e-prints, p. arXiv:2010.03567
+Zheng Z., et al., 2005,, ApJ, 633, 791

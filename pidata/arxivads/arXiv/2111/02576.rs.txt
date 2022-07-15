@@ -1,0 +1,44 @@
+E. Witten, "Perturbative gauge theory as a string theory in twistor space," "Commun. Math. Phys." 252 (2004) 189-258, arXiv:hep-th/0312171 [hep-th].
+R. Roiban, M. Spradlin, and A. Volovich, "Tree-level s matrix of yang-mills theory," "Phys. Rev. D" 70 (Jul, 2004) 026009. https://link.aps.org/doi/10.1103/PhysRevD.70.026009.
+F. Cachazo and Y. Geyer, "A 'Twistor String' Inspired Formula For Tree-Level Scattering Amplitudes in N=8 SUGRA," arXiv:1206.6511 [hep-th].
+F. Cachazo and D. Skinner, "Gravity from Rational Curves in Twistor Space," "Phys. Rev. Lett." 110 no. 16, (2013) 161301, arXiv:1207.0741 [hep-th].
+F. Cachazo, L. Mason, and D. Skinner, "Gravity in Twistor Space and its Grassmannian Formulation," "SIGMA" 10 (2014) 051, arXiv:1207.4712 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Scattering equations and Kawai-Lewellen-Tye orthogonality," "Phys. Rev. D" 90 no. 6, (2014) 065001, arXiv:1306.6575 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Scattering of Massless Particles in Arbitrary Dimensions," "Phys. Rev. Lett." 113 no. 17, (2014) 171601, arXiv:1307.2199 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Scattering in Three Dimensions from Rational Maps," "JHEP" 10 (2013) 141, arXiv:1306.2962 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Scattering of Massless Particles: Scalars, Gluons and Gravitons," "JHEP" 07 (2014) 033, arXiv:1309.0885 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Einstein-Yang-Mills Scattering Amplitudes From Scattering Equations," "JHEP" 01 (2015) 121, arXiv:1409.8256 [hep-th].
+F. Cachazo, S. He, and E. Y. Yuan, "Scattering Equations and Matrices: From Einstein To Yang-Mills, DBI and NLSM," "JHEP" 07 (2015) 149, arXiv:1412.3479 [hep-th].
+F. Cachazo, A. Guevara, M. Heydeman, S. Mizera, J. H. Schwarz, and C. Wen, "The S Matrix of 6D Super Yang-Mills and Maximal Supergravity from Rational Maps," arXiv:1805.11111 [hep-th].
+J. H. Schwarz and C. Wen, "Unified Formalism for 6D Superamplitudes Based on a Symplectic Grassmannian," "JHEP" 08 (2019) 125, arXiv:1907.03485 [hep-th].
+Y. Geyer and L. Mason, "Polarized Scattering Equations for 6D Superamplitudes," "Phys. Rev. Lett." 122 no. 10, (2019) 101601, arXiv:1812.05548 [hep-th].
+N. Arkani-Hamed, Y. Bai, and T. Lam, "Positive Geometries and Canonical Forms," "JHEP" 11 (2017) 039, arXiv:1703.04541 [hep-th].
+N. Arkani-Hamed, J. L. Bourjaily, F. Cachazo, A. B. Goncharov, A. Postnikov, and J. Trnka, Grassmannian Geometry of Scattering Amplitudes. Cambridge University Press, 4, 2016. arXiv:1212.5605 [hep-th].
+N. Arkani-Hamed and J. Trnka, "The Amplituhedron," "JHEP" 10 (2014) 030, arXiv:1312.2007 [hep-th].
+N. Arkani-Hamed and J. Trnka, "Into the Amplituhedron," "JHEP" 12 (2014) 182, arXiv:1312.7878 [hep-th].
+A. Hodges, "Eliminating spurious poles from gauge-theoretic amplitudes," "JHEP" 05 (2013) 135, arXiv:0905.1473 [hep-th].
+D. Damgaard, L. Ferro, T. Lukowski, and M. Parisi, "The Momentum Amplituhedron," "JHEP" 08 (2019) 042, arXiv:1905.04216 [hep-th].
+S. He and C. Zhang, "Notes on Scattering Amplitudes as Differential Forms," "JHEP" 10 (2018) 054, arXiv:1807.11051 [hep-th].
+Y.-t. Huang and S. Lee, "A new integral formula for supersymmetric scattering amplitudes in three dimensions," "Phys. Rev. Lett." 109 (2012) 191601, arXiv:1207.4851 [hep-th].
+Y.-T. Huang, R. Kojima, C. Wen, and S.-Q. Zhang, "The orthogonal momentum amplituhedron and ABJM amplitudes," "JHEP" 01 (2022) 141, arXiv:2111.03037 [hep-th].
+N. Arkani-Hamed, Y. Bai, S. He, and G. Yan, "Scattering Forms and the Positive Geometry of Kinematics, Color and the Worldsheet," arXiv:1711.09102 [hep-th].
+N. Arkani-Hamed, S. He, and T. Lam, "Stringy canonical forms," "JHEP" 02 (2021) 069, arXiv:1912.08707 [hep-th].
+N. Arkani-Hamed, S. He, T. Lam, and H. Thomas, "Binary Geometries, Generalized Particles and Strings, and Cluster Algebras," arXiv:1912.11764 [hep-th].
+D. Damgaard, L. Ferro, T. Lukowski, and R. Moerman, "Momentum amplituhedron meets kinematic associahedron," "JHEP" 02 (2021) 041, arXiv:2010.15858 [hep-th].
+Y. Geyer, A. E. Lipstein, and L. J. Mason, "Ambitwistor Strings in Four Dimensions," Phys. Rev. Lett. 113 no. 8, (2014) 081602, arXiv:1404.6219 [hep-th].
+S. He, Z. Liu, and J.-B. Wu, "Scattering Equations, Twistor-string Formulas and Double-soft Limits in Four Dimensions," "JHEP" 07 (2016) 060, arXiv:1604.02834 [hep-th].
+F. Cachazo, "Resultants and Gravity Amplitudes," arXiv:1301.3970 [hep-th].
+Y.-T. Huang and C. Wen, "ABJM amplitudes and the positive orthogonal grassmannian," "JHEP" 02 (2014) 104, arXiv:1309.3252 [hep-th].
+Y.-t. Huang, C. Wen, and D. Xie, "The Positive orthogonal Grassmannian and loop amplitudes of ABJM," "J. Phys." A47 no. 47, (2014) 474008, arXiv:1402.1479 [hep-th].
+N. Arkani-Hamed, H. Thomas, and J. Trnka, "Unwinding the Amplituhedron in Binary," "JHEP" 01 (2018) 016, arXiv:1704.05069 [hep-th].
+L. Ferro, T. Lukowski, and R. Moerman, "From momentum amplituhedron boundaries to amplitude singularities and back," "JHEP" 07 no. 07, (2020) 201, arXiv:2003.13704 [hep-th].
+N. Arkani-Hamed, J. Bourjaily, F. Cachazo, and J. Trnka, "Unification of Residues and Grassmannian Dualities," "JHEP" 01 (2011) 049, arXiv:0912.4912 [hep-th].
+Y.-t. Huang, "Non-Chiral S-Matrix of N=4 Super Yang-Mills," arXiv:1104.2021 [hep-th].
+H. Elvang, Y.-t. Huang, C. Keeler, T. Lam, T. M. Olson, S. B. Roland, and D. E. Speyer, "Grassmannians for scattering amplitudes in 4d N = 4 SYM and 3d ABJM," "JHEP" 12 (2014) 181, arXiv:1410.0621 [hep-th].
+T. Lukowski, M. Parisi, and L. K. Williams, "The positive tropical Grassmannian, the hypersimplex, and the m=2 amplituhedron," arXiv:2002.06164 [math.CO].
+M. Parisi, M. Sherman-Bennett, and L. Williams, "The m=2 amplituhedron and the hypersimplex: signs, clusters, triangulations, Eulerian numbers," arXiv:2104.08254 [math.CO].
+D. Damgaard, L. Ferro, T. Lukowski, and R. Moerman, "Kleiss-Kuijf Relations from Momentum Amplituhedron Geometry," "JHEP" 07 (2021) 111, arXiv:2103.13908 [hep-th].
+Z. Bern, J. J. M. Carrasco, and H. Johansson, "New Relations for Gauge-Theory Amplitudes," "Phys. Rev. D" 78 (2008) 085011, arXiv:0805.3993 [hep-ph].
+T. Bargheer, S. He, and T. McLoughlin, "New Relations for Three-Dimensional Supersymmetric Scattering Amplitudes," "Phys. Rev. Lett." 108 (2012) 231601, arXiv:1203.0562 [hep-th].
+Y.-t. Huang and H. Johansson, "Equivalent D=3 Supergravity Amplitudes from Double Copies of Three-Algebra and Two-Algebra Gauge Theories," "Phys. Rev. Lett." 110 (2013) 171601, arXiv:1210.2255 [hep-th].
+N. Arkani-Hamed, F. Cachazo, C. Cheung, and J. Kaplan, "A Duality For The S Matrix," "JHEP" 03 (2010) 020, arXiv:0907.5418 [hep-th].

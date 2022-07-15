@@ -1,0 +1,105 @@
+Assef, R. J., Denney, K. D., Kochanek, C. S., et al. 2011,, ApJ, 742, 93, doi: 10.1088/0004-637X/742/2/93
+Bahk, H., Woo, J.-H., & Park, D. 2019,, ApJ, 875, 50, doi: 10.3847/1538-4357/ab100d
+Baldwin, J. A., Ferland, G. J., Korista, K. T., Hamann, F., & LaCluyze, A. 2004,, ApJ, 615, 610, doi: 10.1086/424683
+Barth, A. J., Pancoast, A., Thorman, S. J., et al. 2011, ApJL, 743, L4, doi: 10.1088/2041-8205/743/1/L4
+Barth, A. J., Pancoast, A., Bennert, V. N., et al. 2013,, ApJ, 769, 128, doi: 10.1088/0004-637X/769/2/128
+Barth, A. J., Bennert, V. N., Canalizo, G., et al. 2015,, ApJS, 217, 26, doi: 10.1088/0067-0049/217/2/26
+Baskin, A., & Laor, A. 2005a,, MNRAS, 358, 1043, doi: 10.1111/j.1365-2966.2005.08841.x
+--. 2005b,, MNRAS, 356, 1029, doi: 10.1111/j.1365-2966.2004.08525.x
+Bennert, V. N., Auger, M. W., Treu, T., Woo, J.-H., & Malkan, M. A. 2011,, ApJ, 726, 59, doi: 10.1088/0004-637X/726/2/59
+Bennert, V. N., Treu, T., Auger, M. W., et al. 2015,, ApJ, 809, 20, doi: 10.1088/0004-637X/809/1/20
+Bennert, V. N., Loveland, D., Donohue, E., et al. 2018,, MNRAS, 481, 138, doi: 10.1093/mnras/sty2236
+Boroson, T. A., & Green, R. F. 1992,, ApJS, 80, 109, doi: 10.1086/191661
+Bruhweiler, F., & Verner, E. 2008,, ApJ, 675, 83, doi: 10.1086/525557
+Cackett, E. M., Bentz, M. C., & Kara, E. 2021, iScience, 24, 102557, doi: 10.1016/j.isci.2021.102557
+Calderone, G., Ghisellini, G., Colpi, M., & Dotti, M. 2013,, MNRAS, 431, 210, doi: 10.1093/mnras/stt157
+Calderone, G., Nicastro, L., Ghisellini, G., et al. 2017,, MNRAS, 472, 4051, doi: 10.1093/mnras/stx2239
+Cappellari, M., Verolme, E. K., van der Marel, R. P., et al. 2002,, ApJ, 578, 787, doi: 10.1086/342653
+Coatman, L., Hewett, P. C., Banerji, M., & Richards, G. T. 2016,, MNRAS, 461, 647, doi: 10.1093/mnras/stw1360
+Constantin, A., & Shields, J. C. 2003, PASP, 115, 592, doi: 10.1086/374724
+Crenshaw, D. M., Kraemer, S. B., Turner, T. J., et al. 2002,, ApJ, 566, 187, doi: 10.1086/338058
+De Rosa, G., Venemans, B. P., Decarli, R., et al. 2014,, ApJ, 790, 145, doi: 10.1088/0004-637X/790/2/145
+Denney, K. D., Peterson, B. M., Dietrich, M., Vestergaard, M., & Bentz, M. C. 2009,, ApJ, 692, 246, doi: 10.1088/0004-637X/692/1/246
+Denney, K. D., Pogge, R. W., Assef, R. J., et al. 2013,, ApJ, 775, 60, doi: 10.1088/0004-637X/775/1/60
+Denney, K. D., Horne, K., Shen, Y., et al. 2016,, ApJS, 224, 14, doi: 10.3847/0067-0049/224/2/14
+Dietrich, M., Appenzeller, I., Vestergaard, M., & Wagner, S. J. 2002,, ApJ, 564, 581, doi: 10.1086/324337
+Ding, X., Treu, T., Suyu, S. H., et al. 2017,, MNRAS, 472, 90, doi: 10.1093/mnras/stx1972
+Ding, X., Silverman, J., Treu, T., et al. 2020,, ApJ, 888, 37, doi: 10.3847/1538-4357/ab5b90
+Dong, X., Wang, T., Wang, J., et al. 2008,, MNRAS, 383, 581, doi: 10.1111/j.1365-2966.2007.12560.x
+Dong, X.-B., Ho, L. C., Wang, J.-G., et al. 2010, ApJL, 721, L143, doi: 10.1088/2041-8205/721/2/L143
+Dong, X.-B., Wang, J.-G., Ho, L. C., et al. 2011,, ApJ, 736, 86, doi: 10.1088/0004-637X/736/2/86
+Fitzpatrick, E. L. 1999, PASP, 111, 63, doi: 10.1086/316293
+Garcia-Rissmann, A., Rodriguez-Ardila, A., Sigut, T. A. A., & Pradhan, A. K. 2012,, ApJ, 751, 7, doi: 10.1088/0004-637X/751/1/7
+Greene, J. E., & Ho, L. C. 2005,, ApJ, 630, 122, doi: 10.1086/431897
+--. 2007,, ApJ, 670, 92, doi: 10.1086/522082
+Grier, C. J., Pancoast, A., Barth, A. J., et al. 2017,, ApJ, 849, 146, doi: 10.3847/1538-4357/aa901b
+Ho, L. C., Goldoni, P., Dong, X.-B., Greene, J. E., & Ponti, G. 2012,, ApJ, 754, 11, doi: 10.1088/0004-637X/754/1/11
+Hu, C., Wang, J.-M., Ho, L. C., et al. 2008,, ApJ, 687, 78, doi: 10.1086/591838
+Hu, C., Du, P., Lu, K.-X., et al. 2015,, ApJ, 804, 138, doi: 10.1088/0004-637X/804/2/138
+Hu, C., Li, S.-S., Yang, S., et al. 2021,, ApJS, 253, 20, doi: 10.3847/1538-4365/abd774
+Huang, Y.-K., Hu, C., Zhao, Y.-L., et al. 2019,, ApJ, 876, 102, doi: 10.3847/1538-4357/ab16ef
+Kelly, B. C., & Shen, Y. 2013,, ApJ, 764, 45, doi: 10.1088/0004-637X/764/1/45
+Kova cevic, J., Popovic, L. C., & Dimitrijevic, M. S. 2010,, ApJS, 189, 15, doi: 10.1088/0067-0049/189/1/15
+Kovacevic-Dojcinovic, J., & Popovic, L. C. 2015,, ApJS, 221, 35, doi: 10.1088/0067-0049/221/2/35
+Kurk, J. D., Walter, F., Fan, X., et al. 2007,, ApJ, 669, 32, doi: 10.1086/521596
+Laor, A., Jannuzi, B. T., Green, R. F., & Boroson, T. A. 1997,, ApJ, 489, 656, doi: 10.1086/304816
+Li, Y.-R., Songsheng, Y.-Y., Qiu, J., et al. 2018,, ApJ, 869, 137, doi: 10.3847/1538-4357/aaee6b
+Lu, K.-X., Bai, J.-M., Zhang, Z.-X., et al. 2019,, ApJ, 887, 135, doi: 10.3847/1538-4357/ab5790
+Lu, K.-X., Wang, J.-G., Zhang, Z.-X., et al. 2021, arXiv e-prints, arXiv:2106.10589. https://arxiv.org/abs/2106.10589
+Marinello, M., Rodriguez-Ardila, A., Garcia-Rissmann, A., Sigut, T. A. A., & Pradhan, A. K. 2016,, ApJ, 820, 116, doi: 10.3847/0004-637X/820/2/116
+Markwardt, C. B. 2009, in Astronomical Society of the Pacific Conference Series, Vol. 411, Astronomical Data Analysis Software and Systems XVIII, ed. D. A. Bohlender, D. Durand, & P. Dowler, 251. https://arxiv.org/abs/0902.2850
+Marziani, P., Sulentic, J. W., Zamanov, R., et al. 2003,, ApJS, 145, 199, doi: 10.1086/346025
+McGill, K. L., Woo, J.-H., Treu, T., & Malkan, M. A. 2008,, ApJ, 673, 703, doi: 10.1086/524349
+McLure, R. J., & Dunlop, J. S. 2004,, MNRAS, 352, 1390, doi: 10.1111/j.1365-2966.2004.08034.x
+Mejia-Restrepo, J. E., Trakhtenbrot, B., Lira, P., Netzer, H., & Capellupo, D. M. 2016,, MNRAS, 460, 187, doi: 10.1093/mnras/stw568
+Osterbrock, D. E., & Pogge, R. W. 1985,, ApJ, 297, 166, doi: 10.1086/163513
+Pancoast, A., Brewer, B. J., Treu, T., et al. 2014,, MNRAS, 445, 3073, doi: 10.1093/mnras/stu1419
+Pancoast, A., Barth, A. J., Horne, K., et al. 2018,, ApJ, 856, 108, doi: 10.3847/1538-4357/aab3c6
+Park, D., Barth, A. J., Woo, J.-H., et al. 2017,, ApJ, 839, 93, doi: 10.3847/1538-4357/aa6a53
+Park, D., Woo, J.-H., Bennert, V. N., et al. 2015,, ApJ, 799, 164, doi: 10.1088/0004-637X/799/2/164
+Park, D., Woo, J.-H., Denney, K. D., & Shin, J. 2013,, ApJ, 770, 87, doi: 10.1088/0004-637X/770/2/87
+Park, D., Woo, J.-H., Treu, T., et al. 2012,, ApJ, 747, 30, doi: 10.1088/0004-637X/747/1/30
+Pei, L., Fausnaugh, M. M., Barth, A. J., et al. 2017,, ApJ, 837, 131, doi: 10.3847/1538-4357/aa5eb1
+Peterson, B. M. 1993, PASP, 105, 247, doi: 10.1086/133140
+Popovic, L. C., Kovacevic, J., & Dimitrijevic, M. S. 2013, ArXiv e-prints. https://arxiv.org/abs/1301.6941
+Popovic, L. C., Kovacevic-Dojcinovic, J., & Marceta-Mandic, S. 2019,, MNRAS, 484, 3180, doi: 10.1093/mnras/stz157
+Rakshit, S., Stalin, C. S., & Kotilainen, J. 2020,, ApJS, 249, 17, doi: 10.3847/1538-4365/ab99c5
+Rakshit, S., Woo, J.-H., Gallo, E., et al. 2019,, ApJ, 886, 93, doi: 10.3847/1538-4357/ab49fd
+Sarkar, A., Ferland, G. J., Chatzikos, M., et al. 2021,, ApJ, 907, 12, doi: 10.3847/1538-4357/abcaa6
+Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103, doi: 10.1088/0004-637X/737/2/103
+Schulze, A., Silverman, J. D., Kashino, D., et al. 2018,, ApJS, 239, 22, doi: 10.3847/1538-4365/aae82f
+Science Software Branch at STScI. 2012, PyRAF: Python alternative for IRAF. http://ascl.net/1207.011
+Shapovalova, A. I., Popovic, L. C., Burenkov, A. N., et al. 2012,, ApJS, 202, 10, doi: 10.1088/0067-0049/202/1/10
+Shen, Y. 2013, Bulletin of the Astronomical Society of India, 41, 61. https://arxiv.org/abs/1302.2643
+Shen, Y., Greene, J. E., Strauss, M. A., Richards, G. T., & Schneider, D. P. 2008,, ApJ, 680, 169, doi: 10.1086/587475
+Shen, Y., & Ho, L. C. 2014,, Nature, 513, 210, doi: 10.1038/nature13712
+Shen, Y., & Kelly, B. C. 2012,, ApJ, 746, 169, doi: 10.1088/0004-637X/746/2/169
+Shen, Y., & Liu, X. 2012,, ApJ, 753, 125, doi: 10.1088/0004-637X/753/2/125
+Shen, Y., Richards, G. T., Strauss, M. A., et al. 2011,, ApJS, 194, 45, doi: 10.1088/0067-0049/194/2/45
+Sigut, T. A. A., & Pradhan, A. K. 1998, ApJL, 499, L139, doi: 10.1086/311369
+--. 2003,, ApJS, 145, 15, doi: 10.1086/345498
+Storey, P. J., & Zeippen, C. J. 2000,, MNRAS, 312, 813, doi: 10.1046/j.1365-8711.2000.03184.x
+Sulentic, J. W., Marziani, P., Zamanov, R., et al. 2002, ApJL, 566, L71, doi: 10.1086/339594
+Sulentic, J. W., Marziani, P., & Zamfir, S. 2009, NewAR, 53, 198, doi: 10.1016/j.newar.2009.06.001
+Sulentic, J. W., Zwitter, T., Marziani, P., & Dultzin-Hacyan, D. 2000, ApJL, 536, L5, doi: 10.1086/312717
+Trakhtenbrot, B., & Netzer, H. 2012,, MNRAS, 427, 3081, doi: 10.1111/j.1365-2966.2012.22056.x
+Tsuzuki, Y., Kawara, K., Yoshii, Y., et al. 2006,, ApJ, 650, 57, doi: 10.1086/506376
+Valdes, F., Gupta, R., Rose, J. A., Singh, H. P., & Bell, D. J. 2004,, ApJS, 152, 251, doi: 10.1086/386343
+van der Marel, R. P., & Franx, M. 1993,, ApJ, 407, 525, doi: 10.1086/172534
+van Dokkum, P. G. 2001, PASP, 113, 1420, doi: 10.1086/323894
+Vanden Berk, D. E., Richards, G. T., Bauer, A., et al. 2001, AJ, 122, 549, doi: 10.1086/321167
+Verner, E., Bruhweiler, F., Verner, D., et al. 2004,, ApJ, 611, 780, doi: 10.1086/422303
+Verner, E. M., Verner, D. A., Korista, K. T., et al. 1999,, ApJS, 120, 101, doi: 10.1086/313171
+Veron, P., Goncalves, A. C., & Veron-Cetty, M. P. 2002, A&A, 384, 826, doi: 10.1051/0004-6361:20020072
+Veron-Cetty, M.-P., Joly, M., & Veron, P. 2004, A&A, 417, 515, doi: 10.1051/0004-6361:20035714
+Vestergaard, M., & Wilkes, B. J. 2001,, ApJS, 134, 1, doi: 10.1086/320357
+Vincentelli, F. M., McHardy, I., Cackett, E. M., et al. 2021,, MNRAS, 504, 4337, doi: 10.1093/mnras/stab1033
+Wang, J.-G., Dong, X.-B., Wang, T.-G., et al. 2009,, ApJ, 707, 1334, doi: 10.1088/0004-637X/707/2/1334
+Wang, J.-M., Du, P., Hu, C., et al. 2014,, ApJ, 793, 108, doi: 10.1088/0004-637X/793/2/108
+Wang, S., Shen, Y., Jiang, L., et al. 2020,, ApJ, 903, 51, doi: 10.3847/1538-4357/abb36d
+Wang, T., Dai, H., & Zhou, H. 2008,, ApJ, 674, 668, doi: 10.1086/525242
+Williams, P. R., Pancoast, A., Treu, T., et al. 2018,, ApJ, 866, 75, doi: 10.3847/1538-4357/aae086
+Wills, B. J., Laor, A., Brotherton, M. S., et al. 1999, ApJL, 515, L53, doi: 10.1086/311980
+Wills, B. J., Netzer, H., & Wills, D. 1985,, ApJ, 288, 94, doi: 10.1086/162767
+Woo, J.-H., Treu, T., Malkan, M. A., & Bland ford, R. D. 2008,, ApJ, 681, 925, doi: 10.1086/588804
+Woo, J.-H., Treu, T., Malkan, M. A., Ferry, M. A., & Misch, T. 2007,, ApJ, 661, 60, doi: 10.1086/516564

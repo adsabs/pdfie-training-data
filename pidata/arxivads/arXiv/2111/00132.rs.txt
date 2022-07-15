@@ -1,0 +1,42 @@
+Badenes, C., Bravo, E., & Hughes, J. P. 2008, ApJL, 680, L33, doi: 10.1086/589832
+Bauer, E. B., Schwab, J., Bildsten, L., & Cheng, S. 2020,, ApJ, 902, 93, doi: 10.3847/1538-4357/abb5a5
+Brooks, J., Bildsten, L., Schwab, J., & Paxton, B. 2016,, ApJ, 821, 28, doi: 10.3847/0004-637X/821/1/28
+Burns, K. J., Vasil, G. M., Oishi, J. S., Lecoanet, D., & Brown, B. P. 2020, Physical Review Research, 2, 023068, doi: 10.1103/PhysRevResearch.2.023068
+Chabrier, G., & Potekhin, A. Y. 1998, PhRvE, 58, 4941, doi: 10.1103/PhysRevE.58.4941
+Chamulak, D. A., Brown, E. F., Timmes, F. X., & Dupczak, K. 2008,, ApJ, 677, 160, doi: 10.1086/528944
+Chen, X., Han, Z., & Meng, X. 2014,, MNRAS, 438, 3358, doi: 10.1093/mnras/stt2439
+Chugunov, A. I., Dewitt, H. E., & Yakovlev, D. G. 2007, PhRvD, 76, 025028, doi: 10.1103/PhysRevD.76.025028
+Cyburt, R. H., Amthor, A. M., Ferguson, R., et al. 2010,, ApJS, 189, 240, doi: 10.1088/0067-0049/189/1/240
+de Groot, S. R., & Mazur, P. 1969, Non-equilibrium thermodynamics
+Forster, F., Lesaffre, P., & Podsiadlowski, P. 2010,, ApJS, 190, 334, doi: 10.1088/0067-0049/190/2/334
+Gamow, G., & Schoenberg, M. 1940, Physical Review, 58, 1117, doi: 10.1103/PhysRev.58.1117
+--. 1941, Physical Review, 59, 539, doi: 10.1103/PhysRev.59.539
+Gasques, L. R., Afanasjev, A. V., Aguilera, E. F., et al. 2005, PhRvC, 72, 025806, doi: 10.1103/PhysRevC.72.025806
+Hayes, J. C., Norman, M. L., Fiedler, R. A., et al. 2006,, ApJS, 165, 188, doi: 10.1086/504594
+Hillebrandt, W., & Niemeyer, J. C. 2000, ARA&A, 38, 191, doi: 10.1146/annurev.astro.38.1.191
+Hix, W. R., & Meyer, B. S. 2006, Nuclear Physics A, 777, 188, doi: 10.1016/j.nuclphysa.2004.10.009
+Iben, Jr., I. 1978,, ApJ, 219, 213, doi: 10.1086/155769
+Jermyn, A. S., Schwab, J., Bauer, E., Timmes, F. X., & Potekhin, A. Y. 2021,, ApJ, 913, 72, doi: 10.3847/1538-4357/abf48e
+Lesaffre, P., Han, Z., Tout, C. A., Podsiadlowski, P., & Martin, R. G. 2006,, MNRAS, 368, 187, doi: 10.1111/j.1365-2966.2006.10068.x
+Mart inez-Rodr iguez, H., Piro, A. L., Schwab, J., & Badenes, C. 2016,, ApJ, 825, 57, doi: 10.3847/0004-637X/825/1/57
+Mart inez-Rodr iguez, H., Badenes, C., Yamaguchi, H., et al. 2017,, ApJ, 843, 35, doi: 10.3847/1538-4357/aa72f8
+Paczynski, B. 1971, AcA, 21, 271
+--. 1972, Astrophys. Lett., 11, 53
+--. 1973, AcA, 23, 1
+Papaloizou, J. C. B., & Pringle, J. E. 1984,, MNRAS, 208, 721
+Paxton, B., Bildsten, L., Dotter, A., et al. 2011,, ApJS, 192, 3, doi: 10.1088/0067-0049/192/1/3
+Paxton, B., Cantiello, M., Arras, P., et al. 2013,, ApJS, 208, 4, doi: 10.1088/0067-0049/208/1/4
+Paxton, B., Marchant, P., Schwab, J., et al. 2015,, ApJS, 220, 15, doi: 10.1088/0067-0049/220/1/15
+Paxton, B., Schwab, J., Bauer, E. B., et al. 2018,, ApJS, 234, 34, doi: 10.3847/1538-4365/aaa5a8
+Paxton, B., Smolec, R., Schwab, J., et al. 2019,, ApJS, 243, 10, doi: 10.3847/1538-4365/ab2241
+Piersanti, L., Bravo, E., Cristallo, S., et al. 2017, ApJL, 836, L9, doi: 10.3847/2041-8213/aa5c7e
+Piro, A. L., & Bildsten, L. 2008,, ApJ, 673, 1009, doi: 10.1086/524189
+Piro, A. L., & Chang, P. 2008,, ApJ, 678, 1158, doi: 10.1086/529368
+Potekhin, A. Y., & Chabrier, G. 2000, PhRvE, 62, 8554, doi: 10.1103/PhysRevE.62.8554
+Schwab, J., Bildsten, L., & Quataert, E. 2017,, MNRAS, 472, 3390, doi: 10.1093/mnras/stx2169
+Schwab, J., Shen, K. J., Quataert, E., Dan, M., & Rosswog, S. 2012,, MNRAS, 427, 190, doi: 10.1111/j.1365-2966.2012.21993.x
+Suzuki, T., Toki, H., & Nomoto, K. 2016,, ApJ, 817, 163, doi: 10.3847/0004-637X/817/2/163
+Timmes, F. X., & Swesty, F. D. 2000,, ApJS, 126, 501, doi: 10.1086/313304
+Tsuruta, S., & Cameron, A. G. W. 1970, Ap&SS, 7, 374, doi: 10.1007/BF00653278
+Woosley, S. E., Wunsch, S., & Kuhlen, M. 2004,, ApJ, 607, 921, doi: 10.1086/383530
+Yakovlev, D. G., Gasques, L. R., Afanasjev, A. V., Beard, M., & Wiescher, M. 2006, PhRvC, 74, 035803, doi: 10.1103/PhysRevC.74.035803

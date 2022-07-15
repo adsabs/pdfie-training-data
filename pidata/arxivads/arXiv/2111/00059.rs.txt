@@ -1,0 +1,67 @@
+Adibekyan V., et al., 2021, arXiv e-prints, p. arXiv:2102.12444
+Aguichine A., Mousis O., Devouard B., Ronnet T., 2020,, ApJ, 901, 97
+Asphaug E., Reufer A., 2014, Nature Geoscience, 7, 564
+Benz W., Asphaug E., 1999, Icarus, 142, 5
+Bitsch B., Kley W., 2010, A&A, 523, A30
+Bitsch B., Kley W., 2011, A&A, 536, A77
+Bitsch B., Izidoro A., Johansen A., Raymond S. N., Morbidelli A., Lambrechts M., Jacobson S. A., 2019, A&A, 623, A88
+Carrera D., Ford E. B., Izidoro A., 2019,, MNRAS, 486, 3874
+Chambers J. E., 1999,, MNRAS, 304, 793
+Chambers J. E., 2013, Icarus, 224, 43
+Chatterjee S., Ford E. B., 2015,, ApJ, 803, 33
+Clement M. S., Kaib N. A., Raymond S. N., Chambers J. E., Walsh K. J., 2019, Icarus, 321, 778
+Coleman G. A. L., Nelson R. P., 2014,, MNRAS, 445, 479
+Cossou C., Raymond S. N., Hersant F., Pierens A., 2014, A&A, 569, A56
+Cresswell P., Nelson R. P., 2008, A&A, 482, 677
+Deienno R., Walsh K. J., Kretke K. A., Levison H. F., 2019,, ApJ, 876, 103
+Dorn C., Harrison J. H. D., Bonsor A., Hands T. O., 2019,, MNRAS, 484, 712
+Duncan M. J., Levison H. F., Lee M. H., 1998, AJ, 116, 2067
+Esteves L., Izidoro A., Raymond S. N., Bitsch B., 2020,, MNRAS, 497, 2493
+Fendyke S. M., Nelson R. P., 2014,, MNRAS, 437, 96
+Flock M., Turner N. J., Mulders G. D., Hasegawa Y., Nelson R. P., Bitsch B., 2019, A&A, 630, A147
+Fressin F., et al., 2013,, ApJ, 766, 81
+Genda H., Kokubo E., Ida S., 2012,, ApJ, 744, 137
+Hadden S., Lithwick Y., 2017, AJ, 154, 5
+Haisch Karl E. J., Lada E. A., Lada C. J., 2001, AJ, 121, 2065
+Hansen B. M. S., 2014,, MNRAS, 440, 3545
+Howard A. W., et al., 2012,, ApJS, 201, 15
+Ida S., Lin D. N. C., 2008,, ApJ, 685, 584
+Ida S., Lin D. N. C., 2010,, ApJ, 719, 810
+Izidoro A., Ogihara M., Raymond S. N., Morbidelli A., Pierens A., Bitsch B., Cossou C., Hersant F., 2017,, MNRAS, 470, 1750
+Izidoro A., Bitsch B., Raymond S. N., Johansen A., Morbidelli A., Lambrechts M., Jacobson S. A., 2021a, A&A, 650, A152
+Izidoro A., Bitsch B., Dasgupta R., 2021b,, ApJ, 915, 62
+Johansen A., Lambrechts M., 2017, Annual Review of Earth and Planetary Sciences, 45, 359
+Johansen A., Davies M. B., Church R. P., Holmelin V., 2012,, ApJ, 758, 39
+Kennedy G. M., Wyatt M. C., 2012,, MNRAS, 426, 91
+Kokubo E., Genda H., 2010,, ApJ, 714, L21
+Lambrechts M., Morbidelli A., Jacobson S. A., Johansen A., Bitsch B., Izidoro A., Raymond S. N., 2019, A&A, 627, A83
+Lee E. J., Chiang E., Ormel C. W., 2014,, ApJ, 797, 95
+Leinhardt Z. M., Stewart S. T., 2012,, ApJ, 745, 79
+Levison H. F., Duncan M. J., Thommes E., 2012, AJ, 144, 119
+Levison H. F., Kretke K. A., Duncan M. J., 2015,, Nature, 524, 322
+Marcus R. A., Stewart S. T., Sasselov D., Hernquist L., 2009,, ApJ, 700, L118
+Marcy G. W., Weiss L. M., Petigura E. A., Isaacson H., Howard A. W., Buchhave L. A., 2014, Proceedings of the National Academy of Science, 111, 12655
+Masset F. S., Morbidelli A., Crida A., Ferreira J., 2006,, ApJ, 642, 478
+Mayor M., et al., 2011, arXiv e-prints, p. arXiv:1109.2497
+McNeil D. S., Nelson R. P., 2010,, MNRAS, 401, 1691
+Morbidelli A., Bottke W. F., Nesvorny D., Levison H. F., 2009, Icarus, 204, 558
+Mulders G. D., Pascucci I., Apai D., Ciesla F. J., 2018, AJ, 156, 24
+Ogihara M., Ida S., 2009,, ApJ, 699, 824
+Ogihara M., Morbidelli A., Guillot T., 2015, A&A, 578, A36
+Ogihara M., Kokubo E., Suzuki T. K., Morbidelli A., 2018, A&A, 615, A63
+Petigura E. A., Marcy G. W., Howard A. W., 2013,, ApJ, 770, 69
+Poon S. T. S., Nelson R. P., Jacobson S. A., Morbidelli A., 2020,, MNRAS, 491, 5595
+Raymond S. N., Barnes R., Mandell A. M., 2008,, MNRAS, 384, 663
+Romanova M. M., Lovelace R. V. E., 2006,, ApJ, 645, L73
+Schulze J. G., Wang J., Johnson J. A., Gaudi B. S., Unterborn C. T., Panero W. R., 2021, PSJ, 2, 113
+Scora J., Valencia D., Morbidelli A., Jacobson S., 2020,, MNRAS, 493, 4910
+Stewart S. T., Leinhardt Z. M., 2012,, ApJ, 751, 32
+Terquem C., Papaloizou J. C. B., 2007,, ApJ, 654, 1110
+Thompson M. A., Weinberger A. J., Keller L. D., Arnold J. A., Stark C. C., 2019,, ApJ, 875, 45
+Volk K., Gladman B., 2015,, ApJ, 806, L26
+Wallace J., Tremaine S., Chambers J., 2017, AJ, 154, 175
+Walsh K. J., Levison H. F., 2016, AJ, 152, 68
+Walsh K. J., Levison H. F., 2019, Icarus, 329, 88
+Weiss L. M., Marcy G. W., 2014,, ApJ, 783, L6
+Wyatt M. C., 2008, ARA&A, 46, 339
+Wyatt S. P., Whipple F. L., 1950,, ApJ, 111, 134

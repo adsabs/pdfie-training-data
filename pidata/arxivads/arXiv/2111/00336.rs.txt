@@ -1,0 +1,63 @@
+Archontis, V., Hood, A. W., Savcheva, A., Golub, L., & Deluca, E. 2009,, ApJ, 691, 1276
+Aulanier, G. & Schmieder, B. 2002, A&A, 386, 1106
+Aulanier, G., Torok, T., Demoulin, P., & DeLuca, E. E. 2010,, ApJ, 708, 314
+Avallone, E. A. & Sun, X. 2020,, ApJ, 893, 123
+Billinghurst, M. N., Craig, I. J. D., & Sneyd, A. D. 1993, A&A, 279, 589
+Bungey, T. N., Titov, V. S., & Priest, E. R. 1996, A&A, 308, 233
+Canou, A., Amari, T., Bommier, V., et al. 2009, ApJL, 693, L27
+Castellanos Duran, J. S., Kleint, L., & Calvo-Mozo, B. 2018,, ApJ, 852, 25
+Cheng, X., Ding, M. D., Zhang, J., et al. 2014,, ApJ, 789, 93
+Dahlin, J. T., Antiochos, S. K., & DeVore, C. R. 2019,, ApJ, 879, 96
+Delannee, C. & Aulanier, G. 1999, SoPh, 190, 107
+Demoulin, P., Priest, E. R., & Lonie, D. P. 1996, JGR, 101, 7631
+Fan, Y. & Gibson, S. E. 2004,, ApJ, 609, 1123
+Fan, Y. & Gibson, S. E. 2007,, ApJ, 668, 1232
+Fisher, G. H., Bercik, D. J., Welsch, B. T., & Hudson, H. S. 2012, SoPh, 277, 59
+Fletcher, L., Lopez Fuentes, M. C., Mand rini, C. H., et al. 2001, SoPh, 203, 255
+Forbes, T. G. 2000, JGR, 105, 23153
+Green, L. M., Kliem, B., Torok, T., van Driel-Gesztelyi, L., & Attrill, G. D. R. 2007, SoPh, 246, 365
+Guo, Y., Schmieder, B., Demoulin, P., et al. 2010,, ApJ, 714, 343
+Hoeksema, J. T., Liu, Y., Hayashi, K., et al. 2014, SoPh, 289, 3483
+Hou, Y. J., Zhang, J., Li, T., Yang, S. H., & Li, X. H. 2018, A&A, 619, A100
+Hudson, H. S. 2000, ApJL, 531, L75
+Inoue, S. & Bamba, Y. 2021,, ApJ, 914, 71
+Jiang, C., Zou, P., Feng, X., et al. 2018,, ApJ, 869, 13
+Jiang, C.-W., Feng, X.-S., Wu, S.-T., & Hu, Q. 2017, RAA, 17, 093
+Karpen, J. T., Antiochos, S. K., & DeVore, C. R. 1990, ApJL, 356, L67
+Karpen, J. T., Antiochos, S. K., & DeVore, C. R. 1991,, ApJ, 382, 327
+Kazachenko, M. D., Lynch, B. J., Welsch, B. T., & Sun, X. 2017,, ApJ, 845, 49
+Kuckein, C., Mart inez Pillet, V., & Centeno, R. 2012, A&A, 539, A131
+Leka, K. D., Barnes, G., Crouch, A. D., et al. 2009, SoPh, 260, 83
+Lemen, J. R., Title, A. M., Akin, D. J., et al. 2012, SoPh, 275, 17
+Li, J., Amari, T., & Fan, Y. 2007,, ApJ, 654, 675
+Lites, B. W., Kubo, M., Berger, T., et al. 2010,, ApJ, 718, 474
+Liu, C., Xu, Y., Cao, W., et al. 2016, NatCo, 7, 13104
+Liu, L., Cheng, X., Wang, Y., & Zhou, Z. 2019,, ApJ, 884, 45
+Liu, R., Titov, V. S., Gou, T., et al. 2014,, ApJ, 790, 8
+Lopez Ariste, A., Aulanier, G., Schmieder, B., & Sainz Dalda, A. 2006, A&A, 456, 725
+Low, B. C. & Wolfson, R. 1988,, ApJ, 324, 574
+Lynch, B. J. & Edmondson, J. K. 2013,, ApJ, 764, 87
+Mandrini, C. H., Demoulin, P., Schmieder, B., Deng, Y. Y., & Rudawy, P. 2002, A&A, 391, 317
+McKenzie, D. E. & Canfield, R. C. 2008, A&A, 481, L65
+Okamoto, T. J., Tsuneta, S., Lites, B. W., et al. 2008, ApJL, 673, L215
+Petrie, G. J. D. 2012,, ApJ, 759, 50
+Petrie, G. J. D. 2019,, ApJS, 240, 11
+Qiu, J. 2009,, ApJ, 692, 1110
+Qiu, J. & Gary, D. E. 2003,, ApJ, 599, 615
+Romano, P., Elmhamdi, A., & Kordi, A. S. 2019, SoPh, 294, 4
+Schou, J., Scherrer, P. H., Bush, R. I., et al. 2012, SoPh, 275, 229
+Shen, C., Xu, M., Wang, Y., Chi, Y., & Luo, B. 2018,, ApJ, 861, 28
+Sudol, J. J. & Harvey, J. W. 2005,, ApJ, 635, 647
+Sun, X. 2013, arXiv:1309.2392
+Sun, X., Hoeksema, J. T., Liu, Y., Kazachenko, M., & Chen, R. 2017,, ApJ, 839, 67
+Svanda, M., Jurcak, J., Kasparova, J., & Kleint, L. 2018,, ApJ, 860, 144
+Titov, V. S., Priest, E. R., & Demoulin, P. 1993, A&A, 276, 564
+van Ballegooijen, A. A. & Martens, P. C. H. 1989,, ApJ, 343, 971
+Wang, H. & Liu, C. 2010, ApJL, 716, L195
+Wang, R., Liu, Y. D., Hoeksema, J. T., Zimovets, I. V., & Liu, Y. 2018,, ApJ, 869, 90
+Wang, T., Yan, Y., Wang, J., Kurokawa, H., & Shibata, K. 2002,, ApJ, 572, 580
+Xu, Y., Cao, W., Ahn, K., et al. 2018, NatCo, 9, 46
+Yang, S., Zhang, J., Zhu, X., & Song, Q. 2017, ApJL, 849, L21
+Yardley, S. L., Green, L. M., Williams, D. R., et al. 2016,, ApJ, 827, 151
+Yelles Chaouche, L., Kuckein, C., Mart inez Pillet, V., & Moreno-Insertis, F. 2012,, ApJ, 748, 23
+Zou, P., Jiang, C., Wei, F., et al. 2020,, ApJ, 890, 10

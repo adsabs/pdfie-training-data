@@ -1,0 +1,28 @@
+ATLAS Collaboration, G. Aad, et al., Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC, Phys. Lett. B 716 (2012) 1-29. arXiv:1207.7214, doi:10.1016/j.physletb.2012.08.020.
+S. Chatrchyan, V. Khachatryan, A. Sirunyan, A. Tumasyan, W. Adam, E. Aguilo, T. Bergauer, M. Dragicevic, J. Er, C. Fabjan, et al., Observation of a new boson at a mass of 125 gev with the cms experiment at the lhc, Physics Letters B 716 (1) (2012) 3061. doi:10.1016/j.physletb.2012.08.021. URL http://dx.doi.org/10.1016/j.physletb.2012.08.021
+O. Cerri, T. Q. Nguyen, M. Pierini, M. Spiropulu, J.-R. Vlimant, Variational autoencoders for new physics mining at the large hadron collider, Journal of High Energy Physics 2019 (5). doi:10.1007/jhep05(2019)036. URL http://dx.doi.org/10.1007/JHEP05(2019)036
+A. Blance, M. Spannowsky, P. Waite, Adversarially-trained autoencoders for robust unsupervised new physics searches, Journal of High Energy Physics 2019 (10). doi:10.1007/jhep10(2019)047. URL http://dx.doi.org/10.1007/JHEP10(2019)047
+R. T. DAgnolo, A. Wulzer, Learning new physics from a machine, Physical Review D 99 (1). doi:10.1103/physrevd.99.015014. URL http://dx.doi.org/10.1103/PhysRevD.99.015014
+A. A. Pol, V. Berger, G. Cerminara, C. Germain, M. Pierini, Anomaly detection with conditional variational autoencoders (2020). arXiv:2010.05531.
+T. Aarrestad, et al., The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron ColliderarXiv:2105.14027.
+K. Fraser, S. Homiller, R. K. Mishra, B. Ostdiek, M. D. Schwartz, Challenges for unsupervised anomaly detection in particle physics (2021). arXiv:2110.06948.
+S. V. Chekanov, Searches for new physics in collision events using a statistical technique for anomaly detection (2021). arXiv:2110.06277.
+P. Jawahar, T. Aarrestad, M. Pierini, K. A. Wozniak, J. Ngadiuba, J. Duarte, S. Tsan, Improving variational autoencoders for new physics detection at the lhc with normalizing flows (2021). arXiv:2110.08508.
+A. Kahn, J. Gonski, I. Ochoa, D. Williams, G. Brooijmans, Anomalous jet identification via sequence modeling, Journal of Instrumentation 16 (08) (2021) P08012. doi:10.1088/1748-0221/16/08/p08012. URL http://dx.doi.org/10.1088/1748-0221/16/08/P08012
+A. Hallin, J. Isaacson, G. Kasieczka, C. Krause, B. Nachman, T. Quadfasel, M. Schlaffer, D. Shih, M. Sommerhalder, Classifying anomalies through outer density estimation (cathode) (2021). arXiv:2109.00546.
+J. A. Aguilar-Saavedra, Anomaly detection from mass unspecific jet tagging (2021). arXiv:2111.02647.
+J. H. Collins, P. Martn-Ramiro, B. Nachman, D. Shih, Comparing weak- and unsupervised methods for resonant anomaly detection, The European Physical Journal C 81 (7). doi:10.1140/epjc/s10052-021-09389-x. URL http://dx.doi.org/10.1140/epjc/s10052-021-09389-x
+O. Knapp, G. Dissertori, O. Cerri, T. Q. Nguyen, J.-R. Vlimant, M. Pierini, Adversarially learned anomaly detection on cms open data: re-discovering the top quark, The European Physical Journal Plus 136 (236). doi:10.1140/epjp/s13360-021-01109-4.
+S. Chekanov, Imaging particle collision data for event classification using machine learning, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 931 (2019) 9299. doi:10.1016/j.nima.2019.04.031. URL http://dx.doi.org/10.1016/j.nima.2019.04.031
+S. V. Chekanov, Machine learning using rapidity-mass matrices for event classification problems in hep, Universe 7 (1) (2021) 19. doi:10.3390/universe7010019. URL http://dx.doi.org/10.3390/universe7010019
+S. Chekanov, S. Darmora, W. Islam, C. E. M. Wagner, J. Zhang, Model-independent searches for new physics in multi-body invariant masses, Universe 7 (9) (2021) 333. doi:10.3390/universe7090333. URL http://dx.doi.org/10.3390/universe7090333
+T. Sjostrand, S. Mrenna, P. Z. Skands, PYTHIA 6.4 Physics and Manual, JHEP 05 (2006) 026. arXiv:hep-ph/0603175.
+NNPDF Collaboration, R. D. Ball, et al., Parton distributions for the LHC Run II, JHEP 04 (2015) 040. arXiv:1410.8849, doi:10.1007/JHEP04(2015)040.
+A. Buckley, et al., LHAPDF6: parton density access in the LHC precision era, Eur. Phys. J. C 75 (2015) 132. arXiv:1412.7420, doi:10.1140/epjc/s10052-015-3318-8.
+A. G. Akeroyd, et al., Prospects for charged Higgs searches at the LHC, Eur. Phys. J. C 77 (5) (2017) 276. arXiv:1607.01320, doi:10.1140/epjc/s10052-017-4829-2.
+M. Cacciari, G. P. Salam, G. Soyez, The anti-kt jet clustering algorithm, JHEP 04 (2008) 063. arXiv:0802.1189, doi:10.1088/1126-6708/2008/04/063.
+M. Cacciari, G. P. Salam, G. Soyez, FastJet User Manual, Eur. Phys. J. C 72 (2012) 1896, http://fastjet.fr/ (accessed on Feb. 1st, 2019). arXiv:1111.6097, doi:10.1140/epjc/s10052-012-1896-2.
+S. V. Chekanov, HepSim: a repository with predictions for high-energy physics experiments, Advances in High Energy Physics 2015 (2015) 136093, http://atlaswww.hep.anl.gov/hepsim/ (accessed on Feb. 1st, 2019). arXiv:1403.1886, doi:10.1155/2015/136093.
+M. Abadi, et al., Tensorflow: Large-scale machine learning on heterogeneous distributed systems (2016). arXiv:1603.04467.
+ATLAS Collaboration, ATLAS Collaboration, Search for low-mass dijet resonances using trigger-level jets with the atlas detector in pp collisions at s = 13 tevarXiv:1804.03496.
+ATLAS Collaboration, G. Aad, et al., Search for dijet resonances in events with an isolated charged lepton using s = 13 TeV proton-proton collision data collected by the ATLAS detector, JHEP 06 (2020) 151. arXiv:2002.11325, doi:10.1007/JHEP06(2020)151.

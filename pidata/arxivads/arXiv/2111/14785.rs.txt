@@ -1,0 +1,16 @@
+Bicep/Keck Collaboration "Phys. Rev. Lett." 127, 15, (2021), DOI: 10.1103/PhysRevLett.127.151301
+Bicep/Keck Collaboration "Phys. Rev. Lett." 121, 22, (2018), DOI: 10.1103/PhysRevLett.121.221301
+L. Moncelsi, et al, "Proc. SPIE" 11453, id. 1145314, (2020), DOI: 10.1117/12.2561995
+A. Schillaci, et al, "J. Low Temp. Phys.", 199, issue 3,4 (2020), DOI: 10.1007/s10909-020-02394-6
+BICEP2 Collaboration "APJ", 812, issue 2, (2015), DOI: 10.1088/0004-637X/812/2/176
+CMB-S4 Collaboration "eprint on ArXiv" eprint arXiv:1907.04473 (2019)
+M. Crumrine, et al, "Proc. SPIE" 10708, id. 107082D, (2018), DOI: 10.1117/12.2312829
+L. Duband "eprint on ArXiv" eprint arXiv:2009.09997 (2020)
+E. S. Battistelli, et al, "J. Low Temp. Phys.", 151, issue 3,4 (2008), DOI: 10.1007/s10909-008-9772-z
+A. Cukierman, et al, "J. Low Temp. Phys.", 199, issue 3,4 (2020), DOI: 10.1007/s10909-019-02296-2
+A. Wandui, et al, "JAP", 128, issue 4, id.044508 (2020), DOI: 10.1063/5.0002413
+L. Minutolo, et al, "Proc. IEEE", 31, issue 5, id. 3069732 (2021), DOI: 10.1109/TASC.2021.3069732
+A. Wandui, et al, "Proc. SPIE", 11453, id. 114531E (2020), DOI: 10.1117/12.2563373
+A. Soliman, et al, "Proc. SPIE", 10708, id. 107082G (2018), DOI: 10.1117/12.2312942
+P. A. J. de Korte, et al, "Rev, Sci. Inst.", 74, 3807 (2003), DOI: 10.1016/j.nima.2003.11.310
+K. D. Irwin, et al, "J. Low Temp. Phys.", 167, issue 5,6 (2012), DOI: 10.1007/s10909-012-0586-7

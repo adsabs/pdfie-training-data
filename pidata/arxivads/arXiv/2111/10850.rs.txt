@@ -1,0 +1,100 @@
+Arce, H. G., Shepherd, D., Gueth, F., et al. 2007, Protostars and Planets V, 245
+Astropy Collaboration, Price-Whelan, A. M., Sipocz, B. M., et al. 2018, AJ, 156, 123
+Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33
+Beltran, M. T. & de Wit, W. J. 2016, A&A Rev., 24, 6
+Beltran, M. T., Sanchez-Monge, A., Cesaroni, R., et al. 2014, A&A, 571, A52
+Beuther, H., Ahmadi, A., Mottram, J. C., et al. 2019, A&A, 621, A122
+Beuther, H., Linz, H., & Henning, T. 2012a, A&A, 543, A88
+Beuther, H., Schilke, P., Sridharan, T. K., et al. 2002, A&A, 383, 892
+Beuther, H., Sridharan, T. K., & Saito, M. 2005,, ApJ, 634, L185
+Beuther, H., Tackenberg, J., Linz, H., et al. 2012b,, ApJ, 747, 43
+Billington, S. J., Urquhart, J. S., Konig, C., et al. 2020,, MNRAS, 499, 2744
+Billington, S. J., Urquhart, J. S., Konig, C., et al. 2019,, MNRAS, 490, 2779
+Boley, P. A., Linz, H., van Boekel, R., et al. 2013, A&A, 558, A24
+Cesaroni, R., Galli, D., Neri, R., & Walmsley, C. M. 2014, A&A, 566, A73
+Chen, H.-R. V., Keto, E., Zhang, Q., et al. 2016,, ApJ, 823, 125
+Choi, M., Evans, Neal J., I., & Jaffe, D. T. 1993,, ApJ, 417, 624
+Codella, C., Lorenzani, A., Gallego, A. T., Cesaroni, R., & Moscadelli, L. 2004, A&A, 417, 615
+Colombo, D., Duarte-Cabral, A., Pettitt, A. R., et al. 2021, arXiv e-prints, arXiv:2110.06071
+Contreras, Y., Schuller, F., Urquhart, J. S., et al. 2013, A&A, 549, A45
+Csengeri, T., Bontemps, S., Wyrowski, F., et al. 2018, A&A, 617, A89
+Csengeri, T., Leurini, S., Wyrowski, F., et al. 2016, A&A, 586, A149
+Csengeri, T., Urquhart, J. S., Schuller, F., et al. 2014, A&A, 565, A75
+de Villiers, H. M., Chrysostomou, A., Thompson, M. A., et al. 2014,, MNRAS, 444, 566
+Dempsey, J. T., Thomas, H. S., & Currie, M. J. 2013,, ApJS, 209, 8
+Duarte-Cabral, A., Bontemps, S., Motte, F., et al. 2013, A&A, 558, A125
+Duarte-Cabral, A., Colombo, D., Urquhart, J. S., et al. 2021,, MNRAS, 500, 3027
+Feng, S., Beuther, H., Zhang, Q., et al. 2016,, ApJ, 828, 100
+Ginsburg, A., Bally, J., Goddi, C., Plambeck, R., & Wright, M. 2018a,, ApJ, 860, 119
+Ginsburg, A., Bally, J., Goddi, C., Plambeck, R., & Wright, M. 2018b,, ApJ, 860, 119
+Goddi, C., Ginsburg, A., Maud, L. T., Zhang, Q., & Zapata, L. A. 2020,, ApJ, 905, 25
+Goldsmith, P. F., Snell, R. L., Hemeon-Heyer, M., & Langer, W. D. 1984,, ApJ, 286, 599
+Green, J. A., Caswell, J. L., Fuller, G. A., et al. 2009,, MNRAS, 392, 783
+Gusten, R., Nyman, L. A., Schilke, P., et al. 2006, A&A, 454, L13
+Hacar, A., Alves, J., Burkert, A., & Goldsmith, P. 2016, A&A, 591, A104
+Haemmerle, L., Eggenberger, P., Meynet, G., Maeder, A., & Charbonnel, C. 2016, A&A, 585, A65
+Harju, J., Lehtinen, K., Booth, R. S., & Zinchenko, I. 1998, A&AS, 132, 211
+Hervias-Caimapo, C., Merello, M., Bronfman, L., et al. 2019,, ApJ, 872, 200
+Ilee, J. D., Cyganowski, C. J., Brogan, C. L., et al. 2018,, ApJ, 869, L24
+Jimenez-Donaire, M. J., Bigiel, F., Leroy, A. K., et al. 2017,, MNRAS, 466, 49
+Johnston, K. G., Hoare, M. G., Beuther, H., et al. 2020, A&A, 634, L11
+Johnston, K. G., Robitaille, T. P., Beuther, H., et al. 2015,, ApJ, 813, L19
+Kalcheva, I. E., Hoare, M. G., Urquhart, J. S., et al. 2018, A&A, 615, A103
+Kim, K.-T. & Kurtz, S. E. 2006,, ApJ, 643, 978
+Konig, C., Urquhart, J. S., Csengeri, T., et al. 2017, A&A, 599, A139
+Kraus, S., Hofmann, K.-H., Menten, K. M., et al. 2010,, Nature, 466, 339
+Krumholz, M. R., McKee, C. F., & Bland-Hawthorn, J. 2019, ARA&A, 57, 227
+Kuiper, R., Klahr, H., Beuther, H., & Henning, T. 2011,, ApJ, 732, 20
+Kurtz, S., Cesaroni, R., Churchwell, E., Hofner, P., & Walmsley, C. M. 2000, Protostars and Planets IV, 299
+Li, Q., Zhou, J., Esimbek, J., et al. 2018,, ApJ, 867, 167
+Li, S., Zhang, Q., Pillai, T., et al. 2019,, ApJ, 886, 130
+Liu, T., Lacy, J., Li, P. S., et al. 2017,, ApJ, 849, 25
+Lopez-Sepulcre, A., Codella, C., Cesaroni, R., Marcelino, N., & Walmsley, C. M. 2009, A&A, 499, 811
+Lopez-Sepulcre, A., Walmsley, C. M., Cesaroni, R., et al. 2011, A&A, 526, L2
+Lumsden, S. L., Hoare, M. G., Urquhart, J. S., et al. 2013,, ApJS, 208, 11
+Maud, L. T., Cesaroni, R., Kumar, M. S. N., et al. 2019, A&A, 627, L6
+Maud, L. T., Cesaroni, R., Kumar, M. S. N., et al. 2018, A&A, 620, A31
+Maud, L. T., Moore, T. J. T., Lumsden, S. L., et al. 2015,, MNRAS, 453, 645
+Moscadelli, L., Sanna, A., Cesaroni, R., et al. 2019, A&A, 622, A206
+Motte, F., Bontemps, S., & Louvet, F. 2018, ARA&A, 56, 41
+Palagi, F., Cesaroni, R., Comoretto, G., Felli, M., & Natale, V. 1993, A&AS, 101, 153
+Pitts, R. L., Barnes, P. J., & Varosi, F. 2019,, MNRAS, 484, 305
+Plambeck, R. L. & Wright, M. C. H. 2016,, ApJ, 833, 219
+Qin, S.-L., Wang, J.-J., Zhao, G., Miller, M., & Zhao, J.-H. 2008, A&A, 484, 361
+Rigby, A. J., Moore, T. J. T., Plume, R., et al. 2016,, MNRAS, 456, 2885
+Sanchez-Monge, A., Cesaroni, R., Beltran, M. T., et al. 2013, A&A, 552, L10
+Schuller, F., Csengeri, T., Urquhart, J. S., et al. 2017, A&A, 601, A124
+Schuller, F., Menten, K. M., Contreras, Y., et al. 2009, A&A, 504, 415
+Schuller, F., Urquhart, J. S., Csengeri, T., et al. 2021,, MNRAS, 500, 3064
+Shepherd, D. S. & Churchwell, E. 1996,, ApJ, 457, 267
+Snell, R. L., Loren, R. B., & Plambeck, R. L. 1980,, ApJ, 239, L17
+Stroh, M. C., Pihlstrom, Y. M., Sjouwerman, L. O., et al. 2019,, ApJS, 244, 25
+Tan, J. C., Kong, S., Zhang, Y., et al. 2016,, ApJ, 821, L3
+Tanaka, K. E. I., Zhang, Y., Hirota, T., et al. 2020,, ApJ, 900, L2
+Urquhart, J. S., Csengeri, T., Wyrowski, F., et al. 2014, A&A, 568, A41
+Urquhart, J. S., Figura, C., Cross, J. R., et al. 2021a,, MNRAS, 500, 3050
+Urquhart, J. S., Konig, C., Giannetti, A., et al. 2018,, MNRAS, 473, 1059
+Urquhart, J. S., Moore, T. J. T., Menten, K. M., et al. 2015,, MNRAS, 446, 3461
+Urquhart, J. S., Moore, T. J. T., Schuller, F., et al. 2013a,, MNRAS, 431, 1752
+Urquhart, J. S., Thompson, M. A., Moore, T. J. T., et al. 2013b,, MNRAS, 435, 400
+Urquhart, J. S., Wells, M. R. A., Pillai, T., et al. 2021b, arXiv e-prints, arXiv:2111.12816
+van der Walt, D. J., Sobolev, A. M., & Butner, H. 2007, A&A, 464, 1015
+Walsh, A. J., Breen, S. L., Britton, T., et al. 2011,, MNRAS, 416, 1764
+Walsh, A. J., Purcell, C. R., Longmore, S. N., et al. 2014,, MNRAS, 442, 2240
+Wilson, C. D., Howe, J. E., & Balogh, M. L. 1999,, ApJ, 517, 174
+Wilson, T. L., Rohlfs, K., & Huttemeister, S. 2013, Tools of Radio Astronomy
+Wilson, T. L. & Rood, R. 1994, ARA&A, 32, 191
+Wu, Y., Wei, Y., Zhao, M., et al. 2004, A&A, 426, 503
+Wu, Y. W., Xu, Y., Pandian, J. D., et al. 2010,, ApJ, 720, 392
+Xu, Y., Shen, Z. Q., Yang, J., et al. 2006, AJ, 132, 20
+Yan, Q.-Z., Yang, J., Yang, S., Sun, Y., & Wang, C. 2021,, ApJ, 910, 109
+Yang, A. Y., Thompson, M. A., Tian, W. W., et al. 2019,, MNRAS, 482, 2681
+Yang, A. Y., Thompson, M. A., Urquhart, J. S., & Tian, W. W. 2018,, ApJS, 235, 3
+Yang, A. Y., Urquhart, J. S., Thompson, M. A., et al. 2021, A&A, 645, A110
+Zapata, L. A., Garay, G., Palau, A., et al. 2019,, ApJ, 872, 176
+Zapata, L. A., Ho, P. T. P., Fernandez-Lopez, M., et al. 2020,, ApJ, 902, L47
+Zhang, Q., Hunter, T. R., Brand, J., et al. 2005,, ApJ, 625, 864
+Zhang, Q., Hunter, T. R., Brand, J., et al. 2001,, ApJ, 552, L167
+Zhang, Y., Tan, J. C., Sakai, N., et al. 2019,, ApJ, 873, 73
+Zhao, B., Tomida, K., Hennebelle, P., et al. 2020, Space Sci. Rev., 216, 43
+Zinnecker, H. & Yorke, H. W. 2007, ARA&A, 45, 481

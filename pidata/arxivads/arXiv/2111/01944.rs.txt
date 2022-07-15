@@ -1,0 +1,49 @@
+A. Lewis and A. Challinor, Physics Reports 429, 1 (2006), URL https://doi.org/10.1016/j.physrep.2006.03.002.
+D. Hanson, A. Challinor, G. Efstathiou, and P. Bielewicz, Physical Review D 83, 043005 (2011), URL https://doi.org/10.1103/physrevd.83.043005.
+J. Liu and J. C. Hill, Phys. Rev. D 92, 063517 (2015), URL https://link.aps.org/doi/10.1103/PhysRevD.92.063517.
+F. Bianchini et al. (SPT), Astrophys. J. 888, 119 (2020), 1910.07157.
+L. Santos, P. Cabella, A. Balbi, and N. Vittorio, Phys. Rev. D 88, 043505 (2013), 1307.2919.
+R. Allison, P. Caucal, E. Calabrese, J. Dunkley, and T. Louis, Phys. Rev. D 92, 123535 (2015), 1509.07471.
+W. Hu and T. Okamoto, Astrophys. J. 574, 566 (2002), astro-ph/0111606.
+A. S. Maniyar, Y. Ali-Ha imoud, J. Carron, A. Lewis, and M. S. Madhavacheril, Phys. Rev. D 103, 083524 (2021), 2101.12193.
+S. W. Henderson et al., J. Low Temp. Phys. 184, 772 (2016), 1510.02809.
+B. A. Benson et al. (SPT-3G), Proc. SPIE Int. Soc. Opt. Eng. 9153, 91531P (2014), 1407.2973.
+P. Ade et al. (Simons Observatory), JCAP 02, 056 (2019), 1808.07445.
+K. Abazajian et al. (2019), 1907.04473.
+N. Sehgal et al. (2019), 1906.10134.
+C. Bennett et al. (WMAP), Astrophys. J. Suppl. 148, 97 (2003), astro-ph/0302208.
+M. S. Madhavacheril et al., Phys. Rev. D 102, 023534 (2020), 1911.05717.
+Y. S. Abylkairov, O. Darwish, J. C. Hill, and B. D. Sherwin, Phys. Rev. D 103, 103510 (2021), 2012.04032.
+L. E. Bleem, T. M. Crawford, B. Ansarinejad, B. A. Benson, S. Bocquet, J. E. Carlstrom, C. L. Chang, R. Chown, A. T. Crites, T. de Haan, et al., arXiv e-prints arXiv:2102.05033 (2021), 2102.05033.
+S. Y. Sazonov and R. A. Sunyaev, Astrophys. J. 508, 1 (1998), astro-ph/9804125.
+A. D. Dolgov, S. H. Hansen, S. Pastor, and D. V. Semikoz, Astrophys. J. 554, 74 (2001), astro-ph/0010412.
+W. R. Coulton, A. Ota, and A. van Engelen, Phys. Rev. Lett. 125, 111301 (2020), 1910.10152.
+M. S. Madhavacheril and J. C. Hill, Phys. Rev. D 98, 023534 (2018), 1802.08230.
+N. Sailer, E. Schaan, S. Ferraro, O. Darwish, and B. Sherwin, Phys. Rev. D 104, 123514 (2021), 2108.01663.
+O. Darwish, B. D. Sherwin, N. Sailer, E. Schaan, and S. Ferraro (2021), 2111.00462.
+E. Schaan and S. Ferraro, Phys. Rev. Lett. 122, 181301 (2019), 1804.06403.
+T. Namikawa, D. Hanson, and R. Takahashi, Monthly Notices of the Royal Astronomical Society 431, 609-620 (2013), ISSN 1365-2966, URL http://dx.doi.org/10.1093/mnras/stt195.
+S. J. Osborne, D. Hanson, and O. Dore, JCAP 03, 024 (2014), 1310.7547.
+N. Sailer, E. Schaan, and S. Ferraro, Phys. Rev. D 102, 063517 (2020), 2007.04325.
+S. Ferraro and J. C. Hill, Physical Review D 97, 023512 (2018), URL https://doi.org/10.1103/physrevd.97.023512.
+G. Stein, M. A. Alvarez, J. R. Bond, A. v. Engelen, and N. Battaglia, Journal of Cosmology and Astroparticle Physics 2020, 012-012 (2020), ISSN 1475-7516, URL http://dx.doi.org/10.1088/1475-7516/2020/10/012.
+N. Mishra and E. Schaan, Phys. Rev. D 100, 123504 (2019), 1908.08057.
+P. A. R. Ade et al. (Planck), Astron. Astrophys. 594, A13 (2016), 1502.01589.
+W. Hu and T. Okamoto, The Astrophysical Journal 574, 566-574 (2002), ISSN 1538-4357, URL http://dx.doi.org/10.1086/341110.
+M. H. Kesden, A. Cooray, and M. Kamionkowski, Phys. Rev. D 67, 123507 (2003), astro-ph/0302536.
+M. S. Madhavacheril, K. M. Smith, B. D. Sherwin, and S. Naess (2020), 2011.02475.
+V. Bohm, M. Schmittfull, and B. D. Sherwin, Phys. Rev. D 94, 043519 (2016), 1605.01392.
+V. Bohm, B. D. Sherwin, J. Liu, J. C. Hill, M. Schmittfull, and T. Namikawa, Phys. Rev. D 98, 123510 (2018), 1806.01157.
+G. Fabbian, M. Calabrese, and C. Carbone, J. Cosmology Astropart. Phys. 2018, 050 (2018), 1702.03317.
+N. Sehgal, P. Bode, S. Das, C. Hernandez-Monteagudo, K. Huffenberger, Y.-T. Lin, J. P. Ostriker, and H. Trac, The Astrophysical Journal 709, 920-936 (2010), ISSN 1538-4357, URL http://dx.doi.org/10.1088/0004-637X/709/2/920.
+R. A. Sunyaev and Y. B. Zeldovich, Monthly Notices of the Royal Astronomical Society 190, 413 (1980), ISSN 0035-8711, https://academic.oup.com/mnras/articlepdf/190/3/413/18223511/mnras190-0413.pdf, URL https://doi.org/10.1093/mnras/190.3.413.
+H. Park, P. R. Shapiro, E. Komatsu, I. T. Iliev, K. Ahn, and G. Mellema, Astrophys. J. 769, 93 (2013), 1301.3607.
+N. Y. Gnedin and A. H. Jaffe, The Astrophysical Journal 551, 3 (2001), URL https://doi.org/10.1086/320076.
+L. Knox, R. Scoccimarro, and S. Dodelson, Phys. Rev. Lett. 81, 2004 (1998), URL https: //link.aps.org/doi/10.1103/PhysRevLett.81.2004.
+N. Battaglia, H. Trac, R. Cen, and A. Loeb, The Astrophysical Journal 776, 81 (2013), URL https://doi.org/10.1088/0004-637x/776/2/81.
+P. Zhang, U.-L. Pen, and H. Trac, Monthly Notices of the Royal Astronomical Society 347, 1224 (2004), ISSN 0035-8711, https://academic.oup.com/mnras/articlepdf/347/4/1224/3197755/347-4-1224.pdf, URL https://doi.org/10.1111/j.1365-2966.2004.07298.x.
+M. A. Alvarez, Astrophys. J. 824, 118 (2016), 1511.02846.
+N. Aghanim et al. (Planck), Astron. Astrophys. 641, A6 (2020), [Erratum: Astron.Astrophys. 652, C4 (2021)], 1807.06209.
+A. Cooray and M. Kesden, New Astronomy 8, 231 (2003), URL https://doi.org/10.1016/s1384-1076(02)00225-7.
+M. H. Kesden, A. Cooray, and M. Kamionkowski, Phys. Rev. D 66, 083007 (2002), astro-ph/0208325.
+M. McQuinn, S. R. Furlanetto, L. Hernquist, O. Zahn, and M. Zaldarriaga, The Astrophysical Journal 630, 643-656 (2005), ISSN 1538-4357, URL http://dx.doi.org/10.1086/432049.

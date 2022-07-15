@@ -1,0 +1,35 @@
+N. Agarwal, A. Mukhopadhyay, S. Pal and A. Tripathi, "Power corrections to event shapes using eikonal dressed gluon exponentiation", JHEP 03, 155 (2021), doi:10.1007/JHEP03(2021)155, 2012.06842.
+R. Abbate, M. Fickinger, A. H. Hoang, V . Mateu and I. W. Stewart, "Thrust at N"3LL with Power Corrections and a Precision Global Fit for alphas(mZ), Phys.Rev. D83, 074021 (2011), doi:10.1103/PhysRevD.83.074021, 1006.3080.
+A. H. Hoang, D. W. Kolodrubetz, V . Mateu and I. W. Stewart, "Precise determination of s from the C-parameter distribution", Phys. Rev. D 91(9), 094018 (2015), doi:10.1103/PhysRevD.91.094018, 1501.04111.
+S.-Q. Wang, S. J. Brodsky, X.-G. Wu, J.-M. Shen and L. Di Giustino, "Novel method for the precise determination of the QCD running coupling from event shape distributions in electron-positron annihilation", Phys. Rev. D 100(9), 094010 (2019), doi:10.1103/PhysRevD.100.094010, 1908.00060.
+S. Marzani, D. Reichelt, S. Schumann, G. Soyez and V . Theeuwes, "Fitting the Strong Coupling Constant with Soft-Drop Thrust", JHEP 11, 179 (2019), doi:10.1007/JHEP11(2019)179, 1906.10504.
+T. Gehrmann, G. Luisoni and P . F. Monni, "Power corrections in the dispersive model for a determination of the strong coupling constant from the thrust distribution", Eur. Phys. J. C 73(1), 2265 (2013), doi:10.1140/epjc/s10052-012-2265-x, 1210.6945.
+A. Gehrmann-De Ridder, T. Gehrmann, E. Glover and G. Heinrich, "NNLO corrections to event shapes in e+e- annihilation", JHEP 0712, 094 (2007), doi:10.1088/1126-6708/2007/12/094, 0711.4711.
+S. Weinzierl, "Event shapes and jet rates in electron-positron annihilation at NNLO", JHEP 0906, 041 (2009), doi:10.1088/1126-6708/2009/06/041, 0904.1077.
+T. Gehrmann, A. Huss, J. Mo and J. Niehues, "Second-order QCD corrections to event shape distributions in deep inelastic scattering", Eur. Phys. J. C 79(12), 1022 (2019), doi:10.1140/epjc/s10052-019-7528-3, 1909.02760.
+A. Kardos, G. Somogyi and A. Verbytskyi, "Determination of S" beyond NNLO using event shape moments (2020), 2009.00281.
+A. Gehrmann-De Ridder, T. Gehrmann, E. Glover and G. Heinrich, "NNLO moments of event shapes in e+e- annihilation", JHEP 05, 106 (2009), doi:10.1088/1126-6708/2009/05/106, 0903.4658.
+S. Catani, L. Trentadue, G. Turnock and B. Webber, "Resummation of large logarithms in e+ e- event shape distributions", Nucl.Phys. B407, 3 (1993), doi:10.1016/0550-3213(93)90271-P.
+A. Banfi, G. P . Salam and G. Zanderighi, "Phenomenology of event shapes at hadron colliders", JHEP 06, 038 (2010), doi:10.1007/JHEP06(2010)038, 1001.4082.
+A. Banfi, G. P . Salam and G. Zanderighi, "Principles of general final-state resummation and automated implementation", JHEP 03, 073 (2005), doi:10.1088/1126-6708/2005/03/073, hep-ph/0407286.
+A. Banfi, G. Salam and G. Zanderighi, "Semi-numerical resummation of event shapes", JHEP 0201, 018 (2002), hep-ph/0112156.
+A. Banfi, H. McAslan, P . F. Monni and G. Zanderighi, "The two-jet rate in e+e- at next-to-next-to-leading-logarithmic order", Phys. Rev. Lett. 117(17), 172001 (2016), doi:10.1103/PhysRevLett.117.172001, 1607.03111.
+T. Becher and G. Bell, "NNLL Resummation for Jet Broadening", JHEP 1211, 126 (2012), doi:10.1007/JHEP11(2012)126, 1210.0580.
+A. H. Hoang, D. W. Kolodrubetz, V . Mateu and I. W. Stewart, "C-parameter distribution at N3LL' including power corrections", Phys. Rev. D 91(9), 094017 (2015), doi:10.1103/PhysRevD.91.094017, 1411.6633.
+A. Budhraja, A. Jain and M. Procura, "One-loop angularity distributions with recoil using Soft-Collinear Effective Theory", JHEP 08, 144 (2019), doi:10.1007/JHEP08(2019)144, 1903.11087.
+G. Bell, A. Hornig, C. Lee and J. Talbert, "e+e- angularity distributions at NNLL accuracy", JHEP 01, 147 (2019), doi:10.1007/JHEP01(2019)147, 1808.07867.
+A. H. Hoang, D. W. Kolodrubetz, V . Mateu and I. W. Stewart, "State-of-the-art predictions for C-parameter and a determination of s ", Nucl. Part. Phys. Proc. 273-275, 2015 (2016), doi:10.1063/1.4938630, 1501.04753.
+D. W. Kolodrubetz, "Accuracy and Precision in Collider Event Shapes", Ph.D. thesis, MIT, Cambridge, CTP (2016), 1605.06435.
+C. Lepenik and V . Mateu, "NLO Massive Event-Shape Differential and Cumulative Distributions", JHEP 03, 024 (2020), doi:10.1007/JHEP03(2020)024, 1912.08211.
+C. Lee, A. Hornig and G. Ovanesyan, "Probing the Structure of Jets: Factorized and Resummed Angularity Distributions in SCET", PoS EFT09, 010 (2009), doi:10.22323/1.069.0010, 0905.0168.
+A. Hornig, C. Lee and G. Ovanesyan, "Effective Predictions of Event Shapes: Factorized, Resummed, and Gapped Angularity Distributions", JHEP 05, 122 (2009), doi:10.1088/1126-6708/2009/05/122, 0901.3780.
+A. Banfi, H. McAslan, P . F. Monni and G. Zanderighi, "A general method for resummation of event-shape distributions in e+e- annihilation", JHEP 05, 102 (2015), doi:10.1007/JHEP05(2015)102, 1412.2126.
+J. Zhu, D. Kang and T. Maji, "Angularity in DIS at next-to-next-to-leading log accuracy" (2021), 2106.14429.
+F. Caola, S. F. Ravasio, G. Limatola, K. Melnikov and P . Nason, "On linear power corrections in certain collider observables" (2021), 2108.08897.
+M. Beneke and V . M. Braun, "Heavy quark effective theory beyond perturbation theory: Renormalons, the pole mass and the residual mass term", Nucl.Phys. B426, 301 (1994), doi:10.1016/0550-3213(94)90314-X, hep-ph/9402364.
+E. Gardi, "Dressed gluon exponentiation", Nucl.Phys. B622, 365 (2002), doi:10.1016/S0550-3213(01)00594-6, hep-ph/0108222.
+E. Gardi, "Perturbative and nonperturbative aspects of moments of the thrust distribution in e+ e- annihilation", JHEP 04, 030 (2000), doi:10.1088/1126-6708/2000/04/030, hep-ph/0003179.
+Y. L. Dokshitzer, G. Marchesini and B. Webber, "Dispersive approach to power behaved contributions in QCD hard processes", Nucl.Phys. B469, 93 (1996), doi:10.1016/0550-3213(96)00155-1, hep-ph/9512336.
+E. Gardi and J. Rathsman, "Renormalon resummation and exponentiation of soft and collinear gluon radiation in the thrust distribution", Nucl.Phys. B609, 123 (2001), doi:10.1016/S0550-3213(01)00284-X, hep-ph/0103217.
+E. Gardi and L. Magnea, "The C parameter distribution in e+ e- annihilation", JHEP 0308, 030 (2003), hep-ph/0306094.
+C. F. Berger and L. Magnea, "Scaling of power corrections for angularities from dressed gluon exponentiation", Phys.Rev. D70, 094010 (2004), doi:10.1103/PhysRevD.70.094010, hep-ph/0407024.

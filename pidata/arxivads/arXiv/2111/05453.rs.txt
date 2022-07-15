@@ -1,0 +1,85 @@
+Z. Komargodski and A. Zhiboedov, JHEP 11 (2013), 140 doi:10.1007/JHEP11(2013)140
+Z. Komargodski and A. Zhiboedov, JHEP 11, 2013, arXiv:1212.4103 [hep-th
+A. L. Fitzpatrick, J. Kaplan, D. Poland and D. Simmons-Duffin, JHEP 12 (2013), 004 doi:10.1007/JHEP12(2013)004
+A. L. Fitzpatrick, J. Kaplan, D. Poland and D. Simmons-Duffin, JHEP 12, 2013, arXiv:1212.3616 [hep-th
+D. Simmons-Duffin, JHEP 03 (2017), 086 doi:10.1007/JHEP03(2017)086
+D. Simmons-Duffin, JHEP 03, 2017, arXiv:1612.08471 [hep-th
+L. F. Alday and A. Zhiboedov, JHEP 04 (2017), 157 doi:10.1007/JHEP04(2017)157
+L. F. Alday and A. Zhiboedov, JHEP 04, 2017, arXiv:1510.08091 [hep-th
+L. F. Alday, A. Bissi and T. Lukowski, JHEP 11 (2015), 101 doi:10.1007/JHEP11(2015)101
+L. F. Alday, A. Bissi and T. Lukowski, JHEP 11, 2015, arXiv:1502.07707 [hep-th
+A. Kaviraj, K. Sen and A. Sinha, JHEP 11 (2015), 083 doi:10.1007/JHEP11(2015)083
+A. Kaviraj, K. Sen and A. Sinha, JHEP 11, 2015, arXiv:1502.01437 [hep-th
+A. Kaviraj, K. Sen and A. Sinha, JHEP 07 (2015), 026 doi:10.1007/JHEP07(2015)026
+A. Kaviraj, K. Sen and A. Sinha, JHEP 07, 2015, arXiv:1504.00772 [hep-th
+L. F. Alday, Phys. Rev. Lett. 119 (2017) no.11, 111601 doi:10.1103/PhysRevLett.119.111601
+L. F. Alday, Phys. Rev. Lett. 119, 2017, arXiv:1611.01500 [hep-th
+M. S. Costa, T. Hansen and J. Penedones, JHEP 10 (2017), 197 doi:10.1007/JHEP10(2017)197
+M. S. Costa, T. Hansen and J. Penedones, JHEP 10, 2017, arXiv:1707.07689 [hep-th
+M. Kulaxizi, A. Parnachev and A. Zhiboedov, JHEP 06 (2018), 121 doi:10.1007/JHEP06(2018)121
+M. Kulaxizi, A. Parnachev and A. Zhiboedov, JHEP 06, arXiv:1705.02934 [hep-th
+D. Li, D. Meltzer and D. Poland, JHEP 12 (2017), 013 doi:10.1007/JHEP12(2017)013
+D. Li, D. Meltzer and D. Poland, JHEP 12, 2017, arXiv:1705.03453 [hep-th
+D. Meltzer and E. Perlmutter, JHEP 07 (2018), 157 doi:10.1007/JHEP07(2018)157
+D. Meltzer and E. Perlmutter, JHEP 07, 2018, arXiv:1712.04861 [hep-th
+D. M. Hofman and J. Maldacena, JHEP 05 (2008), 012 doi:10.1088/1126-6708/2008/05/012
+D. M. Hofman and J. Maldacena, JHEP 05, 2008, arXiv:0803.1467 [hep-th
+X. O. Camanho, J. D. Edelstein, J. Maldacena and A. Zhiboedov, JHEP 02 (2016), 020 doi:10.1007/JHEP02(2016)020
+X. O. Camanho, J. D. Edelstein, J. Maldacena and A. Zhiboedov, JHEP 02, 2016, arXiv:1407.5597 [hep-th
+P. Vieira, V. Goncalves and C. Bercini, [arXiv:2008.10407 [hep-th]].
+C. Bercini, V. Goncalves, A. Homrich and P. Vieira, [arXiv:2110.04364 [hep-th]].
+V. Rosenhaus, JHEP 02 (2019), 142 doi:10.1007/JHEP02(2019)142
+V. Rosenhaus, JHEP 02, arXiv:1810.03244 [hep-th
+V. Goncalves, R. Pereira and X. Zhou, JHEP 10, 247 (2019) doi:10.1007/JHEP10(2019)247
+V. Goncalves, R. Pereira and X. Zhou, arXiv:1906.05305 [hep-th
+D. Poland and V. Prilepina, [arXiv:2103.12092 [hep-th]].
+S. Caron-Huot, JHEP 09 (2017), 078 doi:10.1007/JHEP09(2017)078
+S. Caron-Huot, JHEP 09, 2017, arXiv:1703.00278 [hep-th
+D. Simmons-Duffin, D. Stanford and E. Witten, JHEP 07 (2018), 085 doi:10.1007/JHEP07(2018)085
+D. Simmons-Duffin, D. Stanford and E. Witten, JHEP 07, 2018, arXiv:1711.03816 [hep-th
+S. Caron-Huot, Y. Gobeil and Z. Zahraee, [arXiv:2007.11647 [hep-th]].
+J. Liu, D. Meltzer, D. Poland and D. Simmons-Duffin, JHEP 09 (2020), 115 [erratum: JHEP 01 (2021), 206] doi:10.1007/JHEP09(2020)115 [arXiv:2007.07914 [hep-th]].
+V. K. Dobrev, V. B. Petkova, S. G. Petrova and I. Todorov, Phys. Rev. D 13, 887 (1976) doi:10.1103/PhysRevD.13.887
+M. Costa, J. Penedones, D. Poland and S. Rychkov JHEP 11 (2011), 071 doi:10.1007/JHEP11(2011)071
+M. Costa, J. Penedones, D. Poland and S. Rychkov JHEP 11, 2011, arXiv:1107.3554 [hep-th
+L. F. Alday, J. Henriksson and M. van Loon, JHEP 07 (2018), 131 doi:10.1007/JHEP07(2018)131
+L. F. Alday, J. Henriksson and M. van Loon, JHEP 07, 2018, arXiv:1712.02314 [hep-th
+J. Henriksson and M. Van Loon, J. Phys. A 52 (2019) no.2, 025401 doi:10.1088/1751-8121/aaf1e2
+J. Henriksson and M. Van Loon, J. Phys. A 52, arXiv:1801.03512 [hep-th
+L. F. Alday, J. Henriksson and M. van Loon, JHEP 01 (2020), 063 doi:10.1007/JHEP01(2020)063
+L. F. Alday, J. Henriksson and M. van Loon, JHEP 01, arXiv:1907.02445 [hep-th
+V. Goncalves, [arXiv:1809.09572 [hep-th]].
+F. Gliozzi, A. L. Guerrieri, A. C. Petkou and C. Wen, JHEP 04 (2017), 056 doi:10.1007/JHEP04(2017)056
+F. Gliozzi, A. L. Guerrieri, A. C. Petkou and C. Wen, JHEP 04, 2017, arXiv:1702.03938 [hep-th
+M. S. Costa, V. Goncalves and J. Penedones, JHEP 12, 091 (2012) doi:10.1007/JHEP12(2012)091
+M. S. Costa, V. Goncalves and J. Penedones, 2012, arXiv:1209.4355 [hep-th
+E. Panzer, Comput. Phys. Commun, 188 (2015), pp. 148-166 doi: 10.1016/j.cpc.2014.10.019
+E. Panzer, Comput. Phys. Commun, 188, 2015, arXiv:1403.3385 [hep-th
+L. J. Dixon, J. M. Drummond and J. M. Henn, JHEP 11, 023 (2011) doi:10.1007/JHEP11(2011)023
+L. J. Dixon, J. M. Drummond and J. M. Henn, 2011, arXiv:1108.4461 [hep-th
+G. Mack, [arXiv:0907.2407 [hep-th]].
+J. Penedones, JHEP 03, 025 (2011) doi:10.1007/JHEP03(2011)025
+J. Penedones, arXiv:1011.1485 [hep-th
+V. Goncalves, J. Penedones and E. Trevisani, JHEP 10, 040 (2015) doi:10.1007/JHEP10(2015)040
+V. Goncalves, J. Penedones and E. Trevisani, 2015, arXiv:1410.4185 [hep-th
+E. Y. Yuan, [arXiv:1801.07283 [hep-th]]
+F. A. Dolan and H. Osborn, Nucl. Phys. B 678, 491-507 (2004) doi:10.1016/j.nuclphysb.2003.11.016
+F. A. Dolan and H. Osborn, 2004, arXiv:hep-th/0309180 [hep-th
+M. Hogervorst and S. Rychkov, Phys. Rev. D 87, 106004 (2013) doi:10.1103/PhysRevD.87.106004
+M. Hogervorst and S. Rychkov, 2013, arXiv:1303.1111 [hep-th
+I. Buric, S. Lacroix, J. A. Mann, L. Quintavalle and V. Schomerus, Phys. Rev. Lett. 126, no.2, 021602 (2021) doi:10.1103/PhysRevLett.126.021602
+I. Buric, S. Lacroix, J. A. Mann, L. Quintavalle and V. Schomerus, arXiv:2009.11882 [hep-th
+I. Buric, S. Lacroix, J. Mann, L. Quintavalle and V. Schomerus, [arXiv:2105.00021 [hep-th]].
+C. B. Jepsen and S. Parikh, JHEP 10 (2019), 268 doi:10.1007/JHEP10(2019)268
+C. B. Jepsen and S. Parikh, JHEP 10, arXiv:1906.08405 [hep-th
+D. Meltzer, E. Perlmutter and A. Sivaramakrishnan, JHEP 03 (2020), 061 doi: 10.1007/JHEP03(2020)061
+D. Meltzer, E. Perlmutter and A. Sivaramakrishnan, JHEP 03, arXiv:1912.09521 [hep-th
+V. Del Duca, L. J. Dixon, J. M. Drummond, C. Duhr, J. M. Henn and V. A. Smirnov, Phys. Rev. D 84, 045017 (2011) doi:10.1103/PhysRevD.84.045017
+V. Del Duca, L. J. Dixon, J. M. Drummond, C. Duhr, J. M. Henn and V. A. Smirnov, arXiv:1105.2011 [hep-th
+D. Karateev, P. Kravchuk and D. Simmons-Duffin, JHEP 10 (2019), 217 doi: 10.1007/JHEP10(2019)217
+D. Karateev, P. Kravchuk and D. Simmons-Duffin, JHEP 10, arXiv:1809.05111 [hep-th
+D. Karateev, P. Kravchuk and D. Simmons-Duffin, JHEP 02 (2018), 081 doi: 10.1007/JHEP02(2018)081
+D. Karateev, P. Kravchuk and D. Simmons-Duffin, JHEP 02, 2018, arXiv:1706.07813 [hep-th
+M. Costa, J. Penedones, D. Poland and S. Rychkov JHEP 11 (2011), 154 doi:10.1007/JHEP11(2011)154
+M. Costa, J. Penedones, D. Poland and S. Rychkov JHEP 11, 2011, arXiv:1109.6321 [hep-th
+E. S. Fradkin and M. Ya. Palchi, Phys. Rept. 44 (1978), 249-349 doi: 10.1016/0370-1573(78)90172-2.

@@ -1,0 +1,30 @@
+Pierre Auger Collaboration, Abraham, J., Abreu, P., et al. 2007, Science, 318, 938
+Pierre Auger Collaboration, Abreu, P., Aglietta, M., Ahn, E. J., et al. 2010, Astroparticle Physics, 34, 314
+Aihara, H., Allende Prieto, C., An, D., et al. 2011,, ApJS, 193, 29
+Antonucci, R. 1993, ARA&A, 31, 473
+Asmus, D. and Greenwell, C. L. and Gandhi, P., et al. 2020.,, MNRAS, 494, 1784A
+Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, PASP, 93, 5
+Cappellari, M. & Emsellem, E. 2004, PASP, 116, 138
+Chen, Y.-P., Zaw, I., & Farrar, G. R. 2018,, ApJ, 861, 67
+Eun, D.-i., Woo, J.-H., & Bae, H.-J. 2017,, ApJ, 842, 5
+Gravity Collaboration, Abuter, R., Accardo, M., et al. 2017, A&A, 602A..94G
+Greene, J. E., & Ho, L. C. 2007,, ApJ, 667, 131
+Ho, L. C., Filippenko, A. V., Sargent, W. L. W., & Peng, C. Y. 1997,, ApJS, 112, 391
+Huchra, J. P., Macri, L. M., Masters, K. L., et al. 2012,, ApJS, 199, 26
+Jones, D. H., Saunders, W., Colless, M., et al. 2004,, MNRAS, 355, 747
+Jones, D. H., Read, M. A., Saunders, W., et al. 2009,, MNRAS, 399, 683
+Kauffmann, G., Heckman, T. M., Tremonti, C., et al. 2003,, MNRAS, 346, 1055
+Kewley, L. J., Dopita, M. A., Sutherland, R. S., Heisler, C. A., & Trevena, J. 2001,, ApJ, 556, 121
+Kewley, L. J., Groves, B., Kauffmann, G., & Heckman, T. 2006,, MNRAS, 372, 961
+Kurz, R., Guilloteau, S., & Shaver, P. 2002, The Messenger, 107, 7
+Lopez, B., Lagarde, S., Jaffe, W., et al. 2014, The Messenger, 157, 5
+Hickox, Ryan C., Alexander, David M., 2018, ARA&A, 56, 625H
+Skrutskie, M. F., Cutri, R. M., Stiening, R., et al. 2006, AJ, 131, 1163
+Schneider, D. P., Richards, G. T., Hall, P. B., et al. 2010, AJ, 139, 2360
+Stern, J., & Laor, A. 2012,, MNRAS, 426, 2703
+Ueda, Y., Akiyama, M., Ohta, K., Miyaji, T., 2003,, ApJ, 598, 886U
+Urry, C. M., & Padovani, P. 1995, PASP, 107, 803
+Vanden Berk, D. E., Shen, J., Yip, C.-W., et al. 2006, AJ, 131, 84
+Vazdekis, A., S anchez-Bl azquez, P., Falc on-Barroso, J., et al. 2010,, MNRAS, 404, 1639
+Zaw, I., Chen, Y.-P., & Farrar, G. R., 2019,, ApJ, 872, 134
+Zhu, G., Zaw, I., Blanton, M. R., & Greenhill, L. J. 2011,, ApJ, 742, 73

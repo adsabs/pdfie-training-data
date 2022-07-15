@@ -1,0 +1,56 @@
+Andersson, B.-G., Clayton, G. C., Doney, K. D., et al. 2021, Ultraviolet Spectropolarimetry with Polstar: Interstellar Medium Science. https://arxiv.org/abs/2111.08079
+Auriere, M., Wade, G. A., Silvester, J., et al. 2007, A&A, 475, 1053, doi: 10.1051/0004-6361:20078189
+Babel, J., & Montmerle, T. 1997, A&A, 323, 121
+Balona, L. A. 2019,, MNRAS, 490, 2112, doi: 10.1093/mnras/stz2808
+Bouret, J. C., Lanz, T., Hillier, D. J., et al. 2003,, ApJ, 595, 1182, doi: 10.1086/377368
+Cantiello, M., & Braithwaite, J. 2011, A&A, 534, A140, doi: 10.1051/0004-6361/201117512
+Cantiello, M., Langer, N., Brott, I., et al. 2009, A&A, 499, 279, doi: 10.1051/0004-6361/200911643
+Castor, J. I., Abbott, D. C., & Klein, R. I. 1975,, ApJ, 195, 157, doi: 10.1086/153315
+Cranmer, S. R., & Owocki, S. P. 1996,, ApJ, 462, 469, doi: 10.1086/177166
+David-Uraz, A., Owocki, S. P., Wade, G. A., Sundqvist, J. O., & Kee, N. D. 2017,, MNRAS, 470, 3672, doi: 10.1093/mnras/stx1478
+David-Uraz, A., Wade, G. A., Petit, V., et al. 2014,, MNRAS, 444, 429, doi: 10.1093/mnras/stu1458
+Davies, B., Oudmaijer, R. D., & Vink, J. S. 2005, A&A, 439, 1107, doi: 10.1051/0004-6361:20052781
+de Jong, J. A., Henrichs, H. F., Schrijvers, C., et al. 1999, A&A, 345, 172
+Driessen, F. A., Kee, N. D., & Sundqvist, J. O. 2021, arXiv e-prints, arXiv:2110.05302. https://arxiv.org/abs/2110.05302
+Feldmeier, A., Puls, J., & Pauldrach, A. W. A. 1997, A&A, 322, 878
+Fullerton, A. W., Massa, D. L., & Prinja, R. K. 2006,, ApJ, 637, 1025, doi: 10.1086/498560
+Grunhut, J. H., Wade, G. A., Neiner, C., et al. 2017,, MNRAS, 465, 2432, doi: 10.1093/mnras/stw2743
+Hamann, W. R., & Koesterke, L. 1998, A&A, 335, 1003
+Hillier, D. J. 1991, A&A, 247, 455
+Howarth, I. D., & Prinja, R. K. 1989,, ApJS, 69, 527, doi: 10.1086/191321
+Jermyn, A. S., & Cantiello, M. 2020,, ApJ, 900, 113, doi: 10.3847/1538-4357/ab9e70
+Jones, C. E., Labadie-Bartz, J., Naze, Y., et al. 2021, arXiv e-prints, arXiv:2111.07926. https://arxiv.org/abs/2111.07926
+Kaper, L., Henrichs, H. F., Nichols, J. S., et al. 1996, A&AS, 116, 257
+Kaper, L., Henrichs, H. F., Fullerton, A. W., et al. 1997, A&A, 327, 281
+Lepine, S., & Moffat, A. F. J. 1999,, ApJ, 514, 909, doi: 10.1086/306958
+Massa, D., & Prinja, R. K. 2015,, ApJ, 809, 12, doi: 10.1088/0004-637X/809/1/12
+Massa, D., Fullerton, A. W., Nichols, J. S., et al. 1995, ApJL, 452, L53, doi: 10.1086/309707
+Michaud, G., Dupuis, J., Fontaine, G., & Montmerle, T. 1987,, ApJ, 322, 302, doi: 10.1086/165726
+Moffat, A. F. J., Drissen, L., Lamontagne, R., & Robert, C. 1988,, ApJ, 334, 1038, doi: 10.1086/166895
+Mokiem, M. R., de Koter, A., Evans, C. J., et al. 2007, A&A, 465, 1003, doi: 10.1051/0004-6361:20066489
+Momany, Y., Zaggia, S., Montalto, M., et al. 2020, Nature Astronomy, 4, 1092, doi: 10.1038/s41550-020-1113-4
+Morton, D. C. 1976,, ApJ, 203, 386, doi: 10.1086/154090
+Mullan, D. J. 1986, A&A, 165, 157
+Oskinova, L. M., Hamann, W. R., & Feldmeier, A. 2007, A&A, 476, 1331, doi: 10.1051/0004-6361:20066377
+Owocki, S. P., Castor, J. I., & Rybicki, G. B. 1988,, ApJ, 335, 914, doi: 10.1086/166977
+Owocki, S. P., & Sundqvist, J. O. 2018,, MNRAS, 475, 814, doi: 10.1093/mnras/stx3225
+Petit, P., Hebrard, E. M., Bohm, T., Folsom, C. P., & Lignieres, F. 2017,, MNRAS, 472, L30, doi: 10.1093/mnrasl/slx132
+Prinja, R. K. 1988,, MNRAS, 231, 21P, doi: 10.1093/mnras/231.1.21P
+Prinja, R. K., Barlow, M. J., & Howarth, I. D. 1990,, ApJ, 361, 607, doi: 10.1086/169224
+Prinja, R. K., Howarth, I. D., & Henrichs, H. F. 1987,, ApJ, 317, 389, doi: 10.1086/165285
+Puls, J., Markova, N., Scuderi, S., et al. 2006, A&A, 454, 625, doi: 10.1051/0004-6361:20065073
+Puls, J., Vink, J. S., & Najarro, F. 2008, A&A Rv, 16, 209, doi: 10.1007/s00159-008-0015-8
+Puls, J., Kudritzki, R. P., Herrero, A., et al. 1996, A&A, 305, 171
+Ramiaramanantsoa, T., Moffat, A. F. J., Chene, A.-N., et al. 2014,, MNRAS, 441, 910, doi: 10.1093/mnras/stu619
+Ramiaramanantsoa, T., Moffat, A. F. J., Harmon, R., et al. 2018,, MNRAS, 473, 5532, doi: 10.1093/mnras/stx2671
+Robert, C., Moffat, A. F. J., Bastien, P., Drissen, L., & St. -Louis, N. 1989,, ApJ, 347, 1034, doi: 10.1086/168194
+Schultz, W., Bildsten, L., & Jiang, Y.-F. 2020,, ApJ, 902, 67, doi: 10.3847/1538-4357/abb405
+Shultz, M. E., Casini, R., Cheung, M. C. M., et al. 2021, arXiv e-prints, arXiv:2111.06434. https://arxiv.org/abs/2111.06434
+Snow, T. P., J., & Morton, D. C. 1976,, ApJS, 32, 429, doi: 10.1086/190404
+Sundqvist, J. O., & Owocki, S. P. 2013,, MNRAS, 428, 1837, doi: 10.1093/mnras/sts165
+Sundqvist, J. O., Owocki, S. P., & Puls, J. 2018, A&A, 611, A17, doi: 10.1051/0004-6361/201731718
+Sundqvist, J. O., & Puls, J. 2018, A&A, 619, A59, doi: 10.1051/0004-6361/201832993
+ud-Doula, A., & Owocki, S. P. 2002,, ApJ, 576, 413, doi: 10.1086/341543
+Underhill, A. B. 1975,, ApJ, 199, 691, doi: 10.1086/153738
+Vink, J. S., de Koter, A., & Lamers, H. J. G. L. M. 2001, A&A, 369, 574, doi: 10.1051/0004-6361:20010127
+Surlan, B., Hamann, W. R., Aret, A., et al. 2013, A&A, 559, A130, doi: 10.1051/0004-6361/201322390

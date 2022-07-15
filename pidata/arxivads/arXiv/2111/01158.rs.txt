@@ -1,0 +1,59 @@
+Baldry I. K., et al., 2012,, MNRAS, 421, 621
+Behroozi P. S., Wechsler R. H., Conroy C., 2013,, ApJ, 770, 57
+Benitez-Llambay A., Frenk C., 2020,, MNRAS, 498, 4887
+Boylan-Kolchin M., Springel V., White S. D. M., Jenkins A., Lemson G., 2009,, MNRAS, 398, 1150
+Brook C. B., Stinson G., Gibson B. K., Shen S., Maccio A. V., Obreja A., Wadsley J., Quinn T., 2014,, MNRAS, 443, 3809
+Buck T., Maccio A. V., Dutton A. A., Obreja A., Frings J., 2019,, MNRAS, 483, 1314
+Bullock J. S., Boylan-Kolchin M., 2017, ARA&A, 55, 343
+Carlin J. L., et al., 2021,, ApJ, 909, 211
+Cautun M., et al., 2020,, MNRAS, 494, 4291
+Conroy C., Wechsler R. H., Kravtsov A. V., 2006,, ApJ, 647, 201
+Crain R. A., et al., 2015,, MNRAS, 450, 1937
+Davis M., Efstathiou G., Frenk C. S., White S. D. M., 1985,, ApJ, 292, 371
+Davis A. B., et al., 2021,, MNRAS, 500, 3854
+Dolag K., Borgani S., Murante G., Springel V., 2009,, MNRAS, 399, 497
+Dooley G. A., Peter A. H. G., Carlin J. L., Frebel A., Bechtol K., Willman B., 2017,, MNRAS, 472, 1060
+Drlica-Wagner A., et al., 2021, arXiv e-prints, p. arXiv:2103.07476
+Errani R., Navarro J. F., 2021,, MNRAS, 505, 18
+Fardal M. A., et al., 2013,, MNRAS, 434, 2779
+Fattahi A., et al., 2016,, MNRAS, 457, 844
+Fattahi A., Navarro J. F., Frenk C. S., Oman K. A., Sawala T., Schaller M., 2018,, MNRAS, 476, 3816
+Fattahi A., Navarro J. F., Frenk C. S., 2020,, MNRAS, 493, 2596
+Gao L., Navarro J. F., Frenk C. S., Jenkins A., Springel V., White S. D. M., 2012,, MNRAS, 425, 2169
+Garrison-Kimmel S., Bullock J. S., Boylan-Kolchin M., Bardwell E., 2017,, MNRAS, 464, 3108
+Garrison-Kimmel S., et al., 2019,, MNRAS, 487, 1380
+Gnedin N. Y., 2000,, ApJ, 542, 535
+Graus A. S., Bullock J. S., Kelley T., Boylan-Kolchin M., Garrison-Kimmel S., Qi Y., 2019,, MNRAS, 488, 4585
+Guo Q., White S., Li C., Boylan-Kolchin M., 2010,, MNRAS, 404, 1111
+Hopkins P. F., et al., 2018,, MNRAS, 480, 800
+Jahn E. D., Sales L. V., Wetzel A., Boylan-Kolchin M., Chan T. K., El-Badry K., Lazar A., Bullock J. S., 2019,, MNRAS, 489, 5348
+Jethwa P., Erkal D., Belokurov V., 2016,, MNRAS, 461, 2212
+Kelley T., Bullock J. S., Garrison-Kimmel S., Boylan-Kolchin M., Pawlowski M. S., Graus A. S., 2019,, MNRAS, 487, 4409
+Komatsu E., et al., 2011,, ApJS, 192, 18
+Ludlow A. D., Bose S., Angulo R. E., Wang L., Hellwing W. A., Navarro J. F., Cole S., Frenk C. S., 2016,, MNRAS, 460, 1214
+Mao Y.-Y., Geha M., Wechsler R. H., Weiner B., Tollerud E. J., Nadler E. O., Kallivayalil N., 2020, arXiv e-prints, p. arXiv:2008.12783
+McConnachie A. W., 2012, AJ, 144, 4
+Moster B. P., Naab T., White S. D. M., 2013,, MNRAS, 428, 3121
+Muller O., Jerjen H., 2020, A&A, 644, A91
+Munshi F., Brooks A., Applebaum E., Christensen C., Sligh J. P., Quinn T., 2021, arXiv e-prints, p. arXiv:2101.05822
+Nadler E. O., et al., 2020,, ApJ, 893, 48
+Navarro J. F., Frenk C. S., White S. D. M., 1996,, ApJ, 462, 563
+Navarro J. F., Frenk C. S., White S. D. M., 1997,, ApJ, 490, 493
+Okamoto T., Gao L., Theuns T., 2008,, MNRAS, 390, 920
+Sales L. V., Wang W., White S. D. M., Navarro J. F., 2013,, MNRAS, 428, 573
+Santos-Santos I. M. E., Fattahi A., Sales L. V., Navarro J. F., 2021,, MNRAS, 504, 4551
+Sawala T., et al., 2016,, MNRAS, 457, 1931
+Schaye J., et al., 2015,, MNRAS, 446, 521
+Simon J. D., 2019, ARA&A, 57, 375
+Sofue Y., 2015, PASJ, 67, 75
+Springel V., White S. D. M., Tormen G., Kauffmann G., 2001,, MNRAS, 328, 726
+Springel V., et al., 2008,, MNRAS, 391, 1685
+Tully R. B., Rizzi L., Shaya E. J., Courtois H. M., Makarov D. I., Jacobs B. A., 2009, AJ, 138, 323
+Tully R. B., Courtois H. M., Sorce J. G., 2016, AJ, 152, 50
+Wang J., Frenk C. S., Navarro J. F., Gao L., Sawala T., 2012,, MNRAS, 424, 2715
+Wang L., Dutton A. A., Stinson G. S., Maccio A. V., Penzo C., Kang X., Keller B. W., Wadsley J., 2015,, MNRAS, 454, 83
+Wetzel A. R., Hopkins P. F., Kim J.-h., Faucher-Giguere C.-A., Keres D., Quataert E., 2016,, ApJ, 827, L23
+Wheeler C., Onorbe J., Bullock J. S., Boylan-Kolchin M., Elbert O. D., Garrison-Kimmel S., Hopkins P. F., Keres D., 2015,, MNRAS, 453, 1305
+Wheeler C., et al., 2019,, MNRAS, 490, 4447
+Woo J., Courteau S., Dekel A., 2008,, MNRAS, 390, 1453
+van den Bosch F. C., Ogiya G., Hahn O., Burkert A., 2018,, MNRAS, 474, 3043

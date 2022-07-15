@@ -1,0 +1,42 @@
+Beck T. L., Aspin C., 2012, AJ, 143, 55
+Bell K. R., Lin D. N. C., Hartmann L. W., Kenyon S. J., 1995,, ApJ, 444, 376
+Bonnell I., Bastien P., 1992,, ApJ, 401, L31
+Cieza L. A., et al., 2018,, MNRAS, 474, 4347
+Clarke C. J., Lin D. N. C., Pringle J. E., 1990,, MNRAS, 242, 439
+Connelley M. S., Reipurth B., 2018,, ApJ, 861, 145
+Cuello N., et al., 2019,, MNRAS, 483, 4114
+Cuello N., et al., 2020,, MNRAS, 491, 504
+Goodrich R. W., 1987, PASP, 99, 116
+Green J. D., et al., 2016,, ApJ, 830, 29
+Hales A. S., et al., 2015,, ApJ, 812, 134
+Harris C. R., et al., 2020,, Nature, 585, 357
+Hartmann L., Kenyon S. J., 1996, ARA&A, 34, 207
+Hauschildt P. H., Allard F., Baron E., 1999,, ApJ, 512, 377
+Herbig G. H., 1966, Vistas in Astronomy, 8, 109
+Herbig G. H., 1977,, ApJ, 217, 693
+Hunter J. D., 2007, Computing in Science and Engineering, 9, 90
+Kospal A., et al., 2021,, ApJS, 256, 30
+Levreault R. M., 1988,, ApJ, 330, 897
+Lin D. N. C., Papaloizou J., Faulkner J., 1985,, MNRAS, 212, 105
+Liu H. B., et al., 2016, Science Advances, 2, e1500875
+Lodato G., Price D. J., 2010,, MNRAS, 405, 1212
+Perez S., et al., 2020,, ApJ, 889, 59
+Pfalzner S., 2008, A&A, 492, 735
+Pfalzner S., Bhandare A., Vincke K., Lacerda P., 2018,, ApJ, 863, 45
+Pinte C., Menard F., Duchene G., Bastien P., 2006, A&A, 459, 797
+Pinte C., et al., 2009, A&A, 498, 967
+Price D. J., 2007, Publ. Astron. Soc. Australia, 24, 159
+Price D. J., et al., 2018, Publ. Astron. Soc. Australia, 35, e031
+Pringle J. E., 1981, ARA&A, 19, 137
+Reipurth B., Aspin C., 2004,, ApJ, 608, L65
+Ru iz-Rodr iguez D., et al., 2017a,, MNRAS, 466, 3519
+Ru iz-Rodr iguez D., et al., 2017b,, MNRAS, 468, 3266
+Shakura N. I., Sunyaev R. A., 1973, A&A, 500, 33
+Siess L., Dufour E., Forestini M., 2000, A&A, 358, 593
+Takami M., et al., 2018,, ApJ, 864, 20
+Vorobyov E. I., et al., 2021, A&A, 647, A44
+Wang H., Apai D., Henning T., Pascucci I., 2004,, ApJ, 601, L83
+Woitke P., Kamp I., Thi W. F., 2009, A&A, 501, 383
+Zhu Z., et al., 2007,, ApJ, 669, 483
+Zurlo A., et al., 2017,, MNRAS, 465, 834
+van der Velden E., 2020, The Journal of Open Source Software, 5, 2004

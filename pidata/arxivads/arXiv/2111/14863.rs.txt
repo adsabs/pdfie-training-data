@@ -1,0 +1,139 @@
+Ando, M., Ohta, K., Iwata, I., et al. 2006, ApJL, 645, L9, doi: 10.1086/505652
+Backhaus, B. E., Trump, J. R., Cleri, N. J., et al. 2021, arXiv e-prints, arXiv:2109.08147. https://arxiv.org/abs/2109.08147
+Bouwens, R. J., Smit, R., Labbe, I., et al. 2016,, ApJ, 831, 176, doi: 10.3847/0004-637X/831/2/176
+Bouwens, R. J., Illingworth, G. D., Oesch, P. A., et al. 2015,, ApJ, 803, 34, doi: 10.1088/0004-637X/803/1/34
+Brammer, G. 2019, Grizli: Grism redshift and line analysis software. http://ascl.net/1905.001
+Brammer, G. B., van Dokkum, P. G., & Coppi, P. 2008,, ApJ, 686, 1503, doi: 10.1086/591786
+Bruzual, G., & Charlot, S. 2003,, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
+Calzetti, D. 2001, New Astron., 45, 601, doi: 10.1016/S1387-6473(01)00144-0
+Caruana, J., Bunker, A. J., Wilkins, S. M., et al. 2012,, MNRAS, 427, 3055, doi: 10.1111/j.1365-2966.2012.21996.x
+--. 2014,, MNRAS, 443, 2831, doi: 10.1093/mnras/stu1341
+Cash, W. 1979,, ApJ, 228, 939, doi: 10.1086/156922
+Cassata, P., Tasca, L. A. M., Le Fevre, O., et al. 2015, A&A, 573, A24, doi: 10.1051/0004-6361/201423824
+Castellano, M., Pentericci, L., Vanzella, E., et al. 2018, ApJL, 863, L3, doi: 10.3847/2041-8213/aad59b
+Ciardullo, R., Gronwall, C., Wolf, C., et al. 2012,, ApJ, 744, 110, doi: 10.1088/0004-637X/744/2/110
+Cleri, N. J., Trump, J. R., Backhaus, B. E., et al. 2020, arXiv e-prints, arXiv:2009.00617. https://arxiv.org/abs/2009.00617
+Cowie, L. L., Barger, A. J., & Hu, E. M. 2010,, ApJ, 711, 928, doi: 10.1088/0004-637X/711/2/928
+Curtis-Lake, E., McLure, R. J., Pearce, H. J., et al. 2012,, MNRAS, 422, 1425, doi: 10.1111/j.1365-2966.2012.20720.x
+Davies, F. B., Hennawi, J. F., Banados, E., et al. 2018,, ApJ, 864, 142, doi: 10.3847/1538-4357/aad6dc
+Dayal, P., & Ferrara, A. 2018, PhR, 780, 1, doi: 10.1016/j.physrep.2018.10.002
+De Barros, S., Pentericci, L., Vanzella, E., et al. 2017, A&A, 608, A123, doi: 10.1051/0004-6361/201731476
+Dijkstra, M., Wyithe, S., Haiman, Z., Mesinger, A., & Pentericci, L. 2014,, MNRAS, 440, 3309, doi: 10.1093/mnras/stu531
+Du, X., Shapley, A. E., Tang, M., et al. 2020,, ApJ, 890, 65, doi: 10.3847/1538-4357/ab67b8
+Endsley, R., Stark, D. P., Charlot, S., et al. 2021a,, MNRAS, 502, 6044, doi: 10.1093/mnras/stab432
+Endsley, R., Stark, D. P., Chevallard, J., & Charlot, S. 2021b,, MNRAS, 500, 5229, doi: 10.1093/mnras/staa3370
+Estrada-Carpenter, V., Papovich, C., Momcheva, I., et al. 2019,, ApJ, 870, 133, doi: 10.3847/1538-4357/aaf22e
+--. 2020,, ApJ, 898, 171, doi: 10.3847/1538-4357/aba004
+Finkelstein, S., Bradac, M., Casey, C., et al. 2019a, BAAS, 51, 221. https://arxiv.org/abs/1903.04518
+Finkelstein, S. L., Papovich, C., Salmon, B., et al. 2012a,, ApJ, 756, 164, doi: 10.1088/0004-637X/756/2/164
+Finkelstein, S. L., Papovich, C., Ryan, R. E., et al. 2012b,, ApJ, 758, 93, doi: 10.1088/0004-637X/758/2/93
+Finkelstein, S. L., Papovich, C., Dickinson, M., et al. 2013,, Nature, 502, 524, doi: 10.1038/nature12657
+Finkelstein, S. L., Ryan, Jr., R. E., Papovich, C., et al. 2015,, ApJ, 810, 71, doi: 10.1088/0004-637X/810/1/71
+Finkelstein, S. L., D'Aloisio, A., Paardekooper, J.-P., et al. 2019b,, ApJ, 879, 36, doi: 10.3847/1538-4357/ab1ea8
+Finkelstein, S. L., Bagley, M., Song, M., et al. 2021, arXiv e-prints, arXiv:2106.13813. https://arxiv.org/abs/2106.13813
+Finlator, K., Ozel, F., Dave, R., & Oppenheimer, B. D. 2009,, MNRAS, 400, 1049, doi: 10.1111/j.1365-2966.2009.15521.x
+Fontana, A., Vanzella, E., Pentericci, L., et al. 2010, ApJL, 725, L205, doi: 10.1088/2041-8205/725/2/L205
+Fuller, S., Lemaux, B. C., Bradac, M., et al. 2020,, ApJ, 896, 156, doi: 10.3847/1538-4357/ab959f
+Furusawa, H., Kashikawa, N., Kobayashi, M. A. R., et al. 2016,, ApJ, 822, 46, doi: 10.3847/0004-637X/822/1/46
+Garel, T., Blaizot, J., Rosdahl, J., et al. 2021,, MNRAS, 504, 1902, doi: 10.1093/mnras/stab990
+Grogin, N. A., Kocevski, D. D., Faber, S. M., et al. 2011,, ApJS, 197, 35, doi: 10.1088/0067-0049/197/2/35
+Gronwall, C., Ciardullo, R., Hickey, T., et al. 2007,, ApJ, 667, 79, doi: 10.1086/520324
+Guaita, L., Gawiser, E., Padilla, N., et al. 2010,, ApJ, 714, 255, doi: 10.1088/0004-637X/714/1/255
+Hashimoto, T., Garel, T., Guiderdoni, B., et al. 2017, A&A, 608, A10, doi: 10.1051/0004-6361/201731579
+Hashimoto, T., Laporte, N., Mawatari, K., et al. 2018,, Nature, 557, 392, doi: 10.1038/s41586-018-0117-z
+Hassan, S., & Gronke, M. 2021,, ApJ, 908, 219, doi: 10.3847/1538-4357/abd554
+Hastings, W. K. 1970, Biometrika, 57, 97, doi: 10.1093/biomet/57.1.97
+Hoag, A., Bradac, M., Huang, K., et al. 2019,, ApJ, 878, 12, doi: 10.3847/1538-4357/ab1de7
+Hu, E. M., Cowie, L. L., Barger, A. J., et al. 2010,, ApJ, 725, 394, doi: 10.1088/0004-637X/725/1/394
+Hu, W., Wang, J., Infante, L., et al. 2021, Nature Astronomy, doi: 10.1038/s41550-021-01322-2
+Hutchison, T. A., Papovich, C., Finkelstein, S. L., et al. 2019,, ApJ, 879, 70, doi: 10.3847/1538-4357/ab22a2
+Inoue, A. K. 2011,, MNRAS, 415, 2920, doi: 10.1111/j.1365-2966.2011.18906.x
+Jung, I., Finkelstein, S. L., Livermore, R. C., et al. 2018,, ApJ, 864, 103, doi: 10.3847/1538-4357/aad686
+Jung, I., Finkelstein, S. L., Dickinson, M., et al. 2019,, ApJ, 877, 146, doi: 10.3847/1538-4357/ab1bde
+--. 2020,, ApJ, 904, 144, doi: 10.3847/1538-4357/abbd44
+Kashikawa, N., Shimasaku, K., Matsuda, Y., et al. 2011,, ApJ, 734, 119, doi: 10.1088/0004-637X/734/2/119
+Katz, H., Kimm, T., Haehnelt, M. G., et al. 2019,, MNRAS, 483, 1029, doi: 10.1093/mnras/sty3154
+Kimm, T., Blaizot, J., Garel, T., et al. 2019,, MNRAS, 486, 2215, doi: 10.1093/mnras/stz989
+Koekemoer, A. M., Faber, S. M., Ferguson, H. C., et al. 2011,, ApJS, 197, 36, doi: 10.1088/0067-0049/197/2/36
+Kulkarni, G., Keating, L. C., Haehnelt, M. G., et al. 2019,, MNRAS, 485, L24, doi: 10.1093/mnrasl/slz025
+Larson, R. L., Finkelstein, S. L., Pirzkal, N., et al. 2018,, ApJ, 858, 94, doi: 10.3847/1538-4357/aab893
+Leclercq, F., Bacon, R., Wisotzki, L., et al. 2017, A&A, 608, A8, doi: 10.1051/0004-6361/201731480
+Madau, P. 1995,, ApJ, 441, 18, doi: 10.1086/175332
+Malhotra, S., & Rhoads, J. E. 2004, ApJL, 617, L5, doi: 10.1086/427182
+Mallery, R. P., Mobasher, B., Capak, P., et al. 2012,, ApJ, 760, 128, doi: 10.1088/0004-637X/760/2/128
+Markwardt, C. B. 2009, in Astronomical Society of the Pacific Conference Series, Vol. 411, Astronomical Data Analysis Software and Systems XVIII, ed. D. A. Bohlender, D. Durand, & P. Dowler, 251. https://arxiv.org/abs/0902.2850
+Mason, C. A., Treu, T., Dijkstra, M., et al. 2018a,, ApJ, 856, 2, doi: 10.3847/1538-4357/aab0a7
+Mason, C. A., Treu, T., de Barros, S., et al. 2018b, ApJL, 857, L11, doi: 10.3847/2041-8213/aabbab
+Mason, C. A., Fontana, A., Treu, T., et al. 2019,, MNRAS, 485, 3947, doi: 10.1093/mnras/stz632
+Matsuoka, Y., Strauss, M. A., Kashikawa, N., et al. 2018,, ApJ, 869, 150, doi: 10.3847/1538-4357/aaee7a
+McGreer, I. D., Mesinger, A., & D'Odorico, V. 2015,, MNRAS, 447, 499, doi: 10.1093/mnras/stu2449
+McQuinn, M. 2016, ARA&A, 54, 313, doi: 10.1146/annurev-astro-082214-122355
+Mesinger, A., Aykutalp, A., Vanzella, E., et al. 2015,, MNRAS, 446, 566, doi: 10.1093/mnras/stu2089
+Metropolis, N., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., & Teller, E. 1953, JChPh, 21, 1087, doi: 10.1063/1.1699114
+Miralda-Escude, J., & Rees, M. J. 1998,, ApJ, 497, 21, doi: 10.1086/305458
+Morales, A., Mason, C., Bruton, S., et al. 2021, arXiv e-prints, arXiv:2101.01205. https://arxiv.org/abs/2101.01205
+Naidu, R. P., Tacchella, S., Mason, C. A., et al. 2020,, ApJ, 892, 109, doi: 10.3847/1538-4357/ab7cc9
+Nilsson, K. K., Tapken, C., Moller, P., et al. 2009, A&A, 498, 13, doi: 10.1051/0004-6361/200810881
+Ocvirk, P., Lewis, J. S. W., Gillet, N., et al. 2021, arXiv e-prints, arXiv:2105.01663. https://arxiv.org/abs/2105.01663
+Ocvirk, P., Aubert, D., Sorce, J. G., et al. 2020,, MNRAS, 496, 4087, doi: 10.1093/mnras/staa1266
+Oesch, P. A., van Dokkum, P. G., Illingworth, G. D., et al. 2015, ApJL, 804, L30, doi: 10.1088/2041-8205/804/2/L30
+Oesch, P. A., Brammer, G., van Dokkum, P. G., et al. 2016,, ApJ, 819, 129, doi: 10.3847/0004-637X/819/2/129
+Oke, J. B., & Gunn, J. E. 1983,, ApJ, 266, 713, doi: 10.1086/160817
+Ono, Y., Ouchi, M., Mobasher, B., et al. 2012,, ApJ, 744, 83, doi: 10.1088/0004-637X/744/2/83
+Ouchi, M., Shimasaku, K., Akiyama, M., et al. 2008,, ApJS, 176, 301, doi: 10.1086/527673
+Oyarzun, G. A., Blanc, G. A., Gonzalez, V., Mateo, M., & Bailey, John I., I. 2017,, ApJ, 843, 133, doi: 10.3847/1538-4357/aa7552
+Park, H., Jung, I., Song, H., et al. 2021, arXiv e-prints, arXiv:2105.10770. https://arxiv.org/abs/2105.10770
+Pentericci, L., Fontana, A., Vanzella, E., et al. 2011,, ApJ, 743, 132, doi: 10.1088/0004-637X/743/2/132
+Pentericci, L., Vanzella, E., Fontana, A., et al. 2014,, ApJ, 793, 113, doi: 10.1088/0004-637X/793/2/113
+Pentericci, L., Vanzella, E., Castellano, M., et al. 2018, A&A, 619, A147, doi: 10.1051/0004-6361/201732465
+Pirzkal, N., Malhotra, S., Ryan, R. E., et al. 2017,, ApJ, 846, 84, doi: 10.3847/1538-4357/aa81cc
+Planck Collaboration, Ade, P. A. R., Aghanim, N., et al. 2016, A&A, 594, A13, doi: 10.1051/0004-6361/201525830
+Qin, Y., Wyithe, J. S. B., Oesch, P. A., et al. 2021, arXiv e-prints, arXiv:2108.03675. https://arxiv.org/abs/2108.03675
+Rhoads, J. E., & Malhotra, S. 2001, ApJL, 563, L5, doi: 10.1086/338477
+Rhoads, J. E., Malhotra, S., Stern, D., et al. 2013,, ApJ, 773, 32, doi: 10.1088/0004-637X/773/1/32
+Roberts-Borsani, G. W., Bouwens, R. J., Oesch, P. A., et al. 2016,, ApJ, 823, 143, doi: 10.3847/0004-637X/823/2/143
+Robertson, B. E. 2021, arXiv e-prints, arXiv:2110.13160. https://arxiv.org/abs/2110.13160
+Robertson, B. E., Ellis, R. S., Furlanetto, S. R., & Dunlop, J. S. 2015, ApJL, 802, L19, doi: 10.1088/2041-8205/802/2/L19
+Robertson, B. E., Furlanetto, S. R., Schneider, E., et al. 2013,, ApJ, 768, 71, doi: 10.1088/0004-637X/768/1/71
+Salmon, B., Papovich, C., Finkelstein, S. L., et al. 2015,, ApJ, 799, 183, doi: 10.1088/0004-637X/799/2/183
+Salpeter, E. E. 1955,, ApJ, 121, 161, doi: 10.1086/145971
+Santos, S., Sobral, D., Matthee, J., et al. 2020,, MNRAS, 493, 141, doi: 10.1093/mnras/staa093
+Saxena, A., Pentericci, L., Ellis, R. S., et al. 2021, arXiv e-prints, arXiv:2109.03662. https://arxiv.org/abs/2109.03662
+Schaerer, D., de Barros, S., & Stark, D. P. 2011, A&A, 536, A72, doi: 10.1051/0004-6361/201117685
+Schenker, M. A., Ellis, R. S., Konidaris, N. P., & Stark, D. P. 2014,, ApJ, 795, 20, doi: 10.1088/0004-637X/795/1/20
+Schenker, M. A., Stark, D. P., Ellis, R. S., et al. 2012,, ApJ, 744, 179, doi: 10.1088/0004-637X/744/2/179
+Schmidt, K. B., Treu, T., Brada c, M., et al. 2016,, ApJ, 818, 38, doi: 10.3847/0004-637X/818/1/38
+Shibuya, T., Ouchi, M., Harikane, Y., & Nakajima, K. 2019,, ApJ, 871, 164, doi: 10.3847/1538-4357/aaf64b
+Simons, R. C., Papovich, C., Momcheva, I., et al. 2020, arXiv e-prints, arXiv:2011.03553. https://arxiv.org/abs/2011.03553
+Skelton, R. E., Whitaker, K. E., Momcheva, I. G., et al. 2014,, ApJS, 214, 24, doi: 10.1088/0067-0049/214/2/24
+Smith, A., Kannan, R., Garaldi, E., et al. 2021, arXiv e-prints, arXiv:2110.02966. https://arxiv.org/abs/2110.02966
+Song, M., Finkelstein, S. L., Livermore, R. C., et al. 2016a,, ApJ, 826, 113, doi: 10.3847/0004-637X/826/2/113
+Song, M., Finkelstein, S. L., Ashby, M. L. N., et al. 2016b,, ApJ, 825, 5, doi: 10.3847/0004-637X/825/1/5
+Stark, D. P., Ellis, R. S., Chiu, K., Ouchi, M., & Bunker, A. 2010,, MNRAS, 408, 1628, doi: 10.1111/j.1365-2966.2010.17227.x
+Stark, D. P., Ellis, R. S., & Ouchi, M. 2011, ApJL, 728, L2, doi: 10.1088/2041-8205/728/1/L2
+Stark, D. P., Ellis, R. S., Charlot, S., et al. 2017,, MNRAS, 464, 469, doi: 10.1093/mnras/stw2233
+Tang, M., Stark, D. P., Chevallard, J., & Charlot, S. 2019,, MNRAS, 489, 2572, doi: 10.1093/mnras/stz2236
+Tang, M., Stark, D. P., Chevallard, J., et al. 2021a,, MNRAS, 501, 3238, doi: 10.1093/mnras/staa3454
+--. 2021b,, MNRAS, doi: 10.1093/mnras/stab705
+Tilvi, V., Papovich, C., Finkelstein, S. L., et al. 2014,, ApJ, 794, 5, doi: 10.1088/0004-637X/794/1/5
+Tilvi, V., Pirzkal, N., Malhotra, S., et al. 2016, ApJL, 827, L14, doi: 10.3847/2041-8205/827/1/L14
+Tilvi, V., Malhotra, S., Rhoads, J. E., et al. 2020, ApJL, 891, L10, doi: 10.3847/2041-8213/ab75ec
+Trainor, R. F., Strom, A. L., Steidel, C. C., et al. 2019,, ApJ, 887, 85, doi: 10.3847/1538-4357/ab4993
+Treu, T., Schmidt, K. B., Trenti, M., Bradley, L. D., & Stiavelli, M. 2013, ApJL, 775, L29, doi: 10.1088/2041-8205/775/1/L29
+Treu, T., Trenti, M., Stiavelli, M., Auger, M. W., & Bradley, L. D. 2012,, ApJ, 747, 27, doi: 10.1088/0004-637X/747/1/27
+Treu, T., Schmidt, K. B., Brammer, G. B., et al. 2015,, ApJ, 812, 114, doi: 10.1088/0004-637X/812/2/114
+Vanzella, E., Fontana, A., Pentericci, L., et al. 2014, A&A, 569, A78, doi: 10.1051/0004-6361/201424285
+Wang, F., Davies, F. B., Yang, J., et al. 2020,, ApJ, 896, 23, doi: 10.3847/1538-4357/ab8c45
+Watson, D., Christensen, L., Knudsen, K. K., et al. 2015,, Nature, 519, 327, doi: 10.1038/nature14164
+Weinberger, L. H., Kulkarni, G., Haehnelt, M. G., Choudhury, T. R., & Puchwein, E. 2018,, MNRAS, 479, 2564, doi: 10.1093/mnras/sty1563
+Weiss, L. H., Bowman, W. P., Ciardullo, R., et al. 2021, arXiv e-prints, arXiv:2103.12126. https://arxiv.org/abs/2103.12126
+Wisotzki, L., Bacon, R., Brinchmann, J., et al. 2018,, Nature, 562, 229, doi: 10.1038/s41586-018-0564-6
+Wold, I. G. B., Barger, A. J., & Cowie, L. L. 2014,, ApJ, 783, 119, doi: 10.1088/0004-637X/783/2/119
+Wold, I. G. B., Finkelstein, S. L., Barger, A. J., Cowie, L. L., & Rosenwasser, B. 2017,, ApJ, 848, 108, doi: 10.3847/1538-4357/aa8d6b
+Wold, I. G. B., Malhotra, S., Rhoads, J., et al. 2021, arXiv e-prints, arXiv:2105.12191. https://arxiv.org/abs/2105.12191
+Yang, H., Malhotra, S., Rhoads, J. E., et al. 2017,, ApJ, 838, 4, doi: 10.3847/1538-4357/aa6337
+Yang, J., Wang, F., Fan, X., et al. 2020, ApJL, 897, L14, doi: 10.3847/2041-8213/ab9c26
+Yoo, T., Kimm, T., & Rosdahl, J. 2020,, MNRAS, 499, 5175, doi: 10.1093/mnras/staa3187
+Zheng, Z.-Y., Wang, J.-X., Malhotra, S., et al. 2014,, MNRAS, 439, 1101, doi: 10.1093/mnras/stu054
+Zheng, Z.-Y., Wang, J., Rhoads, J., et al. 2017, ApJL, 842, L22, doi: 10.3847/2041-8213/aa794f
+Zitrin, A., Labbe, I., Belli, S., et al. 2015, ApJL, 810, L12, doi: 10.1088/2041-8205/810/1/L12

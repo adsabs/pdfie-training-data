@@ -1,0 +1,61 @@
+G. D. Coughlan, W. Fischler, E. W. Kolb, S. Raby, and G. G. Ross, Phys. Lett. B 131, 59 (1983)
+T. Banks, D. B. Kaplan, and A. E. Nelson, Phys. Rev. D 49, 779 (1994), arXiv:hep-ph/9308292
+B. de Carlos, J. A. Casas, F. Quevedo, and E. Roulet, Phys. Lett. B 318, 447 (1993), arXiv:hep-ph/9308325
+M. Endo, K. Hamaguchi, and F. Takahashi, Phys. Rev. Lett. 96, 211301 (2006), arXiv:hep-ph/0602061
+S. Nakamura and M. Yamaguchi, Phys. Lett. B 638, 389 (2006), arXiv:hep-ph/0602081
+M. Dine, R. Kitano, A. Morisse, and Y. Shirman, Phys. Rev. D 73, 123518 (2006), arXiv:hep-ph/0604140
+M. Endo, K. Hamaguchi, and F. Takahashi, Phys. Rev. D 74, 023531 (2006), arXiv:hep-ph/0605091
+T. Moroi and L. Randall, Nucl. Phys. B 570, 455 (2000), arXiv:hep-ph/9906527
+M. Cicoli, J. P. Conlon, and F. Quevedo, Phys. Rev. D 87, 043520 (2013), arXiv:1208.3562 [hep-ph]
+T. Higaki and F. Takahashi, JHEP 11, 125 (2012), arXiv:1208.3563 [hep-ph]
+T. Higaki, K. Nakayama, and F. Takahashi, JHEP 07, 005 (2013), arXiv:1304.7987 [hep-ph]
+K. Yamamoto, Phys. Lett. B 168, 341 (1986)
+D. H. Lyth and E. D. Stewart, Phys. Rev. D 53, 1784 (1996), arXiv:hep-ph/9510204
+M. Dine, Y. Nir, and Y. Shadmi, Phys. Lett. B 438, 61 (1998), arXiv:hep-th/9806124
+A. D. Linde, Phys. Rev. D 53, R4129 (1996), arXiv:hep-th/9601083
+L. Randall and S. D. Thomas, Nucl. Phys. B 449, 229 (1995), arXiv:hep-ph/9407248
+M. Kawasaki and F. Takahashi, Phys. Lett. B 618, 1 (2005), arXiv:hep-ph/0410158
+T. Asaka, J. Hashiba, M. Kawasaki, and T. Yanagida, Phys. Rev. D 58, 083509 (1998), arXiv:hep-ph/9711501
+T. Asaka and M. Kawasaki, Phys. Rev. D 60, 123509 (1999), arXiv:hep-ph/9905467
+W. D. Garretson, G. B. Field, and S. M. Carroll, Phys. Rev. D 46, 5346 (1992), arXiv:hep-ph/9209238
+T. Higaki, K. S. Jeong, N. Kitajima, and F. Takahashi, JHEP 06, 150 (2016), arXiv:1603.02090 [hep-ph]
+P. Agrawal, G. Marques-Tavares, and W. Xue, JHEP 03, 049 (2018), arXiv:1708.05008 [hep-ph]
+N. Kitajima, T. Sekiguchi, and F. Takahashi, Phys. Lett. B 781, 684 (2018), arXiv:1711.06590 [hep-ph]
+P. Agrawal, N. Kitajima, M. Reece, T. Sekiguchi, and F. Takahashi, Phys. Lett. B 801, 135136 (2020), arXiv:1810.07188 [hep-ph]
+R. T. Co, A. Pierce, Z. Zhang, and Y. Zhao, Phys. Rev. D 99, 075002 (2019), arXiv:1810.07196 [hep-ph]
+M. Bastero-Gil, J. Santiago, L. Ubaldi, and R. Vega-Morales, JCAP 04, 015 (2019), arXiv:1810.07208 [hep-ph]
+T. Fujita, R. Namba, Y. Tada, N. Takeda, and H. Tashiro, JCAP 1505, 054 (2015), arXiv:1503.05802 [astro-ph.CO]
+T. Patel, H. Tashiro, and Y. Urakawa, JCAP 01, 043 (2020), arXiv:1909.00288 [astro-ph.CO]
+P. Adshead, J. T. Giblin, and Z. J. Weiner, Phys. Rev. D98, 043525 (2018), arXiv:1805.04550 [astro-ph.CO]
+C. S. Machado, W. Ratzinger, P. Schwaller, and B. A. Stefanek, JHEP 01, 053 (2019), arXiv:1811.01950 [hep-ph]
+P. Adshead, J. T. Giblin, M. Pieroni, and Z. J. Weiner, Phys. Rev. D 101, 083534 (2020), arXiv:1909.12842 [astro-ph.CO]
+P. Adshead, J. T. Giblin, M. Pieroni, and Z. J. Weiner, Phys. Rev. Lett. 124, 171301 (2020), arXiv:1909.12843 [astro-ph.CO]
+C. S. Machado, W. Ratzinger, P. Schwaller, and B. A. Stefanek, Phys. Rev. D 102, 075033 (2020), arXiv:1912.01007 [hep-ph]
+W. Ratzinger and P. Schwaller, SciPost Phys. 10, 047 (2021), arXiv:2009.11875 [astro-ph.CO]
+R. Namba and M. Suzuki, Phys. Rev. D 102, 123527 (2020), arXiv:2009.13909 [astro-ph.CO]
+N. Kitajima, J. Soda, and Y. Urakawa, Phys. Rev. Lett. 126, 121301 (2021), arXiv:2010.10990 [astro-ph.CO]
+S. Okano and T. Fujita, JCAP 03, 026 (2021), arXiv:2005.13833 [astro-ph.CO]
+M. Geller, S. Lu, and Y. Tsai, Phys. Rev. D 104, 083517 (2021), arXiv:2104.08284 [hep-ph]
+M. Kawasaki, K. Kohri, T. Moroi, and Y. Takaesu, Phys. Rev. D 97, 023502 (2018), arXiv:1709.01211 [hep-ph]
+M. Kawasaki, K. Kohri, and N. Sugiyama, Phys. Rev. Lett. 82, 4168 (1999), arXiv:astro-ph/9811437
+M. Kawasaki, K. Kohri, and N. Sugiyama, Phys. Rev. D 62, 023506 (2000), arXiv:astro-ph/0002127
+K. Ichikawa, M. Kawasaki, and F. Takahashi, Phys. Rev. D 72, 043522 (2005), arXiv:astro-ph/0505395
+P. Ilten, Y. Soreq, M. Williams, and W. Xue, JHEP 06, 004 (2018), arXiv:1801.04847 [hep-ph]
+J. H. Chang, R. Essig, and S. D. McDermott, JHEP 01, 107 (2017), arXiv:1611.03864 [hep-ph]
+S. Andreas, C. Niebuhr, and A. Ringwald, Phys. Rev. D 86, 095019 (2012), arXiv:1209.6083 [hep-ph]
+M. Battaglieri et al., in U.S. Cosmic Visions: New Ideas in Dark Matter (2017) arXiv:1707.04591 [hep-ph]
+H. Davoudiasl, H.-S. Lee, and W. J. Marciano, Phys. Rev. D 86, 095009 (2012), arXiv:1208.2973 [hep-ph]
+M. Endo, K. Hamaguchi, and G. Mishima, Phys. Rev. D 86, 095029 (2012), arXiv:1209.2558 [hep-ph]
+S. Kachru, R. Kallosh, A. D. Linde, and S. P. Trivedi, Phys. Rev. D 68, 046005 (2003), arXiv:hep-th/0301240
+S. Weinberg, Phys. Rev. Lett. 48, 1303 (1982)
+L. M. Krauss, Nucl. Phys. B 227, 556 (1983)
+V. Poulin, T. L. Smith, T. Karwal, and M. Kamionkowski, Phys. Rev. Lett. 122, 221301 (2019), arXiv:1811.04083 [astro-ph.CO]
+P. Agrawal, F.-Y. Cyr-Racine, D. Pinner, and L. Randall, (2019), arXiv:1904.01016 [astro-ph.CO]
+N. Aghanim et al. (Planck), Astron. Astrophys. 641, A6 (2020), [Erratum: Astron.Astrophys. 652, C4 (2021)], arXiv:1807.06209 [astro-ph.CO]
+A. G. Riess et al., Astrophys. J. 826, 56 (2016), arXiv:1604.01424 [astro-ph.CO]
+L. Knox and M. Millea, Phys. Rev. D 101, 043533 (2020), arXiv:1908.03663 [astro-ph.CO]
+L. Verde, T. Treu, and A. G. Riess, Nature Astron. 3, 891 (2019), arXiv:1907.10625 [astro-ph.CO]
+E. Di Valentino et al., Astropart. Phys. 131, 102605 (2021), arXiv:2008.11284 [astro-ph.CO]
+Z. J. Weiner, P. Adshead, and J. T. Giblin, Phys. Rev. D 103, L021301 (2021), arXiv:2008.01732 [astro-ph.CO]
+W. Heisenberg and H. Euler, Z. Phys. 98, 714 (1936), arXiv:physics/0605038
+J. S. Schwinger, Phys. Rev. 82, 664 (1951)

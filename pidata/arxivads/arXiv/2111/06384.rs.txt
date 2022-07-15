@@ -1,0 +1,32 @@
+Angelil, R., & Saha, P. 2011, ApJL, 734, L19, doi: 10.1088/2041-8205/734/1/L19
+Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33, doi: 10.1051/0004-6361/201322068
+Astropy Collaboration, Price-Whelan, A. M., Sipocz, B. M., et al. 2018, AJ, 156, 123, doi: 10.3847/1538-3881/aabc4f
+Boehle, A., Ghez, A. M., Schodel, R., et al. 2016,, ApJ, 830, 17, doi: 10.3847/0004-637X/830/1/17
+Borkar, A., Eckart, A., Straubmeier, C., et al. 2020, in Multifrequency Behaviour of High Energy Cosmic Sources - XIII. 3-8 June 2019. Palermo, 33. https://arxiv.org/abs/1909.13753
+Genzel, R., Eisenhauer, F., & Gillessen, S. 2010, Reviews of Modern Physics, 82, 3121, doi: 10.1103/RevModPhys.82.3121
+Ghez, A. M., Salim, S., Weinberg, N. N., et al. 2008,, ApJ, 689, 1044, doi: 10.1086/592738
+Gonidakis, I., Diamond, P. J., & Kemball, A. J. 2010,, MNRAS, 406, 395, doi: 10.1111/j.1365-2966.2010.16716.x
+Gravity Collaboration, Abuter, R., Amorim, A., et al. 2018, A&A, 615, L15, doi: 10.1051/0004-6361/201833718
+--. 2019, A&A, 625, L10, doi: 10.1051/0004-6361/201935656
+--. 2020, A&A, 636, L5, doi: 10.1051/0004-6361/202037813
+Harris, C. R., Millman, K. J., van der Walt, S. J., et al. 2020,, Nature, 585, 357, doi: 10.1038/s41586-020-2649-2
+Hunter, J. D. 2007, Computing in Science and Engineering, 9, 90, doi: 10.1109/MCSE.2007.55
+Jackson, T., Ivezic, Z., & Knapp, G. R. 2002,, MNRAS, 337, 749, doi: 10.1046/j.1365-8711.2002.05980.x
+Kemball, A. J. 2007, in Astrophysical Masers and their Environments, ed. J. M. Chapman & W. A. Baan, Vol. 242, 236-245, doi: 10.1017/S1743921307013063
+Lacroix, T. 2018, A&A, 619, A46, doi: 10.1051/0004-6361/201832652
+Li, J., An, T., Shen, Z.-Q., & Miyazaki, A. 2010, ApJL, 720, L56, doi: 10.1088/2041-8205/720/1/L56
+Mart i-Vidal, I., Vlemmings, W. H. T., Muller, S., & Casey, S. 2014, A&A, 563, A136, doi: 10.1051/0004-6361/201322633
+McMillan, P. J. 2017,, MNRAS, 465, 76, doi: 10.1093/mnras/stw2759
+McMullin, J. P., Waters, B., Schiebel, D., Young, W., & Golap, K. 2007, in Astronomical Society of the Pacific Conference Series, Vol. 376, Astronomical Data Analysis Software and Systems XVI, ed. R. A. Shaw, F. Hill, & D. J. Bell, 127
+Menten, K. M., Reid, M. J., Eckart, A., & Genzel, R. 1997, ApJL, 475, L111, doi: 10.1086/310472
+Pardo, J. R., Alcolea, J., Bujarrabal, V., et al. 2004, A&A, 424, 145, doi: 10.1051/0004-6361:20040309
+Pesce, D. W., Braatz, J. A., Reid, M. J., et al. 2020,, ApJ, 890, 118, doi: 10.3847/1538-4357/ab6bcd
+Plewa, P. M., Gillessen, S., Eisenhauer, F., et al. 2015,, MNRAS, 453, 3234, doi: 10.1093/mnras/stv1910
+Reid, M. J., Braatz, J. A., Condon, J. J., et al. 2013,, ApJ, 767, 154, doi: 10.1088/0004-637X/767/2/154
+Reid, M. J., Menten, K. M., Genzel, R., et al. 2003,, ApJ, 587, 208, doi: 10.1086/368074
+Reid, M. J., Menten, K. M., Trippe, S., Ott, T., & Genzel, R. 2007,, ApJ, 659, 378, doi: 10.1086/511744
+Sakai, S., Lu, J. R., Ghez, A., et al. 2019,, ApJ, 873, 65, doi: 10.3847/1538-4357/ab0361
+Schodel, R., Gallego-Cano, E., Dong, H., et al. 2018, A&A, 609, A27, doi: 10.1051/0004-6361/201730452
+Trippe, S., Gillessen, S., Gerhard, O. E., et al. 2008, A&A, 492, 419, doi: 10.1051/0004-6361:200810191
+Virtanen, P., Gommers, R., Oliphant, T. E., et al. 2020, Nature Methods, 17, 261, doi: 10.1038/s41592-019-0686-2
+Yelda, S., Lu, J. R., Ghez, A. M., et al. 2010,, ApJ, 725, 331, doi: 10.1088/0004-637X/725/1/331

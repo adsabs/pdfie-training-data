@@ -1,0 +1,61 @@
+Adelman-McCarthy J. K., et al., 2008, The Astrophysical Journal Supplement Series, 175, 297
+Boissier S., Prantzos N., 2000, Monthly Notices of the Royal Astronomical Society, 312, 398
+Bundy K., et al., 2015, The Astrophysical Journal, 798, 7
+Burkert A., et al., 2016, The Astrophysical Journal, 826, 214
+Calvi R., Poggianti B. M., Fasano G., Vulcani B., 2012, Monthly Notices of the Royal Astronomical Society, 419, L14
+Catinella B., Giovanelli R., Haynes M. P., 2006, The Astrophysical Journal, 640, 751
+Catinella B., et al., 2010, Monthly Notices of the Royal Astronomical Society, 403, 683
+Catinella B., et al., 2012, Monthly Notices of the Royal Astronomical Society, 420, 1959
+Catinella B., et al., 2018, Monthly Notices of the Royal Astronomical Society, 476, 875
+Cook R. H. W., Cortese L., Catinella B., Robotham A., 2019, Monthly Notices of the Royal Astronomical Society, 490, 4060
+Cortese L., et al., 2016, Monthly Notices of the Royal Astronomical Society, 463, 170
+Croom S. M., et al., 2021, Monthly Notices of the Royal Astronomical Society, 505, 991
+Dalcanton J. J., Spergel D. N., Summers F. J., 1997, The Astrophysical Journal, 482, 659
+El-Badry K., et al., 2018, Monthly Notices of the Royal Astronomical Society, 473, 1930
+Fall S. M., 1983, in Internal Kinematics and Dynamics of Galaxies. pp 391-398, http://adsabs.harvard.edu/abs/1983IAUS..100..391F
+Fall S. M., Efstathiou G., 1980, Monthly Notices of the Royal Astronomical Society, 193, 189
+Fall S. M., Romanowsky A. J., 2018, The Astrophysical Journal, 868, 133
+Genel S., Fall S. M., Hernquist L., Vogelsberger M., Snyder G. F., Rodriguez-Gomez V., Sijacki D., Springel V., 2015, The Astrophysical Journal Letters, 804, L40
+Giovanelli R., et al., 2005, The Astronomical Journal, 130, 2598
+Graham A. W., Driver S. P., 2005, Publications of the Astronomical Society of Australia, 22, 118
+Harrison C. M., et al., 2017, Monthly Notices of the Royal Astronomical Society, 467, 1965
+Huang S., Haynes M. P., Giovanelli R., Brinchmann J., 2012, The Astrophysical Journal, 756, 113
+Janowiecki S., Catinella B., Cortese L., Saintonge A., Brown T., Wang J., 2017, Monthly Notices of the Royal Astronomical Society, 466, 4795
+Jiang F., et al., 2019, Monthly Notices of the Royal Astronomical Society, 488, 4801
+Koribalski B. S., et al., 2020, Astrophysics and Space Science, 365, 118
+Lagos C. d. P., Theuns T., Stevens A. R. H., Cortese L., Padilla N. D., Davis T. A., Contreras S., Croton D., 2017, Monthly Notices of the Royal Astronomical Society, 464, 3850
+Lange R., et al., 2015, Monthly Notices of the Royal Astronomical Society, 447, 2603
+Lapi A., Salucci P., Danese L., 2018, The Astrophysical Journal, 859, 2
+Liske J., et al., 2015, Monthly Notices of the Royal Astronomical Society, 452, 2087
+Mancera PiAa P. E., Posti L., Fraternali F., Adams E. A. K., Oosterloo T., 2021a, Astronomy & Astrophysics, 647, A76
+Mancera PiAa P. E., Posti L., Pezzulli G., Fraternali F., Fall S. M., Oosterloo T., Adams E. A. K., 2021b, Astronomy & Astrophysics, 651, L15
+Marasco A., Fraternali F., Posti L., Ijtsma M., Di Teodoro E. M., Oosterloo T., 2019, Astronomy and Astrophysics, 621, L6
+Marshall M. A., Mutch S. J., Qin Y., Poole G. B., Wyithe J. S. B., 2019, Monthly Notices of the Royal Astronomical Society, 488, 1941
+Martin D. C., et al., 2005, The Astrophysical Journal, 619, L1
+Martinsson T. P. K., Verheijen M. A. W., Westfall K. B., Bershady M. A., Schechtman-Rook A., Andersen D. R., Swaters R. A., 2013, Astronomy and Astrophysics, 557, A130
+McGaugh S. S., Schombert J. M., Bothun G. D., de Blok W. J. G., 2000, The Astrophysical Journal Letters, 533, L99
+Mo H. J., Mao S., White S. D. M., 1998, Monthly Notices of the Royal Astronomical Society, 295, 319
+Obreschkow D., Glazebrook K., 2014, The Astrophysical Journal, 784, 26
+Obreschkow D., Glazebrook K., Kilborn V., Lutz K., 2016, The Astrophysical Journal Letters, 824, L26
+Peebles P. J. E., 1969, The Astrophysical Journal, 155, 393
+Posti L., Pezzulli G., Fraternali F., Di Teodoro E. M., 2018a, Monthly Notices of the Royal Astronomical Society, 475, 232
+Posti L., Fraternali F., Di Teodoro E. M., Pezzulli G., 2018b, Astronomy and Astrophysics, 612, L6
+Reyes R., Mandelbaum R., Gunn J. E., Pizagno J., Lackner C. N., 2011, Monthly Notices of the Royal Astronomical Society, 417, 2347
+Robotham A. S. G., Obreschkow D., 2015, Publications of the Astronomical Society of Australia, 32, e033
+Robotham A. S. G., Taranu D. S., Tobar R., Moffett A., Driver S. P., 2017, Monthly Notices of the Royal Astronomical Society, 466, 1513
+Romanowsky A. J., Fall S. M., 2012, The Astrophysical Journal Supplement Series, 203, 17
+Shen S., Mo H. J., White S. D. M., Blanton M. R., Kauffmann G., Voges W., Brinkmann J., Csabai I., 2003, Monthly Notices of the Royal Astronomical Society, 343, 978
+Stevens A. R. H., Lagos C. d. P., Obreschkow D., Sinha M., 2018, Monthly Notices of the Royal Astronomical Society, 481, 5543
+Stone C., Courteau S., Arora N., 2021, The Astrophysical Journal, 912, 41
+Sweet S. M., Fisher D., Glazebrook K., Obreschkow D., Lagos C., Wang L., 2018, The Astrophysical Journal, 860, 37
+Sweet S. M., et al., 2019, Monthly Notices of the Royal Astronomical Society, 485, 5700
+Swinbank A. M., et al., 2017, Monthly Notices of the Royal Astronomical Society, 467, 3140
+Szomoru D., Franx M., van Dokkum P. G., 2012, The Astrophysical Journal, 749, 121
+SArsic J. L., 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
+Teklu A. F., Remus R.-S., Dolag K., Beck A. M., Burkert A., Schmidt A. S., Schulze F., Steinborn L. K., 2015, The Astrophysical Journal, 812, 29
+Tiley A. L., et al., 2021, arXiv:2106.05511 [astro-ph]
+Tully R. B., Fisher J. R., 1977, Astronomy and Astrophysics, 54, 661
+Wang L., et al., 2019, Monthly Notices of the Royal Astronomical Society, 482, 5477
+White S. D. M., Frenk C. S., 1991, The Astrophysical Journal, 379, 52
+Wright E. L., et al., 2010, The Astronomical Journal, 140, 1868
+Zibetti S., Charlot S., Rix H.-W., 2009, Monthly Notices of the Royal Astronomical Society, 400, 1181

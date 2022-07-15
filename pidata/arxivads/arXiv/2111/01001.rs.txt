@@ -1,0 +1,17 @@
+S. S. Razamat and D. Tong, Phys. Rev. X 11, 011063 (2021), 2009.05037.
+D. Tong (2021), 2104.03997.
+N. Butt, S. Catterall, and D. Schaich, Phys. Rev. D 98, 114514 (2018), 1810.06117.
+V. Ayyar and S. Chandrasekharan, Phys. Rev. D 91, 065035 (2015), 1410.6474.
+S. Catterall, JHEP 01, 121 (2016), 1510.04153.
+V. Ayyar and S. Chandrasekharan, Phys. Rev. D 93, 081701 (2016), 1511.09071.
+V. Ayyar and S. Chandrasekharan, JHEP 10, 058 (2016), 1606.06312.
+V. Ayyar and S. Chandrasekharan, Phys. Rev. D 96, 114506 (2017), 1709.06048.
+S. Catterall, Phys. Rev. D 104, 014503 (2021), 2010.02290.
+N. Butt, S. Catterall, A. Pradhan, and G. C. Toga (2021), 2101.01026.
+S. Catterall and A. Veernala, Phys. Rev. D 88, 114510 (2013), 1306.5668.
+S. Catterall and A. Veernala, Int. J. Mod. Phys. A 29, 1445002 (2014), 1401.0457.
+S. Catterall and N. Butt, Phys. Rev. D 99, 014505 (2019), 1810.00853.
+N. Butt and S. Catterall, PoS LATTICE2018, 294 (2019), 1811.01015.
+C. van den Doel and J. Smit, Nucl. Phys. B 228, 122 (1983).
+M. F. Golterman and J. Smit, Nucl. Phys. B 245, 61 (1984).
+I. n. Garc ia-Etxebarria and M. Montero, JHEP 08, 003 (2019), 1808.00009.

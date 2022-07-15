@@ -1,0 +1,62 @@
+E. Petroff, J. W. T. Hessels, and D. R. Lorimer, Astron. Astrophys. Rev. 27, 4 (2019), 1904.07947.
+B. Zhang, Nature 587, 45 (2020), 2011.03500.
+D. Xiao, F. Wang, and Z. Dai, Sci. China Phys. Mech. Astron. 64, 249501 (2021), 2101.04907.
+D. R. Lorimer, M. Bailes, M. A. McLaughlin, D. J. Narkevic, and F. Crawford, Science 318, 777 (2007), 0709.4301.
+D. Thornton et al., Science 341, 53 (2013), 1307.1628.
+E. F. Keane et al., Nature 530, 453 (2016), 1602.07477.
+S. Chatterjee et al., Nature 541, 58 (2017), 1701.01098.
+S. P. Tendulkar et al., Astrophys. J. Lett. 834, L7 (2017), 1701.01100.
+E. Petroff, E. D. Barr, A. Jameson, E. F. Keane, M. Bailes, M. Kramer, V. Morello, D. Tabbara, and W. van Straten, Publ. Astron. Soc. Austral. 33, e045 (2016), 1601.03547.
+M. Amiri et al. [CHIME/FRB Collaboration], [arXiv:2106.04352 [astro-ph.HE]].
+L. G. Spitler et al., Nature 531, 202 (2016), 1603.00581.
+P. Scholz et al., Astrophys. J. 846, 80 (2017), 1705.07824.
+Y. G. Zhang, V. Gajjar, G. Foster, A. Siemion, J. Cordes, C. Law, and Y. Wang, Astrophys. J. 866, 149 (2018), 1809.03043.
+K. Gourdji, D. Michilli, L. G. Spitler, J. W. T. Hessels, A. Seymour, J. M. Cordes, and S. Chatterjee, Astrophys. J. Lett. 877, L19 (2019), 1903.02249.
+B. C. Andersen et al. (CHIME/FRB), Astrophys. J. Lett. 885, L24 (2019), 1908.03507.
+H.-N. Lin and Y. Sang, Mon. Not. Roy. Astron. Soc. 491, 2156 (2020), 1912.01191.
+Z. Chang, H.-N. Lin, Y. Sang, and P. Wang, Chin. Phys. C 41, 065104 (2017), 1702.05842.
+M. Amiri et al. (CHIME/FRB), Nature 582, 351 (2020), 2001.10275.
+B. C. Andersen et al. (CHIME/FRB), Nature 587, 54 (2020), 2005.10324.
+B. Zhang, Astrophys. J. Lett. 867, L21 (2018), 1808.05277.
+H. Yu and F. Y. Wang, Astron. Astrophys. 606, A3 (2017), 1708.06905.
+A. Walters, A. Weltman, B. M. Gaensler, Y.-Z. Ma, and A. Witzemann, Astrophys. J. 856, 65 (2018), 1711.11277.
+Z. Li, H. Gao, J.-J. Wei, Y.-P. Yang, B. Zhang, and Z.-H. Zhu, Astrophys. J. 876, 146 (2019), 1904.08927.
+Z. Li, H. Gao, J.-J. Wei, Y.-P. Yang, B. Zhang, and Z.-H. Zhu, Mon. Not. Roy. Astron. Soc. 496, L28 (2020), 2004.08393.
+S. Xu and B. Zhang, Astrophys. J. Lett. 898, L48 (2020), 2007.04089.
+Q. Wu, H. Yu, and F. Y. Wang, Astrophys. J. 895, 33 (2020), 2004.12649.
+M. Pagano and H. Fronenberg (2021), 2103.03252.
+D.-C. Qiang, H.-K. Deng, and H. Wei, Class. Quant. Grav. 37, 185022 (2020), 1902.03580.
+J. B. Munoz, E. D. Kovetz, L. Dai, and M. Kamionkowski, Phys. Rev. Lett. 117, 091301 (2016), 1605.00008.
+Z.-X. Li, H. Gao, X.-H. Ding, G.-J. Wang, and B. Zhang, Nature Commun. 9, 3833 (2018), 1708.06357.
+N. Pearson, C. Trendafilova, and J. Meyers, Phys. Rev. D 103, 063017 (2021), 2009.11252.
+J.-J. Wei, H. Gao, X.-F. Wu, and P. Meszaros, Phys. Rev. Lett. 115, 261101 (2015), 1512.07670.
+X.-F. Wu, S.-B. Zhang, H. Gao, J.-J. Wei, Y.-C. Zou, W.-H. Lei, B. Zhang, Z.-G. Dai, and P. Meszaros, Astrophys. J. Lett. 822, L15 (2016), 1602.07835.
+S. J. Tingay and D. L. Kaplan, Astrophys. J. Lett. 820, L31 (2016), 1602.07643.
+L. Bonetti, J. Ellis, N. E. Mavromatos, A. S. Sakharov, E. K. G. Sarkisyan-Grinbaum, and A. D. A. M. Spallicci, Phys. Lett. B 757, 548 (2016), 1602.09135.
+P. A. R. Ade et al. (Planck), Astron. Astrophys. 594, A16 (2016), 1506.07135.
+Y. Akrami et al. (Planck), Astron. Astrophys. 641, A7 (2020), 1906.02552.
+I. Antoniou and L. Perivolaropoulos, JCAP 12, 012 (2010), 1007.4347.
+C. A. P. Bengaly, A. Bernui, and J. S. Alcaniz, Astrophys. J. 808, 39 (2015), 1503.01413.
+H.-N. Lin, X. Li, and Z. Chang, Mon. Not. Roy. Astron. Soc. 460, 617 (2016), 1604.07505.
+J. K. Webb, J. A. King, M. T. Murphy, V. V. Flambaum, R. F. Carswell, and M. B. Bainbridge, Phys. Rev. Lett. 107, 191101 (2011), 1008.3907.
+J. A. King, J. K. Webb, M. T. Murphy, V. V. Flambaum, R. F. Carswell, M. B. Bainbridge, M. R. Wilczynska, and F. E. Koch, Mon. Not. Roy. Astron. Soc. 422, 3370 (2012), 1202.4758.
+A. Mariano and L. Perivolaropoulos, Phys. Rev. D 86, 083517 (2012), 1206.4055.
+S. Inoue, Mon. Not. Roy. Astron. Soc. 348, 999 (2004), astro-ph/0309364.
+W. Deng and B. Zhang, Astrophys. J. Lett. 783, L35 (2014), 1401.0059.
+H. Gao, Z. Li, and B. Zhang, Astrophys. J. 788, 189 (2014), 1402.2498.
+J. H. Taylor and J. M. Cordes, Astrophys. J. 411, 674 (1993).
+J. M. Cordes and T. J. W. Lazio (2002), astro-ph/0207156.
+J. M. Yao, R. N. Manchester, and N. Wang, The Astrophysical Journal 835, 29 (2017).
+R. N. Manchester, G. B. Hobbs, A. Teoh, and M. Hobbs, Astron. J. 129, 1993 (2005), astro-ph/0412641.
+A. A. Meiksin, Rev. Mod. Phys. 81, 1405 (2009), 0711.3358.
+G. D. Becker, J. S. Bolton, M. G. Haehnelt, and W. L. W. Sargent, Mon. Not. Roy. Astron. Soc. 410, 1096 (2011), 1008.2622.
+R. C. Zhang, B. Zhang, Y. Li, and D. R. Lorimer, Mon. Not. Roy. Astron. Soc. 501, 157 (2021), 2011.06151.
+Y.-P. Yang and B. Zhang, Astrophys. J. Lett. 830, L31 (2016), 1608.08154.
+R. Luo, K. Lee, D. R. Lorimer, and B. Zhang, Mon. Not. Roy. Astron. Soc. 481, 2320 (2018), 1808.09929.
+H. Yuksel, M. D. Kistler, J. F. Beacom, and A. M. Hopkins, Astrophys. J. Lett. 683, L5 (2008), 0804.4008.
+N. Aghanim et al. (Planck), Astron. Astrophys. 641, A6 (2020), 1807.06209.
+X.-F. Cao, Y.-W. Yu, and X. Zhou, Astrophys. J. 858, 89 (2018), 1803.06266.
+R. M. Shannon, J. P. Macquart, K. W. Bannister, R. D. Ekers, C. W. James, S. Oslowski, H. Qiu, M. Sammons, A. W. Hotan, M. A. Voronkov, et al., Nature 562, 386 (2018).
+R. Nan, D. Li, C. Jin, Q. Wang, L. Zhu, W. Zhu, H. Zhang, Y. Yue, and L. Qian, Int. J. Mod. Phys. D 20, 989 (2011), 1105.3794.
+M. Amiri et al. (CHIME/FRB) (2018), 1803.11235.
+E. Abdalla et al. (2021), 2107.01633.

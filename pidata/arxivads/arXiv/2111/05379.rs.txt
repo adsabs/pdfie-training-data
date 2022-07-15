@@ -1,0 +1,58 @@
+Barger, C. J. & Garrod, R. T. 2020, The Astrophysical Journal, 888, 38
+Barnes, A., Kong, S., Tan, J., et al. 2016, Monthly Notices of the Royal Astronomical Society, 458, 1990
+Bron, E., Roueff, E., Gerin, M., et al. 2021, Astronomy & Astrophysics, 645, A28
+Butler, M. J. & Tan, J. C. 2009, The Astrophysical Journal, 696, 484
+Butler, M. J. & Tan, J. C. 2012, The Astrophysical Journal, 754, 5
+Carlson, E., Profumo, S., & Linden, T. 2016, Physical review letters, 117, 111101
+Caselli, P., Walmsley, C., Tafalla, M., Dore, L., & Myers, P. 1999, The Astrophysical Journal Letters, 523, L165
+Caselli, P., Walmsley, C., Zucconi, A., et al. 2002, The Astrophysical Journal, 565, 344
+Ceccarelli, C., Dominik, C., Lopez-Sepulcre, A., et al. 2014, The Astrophysical Journal Letters, 790, L1
+Crapsi, A., Caselli, P., Walmsley, M. C., & Tafalla, M. 2007, Astronomy & Astrophysics, 470, 221
+Crutcher, R. M. 2012, Annual Review of Astronomy and Astrophysics, 50, 29
+Cuppen, H., Walsh, C., Lamberts, T., et al. 2017, Space Science Reviews, 212, 1
+Da Rio, N., Tan, J. C., & Jaehnig, K. 2014,, ApJ, 795, 55
+Elmegreen, B. G. 2007,, ApJ, 668, 1064
+Favre, C., Ceccarelli, C., Lopez-Sepulcre, A., et al. 2018, The Astrophysical Journal, 859, 136
+Fontani, F., Ceccarelli, C., Favre, C., et al. 2017, Astronomy & Astrophysics, 605, A57
+Gaches, B. A. & Offner, S. S. 2018, The Astrophysical Journal, 861, 87
+Garrod, R. T. & Herbst, E. 2006, A&A, 457, 927
+Gerner, T., Beuther, H., Semenov, D., et al. 2014, A&A, 563, A97
+Gieser, C., Semenov, D., Beuther, H., et al. 2019, A&A, 631, A142
+Hasegawa, T. I. & Herbst, E. 1993, Monthly Notices of the Royal Astronomical Society, 261, 83
+Hernandez, A. K., Tan, J. C., Kainulainen, J., et al. 2012, The Astrophysical Journal Letters, 756, L13
+Hezareh, T., Houde, M., McCoey, C., Vastel, C., & Peng, R. 2008, The Astrophysical Journal, 684, 1221
+Hsu, C.-J., Tan, J. C., Goodson, M. D., et al. 2021, Monthly Notices of the Royal Astronomical Society, 502, 1104
+Ivlev, A. V., Rocker, T. B., Vasyunin, A., & Caselli, P. 2015,, ApJ, 805, 59
+Jimenez-Serra, I., Caselli, P., Fontani, F., et al. 2014, Monthly Notices of the Royal Astronomical Society, 439, 1996
+Kainulainen, J. & Tan, J. C. 2013, A&A, 549, A53
+Kong, S., Arce, H. G., Maureira, M. J., et al. 2019, The Astrophysical Journal, 874, 104
+Kong, S., Tan, J. C., Caselli, P., et al. 2016, The Astrophysical Journal, 821, 94
+Lim, W., Tan, J. C., Kainulainen, J., Ma, B., & Butler, M. J. 2016, The Astrophysical Journal Letters, 829, L19
+Maffucci, D. M., Wenger, T. V., Le Gal, R., & Herbst, E. 2018, The Astrophysical Journal, 868, 41
+McElroy, D., Walsh, C., Markwick, A. J., et al. 2013, A&A, 550, A36
+McKee, C. F. & Tan, J. C. 2003, The Astrophysical Journal, 585, 850
+Moser, E., Liu, M., Tan, J. C., et al. 2020, The Astrophysical Journal, 897, 136
+Neufeld, D. A. & Wolfire, M. G. 2017, The Astrophysical Journal, 845, 163
+Oberg, K., Van Broekhuizen, F., Fraser, H., et al. 2005, The Astrophysical Journal Letters, 621, L33
+Padovani, M., Marcowith, A., Hennebelle, P., & Ferriere, K. 2016, Astronomy & Astrophysics, 590, A8
+Peretto, N., Fuller, G., Plume, R., et al. 2010, Astronomy & Astrophysics, 518, L98
+Pillai, T., Wyrowski, F., Carey, S. J., & Menten, K. M. 2006, A&A, 450, 569
+Rathborne, J. M., Jackson, J., & Simon, R. 2006, The Astrophysical Journal, 641, 389
+Roueff, E. & Le Bourlot, J. 2020, Astronomy & Astrophysics, 643, A121
+Sabatini, G., Bovino, S., Giannetti, A., et al. 2021, A&A, 652, A71
+Silsbee, K., Ivlev, A. V., Padovani, M., & Caselli, P. 2018,, ApJ, 863, 188
+Sipila, O., Silsbee, K., & Caselli, P. 2021, arXiv preprint arXiv:2106.04593
+Tan, J. C., Beltran, M. T., Caselli, P., et al. 2014, in Protostars and Planets VI, ed. H. Beuther, R. S. Klessen, C. P. Dullemond, & T. Henning, 149
+Tan, J. C., Kong, S., Butler, M. J., Caselli, P., & Fontani, F. 2013,, ApJ, 779, 96
+Tan, J. C., Kong, S., Zhang, Y., et al. 2016,, ApJ, 821, L3
+Tan, J. C., Krumholz, M. R., & McKee, C. F. 2006,, ApJ, 641, L121
+van der Tak, F. F. S. & van Dishoeck, E. F. 2000, A&A, 358, L79
+Vasyunina, T., Vasyunin, A. I., Herbst, E., & Linz, H. 2012,, ApJ, 751, 105
+Vazquez-Semadeni, E., Palau, A., Ballesteros-Paredes, J., Gomez, G. C., & Zamora-Aviles, M. 2019,, MNRAS, 490, 3061
+Walsh, C., Millar, T., & Nomura, H. 2010, The Astrophysical Journal, 722, 1607
+Walsh, C., Millar, T., & Nomura, H. 2013, The Astrophysical Journal Letters, 766, L23
+Walsh, C., Millar, T. J., Nomura, H., et al. 2014, A&A, 563, A33
+Walsh, C., Nomura, H., Millar, T., & Aikawa, Y. 2012, The Astrophysical Journal, 747, 114
+Walsh, C., Nomura, H., & van Dishoeck, E. 2015, A&A, 582, A88
+Wolfire, M. G., Hollenbach, D., & McKee, C. F. 2010, The Astrophysical Journal, 716, 1191
+Zeng, S., Jimenez-Serra, I., Cosentino, G., et al. 2017, Astronomy & Astrophysics, 603, A22

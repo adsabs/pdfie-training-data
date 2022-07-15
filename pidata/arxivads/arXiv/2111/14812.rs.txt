@@ -1,0 +1,52 @@
+J. Adams et al. (STAR Collaboration), Nucl.Phys. A757, 102 (2005), nucl-ex/0501009.
+K. Adcox et al. (PHENIX Collaboration), Nucl.Phys. A757, 184 (2005), nucl-ex/0410003.
+K. Aamodt et al. (ALICE), Phys. Rev. Lett. 105, 252302 (2010), 1011.3914.
+M. Gyulassy, I. Vitev, X.-N. Wang, and B.-W. Zhang, Hwa. R.C. (ed.) et al., Quark gluon plasma pp. 123-191 (2003), nucl-th/0302077.
+C. Gale, S. Jeon, and B. Schenke, Int.J.Mod.Phys. A28, 1340011 (2013), 1301.5893.
+P. Kovtun, D. Son, and A. Starinets, Phys.Rev.Lett. 94, 111601 (2005), hep-th/0405231.
+P. Romatschke and U. Romatschke, Phys.Rev.Lett. 99, 172301 (2007), 0706.1522.
+H. Song, S. A. Bass, U. Heinz, T. Hirano, and C. Shen, Phys. Rev. Lett. 106, 192301 (2011), [Erratum: Phys. Rev. Lett.109,139904(2012)], 1011.2783.
+H.-j. Xu, Z. Li, and H. Song, Phys. Rev. C93, 064905 (2016), 1602.02029.
+W. Zhao, H.-j. Xu, and H. Song, Eur. Phys. J. C 77, 645 (2017), 1703.10792.
+W. Broniowski, M. Chojnacki, and L. Obara, Phys. Rev. C 80, 051902 (2009), 0907.3216.
+P. Bozek and W. Broniowski, Phys. Rev. C 85, 044910 (2012), 1203.1810.
+A. Mazeliauskas and D. Teaney, Phys. Rev. C 93, 024913 (2016), 1509.07492.
+B. Schenke, C. Shen, and D. Teaney, Phys. Rev. C 102, 034905 (2020), 2004.00690.
+G. Giacalone, F. G. Gardim, J. Noronha-Hostler, and J.-Y. Ollitrault, Phys. Rev. C 103, 024909 (2021), 2004.01765.
+G. Giacalone, Phys. Rev. Lett. 124, 202301 (2020), 1910.04673.
+J. Jia (2021), 2109.00604.
+S. Ryu, J. F. Paquet, C. Shen, G. S. Denicol, B. Schenke, S. Jeon, and C. Gale, Phys. Rev. Lett. 115, 132301 (2015), 1502.01675.
+J. E. Bernhard, J. S. Moreland, and S. A. Bass, Nature Phys. 15, 1113 (2019).
+D. E. Kharzeev, L. D. McLerran, and H. J. Warringa, Nucl.Phys. A803, 227 (2008), 0711.0950.
+S. A. Voloshin, Phys.Rev.Lett. 105, 172301 (2010), 1006.1020.
+D. E. Kharzeev, J. Liao, S. A. Voloshin, and G. Wang, Prog. Part. Nucl. Phys. 88, 1 (2016), 1511.04050.
+W.-T. Deng, X.-G. Huang, G.-L. Ma, and G. Wang, Phys. Rev. C94, 041901 (2016), 1607.04697.
+J. Zhao and F. Wang, Prog. Part. Nucl. Phys. 107, 200 (2019), 1906.11413.
+J. Adam et al. (STAR), Nucl. Sci. Tech. 32, 48 (2021), 1911.00596.
+M. Abdallah et al. (STAR) (2021), 2109.00131.
+H.-J. Xu, X. Wang, H. Li, J. Zhao, Z.-W. Lin, C. Shen, and F. Wang, Phys. Rev. Lett. 121, 022301 (2018), 1710.03086.
+H. Li, H.-j. Xu, J. Zhao, Z.-W. Lin, H. Zhang, X. Wang, C. Shen, and F. Wang, Phys. Rev. C98, 054907 (2018), 1808.06711.
+H.-j. Xu, H. Li, X. Wang, C. Shen, and F. Wang, Phys. Lett. B 819, 136453 (2021), 2103.05595.
+H. Li, H.-j. Xu, Y. Zhou, X. Wang, J. Zhao, L.-W. Chen, and F. Wang, Phys. Rev. Lett. 125, 222301 (2020), 1910.06170.
+L.-W. Chen, C. M. Ko, and B.-A. Li, Phys. Rev. C72, 064309 (2005), nucl-th/0509009.
+X. Roca-Maza, M. Centelles, X. Vinas, and M. Warda, Phys. Rev. Lett. 106, 252501 (2011), 1103.1762.
+M. B. Tsang et al., Phys. Rev. C86, 015803 (2012), 1204.0466.
+A. Tamii et al., Phys. Rev. Lett. 107, 062502 (2011), 1104.5431.
+Z. Zhang and L.-W. Chen, Phys. Rev. C 90, 064317 (2014), 1407.8054.
+Z. Zhang and L.-W. Chen, Phys. Lett. B726, 234 (2013), 1302.5327.
+Y. Zhou, L.-W. Chen, and Z. Zhang, Phys. Rev. D 99, 121301 (2019), 1901.11364.
+D. Adhikari et al. (PREX), Phys. Rev. Lett. 126, 172502 (2021), 2102.10767.
+B. T. Reed, F. J. Fattoyev, C. J. Horowitz, and J. Piekarewicz, Phys. Rev. Lett. 126, 172503 (2021), 2101.03193.
+H. Song and U. W. Heinz, Phys. Rev. C 77, 064901 (2008), 0712.3715.
+C. Shen, Z. Qiu, H. Song, J. Bernhard, S. Bass, and U. Heinz, Comput. Phys. Commun. 199, 61 (2016), 1409.8164.
+J. E. Bernhard, J. S. Moreland, S. A. Bass, J. Liu, and U. Heinz, Phys. Rev. C 94, 024907 (2016), 1605.03954.
+S. A. Bass et al., Prog. Part. Nucl. Phys. 41, 255 (1998), [Prog. Part. Nucl. Phys.41,225(1998)], nucl-th/9803035.
+M. Bleicher et al., J. Phys. G25, 1859 (1999), hep-ph/9909407.
+J. S. Moreland, J. E. Bernhard, and S. A. Bass, Phys. Rev. C 92, 011901 (2015), 1412.4708.
+H.-j. Xu, H. Li, Y. Zhou, X. Wang, J. Zhao, L.-W. Chen, and F. Wang (2021), 2105.04052.
+C. Zhang and J. Jia (2021), 2109.01631.
+R. S. Bhalerao, J.-P. Blaizot, N. Borghini, and J.-Y. Ollitrault, Phys. Lett. B 627, 49 (2005), nucl-th/0508009.
+J. Jia (2021), 2106.08768.
+U. W. Heinz and A. Kuhlman, Phys. Rev. Lett. 94, 132301 (2005), nucl-th/0411054.
+P. Filip, R. Lednicky, H. Masui, and N. Xu, Phys. Rev. C 80, 054903 (2009).
+G. Giacalone, Phys. Rev. C 102, 024901 (2020), 2004.14463.

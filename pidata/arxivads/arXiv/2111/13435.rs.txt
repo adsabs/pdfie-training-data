@@ -1,0 +1,24 @@
+Alfven H., 1942,, Nature, 150, 405
+Bel N., Leroy B., 1977, A&A, 55, 239
+Bender C. M., Orszag S. A., 1978, Advanced Mathematical Methods for Scientists and Engineers. McGraw-Hill, New York
+Cally P. S., 2001,, ApJ, 548, 473
+Cally P. S., 2009, Sol. Phys., 254, 241
+Cally P. S., Andries J., 2010, Sol. Phys., 266, 17
+Cally P. S., Goossens M., 2008, Sol. Phys., 251, 251
+Cally P. S., Hansen S. C., 2011,, ApJ, 738, 119
+Cranmer S. R., van Ballegooijen A. A., 2005,, ApJS, 156, 265
+De Pontieu B., et al., 2007, Science, 318, 1574
+Hansen S. C., Cally P. S., 2012,, ApJ, 751, 31
+Jefferies S. M., McIntosh S. W., Armstrong J. D., Bogdan T. J., Cacciani A., Fleck B., 2006,, ApJ, 648, L151
+Jess D. B., Mathioudakis M., Erdelyi R., Crockett P. J., Keenan F. P., Christian D. J., 2009, Science, 323, 1582
+Mathioudakis M., Jess D. B., Erdelyi R., 2013, Space Sci. Rev., 175, 1
+McIntosh S. W., De Pontieu B., 2012,, ApJ, 761, 138
+Narain U., Ulmschneider P., 1996, Space Sci. Rev., 75, 453
+Newington M. E., Cally P. S., 2010,, MNRAS, 402, 386
+Raboonik A., Cally P. S., 2019, Sol. Phys., 294, 147
+Raboonik A., Cally P. S., 2021,, MNRAS, 507, 2671
+Schunker H., Cally P. S., 2006,, MNRAS, 372, 551
+Srivastava A. K., et al., 2021, Journal of Geophysical Research: Space Physics, 126, e2020JA029097
+Tomczyk S., McIntosh S. W., Keil S. L., Judge P. G., Schad T., Seeley D. H., Edmondson J., 2007, Science, 317, 1192
+Weinberg S., 1962, Physical Review, 126, 1899
+Zhugzhda I. D., Dzhalilov N. S., 1984, A&A, 132, 45

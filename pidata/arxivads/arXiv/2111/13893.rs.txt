@@ -1,0 +1,13 @@
+J. C. Montero and V. Pleitez, "Gauging U(1) symmetries and the number of right-handed neutrinos", Phys. Lett.B675, 64, (2009)
+J. C. Montero and V. Pleitez, 2009,  [arXiv:0706.0473 [hep-ph]].
+J. C. Montero, V. Pleitez, M. C. Rodriguez and B. L. Sanchez-Vega, "Supersymmetric U(1)Y "U(1)B-L extension of the standard model, Int. J. Mod. Phys.A32, 1750093, (2017),
+J. C. Montero, V. Pleitez, M. C. Rodriguez and B. L. Sanchez, 2017, arXiv:1609.08129 [hep-ph
+N. Bernal, D. Restrepo, C. Yaguna and O. Zapata, "Two-component dark matter and a massless neutrino in a new B - L model", Phys. Rev.D99, 015038, (2019)
+N. Bernal, D. Restrepo, C. Yaguna and O. Zapata,  [arXiv:1808.03352 [hep-ph]].
+J. C. Montero and B. L. Sanchez-Vega, "Neutrino masses and the scalar sector of a B-L extension of the standard model", Phys. Rev.D84, 053006, (2011)
+J. C. Montero and B. L. Sanchez, 2011,  [arXiv:1102.0321 [hep-ph]].
+B. L. Sanchez-Vega, J. C. Montero and E. R. Schmitz, "Complex Scalar DM in a B-L Model", Phys. Rev.D90, 055022 (2014)
+B. L. Sanchez-Vega, J. C. Montero and E. R. Schmitz, 2014,  arXiv:1404.5973 [hep-ph]].
+M. C. Rodriguez, "The Minimal Supersymmetric Standard Model (MSSM) and General Singlet Extensions of the MSSM (GSEMSSM), a short review", arXiv:1911.13043 [hep-ph].
+J. C. Romao and J. W. F. Valle, "Neutrino masses in supersymmetry with spontaneously broken R parity", Nucl. Phys.B381, 87, (1992).
+M. Dress, R. M. Godbole and P. Royr, "Theory and Phenomenology of Sparticles", 1st edition, World Scientific Publishing Co. Pte. Ltd., Singapore, (2004).

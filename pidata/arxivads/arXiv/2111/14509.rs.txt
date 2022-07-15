@@ -1,0 +1,64 @@
+S. Catani and M. H. Seymour, Phys. Lett. B 378 (1996), 287-301 doi:10.1016/0370-2693(96)00425-X
+S. Catani and M. H. Seymour, Phys. Lett. B 378, 1996, arXiv:hep-ph/9602277 [hep-ph
+S. Catani and M. H. Seymour, Nucl. Phys. B 485 (1997), 291-419 [erratum: Nucl. Phys. B 510 (1998), 503-504] doi:10.1016/S0550-3213(96)00589-5 [arXiv:hep-ph/9605323 [hep-ph]].
+S. Frixione, Z. Kunszt and A. Signer, Nucl. Phys. B 467 (1996), 399-442 doi:10.1016/0550-3213(96)00110-1
+S. Frixione, Z. Kunszt and A. Signer, Nucl. Phys. B 467, 1996, arXiv:hep-ph/9512328 [hep-ph
+S. Frixione, Nucl. Phys. B 507 (1997), 295-314 doi:10.1016/S0550-3213(97)00574-9
+S. Frixione, Nucl. Phys. B 507, 1997, arXiv:hep-ph/9706545 [hep-ph
+S. Catani and M. Grazzini, Phys. Rev. Lett. 98 (2007), 222002 doi:10.1103/PhysRevLett.98.222002
+S. Catani and M. Grazzini, Phys. Rev. Lett. 98, 2007, arXiv:hep-ph/0703012 [hep-ph
+M. Grazzini, S. Kallweit and M. Wiesemann, Eur. Phys. J. C 78 (2018) no.7, 537 doi:10.1140/epjc/s10052-018-5771-7
+M. Grazzini, S. Kallweit and M. Wiesemann, Eur. Phys. J. C 78, 2018, arXiv:1711.06631 [hep-ph
+L. Cieri, X. Chen, T. Gehrmann, E. W. N. Glover and A. Huss, JHEP 02 (2019), 096 doi:10.1007/JHEP02(2019)096
+L. Cieri, X. Chen, T. Gehrmann, E. W. N. Glover and A. Huss, JHEP 02, arXiv:1807.11501 [hep-ph
+S. Camarda, L. Cieri and G. Ferrera, [arXiv:2103.04974 [hep-ph]].
+M. A. Ebert and F. J. Tackmann, JHEP 03 (2020), 158 doi:10.1007/JHEP03(2020)158
+M. A. Ebert and F. J. Tackmann, JHEP 03, arXiv:1911.08486 [hep-ph
+M. A. Ebert, J. K. L. Michel, I. W. Stewart and F. J. Tackmann, JHEP 04 (2021), 102 doi:10.1007/JHEP04(2021)102
+M. A. Ebert, J. K. L. Michel, I. W. Stewart and F. J. Tackmann, JHEP 04, arXiv:2006.11382 [hep-ph
+S. Alekhin, A. Kardos, S. Moch and Z. Trocsanyi, [arXiv:2104.02400 [hep-ph]].
+I. Moult, L. Rothen, I. W. Stewart, F. J. Tackmann and H. X. Zhu, Phys. Rev. D 95 (2017) no.7, 074023 doi:10.1103/PhysRevD.95.074023
+I. Moult, L. Rothen, I. W. Stewart, F. J. Tackmann and H. X. Zhu, Phys. Rev. D 95, 2017, arXiv:1612.00450 [hep-ph
+L. Cieri, C. Oleari and M. Rocco, Eur. Phys. J. C 79 (2019) no.10, 852 doi:10.1140/epjc/s10052-019-7361-8
+L. Cieri, C. Oleari and M. Rocco, Eur. Phys. J. C 79, arXiv:1906.09044 [hep-ph
+S. Catani, M. Grazzini and A. Torre, Nucl. Phys. B 890 (2014), 518-538 doi:10.1016/j.nuclphysb.2014.11.019
+S. Catani, M. Grazzini and A. Torre, Nucl. Phys. B 890, 2014, arXiv:1408.4564 [hep-ph
+R. Bonciani, S. Catani, M. Grazzini, H. Sargsyan and A. Torre, Eur. Phys. J. C 75 (2015) no.12, 581 doi:10.1140/epjc/s10052-015-3793-y
+R. Bonciani, S. Catani, M. Grazzini, H. Sargsyan and A. Torre, Eur. Phys. J. C 75, 2015, arXiv:1508.03585 [hep-ph
+L. Buonocore, M. Grazzini and F. Tramontano, Eur. Phys. J. C 80 (2020) no.3, 254 doi:10.1140/epjc/s10052-020-7815-z
+L. Buonocore, M. Grazzini and F. Tramontano, Eur. Phys. J. C 80, arXiv:1911.10166 [hep-ph
+G. P. Salam and E. Slade, [arXiv:2106.08329 [hep-ph]].
+A. Glazov, Eur. Phys. J. C 80 (2020) no.9, 875 doi:10.1140/epjc/s10052-020-08435-4
+A. Glazov, Eur. Phys. J. C 80, arXiv:2001.02933 [hep-ex
+S. Catani, D. de Florian, G. Ferrera and M. Grazzini, JHEP 12 (2015), 047 doi:10.1007/JHEP12(2015)047
+S. Catani, D. de Florian, G. Ferrera and M. Grazzini, JHEP 12, 2015, arXiv:1507.06937 [hep-ph
+S. Catani, L. Cieri, D. de Florian, G. Ferrera and M. Grazzini, Eur. Phys. J. C 72 (2012), 2195 doi:10.1140/epjc/s10052-012-2195-7
+S. Catani, L. Cieri, D. de Florian, G. Ferrera and M. Grazzini, Eur. Phys. J. C 72, 2012, arXiv:1209.0158 [hep-ph
+S. Catani, L. Cieri, D. de Florian, G. Ferrera and M. Grazzini, Nucl. Phys. B 881 (2014), 414-443 doi:10.1016/j.nuclphysb.2014.02.011
+G. Bozzi, S. Catani, D. de Florian and M. Grazzini, Nucl. Phys. B 737 (2006), 73-120 doi:10.1016/j.nuclphysb.2005.12.022
+G. Bozzi, S. Catani, D. de Florian and M. Grazzini, Nucl. Phys. B 737, 2006, arXiv:hep-ph/0508068 [hep-ph
+S. Catani, D. de Florian and M. Grazzini, Nucl. Phys. B 596 (2001), 299-312 doi:10.1016/S0550-3213(00)00617-9
+S. Catani, D. de Florian and M. Grazzini, Nucl. Phys. B 596, 2001, arXiv:hep-ph/0008184 [hep-ph
+M. A. Ebert, I. Moult, I. W. Stewart, F. J. Tackmann, G. Vita and H. X. Zhu, JHEP 04 (2019), 123 doi:10.1007/JHEP04(2019)123
+M. A. Ebert, I. Moult, I. W. Stewart, F. J. Tackmann, G. Vita and H. X. Zhu, JHEP 04, arXiv:1812.08189 [hep-ph
+C. Oleari and M. Rocco, Eur. Phys. J. C 81 (2021) no.2, 183 doi:10.1140/epjc/s10052-021-08878-3
+C. Oleari and M. Rocco, Eur. Phys. J. C 81, arXiv:2012.10538 [hep-ph
+I. Balitsky and A. Tarasov, JHEP 05 (2018), 150 doi:10.1007/JHEP05(2018)150
+I. Balitsky and A. Tarasov, JHEP 05, 2018, arXiv:1712.09389 [hep-ph
+J. Ablinger, J. Blumlein, M. Round and C. Schneider, Comput. Phys. Commun. 240 (2019), 189-201 doi:10.1016/j.cpc.2019.02.005
+J. Ablinger, J. Blumlein, M. Round and C. Schneider, Comput. Phys. Commun. 240, arXiv:1809.07084 [hep-ph
+S. Camarda, M. Boonekamp, G. Bozzi, S. Catani, L. Cieri, J. Cuth, G. Ferrera, D. de Florian, A. Glazov and M. Grazzini, et al. Eur. Phys. J. C 80 (2020) no.3, 251 [erratum: Eur. Phys. J. C 80 (2020) no.5, 440] doi:10.1140/epjc/s10052-020-7757-5 [arXiv:1910.07049 [hep-ph]].
+W. Bizon, A. Gehrmann-De Ridder, T. Gehrmann, N. Glover, A. Huss, P. F. Monni, E. Re, L. Rottoli and D. M. Walker, Eur. Phys. J. C 79 (2019) no.10, 868 doi:10.1140/epjc/s10052-019-7324-0
+W. Bizon, A. Gehrmann-De Ridder, T. Gehrmann, N. Glover, A. Huss, P. F. Monni, E. Re, L. Rottoli and D. M. Walker, Eur. Phys. J. C 79, arXiv:1905.05171 [hep-ph
+R. D. Ball et al. [NNPDF], Eur. Phys. J. C 77 (2017) no.10, 663 doi:10.1140/epjc/s10052-017-5199-5 [arXiv:1706.00428 [hep-ph]].
+J. M. Campbell and R. K. Ellis, Phys. Rev. D 60   113006 doi:10.1103/PhysRevD.60.113006 [arXiv:hep-ph/9905386 [hep-ph]] (1999)
+J. M. Campbell, R. K. Ellis and C. Williams, JHEP 07   018 doi:10.1007/JHEP07(2011)018 [arXiv:1105.0020 [hep-ph]] (2011)
+J. M. Campbell, R. K. Ellis and W. T. Giele, Eur. Phys. J. C 75   no.6, 246 doi:10.1140/epjc/s10052-015-3461-2 [arXiv:1503.06182 [physics.comp-ph]]. (2015)
+K. Melnikov and F. Petriello, Phys. Rev. D 74 (2006), 114017 doi:10.1103/PhysRevD.74.114017
+K. Melnikov and F. Petriello, Phys. Rev. D 74, 2006, arXiv:hep-ph/0609070 [hep-ph
+Y. Li and F. Petriello, Phys. Rev. D 86 (2012), 094034 doi:10.1103/PhysRevD.86.094034
+Y. Li and F. Petriello, Phys. Rev. D 86, 2012, arXiv:1208.5967 [hep-ph
+C. Anastasiou, K. Melnikov and F. Petriello, Phys. Rev. D 69 (2004), 076010 doi:10.1103/PhysRevD.69.076010
+C. Anastasiou, K. Melnikov and F. Petriello, Phys. Rev. D 69, 2004, arXiv:hep-ph/0311311 [hep-ph
+C. Anastasiou, L. J. Dixon, K. Melnikov and F. Petriello, Phys. Rev. D 69 (2004), 094008 doi:10.1103/PhysRevD.69.094008
+C. Anastasiou, L. J. Dixon, K. Melnikov and F. Petriello, Phys. Rev. D 69, 2004, arXiv:hep-ph/0312266 [hep-ph

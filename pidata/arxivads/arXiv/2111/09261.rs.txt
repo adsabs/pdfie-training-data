@@ -1,0 +1,46 @@
+Bale, S., Goetz, K., Harvey, P., et al. 2016, SSRv, 204, 49, doi: 10.1007/s11214-016-0244-5
+Bale, S., Badman, S., Bonnell, J., et al. 2019, Natur, 576, 237, doi: 10.1038/s41586-019-1818-7
+Bavassano, B., Pietropaolo, E., & Bruno, R. 1998, JGR, 103, 6521, doi: 10.1029/97JA03029
+Bruno, R., & Carbone, V. 2013, Living Reviews in Solar Physics, 10, doi: 10.12942/lrsp-2013-2
+Cartwright, M. L., & Moldwin, M. B. 2010, JGR, 115, A08102, doi: 10.1029/2009JA014271
+Case, A. W., Kasper, J. C., Stevens, M. L., et al. 2020,, ApJS, 246, 43, doi: 10.3847/1538-4365/ab5a7b
+Chen, Y., & Hu, Q. 2020,, ApJ, 894, 25, doi: 10.3847/1538-4357/ab8294
+Chen, Y., Hu, Q., & le Roux, J. A. 2019,, ApJ, 881, 58, doi: 10.3847/1538-4357/ab2ccf
+Chen, Y., Hu, Q., Zhao, L., Kasper, J. C., & Huang, J. 2021,, ApJ, 914, 108, doi: 10.3847/1538-4357/abfd30
+Chen, Y., Hu, Q., Zhao, L., et al. 2020,, ApJ, 903, 76, doi: 10.3847/1538-4357/abb820
+Drake, J., Agapitov, O., Swisdak, M., et al. 2021, A&A, 650, A2, doi: 10.1051/0004-6361/202039432
+Drake, J. F., Swisdak, M., Schoeffler, K. M., Rogers, B. N., & Kobayashi, S. 2006, GRL, 33, doi: 10.1029/2006GL025957
+Dudok de Wit, T., Krasnoselskikh, V. V., Bale, S. D., et al. 2020,, ApJS, 246, 39, doi: 10.3847/1538-4365/ab5853
+Fermo, R. L., Drake, J. F., Swisdak, M., & Hwang, K.-J. 2011, JGR, 116, doi: 10.1029/2010JA016271
+Greco, A., Chuychai, P., Matthaeus, W. H., Servidio, S., & Dmitruk, P. 2008, GRL, 35, doi: 10.1029/2008GL035454
+Hau, L.-N., & Sonnerup, B. U. O. 1999, JGR, 104, 6899, doi: 10.1029/1999JA900002
+Horbury, T. S., Woolley, T., Laker, R., et al. 2020,, ApJS, 246, 45, doi: 10.3847/1538-4365/ab5b15
+Hu, Q. 2017, ScChD, 60, 1466, doi: doi:10.1007/s11430-017-9067-2
+Hu, Q., & Sonnerup, B. U. 2002, JGR, 107, 1142, doi: 10.1029/2001JA000293
+Hu, Q., & Sonnerup, B. U. O. 2001, GRL, 28, 467, doi: 10.1029/2000GL012232
+Hu, Q., Zheng, J., Chen, Y., le Roux, J., & Zhao, L. 2018,, ApJS, 239, 12, doi: 10.3847/1538-4365/aae57d
+Kasper, J. C., Abiad, R., Austin, G., et al. 2016, SSRv, 204, 131, doi: 10.1038/s41586-019-1813-z
+Kasper, J. C., Bale, S. D., Belcher, J. W., et al. 2019, Natur, 576, 228, doi: 10.1038/s41586-019-1813-z
+Khrabrov, A. V., & Sonnerup, B. U. O. 1998, JGR, 103, 6641, doi: 10.1029/97JA03731
+Liang, H., Zank, G. P., Nakanotani, M., & Zhao, L.-L. 2021,, ApJ, 917, 110, doi: 10.3847/1538-4357/ac0a73
+Matthaeus, W. H., & Goldstein, M. L. 1982, JGR, 87, 6011, doi: 10.1029/JA087iA08p06011
+Matthaeus, W. H., Pouquet, A., Mininni, P. D., Dmitruk, P., & Breech, B. 2008, PhRvLett., 100, 085003, doi: 10.1103/PhysRevLett.100.085003
+Moldwin, M. B., Ford, S., Lepping, R., Slavin, J., & Szabo, A. 2000, JGR, 27, 57, doi: 10.1029/1999GL010724
+Nykyri, K., & Otto, A. 2004, AnGeo, 22, 935, doi: 10.5194/angeo-22-935-2004
+Osman, K. T., Wan, M., Matthaeus, W. H., Breech, B., & Oughton, S. 2011,, ApJ, 741, 75, doi: 10.1088/0004-637x/741/2/75
+Parashar, T. N., Goldstein, M. L., Maruca, B. A., et al. 2020,, ApJS, 246, 58, doi: 10.3847/1538-4365/ab64e6
+Pecora, F., Servidio, S., Greco, A., & Matthaeus, W. 2021, A&A, 650, A20, doi: 10.1051/0004-6361/202039639
+Phan, T. D., Lavraud, B., Halekas, J. S., et al. 2021, A&A, 650, A13, doi: 10.1051/0004-6361/202039863
+Roberts, D. A., Klein, L. W., Goldstein, M. L., & Matthaeus, W. H. 1987, JGR, 92, 11021, doi: 10.1029/JA092iA10p11021
+Servidio, S., Matthaeus, W. H., Shay, M. A., Cassak, P. A., & Dmitruk, P. 2009, PhRvLett., 102, 115003, doi: 10.1103/PhysRevLett.102.115003
+Sonnerup, B. U. O., & Guo, M. 1996, GRL, 23, 3679, doi: 10.1029/96GL03573
+Sonnerup, B. U. O., Hasegawa, H., Teh, W.-L., & Hau, L.-N. 2006, JGR, 111, doi: 10.1029/2006JA011717
+Sterling, A. C., & Moore, R. L. 2020,, ApJ, 896, L18, doi: 10.3847/2041-8213/ab96be
+Teh, W.-L. 2018, EP&S, 70, 1, doi: 10.1186/s40623-018-0802-z
+Tu, C.-Y., & Marsch, E. 1995, SSRv, 73, 1, doi: 10.1007/BF00748891
+Whittlesey, P. L., Larson, D. E., Kasper, J. C., et al. 2020,, ApJS, 246, 74, doi: 10.3847/1538-4365/ab7370
+Yamauchi, Y., Suess, S. T., Steinberg, J. T., & Sakurai, T. 2004, JGR, 109, doi: 10.1029/2003JA010274
+Zank, G. P., Nakanotani, M., Zhao, L.-L., Adhikari, L., & Kasper, J. 2020,, ApJ, 903, 1, doi: 10.3847/1538-4357/abb828
+Zhao, L., Zank, G., Hu, Q., et al. 2021, A&A, 650, A12, doi: 10.1051/0004-6361/202039298
+Zheng, J., & Hu, Q. 2018, ApJL, 852, L23, doi: 10.3847/2041-8213/aaa3d7
+Zheng, J., Hu, Q., Chen, Y., & le Roux, J. 2017, in JPhCS, Vol. 900, JPhCS, 012024, doi: 10.1088/1742-6596/900/1/012024

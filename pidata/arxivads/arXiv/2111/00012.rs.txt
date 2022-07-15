@@ -1,0 +1,58 @@
+Barniol Duran, R., Nakar, E., Piran, T., & Sari, R. 2015, MNRAS, 448, 417, doi: 10.1093/mnras/stv011
+Bell, A. R. 1978, MNRAS, 182, 147, doi: 10.1093/mnras/182.2.147
+Blandford, R., & Eichler, D. 1987, PhR, 154, 1, doi: 10.1016/0370-1573(87)90134-7
+Blandford, R. D., & Ostriker, J. P. 1978, ApJL, 221, L29, doi: 10.1086/182658
+Bloom, J. S., Giannios, D., Metzger, B. D., et al. 2011, Science, 333, 203, doi: 10.1126/science.1207150
+Bright, J. S., Margutti, R., Matthews, D., et al. 2021, arXiv e-prints, arXiv:2110.05514. https://arxiv.org/abs/2110.05514
+Burrows, D. N., Kennea, J. A., Ghisellini, G., et al. 2011, Nature, 476, 421, doi: 10.1038/nature10374
+Chevalier, R. A. 1982, ApJ, 259, 302, doi: 10.1086/160167
+—. 1998, ApJ, 499, 810, doi: 10.1086/305676
+Coppejans, D. L., Margutti, R., Terreran, G., et al. 2020, ApJL, 895, L23, doi: 10.3847/2041-8213/ab8cc7
+Crumley, P., Caprioli, D., Markoff, S., & Spitkovsky, A. 2019, MNRAS, 485, 5105, doi: 10.1093/mnras/stz232
+Darbha, S., Metzger, B. D., Quataert, E., et al. 2010, MNRAS, 409, 846, doi: 10.1111/j.1365-2966.2010.17353.x
+Dessart, L., Burrows, A., Ott, C. D., et al. 2006, ApJ, 644, 1063, doi: 10.1086/503626
+Eftekhari, T., Berger, E., Zauderer, B. A., Margutti, R., & Alexander, K. D. 2018, ApJ, 854, 86, doi: 10.3847/1538-4357/aaa8e0
+Eichler, D., & Waxman, E. 2005, ApJ, 627, 861, doi: 10.1086/430596
+Fong, W., Berger, E., Margutti, R., & Zauderer, B. A. 2015, ApJ, 815, 102, doi: 10.1088/0004-637X/815/2/102
+Fong, W., Metzger, B. D., Berger, E., & Ozel, F. 2016, ApJ, 831, 141, doi: 10.3847/0004-637X/831/2/141
+Gammie, C. F., & Popham, R. 1998, ApJ, 498, 313, doi: 10.1086/305521
+Giannios, D., & Spitkovsky, A. 2009, MNRAS, 400, 330, doi: 10.1111/j.1365-2966.2009.15454.x
+Hajela, A., Margutti, R., Alexander, K. D., et al. 2019, ApJL, 886, L17, doi: 10.3847/2041-8213/ab5226
+Hajela, A., Margutti, R., Bright, J. S., et al. 2021, arXiv e-prints, arXiv:2104.02070. https://arxiv.org/abs/2104.02070
+Ho, A. Y. Q., Goldstein, D. A., Schulze, S., et al. 2019, ApJ, 887, 169, doi: 10.3847/1538-4357/ab55ec
+Ho, A. Y. Q., Perley, D. A., Kulkarni, S. R., et al. 2020, ApJ, 895, 49, doi: 10.3847/1538-4357/ab8bcf
+Ho, A. Y. Q., Margalit, B., Bremer, M., et al. 2021, arXiv e-prints, arXiv:2110.05490. https://arxiv.org/abs/2110.05490
+Horesh, A., Hotokezaka, K., Piran, T., Nakar, E., & Hancock, P. 2016, ApJL, 819, L22, doi: 10.3847/2041-8205/819/2/L22
+Huang, Y. F., Dai, Z. G., & Lu, T. 1999, MNRAS, 309, 513, doi: 10.1046/j.1365-8711.1999.02887.x
+Katz, B., Sapir, N., & Waxman, E. 2011, arXiv e-prints, arXiv:1106.1898. https://arxiv.org/abs/1106.1898
+Kulkarni, S. R., Frail, D. A., Wieringa, M. H., et al. 1998, Nature, 395, 663, doi: 10.1038/27139
+Kumar, N., & Reville, B. 2021, arXiv e-prints, arXiv:2110.09939. https://arxiv.org/abs/2110.09939
+Mahadevan, R., Narayan, R., & Yi, I. 1996, ApJ, 465, 327, doi: 10.1086/177422
+Margalit, B., & Metzger, B. D. 2019, ApJL, 880, L15, doi: 10.3847/2041-8213/ab2ae2
+Margalit, B., & Piran, T. 2015, MNRAS, 452, 3419, doi: 10.1093/mnras/stv1550
+—. 2020, MNRAS, 495, 4981, doi: 10.1093/mnras/staa1486
+Margalit, B., Quataert, E., & Ho, A. Y. Q. 2021, arXiv e-prints, arXiv:2109.09746. https://arxiv.org/abs/2109.09746
+Margutti, R., Metzger, B. D., Chornock, R., et al. 2019, ApJ, 872, 18, doi: 10.3847/1538-4357/aafa01
+Metzger, B. D., & Bower, G. C. 2014, MNRAS, 437, 1821, doi: 10.1093/mnras/stt2010
+Nakar, E., & Piran, T. 2011, Nature, 478, 82, doi: 10.1038/nature10365
+Özel, F., Psaltis, D., & Narayan, R. 2000, ApJ, 541, 234, doi: 10.1086/309396
+Park, J., Caprioli, D., & Spitkovsky, A. 2015, PhRvL, 114, 085003, doi: 10.1103/PhysRevLett.114.085003
+Pe'er, A. 2012, ApJL, 752, L8, doi: 10.1088/2041-8205/752/1/L8
+Perley, D. A., Ho, A. Y. Q., Yao, Y., et al. 2021, MNRAS, doi: 10.1093/mnras/stab2785
+Petrosian, V. 1981, ApJ, 251, 727, doi: 10.1086/159517
+Prentice, S. J., Maguire, K., Smartt, S. J., et al. 2018, ApJL, 865, L3, doi: 10.3847/2041-8213/aadd90
+Ressler, S. M., & Laskar, T. 2017, ApJ, 845, 150, doi: 10.3847/1538-4357/aa8268
+Rybicki, G. B., & Lightman, A. P. 1979, Radiative processes in astro-physics
+Sari, R., Piran, T., & Narayan, R. 1998, ApJL, 497, L17, doi: 10.1086/311269
+Schroeder, G., Margalit, B., Fong, W.-f., et al. 2020, ApJ, 902, 82, doi: 10.3847/1538-4357/abb407
+Sironi, L., & Spitkovsky, A. 2009, ApJ, 698, 1523, doi: 10.1088/0004-637X/698/2/1523
+—. 2011, ApJ, 726, 75, doi: 10.1088/0004-637X/726/2/75
+Spitkovsky, A. 2008, ApJL, 682, L5, doi: 10.1086/590248
+Spitzer, L. 1956, Physics of Fully Ionized Gases
+Stepney, S. 1983, MNRAS, 202, 467, doi: 10.1093/mnras/202.2.467
+Tan, J. C., Matzner, C. D., & McKee, C. F. 2001, ApJ, 551, 946, doi: 10.1086/320245
+Tran, A., & Sironi, L. 2020, ApJL, 900, L36, doi: 10.3847/2041-8213/abb19c
+Warren, D. C., Barkov, M. V., Ito, H., Nagataki, S., & Laskar, T. 2018, MNRAS, 480, 4060, doi: 10.1093/mnras/sty2138
+Weiler, K. W., Panagia, N., Montes, M. J., & Sramek, R. A. 2002, ARA&A, 40, 387, doi: 10.1146/annurev.astro.40.060401.093744
+Xu, R., Spitkovsky, A., & Caprioli, D. 2020, ApJL, 897, L41, doi: 10.3847/2041-8213/aba11e
+Zauderer, B. A., Berger, E., Soderberg, A. M., et al. 2011, Nature, 476, 425, doi: 10.1038/nature10366

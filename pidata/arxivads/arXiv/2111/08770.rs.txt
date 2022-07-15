@@ -1,0 +1,42 @@
+Asvestari, E., Pomoell, J., Kilpua, E., et al. 2021, A&A, in press, doi:10.1051/0004-6361/202140315
+Balmaceda, L. A., Vourlidas, A., Stenborg, G. & St. Cyr, O. C. 2020, SoPh, 295, 107, doi:10.1007/s11207-020-01672-6
+Bellan, P. M. 2000, Imperial College Press, ISBN: 1860941419, doi:10.1142/p121
+Colaninno, R. C. & Vourlidas, A. 2006,, ApJ, 652, 1747-1754, doi:10.1086/507943
+Demoulin, P. & Dasso, S. 2009, A&A, 498, 551-566, doi:10.1051/0004-6361/200810971
+Farrugia, C. J., Osherovich, V. A. & Burlaga, L. F. 1995, J. Geophys. Res., 100( A7), 12293 12306, doi:10.1029/95JA00272.
+Feng, H., Zhao, Y., Wang, J., Liu, Q. & Zhao, G. 2021, Frontiers in Physics, 9, 232 doi:10.3389/fphy.2021.679780
+Gibson, S. E. & Low, B. C. 1998,, ApJ, 493, 460-473, doi:10.1086/305107
+Gosling J.T. 1990, Geophys. Monogr. Ser., AGU, vol. 58, doi:10.1029/GM058p0343
+Heinemann, S. G., Temmer, M., Farrugia, C. J. et al. 2019, SoPh, 294, 121, doi:10.1007/s11207-019-1515-6
+Isavnin, A., Vourlidas, A. & Kilpua, E. K. J. 2014, SoPh, 289, 2141-2156, doi:10.1007/s11207-013-0468-4
+Jackson J.D. 1998, Wiley, pp. 832. ISBN 0-471-30932-X
+Jin, M., Manchester, W. B., van der Holst, B., et al. 2017,, ApJ, 834, 173, doi:10.3847/1538-4357/834/2/173
+Kataoka, R., Ebisuzaki, T., Kusano, K. et al. 2009, J. Geophys. Res., 114, A10102, doi:10.1029/2009JA014167
+Kay, C., Opher, M. & Evans, R. M. 2015,, ApJ, 805, 168, doi:10.1088/0004-637X/805/2/168
+Kay, C. & Opher, M. 2015, ApJ811, L36, doi:10.1088/2041-8205/811/2/L36
+Kilpua, E. K. J., Balogh, A., von Steiger, R. & Liu, Y. D. 2017, SSRv, 212, 1271-1314, doi:10.1007/s11214-017-0411-3
+Liu, Y., Shen, F. & Yang Y. 2019,, ApJ, 887, 2, 150, doi:10.3847/1538-4357/ab543e
+Lugaz, N., Manchester, W. B. & Gombosi, T. I. 2005,, ApJ, 634, 651-662, doi:10.1086/491782
+Mehta, R., Barkov, M., Sironi, L. & Lyutikov, M. 2021, J. Plasma Phys., 86, 905860407, doi:10.1017/S0022377820000768
+Manchester, W. B., Gombosi, T. I., Roussev, I., et al. 2004, J. Geophys. Res., 109, A01102, doi:10.1029/2002JA009672
+Manchester, W. B., Gombosi, T. I., Roussev, I., et al. 2004, J. Geophys. Res., 109, A02107, doi:10.1029/2003JA010150
+Manchester, W. B., van der Holst, B. & Lavraud, B. 2014, Plasma Physics and Controlled Fusion, 56, 064006, doi:10.1088/0741-3335/56/6/064006
+Manchester, W. B., Kozyra, J. U., Lepri, S. T. & Lavraud, B. 2014, J. Geophys. Res., 119, 5449-5464, doi:10.1002/2014JA019882
+Pomoell, J. & Poedts S. 2018, J. Space Weather Space Clim., 8, A35, doi:10.1051/swsc/2018020
+Rosenbluth, M. N. & Bussac, M. N. 1979, Nuclear Fusion, 19, 489-498
+Sato, T. & Hayashi, T. 1983, PhRvL, 50, 38-40, doi:10.1103/PhysRevLett.50.38
+Scolini, C., Chan, E., Temmer, M., et al. 2020,, ApJS, 247, 21, doi:10.3847/1538-4365/ab6216
+Shiota, D., Kusano, K., Miyoshi T. & Shibata, K. 2010,, ApJ, 718, 1305-1314, doi:10.1088/0004-637X/718/2/1305
+Shiota, D. & Kataoka, R. 2016, Space Weather, 14, 56-75, doi:10.1002/2015SW001308
+Singh, T., Yalim, M. S. & Pogorelov, N. V. 2018,, ApJ, 864, 18, doi:10.3847/1538-4357/aad3b4
+Singh, T., Kim, T. K., Pogorelov, N. V. & Arge, C. N. 2020, Space Weather, 18, e02405, doi:10.1029/2019SW002405
+Singh, T., Yalim, M. S., Pogorelov, N. V. & Gopalswamy, N. 2020,, ApJ, 894, 49, doi:10.3847/1538-4357/ab845f
+Vandas, M., Fischer, S., Pelant, P. & Geranios, A. 1993, J. Geophys. Res., 98, 21, 061-21, 069, doi:10.1029/93JA01749
+Vandas, M., Fischer, S., Pelant, P., Dryer, M., Smith, Z. & Detman, T. 1997, J. Geophys. Res., 102, 24183-24194, doi:10.1029/97JA02257
+Vandas, M., Fischer, S., Dryer, M., Smith, Z. & Detman, T. 1998, J. Geophys. Res., 103 (A10), 2371723725, doi:10.1029/98JA01902
+Vandas, M., Odstrcll, D. & Watari, S. 2002, J. Geophys. Res., 107( A9), 1236, doi:10.1029/2001JA005068
+Verbeke, C., Pomoell, J. & Poedts, S. 2019, A&A, 627, A111, doi:10.1051/0004-6361/201834702
+Vourlidas, A., Lynch, B.J., Howard, R.A. & Li, Y. 2013, SoPh, 284, 179201, doi:10.1007/s11207-012-0084-8
+Vourlidas, A., Balmaceda, L.A., Stenborg, G. & Dal Lago A. 2017,, ApJ, 838, 2, 141, doi:10.3847/1538-4357/aa67f0
+Webb, D.F. & Howard, T.A. 2012, Living Rev. Sol. Phys., 9, 3, doi: 10.12942/lrsp-2012-3
+Yurchyshyn, V. 2008, ApJL, 675, L49, doi:10.1086/533413

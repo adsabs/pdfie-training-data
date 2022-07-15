@@ -1,0 +1,92 @@
+D. Lovelock, J. Math. Phys. 12, 498-501 (1971) doi:10.1063/1.1665613
+R. C. Myers and B. Robinson, JHEP 08, 067 (2010) doi:10.1007/JHEP08(2010)067
+R. C. Myers and B. Robinson, arXiv:1003.5357 [gr-qc
+J. Oliva and S. Ray, Class. Quant. Grav. 27, 225002 (2010) doi:10.1088/0264-9381/27/22/225002
+J. Oliva and S. Ray, arXiv:1003.4773 [gr-qc
+R. A. Hennigar, D. Kubiznak and R. B. Mann, Phys. Rev. D 95, no.10, 104042 (2017) doi:10.1103/PhysRevD.95.104042
+R. A. Hennigar, D. Kubiznak and R. B. Mann, 2017, arXiv:1703.01631 [hep-th
+P. Bueno and P. A. Cano, Class. Quant. Grav. 34, no.17, 175008 (2017) doi:10.1088/1361-6382/aa8056
+P. BueNo. and P. A. Cano, 2017, arXiv:1703.04625 [hep-th
+J. Ahmed, R. A. Hennigar, R. B. Mann and M. Mir, JHEP 05, 134 (2017) doi:10.1007/JHEP05(2017)134
+J. Ahmed, R. A. Hennigar, R. B. Mann and M. Mir, arXiv:1703.11007 [hep-th
+P. Bueno and P. A. Cano, Phys. Rev. D 96, no.2, 024034 (2017) doi:10.1103/PhysRevD.96.024034
+P. BueNo. and P. A. Cano, arXiv:1704.02967 [hep-th
+P. Bueno, P. A. Cano and R. A. Hennigar, Class. Quant. Grav. 37, no.1, 015002 (2020) doi:10.1088/1361-6382/ab5410
+P. Bueno, P. A. CaNo. and R. A. Hennigar, arXiv:1909.07983 [hep-th
+P. Bueno, P. A. Cano, J. Moreno and A. Murcia, JHEP 11, 062 (2019) doi:10.1007/JHEP11(2019)062
+P. Bueno, P. A. Cano, J. MoreNo. and A. Murcia, arXiv:1906.00987 [hep-th
+R. A. Hennigar, JHEP 09, 082 (2017) doi:10.1007/JHEP09(2017)082
+R. A. Hennigar, 2017, arXiv:1705.07094 [hep-th
+M. Mir and R. B. Mann, JHEP 07, 012 (2019) doi:10.1007/JHEP07(2019)012
+M. Mir and R. B. Mann, arXiv:1902.10906 [hep-th
+M. Mir, R. A. Hennigar, J. Ahmed and R. B. Mann, JHEP 08, 068 (2019) doi:10.1007/JHEP08(2019)068
+M. Mir, R. A. Hennigar, J. Ahmed and R. B. Mann, arXiv:1902.02005 [hep-th
+P. Bueno and P. A. Cano, Phys. Rev. D 94, no.10, 104005 (2016) doi:10.1103/PhysRevD.94.104005
+P. BueNo. and P. A. Cano, 2016, arXiv:1607.06463 [hep-th
+P. Bueno and P. A. Cano, Phys. Rev. D 94, no.12, 124051 (2016) doi:10.1103/PhysRevD.94.124051
+P. BueNo. and P. A. Cano, 2016, arXiv:1610.08019 [hep-th
+R. A. Hennigar and R. B. Mann, Phys. Rev. D 95, no.6, 064055 (2017) doi:10.1103/PhysRevD.95.064055
+R. A. Hennigar and R. B. Mann, 2017, arXiv:1610.06675 [hep-th
+A. M. Frassino and J. V. Rocha, Phys. Rev. D 102, no.2, 024035 (2020) doi:10.1103/PhysRevD.102.024035
+A. M. FrassiNo. and J. V. Rocha, arXiv:2002.04071 [hep-th
+R. A. Hennigar, M. B. J. Poshteh and R. B. Mann, Phys. Rev. D 97, no.6, 064041 (2018) doi:10.1103/PhysRevD.97.064041
+R. A. Hennigar, M. B. J. Poshteh and R. B. Mann, arXiv:1801.03223 [gr-qc
+P. Bueno, P. A. Cano and A. Ruiperez, JHEP 03, 150 (2018) doi:10.1007/JHEP03(2018)150
+P. Bueno, P. A. CaNo. and A. Ruiperez, arXiv:1802.00018 [hep-th
+P. Bueno, P. A. Cano, R. A. Hennigar and R. B. Mann, JHEP 10, 095 (2018) doi:10.1007/JHEP10(2018)095
+P. Bueno, P. A. Cano, R. A. Hennigar and R. B. Mann, arXiv:1808.01671 [hep-th
+D. J. Burger, W. T. Emond and N. Moynihan, Phys. Rev. D 101, no.8, 084009 (2020) doi:10.1103/PhysRevD.101.084009
+D. J. Burger, W. T. Emond and N. Moynihan, arXiv:1910.11618 [hep-th
+C. Adair, P. Bueno, P. A. Cano, R. A. Hennigar and R. B. Mann, Phys. Rev. D 102, no.8, 084001 (2020) doi:10.1103/PhysRevD.102.084001
+C. Adair, P. Bueno, P. A. Cano, R. A. Hennigar and R. B. Mann, arXiv:2004.09598 [gr-qc
+P. A. Cano and D. Pereniguez, Phys. Rev. D 101, no.4, 044016 (2020) doi:10.1103/PhysRevD.101.044016
+P. A. CaNo. and D. Pereniguez, arXiv:1910.10721 [hep-th
+J. P. S. Lemos, Phys. Lett. B 353, 46-51 (1995) doi:10.1016/0370-2693(95)00533-Q
+J. P. S. Lemos, 1995, arXiv:gr-qc/9404041 [gr-qc
+J. P. S. Lemos and V. T. Zanchin, Phys. Rev. D 54, 3840-3853 (1996) doi:10.1103/PhysRevD.54.3840
+J. P. S. Lemos and V. T. Zanchin, 1996, arXiv:hep-th/9511188 [hep-th
+J. P. S. Lemos, Nucl. Phys. B 600, 272-284 (2001) doi:10.1016/S0550-3213(01)00064-5
+J. P. S. Lemos, 2001, arXiv:hep-th/0011234 [hep-th
+R. G. Cai and Y. Z. Zhang, Phys. Rev. D 54, 4891-4898 (1996) doi:10.1103/PhysRevD.54.4891
+R. G. Cai and Y. Z. Zhang, 1996, arXiv:gr-qc/9609065 [gr-qc
+V. Cardoso and J. P. S. Lemos, Class. Quant. Grav. 18, 5257-5267 (2001) doi:10.1088/0264-9381/18/23/319
+V. Cardoso and J. P. S. Lemos, arXiv:gr-qc/0107098 [gr-qc
+A. M. Awad, Class. Quant. Grav. 20, 2827-2834 (2003) doi:10.1088/0264-9381/20/13/327
+A. M. Awad, arXiv:hep-th/0209238 [hep-th
+M. H. Dehghani, Phys. Rev. D 66, 044006 (2002) doi:10.1103/PhysRevD.66.044006
+M. H. Dehghani, arXiv:hep-th/0205129 [hep-th
+M. H. Dehghani and A. Khoddam-Mohammadi, Phys. Rev. D 67, 084006 (2003) doi:10.1103/PhysRevD.67.084006
+M. H. Dehghani and A. Khoddam, 2003, arXiv:hep-th/0212126 [hep-th
+S. H. Hendi, Phys. Rev. D 82, 064040 (2010) doi:10.1103/PhysRevD.82.064040
+S. H. Hendi, arXiv:1008.5210 [hep-th
+S. H. Hendi and A. Sheykhi, Phys. Rev. D 88, no.4, 044044 (2013) doi:10.1103/PhysRevD.88.044044
+S. H. Hendi and A. Sheykhi, 2013, arXiv:1405.6998 [gr-qc
+M. H. Dehghani and N. Farhangkhah, Phys. Rev. D 71, 044008 (2005) doi:10.1103/PhysRevD.71.044008
+M. H. Dehghani and N. Farhangkhah, arXiv:hep-th/0412049 [hep-th
+A. Sheykhi, Phys. Rev. D 78, 064055 (2008) doi:10.1103/PhysRevD.78.064055
+A. Sheykhi, 2008, arXiv:0809.1130 [hep-th
+Y. Brihaye and B. Hartmann, JHEP 09, 002 (2010) doi:10.1007/JHEP09(2010)002
+Y. Brihaye and B. Hartmann, arXiv:1006.1562 [hep-th
+A. Sheykhi, S. H. Hendi and Y. Bahrampour, Phys. Src. 04, 045004 (2013) doi:10.1088/0031-8949/87/04/045004
+A. Sheykhi, S. H. Hendi and Y. Bahrampour, 2013, arXiv:1304.3057 [gr-qc
+A. Sheykhi, JHEP 07, 031 (2020) doi:10.1007/JHEP07(2020)031
+A. Sheykhi, arXiv:2002.11718 [gr-qc
+H. R. Bakhtiarizadeh, [arXiv:2107.10686 [gr-qc]].
+R. M. Wald, Phys. Rev. D 48, no.8, R3427-R3431 (1993) doi:10.1103/PhysRevD.48.R3427
+R. M. Wald, 1993, arXiv:gr-qc/9307038 [gr-qc
+V. Iyer and R. M. Wald, Phys. Rev. D 50, 846-864 (1994) doi:10.1103/PhysRevD.50.846
+V. Iyer and R. M. Wald, 1994, arXiv:gr-qc/9403028 [gr-qc
+J. M. Maldacena, Adv. Theor. Math. Phys. 2, 231-252 (1998) doi:10.1023/A:1026654312961
+J. M. Maldacena, 1998, arXiv:hep-th/9711200 [hep-th
+M. Henningson and K. Skenderis, JHEP 07, 023 (1998) doi:10.1088/1126-6708/1998/07/023
+M. Henningson and K. Skenderis, 1998, arXiv:hep-th/9806087 [hep-th
+V. Balasubramanian and P. Kraus, Commun. Math. Phys. 208, 413-428 (1999) doi:10.1007/s002200050764
+V. Balasubramanian and P. Kraus, 1999, arXiv:hep-th/9902121 [hep-th
+M. H. Dehghani and R. B. Mann, Phys. Rev. D 73, 104003 (2006) doi:10.1103/PhysRevD.73.104003
+M. H. Dehghani and R. B. Mann, 2006, arXiv:hep-th/0602243 [hep-th
+J. D. Brown and J. W. York, Jr., Phys. Rev. D 47, 1407-1419 (1993) doi:10.1103/PhysRevD.47.1407
+J. D. Brown and J. W. York, arXiv:gr-qc/9209012 [gr-qc
+M. Cvetic and S. S. Gubser, JHEP 04, 024 (1999) doi:10.1088/1126-6708/1999/04/024
+M. Cvetic and S. S. Gubser, 1999, arXiv:hep-th/9902195 [hep-th
+T. Nutma, Comput. Phys. Commun. 185, 1719-1738 (2014) doi:10.1016/j.cpc.2014.02.006
+T. Nutma, 2014, arXiv:1308.3493 [cs.SC

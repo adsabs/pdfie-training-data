@@ -1,0 +1,126 @@
+Asplund, M., Grevesse, N., Sauval, A. J., & Scott, P. 2009, Annual Review of Astronomy and Astrophysics, 47, 481522, doi: 10.1146/annurev.astro.46.060407.145222
+Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33, doi: 10.1051/0004-6361/201322068
+Bailer-Jones, C. A. L., Rybizki, J., Fouesneau, M., Demleitner, M., & Andrae, R. 2021, AJ, 161, 147, doi: 10.3847/1538-3881/abd806
+Baker, M., & Willman, B. 2015, AJ, 150, 160, doi: 10.1088/0004-6256/150/5/160
+Beaton, R. L., Bono, G., Braga, V. F., et al. 2018, SSRv, 214, 113, doi: 10.1007/s11214-018-0542-1
+Bechtol, K., Drlica-Wagner, A., Balbinot, E., et al. 2015,, ApJ, 807, 50, doi: 10.1088/0004-637X/807/1/50
+Bernard, E. J., Monelli, M., Gallart, C., et al. 2009, The Astrophysical Journal, 699, 1742, doi: 10.1088/0004-637X/699/2/1742
+--. 2010, The Astrophysical Journal, 712, 1259, doi: 10.1088/0004-637X/712/2/1259
+--. 2013, Monthly Notices of the Royal Astronomical Society, 432, 3047, doi: 10.1093/mnras/stt655
+Bland-Hawthorn, J., & Gerhard, O. 2016, ARA&A, 54, 529, doi: 10.1146/annurev-astro-081915-023441
+Boettcher, E., Willman, B., Fadely, R., et al. 2013, The Astronomical Journal, 146, 94, doi: 10.1088/0004-6256/146/4/94
+Breger, M., & Bregman, J. N. 1975,, ApJ, 200, 343, doi: 10.1086/153794
+Brown, T. M., Tumlinson, J., Geha, M., et al. 2014,, ApJ, 796, 91, doi: 10.1088/0004-637X/796/2/91
+Bullock, J. S., & Boylan-Kolchin, M. 2017, ARA&A, 55, 343, doi: 10.1146/annurev-astro-091916-055313
+Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989,, ApJ, 345, 245, doi: 10.1086/167900
+Carretta, E., Gratton, R. G., Clementini, G., & Fusi Pecci, F. 2000,, ApJ, 533, 215, doi: 10.1086/308629
+Chaboyer, B. 1999, in Astrophysics and Space Science Library, Vol. 237, Post-Hipparcos Cosmic Candles, ed. A. Heck & F. Caputo, 111, doi: 10.1007/978-94-011-4734-7 7
+Chadid, M., Sneden, C., & Preston, G. W. 2017, The Astrophysical Journal, 835, 187, doi: 10.3847/1538-4357/835/2/187
+Clementini, G., Cignoni, M., Ramos, R. C., et al. 2012, The Astrophysical Journal, 756, 108, doi: 10.1088/0004-637X/756/2/108
+Clementini, G., Gratton, R., Bragaglia, A., et al. 2003, AJ, 125, 1309, doi: 10.1086/367773
+Clementini, G., Ripepi, V., Bragaglia, A., et al. 2005,, MNRAS, 363, 734, doi: 10.1111/j.1365-2966.2005.09478.x
+Cole, A. A., Smecker-Hane, T. A., Tolstoy, E., Bosler, T. L., & Gallagher, J. S. 2004,, MNRAS, 347, 367, doi: 10.1111/j.1365-2966.2004.07223.x
+Collins, M. L. M., Chapman, S. C., Irwin, M. J., et al. 2010,, MNRAS, 407, 2411, doi: 10.1111/j.1365-2966.2010.17069.x
+Conn, A. R., Ibata, R. A., Lewis, G. F., et al. 2012,, ApJ, 758, 11, doi: 10.1088/0004-637X/758/1/11
+Coppola, G., Marconi, M., Stetson, P. B., et al. 2015, The Astrophysical Journal, 814, 71, doi: 10.1088/0004-637X/814/1/71
+Crestani, J., Fabrizio, M., Braga, V. F., et al. 2021, The Astrophysical Journal, 908, 20, doi: 10.3847/1538-4357/abd183
+Crnojevic, D., Sand, D. J., Zaritsky, D., et al. 2016, ApJL, 824, L14, doi: 10.3847/2041-8205/824/1/L14
+Cusano, F., Clementini, G., Garofalo, A., et al. 2013,, ApJ, 779, 7, doi: 10.1088/0004-637X/779/1/7
+Dall'Ora, M., Clementini, G., Kinemuchi, K., et al. 2006, The Astrophysical Journal, 653, L109, doi: 10.1086/510665
+DallOra, M., Kinemuchi, K., Ripepi, V., et al. 2012, The Astrophysical Journal, 752, 42, doi: 10.1088/0004-637X/752/1/42
+de Boer, T. J. L., Tolstoy, E., Hill, V., et al. 2012, A&A, 539, A103, doi: 10.1051/0004-6361/201118378
+Di Valentino, E., Mena, O., Pan, S., et al. 2021, Classical and Quantum Gravity, 38, 153001, doi: 10.1088/1361-6382/ac086d
+Dolphin, A. E., Saha, A., Skillman, E. D., et al. 2003, AJ, 126, 187, doi: 10.1086/375761
+Drlica-Wagner, A., Sevilla-Noarbe, I., Rykoff, E. S., et al. 2018,, ApJS, 235, 33, doi: 10.3847/1538-4365/aab4f5
+El-Badry, K., Rix, H.-W., & Heintz, T. M. 2021, arXiv e-prints, arXiv:2101.05282. https://arxiv.org/abs/2101.05282
+Feast, M. W., Laney, C. D., Kinman, T. D., van Leeuwen, F., & Whitelock, P. A. 2008,, MNRAS, 386, 2115, doi: 10.1111/j.1365-2966.2008.13181.x
+Fernley, J., Skillen, I., Carney, B. W., Cacciari, C., & Janes, K. 1998,, MNRAS, 293, L61, doi: 10.1046/j.1365-8711.1998.01309.x
+For, B.-Q., Sneden, C., & Preston, G. W. 2011, The Astrophysical Journal Supplement Series, 197, 29, doi: 10.1088/0067-0049/197/2/29
+Freedman, W. L., Madore, B. F., Hoyt, T., et al. 2020,, ApJ, 891, 57, doi: 10.3847/1538-4357/ab7339
+Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2020, arXiv e-prints, arXiv:2012.01533. https://arxiv.org/abs/2012.01533
+Gallart, C., Monelli, M., Mayer, L., et al. 2015, ApJL, 811, L18, doi: 10.1088/2041-8205/811/2/L18
+Gallart, C., Monelli, M., Ruiz-Lara, T., et al. 2021,, ApJ, 909, 192, doi: 10.3847/1538-4357/abddbe
+Garofalo, A., Cusano, F., Clementini, G., et al. 2013, The Astrophysical Journal, 767, 62, doi: 10.1088/0004-637X/767/1/62
+Gelman, A., & Rubin, D. B. 1992, Statistical Science, 7, 457, doi: 10.1214/ss/1177011136
+Gilligan, C. K., Chaboyer, B., Marengo, M., et al. 2021,, MNRAS, 503, 4719, doi: 10.1093/mnras/stab857
+Gorski, M., Pietrzynski, G., & Gieren, W. 2011, AJ, 141, 194, doi: 10.1088/0004-6256/141/6/194
+Greco, C., Dall'Ora, M., Clementini, G., et al. 2008, The Astrophysical Journal, 675, L73, doi: 10.1086/533585
+Haschke, R., Grebel, E. K., & Duffau, S. 2012, AJ, 144, 106, doi: 10.1088/0004-6256/144/4/106
+Hatt, D., Beaton, R. L., Freedman, W. L., et al. 2017,, ApJ, 845, 146, doi: 10.3847/1538-4357/aa7f73
+Held, E. V., Saviane, I., & Momany, Y. 1999, A&A, 345, 747. https://arxiv.org/abs/astro-ph/9903017
+Hoffman, M. D., & Gelman, A. 2011, arXiv e-prints, arXiv:1111.4246. https://arxiv.org/abs/1111.4246
+Hogg, D. W., Myers, A. D., & Bovy, J. 2010,, ApJ, 725, 2166, doi: 10.1088/0004-637X/725/2/2166
+Huxor, A. P., & Grebel, E. K. 2015,, MNRAS, 453, 2653, doi: 10.1093/mnras/stv1631
+Iben, Icko, J., & Rood, R. T. 1970,, ApJ, 161, 587, doi: 10.1086/150563
+Joo, S.-J., Kyeong, J., Yang, S.-C., et al. 2019, The Astrophysical Journal, 875, 120, doi: 10.3847/1538-4357/ab11ca
+Jordi, K., Grebel, E. K., & Ammon, K. 2006, A&A, 460, 339, doi: 10.1051/0004-6361:20066082
+Kacharov, N., Battaglia, G., Rejkuba, M., et al. 2017,, MNRAS, 466, 2006, doi: 10.1093/mnras/stw3188
+Kinemuchi, K., Harris, H. C., Smith, H. A., et al. 2008, The Astronomical Journal, 136, 1921, doi: 10.1088/0004-6256/136/5/1921
+Kirby, E. N., Cohen, J. G., Guhathakurta, P., et al. 2013,, ApJ, 779, 102, doi: 10.1088/0004-637X/779/2/102
+Kirby, E. N., Guhathakurta, P., Bolte, M., Sneden, C., & Geha, M. C. 2009,, ApJ, 705, 328, doi: 10.1088/0004-637X/705/1/328
+Kirby, E. N., Lanfranchi, G. A., Simon, J. D., Cohen, J. G., & Guhathakurta, P. 2011,, ApJ, 727, 78, doi: 10.1088/0004-637X/727/2/78
+Kirby, E. N., Guhathakurta, P., Simon, J. D., et al. 2010,, ApJS, 191, 352, doi: 10.1088/0067-0049/191/2/352
+Klein, C. R., Cenko, S. B., Miller, A. A., Norman, D. J., & Bloom, J. S. 2014, arXiv e-prints, arXiv:1405.1035. https://arxiv.org/abs/1405.1035
+Koposov, S. E., Belokurov, V., Torrealba, G., & Evans, N. W. 2015,, ApJ, 805, 130, doi: 10.1088/0004-637X/805/2/130
+Kovacs, G., & Walker, A. R. 2001, A&A, 371, 579, doi: 10.1051/0004-6361:20010346
+Kuehn, C., Kinemuchi, K., Ripepi, V., et al. 2008, The Astrophysical Journal, 674, L81, doi: 10.1086/529137
+Li, T. S., Simon, J. D., Drlica-Wagner, A., et al. 2017,, ApJ, 838, 8, doi: 10.3847/1538-4357/aa6113
+Lindegren, L., Hernandez, J., Bombrun, A., et al. 2018, ArXiv e-prints, arXiv:1804.09366. https://arxiv.org/abs/1804.09366
+Lindegren, L., Bastian, U., Biermann, M., et al. 2020a, arXiv e-prints, arXiv:2012.01742. https://arxiv.org/abs/2012.01742
+Lindegren, L., Klioner, S. A., Hernandez, J., et al. 2020b, arXiv e-prints, arXiv:2012.03380. https://arxiv.org/abs/2012.03380
+Liu, C., Hu, J., Newberg, H., & Zhao, Y. 2008, A&A, 477, 139, doi: 10.1051/0004-6361:20078392
+Longmore, A. J., Fernley, J. A., & Jameson, R. F. 1986,, MNRAS, 220, 279, doi: 10.1093/mnras/220.2.279
+Madore, B. F. 1976, in The Galaxy and the Local Group, Vol. 182, 153
+Madore, B. F. 1982,, ApJ, 253, 575, doi: 10.1086/159659
+Marconi, M., Coppola, G., Bono, G., et al. 2015,, ApJ, 808, 50, doi: 10.1088/0004-637X/808/1/50
+Martnez-Vzquez, C. E., Stetson, P. B., Monelli, M., et al. 2016, Monthly Notices of the Royal Astronomical Society, 462, 4349, doi: 10.1093/mnras/stw1895
+Martnez-Vzquez, C. E., Monelli, M., Bernard, E. J., et al. 2017, The Astrophysical Journal, 850, 137, doi: 10.3847/1538-4357/aa9381
+Martnez-Vzquez, C. E., Vivas, A. K., Gurevich, M., et al. 2019, Monthly Notices of the Royal Astronomical Society, 490, 2183, doi: 10.1093/mnras/stz2609
+Martnez-Vzquez, C. E., Monelli, M., Cassisi, S., et al. 2021, Monthly Notices of the Royal Astronomical Society, 508, 10641083, doi: 10.1093/mnras/stab2493
+Mateo, M. L. 1998, ARA&A, 36, 435, doi: 10.1146/annurev.astro.36.1.435
+McConnachie, A. W. 2012, AJ, 144, 4, doi: 10.1088/0004-6256/144/1/4
+McConnachie, A. W., & Venn, K. A. 2020, AJ, 160, 124, doi: 10.3847/1538-3881/aba4ab
+McQuinn, K. B. W., Skillman, E. D., Dolphin, A., et al. 2015, The Astrophysical Journal, 812, 158, doi: 10.1088/0004-637X/812/2/158
+Menzies, J. W., Feast, M. W., Whitelock, P. A., & Matsunaga, N. 2011,, MNRAS, 414, 3492, doi: 10.1111/j.1365-2966.2011.18649.x
+Monelli, M., Fiorentino, G., Bernard, E. J., et al. 2017, The Astrophysical Journal, 842, 60, doi: 10.3847/1538-4357/aa738d
+Monelli, M., Martnez-Vzquez, C. E., Bernard, E. J., et al. 2016, The Astrophysical Journal, 819, 147, doi: 10.3847/0004-637X/819/2/147
+Monelli, M., Walker, A. R., Martnez-Vzquez, C. E., et al. 2018, Monthly Notices of the Royal Astronomical Society, 479, 4279, doi: 10.1093/mnras/sty1645
+Moretti, M. I., Dall'Ora, M., Ripepi, V., et al. 2009, The Astrophysical Journal, 699, L125, doi: 10.1088/0004-637X/699/2/L125
+Musella, I., Ripepi, V., Clementini, G., et al. 2009, The Astrophysical Journal, 695, L83, doi: 10.1088/0004-637X/695/1/L83
+Musella, I., Ripepi, V., Marconi, M., et al. 2012, The Astrophysical Journal, 756, 121, doi: 10.1088/0004-637X/756/2/121
+Neeley, J. R., Marengo, M., Bono, G., et al. 2017,, ApJ, 841, 84, doi: 10.3847/1538-4357/aa713d
+Neeley, J. R., Marengo, M., Freedman, W. L., et al. 2019,, MNRAS, 490, 4254, doi: 10.1093/mnras/stz2814
+Ordoez, A. J., Yang, S.-C., & Sarajedini, A. 2014, The Astrophysical Journal, 786, 147, doi: 10.1088/0004-637X/786/2/147
+Patel, E., Kallivayalil, N., Garavito-Camargo, N., et al. 2020,, ApJ, 893, 121, doi: 10.3847/1538-4357/ab7b75
+Preston, G. W. 1959,, ApJ, 130, 507, doi: 10.1086/146743
+Riess, A. G., Casertano, S., Yuan, W., et al. 2021, ApJL, 908, L6, doi: 10.3847/2041-8213/abdbaf
+Riess, A. G., Casertano, S., Yuan, W., Macri, L. M., & Scolnic, D. 2019,, ApJ, 876, 85, doi: 10.3847/1538-4357/ab1422
+Rizzi, L., Tully, R. B., Makarov, D., et al. 2007,, ApJ, 661, 815, doi: 10.1086/516566
+Saha, A., Shaw, R. A., Claver, J. A., & Dolphin, A. E. 2011, PASP, 123, 481, doi: 10.1086/659751
+Saha, A., & Vivas, A. K. 2017, AJ, 154, 231, doi: 10.3847/1538-3881/aa8fd3
+Sandage, A. 1970,, ApJ, 162, 841, doi: 10.1086/150715
+Saviane, I., Held, E. V., & Bertelli, G. 2000, A&A, 355, 56
+Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103, doi: 10.1088/0004-637X/737/2/103
+Schlegel, D. J., Finkbeiner, D. P., & Davis, M. 1998,, ApJ, 500, 525, doi: 10.1086/305772
+Shapley, H. 1938, Harvard College Observatory Bulletin, 908, 1
+Simon, J. D. 2019, arXiv e-prints, arXiv:1901.05465. https://arxiv.org/abs/1901.05465
+Simon, J. D., Brown, T. M., Drlica-Wagner, A., et al. 2021,, ApJ, 908, 18, doi: 10.3847/1538-4357/abd31b
+Sirianni, M., Jee, M. J., Ben itez, N., et al. 2005, PASP, 117, 1049, doi: 10.1086/444553
+Skillman, E. D., Hidalgo, S. L., Weisz, D. R., et al. 2014,, ApJ, 786, 44, doi: 10.1088/0004-637X/786/1/44
+Skillman, E. D., Monelli, M., Weisz, D. R., et al. 2017,, ApJ, 837, 102, doi: 10.3847/1538-4357/aa60c5
+Sneden, C., Preston, G. W., Chadid, M., & Adamw, M. 2017, The Astrophysical Journal, 848, 68, doi: 10.3847/1538-4357/aa8b10
+Stetson, P. B., Fiorentino, G., Bono, G., et al. 2014, Publications of the Astronomical Society of the Pacific, 000, doi: 10.1086/677352
+Stringer, K. M., Drlica-Wagner, A., Macri, L., et al. 2021, The Astrophysical Journal, 911, 109, doi: 10.3847/1538-4357/abe873
+Suntzeff, N. B., Kinman, T. D., & Kraft, R. P. 1991,, ApJ, 367, 528, doi: 10.1086/169650
+Tolstoy, E., Hill, V., & Tosi, M. 2009, ARA&A, 47, 371, doi: 10.1146/annurev-astro-082708-101650
+Tolstoy, E., Irwin, M. J., Helmi, A., et al. 2004, ApJL, 617, L119, doi: 10.1086/427388
+Torrealba, G., Belokurov, V., Koposov, S. E., et al. 2018, Monthly Notices of the Royal Astronomical Society, 475, 5085, doi: 10.1093/mnras/sty170
+van Albada, T. S., & Baker, N. 1971,, ApJ, 169, 311, doi: 10.1086/151144
+--. 1973,, ApJ, 185, 477, doi: 10.1086/152434
+van den Bergh, S. 1968, JRASC, 62, 145
+Vivas, A. K., Walker, A. R., Martnez-Vzquez, C. E., et al. 2019, Monthly Notices of the Royal Astronomical Society, 492, 10611077, doi: 10.1093/mnras/stz3393
+Weisz, D. R., Dolphin, A. E., Skillman, E. D., et al. 2014,, ApJ, 789, 147, doi: 10.1088/0004-637X/789/2/147
+Yang, S.-C., & Sarajedini, A. 2012, Monthly Notices of the Royal Astronomical Society, 419, 1362, doi: 10.1111/j.1365-2966.2011.19792.x
+Yang, S.-C., Wagner-Kaiser, R., Sarajedini, A., Kim, S. C., & Kyeong, J. 2014, The Astrophysical Journal, 784, 76, doi: 10.1088/0004-637X/784/1/76
+Zinn, J. C. 2021, arXiv e-prints, arXiv:2101.07252. https://arxiv.org/abs/2101.07252
+Zucker, D. B., Belokurov, V., Evans, N. W., et al. 2006, ApJL, 643, L103, doi: 10.1086/505216

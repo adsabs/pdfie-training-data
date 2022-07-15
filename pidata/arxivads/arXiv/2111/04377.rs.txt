@@ -1,0 +1,25 @@
+C. Nayak, S. H. Simon, A. Stern, M. Freedman, and S. Das Sarma, Rev. Mod. Phys. 80, 1083 (2008).
+D. Inotani, R. Hanai, and Y. Ohashi, Phys. Rev. A 94, 043632 (2016).
+Z. Wu and G. M. Bruun, Phys. Rev. Lett. 117, 245302 (2016).
+N. Cooper and G. Shlyapnikov, Phys. Rev. Lett. 103, 155302 (2009).
+C. Zhang, S. Tewari, R. M. Lutchyn, and S. D. Sarma, Phys. Rev. Lett. 101, 160401 (2008).
+B. Julia-D iaz, T. Gra, O. Dutta, D. Chang, and M. Lewenstein, Nature communications 4, 2046 (2013).
+Y.-J. Han, Y.-H. Chan, W. Yi, A. Daley, S. Diehl, P. Zoller, and L.-M. Duan, Phys. Rev. Lett. 103, 070404 (2009).
+C.-E. Bardyn, M. Baranov, E. Rico, A. Imamoglu, P. Zoller, and S. Diehl, Phys. Rev. Lett. 109, 130402 (2012).
+K. Thompson, J. Brand, and U. Zulicke, Phys. Rev. A 101, 013613 (2020).
+M. Sato, Y. Takahashi, and S. Fujimoto, Phys. Rev. Lett. 103, 020401 (2009).
+A. Leggett, Rev. Mod. Phys. 47, 331 (1975).
+M. Sigrist and K. Ueda, Rev. Mod. Phys. 63, 239 (1991).
+G. Stewart, Rev. Mod. Phys. 56, 755 (1984).
+A. P. MacKenzie and Y. Maeno, Rev. Mod. Phys. 75, 657 (2003).
+Y. Wu, Z. Yan, Z. Lin, J. Lou, and Y. Chen, Scientific Reports 10, 10822 (2020), 2001.00420.
+B. Bazak and D. S. Petrov, Phys. Rev. Lett. 121, 263001 (2018).
+J.-B. Wang, W. Yi, and J.-S. Pan, Phys. Rev. A 98, 053630 (2018).
+D. V. Efremov and L. Viverit, Phys. Rev. B 65, 134519 (2002).
+C. A. Regal, C. Ticknor, J. L. Bohn, and D. S. Jin, Phys. Rev. Lett. 90, 053201 (2003).
+J. Levinsen, N. R. Cooper, and V. Gurarie, Phys. Rev. Lett. 99, 210402 (2007).
+J. Levinsen, N. R. Cooper, and V. Gurarie, Phys. Rev. A 78, 063616 (2008).
+M. Jona-Lasinio, L. Pricoupenko, and Y. Castin, Phys. Rev. A 77, 043611 (2008).
+O. I. Matsyshyn, A. I. Yakimenko, E. V. Gorbar, S. I. Vilchinskii, and V. V. Cheianov, Phys. Rev. A 98, 043620 (2018).
+T.-L. Ho, Phys. Rev. Lett. 81, 742 (1998).
+Y. Kawaguchi and M. Ueda, Phys. Rep. 520, 253 (2012).

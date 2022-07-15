@@ -1,0 +1,43 @@
+Alpert, S. E., Tiwari, S. K., Moore, R. L., Winebarger, A. R., & Savage, S. L. 2016,, ApJ, 822, 35
+Aschwanden, M. J., Nightingale, R. W., Tarbell, T. D., & Wolfson, C. J. 2000a,, ApJ, 535, 1027
+Aschwanden, M. J., Tarbell, T. D., Nightingale, R. W., et al. 2000b,, ApJ, 535, 1047
+Berghmans, D., Auchere, F., Long, D. M., et al. 2021, arXiv e-prints, arXiv:2104.03382
+Berghmans, D. & Clette, F. 1999, Sol. Phys., 186, 207
+Berghmans, D., Clette, F., & Moses, D. 1998, A&A, 336, 1039
+Brosius, J. W. & Holman, G. D. 2009,, ApJ, 692, 492
+Brueckner, G. E. & Bartoe, J. D. F. 1983,, ApJ, 272, 329
+Chen, Y., Przybylski, D., Peter, H., et al. 2021, arXiv e-prints, arXiv:2104.10940
+Chitta, L. P., Peter, H., Priest, E. R., & Solanki, S. K. 2020, A&A, 644, A130
+Chitta, L. P., Peter, H., & Young, P. R. 2021a, A&A, 647, A159
+Chitta, L. P., Peter, H., Young, P. R., & Huang, Y. M. 2017, A&A, 605, A49
+Chitta, L. P., Solanki, S. K., Peter, H., et al. 2021b, arXiv e-prints, arXiv:2109.15106
+De Pontieu, B., Title, A. M., Lemen, J. R., et al. 2014, Sol. Phys., 289, 2733
+Dere, K. P., Bartoe, J. D. F., & Brueckner, G. E. 1989, Sol. Phys., 123, 41
+Fisher, G. H., Canfield, R. C., & McClymont, A. N. 1985,, ApJ, 289, 414
+Galsgaard, K., Madjarska, M. S., Moreno-Insertis, F., Huang, Z., & Wiegelmann, T. 2017, A&A, 606, A46
+Harrison, R. A. 1997, Sol. Phys., 175, 467
+Hudson, H. S. 1991, Sol. Phys., 133, 357
+Innes, D. E., Guo, L. J., Huang, Y. M., & Bhattacharjee, A. 2015,, ApJ, 813, 86
+Innes, D. E., Inhester, B., Axford, W. I., & Wilhelm, K. 1997,, Nature, 386, 811
+Kobayashi, K., Cirtain, J., Winebarger, A. R., et al. 2014, Sol. Phys., 289, 4393
+Krucker, S., Benz, A. O., Bastian, T. S., & Acton, L. W. 1997,, ApJ, 488, 499
+Kumar, P., Innes, D. E., & Inhester, B. 2013,, ApJ, 779, L7
+Lemen, J. R., Title, A. M., Akin, D. J., et al. 2012, Sol. Phys., 275, 17
+Madjarska, M. S. 2019, Living Reviews in Solar Physics, 16, 2
+Madjarska, M. S., Doyle, J. G., Teriaca, L., & Banerjee, D. 2003, A&A, 398, 775
+Mandal, S., Yuan, D., Fang, X., et al. 2016,, ApJ, 828, 72
+Milligan, R. O., Gallagher, P. T., Mathioudakis, M., & Keenan, F. P. 2006,, ApJ, 642, L169
+Muller, D., St. Cyr, O. C., Zouganelis, I., et al. 2020, A&A, 642, A1
+Panesar, N. K., Tiwari, S. K., Berghmans, D., et al. 2021, arXiv e-prints, arXiv:2110.06846
+Peter, H., Tian, H., Curdt, W., et al. 2014, Science, 346, 1255726, doi:10.1126/science.1255726
+Rachmeler, L. A., Winebarger, A. R., Savage, S. L., et al. 2019, Sol. Phys., 294, 174
+Rochus, P., Auchere, F., Berghmans, D., et al. 2020, A&A, 642, A8
+Solanki, S. K., del Toro Iniesta, J. C., Woch, J., et al. 2020, A&A, 642, A11
+Spice Consortium, Anderson, M., Appourchaux, T., et al. 2020, A&A, 642, A14
+Tian, H., Kleint, L., Peter, H., et al. 2014,, ApJ, 790, L29
+Tiwari, S. K., Panesar, N. K., Moore, R. L., et al. 2019,, ApJ, 887, 56
+Winebarger, A. R., Walsh, R. W., Moore, R., et al. 2013,, ApJ, 771, 21
+Young, P. R., Tian, H., Peter, H., et al. 2018, Space Sci. Rev., 214, 120
+Zacharias, P., Peter, H., & Bingert, S. 2011, A&A, 532, A112
+Zhang, Q. M., Chen, P. F., Guo, Y., Fang, C., & Ding, M. D. 2012,, ApJ, 746, 19
+Zhukov, A. N., Mierla, M., Auchere, F., et al. 2021, arXiv e-prints, arXiv:2109.02169

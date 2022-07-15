@@ -1,0 +1,8 @@
+M. Born and L. Infeld. "Foundations of the New Field Theory". In: Proc. Royal Soc. A 144 (852 1934). doi: 10.1098/rspa.1934.0059.
+H. Goenner. "On the History of Unified Field Theories. Part II." In: Living Rev. Rela- tivity 17 (5 2014). doi: 10.12942/lrr-2014-5.
+G. Boillat. "Nonlinear Electrodynamics: Lagrangians and Equations of Motion". In: J. Math. Phys. 11 (941 1970). doi: 10.1063/1.1665231.
+G. Boillat. "Shock Relations in Nonlinear Electrodynamics". In: Phys. Lett. A 40 (1 1972). doi: 10.1016/0375-9601(72)90174-0.
+E. Bergshoeff et al. "The Born-Infeld Action from Conformal Invariance of the Open Superstring". In: Phys. Lett. B 188 (1 1987). doi: 10.1016/0370-2693(87)90707-6.
+R. R. Metsaev, M. A. Rahmonov, and A. A. Tseytlin. "The born-infeld action as the ef- fective action in the open superstring theory". In: Phys. Lett. B 193 (2-3 1987). doi: 10.1016/0370-2693(87)91223-8.
+N. Manojlovic, V. Perlick, and R. Potting. "Standing wave solutions in Born-Infeld the- ory". In: Ann. Phys. 422 (2020). doi: 10.1016/j.aop.2020.168303.
+R. Ferraro and M. Nigro. "Approximated solutions to Born-Infeld dynamics". In: J. High Ener. Phys. 2016 (2 2016). doi: 10.1007/JHEP02(2016)002. References 15

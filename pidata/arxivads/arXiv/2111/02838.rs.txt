@@ -1,0 +1,19 @@
+M. Henon, "L'amas Isochrone I", Annales d'Astrophysique 22, 126 (1959).
+M. Henon, "L'amas Isochrone II", Annales d'Astrophysique 22, 491 (1959).
+M. Henon, "L'amas Isochrone III", Annales d'Astrophysique 23, 474 (1960).
+J. Binney, "Henon's Isochrone Model" , in "Une vie dediee aux systemes dynamiques: Hommage a Michel Henon" eds. J.-M. Alimi, R. Mohayaee, and J. Perez, Hermann (2016). [arXiv:1411.4937]
+A. Simon-Petit, J. Perez, and G. Duval, "Isochrony in 3D Radial Potentials. From Michel Henon's Ideas to Isochrone Relativity: Classification, Interpretation and Applications", Commun. Math. Phys. 363, 605 (2018).
+K.P. Rauch, S. Tremaine, " Resonant Relaxation in Stellar Systems", New Astronomy 1, 149 (1996).
+K.P. Rauch, S. Tremaine, 1996, arXiv:astro-ph/9603018
+J. Binney and S. Tremaine, "Galactic Dynamics", 2nd ed. (Princeton University Press, Princeton, 2008).
+A. Simon-Petit, J. Perez, and G. Plum, "The status of isochrony in the formation and evolution of self-gravitating systems", Mon. Not. R. Astron. Soc. 484, 4963-4971 (2019).
+P. Ramond and J. Perez, "The Geometry of Isochrone Orbits: from Archimedes' parabolae to Kepler's third law", Cel. Mech. & Dyn. Astro 132, 22 (2020).
+P. Ramond and J. Perez, "New Methods of Isochrone Mechanics", J. Math. Phys. 62, 112704 (2021).
+V. Perlick, "Bertrand Spacetimes", Class. Quantum Grav. 9, 1009 (1992).
+A. Ballesteros, A. Enciso, F.J. Herranz, and O. Ragnisco, " Bertrand spacetimes as Kepler/oscillator potentials", Class. Quantum Grav. 25, 165005 (2008).
+A. Ballesteros, A. Enciso, F.J. Herranz, and O. Ragnisco, 2008, arXiv:0803.3430
+A. Saa and R. Venegeroles, "A new derivation of the Henon's isochrone potentials", [arXiv:2110.01953]
+D. Dey, K. Bhattacharya, T. Sarkar, "Astrophysics of Bertrand Space-times", Phys. Rev. D 88, 083532 (2013).
+D. Dey, K. Bhattacharya, T. Sarkar, 2013, arXiv:1310.0131
+S. Capozziello, F.S.N. Lobo, and J.P. Mimoso, "Energy conditions in modified gravity", Phys. Lett. B 730, 280 (2014).
+S. Capozziello, F.S.N. Lobo, and J.P. Mimoso, 2014, arXiv:1312.0784

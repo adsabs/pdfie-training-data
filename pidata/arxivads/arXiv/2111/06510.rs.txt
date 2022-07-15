@@ -1,0 +1,86 @@
+Adams, J. D., Herter, T. L., Hora, J. L., et al. 2015,, ApJ, 814, 54
+Bally J., & Scoville, N. Z. 1982,, ApJ, 255, 497
+Bally J., Yu K. C., Rayner J., Zinnecker H., 1998, AJ, 116, 1868
+Bally J., Snell R. L., Predmore R., 1983,, ApJ, 272, 154
+Bally, J. & Zinnecker, H. 2005, AJ, 129, 2281
+Bally, J. 2016, ARA&A, 54, 491
+Bally, J., Ginsburg, A., Silvia, D., et al. 2015, A&A, 579, A130
+Bally, J., Ginsburg, A., Arce, H., et al. 2017,, ApJ, 837, 60
+Bally, J., Ginsburg, A., Forbrich, J., et al. 2020,, ApJ, 889, 178
+Barsony M., Scoville N. Z., Bally J., Claussen M. J., 1989,, ApJ, 343, 212
+Beuther, H., Mottram, J. C., Ahmadi, A., et al. 2018, A&A, 617, A100
+Bressert E., Ginsburg A., Bally J., Battersby C., Longmore S., Testi L., 2012, ApJL, 758, L28
+Caratti o Garatti, A., Stecklum, B., Garcia Lopez, R., et al. 2017, Nature Physics, 13, 276
+Castor J., McCray R., Weaver R., 1975, ApJL, 200, L107
+Comeron F., Schneider N., Djupvik A. A., Schnugg C., 2018, A&A, 615, A2
+Cunningham, N. J., Moeckel, N., & Bally, J. 2009,, ApJ, 692, 943
+Davis, C. J., Gell, R., Khanzadyan, T., et al. 2010, A&A, 511, A24. doi:10.1051/0004-6361/200913561
+Dale J. E., Ngoumou J., Ercolano B., Bonnell I. A., 2014,, MNRAS, 442, 694
+Dale J. E., Ercolano B., Bonnell I. A., 2012,, MNRAS, 424, 377
+Drew, J. E., Bunn, J. C., & Hoare, M. G. 1993,, MNRAS, 265, 12
+Eiroa, C., Elsaesser, H., & Lahulla, J. F. 1979, A&A, 74, 89
+Federrath C., Schron M., Banerjee R., Klessen R. S., 2014,, ApJ, 790, 128
+Furuya, R. S., Kitamura, Y., Wootten, H. A., et al. 2000, ApJL, 542, L135
+Furuya, R. S., Kitamura, Y., Saito, M., et al. 1999,, ApJ, 525, 821
+Gaia Collaboration, Prusti, T., de Bruijne, J. H. J., et al. 2016, A&A, 595, A1
+Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2018, A&A, 616, A1
+Geen, S., Bieri, R., Rosdahl, J., et al. 2020, MNRAS. 501, 1352
+Geen, S., Pellegrini, E., Bieri, R., et al. 2020,, MNRAS, 492, 915
+Gibb, A. G., & Hoare, M. G. 2007,, MNRAS, 380, 246
+Gvaramadze, V. V., & Menten, K. M. 2012, A&A, 541, A7
+Hodapp K. W., Schneider N., 2008, "Handbook of Star Forming Regions: Volume I", ed. Bo Reipurth, ASP Monograph Series, 90
+Hosokawa, T., & Omukai, K. 2009,, ApJ, 691, 823
+Hunter, T. R., Brogan, C. L., MacLeod, G., et al. 2017, ApJL, 837, L29
+Israel, F. P. & Felli, M. 1978, A&A, 63, 325
+Jaffe, D. T. & Mart in-Pintado, J. 1999,, ApJ, 520, 162
+Kasliwal, M. M., Bally, J., Masci, F., et al. 2017,, ApJ, 839, 88
+Krumholz M. R., et al., 2014, "Protostars & Planets: VI", 243
+Krumholz M. R., Klein R. I., McKee C. F., 2012,, ApJ, 754, 71
+Krumholz M. R., Klein R. I., McKee C. F., 2011,, ApJ, 740, 74
+Lumsden S. L., Wheelwright H. E., Hoare M. G., Oudmaijer R. D., Drew J. E., 2012,, MNRAS, 424, 1088
+Mac Low, M.-M., Elitzur, M., Stone, J. M., et al. 1994,, ApJ, 427, 914. doi:10.1086/174196
+Maud, L. T., Lumsden, S. L., Moore, T. J. T., et al. 2015,, MNRAS, 452, 637
+Maud, L. T., Moore, T. J. T., Lumsden, S. L., et al. 2015,, MNRAS, 453, 645
+McCaughrean, M. J. & Mac Low, M.-M. 1997, AJ, 113, 391. doi:10.1086/118261
+Molinari, S., Schisano, E., Elia, D., et al. 2016, A&A, 591, A149
+Molinari, S., Swinyard, B., Bally, J., et al. 2010, A&A, 518, L100
+Molinari, S., Swinyard, B., Bally, J., et al. 2010, PASP, 122, 314.
+Murakawa K., Lumsden S. L., Oudmaijer R. D., Davies B., Wheelwright H. E., Hoare M. G., Ilee J. D., 2013,, MNRAS, 436, 511
+Neckel, T. 1982, The Messenger, 29, 15
+Noel B., Joblin C., Maillard J. P., Paumard T., 2005, A&A, 436, 569
+Oasa, Y., Tamura, M., Nakajima, Y., et al. 2006, AJ, 131, 1608
+O'Dell C. R., Ferland G. J., Peimbert M., 2017,, MNRAS, 464, 4835
+O'Dell C. R., 2018,, MNRAS, 478, 1017
+O'Dell C. R., 2001, ARA&A, 39, 99
+Pabst, C. H. M., Goicoechea, J. R., Teyssier, D., et al. 2020, A&A, 639, A2
+Pabst, C., Higgins, R., Goicoechea, J. R., et al. 2019,, Nature, 565, 618
+Peters, T., Klessen, R. S., Mac Low, M.-M., et al. 2010,, ApJ, 725, 134
+Peters, T., Mac Low, M.-M., Banerjee, R., et al. 2010,, ApJ, 719, 831
+Peters, T., Banerjee, R., Klessen, R. S., et al. 2010,, ApJ, 711, 1017
+Pudritz, R. E., & Ray, T. P. 2019, Frontiers in Astronomy and Space Sciences, 6, 54
+Puls, J., Vink, J. S., & Najarro, F. 2008, A&A Rv, 16, 209. doi:10.1007/s00159-008-0015-8
+Reipurth, B., Mikkola, S., Connelley, M., et al. 2010, ApJL, 725, L56
+Reipurth, B., & Mikkola, S. 2012,, Nature, 492, 221
+Reipurth, B., & Mikkola, S. 2015, AJ, 149, 145
+Samal, M. R., Deharveng, L., Zavagno, A., et al. 2018, A&A, 617, A67
+Schneider N., Simon R., Kramer C., Stutzki J., Bontemps S., 2002, A&A, 384, 225
+Schneider, N., Simon, R., Kramer, C., et al. 2003, A&A, 406, 915
+Schneider, N., Simon, R., Bontemps, S., et al. 2007, A&A, 474, 873
+Schneider N., et al., 2018, A&A, 617, A45
+Simon, R., Schneider, N., Stutzki, J., et al. 2012, A&A, 542, L12
+Simon, M., & Fischer, J. 1982, BAAS14, 925
+Simon, M., Felli, M., Cassar, L., et al. 1983,, ApJ, 266, 623
+Solf, J. 1980, A&A, 92, 51
+Solf J., Carsenty U., 1982, A&A, 113, 142
+Soker, N. & Kashi, A. 2012,, ApJ, 746, 100
+Szyszka, C., Zijlstra, A. A., & Walsh, J. R. 2011,, MNRAS, 416, 715
+Weaver R., McCray R., Castor J., Shapiro P., Moore R., 1977,, ApJ, 218, 377
+Xu, Y., Li, J. J., Reid, M. J., et al. 2013,, ApJ, 769, 15
+Zapata, L. A., Schmid-Burgk, J., Ho, P. T. P., et al. 2009, ApJL, 704, L45
+Zapata, L. A., Schmid-Burgk, J., Perez-Goytia, N., et al. 2013, ApJL, 765, L29
+Zapata, L. A., Schmid-Burgk, J., Rodr iguez, L. F., et al. 2017,, ApJ, 836, 133
+Zapata, L. A., Ho, P. T. P., Guzman Ccolque, E., et al. 2019,, MNRAS, 486, L15
+Zapata, L. A., Ho, P. T. P., Fernandez-Lopez, M., et al. 2020, ApJL, 902, L47
+Zhang, Y., Tanaka, K. E. I., Rosero, V., et al. 2019, ApJL, 886, L4
+Zinnecker, H., & Yorke, H. W. 2007, ARA&A, 45, 481
+Zucker, C., Speagle, J. S., Schlafly, E. F., et al. 2020, A&A, 633, A51

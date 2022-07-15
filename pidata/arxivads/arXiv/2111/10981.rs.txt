@@ -1,0 +1,40 @@
+J. L. O'Brien, A. Furusawa, and J. Vukovi, Nature Photonics 3, 687 (2009), 1003.3928
+H.-S. Zhong, H. Wang, Y.-H. Deng, M.-C. Chen, L.-C. Peng, Y.-H. Luo, J. Qin, D. Wu, X. Ding, Y. Hu, P. Hu, X.-Y. Yang, W.-J. Zhang, H. Li, Y. Li, X. Jiang, L. Gan, G. Yang, L. You, Z. Wang, L. Li, N.-L. Liu, C.-Y. Lu, and J.-W. Pan, Science 370, 1460 (2020), 2012.01625
+N. Gisin, G. Ribordy, W. Tittel, and H. Zbinden, Reviews of Modern Physics 74, 145 (2002-03), quant-ph/0101098
+S.-K. Liao, W.-Q. Cai, W.-Y. Liu, L. Zhang, Y. Li, J.-G. Ren, J. Yin, Q. Shen, Y. Cao, Z.-P. Li, F.-Z. Li, X.-W. Chen, L.-H. Sun, J.-J. Jia, J.-C. Wu, X.-J. Jiang, J.-F. Wang, Y.-M. Huang, Q. Wang, Y.-L. Zhou, L. Deng, T. Xi, L. Ma, T. Hu, Q. Zhang, Y.-A. Chen, N.-L. Liu, X.-B. Wang, Z.-C. Zhu, C.-Y. Lu, R. Shu, C.-Z. Peng, J.-Y. Wang, and J.-W. Pan, Nature 549, 43 (2017), 1707.00542
+V. Giovannetti, S. Lloyd, and L. Maccone, Nature Photonics 5, 222 (2011), 1102.2318
+D. Awschalom, K. K. Berggren, H. Bernien, S. Bhave, L. D. Carr, P. Davids, S. E. Economou, D. Englund, A. Faraon, M. Fejer, S. Guha, M. V. Gustafsson, E. Hu, L. Jiang, J. Kim, B. Korzh, P. Kumar, P. G. Kwiat, M. Lon car, M. D. Lukin, D. A. B. Miller, C. Monroe, S. W. Nam, P. Narang, J. S. Orcutt, M. G. Raymer, A. H. Safavi-Naeini, M. Spiropulu, K. Srinivasan, S. Sun, J. Vu ckovic, E. Waks, R. Walsworth, A. M. Weiner, and Z. Zhang, PRX Quantum 2 (2021), 10.1103/prxquantum.2.017002, 1912.06642
+C. K. Hong, Z. Y. Ou, and L. Mandel, Physical Review Letters 59, 2044 (1987)
+J.-W. Pan, Z.-B. Chen, C.-Y. Lu, H. Weinfurter, A. Zeilinger, and M. Zukowski, Reviews of Modern Physics 84, 777 (2012), 0805.2853
+P. Senellart, G. Solomon, and A. White, Nature Nanotechnology 12, 1026 (2017)
+J. McKeever, A. Boca, A. D. Boozer, R. Miller, J. R. Buck, A. Kuzmich, and H. J. Kimble, Science 303, 1992 (2004)
+X.-s. Ma, S. Zotter, J. Kofler, T. Jennewein, and A. Zeilinger, Physical Review A 83, 043814 (2011), 1007.4798
+M. Collins, C. Xiong, I. Rey, T. Vo, J. He, S. Shahnia, C. Reardon, T. Krauss, M. Steel, A. Clark, and B. Eggleton, Nature Communications 4, 2582 (2013), 1305.7278
+B. G. Christensen, F. Kaneda, H. S. Park, J. J. Wong, K. T. McCusker, and P. G. Kwiat, Optica 2, 1010 (2015), 1507.06052
+C. Joshi, A. Farsi, S. Clemmen, S. Ramelow, and A. L. Gaeta, Nature Communications 9, 847 (2018), 1707.00048
+F. Kaneda and P. G. Kwiat, Science Advances 5, eaaw8586 (2019)
+W. P. Grice, A. B. URen, and I. A. Walmsley, Physical Review A 64, 063815 (2001)
+V. Giovannetti, L. Maccone, J. H. Shapiro, and F. N. C. Wong, Physical Review A 66, 043813 (2002), quant-ph/0207009
+F. Konig and F. N. C. Wong, Applied Physics Letters 84, 1644 (2004)
+R. Shimizu and K. Edamatsu, Optics Express 17, 16385 (2009)
+P. J. Mosley, J. S. Lundeen, B. J. Smith, and I. A. Walmsley, New Journal of Physics 10, 093011 (2008), 0807.1409
+P. G. Evans, R. S. Bennink, W. P. Grice, T. S. Humble, and J. Schaake, Physical Review Letters 105, 253601 (2010), 1009.1609
+M. Yabuno, R. Shimizu, Y. Mitsumori, H. Kosaka, and K. Edamatsu, Physical Review A 86, 010302 (2012), 1112.2019
+F. Kaneda, K. Garay-Palmett, A. B. U'Ren, and P. G. Kwiat, Optics Express 24, 10733 (2016), 1603.08451
+M. M. Weston, H. M. Chrzanowski, S. Wollmann, A. Boston, J. Ho, L. K. Shalm, V. B. Verma, M. S. Allman, S. W. Nam, R. B. Patel, S. Slussarenko, and G. J. Pryde, Optics Express 24, 10869 (2016), 1603.03555
+C. Greganti, P. Schiansky, I. A. Calafell, L. M. Procopio, L. A. Rozema, and P. Walther, Optics Express 26, 3286 (2018)
+M. B. Nasr, S. Carrasco, B. E. A. Saleh, A. V. Sergienko, M. C. Teich, J. P. Torres, L. Torner, D. S. Hum, and M. M. Fejer, Physical Review Letters 100, 183601 (2008)
+A. Tanaka, R. Okamoto, H. H. Lim, S. Subashchandran, M. Okano, L. Zhang, L. Kang, J. Chen, P. Wu, T. Hirohata, S. Kurimura, and S. Takeuchi, Optics Express 20, 25228 (2012), 1210.6137
+F. Kaneda, H. Suzuki, R. Shimizu, and K. Edamatsu, Optics Express 27, 1416 (2019), 1810.02052
+A. M. Branczyk, A. Fedrizzi, T. M. Stace, T. C. Ralph, and A. G. White, Optics Express 19, 55 (2011), 1005.3086
+P. B. Dixon, J. H. Shapiro, and F. N. C. Wong, Optics Express 21, 5879 (2013)
+A. Dosseva, L. Cincio, and A. M. Branczyk, Physical Review A 93, 013801 (2016), 1410.7714
+C. Chen, C. Bo, M. Y. Niu, F. Xu, Z. Zhang, J. H. Shapiro, and F. N. C. Wong, Optics Express 25, 7300 (2017), 1701.01755
+F. Graffitti, P. Barrow, M. Proietti, D. Kundys, and A. Fedrizzi, Optica 5, 514 (2018), 1712.07140
+A. Pickston, F. Graffitti, P. Barrow, C. L. Morrison, J. Ho, A. M. Branczyk, and A. Fedrizzi, Optics Express 29, 6991 (2021)
+S. Miki, M. Yabuno, T. Yamashita, and H. Terai, Optics Express 25, 6796 (2017), 1701.07247
+F. Kaneda, J. Oikawa, M. Yabuno, F. China, S. Miki, H. Terai, Y. Mitsumori, and K. Edamatsu, Optics Express 28, 38993 (2020), 2010.07678
+A. Christ, K. Laiho, A. Eckstein, K. N. Cassemiro, and C. Silberhorn, New Journal of Physics 13, 033027 (2011), 1012.0262
+R. H. Brown and R. Q. Twiss, Nature 177, 27 (1956)
+J. H. Eberly, Laser Physics 16, 921 (2006), quant-ph/0508019
+B. G. Christensen, K. T. McCusker, J. B. Altepeter, B. Calkins, T. Gerrits, A. E. Lita, A. Miller, L. K. Shalm, Y. Zhang, S. W. Nam, N. Brunner, C. C. W. Lim, N. Gisin, and P. G. Kwiat, Physical Review Letters 111, 130406 (2013), 1306.5772

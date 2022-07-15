@@ -1,0 +1,73 @@
+S. Weinberg, Phys. Lett. B251, 288 (1990)
+S. Weinberg, Nucl. Phys. B363, 3 (1991)
+S. Weinberg, Phys. Lett. B 295, 114 (1992), arXiv:hep-ph/9209257
+E. Epelbaum, H. Krebs, and U.-G. Meiner, Phys. Rev. Lett. 115, 122301 (2015)
+P. Reinert, H. Krebs, and E. Epelbaum, Eur. Phys. J. A 54, 86 (2018), arXiv:1711.08821 [nucl-th]
+D. R. Entem, R. Machleidt, and Y. Nosyk, Phys. Rev. C96, 024004 (2017)
+D. Rodriguez Entem, R. Machleidt, and Y. Nosyk, Front. in Phys. 8, 57 (2020)
+R. B. Wiringa, V. G. J. Stoks, and R. Schiavilla, Phys. Rev. C51, 38 (1995)
+R. Machleidt, Phys. Rev. C63, 024001 (2001)
+E. Epelbaum, H.-W. Hammer, and U.-G. Meiner, Rev. Mod. Phys. 81, 1773 (2009)
+R. Machleidt and D. R. Entem, Phys. Rept. 503, 1 (2011)
+H. W. Hammer, S. Konig, and U. van Kolck, Rev. Mod. Phys. 92, 025004 (2020), arXiv:1906.12122 [nucl-th]
+C. Drischler, W. Haxton, K. McElvain, E. Mereghetti, A. Nicholson, P. Vranas, and A. Walker-Loud, Prog. Part. Nucl. Phys. 121, 103888 (2021), arXiv:1910.07961 [nucl-th]
+S. Shen, J. Hu, H. Liang, J. Meng, P. Ring, and S. Zhang, Chin. Phys. Lett. 33, 102103 (2016)
+S. Shen, H. Liang, J. Meng, P. Ring, and S. Zhang, Phys. Rev. C 96, 014316 (2017), arXiv:1705.01691 [nucl-th]
+H. Tong, X.-L. Ren, P. Ring, S.-H. Shen, S.-B. Wang, and J. Meng, Phys. Rev. C 98, 054302 (2018), arXiv:1808.09138 [nucl-th]
+H. Tong, P.-W. Zhao, and J. Meng, Phys. Rev. C 101, 035802 (2020), arXiv:1903.05938 [nucl-th]
+S. Wang, Q. Zhao, P. Ring, and J. Meng, Phys. Rev. C 103, 054319 (2021), arXiv:2103.12960 [nucl-th]
+R. Machleidt, K. Holinde, and C. Elster, Phys. Rept. 149, 1 (1987)
+S. Shen, H. Liang, W. H. Long, J. Meng, and P. Ring, Prog. Part. Nucl. Phys. 109, 103713 (2019), arXiv:1904.04977 [nucl-th]
+E. Epelbaum, A. M. Gasparyan, J. Gegelia, and U.-G. Meiner, Eur. Phys. J. A 54, 186 (2018), arXiv:1810.02646 [nucl-th]
+U. van Kolck, Front. in Phys. 8, 79 (2020), arXiv:2003.06721 [nucl-th]
+L. S. Geng, J. Martin Camalich, L. Alvarez-Ruso, and M. J. Vicente Vacas, Phys. Rev. Lett. 101, 222002 (2008), arXiv:0805.1419 [hep-ph]
+V. Lensky and V. Pascalutsa, Eur. Phys. J. C 65, 195 (2010), arXiv:0907.0451 [hep-ph]
+J. M. Alarcon, J. Martin Camalich, and J. A. Oller, Phys. Rev. D 85, 051503 (2012), arXiv:1110.3797 [hep-ph]
+J. Martin Camalich, L. S. Geng, and M. J. Vicente Vacas, Phys. Rev. D 82, 074504 (2010), arXiv:1003.1929 [hep-lat]
+X.-L. Ren, L.-S. Geng, J. Martin Camalich, J. Meng, and H. Toki, JHEP 12, 073 (2012)
+L.-S. Geng, Front. Phys.(Beijing) 8, 328 (2013)
+J. Gegelia and G. Japaridze, Phys. Rev. D 60, 114038 (1999), arXiv:hep-ph/9908377
+T. Fuchs, J. Gegelia, G. Japaridze, and S. Scherer, Phys. Rev. D 68, 056005 (2003), arXiv:hep-ph/0302117
+X.-L. Ren, K.-W. Li, L.-S. Geng, B.-W. Long, P. Ring, and J. Meng, Chin. Phys. C 42, 014103 (2018)
+Y. Xiao, L.-S. Geng, and X.-L. Ren, Phys. Rev. C 99, 024004 (2019), arXiv:1812.03005 [nucl-th]
+E. Epelbaum and J. Gegelia, Phys. Lett. B716, 338 (2012)
+E. Epelbaum, A. M. Gasparyan, J. Gegelia, and H. Krebs, Eur. Phys. J. A51, 71 (2015)
+J. Behrendt, E. Epelbaum, J. Gegelia, U.-G. Meiner, and A. Nogga, Eur. Phys. J. A52, 296 (2016)
+X.-L. Ren, E. Epelbaum, and J. Gegelia, (2022), arXiv:2202.04018 [nucl-th]
+X.-L. Ren, C.-X. Wang, K.-W. Li, L.-S. Geng, and J. Meng, Chin. Phys. Lett. 38, 062101 (2021), arXiv:1712.10083 [nucl-th]
+Q.-Q. Bai, C.-X. Wang, Y. Xiao, and L.-S. Geng, Phys. Lett. B, 135745 (2020), arXiv:2007.01638 [nucl-th]
+Q.-Q. Bai, C.-X. Wang, Y. Xiao, and L.-S. Geng, (2021), arXiv:2105.06113 [hep-ph]
+C.-X. Wang, L.-S. Geng, and B. Long, Chin. Phys. C 45, 054101 (2021), arXiv:2001.08483 [nucl-th]
+K.-W. Li, X.-L. Ren, L.-S. Geng, and B. Long, Phys. Rev. D94, 014029 (2016)
+K.-W. Li, X.-L. Ren, L.-S. Geng, and B.-W. Long, Chin. Phys. C 42, 014105 (2018), arXiv:1612.08482 [nucl-th]
+K.-W. Li, T. Hyodo, and L.-S. Geng, Phys. Rev. C 98, 065203 (2018), arXiv:1809.03199 [nucl-th]
+J. Song, K.-W. Li, and L.-S. Geng, Phys. Rev. C 97, 065201 (2018), arXiv:1802.04433 [nucl-th]
+Z.-W. Liu, J. Song, K.-W. Li, and L.-S. Geng, Phys. Rev. C 103, 025201 (2021), arXiv:2011.05510 [nucl-th]
+J. Song, Z.-W. Liu, K.-W. Li, and L.-S. Geng, (2021), arXiv:2107.04742 [nucl-th]
+J. Song, Y. Xiao, Z.-W. Liu, C.-X. Wang, K.-W. Li, and L.-S. Geng, Phys. Rev. C 102, 065208 (2020), arXiv:2010.06916 [nucl-th]
+J. Song, Y. Xiao, Z.-W. Liu, K.-W. Li, and L.-S. Geng, (2021), arXiv:2104.02380 [hep-ph]
+L. Girlanda, A. Kievsky, M. Viviani, and L. E. Marcucci, Phys. Rev. C 99, 054003 (2019), arXiv:1811.09398 [nucl-th]
+Y. Xiao, C.-X. Wang, J.-X. Lu, and L.-S. Geng, Phys. Rev. C 102, 054001 (2020), arXiv:2007.13675 [nucl-th]
+C.-X. Wang, J.-X. Lu, Y. Xiao, and L.-S. Geng, Phys. Rev. C 105, 014003 (2022), arXiv:2110.05278 [nucl-th]
+T. Huther, K. Vobig, K. Hebeler, R. Machleidt, and R. Roth, Phys. Lett. B 808, 135651 (2020), arXiv:1911.04955 [nucl-th]
+R. Blankenbecler and R. Sugar, Phys. Rev. 142, 1051 (1966)
+R. M. Woloshyn and A. D. Jackson, Nucl. Phys. B 64, 269 (1973)
+E. Epelbaum, W. Gloeckle, and U.-G. Meiner, Eur. Phys. J. A 19, 125 (2004), arXiv:nucl-th/0304037
+E. Epelbaum, W. Gloeckle, and U.-G. Meissner, Eur. Phys. J. A 19, 401 (2004), arXiv:nucl-th/0308010
+E. Epelbaum, W. Glockle, and U.-G. Meiner, Nucl. Phys. A747, 362 (2005)
+D. R. Entem and R. Machleidt, Phys. Rev. C68, 041001 (2003)
+Y.-H. Chen, D.-L. Yao, and H. Q. Zheng, Phys. Rev. D 87, 054019 (2013), arXiv:1212.1893 [hep-ph]
+R. J. Furnstahl, N. Klco, D. R. Phillips, and S. Wesolowski, Phys. Rev. C 92, 024005 (2015), arXiv:1506.01343 [nucl-th]
+J. A. Melendez, S. Wesolowski, and R. J. Furnstahl, Phys. Rev. C 96, 024003 (2017), arXiv:1704.03308 [nucl-th]
+J. A. Melendez, R. J. Furnstahl, D. R. Phillips, M. T. Pratola, and S. Wesolowski, Phys. Rev. C 100, 044001 (2019), arXiv:1904.10581 [nucl-th]
+E. Epelbaum et al., Eur. Phys. J. A 56, 92 (2020), arXiv:1907.03608 [nucl-th]
+E. Epelbaum, H. Krebs, and P. Reinert, Front. in Phys. 8, 98 (2020), arXiv:1911.11875 [nucl-th]
+P. Maris et al., Phys. Rev. C 103, 054001 (2021), arXiv:2012.12396 [nucl-th]
+E. Epelbaum, H. Krebs, and U. G. Meiner, Eur. Phys. J. A51, 53 (2015)
+V. G. J. Stoks, R. A. M. Klomp, M. C. M. Rentmeester, and J. J. de Swart, Phys. Rev. C48, 792 (1993)
+E. Epelbaum, W. Gloeckle, and U.-G. Meiner, Nucl. Phys. A671, 295 (2000)
+A. G. Escalante, R. Navarro Perez, and E. Ruiz Arriola, Phys. Rev. C 104, 054002 (2021), arXiv:2010.03885 [nucl-th]
+R. Navarro Perez, J. E. Amaro, and E. Ruiz Arriola, Phys. Rev. C 88, 024002 (2013), [Erratum: Phys.Rev.C 88, 069902 (2013)], arXiv:1304.0895 [nucl-th]
+R. Navarro Perez, J. E. Amaro, and E. Ruiz Arriola, Phys. Rev. C 91, 054002 (2015), arXiv:1411.1212 [nucl-th]
+R. Navarro Perez, J. E. Amaro, and E. Ruiz Arriola, Phys. Rev. C 95, 064001 (2017), arXiv:1606.00592 [nucl-th]
+A. Nogga, R. G. E. Timmermans, and U. van Kolck, Phys. Rev. C72, 054006 (2005)

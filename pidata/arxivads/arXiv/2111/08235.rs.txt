@@ -1,0 +1,32 @@
+Barbosa G. O., Winter O. C., Amarante A., Izidoro A., Domingos R. C., Macau E. E. N., 2020,, MNRAS, 494, 1045
+Barbosa G. O., Winter O. C., Amarante A., Macau E. E. N., 2021,, MNRAS, 504, 6144
+Bonavita M., Desidera S., 2020, Galaxies, 8, 16
+Borucki W. J., et al., 2010, Science, 327, 977
+Chavez C. E., Georgakarakos N., Prodan S., Reyes-Ruiz M., Aceves H., Betancourt F., Perez-Tijerina E., 2015,, MNRAS, 446, 1283
+Eggl S., 2018, Habitability of Planets in Binary Star Systems. p. 61, doi:10.1007/978-3-319-55333-7_61
+Eggl S., Dvorak R., 2010, An Introduction to Common Numerical Integration Codes Used in Dynamical Astronomy. pp 431-480, doi:10.1007/978-3-642-04458-8_9
+Eggl S., Pilat-Lohinger E., Georgakarakos N., Gyergyovits M., Funk B., 2012,, ApJ, 752, 74
+Eggl S., Pilat-Lohinger E., Funk B., Georgakarakos N., Haghighipour N., 2013a,, MNRAS, 428, 3104
+Eggl S., Haghighipour N., Pilat-Lohinger E., 2013b,, ApJ, 764, 130
+Eggl S., Georgakarakos N., Pilat-Lohinger E., 2020, Galaxies, 8, 65
+Georgakarakos N., 2013, New Astron., 23, 41
+Georgakarakos N., Eggl S., 2015,, ApJ, 802, 94
+Georgakarakos N., Eggl S., 2019,, MNRAS, 487, L58
+Georgakarakos N., Dobbs-Dixon I., Way M. J., 2016,, MNRAS, 461, 1512
+Georgakarakos N., Eggl S., Dobbs-Dixon I., 2018,, ApJ, 856, 155
+Georgakarakos N., Eggl S., Dobbs-Dixon I., 2021, Frontiers in Astronomy and Space Sciences, 8, 44
+Gilbert E. A., et al., 2020, AJ, 160, 116
+Gillon M., et al., 2016,, Nature, 533, 221
+Holman M. J., Wiegert P. A., 1999, AJ, 117, 621
+Kasting J. F., Whitmire D. P., Reynolds R. T., 1993, Icarus, 101, 108
+Koch D. G., et al., 2010,, ApJ, 713, L79
+Kopparapu R. K., Ramirez R. M., SchottelKotte J., Kasting J. F., Domagal-Goldman S., Eymet V., 2014,, ApJ, 787, L29
+Kostov V. B., et al., 2020, AJ, 159, 253
+Kostov V. B., et al., 2021, arXiv e-prints, p. arXiv:2105.08614
+Martin D. V., et al., 2019, A&A, 624, A68
+Marzari F., Thebault P., 2019, Galaxies, 7, 84
+Petrovich C., 2015,, ApJ, 808, 120
+Popova E. A., Shevchenko I. I., 2016, Astronomy Letters, 42, 474
+Rodriguez J. E., et al., 2020, AJ, 160, 117
+Socia Q. J., et al., 2020, AJ, 159, 94
+Welsh W. F., et al., 2012,, Nature, 481, 475

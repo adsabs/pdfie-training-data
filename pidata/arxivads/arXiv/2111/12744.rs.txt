@@ -1,0 +1,65 @@
+Aharon D., Perets H. B., 2016,, ApJ, 830, L1
+Alexander T., Hopman C., 2009,, ApJ, 697, 1861
+Alexander R. D., Begelman M. C., Armitage P. J., 2007,, ApJ, 654, 907
+Antonini F., Merritt D., 2013,, ApJ, 763, L10
+Bahcall J. N., Wolf R. A., 1976,, ApJ, 209, 214
+Bonnell I. A., Rice W. K. M., 2008, Science, 321, 1060
+Foote H. R., Generozov A., Madigan A.-M., 2020,, ApJ, 890, 175
+Freitag M., Amaro-Seoane P., Kalogera V., 2006,, ApJ, 649, 91
+Gallego-Cano E., Schodel R., Nogueras-Lara F., Dong H., Shahzamanian B., Fritz T. K., Gallego-Calvente A. T., Neumayer N., 2020, A&A, 634, A71
+Gammie C. F., 2001,, ApJ, 553, 174
+Generozov A., 2020,, ApJ, 904, 118
+Generozov A., Madigan A.-M., 2020,, ApJ, 896, 137
+Generozov A., Perets H. B., 2021, arXiv e-prints, p. arXiv:2112.13864
+Generozov A., Stone N. C., Metzger B. D., Ostriker J. P., 2018,, MNRAS, 478, 4030
+Genzel R., et al., 2003,, ApJ, 594, 812
+Gillessen S., et al., 2017,, ApJ, 837, 30
+Gould A., Quillen A. C., 2003,, ApJ, 592, 935
+Gruzinov A., Levin Y., Zhu J., 2020,, ApJ, 905, 11
+Gualandris A., Mapelli M., Perets H. B., 2012,, MNRAS, 427, 1793
+Guo F., Mathews W. G., 2012,, ApJ, 756, 181
+Gurkan M. A., Hopman C., 2007,, MNRAS, 379, 1083
+Habibi M., et al., 2017,, ApJ, 847, 120
+Hailey C. J., Mori K., Bauer F. E., Berkowitz M. E., Hong J., Hord B. J., 2018,, Nature, 556, 70
+Hills J. G., 1988,, Nature, 331, 687
+Hobbs A., Nayakshin S., 2009,, MNRAS, 394, 191
+Hopman C., Alexander T., 2006,, ApJ, 645, L133
+Jalali B., et al., 2014,, MNRAS, 444, 1205
+Koposov S. E., et al., 2020,, MNRAS, 491, 2465
+Launhardt R., Zylka R., Mezger P. G., 2002, A&A, 384, 112
+Levin Y., 2007,, MNRAS, 374, 515
+Levin Y., Beloborodov A. M., 2003,, ApJ, 590, L33
+Lombardi J. C., McInally W. G., Faber J. A., 2015,, MNRAS, 447, 25
+Lu J. R., Ghez A. M., Hornstein S. D., Morris M. R., Becklin E. E., Matthews K., 2009,, ApJ, 690, 1463
+Lu J. R., Do T., Ghez A. M., Morris M. R., Yelda S., Matthews K., 2013,, ApJ, 764, 155
+Madigan A., 2011, in Morris M. R., Wang Q. D., Yuan F., eds, Astronomical Society of the Pacific Conference Series Vol. 439, The Galactic Center: a Window to the Nuclear Environment of Disk Galaxies. p. 153 (arXiv:1002.1277)
+Madigan A.-M., Levin Y., Hopman C., 2009,, ApJ, 697, L44
+Mapelli M., Hayfield T., Mayer L., Wadsley J., 2012,, ApJ, 749, 168
+Merritt D., 2010,, ApJ, 718, 739
+Miralda-Escude J., Gould A., 2000,, ApJ, 545, 847
+Morris M., 1993,, ApJ, 408, 496
+Muno M. P., Pfahl E., Baganoff F. K., Brandt W. N., Ghez A., Lu J., Morris M. R., 2005,, ApJ, 622, L113
+Naoz S., Ghez A. M., Hees A., Do T., Witzel G., Lu J. R., 2018,, ApJ, 853, L24
+Nayakshin S., Cuadra J., 2005, A&A, 437, 437
+Nayakshin S., Cuadra J., Springel V., 2007,, MNRAS, 379, 21
+Paumard T., et al., 2006,, ApJ, 643, 1011
+Perets H. B., Gualandris A., 2010,, ApJ, 719, 220
+Perets H. B., Hopman C., Alexander T., 2007,, ApJ, 656, 709
+Perets H. B., Gualandris A., Kupi G., Merritt D., Alexander T., 2009,, ApJ, 702, 884
+Perets H. B., Mastrobuono-Battisti A., Meiron Y., Gualandris A., 2018, arXiv e-prints, p. arXiv:1802.00012
+Reid M. J., Brunthaler A., 2020,, ApJ, 892, 39
+Rein H., Liu S. F., 2012, A&A, 537, A128
+Rein H., Spiegel D. S., 2015,, MNRAS, 446, 1424
+Rice W. K. M., Lodato G., Armitage P. J., 2005,, MNRAS, 364, L56
+Schodel R., Gallego-Cano E., Dong H., Nogueras-Lara F., Gallego-Calvente A. T., Amaro-Seoane P., Baumgardt H., 2018, A&A, 609, A27
+Schodel R., Nogueras-Lara F., Gallego-Cano E., Shahzamanian B., Gallego-Calvente A. T., Gardini A., 2020, A&A, 641, A102
+Springel V., 2005,, MNRAS, 364, 1105
+Su M., Slatyer T. R., Finkbeiner D. P., 2010,, ApJ, 724, 1044
+Szolgyen A., Kocsis B., 2018, Phys. Rev. Lett., 121, 101101
+Tamayo D., Rein H., Shi P., Hernand ez D. M., 2020,, MNRAS, 491, 2885
+Tep K., Fouvry J.-B., Pichon C., Heiel G., Paumard T., Perrin G., Vincent F., 2021,, MNRAS, 506, 4289
+Vasiliev E., 2017,, ApJ, 848, 10
+Wernke H. N., Madigan A.-M., 2019,, ApJ, 880, 42
+Yelda S., Ghez A. M., Lu J. R., Do T., Meyer L., Morris M. R., Matthews K., 2014,, ApJ, 783, 131
+Zhu Z., Hartmann L., Gammie C., 2009,, ApJ, 694, 1045
+Subr L., Haas J., 2016,, ApJ, 828, 1

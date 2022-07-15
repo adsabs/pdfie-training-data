@@ -1,0 +1,79 @@
+S. W. Hawking, Nature 248, 30 (1974)
+S. W. Hawking, Commun. Math. Phys. 43, 199 (1975),
+S. W. Hawking, Erratum: Commun.Math.Phys. 46, 206 (1976)
+S. W. Hawking, Phys. Rev. D 14, 2460 (1976)
+D. N. Page, Phys. Rev. Lett. 71, 3743 (1993), arXiv:hep-th/9306083
+D. N. Page, JCAP 09, 028 (2013), arXiv:1301.4995 [hep-th]
+G. Penington, JHEP 09, 002 (2020), arXiv:1905.08255 [hep-th]
+A. Almheiri, N. Engelhardt, D. Marolf, and H. Maxfield, JHEP 12, 063 (2019), arXiv:1905.08762 [hep-th]
+A. Almheiri, R. Mahajan, and J. Maldacena, (2019), arXiv:1910.11077 [hep-th]
+A. Almheiri, R. Mahajan, J. Maldacena, and Y. Zhao, JHEP 03, 149 (2020), arXiv:1908.10996 [hep-th]
+A. Almheiri, T. Hartman, J. Maldacena, E. Shaghoulian, and A. Tajdini, JHEP 05, 013 (2020), arXiv:1911.12333 [hep-th]
+G. Penington, S. H. Shenker, D. Stanford, and Z. Yang, (2019), arXiv:1911.11977 [hep-th]
+K. Goto, T. Hartman, and A. Tajdini, JHEP 04, 289 (2021), arXiv:2011.09043 [hep-th]
+T. J. Hollowood, S. Prem Kumar, and A. Legramandi, J. Phys. A 53, 475401 (2020), arXiv:2007.04877 [hep-th]
+T. J. Hollowood and S. P. Kumar, JHEP 08, 094 (2020), arXiv:2004.14944 [hep-th]
+X. Wang, R. Li, and J. Wang, (2021), arXiv:2104.00224 [hep-th]
+V. E. Hubeny, M. Rangamani, and T. Takayanagi, JHEP 07, 062 (2007), arXiv:0705.0016 [hep-th]
+T. Faulkner, A. Lewkowycz, and J. Maldacena, JHEP 11, 074 (2013), arXiv:1307.2892 [hep-th]
+N. Engelhardt and A. C. Wall, JHEP 01, 073 (2015), arXiv:1408.3203 [hep-th]
+J. D. Bekenstein, Phys. Rev. D 9, 3292 (1974)
+A. C. Wall, Phys. Rev. D 82, 124019 (2010), arXiv:1007.1493 [gr-qc]
+A. C. Wall, Phys. Rev. D 85, 104049 (2012), [Erratum: Phys.Rev.D 87, 069904 (2013)], arXiv:1105.3445 [gr-qc]
+F. F. Gautason, L. Schneiderbauer, W. Sybesma, and L. Thorlacius, JHEP 05, 091 (2020), arXiv:2004.00598 [hep-th]
+T. Hartman, E. Shaghoulian, and A. Strominger, JHEP 07, 022 (2020), arXiv:2004.13857 [hep-th]
+H. Z. Chen, R. C. Myers, D. Neuenfeld, I. A. Reyes, and J. Sandor, JHEP 12, 025 (2020), arXiv:2010.00018 [hep-th]
+S. He, Y. Sun, L. Zhao, and Y.-X. Zhang, (2021), arXiv:2110.07598 [hep-th]
+A. Lewkowycz and J. Maldacena, JHEP 08, 090 (2013), arXiv:1304.4926 [hep-th]
+X. Dong, A. Lewkowycz, and M. Rangamani, JHEP 11, 028 (2016), arXiv:1607.07506 [hep-th]
+X. Dong, Nature Commun. 7, 12472 (2016), arXiv:1601.06788 [hep-th]
+X. Dong and A. Lewkowycz, JHEP 01, 081 (2018), arXiv:1705.08453 [hep-th]
+J. D. Brown and J. W. York, Jr., Phys. Rev. D 47, 1420 (1993), arXiv:gr-qc/9209014
+M. Banados, C. Teitelboim, and J. Zanelli, Phys. Rev. Lett. 72, 957 (1994), arXiv:gr-qc/9309026
+H. Casini, M. Huerta, and R. C. Myers, JHEP 05, 036 (2011), arXiv:1102.0440 [hep-th]
+G. W. Gibbons and S. W. Hawking, Phys. Rev. D 15, 2752 (1977)
+R. Jackiw, Nucl. Phys. B 252, 343 (1985)
+C. Teitelboim, Phys. Lett. B 126, 41 (1983)
+A. Almheiri and J. Polchinski, JHEP 11, 014 (2015), arXiv:1402.6334 [hep-th]
+S. M. Christensen and S. A. Fulling, Phys. Rev. D 15, 2088 (1977)
+J. B. Hartle and S. W. Hawking, Phys. Rev. D 13, 2188 (1976)
+M. Spradlin and A. Strominger, JHEP 11, 021 (1999), arXiv:hep-th/9904143
+J. F. Pedraza, A. Svesko, W. Sybesma, and M. R. Visser, (2021), arXiv:2107.10358 [hep-th]
+R. M. Wald, Phys. Rev. D 48, R3427 (1993), arXiv:gr-qc/9307038
+R. C. Myers, Phys. Rev. D 50, 6412 (1994), arXiv:hep-th/9405162
+J. D. Brown and J. W. York, Jr., in The Black Hole 25 Years After (1994) pp. 1-24, arXiv:gr-qc/9405024
+B. Czech, J. L. Karczmarek, F. Nogueira, and M. Van Raamsdonk, Class. Quant. Grav. 29, 155009 (2012), arXiv:1204.1330 [hep-th]
+A. C. Wall, Class. Quant. Grav. 31, 225007 (2014), arXiv:1211.3494 [hep-th]
+M. Headrick, V. E. Hubeny, A. Lawrence, and M. Rangamani, JHEP 12, 162 (2014), arXiv:1408.6300 [hep-th]
+T. Jacobson, Phys. Rev. Lett. 116, 201101 (2016), arXiv:1505.04753 [gr-qc]
+T. Jacobson and M. Visser, SciPost Phys. 7, 079 (2019), arXiv:1812.01596 [hep-th]
+M. R. Visser, Emergent gravity in a holographic universe, Ph.D. thesis, Amsterdam U. (2019), arXiv:1908.05469 [hep-th]
+T. Jacobson and G. Kang, Class. Quant. Grav. 10, L201 (1993), arXiv:gr-qc/9307002
+T. Banks, P. Draper, and S. Farkas, Phys. Rev. D 103, 106022 (2021), arXiv:2008.03449 [hep-th]
+T. Jacobson, Phys. Rev. D 50, R6031 (1994), arXiv:gr-qc/9407022
+V. Iyer and R. M. Wald, Phys. Rev. D 50, 846 (1994), arXiv:gr-qc/9403028
+V. Iyer and R. M. Wald, Phys. Rev. D 52, 4430 (1995), arXiv:gr-qc/9503052
+T. Jacobson and M. Visser, Int. J. Mod. Phys. D 28, 1944016 (2019), arXiv:1904.04843 [gr-qc]
+P. Bueno, V. S. Min, A. J. Speranza, and M. R. Visser, Phys. Rev. D 95, 046003 (2017), arXiv:1612.04374 [hep-th]
+N. Callebaut, JHEP 02, 153 (2019), arXiv:1808.10431 [hep-th]
+A. Almheiri, T. Hartman, J. Maldacena, E. Shaghoulian, and A. Tajdini, (2020), arXiv:2006.06872 [hep-th]
+T. Hartman, (2013), arXiv:1303.6955 [hep-th]
+A. Rolph, (2021), arXiv:2107.11385 [hep-th]
+C. Akers and G. Penington, JHEP 04, 062 (2021), arXiv:2008.03319 [hep-th]
+D. Marolf, JHEP 09, 114 (2018), arXiv:1808.00394 [hep-th]
+S. Colin-Ellerin, X. Dong, D. Marolf, M. Rangamani, and Z. Wang, JHEP 05, 117 (2021), arXiv:2012.00828 [hep-th]
+S. Colin-Ellerin, X. Dong, D. Marolf, M. Rangamani, and Z. Wang, (2021), arXiv:2105.07002 [hep-th]
+E. Witten, (2020), arXiv:2006.03494 [hep-th]
+C. G. Callan, Jr., S. B. Giddings, J. A. Harvey, and A. Strominger, Phys. Rev. D 45, 1005 (1992), arXiv:hep-th/9111056
+J. G. Russo, L. Susskind, and L. Thorlacius, Phys. Rev. D 46, 3444 (1992), arXiv:hep-th/9206070
+S. Bose, L. Parker, and Y. Peleg, Phys. Rev. Lett. 76, 861 (1996), arXiv:gr-qc/9508027
+Y. Chen, V. Gorbenko, and J. Maldacena, JHEP 02, 009 (2021), arXiv:2007.16091 [hep-th]
+T. Hartman, Y. Jiang, and E. Shaghoulian, JHEP 11, 111 (2020), arXiv:2008.01022 [hep-th]
+V. Balasubramanian, A. Kar, and T. Ugajin, JHEP 02, 072 (2021), arXiv:2008.05275 [hep-th]
+W. Sybesma, Class. Quant. Grav. 38, 145012 (2021), arXiv:2008.07994 [hep-th]
+A. Svesko, E. Verheijden, E. P. Verlinde, and M. R. Visser, (2022), arXiv:2203.00700 [hep-th]
+J. W. York, Jr., Phys. Rev. Lett. 28, 1082 (1972)
+S. A. Hayward, S. Mukohyama, and M. C. Ashworth, Phys. Lett. A 256, 347 (1999), arXiv:gr-qc/9810006
+A. C. Wall, Int. J. Mod. Phys. D 24, 1544014 (2015), arXiv:1504.08040 [gr-qc]
+J. D. Brown, Phys. Rev. D 52, 7011 (1995), arXiv:gr-qc/9506085
+D. Harlow and J.-Q. Wu, JHEP 10, 146 (2020), arXiv:1906.08616 [hep-th]

@@ -1,0 +1,22 @@
+T. Gorda, A. Kurkela, R. Paatelainen, S. Sappi, A. Vuorinen, Phys. Rev. D 104, 074015 (2021), 2103.07427
+T. Gorda, A. Kurkela, R. Paatelainen, S. Sappi, A. Vuorinen, Phys. Rev. Lett. 127, 162003 (2021), 2103.05658
+O. Komoltsev, A. Kurkela (2021), 2111.05350
+A. Kurkela, E.S. Fraga, J. Schaffner-Bielich, A. Vuorinen, Astrophys. J. 789, 127 (2014), 1402.6618
+E. Annala, T. Gorda, A. Kurkela, A. Vuorinen, Phys. Rev. Lett. 120, 172703 (2018), 1711.02644
+E.R. Most, L.R. Weih, L. Rezzolla, J. Schaffner-Bielich, Phys. Rev. Lett. 120, 261103 (2018), 1803.00549
+A. Kurkela, P. Romatschke, A. Vuorinen, Phys. Rev. D 81, 105021 (2010), 0912.1856
+P.M. Stevenson, Nucl. Phys. B 231, 65 (1984)
+E. Annala, T. Gorda, A. Kurkela, J. Nattila, A. Vuorinen, Nature Phys. 16, 907 (2020), 1903.09121
+T. Appelquist, R.D. Pisarski, Phys. Rev. D 23, 2305 (1981)
+K. Kajantie, M. Laine, K. Rummukainen, M.E. Shaposhnikov, Nucl. Phys. B 458, 90 (1996), hep-ph/9508379
+E. Braaten, A. Nieto, Phys. Rev. D 51, 6990 (1995), hep-ph/9501375
+J. Ghiglieri, A. Kurkela, M. Strickland, A. Vuorinen, Phys. Rept. 880, 1 (2020), 2002.10188
+T. Gorda, A. Kurkela, P. Romatschke, M. Sappi, A. Vuorinen, Phys. Rev. Lett. 121, 202701 (2018), 1807.04120
+E. Braaten, R.D. Pisarski, Nucl. Phys. B 337, 569 (1990)
+C. Manuel, Phys. Rev. D 53, 5866 (1996), hep-ph/9512365
+J.O. Andersen, E. Braaten, E. Petitgirard, M. Strickland, Phys. Rev. D 66, 085016 (2002), hep-ph/0205085
+J.H. Ee, D.W. Jung, U.R. Kim, J. Lee, European Journal of Physics 38, 025801 (2017)
+T. Hahn, Comput. Phys. Commun. 168, 78 (2005), hep-ph/0404043
+V. Shtabovenko, R. Mertig, F. Orellana, Comput. Phys. Commun. 207, 432 (2016), 1601.01167
+J.P. Blaizot, E. Iancu, A. Rebhan, Phys. Rev. D 68, 025011 (2003), hep-ph/0303045
+L. Fernandez, J.L. Kneur (2021), 2109.02410

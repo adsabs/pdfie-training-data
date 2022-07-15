@@ -1,0 +1,65 @@
+Beresnyak, A. 2011, PhRvL, 106, 075001, doi: 10.1103/PhysRevLett.106.075001
+Brandenburg, A., & Nordlund, A. 2011, Reports on Progress in Physics, 74, 046901, doi: 10.1088/0034-4885/74/4/046901
+Brunetti, G., & Jones, T. W. 2014, International Journal of Modern Physics D, 23, 1430007, doi: 10.1142/S0218271814300079
+Carilli, C. L., & Taylor, G. B. 2002, ARA&A, 40, 319, doi: 10.1146/annurev.astro.40.060401.093852
+Churazov, E., Vikhlinin, A., Zhuravleva, I., et al. 2012,, MNRAS, 421, 1123, doi: 10.1111/j.1365-2966.2011.20372.x
+Clarke, T. E., Kronberg, P. P., & Bohringer, H. 2001, ApJL, 547, L111, doi: 10.1086/318896
+Crutcher, R. M. 2012, ARA&A, 50, 29, doi: 10.1146/annurev-astro-081811-125514
+Crutcher, R. M., Wandelt, B., Heiles, C., Falgarone, E., & Troland, T. H. 2010,, ApJ, 725, 466, doi: 10.1088/0004-637X/725/1/466
+Elmegreen, B. G., & Scalo, J. 2004, ARA&A, 42, 211, doi: 10.1146/annurev.astro.41.011802.094859
+Falkovich, G. 1994, Physics of Fluids, 6, 1411
+Federrath, C. 2013,, MNRAS, 436, 1245, doi: 10.1093/mnras/stt1644
+--. 2016,, MNRAS, 457, 375, doi: 10.1093/mnras/stv2880
+Federrath, C., Chabrier, G., Schober, J., et al. 2011, PhRvL, 107, 114504, doi: 10.1103/PhysRevLett.107.114504
+Federrath, C., & Klessen, R. S. 2012,, ApJ, 761, 156, doi: 10.1088/0004-637X/761/2/156
+Federrath, C., Klessen, R. S., & Schmidt, W. 2008, ApJL, 688, L79, doi: 10.1086/595280
+--. 2009,, ApJ, 692, 364, doi: 10.1088/0004-637X/692/1/364
+Federrath, C., Roman-Duval, J., Klessen, R. S., Schmidt, W., & Mac Low, M. M. 2010, A&A, 512, A81, doi: 10.1051/0004-6361/200912437
+Goldreich, P., & Sridhar, S. 1995,, ApJ, 438, 763, doi: 10.1086/175121
+Govoni, F., Markevitch, M., Vikhlinin, A., et al. 2004,, ApJ, 605, 695, doi: 10.1086/382674
+Haverkorn, M. 2015, in Magnetic Fields in Diffuse Media, ed. A. Lazarian, E. M. de Gouveia Dal Pino, & C. Melioli, Vol. 407, 483, doi: 10.1007/978-3-662-44625-6 17
+Heiles, C., & Troland, T. H. 2003,, ApJ, 586, 1067, doi: 10.1086/367828
+Hennebelle, P., & Falgarone, E. 2012, A&A Rv, 20, 55, doi: 10.1007/s00159-012-0055-y
+Heyer, M. H., & Brunt, C. M. 2004, ApJL, 615, L45, doi: 10.1086/425978
+Hitomi Collaboration, Aharonian, F., Akamatsu, H., et al. 2016,, Nature, 535, 117, doi: 10.1038/nature18627
+Jiang, G.-S., & Shu, C.-W. 1996, Journal of Computational Physics, 126, 202, doi: 10.1006/jcph.1996.0130
+Jiang, G.-S., & Wu, C.-c. 1999, Journal of Computational Physics, 150, 561, doi: 10.1006/jcph.1999.6207
+Jorgensen, J. K., Hogerheijde, M. R., Blake, G. A., et al. 2004, A&A, 415, 1021, doi: 10.1051/0004-6361:20034216
+Kang, H., Ryu, D., & Jones, T. W. 2012,, ApJ, 756, 97, doi: 10.1088/0004-637X/756/1/97
+Kim, J., & Ryu, D. 2005, ApJL, 630, L45, doi: 10.1086/491600
+Krumholz, M. R., & Federrath, C. 2019, Frontiers in Astronomy and Space Sciences, 6, 7, doi: 10.3389/fspas.2019.00007
+Landau, L. D., & Lifshitz, E. M. 1960, Electrodynamics of continuous media (Pergamon Press Oxford)
+Larson, R. B. 1981,, MNRAS, 194, 809, doi: 10.1093/mnras/194.4.809
+Lehmann, A., Federrath, C., & Wardle, M. 2016,, MNRAS, 463, 1026, doi: 10.1093/mnras/stw2015
+Lim, J., Cho, J., & Yoon, H. 2020,, ApJ, 893, 75, doi: 10.3847/1538-4357/ab8066
+Mac Low, M.-M. 1999,, ApJ, 524, 169, doi: 10.1086/307784
+Mac Low, M.-M., & Klessen, R. S. 2004, Reviews of Modern Physics, 76, 125, doi: 10.1103/RevModPhys.76.125
+McKee, C. F., & Ostriker, E. C. 2007, ARA&A, 45, 565, doi: 10.1146/annurev.astro.45.051806.110602
+Mohapatra, R., Federrath, C., & Sharma, P. 2020,, MNRAS, 493, 5838, doi: 10.1093/mnras/staa711
+--. 2021,, MNRAS, 500, 5072, doi: 10.1093/mnras/staa3564
+Molina, F. Z., Glover, S. C. O., Federrath, C., & Klessen, R. S. 2012,, MNRAS, 423, 2680, doi: 10.1111/j.1365-2966.2012.21075.x
+Mouschovias, T. C. 1974,, ApJ, 192, 37, doi: 10.1086/153032
+Muller, W.-C., & Grappin, R. 2005, PhRvL, 95, 114502, doi: 10.1103/PhysRevLett.95.114502
+Padoan, P., Nordlund, A., & Jones, B. J. T. 1997,, MNRAS, 288, 145, doi: 10.1093/mnras/288.1.145
+Park, J., & Ryu, D. 2019,, ApJ, 875, 2, doi: 10.3847/1538-4357/ab0d7e
+Passot, T., & Vazquez-Semadeni, E. 1998, PhRvE, 58, 4501, doi: 10.1103/PhysRevE.58.4501
+Porter, D. H., Jones, T. W., & Ryu, D. 2015,, ApJ, 810, 93, doi: 10.1088/0004-637X/810/2/93
+Pudritz, R. E., & Kevlahan, N. K. R. 2013, Philosophical Transactions of the Royal Society of London Series A, 371, 20120248, doi: 10.1098/rsta.2012.0248
+Roh, S., Ryu, D., Kang, H., Ha, S., & Jang, H. 2019,, ApJ, 883, 138, doi: 10.3847/1538-4357/ab3aff
+Ryu, D., Jones, T. W., & Frank, A. 1995,, ApJ, 452, 785, doi: 10.1086/176347
+Ryu, D., Kang, H., Cho, J., & Das, S. 2008, Science, 320, 909, doi: 10.1126/science.1154923, doi:10.1126/science.1154923
+Ryu, D., Kang, H., & Ha, J.-H. 2019,, ApJ, 883, 60, doi: 10.3847/1538-4357/ab3a3a
+Ryu, D., Kang, H., Hallman, E., & Jones, T. W. 2003,, ApJ, 593, 599, doi: 10.1086/376723
+Ryu, D., Miniati, F., Jones, T. W., & Frank, A. 1998,, ApJ, 509, 244, doi: 10.1086/306481
+Schober, J., Schleicher, D., Federrath, C., Klessen, R., & Banerjee, R. 2012, PhRvE, 85, 026303, doi: 10.1103/PhysRevE.85.026303
+Schuecker, P., Finoguenov, A., Miniati, F., Bohringer, H., & Briel, U. G. 2004, A&A, 426, 387, doi: 10.1051/0004-6361:20041039
+Shu, C.-W. 2009, SIAM Review, 51, 82, doi: 10.1137/070679065
+Shu, C.-W., & Osher, S. 1988, Journal of Computational Physics, 77, 439, doi: 10.1016/0021-9991(88)90177-5
+Solomon, P. M., Rivolo, A. R., Barrett, J., & Yahil, A. 1987,, ApJ, 319, 730, doi: 10.1086/165493
+Stone, J. M., Ostriker, E. C., & Gammie, C. F. 1998, ApJL, 508, L99, doi: 10.1086/311718
+Tufte, S., Reynolds, R., & Haffner, M. 1999, in Interstellar Turbulence, ed. J. Franco & A. Carraminana, 27. https://arxiv.org/abs/astro-ph/9811313
+van Weeren, R. J., de Gasperin, F., Akamatsu, H., et al. 2019, SSRv, 215, 16, doi: 10.1007/s11214-019-0584-z
+Vazquez-Semadeni, E. 1994,, ApJ, 423, 681, doi: 10.1086/173847
+Vazza, F., Bruggen, M., Gheller, C., et al. 2017a, Classical and Quantum Gravity, 34, 234001, doi: 10.1088/1361-6382/aa8e60
+Vazza, F., Jones, T. W., Bruggen, M., et al. 2017b,, MNRAS, 464, 210, doi: 10.1093/mnras/stw2351
+Yoon, H., Cho, J., & Kim, J. 2016,, ApJ, 831, 85, doi: 10.3847/0004-637X/831/1/85

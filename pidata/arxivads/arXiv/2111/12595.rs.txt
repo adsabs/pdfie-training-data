@@ -1,0 +1,58 @@
+Anderson, J. M., & Ulvestad, J. S. 2005,, ApJ, 627, 674
+Baldi, R. D., Behar, E., Laor, A., & Horesh, A. 2015,, MNRAS, 454, 4277
+Baldi, R. D., Williams, D. R. A., McHardy, I. M., et al. 2018,, MNRAS, 476, 3478 (Paper I)
+--. 2021,, MNRAS, 500, 4749
+Barvainis, R., Lehar, J., Birkinshaw, M., Falcke, H., & Blundell, K. M. 2005,, ApJ, 618, 108
+Baskin, A., & Laor, A. 2021,, MNRAS, 508, 680
+Behar, E., Baldi, R. D., Laor, A., et al. 2015,, MNRAS, 451, 517
+Behar, E., Kaspi, S., Paubert, G., et al. 2020,, MNRAS, 491, 3523
+Bell, M. E., Tzioumis, T., Uttley, P., et al. 2011,, MNRAS, 411, 402
+Bischoff, K., & Kollatschny, W. 1999, A&A, 345, 49
+Burrows, D. N., Hill, J. E., Nousek, J. A., et al. 2005, Space Sci. Rev., 120, 165
+Condon, J. J., Kellermann, K. I., Kimball, A. E., Ivezic, Z., & Perley, R. A. 2013,, ApJ, 768, 37
+Corbel, S., Coriat, M., Brocksopp, C., et al. 2013,, MNRAS, 428, 2500
+Dasgupta, S., & Rao, A. R. 2006,, ApJ, 651, L13
+Dickey, J. M., & Lockman, F. J. 1990, ARA&A, 28, 215
+Doi, A., Asada, K., Fujisawa, K., et al. 2013,, ApJ, 765, 69
+Doi, A., Asada, K., & Nagai, H. 2011,, ApJ, 738, 126
+Duras, F., Bongiorno, A., Ricci, F., et al. 2020, A&A, 636, A73
+Edelson, R. A., & Krolik, J. H. 1988,, ApJ, 333, 646
+Gaskell, C. M., & Sparke, L. S. 1986,, ApJ, 305, 175
+Giroletti, M., & Panessa, F. 2009,, ApJ, 706, L260
+Grupe, D., Thomas, H. C., & Beuermann, K. 2001, A&A, 367, 470
+Haardt, F., & Maraschi, L. 1993,, ApJ, 413, 507
+Hernandez-Garcia, L., Gonzalez-Martin, O., Marquez, I., & Masegosa, J. 2013, A&A, 556, A47
+Hernandez-Garcia, L., Masegosa, J., Gonzalez-Martin, O., & Marquez, I. 2015, A&A, 579, A90
+Inoue, Y., & Doi, A. 2018,, ApJ, 869, 114
+Kara, E., Alston, W. N., Fabian, A. C., et al. 2016,, MNRAS, 462, 511
+King, A. L., Miller, J. M., Reynolds, M. T., et al. 2013,, ApJ, 774, L25
+King, A. L., Miller, J. M., Cackett, E. M., et al. 2011,, ApJ, 729, 19
+Kollatschny, W. 2003, A&A, 407, 461
+Kollatschny, W., Bischoff, K., Robinson, E. L., Welsh, W. F., & Hill, G. J. 2001, A&A, 379, 125
+Kukula, M. J., Dunlop, J. S., Hughes, D. H., & Rawlings, S. 1998,, MNRAS, 297, 366
+Laor, A., Baldi, R. D., & Behar, E. 2019,, MNRAS, 482, 5513
+Laor, A., & Behar, E. 2008,, MNRAS, 390, 847
+Liu, H. T., Feng, H. C., & Bai, J. M. 2017,, MNRAS, 466, 3323
+Liu, T., Wang, J.-X., Yang, H., Zhu, F.-F., & Zhou, Y.-Y. 2014,, ApJ, 783, 106
+Malzac, J., Merloni, A., & Fabian, A. C. 2004,, MNRAS, 351, 253
+Markoff, S., Nowak, M. A., & Wilms, J. 2005,, ApJ, 635, 1203
+Markowitz, A., & Edelson, R. 2004,, ApJ, 617, 939
+Mastroserio, G., Ingram, A., & van der Klis, M. 2020,, MNRAS, 498, 4971
+Mizumoto, M., Nomura, M., Done, C., Ohsuga, K., & Odaka, H. 2021,, MNRAS, 503, 1442
+Mundell, C. G., Ferruit, P., Nagar, N., & Wilson, A. S. 2009,, ApJ, 703, 802
+Nagar, N. M., Falcke, H., Wilson, A. S., & Ulvestad, J. S. 2002, A&A, 392, 53
+Panessa, F., Baldi, R. D., Laor, A., et al. 2019, Nature Astronomy, 3, 387
+Panessa, F., Barcons, X., Bassani, L., et al. 2007, astro-ph/0701546, astro-ph/0701546
+Panessa, F., & Giroletti, M. 2013,, MNRAS, 432, 1138
+Perez-Torres, M., Mattila, S., Alonso-Herrero, A., Aalto, S., & Efstathiou, A. 2021, A&ARv, 29, 2
+Porquet, D., Reeves, J. N., Grosso, N., Braito, V., & Lobban, A. 2021, arXiv e-prints, arXiv:2107.06733
+Raginski, I., & Laor, A. 2016,, MNRAS, 459, 2082
+Sanchez, P., Lira, P., Cartier, R., et al. 2017,, ApJ, 849, 110
+Terashima, Y., & Wilson, A. S. 2003,, ApJ, 583, 145
+Ulvestad, J. S., Wong, D. S., Taylor, G. B., Gallimore, J. F., & Mundell, C. G. 2005, AJ, 130, 936
+Vaughan, S., Edelson, R., Warwick, R. S., & Uttley, P. 2003,, MNRAS, 345, 1271
+Vincentelli, F. M., McHardy, I., Cackett, E. M., et al. 2021,, MNRAS, arXiv:2104.04530
+Williams, D. R. A., Baldi, R. D., McHardy, I. M., et al. 2020,, MNRAS, 495, 3079
+Woo, J.-H., Yoon, Y., Park, S., Park, D., & Kim, S. C. 2015,, ApJ, 801, 38
+Wrobel, J. M. 2000,, ApJ, 531, 716
+Zakamska, N. L., & Greene, J. E. 2014,, MNRAS, 442, 784

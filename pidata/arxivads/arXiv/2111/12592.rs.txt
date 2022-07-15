@@ -1,0 +1,73 @@
+Armentrout, W. P., Anderson, L. D., Balser, D. S., et al. 2017,, ApJ, 841, 121, doi: 10.3847/1538-4357/aa71a1
+Arnaud, K. A. 1996, in Astronomical Society of the Pacific Conference Series, Vol. 101, Astronomical Data Analysis Software and Systems V, ed. G. H. Jacoby & J. Barnes, 17
+Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33, doi: 10.1051/0004-6361/201322068
+Baluev, R. V. 2008,, MNRAS, 385, 1279, doi: 10.1111/j.1365-2966.2008.12689.x
+Barthelmy, S. D., Barbier, L. M., Cummings, J. R., et al. 2005, SSRv, 120, 143, doi: 10.1007/s11214-005-5096-3
+Bellm, E. C., Kulkarni, S. R., Graham, M. J., et al. 2019, PASP, 131, 018002, doi: 10.1088/1538-3873/aaecbe
+Benjamin, R. A., Churchwell, E., Babler, B. L., et al. 2003, PASP, 115, 953, doi: 10.1086/376696
+Bertin, E. 2006, in Astronomical Society of the Pacific Conference Series, Vol. 351, Astronomical Data Analysis Software and Systems XV, ed. C. Gabriel, C. Arviset, D. Ponz, & S. Enrique, 112
+Bertin, E. 2010, SWarp: Resampling and Co-adding FITS Images Together. http://ascl.net/1010.068
+Bertin, E., & Arnouts, S. 1996, A&AS, 117, 393, doi: 10.1051/aas:1996164
+Buccheri, R., Bennett, K., Bignami, G. F., et al. 1983, A&A, 128, 245
+Buckley, D. A. H., Swart, G. P., & Meiring, J. G. 2006, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 6267, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, ed. L. M. Stepp, 62670Z, doi: 10.1117/12.673750
+Burgh, E. B., Nordsieck, K. H., Kobulnicky, H. A., et al. 2003, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes, ed. M. Iye & A. F. M. Moorwood, 1463-1471, doi: 10.1117/12.460312
+Burrows, D. N., Hill, J. E., Nousek, J. A., et al. 2005, SSRv, 120, 165, doi: 10.1007/s11214-005-5097-2
+Casali, M., Adamson, A., Alves de Oliveira, C., et al. 2007, A&A, 467, 777, doi: 10.1051/0004-6361:20066514
+Cash, W. 1979,, ApJ, 228, 939, doi: 10.1086/156922
+Chambers, K. C., Magnier, E. A., Metcalfe, N., et al. 2016, arXiv e-prints, arXiv:1612.05560. https://arxiv.org/abs/1612.05560
+Chaty, S. 2011, in Astronomical Society of the Pacific Conference Series, Vol. 447, Evolution of Compact Binaries, ed. L. Schmidtobreick, M. R. Schreiber, & C. Tappert, 29. https://arxiv.org/abs/1107.0231
+Coe, M. J., Buckley, D. A. H., Fabregat, J., et al. 1997, A&AS, 126, 237, doi: 10.1051/aas:1997260
+Coleiro, A., & Chaty, S. 2013,, ApJ, 764, 185, doi: 10.1088/0004-637X/764/2/185
+Corbet, R. H. D. 1984, A&A, 141, 91
+--. 1986,, MNRAS, 220, 1047, doi: 10.1093/mnras/220.4.1047
+Corbet, R. H. D., Coley, J. B., & Krimm, H. A. 2017,, ApJ, 846, 161, doi: 10.3847/1538-4357/aa8638
+Dame, T. M., & Thaddeus, P. 2011, ApJL, 734, L24, doi: 10.1088/2041-8205/734/1/L24
+Dhillon, V. S., Marsh, T. R., Littlefair, S. P., et al. 2009,, MNRAS, 394, L112, doi: 10.1111/j.1745-3933.2009.00623.x
+Evans, P. A., Beardmore, A. P., Page, K. L., et al. 2009,, MNRAS, 397, 1177, doi: 10.1111/j.1365-2966.2009.14913.x
+Flewelling, H. A., Magnier, E. A., Chambers, K. C., et al. 2020,, ApJS, 251, 7, doi: 10.3847/1538-4365/abb82d
+Gehrels, N., Chincarini, G., Giommi, P., et al. 2004,, ApJ, 611, 1005, doi: 10.1086/422091
+Gendreau, K. C., Arzoumanian, Z., Adkins, P. W., et al. 2016, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9905, Space Telescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, ed. J.-W. A. den Herder, T. Takahashi, & M. Bautz, 99051H, doi: 10.1117/12.2231304
+Graham, M. J., Kulkarni, S. R., Bellm, E. C., et al. 2019, PASP, 131, 078001, doi: 10.1088/1538-3873/ab006c
+Grefenstette, B. W., Ludlam, R. M., Thompson, E. T., et al. 2021,, ApJ, 909, 30, doi: 10.3847/1538-4357/abe045
+Guver, T., & Ozel, F. 2009,, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
+Hambly, N. C., Collins, R. S., Cross, N. J. G., et al. 2008,, MNRAS, 384, 637, doi: 10.1111/j.1365-2966.2007.12700.x
+Harrison, F. A., Craig, W. W., Christensen, F. E., et al. 2013,, ApJ, 770, 103, doi: 10.1088/0004-637X/770/2/103
+Hewett, P. C., Warren, S. J., Leggett, S. K., & Hodgkin, S. T. 2006,, MNRAS, 367, 454, doi: 10.1111/j.1365-2966.2005.09969.x
+Huppenkothen, D., Bachetti, M., Stevens, A. L., et al. 2019,, ApJ, 881, 39, doi: 10.3847/1538-4357/ab258d
+Kalberla, P. M. W., Burton, W. B., Hartmann, D., et al. 2005, A&A, 440, 775, doi: 10.1051/0004-6361:20041864
+Karasev, D. I., Lutovinov, A. A., Revnivtsev, M. G., & Krivonos, R. A. 2012, Astronomy Letters, 38, 629, doi: 10.1134/S1063773712100039
+Kobulnicky, H. A., Nordsieck, K. H., Burgh, E. B., et al. 2003, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes, ed. M. Iye & A. F. M. Moorwood, 1634-1644, doi: 10.1117/12.460315
+Krimm, H. A., Kennea, J. A., Holland, S. T., et al. 2012, The Astronomer's Telegram, 3933, 1
+Krimm, H. A., Holland, S. T., Corbet, R. H. D., et al. 2013,, ApJS, 209, 14, doi: 10.1088/0067-0049/209/1/14
+Krivonos, R., Tsygankov, S., Revnivtsev, M., et al. 2010, A&A, 523, A61, doi: 10.1051/0004-6361/201014935
+La Parola, V., Cusumano, G., Segreto, A., et al. 2013, ApJL, 775, L24, doi: 10.1088/2041-8205/775/1/L24
+Lang, D., Hogg, D. W., Mierle, K., Blanton, M., & Roweis, S. 2010, AJ, 139, 1782, doi: 10.1088/0004-6256/139/5/1782
+Lawrence, A., Warren, S. J., Almaini, O., et al. 2007,, MNRAS, 379, 1599, doi: 10.1111/j.1365-2966.2007.12040.x
+Leahy, D. A., Darbro, W., Elsner, R. F., et al. 1983,, ApJ, 266, 160, doi: 10.1086/160766
+Liu, Q. Z., van Paradijs, J., & van den Heuvel, E. P. J. 2006, A&A, 455, 1165, doi: 10.1051/0004-6361:20064987
+Lutovinov, A., & Tsygankov, S. 2008, in American Institute of Physics Conference Series, Vol. 1054, Cool Discs, Hot Flows: The Varying Faces of Accreting Compact Objects, ed. M. Axelsson, 191-202, doi: 10.1063/1.3002502
+Lutovinov, A. A., Buckley, D. A. H., Townsend, L. J., Tsygankov, S. S., & Kennea, J. 2016,, MNRAS, 462, 3823, doi: 10.1093/mnras/stw1889
+Madsen, K. K., Grefenstette, B. W., Pike, S., et al. 2020, arXiv e-prints, arXiv:2005.00569. https://arxiv.org/abs/2005.00569
+Masci, F. J., Laher, R. R., Rusholme, B., et al. 2019, PASP, 131, 018003, doi: 10.1088/1538-3873/aae8ac
+Okazaki, A. T., & Negueruela, I. 2001, A&A, 377, 161, doi: 10.1051/0004-6361:20011083
+Papovich, C., Shipley, H. V., Mehrtens, N., et al. 2016,, ApJS, 224, 28, doi: 10.3847/0067-0049/224/2/28
+Press, W. H. 1978, Comments on Astrophysics, 7, 103
+Reig, P. 2007,, MNRAS, 377, 867, doi: 10.1111/j.1365-2966.2007.11657.x
+--. 2011, Ap&SS, 332, 1, doi: 10.1007/s10509-010-0575-8
+Reig, P., Blinov, D., Papadakis, I., Kylafis, N., & Tassis, K. 2014,, MNRAS, 445, 4235, doi: 10.1093/mnras/stu2322
+Reig, P., Stevens, J. B., Coe, M. J., & Fabregat, J. 1998,, MNRAS, 301, 42, doi: 10.1046/j.1365-8711.1998.01989.x
+Remillard, R. A., Loewenstein, M., Steiner, J. F., et al. 2021, arXiv e-prints, arXiv:2105.09901. https://arxiv.org/abs/2105.09901
+Rieke, G. H., & Lebofsky, M. J. 1985,, ApJ, 288, 618, doi: 10.1086/162827
+Riquelme, M. S., Torrejon, J. M., & Negueruela, I. 2012, A&A, 539, A114, doi: 10.1051/0004-6361/201117738
+Rivinius, T., Carciofi, A. C., & Martayan, C. 2013, A&A Rv, 21, 69, doi: 10.1007/s00159-013-0069-0
+Savage, B. D., & Mathis, J. S. 1979, ARA&A, 17, 73, doi: 10.1146/annurev.aa.17.090179.000445
+Scargle, J. D. 1982,, ApJ, 263, 835, doi: 10.1086/160554
+Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103, doi: 10.1088/0004-637X/737/2/103
+Smith, M. P., Nordsieck, K. H., Burgh, E. B., et al. 2006, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 6269, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, ed. I. S. McLean & M. Iye, 62692A, doi: 10.1117/12.672415
+Stetson, P. B. 1987, PASP, 99, 191, doi: 10.1086/131977
+--. 1994, PASP, 106, 250, doi: 10.1086/133378
+Titarchuk, L. 1994,, ApJ, 434, 570, doi: 10.1086/174760
+Tody, D. 1986, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 627, Instrumentation in astronomy VI, ed. D. L. Crawford, 733, doi: 10.1117/12.968154
+Toy, V. L., Cenko, S. B., Silverman, J. M., et al. 2016,, ApJ, 818, 79, doi: 10.3847/0004-637X/818/1/79
+Willingale, R., Starling, R. L. C., Beardmore, A. P., Tanvir, N. R., & O'Brien, P. T. 2013,, MNRAS, 431, 394, doi: 10.1093/mnras/stt175
+Wilms, J., Allen, A., & McCray, R. 2000,, ApJ, 542, 914, doi: 10.1086/317016

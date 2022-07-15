@@ -1,0 +1,50 @@
+Abohalima, A., & Frebel, A. 2018,, ApJS, 238, 36, doi: 10.3847/1538-4365/aadfe9
+Aoki, W., Beers, T. C., Christlieb, N., et al. 2007,, ApJ, 655, 492, doi: 10.1086/509817
+Armillotta, L., Krumholz, M. R., & Fujimoto, Y. 2018,, MNRAS, 481, 5000, doi: 10.1093/mnras/sty2625
+Audouze, J., & Silk, J. 1995, ApJL, 451, L49, doi: 10.1086/309687
+Beers, T. C., & Christlieb, N. 2005, ARA&A, 43, 531, doi: 10.1146/annurev.astro.42.053102.134057
+Bullock, J. S., Kravtsov, A. V., & Weinberg, D. H. 2001,, ApJ, 548, 33, doi: 10.1086/318681
+Cayrel, R., Depagne, E., Spite, M., et al. 2004, A&A, 416, 1117, doi: 10.1051/0004-6361:20034074
+Christensen, C. R., Dave, R., Brooks, A., Quinn, T., & Shen, S. 2018, doi: 10.3847/1538-4357/aae374
+Colbrook, M. J., Ma, X., Hopkins, P. F., & Squire, J. 2017,, MNRAS, 467, 2421, doi: 10.1093/mnras/stx261
+Dalcanton, J. J. 2007,, ApJ, 658, 941, doi: 10.1086/508913
+de Avillez, M. A., & Mac Low, M.-M. 2002,, ApJ, 581, 1047, doi: 10.1086/344256
+Draine, B. T. 2011, Physics of the Interstellar and Intergalactic Medium
+Eggen, O. J., Lynden-Bell, D., & Sandage, A. R. 1962,, ApJ, 136, 748, doi: 10.1086/147433
+Elmegreen, B. G. 1998, in Astronomical Society of the Pacific Conference Series, Vol. 147, Abundance Profiles: Diagnostic Tools for Galaxy History, ed. D. Friedli, M. Edmunds, C. Robert, & L. Drissen, 278. https://arxiv.org/abs/astro-ph/9712354
+Elmegreen, B. G., & Scalo, J. 2004, ARA&A, 42, 211, doi: 10.1146/annurev.astro.41.011802.094859
+Few, C. G., Courty, S., Gibson, B. K., Michel-Dansac, L., & Calura, F. 2014,, MNRAS, 444, 3845, doi: 10.1093/mnras/stu1709
+Fielding, D., Quataert, E., Martizzi, D., & Faucher-Giguere, C.-A. 2017, 5, 1, doi: 10.1093/mnrasl/slx072
+Fragile, P. C., Murray, S. D., Anninos, P., & Lin, D. N. C. 2003, The Astrophysical Journal, 590, 778a A S790, doi: 10.1086/375183
+Frebel, A. 2010, Astronomische Nachrichten, 331, 474, doi: 10.1002/asna.201011362
+Frebel, A., & Norris, J. E. 2015, Annual Review of Astronomy and Astrophysics, 53, 631, doi: 10.1146/annurev-astro-082214-122423
+Gilmore, G., Randich, S., Asplund, M., et al. 2012, The Messenger, 147, 25
+Johnston, K. V., Bullock, J. S., Sharma, S., et al. 2008,, ApJ, 689, 936, doi: 10.1086/592228
+Karlsson, T., Bromm, V., & Bland-Hawthorn, J. 2013, Reviews of Modern Physics, 85, 809, doi: 10.1103/RevModPhys.85.809
+Karpov, P. I., Martizzi, D., Macias, P., et al. 2020,, ApJ, 896, 66, doi: 10.3847/1538-4357/ab8f23
+Kobayashi, C., Umeda, H., Nomoto, K., Tominaga, N., & Ohkubo, T. 2006, The Astrophysical Journal, 653, 1145, doi: 10.1086/508914
+Krumholz, M. R., & Ting, Y.-s. 2018, Monthly Notices of the Royal Astronomical Society, 475, 2236, doi: 10.1093/mnras/stx3286
+Mac Low, M.-M., & Ferrara, A. 1999,, ApJ, 513, 142, doi: 10.1086/306832
+Macias, P., & Ramirez-Ruiz, E. 2018, The Astrophysical Journal, 860, 89, doi: 10.3847/1538-4357/aac3e0
+Mackey, J., Bromm, V., & Hernquist, L. 2003,, ApJ, 586, 1, doi: 10.1086/367613
+Martizzi, D., Faucher-Giguere, C. A., & Quataert, E. 2015, Monthly Notices of the Royal Astronomical Society, 450, 504, doi: 10.1093/mnras/stv562
+Martizzi, D., Fielding, D., Faucher-Giguere, C. A., & Quataert, E. 2016, Monthly Notices of the Royal Astronomical Society, 459, 2311, doi: 10.1093/mnras/stw745
+Naiman, J. P., Pillepich, A., Springel, V., et al. 2018,, MNRAS, 477, 1206, doi: 10.1093/mnras/sty618
+Nomoto, K., Kobayashi, C., & Tominaga, N. 2013, Annual Review of Astronomy and Astrophysics, 51, 457, doi: 10.1146/annurev-astro-082812-140956
+Pan, L., & Scannapieco, E. 2010,, ApJ, 721, 1765, doi: 10.1088/0004-637X/721/2/1765
+Pan, L., Scannapieco, E., & Scalo, J. 2013, The Astrophysical Journal, 775, 34, doi: 10.1088/0004-637X/775/2/111
+Petit, A. C., Krumholz, M. R., Goldbaum, N. J., & Forbes, J. C. 2015, Monthly Notices of the Royal Astronomical Society, 449, 2588, doi: 10.1093/mnras/stv493
+Robertson, B., Bullock, J. S., Font, A. S., Johnston, K. V., & Hernquist, L. 2005,, ApJ, 632, 872, doi: 10.1086/452619
+Roederer, I. U., Hattori, K., & Valluri, M. 2018, AJ, 156, 179, doi: 10.3847/1538-3881/aadd9c
+Roederer, I. U., Preston, G. W., Thompson, I. B., et al. 2014, Astronomical Journal, 147, doi: 10.1088/0004-6256/147/6/136
+Ryan, S. G., Norris, J. E., & Beers, T. C. 1996,, ApJ, 471, 254, doi: 10.1086/177967
+Santistevan, I. B., Wetzel, A., Sanderson, R. E., et al. 2021,, MNRAS, 505, 921, doi: 10.1093/mnras/stab1345
+Scalo, J., & Elmegreen, B. G. 2004, ARA&A, 42, 275, doi: 10.1146/annurev.astro.42.120403.143327
+Searle, L., & Zinn, R. 1978,, ApJ, 225, 357, doi: 10.1086/156499
+Shen, S., Cooke, R. J., Ramirez-Ruiz, E., et al. 2015, Astrophysical Journal, 807, 115, doi: 10.1088/0004-637X/807/2/115
+Shen, S., Kulkarni, G., Madau, P., & Mayer, L. 2017,, MNRAS, 469, 4012, doi: 10.1093/mnras/stx1094
+Teyssier, R. 2002, Astronomy & Astrophysics, 385, 337
+van Dokkum, P. G., Leja, J., Nelson, E. J., et al. 2013, ApJL, 771, L35, doi: 10.1088/2041-8205/771/2/L35
+Wang, Y., Nadler, E. O., Mao, Y.-Y., et al. 2021, arXiv e-prints, arXiv:2102.11876. https://arxiv.org/abs/2102.11876
+Welsh, L., Cooke, R., & Fumagalli, M. 2021,, MNRAS, 500, 5214, doi: 10.1093/mnras/staa3342
+Yang, C. C., & Krumholz, M. 2012, Astrophysical Journal, 758, 1, doi: 10.1088/0004-637X/758/1/48

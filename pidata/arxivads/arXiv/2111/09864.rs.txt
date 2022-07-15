@@ -1,0 +1,29 @@
+Kienberger, R. et al. Atomic transient recorder. "Nature" 427, 817-821, DOI: 10.1038/nature02277 (2004).
+Sommer, A. et al. Attosecond nonlinear polarization and light-matter energy transfer in solids. "Nature" 534, 86-90, DOI: 10.1038/nature17650 (2016).
+Hohenleutner, M. et al. Real-time observation of interfering crystal electrons in high-harmonic generation. "Nature" 523, 572-575, DOI: 10.1038/nature14652 (2015).
+Kuehn, W. et al. Coherent ballistic motion of electrons in a periodic potential. "Phys. Rev. Lett." 104, 146602, DOI: 10.1103/PhysRevLett.104.146602 (2010).
+Gaal, P. et al. Internal motions of a quasiparticle governing its ultrafast nonlinear response. "Nature" 450, 1210-1213, DOI: 10.1038/nature06399 (2007).
+Ulbricht, R., Hendry, E., Shan, J., Heinz, T. F. & Bonn, M. Carrier dynamics in semiconductors studied with time-resolved terahertz spectroscopy. "Rev. Mod. Physics" 83, 543-586, DOI: 10.1103/revmodphys.83.543 (2011).
+Schlaepfer, F. et al. Attosecond optical-field-enhanced carrier injection into the gaas conduction band. "Nat. Physics" 14, 560-564, DOI: 10.1038/s41567-018-0069-0 (2018).
+Kowalewski, M., Bennett, K., Rouxel, J. R. & Mukamel, S. Monitoring nonadiabatic electron-nuclear dynamics in molecules by attosecond streaking of photoelectrons. "Phys. Rev. Lett." 117, 043201, DOI: 10.1103/PhysRevLett.117.043201 (2016).
+Huber, M. et al. Stability of person-specific blood-based infrared molecular fingerprints opens up prospects for health monitoring. "Nat. Commun. 12, DOI: 10.1038/s41467-021-21668-5 (2021).
+Pupeza, I. et al. Field-resolved infrared spectroscopy of biological systems. "Nature" 577, 52-59, DOI: 10.1038/s41586-019-1850-7 (2020).
+Hentschel, M. et al. Attosecond metrology. "Nature" 414, 509-513, DOI: 10.1038/35107000 (2001).
+Itatani, J. et al. Attosecond streak camera. "Phys. Rev. Lett." 88, 173903, DOI: 10.1103/PhysRevLett.88.173903 (2002).
+Goulielmakis, E. et al. Direct measurement of light waves. "Science" 305, 1267-1269, DOI: 10.1126/science.1100866 (2004). https://science.sciencemag.org/content/305/5688/1267.full.pdf.
+Thunich, S., Ruppert, C., Holleitner, A. W. & Betz, M. Field-resolved characterization of femtosecond electromagnetic pulses with 400 thz bandwidth. "Opt. Lett." 36, 1791-1793, DOI: 10.1364/OL.36.001791 (2011).
+Schiffrin, A. et al. Optical-field-induced current in dielectrics. "Nature" 493, 70-74, DOI: 10.1038/nature11567 (2012).
+Park, S. B. et al. Direct sampling of a light wave in air. "Optica" 5, 402-408, DOI: 10.1364/OPTICA.5.000402 (2018).
+Kubullek, M. et al. Single-shot carrier-envelope-phase measurement in ambient air. "Optica" 7, 35, DOI: 10.1364/optica.7.000035 (2020).
+Sederberg, S. et al. Attosecond optoelectronic field measurement in solids. "Nat. Commun. 11, 430, DOI: 10.1038/s41467-019-14268-x (2020).
+Zimin, D. et al. Petahertz-scale nonlinear photoconductive sampling in air. "Optica" 8, 586, DOI: 10.1364/optica.411434 (2021).
+Kim, K. T. et al. Petahertz optical oscilloscope. "Nat. Photonics" 7, 958-962, DOI: 10.1038/nphoton.2013.286 (2013).
+Wyatt, A. S. et al. Attosecond sampling of arbitrary optical waveforms. "Optica" 3, 303-310, DOI: 10.1364/OPTICA.3.000303 (2016).
+Carpeggiani, P. et al. Vectorial optical field reconstruction by attosecond spatial interferometry. "Nat. Photonics" 11, 383-389, DOI: 10.1038/nphoton.2017.73 (2017).
+Leitenstorfer, A., Hunsche, S., Shah, J., Nuss, M. C. & Knox, W. H. Detectors and sources for ultrabroadband electro-optic sampling: Experiment and theory. "Appl. Phys. Lett. 74, 1516-1518, DOI: 10.1063/1.123601 (1999).
+Keiber, S. et al. Electro-optic sampling of near-infrared waveforms. "Nat. Photonics" 10, 159-162, DOI: 10.1038/nphoton.2015.269 (2016).
+Karpowicz, N. et al. Coherent heterodyne time-domain spectrometry covering the entire "terahertz gap". "Appl. Phys. Lett. 92, 011131, DOI: 10.1063/1.2828709 (2008). https://aip.scitation.org/doi/pdf/10.1063/1.2828709.
+Dai, J., Xie, X. & Zhang, X.-C. Detection of broadband terahertz waves with a laser-induced plasma in gases. "Phys. Rev. Lett. 97, DOI: 10.1103/physrevlett.97.103903 (2006).
+Riek, C. et al. Direct sampling of electric-field vacuum fluctuations. "Science" 350, 420-423, DOI: 10.1126/science.aac9788 (2015). https://science.sciencemag.org/content/350/6259/420.full.pdf.
+Porer, M., Menard, J.-M. & Huber, R. Shot noise reduced terahertz detection via spectrally postfiltered electro-optic sampling. "Opt. Lett." 39, 2435-2438, DOI: 10.1364/OL.39.002435 (2014).
+Hassan, M. T. et al. Optical attosecond pulses and tracking the nonlinear response of bound electrons. "Nature" 530, 66-70, DOI: 10.1038/nature16528 (2016).

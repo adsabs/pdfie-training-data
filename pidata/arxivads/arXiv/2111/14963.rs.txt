@@ -1,0 +1,119 @@
+Adhikari, T. P., Hryniewicz, K., Rozanska, A., Czerny, B., & Ferland, G. J. 2018,, ApJ, 856, 78
+Adhikari, T. P., Rozanska, A., Czerny, B., Hryniewicz, K., & Ferland, G. J. 2016a,, ApJ, 831, 68
+Adhikari, T. P., Rozanska, A., Czerny, B., Hryniewicz, K., & Ferland, G. J. 2016b,, ApJ, 831, 68
+Antonucci, R. 1993, ARA&A, 31, 473
+Antonucci, R. R. J. & Miller, J. S. 1985,, ApJ, 297, 621
+Arav, N., Barlow, T. A., Laor, A., Sargent, W. L. W., & Blandford, R. D. 1998,, MNRAS, 297, 990
+Artymowicz, P. 1993, PASP, 105, 1032
+Artymowicz, P., Lin, D. N. C., & Wampler, E. J. 1993,, ApJ, 409, 592
+Baldwin, J. A. 1997, in Astronomical Society of the Pacific Conference Series, Vol. 113, IAU Colloq. 159: Emission Lines in Active Galaxies: New Methods and Techniques, ed. B. M. Peterson, F.-Z. Cheng, & A. S. Wilson, 80
+Baskin, A. & Laor, A. 2018,, MNRAS, 474, 1970
+Begelman, M. C. & McKee, C. F. 1990,, ApJ, 358, 375
+Bentz, M. C., Denney, K. D., Grier, C. J., et al. 2013,, ApJ, 767, 149
+Bentz, M. C., Walsh, J. L., Barth, A. J., et al. 2009,, ApJ, 705, 199
+Blandford, R. D. & McKee, C. F. 1982,, ApJ, 255, 419
+Blandford, R. D., Netzer, H., Woltjer, L., Courvoisier, T. J. L., & Mayor, M. 1990, in Active Galactic Nuclei
+Boroson, T. A. & Green, R. F. 1992,, ApJS, 80, 109
+Capetti, A., Laor, A., Baldi, R. D., Robinson, A., & Marconi, A. 2021,, MNRAS, 502, 5086
+Castro, C. S., Dors, O. L., Cardaci, M. V., & Hagele, G. F. 2017,, MNRAS, 467, 1507
+Collin, S., Kawaguchi, T., Peterson, B. M., & Vestergaard, M. 2006, A&A, 456, 75
+Collin-Souffrin, S., Dyson, J. E., McDowell, J. C., & Perry, J. J. 1988,, MNRAS, 232, 539
+Czerny, B., Du, P., Wang, J.-M., & Karas, V. 2016,, ApJ, 832, 15
+Czerny, B. & Hryniewicz, K. 2011, A&A, 525, L8
+Czerny, B., Li, Y.-R., Hryniewicz, K., et al. 2017,, ApJ, 846, 154
+Dietrich, M., Hamann, F., Shields, J. C., et al. 2003,, ApJ, 589, 722
+Dong, X., Wang, T., Wang, J., et al. 2008,, MNRAS, 383, 581
+Du, P., Lu, K.-X., Zhang, Z.-X., et al. 2016,, ApJ, 825, 126
+Du, P., Wang, J.-M., Hu, C., et al. 2014,, MNRAS, 438, 2828
+Dyda, S. & Proga, D. 2018,, MNRAS, 475, 3786
+Elvis, M. 2000,, ApJ, 545, 63
+Esparza Arredondo, D., Gonzalez Martin, O., Dultzin, D., et al. 2021, arXiv e-prints, arXiv:2104.11263
+Ferland, G. J., Baldwin, J. A., Korista, K. T., et al. 1996,, ApJ, 461, 683
+Field, G. B. 1965,, ApJ, 142, 531
+Ganguly, S., Proga, D., Waters, T., et al. 2021,, ApJ, 914, 114
+Gaskell, C. M. 2009, New A Rev., 53, 140
+gezari, S., Halpern, J. P., & Eracleous, M. 2007,, ApJS, 169, 167
+Giustini, M. & Proga, D. 2021, in Nuclear Activity in Galaxies Across Cosmic Time, ed. M. Povic, P. Marziani, J. Masegosa, H. Netzer, S. H. Negu, & S. B. Tessema, Vol. 356, 82-86
+Goad, M. R., Korista, K. T., & Ruff, A. J. 2012,, MNRAS, 426, 3086
+Gravity Collaboration, Amorim, A., Baubock, M., et al. 2021, A&A, 648, A117
+Gravity Collaboration, Amorim, A., Baubock, M., et al. 2020a, A&A, 643, A154
+Gravity Collaboration, Dexter, J., Shangguan, J., et al. 2020b, A&A, 635, A92
+Gravity Collaboration, Sturm, E., Dexter, J., et al. 2018a,, Nature, 563, 657
+Gravity Collaboration, Sturm, E., Dexter, J., et al. 2018b,, Nature, 563, 657
+Grier, C. J., Peterson, B. M., Horne, K., et al. 2013,, ApJ, 764, 47
+Guerras, E., Mediavilla, E., Jimenez-Vicente, J., et al. 2013,, ApJ, 764, 160
+Hamann, F. 1997,, ApJS, 109, 279
+Hamann, F. & Ferland, G. 1992,, ApJ, 391, L53
+Hernan-Caballero, A., Hatziminaoglou, E., Alonso-Herrero, A., & Mateos, S. 2016,, MNRAS, 463, 2064
+Horne, K., Welsh, W. F., & Peterson, B. M. 1991,, ApJ, 367, L5
+Ilic, D., Popovic, L. C., La Mura, G., Ciroi, S., & Rafanelli, P. 2012, A&A, 543, A142
+Kaspi, S., Smith, P. S., Netzer, H., et al. 2000,, ApJ, 533, 631
+King, A. R. 2010,, MNRAS, 402, 1516
+Kovacevic-Dojcinovic, J. & Popovic, L. C. 2015,, ApJS, 221, 35
+Krolik, J. H. & Done, C. 1995,, ApJ, 440, 166
+Krolik, J. H., McKee, C. F., & Tarter, C. B. 1981,, ApJ, 249, 422
+Lawrence, A., Elvis, M., Wilkes, B. J., McHardy, I., & Brandt, N. 1997,, MNRAS, 285, 879
+Le, H. A. N. & Woo, J.-H. 2019,, ApJ, 887, 236
+Li, S.-S., Yang, S., Yang, Z.-X., et al. 2021,, ApJ, 920, 9
+Li, Y.-R., Wang, J.-M., & Bai, J.-M. 2016,, ApJ, 831, 206
+Li, Y.-R., Wang, J.-M., Ho, L. C., Du, P., & Bai, J.-M. 2013,, ApJ, 779, 110
+Lira, P., Goosmann, R. W., Kishimoto, M., & Cartier, R. 2020,, MNRAS, 491, 1
+Loska, Z., Czerny, B., & Szczerba, R. 2004,, MNRAS, 355, 1080
+Lu, K.-X., Wang, J.-G., Zhang, Z.-X., et al. 2021,, ApJ, 918, 50
+Marziani, P., Sulentic, J. W., Zamanov, R., et al. 2003,, ApJS, 145, 199
+Mathis, J. S., Rumpl, W., & Nordsieck, K. H. 1977,, ApJ, 217, 425
+Matteucci, F. & Padovani, P. 1993,, ApJ, 419, 485
+McCourt, M., O'Leary, R. M., Madigan, A.-M., & Quataert, E. 2015,, MNRAS, 449, 2
+Mizumoto, M., Done, C., Tomaru, R., & Edwards, I. 2019,, MNRAS, 489, 1152
+Muller, A. L., Naddaf, M.-H., Zajacek, M., et al. 2022, arXiv e-prints, arXiv:2204.05361
+Murray, N., Chiang, J., Grossman, S. A., & Voit, G. M. 1995,, ApJ, 451, 498
+Naddaf, M.-H., Czerny, B., & Szczerba, R. 2020, Frontiers in Astronomy and Space Sciences, 7, 15
+Naddaf, M.-H., Czerny, B., & Szczerba, R. 2021,, ApJ, 920, 30
+Negrete, C. A., Dultzin, D., Marziani, P., et al. 2018, A&A, 620, A118
+Netzer, H. 2013, The Physics and Evolution of Active Galactic Nuclei (Cambridge, UK: Cambridge University Press)
+Netzer, H. 2015, ARA&A, 53, 365
+Netzer, H. 2020,, MNRAS, 494, 1611
+Netzer, H. & Laor, A. 1993,, ApJ, 404, L51
+Osterbrock, D. E. 1977,, ApJ, 215, 733
+Osterbrock, D. E. 1981,, ApJ, 249, 462
+Pancoast, A., Brewer, B. J., & Treu, T. 2011,, ApJ, 730, 139
+Pancoast, A., Brewer, B. J., & Treu, T. 2014,, MNRAS, 445, 3055
+Panda, S. 2021, A&A, 650, A154
+Panda, S., Czerny, B., Adhikari, T. P., et al. 2018,, ApJ, 866, 115
+Peterson, B. M., Ferrarese, L., Gilbert, K. M., et al. 2004,, ApJ, 613, 682
+Popovic, L. C., Kovacevic-Dojcinovic, J., & Marceta-Mandic, S. 2019,, MNRAS, 484, 3180
+Popovic, L. C., Shablovinskaya, E., & Savic, D. 2021, arXiv e-prints, arXiv:2111.06237
+Pounds, K. A., Done, C., & Osborne, J. P. 1995,, MNRAS, 277, L5
+Proga, D. & Kallman, T. R. 2004,, ApJ, 616, 688
+Proga, D., Stone, J. M., & Kallman, T. R. 2000,, ApJ, 543, 686
+Quera-Bofarull, A., Done, C., Lacey, C. G., Nomura, M., & Ohsuga, K. 2021, arXiv e-prints, arXiv:2111.02742
+Raimundo, S. I., Vestergaard, M., Goad, M. R., et al. 2020,, MNRAS, 493, 1227
+Ramos Almeida, C. & Ricci, C. 2017, Nature Astronomy, 1, 679
+Rees, M. J., Silk, J. I., Werner, M. W., & Wickramasinghe, N. C. 1969,, Nature, 223, 788
+Reeves, J. N. & Turner, M. J. L. 2000,, MNRAS, 316, 234
+Risaliti, G. & Elvis, M. 2010, A&A, 516, A89
+Rollig, M., Szczerba, R., Ossenkopf, V., & Gluck, C. 2013, A&A, 549, A85
+Rozanska, A. & Czerny, B. 2000,, MNRAS, 316, 473
+Rozanska, A., Czerny, B., Zycki, P. T., & Pojmanski, G. 1999,, MNRAS, 305, 481
+Rozanska, A., Goosmann, R., Dumont, A. M., & Czerny, B. 2006, A&A, 452, 1
+Rybicki, G. B. & Lightman, A. P. 1986, Radiative Processes in Astrophysics (Wiley-VCH)
+Shakura, N. I. & Sunyaev, R. A. 1973, A&A, 500, 33
+Shangguan, J., Ho, L. C., & Xie, Y. 2018,, ApJ, 854, 158
+Shen, Y., Richards, G. T., Strauss, M. A., et al. 2011, ApJs, 194, 45
+Shlosman, I., Vitello, P. A., & Shaviv, G. 1985,, ApJ, 294, 96
+Sluse, D., Hutsemekers, D., Courbin, F., Meylan, G., & Wambsganss, J. 2012, A&A, 544, A62
+Smith, J. E., Robinson, A., Alexander, D. M., et al. 2004,, MNRAS, 350, 140
+Smith, J. E., Robinson, A., Young, S., Axon, D. J., & Corbett, E. A. 2005,, MNRAS, 359, 846
+Sniegowska, M., Marziani, P., Czerny, B., et al. 2020, arXiv e-prints, arXiv:2009.14177
+Sulentic, J. W., Marziani, P., & Dultzin-Hacyan, D. 2000, ARA&A, 38, 521
+Szczerba, R., Omont, A., Volk, K., Cox, P., & Kwok, S. 1997, A&A, 317, 859
+Vanden Berk, D. E., Richards, G. T., Bauer, A., et al. 2001, AJ, 122, 549
+Voit, G. M. 1992,, MNRAS, 258, 841
+Wandel, A., Peterson, B. M., & Malkan, M. A. 1999,, ApJ, 526, 579
+Wang, J.-M., Qiu, J., Du, P., & Ho, L. C. 2014,, ApJ, 797, 65
+Ward, R. L., Wadsley, J., & Sills, A. 2014,, MNRAS, 445, 1575
+Warner, C., Hamann, F., Shields, J. C., et al. 2002,, ApJ, 567, 68
+Waters, T., Kashi, A., Proga, D., et al. 2016,, ApJ, 827, 53
+Waters, T., Proga, D., & Dannen, R. 2021,, ApJ, 914, 62
+Xu, F., Bian, F., Shen, Y., et al. 2018,, MNRAS, 480, 345
+Zhang, Z.-X., Du, P., Smith, P. S., et al. 2019,, ApJ, 876, 49

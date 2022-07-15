@@ -1,0 +1,44 @@
+Abbott, B. P., et al. 2016, Phys. Rev. Lett., 116, 061102, doi: 10.1103/PhysRevLett.116.061102
+Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2017, Phys. Rev. Lett., 119, 161101, doi: 10.1103/PhysRevLett.119.161101
+Arnett, W. D., Schramm, D. N., & Truran, J. W. 1989, ApJL, 339, L25, doi: 10.1086/185411
+Bernardeau, F. 1999, in NATO Advanced Study Institute (ASI) Series C, Vol. 541, Theoretical and Observational Cosmology, ed. M. Lachieze-Rey, 179. https://arxiv.org/abs/astro-ph/9901117
+Biesiada, M., Ding, X., Pirkowska, A., & Zhu, Z.-H. 2014, Journal of Cosmology and Astroparticle Physics, 2014, 080080, doi: 10.1088/1475-7516/2014/10/080
+Broadhurst, T., Diego, J. M., & Smoot, George F., I. 2019, arXiv e-prints, arXiv:1901.03190. https://arxiv.org/abs/1901.03190
+Cao, S., Biesiada, M., Gavazzi, R., Pirkowska, A., & Zhu, Z.-H. 2015, The Astrophysical Journal, 806, 185, doi: 10.1088/0004-637x/806/2/185
+Cao, S., Biesiada, M., Yao, M., & Zhu, Z.-H. 2016,, MNRAS, 461, 2192, doi: 10.1093/mnras/stw932
+Christian, P., Vitale, S., & Loeb, A. 2018, PhRvD, 98, 103022, doi: 10.1103/PhysRevD.98.103022
+Collaboration, T. L. S., the Virgo Collaboration, Abbott, R., et al. 2021, Search for lensing signatures in the gravitational-wave observations from the first half of LIGO-Virgo's third observing run. https://arxiv.org/abs/2105.06384
+Ding, X., Biesiada, M., & Zhu, Z.-H. 2015, JCAP, 2015, 006, doi: 10.1088/1475-7516/2015/12/006
+Dwyer, S., Sigg, D., Ballmer, S. W., et al. 2015, Phys. Rev. D, 91, 082001, doi: 10.1103/PhysRevD.91.082001
+Fiziev, P. P. 2006, IOP Publishing, 23, 2447, doi: 10.1088/0264-9381/23/7/015
+Hongsheng, Z., & Xilong, F. 2021, Sci. China Phys. Mech. Astron., 64, 120462, doi: 10.1007/s11433-021-1764-y
+Hou, S., Fan, X.-L., Liao, K., & Zhu, Z.-H. 2020, Phys. Rev. D, 101, 064011, doi: 10.1103/PhysRevD.101.064011
+Hou, S., Li, P., Yu, H., et al. 2021, PhRvD, 103, 044005, doi: 10.1103/PhysRevD.103.044005
+Husa, S. 2009, General Relativity and Gravitation, 41, 1667, doi: 10.1007/s10714-009-0762-5
+Jaranowski, P., & Krolak, A. 2009, Analysis of Gravitational-Wave Data (Cambridge University Press)
+Jung, S., & Shin, C. S. 2019, PhRvL, 122, 041103, doi: 10.1103/PhysRevLett.122.041103
+Kayser, R., Refsdal, S., & Stabell, R. 1986, A&A, 166, 36
+Kelly, P. L., Rodney, S. A., Treu, T., et al. 2016, The Astrophysical Journal, 819, L8, doi: 10.3847/2041-8205/819/1/l8
+Lai, K.-H., Hannuksela, O. A., Herrera-Mart in, A., et al. 2018, PhRvD, 98, 083005, doi: 10.1103/PhysRevD.98.083005
+Liao, K., Biesiada, M., & Fan, X.-L. 2019, American Astronomical Society, 875, 139, doi: 10.3847/1538-4357/ab1087
+Liao, K., Fan, X.-L., Ding, X., Biesiada, M., & Zhu, Z.-H. 2017, Nature Communications, 8, 1148, doi: 10.1038/s41467-017-01152-9
+Liu, T., Cao, S., Zhang, J., et al. 2020, Monthly Notices of the Royal Astronomical Society, 496, 708, doi: 10.1093/mnras/staa1539
+Nakamura, T. T. 1998, Phys. Rev. Lett., 80, 1138, doi: 10.1103/PhysRevLett.80.1138
+Nambu, Y., Noda, S., & Sakai, Y. 2019, Physical Review D, 100, doi: 10.1103/physrevd.100.064037
+Narayan, R., & Bartelmann, M. 1996, arXiv e-prints, astro. https://arxiv.org/abs/astro-ph/9606001
+Narayan, R., & Ostriker, J. P. 1990,, ApJ, 352, 222, doi: 10.1086/168529
+Ng, K. K. Y., Wong, K. W. K., Broadhurst, T., & Li, T. G. F. 2018, Phys. Rev. D, 97, 023012, doi: 10.1103/PhysRevD.97.023012
+Oguri, M. 2019, Reports on Progress in Physics, 82, 126901, doi: 10.1088/1361-6633/ab4fc5
+Paczynski, B. 1986,, ApJ, 304, 1, doi: 10.1086/164140
+--. 1991, ApJL, 371, L63, doi: 10.1086/186003
+--. 1994, AcA, 44, 235. https://arxiv.org/abs/astro-ph/9407096
+Pietrukowicz, P., Minniti, D., Jetzer, P., Alonso-Garc ia, J., & Udalski, A. 2011, American Astronomical Society, 744, L18, doi: 10.1088/2041-8205/744/2/l18
+Piorkowska-Kurpas, A., Hou, S., Biesiada, M., et al. 2021, Astrophys. J, 908, 196, doi: 10.3847/1538-4357/abd482
+Punturo, M., & et al. 2010, IOP Publishing, 27, 194002, doi: 10.1088/0264-9381/27/19/194002
+Regge, T., & Wheeler, J. A. 1957, Phys. Rev., 108, 1063, doi: 10.1103/PhysRev.108.1063
+Schneider, P., Ehlers, J., & Falco, E. E. 1992, Gravitational Lenses (Springer), doi: 10.1007/978-3-662-03758-4
+Smith, G. P., Berry, C., Bianconi, M., et al. 2017, Proceedings of the International Astronomical Union, 13, 98102, doi: 10.1017/s1743921318003757
+Takahashi, R., & Nakamura, T. 2003, Astrophys. J, 595, 1039, doi: 10.1086/377430
+Treu, T., & Koopmans, L. V. E. 2004, Astrophys. J, 611, 739, doi: 10.1086/422245
+Treu, T., Koopmans, L. V. E., Bolton, A. S., Burles, S., & Moustakas, L. A. 2006,, ApJ, 650, 1219, doi: 10.1086/507024
+Yang, L., Ding, X., Biesiada, M., Liao, K., & Zhu, Z.-H. 2019, American Astronomical Society, 874, 139, doi: 10.3847/1538-4357/ab095c

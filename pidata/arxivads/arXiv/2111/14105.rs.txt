@@ -1,0 +1,45 @@
+A. A. Vikhlinin, A. V. Kravtsov, M. L. Markevich, R. A. Sunyaev, and E. M. Churazov, Physics Uspekhi 57, 317-341 (2014).
+A. V. Kravtsov and S. Borgani, Ann. Rev. Astron. Astrophys. 50, 353 (2012), 1205.5556.
+S. W. Allen, A. E. Evrard, and A. B. Mantz, Ann. Rev. Astron. Astrophys. 49, 409 (2011), 1103.4829.
+S. Desai, Physics Letters B 778, 325 (2018), 1708.06502.
+K. Bora and S. Desai, JCAP 2021, 012 (2021), 2008.10541.
+I. E. C. R. Mendonca, K. Bora, R. F. L. Holanda, S. Desai, and S. H. Pereira, JCAP 2021, 034 (2021), 2109.14512.
+A. Vikhlinin, A. V. Kravtsov, R. A. Burenin, H. Ebeling, W. R. Forman, A. Hornstrup, C. Jones, S. S. Murray, D. Nagai, H. Quintana, et al., Astrophys. J. 692, 1060 (2009), 0812.2720.
+E. Rozo, R. H. Wechsler, E. S. Rykoff, J. T. Annis, M. R. Becker, A. E. Evrard, J. A. Frieman, S. M. Hansen, J. Hao, D. E. Johnston, et al., Astrophys. J. 708, 645 (2010), 0902.3702.
+A. B. Mantz, S. W. Allen, R. G. Morris, D. A. Rapetti, D. E. Applegate, P. L. Kelly, A. von der Linden, and R. W. Schmidt, Mon. Not. R. Astron. Soc. 440, 2077 (2014), 1402.6212.
+S. Bocquet, A. Saro, J. J. Mohr, K. A. Aird, M. L. N. Ashby, M. Bautz, M. Bayliss, G. Bazin, B. A. Benson, L. E. Bleem, et al., Astrophys. J. 799, 214 (2015), 1407.2942.
+P. A. R. Ade et al. (Planck), Astron. Astrophys. 571, A20 (2014), 1303.5080.
+S. Ettori, A. Donnarumma, E. Pointecouteau, T. H. Reiprich, S. Giodini, L. Lovisari, and R. W. Schmidt, Space Science Reviews 177, 119 (2013), 1303.3530.
+M. Sereno and S. Ettori, Mon. Not. R. Astron. Soc. 450, 3633 (2015), 1407.7868.
+L. Lovisari, S. Ettori, M. Sereno, G. Schellenberger, W. R. Forman, F. Andrade-Santos, and C. Jones, Astron. & Astrophys. 644, A78 (2020), 2010.03582.
+X. Shi, E. Komatsu, D. Nagai, and E. T. Lau, Mon. Not. R. Astron. Soc. 455, 2936 (2016), 1507.04338.
+N. Ota, D. Nagai, and E. T. Lau, PASJ 70, 51 (2018), 1507.02730.
+G. Gianfagna, M. De Petris, G. Yepes, F. De Luca, F. Sembolini, W. Cui, V. Biffi, F. Keruzore, J. Mac ias-Perez, F. Mayet, et al., Mon. Not. R. Astron. Soc. 502, 5115 (2021), 2010.03634.
+Y. Tian, K. Umetsu, C.-M. Ko, M. Donahue, and I. N. Chiu, Astrophys. J. 896, 70 (2020), 2001.08340.
+S. Pradyumna, S. Gupta, S. Seeram, and S. Desai, Physics of the Dark Universe 31, 100765 (2021), 2011.06421.
+K. Gopika and S. Desai, Physics of the Dark Universe 30, 100707 (2020), 2006.12320.
+T. M. Nieuwenhuizen, Fortschritte der Physik 65, 201600050 (2017), 1610.01543.
+T. M. Nieuwenhuizen, M. Limousin, and A. Morandi, European Physical Journal Special Topics 230, 1137 (2021).
+T. M. Nieuwenhuizen, Fluctuation and Noise Letters 19, 2050016-301 (2020).
+D. Huterer and D. L. Shafer, Reports on Progress in Physics 81, 016901 (2018), 1709.01091.
+F. Kottler, Annalen der Physik 361, 401 (1918).
+S. Gupta and S. Desai, Physics of the Dark Universe 28, 100499 (2020), 1909.07408.
+C. Bambi, Phys. Rev. D 75, 083003 (2007), astro-ph/0703645.
+C. L. Sarazin, Reviews of Modern Physics 58, 1 (1986).
+H. Hoekstra, M. Bartelmann, H. Dahle, H. Israel, M. Limousin, and M. Meneghetti, Space Science Reviews 177, 75 (2013), 1303.3274.
+V. Kagramanova, J. Kunz, and C. Lammerzahl, Physics Letters B 634, 465 (2006), gr-qc/0602002.
+I. B. Khriplovich and A. A. Pomeransky, International Journal of Modern Physics D 17, 2255 (2008), 0801.1764.
+F. Simpson, J. A. Peacock, and A. F. Heavens, Mon. Not. R. Astron. Soc. 402, 2009 (2010), 0809.1819.
+W. Rindler and M. Ishak, Phys. Rev. D 76, 043006 (2007), 0709.2948.
+M. Sereno, Phys. Rev. D 77, 043004 (2008), 0711.1802.
+M. Ishak, W. Rindler, and J. Dossett, Mon. Not. R. Astron. Soc. 403, 2152 (2010), 0810.4956.
+M. Ishak and W. Rindler, General Relativity and Gravitation 42, 2247 (2010), 1006.0014.
+M. Ishak, W. Rindler, J. Dossett, J. Moldenhauer, and C. Allison, Mon. Not. R. Astron. Soc. 388, 1279 (2008), 0710.4726.
+L. Hu, A. Heavens, and D. Bacon, arXiv e-prints arXiv:2109.09785 (2021), 2109.09785.
+G. S. Bisnovatyi-Kogan and A. D. Chernin, Astrophys. and Space Science 338, 337 (2012), 1206.1433.
+A. D. Chernin, G. S. Bisnovatyi-Kogan, P. Teerikorpi, M. J. Valtonen, G. G. Byrd, and M. Merafina, Astron. & Astrophys. 553, A101 (2013), 1303.3800.
+P. Teerikorpi, P. Heinamaki, P. Nurmi, A. D. Chernin, M. Einasto, M. Valtonen, and G. Byrd, Astron. & Astrophys. 577, A144 (2015), 1503.02805.
+V. G. Gurzadyan, A. A. Kocharyan, and A. Stepanian, European Physical Journal C 80, 24 (2020), 2001.02634.
+V. G. Gurzadyan and A. Stepanian, European Physical Journal C 79, 169 (2019), 1902.07171.
+A. Mahdavi, H. Hoekstra, A. Babul, and J. P. Henry, Mon. Not. R. Astron. Soc. 384, 1567 (2008), 0710.4132.
+M. Sun, G. M. Voit, M. Donahue, C. Jones, W. Forman, and A. Vikhlinin, Astrophys. J. 693, 1142 (2009), 0805.2320.

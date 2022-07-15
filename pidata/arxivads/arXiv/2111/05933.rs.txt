@@ -1,0 +1,81 @@
+Ali, Z. S., Parsons, A. R., Zheng, H., et al. 2015,, ApJ, 809, 61, doi: 10.1088/0004-637X/809/1/61
+Aravena, M., Decarli, R., Gonzalez-Lopez, J., et al. 2019,, ApJ, 882, 136, doi: 10.3847/1538-4357/ab30df
+Beardsley, A. P., Hazelton, B. J., Sullivan, I. S., et al. 2016,, ApJ, 833, 102, doi: 10.3847/1538-4357/833/1/102
+Behroozi, P. S., Wechsler, R. H., & Conroy, C. 2013,, ApJ, 770, 57, doi: 10.1088/0004-637X/770/1/57
+Bernal, J. L., Breysse, P. C., Gil-Mar in, H., & Kovetz, E. D. 2019, PhRvD, 100, 123522, doi: 10.1103/PhysRevD.100.123522
+Bolatto, A. D., Wolfire, M., & Leroy, A. K. 2013, ARA&A, 51, 207, doi: 10.1146/annurev-astro-082812-140944
+Boogaard, L. A., Bouwens, R. J., Riechers, D., et al. 2021, arXiv e-prints, arXiv:2105.12489. https://arxiv.org/abs/2105.12489
+Breysse, P. C., Anderson, C. J., & Berger, P. 2019, PhRvL, 123, 231105, doi: 10.1103/PhysRevLett.123.231105
+Breysse, P. C., Foreman, S., Keating, L. C., Meyers, J., & Murray, N. 2021a, arXiv e-prints, arXiv:2104.06422. https://arxiv.org/abs/2104.06422
+Breysse, P. C., Kovetz, E. D., Behroozi, P. S., Dai, L., & Kamionkowski, M. 2017,, MNRAS, 467, 2996, doi: 10.1093/mnras/stx203
+Breysse, P. C., Kovetz, E. D., & Kamionkowski, M. 2014,, MNRAS, 443, 3506, doi: 10.1093/mnras/stu1312
+--. 2015,, MNRAS, 452, 3408, doi: 10.1093/mnras/stv1476
+Breysse, P. C., Yang, S., Somerville, R. S., et al. 2021b, arXiv e-prints, arXiv:2106.14904. https://arxiv.org/abs/2106.14904
+Castor, J. I. 1970,, MNRAS, 149, 111, doi: 10.1093/mnras/149.2.111
+Cataldo, G., Ade, P., Anderson, C., et al. 2021, arXiv e-prints, arXiv:2101.11734. https://arxiv.org/abs/2101.11734
+CCAT-Prime collaboration, Aravena, M., Austermann, J. E., et al. 2021, arXiv e-prints, arXiv:2107.10364. https://arxiv.org/abs/2107.10364
+Cheng, Y.-T., Chang, T.-C., Bock, J., Bradford, C. M., & Cooray, A. 2016,, ApJ, 832, 165, doi: 10.3847/0004-637X/832/2/165
+Cheng, Y.-T., Chang, T.-C., & Bock, J. J. 2020,, ApJ, 901, 142, doi: 10.3847/1538-4357/abb023
+Chung, D. T. 2019,, ApJ, 881, 149, doi: 10.3847/1538-4357/ab3040
+Chung, D. T., Li, T. Y., Viero, M. P., Church, S. E., & Wechsler, R. H. 2017,, ApJ, 846, 60, doi: 10.3847/1538-4357/aa8624
+Chung, D. T., Viero, M. P., Church, S. E., et al. 2019,, ApJ, 872, 186, doi: 10.3847/1538-4357/ab0027
+Chung, D. T., Breysse, P. C., Cleary, K. A., et al. 2021a, arXiv e-prints, arXiv:2111.05931. https://arxiv.org/abs/2111.05931
+Chung, D. T., Breysse, P. C., Tveit Ihle, H., et al. 2021b, arXiv e-prints, arXiv:2104.11171. https://arxiv.org/abs/2104.11171
+Cleary, K. A., Borowska, J., Breysse, P. C., et al. 2021, arXiv e-prints, arXiv:2111.05927. https://arxiv.org/abs/2111.05927
+Crites, A. T., Bock, J. J., Bradford, C. M., et al. 2014, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9153, Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VII, ed. W. S. Holland & J. Zmuidzinas, 91531W, doi: 10.1117/12.2057207
+da Cunha, E., Groves, B., Walter, F., et al. 2013,, ApJ, 766, 13, doi: 10.1088/0004-637X/766/1/13
+DeBoer, D. R., Parsons, A. R., Aguirre, J. E., et al. 2017, PASP, 129, 045001, doi: 10.1088/1538-3873/129/974/045001
+Decarli, R., Carilli, C., Casey, C., et al. 2018, in Astronomical Society of the Pacific Conference Series, Vol. 517, Science with a Next Generation Very Large Array, ed. E. Murphy, 565. https://arxiv.org/abs/1810.07546
+Foss, M. K., Ihle, H. T., Borowska, J., et al. 2021, arXiv e-prints, arXiv:2111.05929. https://arxiv.org/abs/2111.05929
+Gebhardt, K., Mentuch Cooper, E., Ciardullo, R., et al. 2021, arXiv e-prints, arXiv:2110.04298. https://arxiv.org/abs/2110.04298
+Gong, Y., Cooray, A., Silva, M. B., Santos, M. G., & Lubin, P. 2011, ApJL, 728, L46, doi: 10.1088/2041-8205/728/2/L46
+Gong, Y., Silva, M., Cooray, A., & Santos, M. G. 2014,, ApJ, 785, 72, doi: 10.1088/0004-637X/785/1/72
+Hamilton, A. J. S. 1998, Linear Redshift Distortions: a Review, ed. D. Hamilton, Vol. 231, 185, doi: 10.1007/978-94-011-4960-0 17
+Hill, G. J., Gebhardt, K., Komatsu, E., et al. 2008, Astronomical Society of the Pacific Conference Series, Vol. 399, The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX): Description and Early Pilot Survey Results, ed. T. Kodama, T. Yamada, & K. Aoki, 115
+Hill, G. J., Lee, H., MacQueen, P. J., et al. 2021, arXiv e-prints, arXiv:2110.03843. https://arxiv.org/abs/2110.03843
+Ihle, H. T., Chung, D., Stein, G., et al. 2019,, ApJ, 871, 75, doi: 10.3847/1538-4357/aaf4bc
+Ihle, H. T., Borowska, J., Cleary, K. A., et al. 2021, arXiv e-prints, arXiv:2111.05930. https://arxiv.org/abs/2111.05930
+Kaiser, N. 1987,, MNRAS, 227, 1, doi: 10.1093/mnras/227.1.1
+Kamenetzky, J., Rangwala, N., Glenn, J., Maloney, P. R., & Conley, A. 2016,, ApJ, 829, 93, doi: 10.3847/0004-637X/829/2/93
+Keating, G. K., Marrone, D. P., Bower, G. C., & Keenan, R. P. 2020,, ApJ, 901, 141, doi: 10.3847/1538-4357/abb08e
+Keating, G. K., Marrone, D. P., Bower, G. C., et al. 2016,, ApJ, 830, 34, doi: 10.3847/0004-637X/830/1/34
+Kistler, M. D., Yuksel, H., Beacom, J. F., Hopkins, A. M., & Wyithe, J. S. B. 2009, ApJL, 705, L104, doi: 10.1088/0004-637X/705/2/L104
+Kovetz, E. D., Viero, M. P., Lidz, A., et al. 2017, arXiv e-prints, arXiv:1709.09066. https://arxiv.org/abs/1709.09066
+Lagache, G. 2018, in Peering towards Cosmic Dawn, ed. V. Jelic & T. van der Hulst, Vol. 333, 228-233, doi: 10.1017/S1743921318000558
+Lamb, J. W., Cleary, K. A., Woody, D. P., et al. 2021, arXiv e-prints, arXiv:2111.05928. https://arxiv.org/abs/2111.05928
+Lenkic, L., Bolatto, A. D., Forster Schreiber, N. M., et al. 2020, AJ, 159, 190, doi: 10.3847/1538-3881/ab7458
+Lewis, A., & Bridle, S. 2002, PhRvD, 66, 103511, doi: 10.1103/PhysRevD.66.103511
+Li, T. Y., Wechsler, R. H., Devaraj, K., & Church, S. E. 2016,, ApJ, 817, 169, doi: 10.3847/0004-637X/817/2/169
+Lidz, A., Furlanetto, S. R., Oh, S. P., et al. 2011,, ApJ, 741, 70, doi: 10.1088/0004-637X/741/2/70
+Lidz, A., & Taylor, J. 2016,, ApJ, 825, 143, doi: 10.3847/0004-637X/825/2/143
+Liu, R. H., & Breysse, P. C. 2021, PhRvD, 103, 063520, doi: 10.1103/PhysRevD.103.063520
+Loeb, A., & Barkana, R. 2001, ARA&A, 39, 19, doi: 10.1146/annurev.astro.39.1.19
+Lucy, L. B. 1971,, ApJ, 163, 95, doi: 10.1086/150748
+Mashian, N., Sternberg, A., & Loeb, A. 2015, JCAP, 2015, 028, doi: 10.1088/1475-7516/2015/11/028
+McQuinn, M. 2016, ARA&A, 54, 313, doi: 10.1146/annurev-astro-082214-122355
+Moster, B. P., Somerville, R. S., Maulbetsch, C., et al. 2010,, ApJ, 710, 903, doi: 10.1088/0004-637X/710/2/903
+Obreschkow, D., Klockner, H. R., Heywood, I., Levrier, F., & Rawlings, S. 2009,, ApJ, 703, 1890, doi: 10.1088/0004-637X/703/2/1890
+Padmanabhan, H. 2018,, MNRAS, 475, 1477, doi: 10.1093/mnras/stx3250
+Padmanabhan, H., Breysse, P., Lidz, A., & Switzer, E. R. 2021, arXiv e-prints, arXiv:2105.12148. https://arxiv.org/abs/2105.12148
+Planck Collaboration, Ade, P. A. R., Aghanim, N., et al. 2014, A&A, 571, A30, doi: 10.1051/0004-6361/201322093
+Planck Collaboration, Aghanim, N., Akrami, Y., et al. 2020, A&A, 641, A6, doi: 10.1051/0004-6361/201833910
+Pritchard, J. R., & Loeb, A. 2012, Reports on Progress in Physics, 75, 086901, doi: 10.1088/0034-4885/75/8/086901
+Pullen, A. R., Chang, T.-C., Dore, O., & Lidz, A. 2013,, ApJ, 768, 15, doi: 10.1088/0004-637X/768/1/15
+Rennie, T. J., Harper, S. E., Dickinson, C., et al. 2021, arXiv e-prints, arXiv:2111.05932. https://arxiv.org/abs/2111.05932
+Riechers, D. A., Pavesi, R., Sharon, C. E., et al. 2019,, ApJ, 872, 7, doi: 10.3847/1538-4357/aafc27
+Righi, M., Hernandez-Monteagudo, C., & Sunyaev, R. A. 2008, A&A, 489, 489, doi: 10.1051/0004-6361:200810199
+Schaan, E., & White, M. 2021, JCAP, 2021, 068, doi: 10.1088/1475-7516/2021/05/068
+Selina, R. J., Murphy, E. J., McKinnon, M., et al. 2018, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 10700, Ground-based and Airborne Telescopes VII, ed. H. K. Marshall & J. Spyromilio, 107001O, doi: 10.1117/12.2312089
+Shang, C., Haiman, Z., Knox, L., & Oh, S. P. 2012,, MNRAS, 421, 2832, doi: 10.1111/j.1365-2966.2012.20510.x
+Silva, M., Santos, M. G., Cooray, A., & Gong, Y. 2015,, ApJ, 806, 209, doi: 10.1088/0004-637X/806/2/209
+Silva, M. B., Baumschlager, B., Cleary, K. A., et al. 2021, arXiv e-prints, arXiv:2111.05354. https://arxiv.org/abs/2111.05354
+Sun, G., Hensley, B. S., Chang, T.-C., Dore, O., & Serra, P. 2019,, ApJ, 887, 142, doi: 10.3847/1538-4357/ab55df
+Sun, G., Moncelsi, L., Viero, M. P., et al. 2018,, ApJ, 856, 107, doi: 10.3847/1538-4357/aab3e3
+Tinker, J., Kravtsov, A. V., Klypin, A., et al. 2008,, ApJ, 688, 709, doi: 10.1086/591439
+Tinker, J. L., Robertson, B. E., Kravtsov, A. V., et al. 2010,, ApJ, 724, 878, doi: 10.1088/0004-637X/724/2/878
+Visbal, E., & Loeb, A. 2010, JCAP, 2010, 016, doi: 10.1088/1475-7516/2010/11/016
+Walter, F., Carilli, C., Neeleman, M., et al. 2020,, ApJ, 902, 111, doi: 10.3847/1538-4357/abb82e
+Yamamoto, K., Nakamichi, M., Kamino, A., Bassett, B. A., & Nishioka, H. 2006, PASJ, 58, 93, doi: 10.1093/pasj/58.1.93
+Yang, S., Popping, G., Somerville, R. S., et al. 2021a, arXiv e-prints, arXiv:2108.07716. https://arxiv.org/abs/2108.07716
+Yang, S., Somerville, R. S., Pullen, A. R., et al. 2021b,, ApJ, 911, 132, doi: 10.3847/1538-4357/abec75
+Yue, B., Ferrara, A., Pallottini, A., Gallerani, S., & Vallini, L. 2015,, MNRAS, 450, 3829, doi: 10.1093/mnras/stv933

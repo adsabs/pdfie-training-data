@@ -1,0 +1,83 @@
+Alam, S., Albareti, F. D., Allende Prieto, C., et al. 2015,, ApJS, 219, 12, doi: 10.1088/0067-0049/219/1/12
+Aller, L. H. 1954,, ApJ, 120, 401, doi: 10.1086/145931
+Armah, M., Dors, O. L., Aydar, C. P., et al. 2021,, MNRAS, 508, 371, doi: 10.1093/mnras/stab2610
+Berg, D. A., Pogge, R. W., Skillman, E. D., et al. 2020,, ApJ, 893, 96, doi: 10.3847/1538-4357/ab7eab
+Berg, D. A., Skillman, E. D., Croxall, K. V., et al. 2015,, ApJ, 806, 16, doi: 10.1088/0004-637X/806/1/16
+Blanton, M. R., Bershady, M. A., Abolfathi, B., et al. 2017, AJ, 154, 28, doi: 10.3847/1538-3881/aa7567
+Bolatto, A. D., Wolfire, M., & Leroy, A. K. 2013, ARA&A, 51, 207, doi: 10.1146/annurev-astro-082812-140944
+Bresolin, F., Gieren, W., Kudritzki, R.-P., et al. 2009,, ApJ, 700, 309, doi: 10.1088/0004-637X/700/1/309
+Bruzual, G., & Charlot, S. 2003,, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
+Bundy, K., Bershady, M. A., Law, D. R., et al. 2015,, ApJ, 798, 7, doi: 10.1088/0004-637X/798/1/7
+Cappellari, M., & Emsellem, E. 2004, PASP, 116, 138, doi: 10.1086/381875
+Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989,, ApJ, 345, 245, doi: 10.1086/167900
+Carilli, C. L., & Walter, F. 2013, ARA&A, 51, 105, doi: 10.1146/annurev-astro-082812-140953
+Chabrier, G. 2003, PASP, 115, 763, doi: 10.1086/376392
+Croxall, K. V., Pogge, R. W., Berg, D. A., Skillman, E. D., & Moustakas, J. 2016,, ApJ, 830, 4, doi: 10.3847/0004-637X/830/1/4
+Croxall, K. V., Smith, J. D., Brandl, B. R., et al. 2013,, ApJ, 777, 96, doi: 10.1088/0004-637X/777/2/96
+Curti, M., Cresci, G., Mannucci, F., et al. 2017,, MNRAS, 465, 1384, doi: 10.1093/mnras/stw2766
+D iaz, A. I., Castellanos, M., Terlevich, E., & Luisa Garc ia-Vargas, M. 2000,, MNRAS, 318, 462, doi: 10.1046/j.1365-8711.2000.03737.x
+Dinerstein, H. L. 1990, Abundances in extragalactic H II regions, ed. J. Thronson, Harley A. & J. M. Shull, Vol. 161, 257-285, doi: 10.1007/978-94-009-0595-5 10
+Dors, O. L., Perez-Montero, E., Hagele, G. F., Cardaci, M. V., & Krabbe, A. C. 2016,, MNRAS, 456, 4407, doi: 10.1093/mnras/stv2995
+Dors, O. L., Hagele, G. F., Cardaci, M. V., et al. 2013,, MNRAS, 432, 2512, doi: 10.1093/mnras/stt610
+Draine, B. T. 2011, Physics of the Interstellar and Intergalactic Medium (Princeton University Press)
+Esteban, C., Bresolin, F., Garc ia-Rojas, J., & Toribio San Cipriano, L. 2020,, MNRAS, 491, 2137, doi: 10.1093/mnras/stz3134
+Ferland, G. J., Chatzikos, M., Guzman, F., et al. 2017, RMxAA, 53, 385. https://arxiv.org/abs/1705.10877
+Ferrarese, L., Ford, H. C., Huchra, J., et al. 2000,, ApJS, 128, 431, doi: 10.1086/313391
+Froese Fischer, C., & Tachiev, G. 2004, Atomic Data and Nuclear Data Tables, 87, 1, doi: 10.1016/j.adt.2004.02.001
+Goldsmith, P. F., Yildiz, U. A., Langer, W. D., & Pineda, J. L. 2015,, ApJ, 814, 133, doi: 10.1088/0004-637X/814/2/133
+Gordon, K. D., Engelbracht, C. W., Rieke, G. H., et al. 2008,, ApJ, 682, 336, doi: 10.1086/589567
+Greif, T. H. 2015, Computational Astrophysics and Cosmology, 2, 3, doi: 10.1186/s40668-014-0006-2
+Herrera-Camus, R., Bolatto, A., Smith, J. D., et al. 2016,, ApJ, 826, 175, doi: 10.3847/0004-637X/826/2/175
+Herter, T., Helfer, H. L., Pipher, H. L., et al. 1981,, ApJ, 250, 186, doi: 10.1086/159361
+Hoopes, C. G., Walterbos, R. A. M., & Bothun, G. D. 2001,, ApJ, 559, 878, doi: 10.1086/322422
+Houck, J. R., Roellig, T. L., van Cleve, J., et al. 2004,, ApJS, 154, 18, doi: 10.1086/423134
+Hu, N., Wang, E., Lin, Z., et al. 2018,, ApJ, 854, 68, doi: 10.3847/1538-4357/aaa6ca
+Kelz, A., Verheijen, M. A. W., Roth, M. M., et al. 2006, PASP, 118, 129, doi: 10.1086/497455
+Kennicutt, Robert C., J. 1998, Annual Review of Astronomy and Astrophysics, 36, 189, doi: 10.1146/annurev.astro.36.1.189
+Kennicutt, Robert C., J., Bresolin, F., & Garnett, D. R. 2003,, ApJ, 591, 801, doi: 10.1086/375398
+Kennicutt, R. C., Calzetti, D., Aniano, G., et al. 2011, PASP, 123, 1347, doi: 10.1086/663818
+Kewley, L. J., & Dopita, M. A. 2002,, ApJS, 142, 35, doi: 10.1086/341326
+Kewley, L. J., & Ellison, S. L. 2008,, ApJ, 681, 1183, doi: 10.1086/587500
+Kobulnicky, H. A., & Kewley, L. J. 2004a,, ApJ, 617, 240, doi: 10.1086/425299
+--. 2004b,, ApJ, 617, 240, doi: 10.1086/425299
+Kreckel, K., Groves, B., Schinnerer, E., et al. 2013,, ApJ, 771, 62, doi: 10.1088/0004-637X/771/1/62
+Lamarche, C., Verma, A., Vishwas, A., et al. 2018,, ApJ, 867, 140, doi: 10.3847/1538-4357/aae394
+Li, Y., Bresolin, F., & Kennicutt, Robert C., J. 2013,, ApJ, 766, 17, doi: 10.1088/0004-637X/766/1/17
+Linden, S. T., Murphy, E. J., Dong, D., et al. 2020,, ApJS, 248, 25, doi: 10.3847/1538-4365/ab8a4d
+Liu, X. W., Barlow, M. J., Zhang, Y., Bastin, R. J., & Storey, P. J. 2006,, MNRAS, 368, 1959, doi: 10.1111/j.1365-2966.2006.10283.x
+Luridiana, V., Morisset, C., & Shaw, R. A. 2015, A&A, 573, A42, doi: 10.1051/0004-6361/201323152
+Maiolino, R., & Mannucci, F. 2019, A&A Rv, 27, 3, doi: 10.1007/s00159-018-0112-2
+Molla, M., Garc ia-Vargas, M. L., & Bressan, A. 2009,, MNRAS, 398, 451, doi: 10.1111/j.1365-2966.2009.15160.x
+Morisset, C., Delgado-Inglada, G., & Flores-Fajardo, N. 2015, RMxAA, 51, 103. https://arxiv.org/abs/1412.5349
+Moustakas, J., Kennicutt, Robert C., J., Tremonti, C. A., et al. 2010,, ApJS, 190, 233, doi: 10.1088/0067-0049/190/2/233
+Murphy, E. J., Dong, D., Momjian, E., et al. 2018,, ApJS, 234, 24, doi: 10.3847/1538-4365/aa99d7
+Murphy, E. J., Bremseth, J., Mason, B. S., et al. 2012,, ApJ, 761, 97, doi: 10.1088/0004-637X/761/2/97
+Nagao, T., Maiolino, R., & Marconi, A. 2006, A&A, 459, 85, doi: 10.1051/0004-6361:20065216
+Ott, S. 2010, in Astronomical Society of the Pacific Conference Series, Vol. 434, Astronomical Data Analysis Software and Systems XIX, ed. Y. Mizumoto, K.-I. Morita, & M. Ohishi, 139. https://arxiv.org/abs/1011.1209
+Peimbert, M. 1967,, ApJ, 150, 825, doi: 10.1086/149385
+Peng, B., Lamarche, C., Stacey, G. J., et al. 2021,, ApJ, 908, 166, doi: 10.3847/1538-4357/abd4e2
+Perez-Montero, E., & Contini, T. 2009,, MNRAS, 398, 949, doi: 10.1111/j.1365-2966.2009.15145.x
+Pilbratt, G. L., Riedinger, J. R., Passvogel, T., et al. 2010, A&A, 518, L1, doi: 10.1051/0004-6361/201014759
+Pilyugin, L. S., & Grebel, E. K. 2016,, MNRAS, 457, 3678, doi: 10.1093/mnras/stw238
+Pilyugin, L. S., & Thuan, T. X. 2005,, ApJ, 631, 231, doi: 10.1086/432408
+Pilyugin, L. S., V ilchez, J. M., & Thuan, T. X. 2006,, MNRAS, 370, 1928, doi: 10.1111/j.1365-2966.2006.10618.x
+Poglitsch, A., Waelkens, C., Geis, N., et al. 2010, A&A, 518, L2, doi: 10.1051/0004-6361/201014535
+Prez, J. M., Hoyos, C., Daz, A. I., Koo, D. C., & Willmer, C. N. A. 2015, Monthly Notices of the Royal Astronomical Society, 455, 3359, doi: 10.1093/mnras/stv1949
+Prez-Montero, E. 2014, Monthly Notices of the Royal Astronomical Society, 441, 2663, doi: 10.1093/mnras/stu753
+Rayo, J. F., Peimbert, M., & Torres-Peimbert, S. 1982,, ApJ, 255, 1, doi: 10.1086/159796
+Reddy, N. A., Kriek, M., Shapley, A. E., et al. 2015,, ApJ, 806, 259, doi: 10.1088/0004-637X/806/2/259
+Remy-Ruyer, A., Madden, S. C., Galliano, F., et al. 2014, A&A, 563, A31, doi: 10.1051/0004-6361/201322803
+Roth, M. M., Kelz, A., Fechner, T., et al. 2005, PASP, 117, 620, doi: 10.1086/429877
+Rubin, R. H., Simpson, J. P., Lord, S. D., et al. 1994,, ApJ, 420, 772, doi: 10.1086/173601
+Rudolph, A. L., Simpson, J. P., Haas, M. R., Erickson, E. F., & Fich, M. 1997,, ApJ, 489, 94, doi: 10.1086/304758
+Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
+Sandin, C., Becker, T., Roth, M. M., et al. 2010, A&A, 515, A35, doi: 10.1051/0004-6361/201014022
+Sarzi, M., Falcon-Barroso, J., Davies, R. L., et al. 2006,, MNRAS, 366, 1151, doi: 10.1111/j.1365-2966.2005.09839.x
+Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103, doi: 10.1088/0004-637X/737/2/103
+Scoville, N., Sheth, K., Aussel, H., et al. 2016,, ApJ, 820, 83, doi: 10.3847/0004-637X/820/2/83
+Shivaei, I., Reddy, N., Rieke, G., et al. 2020,, ApJ, 899, 117, doi: 10.3847/1538-4357/aba35e
+Smith, J. D. T., Armus, L., Dale, D. A., et al. 2007a, PASP, 119, 1133, doi: 10.1086/522634
+Smith, J. D. T., Draine, B. T., Dale, D. A., et al. 2007b,, ApJ, 656, 770, doi: 10.1086/510549
+Storey, P. J., Sochi, T., & Badnell, N. R. 2014,, MNRAS, 441, 3028, doi: 10.1093/mnras/stu777
+Vale Asari, N., Stasinska, G., Morisset, C., & Cid Fernandes, R. 2016,, MNRAS, 460, 1739, doi: 10.1093/mnras/stw971
+Verheijen, M. A. W., Bershady, M. A., Andersen, D. R., et al. 2004, Astronomische Nachrichten, 325, 151, doi: 10.1002/asna.200310197

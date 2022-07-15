@@ -1,0 +1,29 @@
+Beuther H., Bihr S., Rugel M., Johnston K., Wang Y., Walter F., Brunthaler A., et al., 2016, A&A, 595, A32. doi:10.1051/0004-6361/201629143
+Bialy S., Sternberg A., 2016,, ApJ, 822, 83. doi:10.3847/0004-637X/822/2/83
+Clark S. E., Peek J. E. G., Putman M. E., 2014,, ApJ, 789, 82. doi:10.1088/0004-637X/789/1/82
+Clark S. E., Hill J. C., Peek J. E. G., Putman M. E., Babler B. L., 2015, PhRvL, 115, 241302. doi:10.1103/PhysRevLett.115.241302
+Clark S. E., Hensley B. S., 2019,, ApJ, 887, 136. doi:10.3847/1538-4357/ab5803
+Cho J., Lazarian A., 2003,, MNRAS, 345, 325. doi:10.1046/j.1365-8711.2003.06941.x
+Goldreich P., Sridhar S., 1995,, ApJ, 438, 763. doi:10.1086/175121
+Heiles C., 2001, ApJL, 551, L105. doi:10.1086/319844
+Heiles C., Troland T. H., 2003,, ApJ, 586, 1067. doi:10.1086/367828
+Kalberla P. M. W., Kerp J., 2009, ARA&A, 47, 27. doi:10.1146/annurev-astro-082708-101823
+Kalberla P. M. W., Haud U., 2015, A&A, 578, A78. doi:10.1051/0004-6361/201525859
+Kalberla P. M. W., Kerp J., Haud U., Winkel B., Ben Bekhti N., Floer L., Lenz D., 2016,, ApJ, 821, 117. doi:10.3847/0004-637X/821/2/117
+Kalberla P. M. W., Kerp J., Haud U., Haverkorn M., 2017, A&A, 607, A15. doi:10.1051/0004-6361/201629627
+Kalberla P. M. W., Kerp J., Haud U., 2021, A&A, 654, A91. doi:10.1051/0004-6361/202140274
+Kalberla P. M. W., Haud U., 2018, A&A, 619, A58. doi:10.1051/0004-6361/201833146
+Kritsuk A. G., Ustyugov S. D., Norman M. L., 2017, NJPh, 19, 065003. doi:10.1088/1367-2630/aa7156
+Koyama H., Inutsuka S.-. ichiro ., 2002, ApJL, 564, L97. doi:10.1086/338978
+Lazarian A., Yuen K. H., 2018,, ApJ, 853, 96. doi:10.3847/1538-4357/aaa241
+Li C., Qiu K., Hu B., Cao Y., 2021, ApJL, 918, L2. doi:10.3847/2041-8213/ac19bc
+Murray C. E., Stanimirovic S., Goss W. M., Heiles C., Dickey J. M., Babler B., Kim C.-G., 2018,, ApJS, 238, 14. doi:10.3847/1538-4365/aad81a
+Peek J. E. G., Clark S. E., 2019, ApJL, 886, L13. doi:10.3847/2041-8213/ab53de
+Peek J. E. G., Babler B. L., Zheng Y., Clark S. E., Douglas K. A., Korpela E. J., Putman M. E., et al., 2018,, ApJS, 234, 2. doi:10.3847/1538-4365/aa91d3
+Soler J. D., Beuther H., Syed J., Wang Y., Anderson L. D., Glover S. C. O., Hennebelle P., et al., 2020, A&A, 642, A163. doi:10.1051/0004-6361/202038882
+Soler J. D., Beuther H., Syed J., Wang Y., Henning T., Glover S. C. O., Klessen R. S., et al., 2021, A&A, 651, L4. doi:10.1051/0004-6361/202141327
+Wang Y., Beuther H., Rugel M. R., Soler J. D., Stil J. M., Ott J., Bihr S., et al., 2020, A&A, 634, A83. doi:10.1051/0004-6361/201937095
+Xu S., Ji S., Lazarian A., 2019,, ApJ, 878, 157. doi:10.3847/1538-4357/ab21be
+Wolfire M. G., McKee C. F., Hollenbach D., Tielens A. G. G. M., 2003,, ApJ, 587, 278. doi:10.1086/368016
+Yuen K. H., Lazarian A., 2017, ApJL, 837, L24. doi:10.3847/2041-8213/aa6255
+Yuen K. H., Ho K. W., Lazarian A., 2021,, ApJ, 910, 161. doi:10.3847/1538-4357/abe4d4

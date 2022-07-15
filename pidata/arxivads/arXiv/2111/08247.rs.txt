@@ -1,0 +1,127 @@
+Abdo A. A., et al., 2010a,, Nature, 463, 919
+Abdo A. A., et al., 2010b,, ApJ, 716, 30
+Abdo A. A., et al., 2010c,, ApJ, 716, 835
+Ackermann M., et al., 2010,, ApJ, 721, 1383
+Ackermann M., et al., 2014,, ApJ, 786, 157
+Aleksic J., et al., 2011,, ApJ, 730, L8
+Amaya-Almazan R. A., Chavushyan V., Patino-Alvarez V. M., 2021,, ApJ, 906, 5
+Angel J. R. P., Stockman H. S., 1980, ARA&A, 18, 321
+Angelakis E., et al., 2016,, MNRAS, 463, 3365
+Atwood W. B., et al., 2009,, ApJ, 697, 1071
+Bach U., et al., 2007, A&A, 464, 175
+Barbieri C., Romano G., di Serego S., Zambon M., 1977, A&A, 59, 419
+Beaklini P., Dominici T., Abraham Z., 2018, Galaxies, 6, 18
+Begelman M. C., et al., 1987,, ApJ, 322, 650
+Bessell M. S., Castelli F., Plez B., 1998, A&A, 333, 231
+Bevington P. R., Robinson D. K., 1992, Data reduction and error analysis for the physical sciences
+Blinov D. A., Hagen-Thorn V. A., 2009, A&A, 503, 103
+Blinov D., et al., 2015,, MNRAS, 453, 1669
+Blinov D., et al., 2016,, MNRAS, 457, 2252
+Blinov D., et al., 2018,, MNRAS, 474, 1296
+Bloom S. D., Marscher A. P., 1996,, ApJ, 461, 657
+Bolton J. G., Ekers J., 1966, Australian Journal of Physics, 19, 559
+Bonning E. W., et al., 2009,, ApJ, 697, L81
+Burbidge E. M., Kinman T. D., 1966,, ApJ, 145, 654
+Burbidge E. M., Rosenberg F. D., 1965,, ApJ, 142, 1673
+Burbidge G. R., Jones T. W., Odell S. L., 1974,, ApJ, 193, 43
+Carnerero M. I., et al., 2015,, MNRAS, 450, 2677
+Casadio C., et al., 2015,, ApJ, 813, 51
+Castignani G., et al., 2017, A&A, 601, A30
+Chatterjee R., et al., 2012,, ApJ, 749, 191
+Chavushyan V., Patino-Alvarez V. M., Amaya-Almazan R. A., Carrasco L., 2020,, ApJ, 891, 68
+Christie I. M., Petropoulou M., Sironi L., Giannios D., 2019,, MNRAS, 482, 65
+Cohen D. P., Romani R. W., Filippenko A. V., Cenko S. B., Lott B., Zheng W., Li W., 2014,, ApJ, 797, 137
+D'Ammando F., et al., 2019,, MNRAS, 490, 5300
+Fan J. H., Kurtanidze O., Liu Y., Richter G. M., Chanishvili R., Yuan Y. H., 2014,, ApJS, 213, 26
+Fan J. H., et al., 2016,, ApJS, 226, 20
+Fernandes S., Patino-Alvarez V. M., Chavushyan V., Schlegel E. M., Valdes J. R., 2020,, MNRAS, 497, 2066
+Fossati G., Maraschi L., Celotti A., Comastri A., Ghisellini G., 1998,, MNRAS, 299, 433
+Frank J., King A., Raine D. J., 2002, Accretion Power in Astrophysics: Third Edition
+Gaur H., Gupta A. C., Wiita P. J., Uemura M., Itoh R., Sasada M., 2014,, ApJ, 781, L4
+Ghisellini G., Maraschi L., 1989,, ApJ, 340, 181
+Giannios D., Uzdensky D. A., 2019,, MNRAS, 484, 1378
+Gopal-Krishna Wiita P. J., 1992, A&A, 259, 109
+Hagen-Thorn V. A., Larionova E. G., Jorstad S. G., Bjornsson C. I., Larionov V. M., 2002, A&A, 385, 55
+Hagen-Thorn V. A., Larionov V. M., Jorstad S. G., Arkharov A. A., Hagen-Thorn E. I., Efimova N. V., Larionova L. V., Marscher A. P., 2008,, ApJ, 672, 40
+Hagen-Thorn V. A., et al., 2019, Astronomy Reports, 63, 378
+Harris D. E., Roberts J. A., 1960, PASP, 72, 237
+Hartman R. C., et al., 1992,, ApJ, 385, L1
+Hartman R. C., et al., 1993,, ApJ, 407, L41
+Hartman R. C., et al., 1999,, ApJS, 123, 79
+Hazard C., Gulkis S., Sutton J., 1968,, ApJ, 154, 413
+Hewett P. C., Wild V., 2010,, MNRAS, 405, 2302
+Hewitt A., Burbidge G., 1993,, ApJS, 87, 451
+Hosking D. N., Sironi L., 2020,, ApJ, 900, L23
+Ikejiri Y., et al., 2011, PASJ, 63, 639
+Impey C. D., Lawrence C. R., Tapia S., 1991,, ApJ, 375, 46
+Itoh R., et al., 2016,, ApJ, 833, 77
+Jorstad S., et al., 2006, Chinese Journal of Astronomy and Astrophysics Supplement, 6, 247
+Kaur N., Baliyan K. S., 2018, A&A, 617, A59
+Kiehlmann S., et al., 2016, A&A, 590, A10
+Kinman T. D., Lamla E., Wirtanen C. A., 1966,, ApJ, 146, 964
+Konigl A., 1981,, ApJ, 243, 700
+Kushwaha P., Gupta A. C., Misra R., Singh K. P., 2017,, MNRAS, 464, 2046
+Larionov V. M., et al., 2020,, MNRAS, 492, 3829
+Lawson A. J., Turner M. J. L., 1997,, MNRAS, 288, 920
+Liao N. H., Bai J. M., Liu H. T., Weng S. S., Chen L., Li F., 2014,, ApJ, 783, 83
+Liodakis I., Romani R. W., Filippenko A. V., Kocevski D., Zheng W., 2019,, ApJ, 880, 32
+Liodakis I., et al., 2020,, ApJ, 902, 61
+Lister M. L., 2001,, ApJ, 562, 208
+Lister M. L., Aller M. F., Aller H. D., Hodge M. A., Homan D. C., Kovalev Y. Y., Pushkarev A. B., Savolainen T., 2018,, ApJS, 234, 12
+Liu H. T., Feng H. C., Xin Y. X., Bai J. M., Li S. K., Wang F., 2019,, ApJ, 880, 155
+Malkan M. A., Moore R. L., 1986,, ApJ, 300, 216
+Mao P., Urry C. M., Massaro F., Paggi A., Cauteruccio J., Kunzel S. R., 2016,, ApJS, 224, 26
+Marscher A. P., 2014,, ApJ, 780, 87
+Marscher A. P., Gear W. K., 1985,, ApJ, 298, 114
+Marscher A. P., Jorstad S. G., Mattox J. R., Wehrle A. E., 2002,, ApJ, 577, 85
+Marscher A. P., et al., 2008,, Nature, 452, 966
+Marscher A. P., et al., 2010,, ApJ, 710, L126
+Massardi M., et al., 2011,, MNRAS, 412, 318
+Mattox J. R., et al., 1996,, ApJ, 461, 396
+Mead A. R. G., Ballard K. R., Brand P. W. J. L., Hough J. H., Brindle C., Bailey J. A., 1990, A&AS, 83, 183
+Moore R. L., Stockman H. S., 1981,, ApJ, 243, 60
+Nieppola E., Valtaoja E., Tornikoski M., Hovatta T., Kotiranta M., 2008, A&A, 488, 867
+Osterman Meyer A., Miller H. R., Marshall K., Ryle W. T., Aller H., Aller M., Balonek T., 2009, AJ, 138, 1902
+Otero-Santos J., et al., 2020,, MNRAS, 492, 5524
+Paczynsky B., Wiita P. J., 1980, A&A, 500, 203
+Pandey A., Gupta A. C., Wiita P. J., 2017,, ApJ, 841, 123
+Pandey A., et al., 2020,, ApJ, 890, 72
+Paris I., et al., 2017, A&A, 597, A79
+Pasierb M., et al., 2020,, MNRAS, 492, 1295
+Patino-Alvarez V. M., et al., 2018,, MNRAS, 479, 2037
+Patino-Alvarez V. M., Dzib S. A., Lobanov A., Chavushyan V., 2019, A&A, 630, A56
+Pauliny-Toth I. I. K., Preuss E., Witzel A., Kellermann K. I., Fomalont E. B., Davis M. M., 1973, A&A, 27, 475
+Prince R., 2020,, ApJ, 890, 164
+Prince R., Raman G., Hahn J., Gupta N., Majumdar P., 2018,, ApJ, 866, 16
+Raiteri C. M., Ghisellini G., Villata M., de Francesco G., Lanteri L., Chiaberge M., Peila A., Antico G., 1998, A&AS, 127, 445
+Rajput B., Stalin C. S., Sahayanathan S., Rakshit S., Mandal A. K., 2019,, MNRAS, 486, 1781
+Rajput B., Stalin C. S., Sahayanathan S., 2020a,, MNRAS, 498, 5128
+Rajput B., Stalin C. S., Rakshit S., 2020b, A&A, 634, A80
+Rakshit S., Stalin C. S., Muneer S., Neha S., Paliya V. S., 2017,, ApJ, 835, 275
+Ramakrishnan V., et al., 2015, Monthly Notices of the Royal Astronomical Society, 456, 171
+Rani B., et al., 2018,, ApJ, 858, 80
+Schmidt M., 1963,, Nature, 197, 1040
+Schmidt M., 1965,, ApJ, 141, 1295
+Shah Z., Sahayanathan S., Mankuzhiyil N., Kushwaha P., Misra R., Iqbal N., 2017,, MNRAS, 470, 3283
+Sikora M., Begelman M. C., Rees M. J., 1994,, ApJ, 421, 153
+Smith P., 2016, Galaxies, 4, 27
+Smith P. S., Montiel E., Rightley S., Turner J., Schmidt G. D., Jannuzi B. T., 2009, preprint, (arXiv:0912.3621)
+Smith P. S., Schmidt G. D., Jannuzi B. T., 2011, arXiv e-prints, p. arXiv:1110.6040
+Sorcia M., et al., 2013,, ApJS, 206, 11
+Stalin C. S., Gopal-Krishna Sagar R., Wiita P. J., 2004,, MNRAS, 350, 175
+Stockman H. S., Angel J. R. P., 1978,, ApJ, 220, L67
+Stockman H. S., Moore R. L., Angel J. R. P., 1984,, ApJ, 279, 485
+Swanenburg B. N., et al., 1978,, Nature, 275, 298
+Tanner A. M., Bechtold J., Walker C. E., Black J. H., Cutri R. M., 1996, AJ, 112, 62
+Ulrich M.-H., Maraschi L., Urry C. M., 1997, ARA&A, 35, 445
+Urry C. M., Padovani P., 1995, PASP, 107, 803
+Vaughan S., Edelson R., Warwick R. S., Uttley P., 2003,, MNRAS, 345, 1271
+Villata M., Raiteri C. M., 1999, A&A, 347, 30
+Villata M., et al., 1997, A&AS, 121, 119
+Villata M., et al., 2006, A&A, 453, 817
+Visvanathan N., Wills B. J., 1998, AJ, 116, 2119
+Wagner S. J., Witzel A., 1995, ARA&A, 33, 163
+Wang Y.-F., Jiang Y.-G., 2021,, MNRAS, 504, 2509
+Xiong D., Bai J., Zhang H., Fan J., Gu M., Yi T., Zhang X., 2017,, ApJS, 229, 21
+Zhang H., Li X., Guo F., Giannios D., 2018,, ApJ, 862, L25
+Zhang H., Li X., Giannios D., Guo F., Liu Y.-H., Dong L., 2020,, ApJ, 901, 149

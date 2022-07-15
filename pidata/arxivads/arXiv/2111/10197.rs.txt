@@ -1,0 +1,41 @@
+C.J. Morningstar, M.J. Peardon, Phys. Rev. D60, 034509 (1999), hep-lat/9901004
+Y. Chen et al., Phys. Rev. D73, 014516 (2006), hep-lat/0510074
+A. Athenodorou, M. Teper (2020), 2007.06422
+A. Szczepaniak, E.S. Swanson, C.R. Ji, S.R. Cotanch, Phys. Rev. Lett. 76, 2011 (1996), hep-ph/9511422
+A.P. Szczepaniak, E.S. Swanson, Phys. Lett. B577, 61 (2003), hep-ph/0308268
+D. Dudal, M.S. Guimaraes, S.P. Sorella, Phys. Rev. Lett. 106, 062003 (2011), 1010.3638
+S. Janowski, D. Parganlija, F. Giacosa, D.H. Rischke, Phys. Rev. D84, 054007 (2011), 1103.3238
+W.I. Eshraim, S. Janowski, F. Giacosa, D.H. Rischke, Phys. Rev. D87, 054036 (2013), 1208.6474
+D. Dudal, M.S. Guimaraes, S.P. Sorella, Phys. Lett. B732, 247 (2014), 1310.2016
+M.Q. Huber, C.S. Fischer, H. Sanchis-Alepuz (2020), 2004.00415
+M.Q. Huber, C.S. Fischer, H. Sanchis-Alepuz (2021), 2110.09180
+E. Klempt, A. Zaitsev, Phys. Rept. 454, 1 (2007), 0708.4016
+V. Crede, C.A. Meyer, Prog. Part. Nucl. Phys. 63, 74 (2009), 0812.0600
+V. Mathieu, N. Kochelev, V. Vento, Int. J. Mod. Phys. E 18, 1 (2009), 0810.4453
+W. Ochs, J. Phys. G40, 043001 (2013), 1301.5183
+F.J. Llanes-Estrada (2021), 2101.05366
+E. Gregory, A. Irving, B. Lucini, C. McNeile, A. Rago, C. Richards, E. Rinaldi, JHEP 10, 170 (2012), 1208.1858
+A.V. Sarantsev, I. Denisenko, U. Thoma, E. Klempt, Phys. Lett. B 816, 136227 (2021), 2103.09680
+J. Meyers, E.S. Swanson, Phys. Rev. D87, 036009 (2013), 1211.4648
+H. Sanchis-Alepuz, C.S. Fischer, C. Kellermann, L. von Smekal, Phys. Rev. D92, 034001 (2015), 1503.06051
+E.V. Souza, M.N. Ferreira, A.C. Aguilar, J. Papavassiliou, C.D. Roberts, S.S. Xu, Eur. Phys. J. A56, 25 (2020), 1909.05875
+L. Kaptari, B. Kampfer, Few Body Syst. 61, 28 (2020), 2004.06523
+M.Q. Huber, Phys. Rev. D 101, 11 (2020), 2003.13703
+A. Cucchieri, A. Maas, T. Mendes, Phys. Rev. D77, 094510 (2008), 0803.1798
+A. Sternbeck, P.H. Balduf, A. Kizilersu, O. Oliveira, P.J. Silva, J.I. Skullerud, A.G. Williams, PoS LATTICE2016, 349 (2017), 1702.00612
+A. Maas (2019), 1907.10435
+A. Athenodorou, D. Binosi, P. Boucaud, F. De Soto, J. Papavassiliou, J. Rodriguez-Quintero, S. Zafeiropoulos, Phys. Lett. B761, 444 (2016), 1607.01278
+P. Boucaud, F. De Soto, J. Rodriguez-Quintero, S. Zafeiropoulos, Phys. Rev. D95, 114503 (2017), 1701.07390
+P. Boucaud et al., JHEP 06, 012 (2008), 0801.2721
+C.S. Fischer, A. Maas, J.M. Pawlowski, Annals Phys. 324, 2408 (2009), 0810.1987
+R. Alkofer, M.Q. Huber, K. Schwenzer, Phys. Rev. D81, 105010 (2010), 0801.2762
+A. Maas, Phys. Lett. B689, 107 (2010), 0907.5185
+A. Maas, Phys.Rept. 524, 203 (2013), 1106.3942
+A. Sternbeck, M. Muller-Preussker, Phys.Lett. B726, 396 (2013), 1211.3057
+M.Q. Huber, Phys. Rept. 879, 1 (2020), 1808.05227
+G. Eichmann, J.M. Pawlowski, J.a.M. Silva (2021), 2107.05352
+C.S. Fischer, M.Q. Huber, Phys. Rev. D 102, 094005 (2020), 2007.11505
+L. Schlessinger, Phys. Rev. 167, 1411 (1968)
+R.A. Tripolt, P. Gubler, M. Ulybyshev, L. Von Smekal, Comput. Phys. Commun. 237, 129 (2019), 1801.10348
+A. Sternbeck (2006), phD thesis, Humboldt-Universitat zu Berlin, hep-lat/0609016
+C.S. Fischer, D. Nickel, J. Wambach, Phys. Rev. D76, 094009 (2007), 0705.4407

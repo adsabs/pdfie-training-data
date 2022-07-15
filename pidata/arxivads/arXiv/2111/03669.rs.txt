@@ -1,0 +1,58 @@
+Ai, Y., Dou, L., Fan, X., et al. 2016,, ApJ, 823, L37
+Banados, E., Venemans, B. P., Morganson, E., et al. 2014, AJ, 148, 14
+Begelman, M. C., Volonteri, M., & Rees, M. J. 2006,, MNRAS, 370, 289
+Bellovary, J., Volonteri, M., Governato, F., et al. 2011,, ApJ, 742, 13
+Bogdan, A., Forman, W. R., Zhuravleva, I., et al. 2012,, ApJ, 753, 140
+Bouwens, R. J., Illingworth, G. D., Blakeslee, J. P., Broadhurst, T. J., & Franx, M. 2004,, ApJ, 611, L1
+Brammer, G. B., van Dokkum, P. G., & Coppi, P. 2008,, ApJ, 686, 1503
+Carnall, A. C., McLure, R. J., Dunlop, J. S., & Dave, R. 2018,, MNRAS, 480, 4379
+Connor, T., Banados, E., Mazzucchelli, C., et al. 2020,, ApJ, 900, 189
+Douna, V. M., Pellizza, L. J., Mirabel, I. F., & Pedrosa, S. E. 2015, A&A, 579, A44
+Duras, F., Bongiorno, A., Ricci, F., et al. 2020, A&A, 636, A73
+Fan, X., Strauss, M. A., Richards, G. T., et al. 2006, AJ, 131, 1203
+Fragos, T., Lehmer, B., Tremmel, M., et al. 2013,, ApJ, 764, 41
+Gallerani, S., Zappacosta, L., Orofino, M. C., et al. 2017,, MNRAS, 467, 3590
+Giacconi, R., Rosati, P., Tozzi, P., et al. 2001,, ApJ, 551, 624
+Hickox, R. C., & Alexander, D. M. 2018, ARA&A, 56, 625
+Hopkins, P. F., Hernquist, L., Cox, T. J., et al. 2006,, ApJS, 163, 1
+Jiang, L., Fan, X., Annis, J., et al. 2008, AJ, 135, 1057
+Kovlakas, K., Zezas, A., Andrews, J. J., et al. 2020,, MNRAS, 498, 4790
+Kraft, R. P., Burrows, D. N., & Nousek, J. A. 1991,, ApJ, 374, 344
+Lehmer, B. D., Basu-Zych, A. R., Mineo, S., et al. 2016,, ApJ, 825, 7
+Lehmer, B. D., Eufrasio, R. T., Basu-Zych, A., et al. 2021,, ApJ, 907, 17
+Linden, T., Kalogera, V., Sepinsky, J. F., et al. 2010,, ApJ, 725, 1984
+Lippai, Z., Frei, Z., & Haiman, Z. 2009,, ApJ, 701, 360
+Liu, A., Tozzi, P., Rosati, P., et al. 2021, arXiv e-prints, arXiv:2102.05788
+Lodato, G., & Natarajan, P. 2006,, MNRAS, 371, 1813
+Luo, B., Brandt, W. N., Xue, Y. Q., et al. 2017,, ApJS, 228, 2
+Lusso, E., Comastri, A., Simmons, B. D., et al. 2012,, MNRAS, 425, 623
+Madau, P., & Rees, M. J. 2001,, ApJ, 551, L27
+McConnell, N. J., & Ma, C.-P. 2013,, ApJ, 764, 184
+Meneghetti, M., Natarajan, P., Coe, D., et al. 2017,, MNRAS, 472, 3177
+Merloni, A., Bongiorno, A., Bolzonella, M., et al. 2010,, ApJ, 708, 137
+Mineo, S., Gilfanov, M., & Sunyaev, R. 2012,, MNRAS, 419, 2095
+Mortlock, D. J., Warren, S. J., Venemans, B. P., et al. 2011,, Nature, 474, 616
+Nanni, R., Vignali, C., Gilli, R., Moretti, A., & Brandt, W. N. 2017, A&A, 603, A128
+Pons, E., McMahon, R. G., Banerji, M., & Reed, S. L. 2020,, MNRAS, 491, 3884
+Postman, M., Coe, D., Benitez, N., et al. 2012,, ApJS, 199, 25
+Saglia, R. P., Opitsch, M., Erwin, P., et al. 2016,, ApJ, 818, 47
+Salmon, B., Coe, D., Bradley, L., et al. 2020,, ApJ, 889, 189
+Santini, P., Ferguson, H. C., Fontana, A., et al. 2015,, ApJ, 801, 97
+Schutte, Z., Reines, A. E., & Greene, J. E. 2019,, ApJ, 887, 245
+Strait, V., Bradac, M., Coe, D., et al. 2021,, ApJ, 910, 135
+Venemans, B. P., Findlay, J. R., Sutherland, W. J., et al. 2013,, ApJ, 779, 24
+Vito, F., Vignali, C., Gilli, R., et al. 2013,, MNRAS, 428, 354
+Vito, F., Gilli, R., Vignali, C., et al. 2016,, MNRAS, 463, 348
+Vito, F., Brandt, W. N., Yang, G., et al. 2018,, MNRAS, 473, 2378
+Vito, F., Brandt, W. N., Bauer, F. E., et al. 2019, A&A, 630, A118
+Volonteri, M., Dubois, Y., Pichon, C., & Devriendt, J. 2016,, MNRAS, 460, 2979
+Volonteri, M., Haardt, F., & Madau, P. 2003,, ApJ, 582, 559
+Volonteri, M., & Rees, M. J. 2005,, ApJ, 633, 624
+Wang, F., Wang, R., Fan, X., et al. 2019,, ApJ, 880, 2
+Wang, F., Fan, X., Yang, J., et al. 2017,, ApJ, 839, 27
+--. 2021,, ApJ, 908, 53
+Willott, C. J., Delorme, P., Omont, A., et al. 2007, AJ, 134, 2435
+Wise, J. H., Regan, J. A., O'Shea, B. W., et al. 2019,, Nature, 566, 85
+Yang, J., Fan, X., Wu, X.-B., et al. 2017, AJ, 153, 184
+Yang, J., Wang, F., Fan, X., et al. 2019, AJ, 157, 236
+--. 2020,, ApJ, 897, L14

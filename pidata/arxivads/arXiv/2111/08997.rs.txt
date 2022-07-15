@@ -1,0 +1,51 @@
+Abbott T. M., et al., 2000, in Iye M., Moorwood A. F., eds, Proc. SPIE Vol. 4008, Optical and IR Telescope Instrumentation and Detectors. pp 714-719, doi:10.1117/12.395528
+Arnaud K. A., 1996, in Jacoby G. H., Barnes J., eds, ASP Conf. Ser. Vol. 101, Astronomical Data Analysis Software and Systems V. p. 17
+Bailer-Jones C. A. L., Rybizki J., Fouesneau M., Demleitner M., Andrae R., 2021, AJ, 161, 147
+Bissinger M., 2016, PhD Thesis, Friedrich-Alexander-Universitat Erlangen-Nurnberg
+Boldin P. A., Tsygankov S. S., Lutovinov A. A., 2013, Astronomy Letters, 39, 375
+Buckley D. A. H., Swart G. P., Meiring J. G., 2006, in Ground-based and Airborne Telescopes. p. 62670Z, doi:10.1117/12.673750
+Burgh E. B., Nordsieck K. H., Kobulnicky H. A., Williams T. B., O'Donoghue D., Smith M. P., Percival J. W., 2003, in Iye M., Moorwood A. F. M., eds, Proc. SPIE Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes. pp 1463-1471, doi:10.1117/12.460312
+Campana S., Stella L., Israel G. L., Moretti A., Parmar A. N., Orlandini M., 2002,, ApJ, 580, 389
+Cardelli J. A., Clayton G. C., Mathis J. S., 1989,, ApJ, 345, 245
+Clark J. S., Steele I. A., 2000, A&AS, 141, 65
+Coburn W., Heindl W. A., Rothschild R. E., Gruber D. E., Kreykenbohm I., Wilms J., Kretschmar P., Staubert R., 2002,, ApJ, 580, 394
+Corbet R. H. D., in't Zand J. J. M., Levine A. M., Marshall F. E., 2009,, ApJ, 695, 30
+Crawford S. M., et al., 2010, in Silva D. R., Peck A. B., Soifer B. T., eds, Proc. SPIE Vol. 7737, Observatory Operations: Strategies, Processes, and Systems III. p. 773725, doi:10.1117/12.857000
+Djupvik A. A., Andersen J., 2010, in Diego J. M., Goicoechea L. J., Gonzalez-Serrano J. I., Gorgas J., eds, Astrophysics and Space Science Proceedings Vol. 14, Highlights of Spanish Astrophysics V. Springer, Berlin, Heidelberg, p. 211 (arXiv:0901.4015), doi:10.1007/978-3-642-11250-8 21
+Dougherty S. M., Taylor A. R., 1994,, MNRAS, 269, 1123
+Evans P. A., et al., 2009,, MNRAS, 397, 1177
+Filippova E. V., Tsygankov S. S., Lutovinov A. A., Sunyaev R. A., 2005, Astronomy Letters, 31, 729
+Finger M. H., Jenke P. A., Wilson-Hodge C., 2015, The Astronomer's Telegram, 7045, 1
+Foight D. R., Guver T., Ozel F., Slane P. O., 2016,, ApJ, 826, 66
+Goad M. R., et al., 2007, A&A, 476, 1401
+HI4PI Collaboration et al., 2016, A&A, 594, A116
+Hanson M. M., Conti P. S., Rieke M. J., 1996,, ApJS, 107, 281
+Hanson M. M., Kudritzki R. P., Kenworthy M. A., Puls J., Tokunaga A. T., 2005,, ApJS, 161, 154
+Harrison F. A., et al., 2013,, ApJ, 770, 103
+Illarionov A. F., Sunyaev R. A., 1975, A&A, 39, 185
+Kaastra J. S., Bleeker J. A. M., 2016, A&A, 587, A151
+Karasev D. I., Tsygankov S. S., Lutovinov A. A., 2015, Astronomy Letters, 41, 394
+Krimm H. A., et al., 2015, The Astronomer's Telegram, 7037, 1
+Kuhnel M., et al., 2016, Acta Polytechnica, 56, 41
+Li K. L., Kong A. K. H., 2015, The Astronomer's Telegram, 7067, 1
+Lutovinov A. A., Tsygankov S. S., 2009, Astronomy Letters, 35, 433
+Malyshev D., Gotz C. F. D., 2015, The Astronomer's Telegram, 7425, 1
+Marshall F. E., in 't Zand J. J. M., Strohmayer T., Markwardt C. B., 1999, IAU Circ., 7240, 2
+Molkov S., Lutovinov A., Tsygankov S., Mereminskiy I., Mushtukov A., 2019,, ApJ, 883, L11
+Molkov S., Doroshenko V., Lutovinov A., Tsygankov S., Santangelo A., Mereminskiy I., Semena A., 2021,, ApJ, 915, L27
+Nabizadeh A., Tsygankov S. S., Karasev D. I., Monkkonen J., Lutovinov A. A., Nagirner D. I., Poutanen J., 2019, A&A, 622, A198
+Negoro H., et al., 2015, The Astronomer's Telegram, 7034, 1
+Romano P., Sidoli L., Mangano V., Mereghetti S., 2007, The Astronomer's Telegram, 1287, 1
+Staubert R., et al., 2019, A&A, 622, A61
+Titarchuk L., 1994,, ApJ, 434, 570
+Tsygankov S. S., Lutovinov A. A., Doroshenko V., Mushtukov A. A., Suleimanov V., Poutanen J., 2016, A&A, 593, A16
+Tsygankov S. S., Wijnands R., Lutovinov A. A., Degenaar N., Poutanen J., 2017,, MNRAS, 470, 126
+Tsygankov S. S., et al., 2021,, ApJ, 909, 154
+Wachter K., Leach R., Kellogg E., 1979,, ApJ, 230, 274
+Wallace L., Hinkle K., 1997,, ApJS, 111, 445
+Wegner W., 2000,, MNRAS, 319, 771
+Wegner W., 2006,, MNRAS, 371, 185
+Wegner W., 2007,, MNRAS, 374, 1549
+Wegner W., 2014, Acta Astron., 64, 261
+Wegner W., 2015, Astronomische Nachrichten, 336, 159
+Wilms J., Allen A., McCray R., 2000,, ApJ, 542, 914

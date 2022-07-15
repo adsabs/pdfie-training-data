@@ -1,0 +1,31 @@
+J. Berges and I. O. Stamatescu, Phys. Rev. Lett., 95, 202003 (2005), hep-lat/0508030.
+J. Berges, S. Borsanyi, D. Sexty, and I. O. Stamatescu, Phys. Rev. D, 75, 045007 (2007), hep-lat/0609058.
+K. Fukushima and T. Hayata, Phys. Lett. B, 735, 371-375 (2014), arXiv:1403.4177.
+A. Alexandru, G. Basar, P. F. Bedaque, S. Vartak, and N. C. Warrington, Phys. Rev. Lett., 117, 081602 (2016), arXiv:1605.08040.
+A. Alexandru, G. Basar, P. F. Bedaque, and G. W. Ridgway, Phys. Rev. D, 95, 114501 (2017), arXiv:1704.06404.
+Z.-G. Mou, P. M. Saffin, A. Tranberg, and S. Woodward, JHEP, 06, 094 (2019), arXiv:1902.09147.
+B. Buyens, J. Haegeman, K. Van Acoleyen, H. Verschelde, and F. Verstraete, Phys. Rev. Lett., 113, 091601 (2014), arXiv:1312.6654.
+T. Pichler, M. Dalmonte, E. Rico, P. Zoller, and S. Montangero, Phys. Rev. X, 6, 011023 (2016), arXiv:1505.04440.
+S. Takeda (2021), arXiv:2108.10017.
+E. A. Martinez et al.,, Nature, 534, 516-519 (2016), arXiv:1605.04570.
+N. Klco, E. F. Dumitrescu, A. J. McCaskey, T. D. Morris, R. C. Pooser, M. Sanz, E. Solano, P. Lougovski, and M. J. Savage, Phys. Rev. A, 98, 032331 (2018), arXiv:1803.03326.
+E. Gustafson, P. Dreher, Z. Hang, and Y. Meurice, Quantum Sci. Technol., 6, 045020 (2021), arXiv:1910.09478.
+D. E. Kharzeev and Y. Kikuchi, Phys. Rev. Res., 2, 023342 (2020), arXiv:2001.00698.
+A. Yamamoto, PTEP, 2021, 013B06 (2021), arXiv:2008.11395.
+T. Hayata, Y. Hidaka, and Y. Kikuchi, Phys. Rev. D, 104, 074518 (2021), arXiv:2103.05179.
+E. Gustafson, Phys. Rev. D, 103, 114505 (2021), arXiv:2104.10136.
+V. Gorini, A. Kossakowski, and E. C. G. Sudarshan, Journal of Mathematical Physics, 17, 821-825 (1976).
+G. Lindblad, Commun. Math. Phys., 48, 119 (1976).
+F. Hebenstreit, D. Banerjee, M. Hornung, F.-J. Jiang, F. Schranz, and U.-J. Wiese, Phys. Rev. B, 92, 035116 (2015), arXiv:1502.02980.
+D. Banerjee, F. Hebenstreit, F.-J. Jiang, and U.-J. Wiese, Phys. Rev. B, 92, 121104 (2015), arXiv:1505.00135.
+S. Caspar, F. Hebenstreit, D. Mesterhazy, and U.-J. Wiese, Phys. Rev. A, 93, 021602 (2016), arXiv:1511.08733.
+E. Huffman, D. Banerjee, S. Chandrasekharan, and U.-J. Wiese, Annals Phys., 372, 309-319 (2016), arXiv:1512.00412.
+T. Hayata (2021), arXiv:2107.07059.
+T. Hayata, Y. Hidaka, and A. Yamamoto (2021), arXiv:2111.03893.
+L. M. Sieberer, M. Buchhold, and S. Diehl, Rep. Prog. Phys., 79, 096001 (2016), arXiv:1512.00637.
+R. Blankenbecler, D. J. Scalapino, and R. L. Sugar, Phys. Rev. D, 24, 2278 (1981).
+P. Hasenfratz and F. Karsch, Phys. Lett. B, 125, 308-310 (1983).
+P. Rebentrost, M. Mohseni, I. Kassal, S. Lloyd, and A. Aspuru-Guzik, New Journal of Physics, 11, 033003 (2009), arXiv:0807.0929.
+M. B. Plenio and S. F. Huelga, New Journal of Physics, 10, 113019 (2008), arXiv:0807.4902.
+V. Eisler, Journal of Statistical Mechanics: Theory and Experiment, 2011, 06007 (2011), arXiv:1104.4050.
+B. Horstmann, J. I. Cirac, and G. Giedke, Phys. Rev. A, 87, 012108 (2013), arXiv:1207.1653.

@@ -1,0 +1,81 @@
+Abbott T. M. C., et al., 2022, Phys. Rev. D, 105, 023520, 2105.13549
+Abramo L. R., 2011, MNRAS 420, 3, pp. 2032 (2012), 1108.5449
+Abramo L. R., Amendola L., 2019, JCAP, 1906, 030, 1904.00673
+Abramo L. R., Leonard K. E., 2013,, MNRAS, 432, 318, 1302.5444
+Alcock C., Paczynski B., 1979,, Nature, 281, 358
+Amara A., Refregier A., 2008,, MNRAS, 391, 228, 0710.5171
+Amendola L., Quartin M., 2021,, MNRAS, 504, 3884, 1912.10255
+Amendola L., Quercellini C., 2004, Phys. Rev. Lett., 92, 181102, astro-ph/0403019
+Amendola L., Quercellini C., Giallongo E., 2005,, MNRAS, 357, 429, astro-ph/0404599
+Asgari M., et al., 2021, A&A, 645, A104, 2007.15633
+Avelino A., Friedman A. S., Mandel K. S., Jones D. O., Challis P. J., Kirshner R. P., 2019,, ApJ, 887, 106, 1902.03261, ADS
+Ballinger W. E., Peacock J. A., Heavens A. F., 1996,, MNRAS, 282, 877, astro-ph/9605017, ADS
+Betoule M., et al., 2014, Astron.Astrophys., 568, A22, 1401.4064
+Bonoli S., et al., 2021, A&A, 653, A31, 2007.01910
+Boruah S. S., Hudson M. J., Lavaux G., 2020,, MNRAS, 498, 2703, 1912.09383
+Burkey D., Taylor A. N., 2004,, MNRAS, 347, 255, astro-ph/0310912
+Cappellaro E., et al., 2015, A&A, 584, A62, 1509.04496
+Carlberg R. G., Sullivan M., Le Borgne D., Conley A., Howell D. A., et al., 2008,, ApJ, 682, L25, 0805.3983, ADS
+Castro T., Quartin M., 2014,, MNRAS, 443, L6, 1403.0293, ADS
+Castro T., Quartin M., Benitez-Herrera S., 2016, Phys. Dark Univ., 13, 66, 1511.08695
+Dam L., Bolejko K., Lewis G. F., 2021, JCAP, 09, 018, 2105.12933
+Das S., Louis T., Nolta M. R., Addison G. E., Battistelli E. S., et al., 2014, JCAP, 04, 014, 1301.1037
+Davis T. M., et al., 2011,, ApJ, 741, 67, 1012.2912
+DESI Collaboration, 2016, The DESI Experiment Part I: Science,Targeting, and Survey Design, 1611.00036
+eBOSS Collaboration 2021, Phys. Rev. D, 103, 083533, 2007.08991
+Euclid Collaboration 2018, Living Rev. Rel., 21, 2, 1606.00180
+Foroozan S., Krolewski A., Percival W. J., 2021, JCAP, 10, 044, 2106.11432
+Garcia K., Quartin M., Siffert B. B., 2020, Phys. Dark Univ., 29, 100519, 1905.00746
+Gordon C., Land K., Slosar A., 2007, Phys. Rev. Lett., 99, 081301, 0705.1718
+Graziani R., et al., 2020, 2001.09095
+Grillo C., et al., 2018,, ApJ, 860, 94, 1802.01584
+Grillo C., Rosati P., Suyu S. H., Caminha G. B., Mercurio A., Halkola A., 2020,, ApJ, 898, 87, 2001.02232
+Guy J., Sullivan M., Conley A., Regnault N., Astier P., et al., 2010, A&A, 523, A7, 1010.4743, ADS
+Howlett C., Robotham A. S. G., Lagos C. D. P., Kim A. G., 2017,, ApJ, 847, 128, 1708.08236
+Howlett C., Staveley-Smith L., Blake C., 2017,, MNRAS, 464, 2517, 1609.08247
+Hui L., Greene P. B., 2006, Phys. Rev. D, 73, 123526, astro-ph/0512159, ADS
+Huterer D., Shafer D., Scolnic D., Schmidt F., 2017, JCAP, 1705, 015, 1611.09862
+Huterer D., Takada M., 2005, Astropart. Phys., 23, 369, astro-ph/0412142
+Johnson A., et al., 2014,, MNRAS, 444, 3926, 1404.3799
+Jonsson J., Sullivan M., Hook I., Basa S., Carlberg R., et al., 2010, Mon.Not.Roy.Astron.Soc., 405, 535, 1002.1374
+Kaiser N., 1987,, MNRAS, 227, 1, ADS
+Kase R., Tsujikawa S., 2020, JCAP, 11, 032, 2005.13809
+Koda J., Blake C., Davis T., Magoulas C., Springob C. M., Scrimgeour M., Johnson A., Poole G. B., Staveley-Smith L., 2014,, MNRAS, 445, 4267, 1312.1022, ADS
+Laureijs R., et al., 2011, 1110.3193
+Lewis A., Challinor A., Lasenby A., 2000,, ApJ, 538, 473, astro-ph/9911177
+Libanore S., Artale M. C., Karagiannis D., Liguori M., Bartolo N., Bouffanais Y., Mapelli M., Matarrese S., 2022, JCAP, 02, 003, 2109.10857
+Linder E. V., 2005, Phys. Rev. D, 72, 043529, astro-ph/0507263, ADS
+Linder E. V., Cahn R. N., 2007, Astroparticle Physics, 28, 481, astro-ph/0701317, ADS
+Lochner M., McEwen J. D., Peiris H. V., Lahav O., Winter M. K., 2016,, ApJS, 225, 31, 1603.00882
+LSST Science Collaborations 2009, 0912.0201
+Macaulay E., Davis T. M., Scovacricchi D., Bacon D., Collett T. E., Nichol R. C., 2017,, MNRAS, 467, 259, 1607.03966
+Macaulay E., et al., 2020,, MNRAS, 496, 4051, 2007.07956
+McDonald P., Seljak U., 2009, JCAP, 0910, 007, 0810.0323
+Magira H., Jing Y. P., Suto Y., 2000,, ApJ, 528, 30, astro-ph/9907438, ADS
+Mantz A. B., et al., 2015,, MNRAS, 446, 2205, 1407.4516
+March M., Trotta R., Amendola L., Huterer D., 2011, Mon.Not.Roy.Astron.Soc., 415, 143, 1101.1521
+Mukherjee S., Wandelt B. D., 2018, arXiv e-prints, p. arXiv:1808.06615, 1808.06615, ADS
+Palmese A., Kim A. G., 2021, Phys. Rev. D, 103, 103507, 2005.04325
+Peebles P. J. E., 1980, The large-scale structure of the universe, ADS
+Percival W. J., White M., 2009,, MNRAS, 393, 297, 0808.0003, ADS
+Peterson E. R., et al., 2021, 2110.03487
+Planck Collaboration VI 2020, A&A, 641, A6, 1807.06209
+Quartin M., Marra V., Amendola L., 2014, Phys.Rev., D89, 023009, 1307.1155
+Rapetti D., Allen S. W., Mantz A., Ebeling H., 2009,, MNRAS, 400, 699, 0812.2259, ADS
+Richard J., Kneib J. P., Blake C., Raichoor A., Comparat J., et al., 2019, The Messenger, 175, 50, 1903.02474, ADS
+Riess A. G., Casertano S., Yuan W., Bowers J. B., Macri L., Zinn J. C., Scolnic D., 2021, Astrophys. J. Lett., 908, L6, 2012.08534
+Samushia L., et al., 2011,, MNRAS, 410, 1993, 1006.0609
+Sanchez A. G., 2020, Phys. Rev. D, 102, 123511, 2002.07829
+Scovacricchi D., Nichol R. C., Macaulay E., Bacon D., 2017,, MNRAS, 465, 2862, 1611.01315
+Seljak U., 2009, Phys. Rev. Lett., 102, 021302, 0807.1770
+Seo H.-J., Eisenstein D. J., 2003,, ApJ, 598, 720, astro-ph/0307460
+Song Y.-S., Percival W. J., 2009, J. Cosmology Astropart. Phys., 2009, 004, 0807.0810, ADS
+Story K. T., et al., 2013,, ApJ, 779, 86, 1210.7231
+Takahashi R., Sato M., Nishimichi T., Taruya A., Oguri M., 2012,, ApJ, 761, 152, 1208.2701
+Tegmark M., 1997, Phys. Rev. Lett., 79, 3806, astro-ph/9706198
+Troster T., et al., 2021, A&A, 649, A88, 2010.16416
+Tsaprazi E., et al., 2021,, MNRAS, 510, 366, 2109.02651
+Vargas dos Santos M., Quartin M., Reis R. R. R., 2019,, MNRAS, 1908.04210
+White M., Song Y.-S., Percival W. J., 2009,, MNRAS, 397, 1348, 0810.1518, ADS
+Zheng Y., Zhang P., Jing Y., 2015, Phys. Rev., D91, 123512, 1410.1256
+Zhou R., Newman J. A., Mao Y.-Y., Meisner A., Moustakas J., et al., 2021,, MNRAS, 501, 3309, 2001.06018, ADS

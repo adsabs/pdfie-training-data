@@ -1,0 +1,50 @@
+Arrigoni Battaia, F., Hennawi, J. F., Prochaska, J. X., et al. 2019,, MNRAS, 482, 3162.
+Becker, R. H., White, R. L., & Helfand, D. J. 1994, Astronomical Data Analysis Software and Systems III, 61, 165.
+Bolatto, A. D., Wolfire, M., & Leroy, A. K. 2013, ARA&A, 51, 207.
+Borisova, E., Cantalupo, S., Lilly, S. J., et al. 2016,, ApJ, 831, 39.
+Cai, Z., Fan, X., Yang, Y., et al. 2017,, ApJ, 837, 71.
+Cai, Z., Fan, X., Bian, F., et al. 2017,, ApJ, 839, 131.
+Cai, Z., Hamden, E., Matuszewski, M., et al. 2018, ApJL, 861, L3.
+Cai, Z., Cantalupo, S., Prochaska, J. X., et al. 2019,, ApJS, 245, 23.
+Carilli, C. L. & Walter, F. 2013, ARA&A, 51, 105.
+Cicone, C., Maiolino, R., Gallerani, S., et al. 2015, A&A, 574, A14.
+Cicone, C., Mainieri, V., Circosta, C., et al. 2021, A&A in press. (arXiv:2109.02269)
+Cantalupo, S., Arrigoni-Battaia, F., Prochaska, J. X., et al. 2014,, Nature, 506, 63.
+Daddi, E., Valentino, F., Rich, R. M., et al. 2021, A&A, 649, A78.
+Daddi, E., Bournaud, F., Walter, F., et al. 2010,, ApJ, 713, 686.
+Decarli, R., Arrigoni-Battaia, F., Hennawi, J. F., et al. 2021, A&A, 645, L3.
+Dijkstra, M. & Loeb, A. 2009,, MNRAS, 400, 1109.
+Emonts, B. H. C., Norris, R. P., Feain, I., et al. 2014,, MNRAS, 438, 2898.
+Emonts, B. H. C., Mao, M. Y., Stroe, A., et al. 2015,, MNRAS, 451, 1025.
+Emonts, B. H. C., Lehnert, M. D., Villar-Mart in, M., et al. 2016, Science, 354, 1128.
+Emonts, B. H. C., Lehnert, M. D., Dannerbauer, H., et al. 2018,, MNRAS, 477, L60.
+Emonts, B. H. C., Cai, Z., Prochaska, J. X., et al. 2019,, ApJ, 887, 86.
+Falkendal, T., Lehnert, M. D., Vernet, J., et al. 2021, A&A, 645, A120.
+Faucher-Giguere, C.-A., Feldmann, R., Quataert, E., et al. 2016,, MNRAS, 461, L32.
+Frayer, D. T., Maddalena, R. J., Ivison, R. J., et al. 2018,, ApJ, 860, 87.
+Fujimoto, S., Ouchi, M., Ferrara, A., et al. 2019,, ApJ, 887, 107.
+Genzel, R., Eisenhauer, F., & Gillessen, S. 2010, Reviews of Modern Physics, 82, 3121.
+Ginolfi, M., Maiolino, R., Nagao, T., et al. 2017,, MNRAS, 468, 3468.
+Goerdt, T., Dekel, A., Sternberg, A., et al. 2010,, MNRAS, 407, 613.
+Greve, T. R., Leonidaki, I., Xilouris, E. M., et al. 2014,, ApJ, 794, 142.
+Gullberg, B., Lehnert, M. D., De Breuck, C., et al. 2016, A&A, 591, A73.
+Hatch, N. A., Overzier, R. A., Rottgering, H. J. A., et al. 2008,, MNRAS, 383, 931.
+Helmboldt, J. F., Taylor, G. B., Tremblay, S., et al. 2007,, ApJ, 658, 203.
+Hennawi, J. F., Prochaska, J. X., Cantalupo, S., et al. 2015, Science, 348, 779.
+Ivison, R. J., Smail, I., Papadopoulos, P. P., et al. 2010,, MNRAS, 404, 198.
+Kennicutt, R. C. 1998,, ApJ, 498, 541.
+Kirkpatrick, C. C., McNamara, B. R., & Cavagnolo, K. W. 2011, ApJL, 731, L23.
+Klamer, I. J., Ekers, R. D., Sadler, E. M., et al. 2004, ApJL, 612, L97.
+Kroupa, P. 2001,, MNRAS, 322, 231.
+Lacy, M., Baum, S. A., Chandler, C. J., et al. 2020, PASP, 132, 035001.
+McMullin, J. P., Waters, B., Schiebel, D., et al. 2007, Astronomical Data Analysis Software and Systems XVI, 376, 127
+Miley, G. K., Overzier, R. A., Zirm, A. W., et al. 2006, ApJL, 650, L29.
+Narayanan, D., Turk, M., Feldmann, R., et al. 2015,, Nature, 525, 496.
+Paris, I., Petitjean, P., Ross, N. P., et al. 2017, A&A, 597, A79.
+Reuland, M., van Breugel, W., Rottgering, H., et al. 2003,, ApJ, 592, 755.
+Riechers, D. A., Carilli, C. L., Maddalena, R. J., et al. 2011, ApJL, 739, L32.
+Rosdahl, J. & Blaizot, J. 2012,, MNRAS, 423, 344.
+Solomon, P. M. & Vanden Bout, P. A. 2005, ARA&A, 43, 677.
+Vernet, J., Lehnert, M. D., De Breuck, C., et al. 2017, A&A, 602, L6.
+Villar-Mart in, M., Vernet, J., di Serego Alighieri, S., et al. 2003,, MNRAS, 346, 273.
+Wang, R., Carilli, C. L., Wagg, J., et al. 2008,, ApJ, 687, 848.

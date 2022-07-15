@@ -1,0 +1,58 @@
+Amaro-Seoane P., et al., 2017, (arXiv:1702.00786)
+Artymowicz P., Lubow S. H., 1994,, ApJ, 421, 651
+Bardeen J. M., Petterson J. A., 1975,, ApJ, 195, L65
+Berti E., Volonteri M., 2008,, ApJ, 684, 822 (arXiv:0802.0025)
+Bogdanovic T., Reynolds C. S., Miller M. C., 2007,, ApJ, 661, L147 (arXiv:astro-ph/0703054)
+Bonnerot C., Rossi E. M., Lodato G., Price D. J., 2016,, MNRAS, 455, 2253 (arXiv:1501.04635)
+Bregman M., Alexander T., 2012,, ApJ, 748, 63 (arXiv:1109.5384)
+Caproni A., Abraham Z., Mosquera Cuesta H. J., 2006,, ApJ, 638, 120 (arXiv:astro-ph/0510276)
+Caproni A., Abraham Z., Livio M., Mosquera Cuesta H. J., 2007,, MNRAS, 379, 135 (arXiv:0705.4035)
+Dotti M., Volonteri M., Perego A., Colpi M., Ruszkowski M., Haardt F., 2010,, MNRAS, 402, 682 (arXiv:0910.5729)
+Dogan S., Nixon C. J., 2020,, MNRAS, 495, 1148 (arXiv:2005.00548)
+Dogan S., Nixon C., King A., Price D. J., 2015,, MNRAS, 449, 1251 (arXiv:1502.05410)
+Dogan S., Nixon C. J., King A. R., Pringle J. E., 2018,, MNRAS, 476, 1519 (arXiv:1801.05426)
+Dyda S., Reynolds C. S., 2020, (arXiv:2008.12381)
+Falceta-Goncalves D., Caproni A., Abraham Z., Teixeira D. M., de Gouveia Dal Pino E. M., 2010,, ApJ, 713, L74 (arXiv:1003.2406)
+Fragile P. C., Mathews G. J., Wilson J. R., 2001,, ApJ, 553, 955 (arXiv:astro-ph/0007478)
+Frank J., King A., Raine D. J., 2002, Accretion Power in Astrophysics. Cambridge University Press
+Gerosa D., Veronesi B., Lodato G., Rosotti G., 2015,, MNRAS, 451, 3941 (arXiv:1503.06807)
+Gerosa D., Rosotti G., Barbieri R., 2020,, MNRAS, 496, 3060 (arXiv:2004.02894)
+Haiman Z., Kocsis B., Menou K., 2009,, ApJ, 700, 1952 (arXiv:0904.1383)
+Ivanov P. B., Illarionov A. F., 1997,, MNRAS, 285, 394
+Kumar S., Pringle J. E., 1985,, MNRAS, 213, 435
+Lai D., 1999,, ApJ, 524, 1030 (arXiv:astro-ph/9904110)
+Lei W.-H., Zhang B., Gao H., 2013,, ApJ, 762, 98 (arXiv:1202.4231)
+Lense J., Thirring H., 1918, Physikalische Zeitschrift, 19, 156
+Liska M., Hesp C., Tchekhovskoy A., Ingram A., van der Klis M., Markoff S. B., Van Moer M., 2021,, MNRAS, 507, 983 (arXiv:1904.08428)
+Lodato G., Gerosa D., 2013,, MNRAS, 429, L30 (arXiv:1211.0284)
+Lodato G., Price D. J., 2010,, MNRAS, 405, 1212 (arXiv:1002.2973)
+Lubow S. H., Ogilvie G. I., 2000,, ApJ, 538, 326 (arXiv:astro-ph/0003028)
+Lubow S. H., Ogilvie G. I., Pringle J. E., 2002,, MNRAS, 337, 706 (arXiv:astro-ph/0208206)
+Maccarone T. J., 2002,, MNRAS, 336, 1371 (arXiv:astro-ph/0209105)
+Martin R. G., Pringle J. E., Tout C. A., 2007,, MNRAS, 381, 1617 (arXiv:0708.2034)
+Martin R. G., Reis R. C., Pringle J. E., 2008,, MNRAS, 391, L15 (arXiv:0808.2139)
+Martin R. G., Pringle J. E., Tout C. A., 2009,, MNRAS, 400, 383 (arXiv:0907.5142)
+Miller M. C., Krolik J. H., 2013,, ApJ, 774, 43 (arXiv:1307.6569)
+Murray J. R., 1996,, MNRAS, 279, 402 (arXiv:astro-ph/9511031)
+Natarajan P., Pringle J. E., 1998,, ApJ, 506, L97 (arXiv:astro-ph/9808187)
+Nealon R., Price D. J., Nixon C. J., 2015,, MNRAS, 448, 1526 (arXiv:1501.01687)
+Nealon R., Dipierro G., Alexander R., Martin R. G., Nixon C., 2018,, MNRAS, 481, 20 (arXiv:1808.05693)
+Nelson R. P., Papaloizou J. C. B., 2000,, MNRAS, 315, 570 (arXiv:astro-ph/0001439)
+Nixon C., King A., Price D., Frank J., 2012,, ApJ, 757, L24 (arXiv:1209.1393)
+Nixon C., King A., Price D., 2013,, MNRAS, 434, 1946 (arXiv:1307.0010)
+Ogilvie G. I., 1999,, MNRAS, 304, 557 (arXiv:astro-ph/9812073)
+Ogilvie G. I., Latter H. N., 2013,, MNRAS, 433, 2403 (arXiv:1303.0263)
+Papaloizou J. C. B., Pringle J. E., 1983,, MNRAS, 202, 1181
+Price D. J., 2007, PASA, 24, 159 (arXiv:0709.0832)
+Price D. J., et al., 2018, PASA, 35, e031 (arXiv:1702.03930)
+Pringle J. E., 1981, ARA&A, 19, 137
+Pringle J. E., 1996,, MNRAS, 281, 357
+Raj A., Nixon C. J., 2021,, ApJ, 909, 82 (arXiv:2101.05825)
+Rees M. J., 1976, in Eggleton P., Mitton S., Whelan J., eds, Vol. 73, Structure and Evolution of Close Binary Systems. p. 225
+Sayeb M., Blecha L., Kelley L. Z., Gerosa D., Kesden M., Thomas J., 2021,, MNRAS, 501, 2531 (arXiv:2006.06647)
+Scheuer P. A. G., Feiler R., 1996,, MNRAS, 282, 291
+Sesana A., Barausse E., Dotti M., Rossi E. M., 2014,, ApJ, 794, 104 (arXiv:1402.7088)
+Shakura N. I., Sunyaev R. A., 1973, A&A, 500, 33
+Siwek M. S., Kelley L. Z., Hernquist L., 2020,, MNRAS, 498, 537 (arXiv:2005.09010)
+Tremaine S., Davis S. W., 2014,, MNRAS, 441, 1408 (arXiv:1308.1964)
+Tremaine S., Touma J., Namouni F., 2009, AJ, 137, 3706 (arXiv:0809.0237)

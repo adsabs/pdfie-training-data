@@ -1,0 +1,27 @@
+G. S. Bali, Phys. Rept. 343 (2001), 1-136 doi:10.1016/S0370-1573(00)00079-X
+G. S. Bali, Phys. Rept. 343, 2001, arXiv:hep-ph/0001312 [hep-ph
+A. Rothkopf, T. Hatsuda and S. Sasaki, Phys. Rev. Lett. 108 (2012), 162001 doi:10.1103/PhysRevLett.108.162001
+A. Rothkopf, T. Hatsuda and S. Sasaki, Phys. Rev. Lett. 108, 2012, arXiv:1108.1579 [hep-lat
+M. Laine, O. Philipsen, P. Romatschke and M. Tassler, JHEP 03 (2007), 054 doi:10.1088/1126-6708/2007/03/054
+M. Laine, O. Philipsen, P. Romatschke and M. Tassler, JHEP 03, 2007, arXiv:hep-ph/0611300 [hep-ph
+Y. Burnier and A. Rothkopf, Phys. Rev. D 86, 051503 (2012) doi:10.1103/PhysRevD.86.051503
+Y. Burnier and A. Rothkopf, arXiv:1208.1899 [hep-ph
+A. Bazavov et al. [TUMQCD], Phys. Rev. D 98 (2018) no.5, 054511 doi:10.1103/PhysRevD.98.054511 [arXiv:1804.10600 [hep-lat]].
+A. Bazavov, P. Petreczky and J. H. Weber, Phys. Rev. D 97 (2018) no.1, 014510 doi:10.1103/PhysRevD.97.014510
+A. Bazavov, P. Petreczky and J. H. Weber, Phys. Rev. D 97, 2018, arXiv:1710.05024 [hep-lat
+A. Bazavov et al. [HotQCD], Phys. Rev. D 90 (2014), 094503 doi:10.1103/PhysRevD.90.094503 [arXiv:1407.6387 [hep-lat]].
+A. Bazavov et al. [TUMQCD], Phys. Rev. D 100 (2019) no.11, 114511 doi:10.1103/PhysRevD.100.114511 [arXiv:1907.11747 [hep-lat]].
+R. Larsen, S. Meinel, S. Mukherjee and P. Petreczky, Phys. Lett. B 800 (2020), 135119 doi:10.1016/j.physletb.2019.135119
+R. Larsen, S. Meinel, S. Mukherjee and P. Petreczky, Phys. Lett. B 800, arXiv:1910.07374 [hep-lat
+L. Schlessinger, "Phys. Rev.". 167, 1411-1423 (1968,3),https://link.aps.org/doi/10.1103/PhysRev.167.1411
+Y. Burnier and A. Rothkopf, Phys. Rev. Lett. 111 (2013), 182003 doi:10.1103/PhysRevLett.111.182003
+Y. Burnier and A. Rothkopf, Phys. Rev. Lett. 111, 2013, arXiv:1307.6106 [hep-lat
+Y. Burnier, O. Kaczmarek and A. Rothkopf, JHEP 12 (2015), 101 doi:10.1007/JHEP12(2015)101
+Y. Burnier, O. Kaczmarek and A. Rothkopf, JHEP 12, 2015, arXiv:1509.07366 [hep-ph
+Y. Burnier, O. Kaczmarek and A. Rothkopf, Phys. Rev. Lett. 114 (2015) no.8, 082001 doi:10.1103/PhysRevLett.114.082001
+Y. Burnier, O. Kaczmarek and A. Rothkopf, Phys. Rev. Lett. 114, 2015, arXiv:1410.2546 [hep-lat
+P. Petreczky et al. [TUMQCD], Nucl. Phys. A 967 (2017), 592-595 doi:10.1016/j.nuclphysa.2017.04.011 [arXiv:1704.08573 [hep-lat]].
+D. Bala, O. Kaczmarek, R. Larsen, S. Mukherjee, G. Parkar, P. Petreczky, A. Rothkopf and J. H. Weber, [arXiv:2110.11659 [hep-lat]].
+D. Bala "et.al." in these proceedings
+D. Bala and S. Datta, Phys. Rev. D 101 (2020) no.3, 034507 doi:10.1103/PhysRevD.101.034507
+D. Bala and S. Datta, Phys. Rev. D 101, arXiv:1909.10548 [hep-lat

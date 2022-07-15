@@ -1,0 +1,126 @@
+Banik U., van den Bosch F. C., 2021a,, MNRAS, 502, 1441
+Banik U., van den Bosch F. C., 2021b,, ApJ, 912, 43
+Barnes J. E., Hernquist L., 1992,, Nature, 360, 715
+Barnes J., Hut P., 1986,, Nature, 324, 446
+Behroozi P., Wechsler R. H., Hearin A. P., Conroy C., 2019,, MNRAS, 488, 3143
+Binney J., Tremaine S., 2008, Galactic Dynamics: Second Edition. Princeton University Press
+Bournaud F., Duc P. A., 2006, A&A, 456, 481
+Bournaud F., et al., 2007, Science, 316, 1166
+Braine J., Lisenfeld U., Due P.-A., Leon S., 2000,, Nature, 403, 867
+Burkert A., 1995,, ApJ, 447, L25
+Burkert A., 2015,, ApJ, 808, 158
+Burkert A., 2020,, ApJ, 904, 161
+Burkert A., Forbes D. A., 2020, AJ, 159, 56
+Chandrasekhar S., 1943,, ApJ, 97, 255
+Ciotti L., Bertin G., 1999, A&A, 352, 447
+Cohen Y., et al., 2018,, ApJ, 868, 96
+Correa C. A., Wyithe J. S. B., Schaye J., Duffy A. R., 2015,, MNRAS, 450, 1521
+Danieli S., van Dokkum P., Conroy C., Abraham R., Romanowsky A. J., 2019,, ApJ, 874, L12
+Danieli S., van Dokkum P., Abraham R., Conroy C., Dolphin A. E., Romanowsky A. J., 2020,, ApJ, 895, L4
+Di Cintio A., Brook C. B., Maccio A. V., Stinson G. S., Knebe A., Dutton A. A., Wadsley J., 2014,, MNRAS, 437, 415
+Di Paolo C., Salucci P., Erkurt A., 2019,, MNRAS, 490, 5451
+Duc P. A., Brinks E., Springel V., Pichardo B., Weilbacher P., Mirabel I. F., 2000, AJ, 120, 1238
+Duc P.-A., Paudel S., McDermid R. M., Cuillandre J.-C., Serra P., Bournaud F., Cappellari M., Emsellem E., 2014,, MNRAS, 440, 1458
+Dutta Chowdhury D., van den Bosch F. C., van Dokkum P., 2019,, ApJ, 877, 133
+Dutta Chowdhury D., van den Bosch F. C., van Dokkum P., 2020,, ApJ, 903, 149
+Eddington A. S., 1916,, MNRAS, 76, 572
+Elbert O. D., Bullock J. S., Garrison-Kimmel S., Rocha M., Onorbe J., Peter A. H. G., 2015,, MNRAS, 453, 29
+Elmegreen B. G., Kaufman M., Thomasson M., 1993,, ApJ, 412, 90
+Emsellem E., et al., 2019, A&A, 625, A76
+Fellhauer M., Lin D. N. C., 2007,, MNRAS, 375, 604
+Fensch J., et al., 2019, A&A, 625, A77
+Flores R. A., Primack J. R., 1994,, ApJ, 427, L1
+Forbes D. A., 2017,, MNRAS, 472, L104
+Forbes D. A., Sinpetru L., Savorgnan G., Romanowsky A. J., Usher C., Brodie J., 2017,, MNRAS, 464, 4611
+Fujii M., Funato Y., Makino J., 2006, PASJ, 58, 743
+Gnedin O. Y., Ostriker J. P., 1999,, ApJ, 513, 626
+Gnedin O. Y., Hernquist L., Ostriker J. P., 1999,, ApJ, 514, 109
+Hargis J. R., Rhode K. L., 2014,, ApJ, 796, 62
+Hayashi K., Inoue S., 2018,, MNRAS, 481, L59
+Hudson M. J., Robison B., 2018,, MNRAS, 477, 3869
+Hunter D. A., Hunsberger S. D., Roye E. W., 2000,, ApJ, 542, 137
+Inoue S., 2011,, MNRAS, 416, 1181
+Jackson R. A., et al., 2021a,, MNRAS, 502, 1785
+Jackson R. A., et al., 2021b,, MNRAS, 502, 4262
+Jiang L., Cole S., Sawala T., Frenk C. S., 2015,, MNRAS, 448, 1674
+Kartha S. S., Forbes D. A., Spitler L. R., Romanowsky A. J., Arnold J. A., Brodie J. P., 2014,, MNRAS, 437, 273
+Kartha S. S., et al., 2016,, MNRAS, 458, 105
+Kaviraj S., Darg D., Lintott C., Schawinski K., Silk J., 2012,, MNRAS, 419, 70
+Keim M. A., et al., 2021, arXiv e-prints, p. arXiv:2109.09778
+Khochfar S., Burkert A., 2006, A&A, 445, 403
+Kormendy J., Freeman K. C., 2016,, ApJ, 817, 84
+Kravtsov A. V., 2013,, ApJ, 764, L31
+Laporte C. F. P., Agnello A., Navarro J. F., 2019,, MNRAS, 484, 245
+Lee J., Shin E.-j., Kim J.-h., 2021,, ApJ, 917, L15
+Leigh N. W. C., Fragione G., 2020,, ApJ, 892, 32
+Lelli F., et al., 2015, A&A, 584, A113
+Lewis G. F., Brewer B. J., Wan Z., 2020,, MNRAS, 491, L1
+Li Z.-Z., Zhao D.-H., Jing Y. P., Han J., Dong F.-Y., 2020,, ApJ, 905, 177
+Lima Neto G. B., Gerbal D., Marquez I., 1999,, MNRAS, 309, 481
+Ludlow A. D., Bose S., Angulo R. E., Wang L., Hellwing W. A., Navarro J. F., Cole S., Frenk C. S., 2016,, MNRAS, 460, 1214
+Lynden-Bell D., 1967,, MNRAS, 136, 101
+Maccio A. V., Prats D. H., Dixon K. L., Buck T., Waterval S., Arora N., Courteau S., Kang X., 2021,, MNRAS, 501, 693
+Martin N. F., Collins M. L. M., Longeard N., Tollerud E., 2018,, ApJ, 859, L5
+Mashchenko S., Couchman H. M. P., Wadsley J., 2006,, Nature, 442, 539
+Mellier Y., Mathez G., 1987, A&A, 175, 1
+Miller T. B., van den Bosch F. C., Green S. B., Ogiya G., 2020,, MNRAS, 495, 4496
+Mirabel I. F., Dottori H., Lutz D., 1992, A&A, 256, L19
+Monelli M., Trujillo I., 2019,, ApJ, 880, L11
+Montes M., Infante-Sainz R., Madrigal-Aguado A., Roman J., Monelli M., Borlaff A. S., Trujillo I., 2020,, ApJ, 904, 114
+Montes M., Trujillo I., Infante-Sainz R., Monelli M., Borlaff A. S., 2021, arXiv e-prints, p. arXiv:2106.10283
+Moster B. P., Naab T., White S. D. M., 2013,, MNRAS, 428, 3121
+Moster B. P., Naab T., White S. D. M., 2018,, MNRAS, 477, 1822
+Navarro J. F., Frenk C. S., White S. D. M., 1997,, ApJ, 490, 493
+Nusser A., 2018,, ApJ, 863, L17
+Nusser A., 2020,, ApJ, 893, 66
+Onorbe J., Boylan-Kolchin M., Bullock J. S., Hopkins P. F., Keres D., Faucher-Giguere C.-A., Quataert E., Murray N., 2015,, MNRAS, 454, 2092
+Ogiya G., 2018,, MNRAS, 480, L106
+Ogiya G., Mori M., 2014,, ApJ, 793, 46
+Ogiya G., Mori M., Miki Y., Boku T., Nakasato N., 2013, in Journal of Physics Conference Series. p. 012014, doi:10.1088/1742-6596/454/1/012014
+Ogiya G., Mori M., Ishiyama T., Burkert A., 2014,, MNRAS, 440, L71
+Ogiya G., van den Bosch F. C., Hahn O., Green S. B., Miller T. B., Burkert A., 2019,, MNRAS, 485, 189
+Ogiya G., Taylor J. E., Hudson M. J., 2021,, MNRAS, 503, 1233
+Oh S.-H., et al., 2015, AJ, 149, 180
+Okazaki T., Taniguchi Y., 2000,, ApJ, 543, 149
+Penarrubia J., Benson A. J., Walker M. G., Gilmore G., McConnachie A. W., Mayer L., 2010,, MNRAS, 406, 1290
+Pearson W. J., et al., 2019, A&A, 631, A51
+Peletier R. F., et al., 2012,, MNRAS, 419, 2031
+Planck Collaboration et al., 2016, A&A, 594, A13
+Ploeckinger S., Sharma K., Schaye J., Crain R. A., Schaller M., Barber C., 2018,, MNRAS, 474, 580
+Plummer H. C., 1911,, MNRAS, 71, 460
+Pontzen A., Governato F., 2012,, MNRAS, 421, 3464
+Power C., Navarro J. F., Jenkins A., Frenk C. S., White S. D. M., Springel V., Stadel J., Quinn T., 2003,, MNRAS, 338, 14
+Prugniel P., Simien F., 1997, A&A, 321, 111
+Read J. I., Goerdt T., Moore B., Pontzen A. P., Stadel J., Lake G., 2006,, MNRAS, 373, 1451
+Read J. I., Iorio G., Agertz O., Fraternali F., 2016,, MNRAS, 462, 3628
+Schweizer F., 1978, in Berkhuijsen E. M., Wielebinski R., eds, Vol. 77, Structure and Properties of Nearby Galaxies. p. 279
+Sersic J. L., 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
+Shen Z., et al., 2021a, arXiv e-prints, p. arXiv:2104.03319
+Shen Z., van Dokkum P., Danieli S., 2021b,, ApJ, 909, 179
+Shin E.-j., Jung M., Kwon G., Kim J.-h., Lee J., Jo Y., Oh B. K., 2020,, ApJ, 899, 25
+Silk J., 2019,, MNRAS, 488, L24
+Spergel D. N., Steinhardt P. J., 2000, Phys. Rev. Lett., 84, 3760
+Spitzer Lyman J., 1958,, ApJ, 127, 17
+Springel V., 2005,, MNRAS, 364, 1105
+Swaters R. A., Madore B. F., van den Bosch F. C., Balcells M., 2003,, ApJ, 583, 732
+Sweet S. M., Drinkwater M. J., Meurer G., Bekki K., Dopita M. A., Kilborn V., Nicholls D. C., 2014,, ApJ, 782, 35
+Tormen G., 1997,, MNRAS, 290, 411
+Trujillo-Gomez S., Kruijssen J. M. D., Keller B. W., Reina-Campos M., 2021,, MNRAS, 506, 4841
+Trujillo I., et al., 2019,, MNRAS, 486, 1192
+Voggel K., Hilker M., Richtler T., 2016, A&A, 586, A102
+Walker M. G., Penarrubia J., 2011,, ApJ, 742, 20
+Wasserman A., Romanowsky A. J., Brodie J., van Dokkum P., Conroy C., Abraham R., Cohen Y., Danieli S., 2018,, ApJ, 863, L15
+Weilbacher P. M., Duc P. A., Fritze v. Alvensleben U., Martin P., Fricke K. J., 2000, A&A, 358, 819
+Wetzel A. R., 2011,, MNRAS, 412, 49
+Wetzstein M., Naab T., Burkert A., 2007,, MNRAS, 375, 805
+Yang D., Yu H.-B., An H., 2020, Phys. Rev. Lett., 125, 111105
+Zentner A. R., Berlind A. A., Bullock J. S., Kravtsov A. V., Wechsler R. H., 2005,, ApJ, 624, 505
+Zwicky F., 1956, Ergebnisse der exakten Naturwissenschaften, 29, 344
+van Dokkum P., et al., 2018a, Research Notes of the American Astronomical Society, 2, 54
+van Dokkum P., et al., 2018b,, Nature, 555, 629
+van Dokkum P., et al., 2018c,, ApJ, 856, L30
+van Dokkum P., Danieli S., Abraham R., Conroy C., Romanowsky A. J., 2019,, ApJ, 874, L5
+van den Bosch F. C., Ogiya G., 2018,, MNRAS, 475, 4066
+van den Bosch F. C., Lewis G. F., Lake G., Stadel J., 1999,, ApJ, 515, 50
+van den Bosch F. C., Ogiya G., Hahn O., Burkert A., 2018,, MNRAS, 474, 3043
+van der Wel A., et al., 2014,, ApJ, 788, 28

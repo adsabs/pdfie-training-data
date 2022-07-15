@@ -1,0 +1,52 @@
+Arenou, F., Luri, X., Babusiaux, C., et al. 2018, A&A, 616, A17
+Barblan, F., Bartholdi, P., North, P., Burki, G., & Olson, E. C. 1998, A&AS, 132, 367
+Bayo, A., Rodrigo, C., Barrado Y Navascues, D., et al. 2008, A&A, 492, 277
+Bersier, D., Burki, G., & Burnet, M. 1994, A&AS, 108, 9
+Bessell, M. S. 2005, ARA&A, 43, 293
+Burki, G. 1999, A&A, 346, 134
+Cardiel, N., Zamorano, J., Bara, S., et al. 2021,, MNRAS, 504, 3730
+Cramer, N. 1993, A&A, 269, 457
+Cramer, N. 1999, New A Rev., 43, 343
+Cramer, N. & Maeder, A. 1979, A&A, 78, 305
+Cramer, N. & Maeder, A. 1980, A&A, 88, 135
+Creze, M., Turon Lacarrieu, C., Golay, M., & Mandwewala, N. 1980, A&A, 85, 311
+Eggen, O. J. 1977, PASP, 89, 706
+Evans, D. W., Riello, M., De Angeli, F., et al. 2018, A&A, 616, A4
+Eyer, L. & Aerts, C. 2000, A&A, 361, 201
+Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2021, A&A, 649, A1
+Giclas, H. L., Burnham, R., & Thomas, N. G. 1971, Lowell proper motion survey Northern Hemisphere. The G numbered stars. 8991 stars fainter than magnitude 8 with motions > 0".26/year
+Golay, M. 1972, Vistas in Astronomy, 14, 13
+Golay, M. 1978, A&A, 62, 189
+Golay, M. 1980, Vistas in Astronomy, 24, 141
+Goy, G. 1976, A&A, 48, 87
+Grenon, M. 1978, Proprietes photometriques des etoiles G, K, M en relation avec la structure et l'evolution galactique.
+Gutierrez-Moreno, A. 1975, PASP, 87, 805
+Hauck, B. 1986, in Spectroscopic and Photometric Classification of Population II Stars, ed. A. G. D. Philip & A. R. Upgren, 53
+Hauck, B. 1987, A&A, 177, 193
+Hauck, B. 1994, in Astronomical Society of the Pacific Conference Series, Vol. 60, The MK Process at 50 Years: A Powerful Tool for Astrophysical Insight, ed. C. J. Corbally, R. O. Gray, & R. F. Garrison, 157
+Hauck, B. & Curchod, A. 1980, A&A, 92, 289
+Hauck, B. & Jaschek, C. 2000, A&A, 354, 157
+Hauck, B., Jaschek, C., Jaschek, M., & Andrillat, Y. 1991, A&A, 252, 260
+Hauck, B. & Mermilliod, M. 1998, A&AS, 129, 431
+Hauck, B. & North, P. 1982, A&A, 114, 23
+Koch, D. G., Borucki, W. J., Basri, G., et al. 2010,, ApJ, 713, L79
+Korotina, L. V., Dragunova, A. V., & Komarov, N. S. 1989, Astrophysics, 31, 735
+Kunzli, M., North, P., Kurucz, R. L., & Nicolet, B. 1997, A&AS, 122, 51
+Lampens, P. 1992, A&AS, 95, 471
+Leggett, S. K., Currie, M. J., Varricatt, W. P., et al. 2006,, MNRAS, 373, 781
+Luyten, W. J. 1979, LHS catalogue. A catalogue of stars with proper motions exceeding 0"5 annually
+Mermilliod, J. C., Mermilliod, M., & Hauck, B. 1997, A&AS, 124, 349
+Murphy, S. J., Hey, D., Van Reeth, T., & Bedding, T. R. 2019,, MNRAS, 485, 2380
+Netopil, M. 2017,, MNRAS, 469, 3042
+Nicolet, B. 1987, A&A, 177, 233
+Paunzen, E., Schnell, A., & Maitzen, H. M. 2005, A&A, 444, 941
+Paunzen, E., Schnell, A., & Maitzen, H. M. 2006, A&A, 458, 293
+Ricker, G. R., Winn, J. N., Vanderspek, R., et al. 2015, Journal of Astronomical Telescopes, Instruments, and Systems, 1, 014003
+Riello, M., De Angeli, F., Evans, D. W., et al. 2021, A&A, 649, A3
+Rufener, F. 1989, A&AS, 78, 469
+Rufener, F. & Bartholdi, P. 1982, A&AS, 48, 503
+Rufener, F. & Nicolet, B. 1988, A&A, 206, 357
+Skrutskie, M. F., Cutri, R. M., Stiening, R., et al. 2006, AJ, 131, 1163
+Stromgren, B. 1966, ARA&A, 4, 433
+Waelkens, C. 1981, A&A, 97, 274
+Xiong, D. R., Deng, L., Zhang, C., & Wang, K. 2016,, MNRAS, 457, 3163

@@ -1,0 +1,16 @@
+E. M. Lifshitz and I. M. Khalatnikov, Adv. Phys. 12, 185 (1963).
+V. A. Belinskii, I. M. Khalatnikov, and E. M. Lifschitz, Adv. Phys. 19, 525 (1970).
+V. A. Belinskii, I. M. Khalatnikov, and E. M. Lifschitz, Adv. Phys. 31, 639 (1982).
+B. K. Berger and V. Moncrief, Phys. Rev. D 48, 4676 (1993).
+J. M. Heinzle, C. Uggla, and W. C. Lim, Phys. Rev. D 86, 104049 (2012), arXiv:1206.0932.
+W. C. Lim, Class. Quant. Grav. 25, 045014 (2008), arXiv:0710.0628.
+W. C. Lim, L. Andersson, D. Garfinkle, and F. Pretorius, Phys. Rev. D 79, 123526 (2009), arXiv:0904.1546.
+W. C. Lim, Class. Quant. Grav. 32, 162001 (2015), arXiv:1507.02754.
+A. A. Coley and W. C. Lim, Class. Quant. Grav. 33, 015009 (2016), arXiv:1511.07095.
+M. Z. A. Moughal, "Generating spiky solutions of E"instein field equations with the Stephani transformation, PhD thesis, University of Waikato, New Zealand, 2021, arXiv:2102.09776.
+M. Z. A. Moughal and W. C. Lim, Class. Quant. Grav. 38, 075029 (2021), arXiv:2102.12028.
+K. C. Jacobs, Astrophys. J. 153, 661 (1968).
+J. Wainwright and G. F. R. Ellis, "Dynamical systems in cosmology" (Cambridge University Press, Cambridge, 1997).
+J. M. Heinzle, C. Uggla, and N. Rohr, Adv. Theor. Math. Phys. 13, 293 (2009), arXiv:gr-qc/0702141.
+C. G. Hewitt, J. T. Horwood, and J. Wainwright, Class. Quant. Grav. 20, 1743 (2003), arXiv:gr-qc/0211071.
+A. A. Coley and W. C. Lim, Class. Quant. Grav. 22, 3073 (2005), arXiv:gr-qc/0506097.

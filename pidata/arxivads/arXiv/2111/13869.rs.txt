@@ -1,0 +1,79 @@
+Anderson L. D., et al., 2012, A&A, 542, A10
+Arnal E. M., Duronea N. U., Testori J. C., 2008, A&A, 486, 807
+Arthur S. J., Hoare M. G., 2006,, ApJS, 165, 283
+Beard M., Thomas B. M., Day G. A., 1969, Australian Journal of Physics Astrophysical Supplement, 11, 27
+Beltran M. T., Brand J., Cesaroni R., Fontani F., Pezzuto S., Testi L., Molinari S., 2006, A&A, 447, 221
+Bertoldi F., McKee C. F., 1992,, ApJ, 395, 140
+Bessell M. S., Brett J. M., 1988, PASP, 100, 1134
+Bik A., Kaper L., Hanson M. M., Smits M., 2005, A&A, 440, 121
+Billot N., Noriega-Crespo A., Carey S., Guieu S., Shenoy S., Paladini R., Latter W., 2010,, ApJ, 712, 797
+Bronfman L., Nyman L.-A., May J., 1996, A&AS, 115, 81
+Caswell J. L., Haynes R. F., 1987, A&A, 171, 261
+Cheng Y., Tan J. C., Liu M., Kong S., Lim W., Andersen M., Da Rio N., 2018,, ApJ, 853, 160
+Churchwell E., et al., 2006,, ApJ, 649, 759
+Contreras Y., Garay G., Rathborne J. M., Sanhueza P., 2016,, MNRAS, 456, 2041
+Cyganowski C. J., Reid M. J., Fish V. L., Ho P. T. P., 2003,, ApJ, 596, 344
+Das S. R., Tej A., Vig S., Liu H.-L., Liu T., Ishwara Chandra C. H., Ghosh S. K., 2017,, MNRAS, 472, 4750
+Das S. R., Tej A., Vig S., Liu T., Ghosh S. K., Chandra C. H. I., 2018, A&A, 612, A36
+Dyson J. E., Williams D. A., 1980, Physics of the interstellar medium
+Elmegreen B. G., Lada C. J., 1977,, ApJ, 214, 725
+Fazio G. G., et al., 2004,, ApJS, 154, 10
+Foster J. B., et al., 2011,, ApJS, 197, 25
+Griffin M. J., et al., 2010, A&A, 518, L3
+Haslam C. G. T., Salter C. J., Stoffel H., Wilson W. E., 1982, A&AS, 47, 1
+Heiderman A., Evans II N. J., Allen L. E., Huard T., Heyer M., 2010,, ApJ, 723, 1019
+Hildebrand R. H., 1983, QJRAS, 24, 267
+Hoare M. G., Roche P. F., Glencross W. M., 1991,, MNRAS, 251, 584
+Isequilla N. L., Fernandez-Lopez M., Benaglia P., Ishwara-Chandra C. H., del Palacio S., 2019, A&A, 627, A58
+Issac N., Tej A., Liu T., Varricatt W., Vig S., Ishwara Chandra C. H., Schultheis M., 2019,, MNRAS, 485, 1775
+Jackson J. M., et al., 2013, Publ. Astron. Soc. Australia, 30, e057
+Ji W.-G., Zhou J.-J., Esimbek J., Wu Y.-F., Wu G., Tang X.-D., 2012, A&A, 544, A39
+Kauffmann J., Pillai T., 2010,, ApJ, 723, L7
+Kauffmann J., Bertoldi F., Bourke T. L., Evans II N. J., Lee C. W., 2008, A&A, 487, 993
+Kauffmann J., Pillai T., Goldsmith P. F., 2013,, ApJ, 779, 185
+Koornneef J., 1983, A&A, 500, 247
+Krumholz M. R., McKee C. F., 2008,, Nature, 451, 1082
+Kurtz S., 2002, in Crowther P., ed., Astronomical Society of the Pacific Conference Series Vol. 267, Hot Star Workshop III: The Earliest Phases of Massive Star Birth. p. 81 (arXiv:astro-ph/0111351)
+Lada C. J., Adams F. C., 1992,, ApJ, 393, 278
+Lada C. J., Lombardi M., Alves J. F., 2010,, ApJ, 724, 687
+Lefloch B., Lazareff B., 1994, A&A, 289, 559
+Mac Low M.-M., van Buren D., Wood D. O. S., Churchwell E., 1991,, ApJ, 369, 395
+Marcote B., Ribo M., Paredes J. M., Ishwara-Chandra C. H., 2015,, MNRAS, 451, 59
+Martin-Hernandez N. L., Vermeij R., van der Hulst J. M., 2005, A&A, 433, 205
+Martins F., Schaerer D., Hillier D. J., 2005, A&A, 436, 1049
+Marton G., et al., 2017, arXiv e-prints, p. arXiv:1705.05693
+Menon S. H., Federrath C., Kuiper R., 2020,, MNRAS, 493, 4643
+Meyer M. R., Calvet N., Hillenbrand L. A., 1997, AJ, 114, 288
+Molinari S., Pezzuto S., Cesaroni R., Brand J., Faustini F., Testi L., 2008, A&A, 481, 345
+Ortega M. E., Paron S., Giacani E., Rubio M., Dubner G., 2013, A&A, 556, A105
+Paladini R., et al., 2012,, ApJ, 760, 149
+Parker Q. A., et al., 2005,, MNRAS, 362, 689
+Paron S., Petriella A., Ortega M. E., 2011, A&A, 525, A132
+Paron S., Celis Pena M., Ortega M. E., Farina C., Petriella A., Rubio M., Ashley R. P., 2017,, MNRAS, 470, 4662
+Poglitsch A., et al., 2010, A&A, 518, L2
+Rieke G. H., Lebofsky M. J., 1985,, ApJ, 288, 618
+Rodgers A. W., Campbell C. T., Whiteoak J. B., 1960,, MNRAS, 121, 103
+Roger R. S., Costain C. H., Landecker T. L., Swerdlyk C. M., 1999, A&AS, 137, 7
+Roman-Lopes A., Abraham Z., 2006, AJ, 131, 951
+Sanchez-Monge A., Beltran M. T., Cesaroni R., Fontani F., Brand J., Molinari S., Testi L., Burton M., 2013, A&A, 550, A21
+Sanhueza P., et al., 2019,, ApJ, 886, 102
+Schmiedeke A., et al., 2016, A&A, 588, A143
+Sewilo M., Watson C., Araya E., Churchwell E., Hofner P., Kurtz S., 2004,, ApJS, 154, 553
+Spitzer L., 1978, Physical processes in the interstellar medium, doi:10.1002/9783527617722.
+Swarup G., 1991, Giant metrewave radio telescope (GMRT). pp 376-380
+Tang Y.-W., Koch P. M., Peretto N., Novak G., Duarte-Cabral A., Chapman N. L., Hsieh P.-Y., Yen H.-W., 2019,, ApJ, 878, 10
+Tapia M., Persi P., Roth M., Elia D., Molinari S., Saldano H. P., Gomez M., 2014a,, MNRAS, 437, 606
+Tapia M., Persi P., Roth M., Elia D., Molinari S., Saldano H. P., Gomez M., 2014b,, MNRAS, 438, 2716
+Tej A., Ojha D. K., Ghosh S. K., Kulkarni V. K., Verma R. P., Vig S., Prabhu T. P., 2006, A&A, 452, 203
+Tenorio-Tagle G., 1979, A&A, 71, 59
+Urquhart J. S., et al., 2014,, MNRAS, 443, 1555
+Veena V. S., Vig S., Tej A., Varricatt W. P., Ghosh S. K., Chandrasekhar T., Ashok N. M., 2016,, MNRAS, 456, 2425
+Walsh A. J., Hyland A. R., Robinson G., Burton M. G., 1997,, MNRAS, 291, 261
+Wang K., et al., 2014,, MNRAS, 439, 3275
+Watson C., et al., 2008,, ApJ, 681, 1341
+Watson C., Hanspal U., Mengistu A., 2010,, ApJ, 716, 1478
+Whitworth A. P., Bhattal A. S., Chapman S. J., Disney M. J., Turner J. A., 1994,, MNRAS, 268, 291
+Williams J. P., McKee C. F., 1997,, ApJ, 476, 166
+Wright A. E., Griffith M. R., Burke B. F., Ekers R. D., 1994,, ApJS, 91, 111
+Yang A. Y., et al., 2021, A&A, 645, A110
+van Buren D., Mac Low M.-M., 1992,, ApJ, 394, 534

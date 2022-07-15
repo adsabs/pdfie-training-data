@@ -1,0 +1,96 @@
+Abdo, A. A., Ackermann, M., Ajello, M., et al. 2010, The Astrophysical Journal, 710, 1271a1285, doi: 10.1088/0004-637x/710/2/1271
+Abeysekara, A. U., Albert, A., Alfaro, R., et al. 2017,, ApJ, 841, 100, doi: 10.3847/1538-4357/aa729e
+Ackermann, M., Anantua, R., Asano, K., et al. 2016, ApJL, 824, L20, doi: 10.3847/2041-8205/824/2/L20
+Aharonian, F., Akhperjanian, A. G., Bazer-Bachi, A. R., et al. 2007, ApJL, 664, L71, doi: 10.1086/520635
+Albert, J., Aliu, E., Anderhub, H., et al. 2007,, ApJ, 669, 862, doi: 10.1086/521382
+Angelakis, E., Hovatta, T., Blinov, D., et al. 2016,, MNRAS, 463, 3365, doi: 10.1093/mnras/stw2217
+Baring, M. G., Bottcher, M., & Summerlin, E. J. 2017,, MNRAS, 464, 4875, doi: 10.1093/mnras/stw2344
+Begelman, M. C. 1998,, ApJ, 493, 291, doi: 10.1086/305119
+Bazejowski, M., Blaylock, G., Bond, I. H., et al. 2005,, ApJ, 630, 130, doi: 10.1086/431925
+Blinov, D., Pavlidou, V., Papadakis, I., et al. 2015,, MNRAS, 453, 1669, doi: 10.1093/mnras/stv1723
+Blinov, D., Pavlidou, V., Papadakis, I. E., et al. 2016,, MNRAS, 457, 2252, doi: 10.1093/mnras/stw158
+Blinov, D., Pavlidou, V., Papadakis, I., et al. 2018,, MNRAS, 474, 1296, doi: 10.1093/mnras/stx2786
+Bodo, G., Tavecchio, F., & Sironi, L. 2021,, MNRAS, 501, 2836, doi: 10.1093/mnras/staa3620
+Bonometto, S., Cazzola, P., & Saggion, A. 1970, A&A, 7, 292
+Bottcher, M. 2019, Galaxies, 7, 20, doi: 10.3390/galaxies7010020
+Bottcher, M., & Baring, M. G. 2019,, ApJ, 887, 133, doi: 10.3847/1538-4357/ab552a
+Bottcher, M., Reimer, A., Sweeney, K., & Prakash, A. 2013,, ApJ, 768, 54, doi: 10.1088/0004-637X/768/1/54
+Bowers, K. J., Albright, B. J., Yin, L., Bergen, B., & Kwan, T. J. T. 2008, Physics of Plasmas, 15, 055703, doi: 10.1063/1.2840133
+Cerruti, M., Zech, A., Boisson, C., et al. 2019,, MNRAS, 483, L12, doi: 10.1093/mnrasl/sly210
+Cerutti, B., & Beloborodov, A. M. 2017, SSRv, 207, 111, doi: 10.1007/s11214-016-0315-7
+Cerutti, B., Werner, G. R., Uzdensky, D. A., & Begelman, M. C. 2012, ApJL, 754, L33, doi: 10.1088/2041-8205/754/2/L33
+--. 2013,, ApJ, 770, 147, doi: 10.1088/0004-637X/770/2/147
+Chandra, S., Zhang, H., Kushwaha, P., et al. 2015,, ApJ, 809, 130, doi: 10.1088/0004-637X/809/2/130
+Chatterjee, R., Bailyn, C. D., Bonning, E. W., et al. 2012,, ApJ, 749, 191, doi: 10.1088/0004-637X/749/2/191
+Chen, X., Fossati, G., Bottcher, M., & Liang, E. 2012,, MNRAS, 424, 789, doi: 10.1111/j.1365-2966.2012.21283.x
+Chen, X., Chatterjee, R., Zhang, H., et al. 2014,, MNRAS, 441, 2188, doi: 10.1093/mnras/stu713
+Christie, I. M., Petropoulou, M., Sironi, L., & Giannios, D. 2019,, MNRAS, 482, 65, doi: 10.1093/mnras/sty2636
+--. 2020,, MNRAS, 492, 549, doi: 10.1093/mnras/stz3265
+Deng, W., Zhang, H., Zhang, B., & Li, H. 2016, ApJL, 821, L12, doi: 10.3847/2041-8205/821/1/L12
+Dermer, C. D., Schlickeiser, R., & Mastichiadis, A. 1992, A&A, 256, L27
+Dong, L., Zhang, H., & Giannios, D. 2020,, MNRAS, 494, 1817, doi: 10.1093/mnras/staa773
+Dreyer, L., & Bottcher, M. 2021,, ApJ, 906, 18, doi: 10.3847/1538-4357/abc9b8
+Gao, S., Fedynitch, A., Winter, W., & Pohl, M. 2019, Nature Astronomy, 3, 88, doi: 10.1038/s41550-018-0610-1
+Giannios, D., & Spruit, H. C. 2006, A&A, 450, 887, doi: 10.1051/0004-6361:20054107
+Giannios, D., & Uzdensky, D. A. 2019,, MNRAS, 484, 1378, doi: 10.1093/mnras/stz082
+Giannios, D., Uzdensky, D. A., & Begelman, M. C. 2009,, MNRAS, 395, L29, doi: 10.1111/j.1745-3933.2009.00635.x
+Giommi, P., Barr, P., Garilli, B., Maccagni, D., & Pollock, A. M. T. 1990,, ApJ, 356, 432, doi: 10.1086/168851
+Guo, F., Li, H., Daughton, W., & Liu, Y.-H. 2014, PhRvL, 113, 155005, doi: 10.1103/PhysRevLett.113.155005
+Guo, F., Li, X., Daughton, W., et al. 2020a, arXiv e-prints, arXiv:2008.02743. https://arxiv.org/abs/2008.02743
+Guo, F., Liu, Y.-H., Daughton, W., & Li, H. 2015,, ApJ, 806, 167, doi: 10.1088/0004-637X/806/2/167
+Guo, F., Liu, Y.-H., Li, X., et al. 2020b, Physics of Plasmas, 27, 080501, doi: 10.1063/5.0012094
+Guo, F., Li, X., Li, H., et al. 2016, ApJL, 818, L9, doi: 10.3847/2041-8205/818/1/L9
+Hosking, D. N., & Sironi, L. 2020, arXiv e-prints, arXiv:2007.14992. https://arxiv.org/abs/2007.14992
+IceCube Collaboration, Aartsen, M. G., Ackermann, M., et al. 2018, Science, 361, eaat1378, doi: 10.1126/science.aat1378
+Ikejiri, Y., Uemura, M., Sasada, M., et al. 2011, PASJ, 63, 639, doi: 10.1093/pasj/63.3.327
+Kagan, D., Nakar, E., & Piran, T. 2016,, ApJ, 826, 221, doi: 10.3847/0004-637X/826/2/221
+Keivani, A., Murase, K., Petropoulou, M., et al. 2018,, ApJ, 864, 84, doi: 10.3847/1538-4357/aad59a
+Kiehlmann, S., Blinov, D., Pearson, T. J., & Liodakis, I. 2017,, MNRAS, 472, 3589, doi: 10.1093/mnras/stx2167
+Kilian, P., Li, X., Guo, F., & Li, H. 2020, arXiv e-prints, arXiv:2001.02732. https://arxiv.org/abs/2001.02732
+Krau, F., Wilms, J., Kadler, M., et al. 2016, A&A, 591, A130, doi: 10.1051/0004-6361/201628595
+Krawczynski, H., Hughes, S. B., Horan, D., et al. 2004,, ApJ, 601, 151, doi: 10.1086/380393
+Larionov, V. M., Jorstad, S. G., Marscher, A. P., et al. 2013,, ApJ, 768, 40, doi: 10.1088/0004-637X/768/1/40
+Li, X., Guo, F., Li, H., & Li, S. 2018,, ApJ, 866, 4, doi: 10.3847/1538-4357/aae07b
+Li, X., Guo, F., Li, H., Stanier, A., & Kilian, P. 2019,, ApJ, 884, 118, doi: 10.3847/1538-4357/ab4268
+Liodakis, I., Romani, R. W., Filippenko, A. V., Kocevski, D., & Zheng, W. 2019,, ApJ, 880, 32, doi: 10.3847/1538-4357/ab26b7
+Liu, Y.-H., Guo, F., Daughton, W., Li, H., & Hesse, M. 2015, PhRvL, 114, 095002, doi: 10.1103/PhysRevLett.114.095002
+Loureiro, N. F., Samtaney, R., Schekochihin, A. A., & Uzdensky, D. A. 2012, Physics of Plasmas, 19, 042303, doi: 10.1063/1.3703318
+Mannheim, K. 1993, A&A, 269, 67. https://arxiv.org/abs/astro-ph/9302006
+Marscher, A. P. 2014,, ApJ, 780, 87, doi: 10.1088/0004-637X/780/1/87
+Marscher, A. P., & Gear, W. K. 1985,, ApJ, 298, 114, doi: 10.1086/163592
+Marscher, A. P., Jorstad, S. G., D'Arcangelo, F. D., et al. 2008,, Nature, 452, 966, doi: 10.1038/nature06895
+Marscher, A. P., Jorstad, S. G., Larionov, V. M., et al. 2010, ApJL, 710, L126, doi: 10.1088/2041-8205/710/2/L126
+McEnery, J., van der Horst, A., Dominguez, A., et al. 2019, in BAAS, Vol. 51, 245. https://arxiv.org/abs/1907.07558
+Mehlhaff, J. M., Werner, G. R., Uzdensky, D. A., & Begelman, M. C. 2020,, MNRAS, 498, 799, doi: 10.1093/mnras/staa2346
+Morris, P. J., Potter, W. J., & Cotter, G. 2019,, MNRAS, 486, 1548, doi: 10.1093/mnras/stz920
+Mucke, A., Protheroe, R. J., Engel, R., Rachen, J. P., & Stanev, T. 2003, Astroparticle Physics, 18, 593, doi: 10.1016/S0927-6505(02)00185-8
+Nalewajko, K. 2018, in XXXVIII Polish Astronomical Society Meeting, ed. A. Ro&zanska, Vol. 7, 310-315. https://arxiv.org/abs/1808.00478
+Paliya, V. S., Zhang, H., Bottcher, M., et al. 2018,, ApJ, 863, 98, doi: 10.3847/1538-4357/aad1f0
+Petropoulou, M., Giannios, D., & Sironi, L. 2016,, MNRAS, 462, 3325, doi: 10.1093/mnras/stw1832
+Petropoulou, M., Sironi, L., Spitkovsky, A., & Giannios, D. 2019,, ApJ, 880, 37, doi: 10.3847/1538-4357/ab287a
+Pushkarev, A. B., Gabuzda, D. C., Vetukhnovskaya, Y. N., & Yakimov, V. E. 2005,, MNRAS, 356, 859, doi: 10.1111/j.1365-2966.2004.08535.x
+Rani, B., Zhang, H., Hunter, S. D., et al. 2019a, BAAS, 51, 348. https://arxiv.org/abs/1903.04607
+Rani, B., Petropoulou, M., Zhang, H., et al. 2019b, BAAS, 51, 92. https://arxiv.org/abs/1903.04504
+Reimer, A., Bottcher, M., & Buson, S. 2019,, ApJ, 881, 46, doi: 10.3847/1538-4357/ab2bff
+Sikora, M., Begelman, M. C., & Rees, M. J. 1994,, ApJ, 421, 153, doi: 10.1086/173633
+Sironi, L., Giannios, D., & Petropoulou, M. 2016,, MNRAS, 462, 48, doi: 10.1093/mnras/stw1620
+Sironi, L., Petropoulou, M., & Giannios, D. 2015,, MNRAS, 450, 183, doi: 10.1093/mnras/stv641
+Sironi, L., & Spitkovsky, A. 2014, ApJL, 783, L21, doi: 10.1088/2041-8205/783/1/L21
+Smith, P. S., Montiel, E., Rightley, S., et al. 2009, arXiv e-prints. https://arxiv.org/abs/0912.3621
+The Fermi-LAT collaboration. 2019, arXiv e-prints, arXiv:1902.10045. https://arxiv.org/abs/1902.10045
+Uzdensky, D. A., Cerutti, B., & Begelman, M. C. 2011, ApJL, 737, L40, doi: 10.1088/2041-8205/737/2/L40
+Werner, G. R., & Uzdensky, D. A. 2021, arXiv e-prints, arXiv:2106.02790. https://arxiv.org/abs/2106.02790
+Werner, G. R., Uzdensky, D. A., Begelman, M. C., Cerutti, B., & Nalewajko, K. 2018,, MNRAS, 473, 4840, doi: 10.1093/mnras/stx2530
+Yuan, Y., Nalewajko, K., Zrake, J., East, W. E., & Blandford, R. D. 2016,, ApJ, 828, 92, doi: 10.3847/0004-637X/828/2/92
+Zhang, H. 2017, Galaxies, 5, 32, doi: 10.3390/galaxies5030032
+--. 2019, Galaxies, 7, 85, doi: 10.3390/galaxies7040085
+Zhang, H., & Bottcher, M. 2013,, ApJ, 774, 18, doi: 10.1088/0004-637X/774/1/18
+Zhang, H., Chen, X., & Bottcher, M. 2014,, ApJ, 789, 66, doi: 10.1088/0004-637X/789/1/66
+Zhang, H., Chen, X., Bottcher, M., Guo, F., & Li, H. 2015,, ApJ, 804, 58, doi: 10.1088/0004-637X/804/1/58
+Zhang, H., Diltz, C., & Bottcher, M. 2016,, ApJ, 829, 69, doi: 10.3847/0004-637X/829/2/69
+Zhang, H., Fang, K., Li, H., et al. 2019,, ApJ, 876, 109, doi: 10.3847/1538-4357/ab158d
+Zhang, H., & Giannios, D. 2021,, MNRAS, 502, 1145, doi: 10.1093/mnras/stab008
+Zhang, H., Li, H., Guo, F., & Taylor, G. 2017,, ApJ, 835, 125, doi: 10.3847/1538-4357/835/2/125
+Zhang, H., Li, X., Giannios, D., & Guo, F. 2021,, ApJ, 912, 129, doi: 10.3847/1538-4357/abf2be
+Zhang, H., Li, X., Giannios, D., et al. 2020,, ApJ, 901, 149, doi: 10.3847/1538-4357/abb1b0
+Zhang, H., Li, X., Guo, F., & Giannios, D. 2018, ApJL, 862, L25, doi: 10.3847/2041-8213/aad54f

@@ -1,0 +1,21 @@
+J. Barnard, T. Gherghetta, T.S. Ray, JHEP 02, 002 (2014), 1311.6562
+G. Ferretti, D. Karateev, JHEP 03, 077 (2014), 1312.5330
+G. Cacciapaglia, G. Ferretti, T. Flacke, H. Serodio, Front. in Phys. 7, 22 (2019), 1902.06890
+D.B. Kaplan, H. Georgi, Phys. Lett. B 136, 183 (1984)
+D.B. Kaplan, Nucl. Phys. B 365, 259 (1991)
+V. Ayyar, T. DeGrand, M. Golterman, D.C. Hackett, W.I. Jay, E.T. Neil, Y. Shamir, B. Svetitsky, Phys. Rev. D 97, 074505 (2018), 1710.00806
+V. Ayyar, T. Degrand, D.C. Hackett, W.I. Jay, E.T. Neil, Y. Shamir, B. Svetitsky, Phys. Rev. D 97, 114505 (2018), 1801.05809
+G. Cossu, L. Del Debbio, M. Panero, D. Preti, Eur. Phys. J. C 79, 638 (2019), 1904.08885
+K. Holland, M. Pepe, U.J. Wiese, Nucl. Phys. B 694, 35 (2004), hep-lat/0312022
+E. Bennett, J. Holligan, D.K. Hong, J.W. Lee, C.J.D. Lin, B. Lucini, M. Piai, D. Vadacchino, Phys. Rev. D 102, 011501 (2020), 2004.11063
+B. Lucini, A. Rago, E. Rinaldi, JHEP 08, 119 (2010), 1007.3879
+B. Lucini, M. Teper, JHEP 06, 050 (2001), hep-lat/0103027
+B. Lucini, M. Teper, U. Wenger, JHEP 06, 012 (2004), hep-lat/0404008
+B. Lucini, M. Panero, Phys. Rept. 526, 93 (2013), 1210.4997
+A. Athenodorou, M. Teper (2021), 2106.00364
+E. Bennett, D.K. Hong, J.W. Lee, C.J.D. Lin, B. Lucini, M. Mesiti, M. Piai, J. Rantaharju, D. Vadacchino, Phys. Rev. D 101, 074516 (2020), 1912.06505
+E. Bennett, J. Holligan, D.K. Hong, J.W. Lee, C.J.D. Lin, B. Lucini, M. Piai, D. Vadacchino, Phys. Rev. D 103, 054509 (2021), 2010.15781
+E. Bennett, D.K. Hong, J.W. Lee, C.J.D. Lin, B. Lucini, M. Piai, D. Vadacchino, JHEP 03, 185 (2018), 1712.04220
+E. Bennett, D.K. Hong, J.W. Lee, C.J.D. Lin, B. Lucini, M. Piai, D. Vadacchino, JHEP 12, 053 (2019), 1909.12662
+S. Gusken, Nucl. Phys. B Proc. Suppl. 17, 361 (1990)
+A. Maas, F. Zierler, PoS(LATTICE2021) to appear (2021), 2109.14377

@@ -1,0 +1,14 @@
+C. Hauret, P. Magain, and J. Biernaux, Entropy 19, 357 (2017), arXiv:1707.07542 [gr-qc]
+S. Saha, A. Biswas, and S. Chakraborty, Astrophys. Space Sci. 356, 141 (2015), arXiv:1507.08224 [physics.gen-ph]
+S. W. Hawking, Commun. Math. Phys. 43, 199 (1975),
+S. W. Hawking, Erratum: Commun.Math.Phys. 46, 206 (1976)
+G. Franciolini, Primordial Black Holes: from Theory to Gravitational Wave Observations, Other thesis (2021), arXiv:2110.06815 [astro-ph.CO]
+J. D. Bekenstein, Phys. Rev. D 7, 2333 (1973)
+J. D. Bekenstein, Lett. Nuovo Cim. 11, 467 (1974)
+S. Hod, Phys. Rev. Lett. 81, 4293 (1998), arXiv:gr-qc/9812002
+X.-G. He and B.-Q. Ma, Mod. Phys. Lett. A 26, 2299 (2011), arXiv:1003.2510 [hep-th]
+S. Hod, Eur. Phys. J. C 75, 233 (2015), arXiv:1505.04718 [gr-qc]
+D.-Q. Sun, J.-B. Deng, P. Li, and X.-R. Hu, Class. Quant. Grav. 37, 015008 (2020), arXiv:1811.09952 [hep-th]
+K. Lochan and S. Chakraborty, Phys. Lett. B 755, 37 (2016), arXiv:1509.09010 [gr-qc]
+G. W. Gibbons and M. J. Perry, Proc. Roy. Soc. Lond. A 358, 467 (1978)
+S. Hod, Gen. Rel. Grav. 31, 1639 (1999), arXiv:gr-qc/0002002

@@ -1,0 +1,36 @@
+N. Brambilla et al. (Quarkonium Working Group) (2004), hep-ph/0412158
+N. Brambilla et al., Eur. Phys. J. C 71, 1534 (2011), 1010.5827
+G.T. Bodwin, E. Braaten, E. Eichten, S.L. Olsen, T.K. Pedlar, J. Russ, "Quarkonium at the Frontiers of High Energy Physics: A Snowmass White Paper", in "Community Summer Study 2013": Snowmass on the Mississippi (2013), 1307.7425
+N. Brambilla et al., Eur. Phys. J. C 74, 2981 (2014), 1404.3723
+W.E. Caswell, G.P. Lepage, Phys. Lett. 167B, 437 (1986)
+G.T. Bodwin, E. Braaten, G.P. Lepage, Phys. Rev. D51, 1125 (1995), [Erratum: Phys. Rev.D55,5853(1997)], hep-ph/9407339
+H.S. Chung, PoS Confinement2018, 007 (2018), 1811.12098
+N. Brambilla, A. Pineda, J. Soto, A. Vairo, Nucl. Phys. B566, 275 (2000), hep-ph/9907240
+A. Pineda, J. Soto, Nucl. Phys. B Proc. Suppl. 64, 428 (1998), hep-ph/9707481
+N. Brambilla, A. Pineda, J. Soto, A. Vairo, Rev. Mod. Phys. 77, 1423 (2005), hep-ph/0410047
+N. Brambilla, D. Eiras, A. Pineda, J. Soto, A. Vairo, Phys. Rev. Lett. 88, 012003 (2002), hep-ph/0109130
+N. Brambilla, D. Eiras, A. Pineda, J. Soto, A. Vairo, Phys. Rev. D 67, 034018 (2003), hep-ph/0208019
+N. Brambilla, H.S. Chung, D. Muller, A. Vairo, JHEP 04, 095 (2020), 2002.07462
+H.S. Chung, JHEP 12, 065 (2020), 2007.01737
+H.S. Chung, JHEP 09, 195 (2021), 2106.15514
+N. Brambilla, H.S. Chung, A. Vairo, Phys. Rev. Lett. 126, 082003 (2021), 2007.07613
+N. Brambilla, H.S. Chung, A. Vairo, JHEP 09, 032 (2021), 2106.09417
+G.C. Nayak, J.W. Qiu, G.F. Sterman, Phys. Rev. D 72, 114012 (2005), hep-ph/0509021
+G.C. Nayak, J.W. Qiu, G.F. Sterman, Phys. Lett. B 613, 45 (2005), hep-ph/0501235
+G.C. Nayak, J.W. Qiu, G.F. Sterman, Phys. Rev. D 74, 074007 (2006), hep-ph/0608066
+L.P. Wan, J.X. Wang, Comput. Phys. Commun. 185, 2939 (2014), 1405.2143
+G.T. Bodwin, H.S. Chung, U.R. Kim, J. Lee, Phys. Rev. Lett. 113, 022001 (2014), 1403.3612
+G.T. Bodwin, K.T. Chao, H.S. Chung, U.R. Kim, J. Lee, Y.Q. Ma, Phys. Rev. D 93, 034041 (2016), 1509.07904
+S. Chatrchyan et al. (CMS), Eur. Phys. J. C 72, 2251 (2012), 1210.0875
+G. Aad et al. (ATLAS), JHEP 07, 154 (2014), 1404.7035
+M. Ablikim et al. (BESIII), Phys. Rev. D 85, 112008 (2012), 1205.4284
+A.M. Sirunyan et al. (CMS), Phys. Rev. Lett. 124, 162002 (2020), 1912.07706
+R. Aaij et al. (LHCb), JHEP 10, 088 (2014), 1409.1408
+V. Khachatryan et al. (CMS), Phys. Lett. B 743, 383 (2015), 1409.5761
+R. Aaij et al. (LHCb), Eur. Phys. J. C 74, 3092 (2014), 1407.7734
+H. Han, Y.Q. Ma, C. Meng, H.S. Shao, Y.J. Zhang, K.T. Chao, Phys. Rev. D 94, 014028 (2016), 1410.8537
+R. Aaij et al. (LHCb), Eur. Phys. J. C 75, 311 (2015), 1409.3612
+M. Butenschoen, Z.G. He, B.A. Kniehl, Phys. Rev. Lett. 114, 092004 (2015), 1411.5287
+H. Han, Y.Q. Ma, C. Meng, H.S. Shao, K.T. Chao, Phys. Rev. Lett. 114, 092005 (2015), 1411.7350
+H.F. Zhang, Z. Sun, W.L. Sang, R. Li, Phys. Rev. Lett. 114, 092006 (2015), 1412.0508
+R. Aaij et al. (LHCb), Eur. Phys. J. C 80, 191 (2020), 1911.03326

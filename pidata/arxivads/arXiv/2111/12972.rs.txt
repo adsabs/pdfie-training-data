@@ -1,0 +1,41 @@
+D. Antonio et al. (RBC and UKQCD Collaborations), Phys. Rev. D 75, 114501 (2007), arXiv:hep-lat/0612005
+C. Allton et al. (RBC and UKQCD Collaborations), Phys. Rev. D 76, 014504 (2007), arXiv:hep-lat/0701013
+D. Antonio et al. (RBC and UKQCD Collaborations), Phys. Rev. Lett. 100, 032001 (2008), arXiv:hep-ph/0702042
+D. Antonio et al. (RBC and UKQCD Collaborations), Phys. Rev. D 77, 014509 (2008), arXiv:0705.2340 [hep-lat]
+C. Allton et al. (RBC and UKQCD Collaborations), Phys. Rev. D 78, 114509 (2008), arXiv:0804.0473 [hep-lat]
+Y. Aoki et al. (RBC and UKQCD Collaborations), Phys. Rev. D 83, 074508 (2011), arXiv:1011.0892 [hep-lat]
+Y. Aoki et al., Phys. Rev. D 84, 014503 (2011), arXiv:1012.4178 [hep-lat]
+R. Arthur et al. (RBC and UKQCD Collaborations), Phys. Rev. D 87, 094514 (2013), arXiv:1208.4412 [hep-lat]
+T. Blum et al. (RBC and UKQCD Collaborations), Phys. Rev. D 93, 074505 (2016), arXiv:1411.7017 [hep-lat]
+P. A. Boyle et al., Phys. Rev. D 93, 054502 (2016), arXiv:1511.01950 [hep-lat]
+T. Yamazaki et al. (RBC and UKQCD Collaborations), Phys.Rev.Lett. 100, 171602 (2008), arXiv:0801.4016 [hep-lat]
+T. Yamazaki, Y. Aoki, T. Blum, H.-W. Lin, S. Ohta, et al. (RBC and UKQCD Collaborations), Phys.Rev. D79, 114505 (2009), arXiv:0904.2039 [hep-lat]
+Y. Aoki, T. Blum, H.-W. Lin, S. Ohta, S. Sasaki, et al., Phys.Rev. D82, 014501 (2010), arXiv:1003.3387
+S. Ohta (RBC and UKQCD Collaborations), PoS LATTICE2011, 168 (2011), arXiv:1111.5269 [hep-lat]
+M. Lin and S. Ohta (RBC and UKQCD Collaborations), Prog. Part. Nucl. Phys. 67, 218 (2012), arXiv:1112.5489 [hep-lat]
+M. Lin and S. Ohta (RBC and UKQCD Collaborations), PoS LATTICE2012, 171 (2012), arXiv:1212.3235 [hep-lat]
+S. Ohta (RBC and UKQCD Collaborations), PoS LATTICE2013, 274 (2013), arXiv:1309.7942 [hep-lat]
+S. Ohta (RBC and UKQCD Collaborations), Proceedings, 32nd International Symposium on Lattice Field Theory (Lattice 2014), PoS LATTICE2014, 149 (2014), arXiv:1410.8353 [hep-lat]
+S. Syritsyn et al., Proceedings, 32nd International Symposium on Lattice Field Theory (Lattice 2014): Brookhaven, NY, USA, June 23-28, 2014, PoS LATTICE2014, 134 (2015), arXiv:1412.3175 [hep-lat]
+S. Ohta (LHP, RBC, and UKQCD Collaborations), Proceedings, 33rd International Symposium on Lattice Field Theory (Lattice 2015): Kobe, Japan, July 14-18, 2015, PoS LATTICE2015, 124 (2016), arXiv:1511.05126 [hep-lat]
+M. Abramczyk, M. Lin, A. Lytle, and S. Ohta (RBC and UKQCD Collaborations), Proceedings, 34th International Symposium on Lattice Field Theory (Lattice 2016): Southampton, UK, July 24-30, 2016, PoS LATTICE2016, 150 (2016), arXiv:1610.09773 [hep-lat]
+S. Ohta (RBC and UKQCD Collaborations), Proceedings, 35th International Symposium on Lattice Field Theory (Lattice 2017): Granada, Spain, June 18-24, 2017, EPJ Web Conf. 175, 06012 (2018), arXiv:1710.06656 [hep-lat]
+S. Ohta, Proceedings, 36th International Symposium on Lattice Field Theory (Lattice 2018): East Lansing, MI, United States, July 22-28, 2018, PoS LATTICE2018, 128 (2018), arXiv:1810.09737 [hep-lat]
+S. Ohta (LHP, RBC and UKQCD Collaborations), PoS LATTICE2019, 051 (2019), arXiv:1910.13860 [hep-lat]
+M. Abramczyk, T. Blum, T. Izubuchi, C. Jung, M. Lin, A. Lytle, S. Ohta, and E. Shintani, Phys. Rev. D 101, 034510 (2020), arXiv:1911.03524 [hep-lat]
+Particle Data Group, Progress of Theoretical and Experimental Physics 2020, 10.1093/ptep/ptaa104 (2020), 083C01, https://academic.oup.com/ptep/article-pdf/2020/8/083C01/34673722/ptaa104.pdf
+J. Dragos, R. Horsley, W. Kamleh, D. B. Leinweber, Y. Nakamura, P. E. L. Rakow, G. Schierholz, R. D. Young, and J. M. Zanotti, Phys. Rev. D94, 074505 (2016), arXiv:1606.03195 [hep-lat]
+T. Bhattacharya, V. Cirigliano, S. Cohen, R. Gupta, H.-W. Lin, and B. Yoon, Phys. Rev. D94, 054508 (2016), arXiv:1606.07049 [hep-lat]
+J. Liang, Y.-B. Yang, K.-F. Liu, A. Alexandru, T. Draper, and R. S. Sufian, Phys. Rev. D96, 034519 (2017), arXiv:1612.04388 [hep-lat]
+K.-I. Ishikawa, Y. Kuramashi, S. Sasaki, N. Tsukamoto, A. Ukawa, and T. Yamazaki (PACS), Phys. Rev. D98, 074510 (2018), arXiv:1807.03974 [hep-lat]
+C. C. Chang et al., Nature 558, 91 (2018), arXiv:1805.12130 [hep-lat]
+E. Shintani, K.-I. Ishikawa, Y. Kuramashi, S. Sasaki, and T. Yamazaki, Phys. Rev. D99, 014510 (2019), arXiv:1811.07292 [hep-lat]
+N. Hasan, J. Green, S. Meinel, M. Engelhardt, S. Krieg, J. Negele, A. Pochinsky, and S. Syritsyn, Phys. Rev. D99, 114505 (2019), arXiv:1903.06487 [hep-lat]
+T. Harris, G. von Hippel, P. Junnarkar, H. B. Meyer, K. Ottnad, J. Wilhelm, H. Wittig, and L. Wrang, Phys. Rev. D100, 034513 (2019), arXiv:1905.01291 [hep-lat]
+O. Bar and H. Colic, Phys. Rev. D 103, 114514 (2021), arXiv:2104.00329 [hep-lat]
+O. Bar and H. Colic, in 38th International Symposium on Lattice Field Theory (2021) arXiv:2109.14930 [hep-lat]
+M. A. Clark, C. Jung, and C. Lehner, Proceedings, 35th International Symposium on Lattice Field Theory (Lattice 2017): Granada, Spain, June 18-24, 2017, EPJ Web Conf. 175, 14023 (2018), arXiv:1710.06884 [hep-lat]
+E. Shintani, R. Arthur, T. Blum, T. Izubuchi, C. Jung, and C. Lehner, Phys. Rev. D91, 114511 (2015), arXiv:1402.0244 [hep-lat]
+C. Alexandrou, S. Gusken, F. Jegerlehner, K. Schilling, and R. Sommer, Nucl.Phys. B414, 815 (1994), arXiv:hep-lat/9211042
+F. Berruto, T. Blum, K. Orginos, and A. Soni, Phys.Rev. D73, 054509 (2006), arXiv:hep-lat/0512004 [hep-lat]
+M. Goldberger and S. Treiman, Phys.Rev. 110, 1178 (1958)

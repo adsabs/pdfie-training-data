@@ -1,0 +1,84 @@
+Allain S., 1998, A&A, 333, 629
+Amard L., Palacios A., Charbonnel C., Gallet F., Georgy C., Lagarde N., Siess L., 2019, A&A, 631, A77
+Baraffe I., Chabrier G., 2010, A&A, 521, A44
+Baraffe I., Chabrier G., Allard F., Hauschildt P. H., 1998, A&A, 337, 403
+Barnes S. A., 2010,, ApJ, 722, 222
+Barnes S. A., Kim Y.-C., 2010,, ApJ, 721, 675
+Bastian N., Covey K. R., Meyer M. R., 2010, ARA&A, 48, 339
+Berlanas S. R., Herrero A., Comeron F., Simon-Diaz S., Cervino M., Pasquali A., 2018, A&A, 620, A56
+Biazzo K., Randich S., Palla F., 2011, A&A, 525, A35
+Bouvier J., Matt S. P., Mohanty S., Scholz A., Stassun K. G., Zanni C., 2014, Protostars and Planets VI, pp 433-450
+Casamiquela L., et al., 2017,, MNRAS, 470, 4363
+Chaboyer B., Demarque P., Pinsonneault M. H., 1995,, ApJ, 441, 876
+Cieza L., Baliber N., 2007,, ApJ, 671, 605
+Coker C. T., Pinsonneault M., Terndrup D. M., 2016,, ApJ, 833, 122
+Concha-Ramirez F., Wilhelm M. J. C., Portegies Zwart S., van Terwisga S. E., Hacar A., 2021,, MNRAS, 501, 1782
+Covey K. R., et al., 2016,, ApJ, 822, 81
+Cranmer S. R., Saar S. H., 2011,, ApJ, 741, 54
+D'Orazi V., Randich S., Flaccomio E., Palla F., Sacco G. G., Pallavicini R., 2009, A&A, 501, 973
+Damian B., Jose J., Samal M. R., Moraux E., Das S. R., Patra S., 2021, arXiv e-prints, p. arXiv:2101.08804
+Davies C. L., Gregory S. G., Greaves J. S., 2014,, MNRAS, 444, 1157
+Demarque P., Guenther D. B., Li L. H., Mazumdar A., Straka C. W., 2008, Ap&SS, 316, 31
+Dufton P. L., Brown P. J. F., Fitzsimmons A., Lennon D. J., 1990, A&A, 232, 431
+Edwards S., et al., 1993, AJ, 106, 372
+Ferreira J., Pelletier G., Appl S., 2000,, MNRAS, 312, 387
+Gallet F., Bouvier J., 2013, A&A, 556, A36
+Gallet F., Bouvier J., 2015, A&A, 577, A98
+Gallet F., Zanni C., Amard L., 2019, A&A, 632, A6
+Ghosh P., Lamb F. K., 1979,, ApJ, 234, 296
+Gondoin P., 2017, A&A, 599, A122
+Guarcello M. G., et al., 2013,, ApJ, 773, 135
+Guarcello M. G., et al., 2021, A&A, 650, A157
+Hartman J. D., et al., 2008,, ApJ, 675, 1233
+Hartman J. D., et al., 2009,, ApJ, 691, 342
+Hartman J. D., Bakos G. A., Kovacs G., Noyes R. W., 2010,, MNRAS, 408, 475
+Hartmann L., Calvet N., Gullbring E., D'Alessio P., 1998,, ApJ, 495, 385
+Herczeg G. J., Hillenbrand L. A., 2015,, ApJ, 808, 23
+Hernandez J., et al., 2007,, ApJ, 662, 1067
+Hernandez J., Hartmann L., Calvet N., Jeffries R. D., Gutermuth R., Muzerolle J., Stauffer J., 2008,, ApJ, 686, 1195
+Ireland L. G., Zanni C., Matt S. P., Pantolmos G., 2021,, ApJ, 906, 4
+Irwin J., Hodgkin S., Aigrain S., Hebb L., Bouvier J., Clarke C., Moraux E., Bramich D. M., 2007,, MNRAS, 377, 741
+Irwin J., Hodgkin S., Aigrain S., Bouvier J., Hebb L., Irwin M., Moraux E., 2008,, MNRAS, 384, 675
+Kawaler S. D., 1988,, ApJ, 333, 236
+Koenigl A., 1991,, ApJ, 370, L39
+Kroupa P., Weidner C., Pflamm-Altenburg J., Thies I., Dabringhausen J., Marks M., Maschberger T., 2013, The Stellar and Sub-Stellar Initial Mass Function of Simple and Composite Populations. p. 115, doi:10.1007/978-94-007-5612-0_4
+Landin N. R., Mendes L. T. S., Vaz L. P. R., Alencar S. H. P., 2016, A&A, 586, A96
+Lanzafame A. C., Spada F., 2015, A&A, 584, A30
+Littlefair S. P., Naylor T., Mayne N. J., Saunders E. S., Jeffries R. D., 2010,, MNRAS, 403, 545
+Lodieu N., Perez-Garrido A., Smart R. L., Silvotti R., 2019, A&A, 628, A66
+MacGregor K. B., Brenner M., 1991,, ApJ, 376, 204
+Matt S., Pudritz R. E., 2005,, ApJ, 632, L135
+Matt S. P., MacGregor K. B., Pinsonneault M. H., Greene T. P., 2012,, ApJ, 754, L26
+Matt S. P., Brun A. S., Baraffe I., Bouvier J., Chabrier G., 2015,, ApJ, 799, L23
+Mayne N. J., Naylor T., 2008,, MNRAS, 386, 261
+Moraux E., et al., 2013, A&A, 560, A13
+Netopil M., Paunzen E., Heiter U., Soubiran C., 2016, A&A, 585, A150
+Padgett D. L., 1996,, ApJ, 471, 847
+Pecaut M. J., Mamajek E. E., Bubar E. J., 2012,, ApJ, 746, 154
+Rebull L. M., Wolff S. C., Strom S. E., 2004, AJ, 127, 1029
+Rebull L. M., Stauffer J. R., Megeath S. T., Hora J. L., Hartmann L., 2006,, ApJ, 646, 297
+Rebull L. M., et al., 2016, AJ, 152, 113
+Rebull L. M., Stauffer J. R., Hillenbrand L. A., Cody A. M., Bouvier J., Soderblom D. R., Pinsonneault M., Hebb L., 2017,, ApJ, 839, 92
+Rebull L. M., Stauffer J. R., Cody A. M., Hillenbrand L. A., David T. J., Pinsonneault M., 2018, AJ, 155, 196
+Rebull L. M., Stauffer J. R., Cody A. M., Hillenbrand L. A., Bouvier J., Roggero N., David T. J., 2020, AJ, 159, 273
+Ribas A., Merin B., Bouy H., Maud L. T., 2014, A&A, 561, A54
+Romanova M. M., Ustyugova G. V., Koldoba A. V., Lovelace R. V. E., 2009,, MNRAS, 399, 1802
+Roquette J., Bouvier J., Alencar S. H. P., Vaz L. P. R., Guarcello M. G., 2017, A&A, 603, A106
+Roquette J., Matt S. P., Winter A. J., Amard L., Stasevic S., 2021,, MNRAS, 508, 3710
+Shu F., Najita J., Ostriker E., Wilkin F., Ruden S., Lizano S., 1994,, ApJ, 429, 781
+Slesnick C. L., Hillenbrand L. A., Carpenter J. M., 2008,, ApJ, 688, 377
+Smartt S. J., Rolleston W. R. J., 1997,, ApJ, 481, L47
+Soderblom D. R., Hillenbrand L. A., Jeffries R. D., Mamajek E. E., Naylor T., 2014, in Beuther H., Klessen R. S., Dullemond C. P., Henning T., eds, Protostars and Planets VI. p. 219 (arXiv:1311.7024), doi:10.2458/azu_uapress_9780816531240-ch010
+Somers G., Pinsonneault M. H., 2015,, MNRAS, 449, 4131
+Southworth J., Maxted P. F. L., Smalley B., 2004,, MNRAS, 349, 547
+Spada F., Lanzafame A. C., 2020, A&A, 636, A76
+Spada F., Lanzafame A. C., Lanza A. F., Messina S., Collier Cameron A., 2011,, MNRAS, 416, 447
+Stauffer J. R., Schultz G., Kirkpatrick J. D., 1998,, ApJ, 499, L199
+Takeda Y., Hashimoto O., Honda S., 2017, PASJ, 69, 1
+Tamajo E., Pavlovski K., Southworth J., 2011, A&A, 526, A76
+Vasconcelos M. J., Bouvier J., 2015, A&A, 578, A89
+Vasconcelos M. J., Bouvier J., 2017, A&A, 600, A116
+Viana Almeida P., Santos N. C., Melo C., Ammler-von Eiff M., Torres C. A. O., Quast G. R., Gameiro J. F., Sterzik M., 2009, A&A, 501, 965
+Wright N. J., Drake J. J., Drew J. E., Vink J. S., 2010,, ApJ, 713, 871
+Wright N. J., Drew J. E., Mohr-Smith M., 2015,, MNRAS, 449, 741
+Zanni C., Ferreira J., 2013, A&A, 550, A99

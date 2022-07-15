@@ -1,0 +1,46 @@
+Acuner Z., Ryde F., Pe'er A., Mortlock D., Ahlgren B., 2020,, ApJ, 893, 128
+Ahlgren B., Larsson J., Nymark T., Ryde F., Pe'er A., 2015,, MNRAS, 454, L31
+Band D., et al., 1993,, ApJ, 413, 281
+Barat C., Lestrade J. P., Dezalay J. P., Hurley K., Sunyaev R., Terekhov O., Kuznetsov A., 1998, in Meegan C. A., Preece R. D., Koshut T. M., eds, American Institute of Physics Conference Series Vol. 428, Gamma-Ray Bursts, 4th Hunstville Symposium. pp 278-283, doi:10.1063/1.55335
+Beloborodov A. M., 2010,, MNRAS, 407, 1033
+Beloborodov A. M., 2011,, ApJ, 737, 68
+Beloborodov A. M., 2017,, ApJ, 838, 125
+Blandford R. D., Payne D. G., 1981,, MNRAS, 194, 1041
+Bromberg O., Mikolitzky Z., Levinson A., 2011,, ApJ, 733, 85
+Chang J., Cooper G., 1970, Journal of Computational Physics, 6, 1
+Dereli-Begue H., Pe'er A., Ryde F., 2020,, ApJ, 897, 145
+Golenetskii S. V., Mazets E. P., Aptekar R. L., Ilinskii V. N., 1983,, Nature, 306, 451
+Gottlieb O., Levinson A., Nakar E., 2019,, MNRAS, 488, 1416
+Henriksen R. N., Westbury C. F., 1988,, ApJ, 327, 50
+Ito H., Levinson A., Stern B. E., Nagataki S., 2018,, MNRAS, 474, 2828
+Ito H., Levinson A., Nakar E., 2020,, MNRAS, 499, 4961
+Klotz A., Boer M., Atteia J. L., Gendre B., 2009, AJ, 137, 4100
+Levinson A., 2012,, ApJ, 756, 174
+Levinson A., 2020, arXiv e-prints, p. arXiv:2009.10478
+Levinson A., Bromberg O., 2008, PhRvL, 100, 131101
+Levinson A., Nakar E., 2020, PhR, 866, 1
+Li L., Ryde F., Pe'er A., Yu H.-F., Acuner Z., 2020, arXiv e-prints, p. arXiv:2012.03038
+Lopez-Camara D., Morsony B. J., Begelman M. C., Lazzati D., 2013,, ApJ, 767, 19
+Lopez-Camara D., Morsony B. J., Lazzati D., 2014,, MNRAS, 442, 2202
+Lundman C., Beloborodov A. M., 2019,, ApJ, 879, 83
+Lundman C., Beloborodov A. M., 2021, ApJL, 907, L13
+Lundman C., Pe'er A., Ryde F., 2013,, MNRAS, 428, 2430
+Lundman C., Beloborodov A. M., Vurm I., 2018,, ApJ, 858, 7
+Nakar E., Sari R., 2012,, ApJ, 747, 88
+Oganesyan G., Nava L., Ghirlanda G., Melandri A., Celotti A., 2019, A&A, 628, A59
+Oganesyan G., et al., 2021, arXiv e-prints, p. arXiv:2109.00010
+Pe'er A., 2008,, ApJ, 682, 463
+Rees M. J., Meszaros P., 2005,, ApJ, 628, 847
+Rybicki G. B., Lightman A. P., 1979, Radiative processes in astro-physics. John Wiley & Sons, Inc
+Ryde F., et al., 2011,, MNRAS, 415, 3693
+Ryde F., Lundman C., Acuner Z., 2017,, MNRAS, 472, 1897
+Samuelsson F., Begue D., Ryde F., Pe'er A., 2019,, ApJ, 876, 93
+Samuelsson F., Begue D., Ryde F., Pe'er A., Murase K., 2020,, ApJ, 902, 148
+Strohmayer T. E., Fenimore E. E., Murakami T., Yoshida A., 1998,, ApJ, 500, 873
+Vianello G., et al., 2015, arXiv e-prints, p. arXiv:1507.08343
+Vianello G., Gill R., Granot J., Omodei N., Cohen-Tanugi J., Longo F., 2018,, ApJ, 864, 163
+Vurm I., Beloborodov A. M., 2016,, ApJ, 831, 175
+Wheaton W. A., et al., 1973, ApJL, 185, L57
+Yost S. A., et al., 2007,, ApJ, 669, 1107
+Yu H.-F., et al., 2016, A&A, 588, A135
+Yu H.-F., Dereli-Begue H., Ryde F., 2019,, ApJ, 886, 20

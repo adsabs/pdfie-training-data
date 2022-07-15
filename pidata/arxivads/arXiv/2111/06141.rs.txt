@@ -1,0 +1,14 @@
+Baldi R. D., Capetti A., Massaro F., 2018, A&A, 609, A1
+Baldi R. D., Capetti A., Giovannini G., 2019,, MNRAS, 482, 2294
+Capetti A., Baldi R. D., Brienza M., Morganti R., Giovannini G., 2019, A&A, 631, A176
+Cheng X. P., An T., 2018,, ApJ, 863, 155
+Marcha M. J. M., Caccianiga A., 2013,, MNRAS, 430, 2464
+Mikhailov A. G., Sotnikova Y. V., 2021, Astronomy Reports, 65, 233
+O'Dea C. P., Baum S. A., Stanghellini C., 1991,, ApJ, 380, 66
+Parijskij Y. N., 1993, IEEE Antennas and Propagation Magazine, 35, 7
+Sotnikova Y. V., Mufakharov T. V., Majorova E. K., Mingaliev M. G., Udovitskii R. Y., Bursov N. N., Semenova T. A., 2019, Astrophysical Bulletin, 74, 348
+Udovitskiy R. Y., Sotnikova Y. V., Mingaliev M. G., Tsybulev P. G., Zhekanis G. V., Nizhelskij N. A., 2016, Astrophysical Bulletin, 71, 496
+Verkhodanov O. V., 1997, in Hunt G., Payne H., eds, Astronomical Society of the Pacific Conference Series Vol. 125, Astronomical Data Analysis Software and Systems VI. p. 46
+Verkhodanov O. V., Trushkin S. A., Chernenkov V. N., 1997, Baltic Astronomy, 6, 275
+Verkhodanov O. V., Trushkin S. A., Andernach H., Chernenkov V. N., 2005, Bulletin of the Special Astrophysics Observatory, 58, 118
+de Vries W. H., Barthel P. D., O'Dea C. P., 1997, A&A, 321, 105

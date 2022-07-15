@@ -1,0 +1,50 @@
+Amati, L., Frontera, F., Tavani, M., et al. 2002, A&A, 390, 81. doi:10.1051/0004-6361:20020722
+Amati, L. 2006,, MNRAS, 372, 233. doi:10.1111/j.1365-2966.2006.10840.x
+Amati, L., Guidorzi, C., Frontera, F., et al. 2008,, MNRAS, 391, 577. doi:10.1111/j.1365-2966.2008.13943.x
+Amati, L. & Della V. 2013, International Journal of Modern Physics D, 22, 14, 1330028. doi.org/10.1142/S0218271813300280
+Amati, L., D'Agostino, R., Luongo, O., et al. 2019,, MNRAS, 486, L46. doi:10.1093/mnrasl/slz056
+Banados, E., Venemans, B., Mazzucchelli, C., et al. 2018,, Nature, 553, 473. doi:10.1038/nature25180
+Band, D., Matteson, J., Ford, L., et al. 1993,, ApJ, 413, 281. doi:10.1086/172995
+Cattoen, C. & Visser, M. 2007, Classical and Quantum Gravity, 24, 5985. doi:10.1088/0264-9381/24/23/018
+Demianski, M., Piedipalumbo, E., Sawant, D., et al. 2017a, A&A, 598, A112. doi:10.1051/0004-6361/201628909
+Demianski, M., Piedipalumbo, E., Sawant, D., et al. 2017b, A&A, 598, A113. doi:10.1051/0004-6361/201628911
+Elvis, M., Wilkes, B. J., McDowell, J. C., et al. 1994,, ApJS, 95, 1. doi:10.1086/192093
+Gao, H., Liang, N., & Zhu, Z.-H. 2012, International Journal of Modern Physics D, 21, 1250016-1-1250016-16. doi:10.1142/S0218271812500162
+Gehrels, N., Chincarini, G., Giommi, P., et al. 2004,, ApJ, 611, 1005. doi:10.1086/422091
+Ghirlanda, G., Ghisellini, G., & Lazzati, D. 2004,, ApJ, 616, 331. doi:10.1086/424913
+Ghirlanda, G., Ghisellini, G., Lazzati, D., et al. 2004,, ApJ, 613, L13. doi:10.1086/424915
+Ghirlanda, G., Nava, L., Ghisellini, G., et al. 2009, A&A, 496, 585. doi:10.1051/0004-6361/200811209
+Green, P. J., Aldcroft, T. L., Richards, G. T., et al. 2009,, ApJ, 690, 644. doi:10.1088/0004-637X/690/1/644
+Jin, C., Ward, M., & Done, C. 2012,, MNRAS, 422, 3268. doi:10.1111/j.1365-2966.2012.20847.x
+Just, D. W., Brandt, W. N., Shemmer, O., et al. 2007,, ApJ, 665, 1004. doi:10.1086/519990
+Khadka, N. & Ratra, B. 2020,, MNRAS, 497, 263. doi:10.1093/mnras/staa1855
+Liang, E. & Zhang, B. 2005,, ApJ, 633, 611. doi:10.1086/491594
+Liang, N., Xiao, W. K., Liu, Y., et al. 2008,, ApJ, 685, 354. doi:10.1086/590903
+Lusso, E. & Risaliti, G. 2016,, ApJ, 819, 154. doi:10.3847/0004-637X/819/2/154
+Montiel, A., Cabrera, J. I., & Hidalgo, J. C. 2021,, MNRAS, 501, 3515. doi:10.1093/mnras/staa3926
+Mortlock, D., Warren, S., Venemans, B., et al. 2011,, Nature, 474, 616. doi:10.1038/nature10159
+Muccino, M., Izzo, L., Luongo, O., et al. 2021,, ApJ, 908, 181. doi:10.3847/1538-4357/abd254
+Reichart, D.E., Lamb, D.Q., Fenimore , E.E., Ramirez-Ruiz, E., Cline ,T.L., Hurley, K., 2001,, ApJ, 552, 57
+Risaliti, G. & Lusso, E. 2019, Nature Astronomy, 3, 272. doi:10.1038/s41550-018-0657-z
+Salvaterra, R., Della Valle, M., Campana, S., et al. 2009,, Nature, 461, 1258. doi:10.1038/nature08445
+Sanders, D. B., Phinney, E. S., Neugebauer, G., et al. 1989,, ApJ, 347, 29. doi:10.1086/168094
+Schaefer, B. E. 2007,, ApJ, 660, 16. doi:10.1086/511742
+Shang, Z., Brotherton, M. S., Wills, B. J., et al. 2011,, ApJS, 196, 2. doi:10.1088/0067-0049/196/1/2
+Steffen, A. T., Strateva, I., Brandt, W. N., et al. 2006, AJ, 131, 2826. doi:10.1086/503627
+Strateva, I. V., Brandt, W. N., Schneider, D. P., et al. 2005, AJ, 130, 387. doi:10.1086/431247
+Tanvir, N. R., Fox, D. B., Levan, A. J., et al. 2009,, Nature, 461, 1254. doi:10.1038/nature08459
+Trammell, G. B., Vanden Berk, D. E., Schneider, D. P., et al. 2007, AJ, 133, 1780. doi:10.1086/511817
+Vignali, C., Brandt, W. N., & Schneider, D. P. 2003, AJ, 125, 433. doi:10.1086/345973
+Visser, M. 2004, Classical and Quantum Gravity, 21, 2603. doi:10.1088/0264-9381/21/11/006
+Vitagliano, V., Xia, J.-Q., Liberati, S., et al. 2010, J. Cosmology Astropart. Phys., 2010, 005. doi:10.1088/1475-7516/2010/03/005
+Wang, F. Y., Dai, Z. G., & Zhu, Z.-H. 2007,, ApJ, 667, 1. doi:10.1086/52076
+Wang, F. Y., Dai, Z. G., & Liang, E. W. 2015, New A Rev., 67, 1. doi:10.1016/j.newar.2015.03.001
+Wang, G.-J., Yu, H., Li, Z.-X., et al. 2017,, ApJ, 836, 103. doi:10.3847/1538-4357/aa5b9b
+Wang, F.-G., Yang, J.-Y., Fan, X.-H., et al. 2018,, ApJ, 869, L9. doi:10.3847/2041-8213/aaf1d2
+Wei, J.-J., Wu, X.-F., & Melia, F. 2013,, ApJ, 772, 43. doi:10.1088/0004-637X/772/1/43
+Weinberg, S. 1972, Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity, by Steven Weinberg, pp. 688. ISBN 0-471-92567-5. Wiley-VCH , July 1972., 688
+Yang, J.-Y., Wang, F.-G., Fan, X.-H., et al. 2020,, ApJ, 897, L14. doi:10.3847/2041-8213/ab9c26
+Young, M., Elvis, M., & Risaliti, G. 2010,, ApJ, 708, 1388. doi:10.1088/0004-637X/708/2/1388
+Zhang, B. 2018, The Physics of Gamma-Ray Bursts by Bing Zhang. ISBN: 978-1-139-22653-0. Cambridge Univeristy Press, 2018. doi:10.1017/9781139226530
+Zheng, X.-G., Liao, K., Marek, B., et al. 2020,, ApJ, 892, 103. doi:10.3847/1538-4357/ab7995
+Zheng, X.-G., Cao, S., Biesiada, M., et al. 2021, arXiv: 2103.07139, doi: 10.1007/s11433-020-1664-9

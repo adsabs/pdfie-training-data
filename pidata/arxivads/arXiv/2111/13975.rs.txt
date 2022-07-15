@@ -1,0 +1,40 @@
+Z. Fu, Phys. Rev. D 87, 074501 (2013), 1303.0517.
+K. Sasaki, N. Ishizuka, M. Oka, and T. Yamazaki (PACS-CS), Phys. Rev. D 89, 054502 (2014), 1311.7226.
+C. Helmes, C. Jost, B. Knippschild, C. Liu, J. Liu, L. Liu, C. Urbach, M. Ueding, Z. Wang, and M. Werner (ETM), JHEP 09, 109 (2015), 1506.00408.
+L. Liu et al., Phys. Rev. D 96, 054516 (2017), 1612.02061.
+Z. Fu and X. Chen, Phys. Rev. D 98, 014514 (2018), 1712.02219.
+C. Culver, M. Mai, A. Alexandru, M. Doring, and F. X. Lee, Phys. Rev. D100, 034509 (2019), 1905.10202.
+M. Mai, C. Culver, A. Alexandru, M. Doring, and F. X. Lee, Phys.Rev.D 100, 114514 (2019), 1908.01847.
+M. Fischer, B. Kostrzewa, L. Liu, F. Romero-Lopez, M. Ueding, and C. Urbach, Eur. Phys. J. C 81, 436 (2021), 2008.03035.
+M. Fischer, B. Kostrzewa, M. Mai, M. Petschlies, F. Pittler, M. Ueding, C. Urbach, and M. Werner (Extended Twisted Mass, ETM), Phys. Lett. B 819, 136449 (2021), 2006.13805.
+R. Frezzotti, P. A. Grassi, S. Sint, and P. Weisz (Alpha), JHEP 08, 058 (2001), hep-lat/0101001.
+C. Helmes, C. Jost, B. Knippschild, B. Kostrzewa, L. Liu, C. Urbach, and M. Werner, Phys. Rev. D 96, 034510 (2017), 1703.04737.
+C. Helmes, C. Jost, B. Knippschild, B. Kostrzewa, L. Liu, F. Pittler, C. Urbach, and M. Werner (ETM), Phys. Rev. D 98, 114511 (2018), 1809.08886.
+X. Feng, K. Jansen, and D. B. Renner, Phys. Lett. B684, 268 (2010), 0909.3255.
+M. Luscher, Commun. Math. Phys. 105, 153 (1986).
+M. Luscher, Nucl. Phys. B 354, 531 (1991).
+R. Frezzotti and G. C. Rossi, JHEP 10, 070 (2004), hep-lat/0407002.
+C. W. Bernard and M. F. L. Golterman, Phys. Rev. D 49, 486 (1994), hep-lat/9306005.
+C. Bernard and M. Golterman, Phys. Rev. D 88, 014004 (2013), 1304.1948.
+R. Frezzotti and G. C. Rossi, JHEP 08, 007 (2004), hep-lat/0306014.
+M. I. Buchoff, J.-W. Chen, and A. Walker-Loud, Phys. Rev. D 79, 074503 (2009), 0810.2464.
+Z. T. Draper and S. R. Sharpe, Phys. Rev. D 104, 034510 (2021), 2107.09742.
+J.-W. Chen, D. O'Connell, R. S. Van de Water, and A. Walker-Loud, Phys. Rev. D 73, 074510 (2006), hep-lat/0510024.
+S. R. Sharpe, in "(2006), hep-lat/0607016.
+M. Golterman, in "(2009), 0912.4042.
+G. Munster and C. Schmidt, Europhys. Lett. 66, 652 (2004), hep-lat/0311032.
+L. Scorzato, Eur. Phys. J. C 37, 445 (2004), hep-lat/0407023.
+S. R. Sharpe and J. M. S. Wu, Phys. Rev. D 70, 094029 (2004), hep-lat/0407025.
+A. Walker-Loud and J. M. S. Wu, Phys. Rev. D 72, 014506 (2005), hep-lat/0504001.
+M. T. Hansen and S. R. Sharpe, Phys. Rev. D 85, 014503 (2012), 1111.2404.
+A. Walker-Loud (2009), 0904.2404.
+O. Bar, G. Rupak, and N. Shoresh, Phys. Rev. D70, 034508 (2004), hep-lat/0306021.
+S. R. Sharpe and R. L. Singleton, Jr, Phys.Rev. D58, 074501 (1998), hep-lat/9804028.
+S. R. Sharpe and J. M. S. Wu, Phys. Rev. D 71, 074501 (2005), hep-lat/0411021.
+S. R. Sharpe and N. Shoresh, Phys. Rev. D 64, 114510 (2001), hep-lat/0108003.
+M. Golterman, S. R. Sharpe, and R. L. Singleton, Jr., Phys. Rev. D 71, 094503 (2005), hep-lat/0501015.
+P. Damgaard, K. Splittorff, and J. Verbaarschot, Phys.Rev.Lett. 105, 162002 (2010), 1001.2937.
+G. Akemann, P. Damgaard, K. Splittorff, and J. Verbaarschot, Phys.Rev. D83, 085014 (2011), 1012.0752.
+A. Abdel-Rehim et al. (ETM), Phys. Rev. D 95, 094515 (2017), 1507.05068.
+M. T. Hansen and S. R. Sharpe, Phys. Rev. D 85, 054504 (2012), 1112.3998.
+C. W. Bernard and M. F. L. Golterman, Phys. Rev. D 53, 476 (1996), hep-lat/9507004.

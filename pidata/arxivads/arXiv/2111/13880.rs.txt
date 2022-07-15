@@ -1,0 +1,51 @@
+Atwood, W. B., Abdo, A. A., Ackermann, M., et al. 2009,, ApJ, 697, 1071. doi:10.1088/0004-637X/697/2/1071
+Beuermann, K., Hessman, F. V., Reinsch, K., et al. 1999, A&A, 352, L26
+Burrows, D. N., Hill, J. E., Nousek, J. A., et al. 2005, Space Sci. Rev., 120, 165. doi:10.1007/s11214-005-5097-2
+Cantiello, M., Yoon, S.-C., Langer, N., et al. 2007, A&A, 465, L29. doi:10.1051/0004-6361:20077115
+Dai, Z. G. & Lu, T. 1998,, MNRAS, 298, 87. doi:10.1046/j.1365-8711.1998.01681.x
+Du, M., Yi, S.-X., Liu, T., et al. 2021,, ApJ, 908, 242. doi:10.3847/1538-4357/abd6bd
+Detmers, R. G., Langer, N., Podsiadlowski, P., et al. 2008, A&A, 484, 831. doi:10.1051/0004-6361:200809371
+Gehrels, N., Chincarini, G., Giommi, P., et al. 2004,, ApJ, 611, 1005. doi:10.1086/422091
+Ghirlanda, G., Nava, L., Ghisellini, G., et al. 2012,, MNRAS, 420, 483. doi:10.1111/j.1365-2966.2011.20053.x
+Japelj, J., Kopac, D., Kobayashi, S., et al. 2014,, ApJ, 785, 84. doi:10.1088/0004-637X/785/2/84
+Li, L., Wang, X.-G., Zheng, W., et al. 2020,, ApJ, 900, 176. doi:10.3847/1538-4357/aba757
+Li, Y., Wen, X., Sun, X., et al. 2020, Scientia Sinica Physica, Mechanica & Astronomica, 50, 129508. doi:10.1360/SSPMA-2019-0417
+Liang, E.-W., Li, L., Gao, H., et al. 2013,, ApJ, 774, 13. doi:10.1088/0004-637X/774/1/13
+Liang, E.-W., Yi, S.-X., Zhang, J., et al. 2010,, ApJ, 725, 2209. doi:10.1088/0004-637X/725/2/2209
+Liu, T., Gu, W.-M., & Zhang, B. 2017, New A Rev., 79, 1. doi:10.1016/j.newar.2017.07.001
+Liu, T., Song, C.-Y., Zhang, B., et al. 2018,, ApJ, 852, 20. doi:10.3847/1538-4357/aa9e4f
+MacFadyen, A. I. & Woosley, S. E. 1999,, ApJ, 524, 262. doi:10.1086/307790
+Meegan, C., Lichti, G., Bhat, P. N., et al. 2009,, ApJ, 702, 791. doi:10.1088/0004-637X/702/1/791
+Meszaros, P. & Rees, M. J. 1993,, ApJ, 405, 278. doi:10.1086/172360
+Meszaros, P. & Rees, M. J. 1997,, ApJ, 476, 232. doi:10.1086/303625
+Meszaros, P. 2002, ARA&A, 40, 137. doi:10.1146/annurev.astro.40.060401.093821
+Molinari, E., Vergani, S. D., Malesani, D., et al. 2007, A&A, 469, L13. doi:10.1051/0004-6361:20077388
+Nousek, J. A., Kouveliotou, C., Grupe, D., et al. 2006,, ApJ, 642, 389. doi:10.1086/500724
+Oates, S. R., Page, M. J., Schady, P., et al. 2009,, MNRAS, 395, 490. doi:10.1111/j.1365-2966.2009.14544.x
+Panaitescu, A. & Kumar, P. 2002,, ApJ, 571, 779. doi:10.1086/340094
+Piran, T. 2004, Reviews of Modern Physics, 76, 1143. doi:10.1103/RevModPhys.76.1143
+Qin, Y., Liang, E.-W., Liang, Y.-F., et al. 2013,, ApJ, 763, 15. doi:10.1088/0004-637X/763/1/15
+Qin, Y., Fragos, T., Meynet, G., et al. 2018, A&A, 616, A28. doi:10.1051/0004-6361/201832839
+Rees, M. J. & Meszaros, P. 1994, ApJL, 430, L93. doi:10.1086/187446
+Roming, P. W. A., Kennedy, T. E., Mason, K. O., et al. 2005, Space Sci. Rev., 120, 95. doi:10.1007/s11214-005-5095-4
+Rykoff, E. S., Aharonian, F., Akerlof, C. W., et al. 2009,, ApJ, 702, 489. doi:10.1088/0004-637X/702/1/489
+Sari, R. & Piran, T. 1999,, ApJ, 520, 641. doi:10.1086/307508
+Sari, R., Piran, T., & Narayan, R. 1998, ApJL, 497, L17. doi:10.1086/311269
+Si, S.-K., Qi, Y.-Q., Xue, F.-X., et al. 2018,, ApJ, 863, 50. doi:10.3847/1538-4357/aad08a
+Schulze, S., Klose, S., Bjornsson, G., et al. 2011, A&A, 526, A23. doi:10.1051/0004-6361/201015581
+Starling, R. L. C., van der Horst, A. J., Rol, E., et al. 2008,, ApJ, 672, 433. doi:10.1086/521975
+Sander, A. A. C. & Vink, J. S. 2020,, MNRAS, 499, 873. doi:10.1093/mnras/staa2712
+Wang, X.-G., Zhang, B., Liang, E.-W., et al. 2018,, ApJ, 859, 160. doi:10.3847/1538-4357/aabc13
+Wang, F., Zou, Y.-C., Liu, F., et al. 2020,, ApJ, 893, 77. doi:10.3847/1538-4357/ab0a86
+Woosley, S. E. 1993,, ApJ, 405, 273. doi:10.1086/172359
+Yi, S.-X., Wu, X.-F., Zou, Y.-C., et al. 2020,, ApJ, 895, 94. doi:10.3847/1538-4357/ab8a53
+Yi, S.-X., Xi, S.-Q., Yu, H., et al. 2016,, ApJS, 224, 20. doi:10.3847/0067-0049/224/2/20
+Yi, S.-X., Wu, X.-F., & Dai, Z.-G. 2013,, ApJ, 776, 120. doi:10.1088/0004-637X/776/2/120
+Yi, S.-X., Xie, W., Ma, S.-B., et al. 2021,, MNRAS, 507, 1047. doi:10.1093/mnras/stab2186
+Yi, S.-X., Lei, W.-H., Zhang, B., et al. 2017, Journal of High Energy Astrophysics, 13, 1. doi:10.1016/j.jheap.2017.01.001
+Yi, S.-X., Du, M., & Liu, T. 2021, arXiv:2111.01041
+Zhang, B. & Meszaros, P. 2004, International Journal of Modern Physics A, 19, 2385. doi:10.1142/S0217751X0401746X
+Zhang, B., Fan, Y. Z., Dyks, J., et al. 2006,, ApJ, 642, 354. doi:10.1086/500723
+Zhang, S.-N., Li, T., Lu, F., et al. 2020, Science China Physics, Mechanics, and Astronomy, 63, 249502. doi:10.1007/s11433-019-1432-6
+Zhao, W., Zhang, J.-C., Zhang, Q.-X., et al. 2020,, ApJ, 900, 112. doi:10.3847/1538-4357/aba43a
+Zhou, Q.-Q., Yi, S.-X., Huang, X.-L., et al. 2020, International Journal of Modern Physics D, 29, 2050043. doi:10.1142/S0218271820500431

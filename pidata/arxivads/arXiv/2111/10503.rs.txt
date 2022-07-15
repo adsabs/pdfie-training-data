@@ -1,0 +1,55 @@
+Aellig, M. R., Lazarus, A. J., & Steinberg, J. T. 2001, Geophys. Res. Lett., 28, 2767, doi: 10.1029/2000GL012771
+Alterman, B. L., & Kasper, J. C. 2019, ApJL, 879, L6, doi: 10.3847/2041-8213/ab2391
+Alterman, B. L., Kasper, J. C., Leamon, R. J., & McIntosh, S. W. 2021, SoPh, 296, 67, doi: 10.1007/s11207-021-01801-9
+Asplund, M., Grevesse, N., Sauval, A. J., & Scott, P. 2009, ARA&A, 47, 481, doi: 10.1146/annurev.astro.46.060407.145222
+Chen, P. F. 2011, Living Reviews in Solar Physics, 8, 1, doi: 10.12942/lrsp-2011-1
+Cheng, X., Zhang, J., Liu, Y., & Ding, M. D. 2011, ApJL, 732, L25, doi: 10.1088/2041-8205/732/2/L25
+Chi, Y., Shen, C., Wang, Y., et al. 2016, SoPh, 291, 2419, doi: 10.1007/s11207-016-0971-5
+Cranmer, S. R., van Ballegooijen, A. A., & Edgar, R. J. 2007,, ApJS, 171, 520, doi: 10.1086/518001
+Endeve, E., Lie-Svendsen, O., Hansteen, V. H., & Leer, E. 2005,, ApJ, 624, 402, doi: 10.1086/428938
+Feldman, U., Landi, E., & Laming, J. M. 2005,, ApJ, 619, 1142, doi: 10.1086/426539
+Fisk, L. A. 2003, Journal of Geophysical Research (Space Physics), 108, 1157, doi: 10.1029/2002JA009284
+Fisk, L. A., Schwadron, N. A., & Zurbuchen, T. H. 1999, J. Geophys. Res., 104, 19765, doi: 10.1029/1999JA900256
+Fu, H., Harrison, R. A., Davies, J. A., et al. 2020, ApJL, 900, L18, doi: 10.3847/2041-8213/abb083
+Fu, H., Madjarska, M. S., Li, B., Xia, L., & Huang, Z. 2018,, MNRAS, 478, 1884, doi: 10.1093/mnras/sty1211
+Gosling, J. T., McComas, D. J., Phillips, J. L., & Bame, S. J. 1991, J. Geophys. Res., 96, 7831, doi: 10.1029/91JA00316
+Gruesbeck, J. R., Lepri, S. T., & Zurbuchen, T. H. 2012,, ApJ, 760, 141, doi: 10.1088/0004-637X/760/2/141
+Gruesbeck, J. R., Lepri, S. T., Zurbuchen, T. H., & Antiochos, S. K. 2011,, ApJ, 730, 103, doi: 10.1088/0004-637X/730/2/103
+Gu, C., Yao, S., & Dai, L. 2020,, ApJ, 900, 123, doi: 10.3847/1538-4357/aba7b8
+Hollweg, J. V. 1986, J. Geophys. Res., 91, 4111, doi: 10.1029/JA091iA04p04111
+Huang, J., Liu, Y., Feng, H., et al. 2020,, ApJ, 893, 136, doi: 10.3847/1538-4357/ab7a28
+Jian, L., Russell, C. T., Luhmann, J. G., & Skoug, R. M. 2006, SoPh, 239, 337, doi: 10.1007/s11207-006-0132-3
+Jian, L. K., Russell, C. T., Luhmann, J. G., & Galvin, A. B. 2018,, ApJ, 855, 114, doi: 10.3847/1538-4357/aab189
+Jiang, C., Feng, X., Liu, R., et al. 2021, Nature Astronomy, doi: 10.1038/s41550-021-01414-z
+Kasper, J. C., Stevens, M. L., Korreck, K. E., et al. 2012,, ApJ, 745, 162, doi: 10.1088/0004-637X/745/2/162
+Kasper, J. C., Stevens, M. L., Lazarus, A. J., Steinberg, J. T., & Ogilvie, K. W. 2007,, ApJ, 660, 901, doi: 10.1086/510842
+Killie, M. A., Lie-Svendsen, O., & Leer, E. 2005, ApJL, 632, L155, doi: 10.1086/497827
+Laming, J. M. 2004,, ApJ, 614, 1063, doi: 10.1086/423780
+--. 2015, Living Reviews in Solar Physics, 12, 2, doi: 10.1007/lrsp-2015-2
+Lepri, S. T., & Zurbuchen, T. H. 2004, Journal of Geophysical Research (Space Physics), 109, A01112, doi: 10.1029/2003JA009954
+Lin, J., & Forbes, T. G. 2000, J. Geophys. Res., 105, 2375, doi: 10.1029/1999JA900477
+Lin, J., Raymond, J. C., & van Ballegooijen, A. A. 2004,, ApJ, 602, 422, doi: 10.1086/380900
+Lynch, B. J., Reinard, A. A., Mulligan, T., et al. 2011,, ApJ, 740, 112, doi: 10.1088/0004-637X/740/2/112
+McComas, D. J., Bame, S. J., Barker, P., et al. 1998, SSRv, 86, 563, doi: 10.1023/A:1005040232597
+McIntosh, S. W., Kiefer, K. K., Leamon, R. J., Kasper, J. C., & Stevens, M. L. 2011, ApJL, 740, L23, doi: 10.1088/2041-8205/740/1/L23
+Nieves-Chinchilla, T., Vourlidas, A., Raymond, J. C., et al. 2018, SoPh, 293, 25, doi: 10.1007/s11207-018-1247-z
+Owens, M. J. 2018, SoPh, 293, 122, doi: 10.1007/s11207-018-1343-0
+Patsourakos, S., Vourlidas, A., & Stenborg, G. 2013,, ApJ, 764, 125, doi: 10.1088/0004-637X/764/2/125
+Richardson, I. G., & Cane, H. V. 2010, SoPh, 264, 189, doi: 10.1007/s11207-010-9568-6
+Schmelz, J. T. 1993,, ApJ, 408, 373, doi: 10.1086/172594
+Shemi, A. 1991,, MNRAS, 251, 221, doi: 10.1093/mnras/251.2.221
+Song, H., Li, L., Sun, Y., et al. 2021a, SoPh, 296, 111, doi: 10.1007/s11207-021-01852-y
+Song, H., & Yao, S. 2020, Sci China Tech Sci, 63, 2171, doi: 10.1007/s11431-020-1680-y
+Song, H., Hu, Q., Cheng, X., et al. 2021b, Frontiers in Physics, 9, 375, doi: 10.3389/fphy.2021.684345
+Song, H. Q., Chen, Y., Zhang, J., et al. 2015, ApJL, 808, L15, doi: 10.1088/2041-8205/808/1/L15
+Song, H. Q., Zhang, J., Chen, Y., & Cheng, X. 2014, ApJL, 792, L40, doi: 10.1088/2041-8205/792/2/L40
+Song, H. Q., Zhong, Z., Chen, Y., et al. 2016,, ApJS, 224, 27, doi: 10.3847/0067-0049/224/2/27
+Song, H. Q., Chen, Y., Li, B., et al. 2017, ApJL, 836, L11, doi: 10.3847/2041-8213/aa5d54
+Stone, E. C., Frandsen, A. M., Mewaldt, R. A., et al. 1998, SSRv, 86, 1, doi: 10.1023/A:1005082526237
+Verdini, A., Velli, M., & Buchlin, E. 2009, ApJL, 700, L39, doi: 10.1088/0004-637X/700/1/L39
+Woo, R., Habbal, S. R., & Feldman, U. 2004,, ApJ, 612, 1171, doi: 10.1086/422799
+Wu, C.-C., & Lepping, R. P. 2011, SoPh, 269, 141, doi: 10.1007/s11207-010-9684-3
+Xu, M., Shen, C., Wang, Y., Luo, B., & Chi, Y. 2019, ApJL, 884, L30, doi: 10.3847/2041-8213/ab4717
+Yeh, J. J., & Lindau, I. 1985, Atomic Data and Nuclear Data Tables, 32, 1, doi: 10.1016/0092-640X(85)90016-6
+Zhao, L., Landi, E., Lepri, S. T., et al. 2017,, ApJ, 846, 135, doi: 10.3847/1538-4357/aa850c
+Zurbuchen, T. H., Weberg, M., von Steiger, R., et al. 2016,, ApJ, 826, 10, doi: 10.3847/0004-637X/826/1/10

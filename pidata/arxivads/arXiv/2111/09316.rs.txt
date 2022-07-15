@@ -1,0 +1,62 @@
+Ahn, C. P., Alexandroff, R., Allende Prieto, C., et al. 2012,, ApJS, 203, 21
+Antonucci, R. R. J. & Miller, J. S. 1985,, ApJ, 297, 621
+Arnaud, K. A. 1996, in Astronomical Society of the Pacific Conference Series, Vol. 101, Astronomical Data Analysis Software and Systems V, ed. G. H. Jacoby & J. Barnes, 17
+Balokovic, M., Brightman, M., Harrison, F. A., et al. 2018,, ApJ, 854, 42
+Blandford, R. D. & Znajek, R. L. 1977,, MNRAS, 179, 433
+Braatz, J. A. & Gugliucci, N. E. 2008,, ApJ, 678, 96
+Braatz, J. A., Reid, M. J., Humphreys, E. M. L., et al. 2010,, ApJ, 718, 657
+Buchner, J., Georgakakis, A., Nandra, K., et al. 2015,, ApJ, 802, 89
+Calderone, G., Ghisellini, G., Colpi, M., & Dotti, M. 2013,, MNRAS, 431, 210
+Campitiello, S., Ghisellini, G., Sbarrato, T., & Calderone, G. 2018, A&A, 612, A59
+Cash, W. 1979,, ApJ, 228, 939
+Castangia, P., Panessa, F., Henkel, C., Kadler, M., & Tarchi, A. 2013,, MNRAS, 436, 3388
+de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference Catalogue of Bright Galaxies
+Duras, F., Bongiorno, A., Ricci, F., et al. 2020, A&A, 636, A73
+Ferrarese, L. & Merritt, D. 2000,, ApJ, 539, L9
+Fruscione, A., Greenhill, L. J., Filippenko, A. V., et al. 2005,, ApJ, 624, 103
+Gammie, C. F., Narayan, R., & Blandford, R. 1999,, ApJ, 516, 177
+Gao, F., Braatz, J. A., Reid, M. J., et al. 2016,, ApJ, 817, 128
+Gebhardt, K., Bender, R., Bower, G., et al. 2000,, ApJ, 539, L13
+George, I. M. & Fabian, A. C. 1991,, MNRAS, 249, 352
+Giner, S. & Loeb, A. 2021, arXiv e-prints, arXiv:2104.05084
+Gliozzi, M., Williams, J. K., & Michel, D. A. 2021,, MNRAS, 502, 3329
+Greene, J. E., Seth, A., den Brok, M., et al. 2013,, ApJ, 771, 121
+Greene, J. E., Seth, A., Kim, M., et al. 2016,, ApJ, 826, L32
+Grier, C. J., Trump, J. R., Shen, Y., et al. 2017,, ApJ, 851, 21
+Henkel, C., Braatz, J. A., Greenhill, L. J., & Wilson, A. S. 2002, A&A, 394, L23
+Herrnstein, J. R., Greenhill, L. J., Moran, J. M., et al. 1998,, ApJ, 497, L69
+Herrnstein, J. R., Moran, J. M., Greenhill, L. J., & Trotter, A. S. 2005,, ApJ, 629, 719
+Humphreys, E. M. L., Reid, M. J., Moran, J. M., Greenhill, L. J., & Argon, A. L. 2013,, ApJ, 775, 13
+Impellizzeri, C. M. V., Braatz, J. A., Kuo, C.-Y., et al. 2012, in Cosmic Masers - from OH to H0, ed. R. S. Booth, W. H. T. Vlemmings, & E. M. L. Humphreys, Vol. 287, 311-315
+Kalberla, P. M. W., Burton, W. B., Hartmann, D., et al. 2005, A&A, 440, 775
+Kamali, F., Henkel, C., Koyama, S., et al. 2019, A&A, 624, A42
+Kerr, R. P. 1963, Phys. Rev. Lett., 11, 237
+King, A. R., Pringle, J. E., & Livio, M. 2007,, MNRAS, 376, 1740
+Kormendy, J. & Richstone, D. 1995, ARA&A, 33, 581
+Kuo, C. Y., Braatz, J. A., Condon, J. J., et al. 2011,, ApJ, 727, 20
+Kuo, C. Y., Braatz, J. A., Impellizzeri, C. M. V., et al. 2020,, MNRAS, 498, 1609
+Kuo, C. Y., Braatz, J. A., Lo, K. Y., et al. 2015,, ApJ, 800, 26
+Kuo, C. Y., Braatz, J. A., Reid, M. J., et al. 2013,, ApJ, 767, 155
+Kuo, C. Y., Constantin, A., Braatz, J. A., et al. 2018,, ApJ, 860, 169
+Lasota, J. P., Abramowicz, M. A., Chen, X., et al. 1996,, ApJ, 462, 142
+Lense, J. & Thirring, H. 1918, Physikalische Zeitschrift, 19, 156
+Li, L.-X., Zimmerman, E. R., Narayan, R., & McClintock, J. E. 2005,, ApJS, 157, 335
+Lusso, E., Comastri, A., Simmons, B. D., et al. 2012,, MNRAS, 425, 623
+Magorrian, J., Tremaine, S., Richstone, D., et al. 1998, AJ, 115, 2285
+Masini, A., Comastri, A., Balokovic, M., et al. 2016, A&A, 589, A59
+Masini, A., Comastri, A., Hickox, R. C., et al. 2019,, ApJ, 882, 83
+Merloni, A., Bongiorno, A., Brusa, M., et al. 2014,, MNRAS, 437, 3550
+Miyoshi, M., Moran, J., Herrnstein, J., et al. 1995,, Nature, 373, 127
+Netzer, H. 2019,, MNRAS, 488, 5185
+Penna, R. F., S adowski, A., Kulkarni, A. K., & Narayan, R. 2013,, MNRAS, 428, 2255
+Reid, M. J., Braatz, J. A., Condon, J. J., et al. 2009,, ApJ, 695, 287
+Reid, M. J., Braatz, J. A., Condon, J. J., et al. 2013,, ApJ, 767, 154
+Reines, A. E. & Volonteri, M. 2015,, ApJ, 813, 82
+Reynolds, C. S. 2019, Nature Astronomy, 3, 41
+Sesana, A., Barausse, E., Dotti, M., & Rossi, E. M. 2014,, ApJ, 794, 104
+Shakura, N. I. & Sunyaev, R. A. 1973, A&A, 24, 337
+Shankar, F., Weinberg, D. H., & Miralda-Escude, J. 2009,, ApJ, 690, 20
+Soltan, A. 1982,, MNRAS, 200, 115
+Tarchi, A. 2012, in IAU Symposium, Vol. 287, Cosmic Masers - from OH to H0, ed. R. S. Booth, W. H. T. Vlemmings, & E. M. L. Humphreys, 323-332
+Volonteri, M., Sikora, M., Lasota, J. P., & Merloni, A. 2013,, ApJ, 775, 94
+Yuan, F., Markoff, S., Falcke, H., & Biermann, P. L. 2002, A&A, 391, 139
