@@ -1,102 +1,102 @@
-Abadi, M. G., Moore, B., & Bower, R. G. 1999,, MNRAS, 308, 947
+Abadi, M. G., Moore, B., & Bower, R. G. 1999, MNRAS, 308, 947
 Abramson, A., Kenney, J. D. P., Crowl, H. H., et al. 2011, AJ, 141, 164
 Abramson, A. & Kenney, J. D. P. 2014, AJ, 147, 63
 Abramson, A., Kenney, J., Crowl, H., et al. 2016, AJ, 152, 32
-Bekki, K., & Couch, W. J. 2003,, ApJ, 596, L13
-Bekki, K. 2014,, MNRAS, 438, 444
+Bekki, K., & Couch, W. J. 2003, ApJ, 596, L13
+Bekki, K. 2014, MNRAS, 438, 444
 Bertin, E., & Arnouts, S. 1996, A&AS, 117, 393
-Blagorodnova, N., Koposov, S. E., Wyrzykowski, L., et al. 2014,, MNRAS, 442, 327
+Blagorodnova, N., Koposov, S. E., Wyrzykowski, L., et al. 2014, MNRAS, 442, 327
 Boissier, S., Boselli, A., Duc, P.-A., et al. 2012, A&A, 545, A142
 Boselli, A. & Gavazzi, G. 2006, PASP, 118, 517
 Boselli, A., Cortese, L., Boquien, M., et al. 2014, A&A, 564, A66
 Boselli, A., Cuillandre, J. C., Fossati, M., et al. 2016, A&A, 587, A68
 Boselli, A., Lupi, A., Epinat, B., et al. 2021, A&A, 646, A139
-Cappellari, M., & Copin, Y. 2003,, MNRAS, 342, 345
-Catinella, B., Saintonge, A., Janowiecki, S., et al. 2018,, MNRAS, 476, 875
-Chen, H., Sun, M., Yagi, M., et al. 2020,, MNRAS, 496, 4654
-Chung, A., van Gorkom, J. H., Kenney, J. D. P., et al. 2007,, ApJ, 659, L115
+Cappellari, M., & Copin, Y. 2003, MNRAS, 342, 345
+Catinella, B., Saintonge, A., Janowiecki, S., et al. 2018, MNRAS, 476, 875
+Chen, H., Sun, M., Yagi, M., et al. 2020, MNRAS, 496, 4654
+Chung, A., van Gorkom, J. H., Kenney, J. D. P., et al. 2007, ApJ, 659, L115
 Ciambur, B. C. 2016, Publ. Astron. Soc. Australia, 33, e062
-Ciambur, B. C. & Graham, A. W. 2016,, MNRAS, 459, 1276
+Ciambur, B. C. & Graham, A. W. 2016, MNRAS, 459, 1276
 Consolandi, G., Gavazzi, G., Fossati, M., et al. 2017, A&A, 606, A83
-Cortese, L., Marcillac, D., Richard, J., et al. 2007,, MNRAS, 376, 157
-Courteau, S., Dutton, A. A., van den Bosch, F. C., et al. 2007,, ApJ, 671, 203
-Cramer, W. J., Kenney, J. D. P., Sun, M., et al. 2019,, ApJ, 870, 63
-Dowell, C. D., Conley, A., Glenn, J., et al. 2014,, ApJ, 780, 75
-Dressler, A. 1980,, ApJ, 236, 351
+Cortese, L., Marcillac, D., Richard, J., et al. 2007, MNRAS, 376, 157
+Courteau, S., Dutton, A. A., van den Bosch, F. C., et al. 2007, ApJ, 671, 203
+Cramer, W. J., Kenney, J. D. P., Sun, M., et al. 2019, ApJ, 870, 63
+Dowell, C. D., Conley, A., Glenn, J., et al. 2014, ApJ, 780, 75
+Dressler, A. 1980, ApJ, 236, 351
 Dumke, M. & Mac-Auliffe, F. 2010, Proc. SPIE, 7737, 77371J
-Erwin, P. & Debattista, V. P. 2017,, MNRAS, 468, 2058
+Erwin, P. & Debattista, V. P. 2017, MNRAS, 468, 2058
 Ferland, G. J., Chatzikos, M., Guzman, F., et al. 2017, Rev. Mex. Astron. Astrofis., 53, 385
 Fitzpatrick, E. L. 1999, PASP, 111, 63
-Fossati, M., Fumagalli, M., Boselli, A., et al. 2016,, MNRAS, 455, 2028
+Fossati, M., Fumagalli, M., Boselli, A., et al. 2016, MNRAS, 455, 2028
 Gavazzi, G., & Jaffe, W. 1987, A&A, 186, L1
-Gavazzi, G., Boselli, A., Mayer, L., et al. 2001,, ApJ, 563, L23
-George, K., Poggianti, B. M., Gullieuszik, M., et al. 2018,, MNRAS, 479, 4126
-Giovanelli, R., & Haynes, M. P. 1985,, ApJ, 292, 404
+Gavazzi, G., Boselli, A., Mayer, L., et al. 2001, ApJ, 563, L23
+George, K., Poggianti, B. M., Gullieuszik, M., et al. 2018, MNRAS, 479, 4126
+Giovanelli, R., & Haynes, M. P. 1985, ApJ, 292, 404
 Gonzaga, S., & et al. 2012, The DrizzlePac Handbook
-Gunn, J. E., & Gott, J. R. 1972,, ApJ, 176, 1
-Guver, T., & Ozel, F. 2009,, MNRAS, 400, 2050
+Gunn, J. E., & Gott, J. R. 1972, ApJ, 176, 1
+Guver, T., & Ozel, F. 2009, MNRAS, 400, 2050
 Haffner, L. M., Dettmar, R.-J., Beckman, J. E., et al. 2009, Reviews of Modern Physics, 81, 969
-Hao, C.-N., Kennicutt, R. C., Johnson, B. D., et al. 2011,, ApJ, 741, 124
-Hester, J. A., Seibert, M., Neill, J. D., et al. 2010,, ApJ, 716, L14
-Indebetouw, R., Mathis, J. S., Babler, B. L., et al. 2005,, ApJ, 619, 931
+Hao, C.-N., Kennicutt, R. C., Johnson, B. D., et al. 2011, ApJ, 741, 124
+Hester, J. A., Seibert, M., Neill, J. D., et al. 2010, ApJ, 716, L14
+Indebetouw, R., Mathis, J. S., Babler, B. L., et al. 2005, ApJ, 619, 931
 Israel, F. P., van der Werf, P. P., & Tilanus, R. P. J. 1999, A&A, 344, L83
-Jachym, P., Palous, J., Koppen, J., et al. 2007, A&A, 472, 5
-Jachym, P., Combes, F., Cortese, L., et al. 2014,, ApJ, 792, 11
-Jachym, P., Sun, M., Kenney, J. D. P., et al. 2017,, ApJ, 839, 114
-Jachym, P., Kenney, J. D. P., Sun, M., et al. 2019,, ApJ, 883, 145
+Jáchym, P., Palous, J., Köppen, J., et al. 2007, A&A, 472, 5
+Jáchym, P., Combes, F., Cortese, L., et al. 2014, ApJ, 792, 11
+Jáchym, P., Sun, M., Kenney, J. D. P., et al. 2017, ApJ, 839, 114
+Jáchym, P., Kenney, J. D. P., Sun, M., et al. 2019, ApJ, 883, 145
 Kapferer, W., Sluka, C., Schindler, S., et al. 2009, A&A, 499, 87
-Kenney, J. D. P., Geha, M., Jachym, P., et al. 2014,, ApJ, 780, 119
+Kenney, J. D. P., Geha, M., Jachym, P., et al. 2014, ApJ, 780, 119
 Kenney, J. D. P., Abramson, A., & Bravo-Alfaro, H. 2015, AJ, 150, 59
 Kennicutt, R. C. & Evans, N. J. 2012, ARA&A, 50, 531
 Kravtsov, A. V., & Borgani, S. 2012, ARA&A, 50, 353
-Kroupa, P. 2001,, MNRAS, 322, 231
+Kroupa, P. 2001, MNRAS, 322, 231
 Kuno, N., Sato, N., Nakanishi, H., et al. 2007, PASJ, 59, 117
-Lamperti, I., Saintonge, A., Koss, M., et al. 2020,, ApJ, 889, 103
-Lange, R., Driver, S. P., Robotham, A. S. G., et al. 2015,, MNRAS, 447, 2603
+Lamperti, I., Saintonge, A., Koss, M., et al. 2020, ApJ, 889, 103
+Lange, R., Driver, S. P., Robotham, A. S. G., et al. 2015, MNRAS, 447, 2603
 Lasker, B. M., Lattanzi, M. G., McLean, B. J., et al. 2008, AJ, 136, 735
 Laurikainen, E. & Salo, H. 2017, A&A, 598, A10
-Lee, J. C., Hwang, H. S., & Ko, J. 2013,, ApJ, 774, 62
-Leitherer, C., Schaerer, D., Goldader, J. D., et al. 1999,, ApJS, 123, 3
-Leitherer, C., Ekstrom, S., Meynet, G., et al. 2014,, ApJS, 212, 14
+Lee, J. C., Hwang, H. S., & Ko, J. 2013, ApJ, 774, 62
+Leitherer, C., Schaerer, D., Goldader, J. D., et al. 1999, ApJS, 123, 3
+Leitherer, C., Ekstrom, S., Meynet, G., et al. 2014, ApJS, 212, 14
 Leroy, A. K., Walter, F., Bigiel, F., et al. 2009, AJ, 137, 4670
-Levesque, E. M., Leitherer, C., Ekstrom, S., et al. 2012,, ApJ, 751, 67
+Levesque, E. M., Leitherer, C., Ekstrom, S., et al. 2012, ApJ, 751, 67
 Lizee, T., Vollmer, B., Braine, J., et al. 2021, A&A, 645, A111
-Mao, R.-Q., Schulz, A., Henkel, C., et al. 2010,, ApJ, 724, 1336
-Moretti, A., Paladino, R., Poggianti, B. M., et al. 2018,, MNRAS, 480, 2508
-Moretti, A., Paladino, R., Poggianti, B. M., et al. 2020,, ApJ, 889, 9
+Mao, R.-Q., Schulz, A., Henkel, C., et al. 2010, ApJ, 724, 1336
+Moretti, A., Paladino, R., Poggianti, B. M., et al. 2018, MNRAS, 480, 2508
+Moretti, A., Paladino, R., Poggianti, B. M., et al. 2020, ApJ, 889, 9
 Oosterloo, T., & van Gorkom, J. 2005, A&A, 437, L19
 Peng, C. Y., Ho, L. C., Impey, C. D., et al. 2002, AJ, 124, 266
 Peng, C. Y., Ho, L. C., Impey, C. D., et al. 2010, AJ, 139, 2097
-Poggianti, B. M., Moretti, A., Gullieuszik, M., et al. 2017,, ApJ, 844, 48
-Poggianti, B. M., Gullieuszik, M., Tonnesen, S., et al. 2019,, MNRAS, 482, 4466
+Poggianti, B. M., Moretti, A., Gullieuszik, M., et al. 2017, ApJ, 844, 48
+Poggianti, B. M., Gullieuszik, M., Tonnesen, S., et al. 2019, MNRAS, 482, 4466
 Quilis, V., Moore, B., & Bower, R. 2000, Science, 288, 1617
-Roediger, E., & Bruggen, M. 2006,, MNRAS, 369, 567
-Ruszkowski, M., Bruggen, M., Lee, D., et al. 2014,, ApJ, 784, 75
-Saintonge, A., Catinella, B., Tacconi, L. J., et al. 2017,, ApJS, 233, 22
+Roediger, E., & Bruggen, M. 2006, MNRAS, 369, 567
+Ruszkowski, M., Bruggen, M., Lee, D., et al. 2014, ApJ, 784, 75
+Saintonge, A., Catinella, B., Tacconi, L. J., et al. 2017, ApJS, 233, 22
 Schindler, S., & Diaferio, A. 2008, Space Sci. Rev., 134, 363
-Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103
-Schulz, S., & Struck, C. 2001,, MNRAS, 328, 185
-Sheth, K., Vogel, S. N., Regan, M. W., et al. 2005,, ApJ, 632, 217
+Schlafly, E. F., & Finkbeiner, D. P. 2011, ApJ, 737, 103
+Schulz, S., & Struck, C. 2001, MNRAS, 328, 185
+Sheth, K., Vogel, S. N., Regan, M. W., et al. 2005, ApJ, 632, 217
 Sirianni, M., Jee, M. J., Ben itez, N., et al. 2005, PASP, 117, 1049
-Sivanandam, S., Rieke, M. J., & Rieke, G. H. 2010,, ApJ, 717, 147
-Sivanandam, S., Rieke, M. J., & Rieke, G. H. 2014,, ApJ, 796, 89
-Smith, R. J., Lucey, J. R., Hammer, D., et al. 2010,, MNRAS, 408, 1417
+Sivanandam, S., Rieke, M. J., & Rieke, G. H. 2010, ApJ, 717, 147
+Sivanandam, S., Rieke, M. J., & Rieke, G. H. 2014, ApJ, 796, 89
+Smith, R. J., Lucey, J. R., Hammer, D., et al. 2010, MNRAS, 408, 1417
 Solomon, P. M. & Vanden Bout, P. A. 2005, ARA&A, 43, 677
 STScI Development Team 2013, pysynphot: Synthetic photometry software package, ascl:1303.023
-Sun, M., & Vikhlinin, A. 2005,, ApJ, 621, 718
-Sun, M., Jones, C., Forman, W., et al. 2006,, ApJ, 637, L81
-Sun, M., Donahue, M., & Voit, G. M. 2007,, ApJ, 671, 190
-Sun, M., Donahue, M., Roediger, E., et al. 2010,, ApJ, 708, 946
-Tomicic, N., Vulcani, B., Poggianti, B. M., et al. 2021,, ApJ, 907, 22
-Tonnesen, S. & Bryan, G. L. 2012,, MNRAS, 422, 1609
+Sun, M., & Vikhlinin, A. 2005, ApJ, 621, 718
+Sun, M., Jones, C., Forman, W., et al. 2006, ApJ, 637, L81
+Sun, M., Donahue, M., & Voit, G. M. 2007, ApJ, 671, 190
+Sun, M., Donahue, M., Roediger, E., et al. 2010, ApJ, 708, 946
+Tomicic, N., Vulcani, B., Poggianti, B. M., et al. 2021, ApJ, 907, 22
+Tonnesen, S. & Bryan, G. L. 2012, MNRAS, 422, 1609
 van Dokkum, P. G. 2001, PASP, 113, 1420
 Verdugo, C., Combes, F., Dasyra, K., et al. 2015, A&A, 582, A6
-Vollmer, B., Cayatte, V., Balkowski, C., et al. 2001,, ApJ, 561, 708
+Vollmer, B., Cayatte, V., Balkowski, C., et al. 2001, ApJ, 561, 708
 Vollmer, B., Soida, M., Chung, A., et al. 2008, A&A, 483, 89
-Wang, Q. D., Owen, F., & Ledlow, M. 2004,, ApJ, 611, 821
+Wang, Q. D., Owen, F., & Ledlow, M. 2004, ApJ, 611, 821
 Wegner, G., Bernardi, M., Willmer, C. N. A., et al. 2003, AJ, 126, 2268
-Yagi, M., Komiyama, Y., Yoshida, M., et al. 2007,, ApJ, 660, 1209
+Yagi, M., Komiyama, Y., Yoshida, M., et al. 2007, ApJ, 660, 1209
 Yagi, M., Yoshida, M., Komiyama, Y., et al. 2010, AJ, 140, 1814
-Yagi, M., Yoshida, M., Gavazzi, G., et al. 2017,, ApJ, 839, 65
-Yoshida, M., Yagi, M., Komiyama, Y., et al. 2008,, ApJ, 688, 918
-Zhang, B., Sun, M., Ji, L., et al. 2013,, ApJ, 777, 122
+Yagi, M., Yoshida, M., Gavazzi, G., et al. 2017, ApJ, 839, 65
+Yoshida, M., Yagi, M., Komiyama, Y., et al. 2008, ApJ, 688, 918
+Zhang, B., Sun, M., Ji, L., et al. 2013, ApJ, 777, 122

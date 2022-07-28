@@ -1,17 +1,17 @@
 V. Springel, S.D.M. White, A. Jenkins, C.S. Frenk, N. Yoshida, L. Gao, J. Navarro, R. Thacker, D. Croton, J. Helly et al., Nature435, 629 (2005), astro-ph/0504097
-A. Klypin, G. Yepes, S. Gottlober, F. Prada, S. He, MNRAS457, 4340 (2016), 1411.4001
+A. Klypin, G. Yepes, S. Gottlöber, F. Prada, S. He, MNRAS457, 4340 (2016), 1411.4001
 R.H. Wechsler, J.L. Tinker, ARA&A56, 435 (2018), 1804.03097
-R.S. Somerville, R. Dave, ARA&A53, 51 (2015), 1412.2712
+R.S. Somerville, R. Davé, ARA&A53, 51 (2015), 1412.2712
 A.D. Ludlow, J. Schaye, R. Bower, MNRAS488, 3663 (2019), 1812.05777
-W. Cui, Y. Zhang, "The Impact of Baryons on the Large-Scale Structure of the Universe", in "Trends in Modern Cosmology" (2017), 1708.02644
+W. Cui, Y. Zhang, The Impact of Baryons on the Large-Scale Structure of the Universe, in Trends in Modern Cosmology (2017), 1708.02644
 B. Sartoris, A. Biviano, C. Fedeli, J.G. Bartlett, S. Borgani, M. Costanzi, C. Giocoli, L. Moscardini, J. Weller, B. Ascaso et al., MNRAS459, 1764 (2016), 1505.02165
 S.N.B. Debackere, J. Schaye, H. Hoekstra, MNRAS505, 593 (2021), 2101.07800
 W. Cui, A. Knebe, G. Yepes, F. Pearce, C. Power, R. Dave, A. Arth, S. Borgani, K. Dolag, P. Elahi et al., MNRAS480, 2898 (2018), 1809.04622
 Planck Collaboration, P.A.R. Ade, N. Aghanim, M. Arnaud, M. Ashdown, J. Aumont, C. Baccigalupi, A.J. Banday, R.B. Barreiro, J.G. Bartlett et al., A&A594, A13 (2016), 1502.01589
-F. Sembolini, G. Yepes, M. De Petris, S. Gottlober, L. Lamagna, B. Comis, MNRAS429, 323 (2013), 1207.4438
+F. Sembolini, G. Yepes, M. De Petris, S. Gottlöber, L. Lamagna, B. Comis, MNRAS429, 323 (2013), 1207.4438
 E. Rasia, S. Borgani, G. Murante, S. Planelles, A.M. Beck, V. Biffi, C. Ragone-Figueroa, G.L. Granato, L.K. Steinborn, K. Dolag, ApJ813, L17 (2015), 1509.04247
 A.M. Beck, G. Murante, A. Arth, R.S. Remus, A.F. Teklu, J.M.F. Donnert, S. Planelles, M.C. Beck, P. Forster, M. Imgrund et al., MNRAS455, 2110 (2016), 1502.07358
-R. Dave, D. Angles-Alcazar, D. Narayanan, Q. Li, M.H. Rafieferantsoa, S. Appleby, MNRAS486, 2827 (2019), 1901.10203
+R. Davé, D. Angles-Alcazar, D. Narayanan, Q. Li, M.H. Rafieferantsoa, S. Appleby, MNRAS486, 2827 (2019), 1901.10203
 S.R. Knollmann, A. Knebe, ApJS182, 608 (2009), 0904.3662
 A. Rost, U. Kuchner, C. Welker, F. Pearce, F. Stasyszyn, M. Gray, W. Cui, R. Dave, A. Knebe, G. Yepes et al., MNRAS502, 714 (2021), 2012.02850
 U. Kuchner, A. Aragon-Salamanca, F.R. Pearce, M.E. Gray, A. Rost, C. Mu, C. Welker, W. Cui, R. Haggar, C. Laigle et al., MNRAS494, 5473 (2020), 2004.08408
@@ -29,11 +29,11 @@ V. Capalbo, M. De Petris, F. De Luca, W. Cui, G. Yepes, A. Knebe, E. Rasia, MNRA
 F. De Luca, M. De Petris, G. Yepes, W. Cui, A. Knebe, E. Rasia, MNRAS504, 5383 (2021), 2011.09002
 J. Sayers, M. Sereno, S. Ettori, E. Rasia, W. Cui, S. Golwala, K. Umetsu, G. Yepes, MNRAS505, 4338 (2021), 2102.06324
 M. Sereno, L. Lovisari, W. Cui, G. Schellenberger, MNRAS507, 5214 (2021), 2109.06199
-L.A. Diaz-Garcia, K. Umetsu, E. Rasia, W. Cui, M. Meneghetti, arXiv e-prints arXiv:2108.13498 (2021), 2108.13498
+L.A. Díaz-García, K. Umetsu, E. Rasia, W. Cui, M. Meneghetti, arXiv e-prints arXiv:2108.13498 (2021), 2108.13498
 S. Ansarifard, E. Rasia, V. Biffi, S. Borgani, W. Cui, M. De Petris, K. Dolag, S. Ettori, S.M.S. Movahed, G. Murante et al., A&A634, A113 (2020), 1911.07878
 D. Anbajagane, H. Aung, A.E. Evrard, A. Farahi, D. Nagai, D.J. Barnes, W. Cui, K. Dolag, I.G. McCarthy, E. Rasia et al., arXiv e-prints arXiv:2110.01683 (2021), 2110.01683
 R. Herbonnet, A. Crawford, C. Avestruz, E. Rasia, C. Giocoli, M. Meneghetti, A. von der Linden, W. Cui, G. Yepes, arXiv e-prints arXiv:2109.01673 (2021), 2109.01673
-Y. Wang, F. Pearce, A. Knebe, G. Yepes, W. Cui, C. Power, A. Arth, S. Gottlober, M. De Petris, S. Brown et al., ApJ868, 130 (2018), 1809.05244
+Y. Wang, F. Pearce, A. Knebe, G. Yepes, W. Cui, C. Power, A. Arth, S. Gottlöber, M. De Petris, S. Brown et al., ApJ868, 130 (2018), 1809.05244
 J. Vega-Ferrero, J.M. Dana, J.M. Diego, G. Yepes, W. Cui, M. Meneghetti, MNRAS500, 247 (2021), 2006.08596
 A. Tamosiunas, C. Briddon, C. Burrage, W. Cui, A. Moss, arXiv e-prints arXiv:2108.10364 (2021), 2108.10364
 W. Cui, S. Borgani, K. Dolag, G. Murante, L. Tornatore, MNRAS423, 2279 (2012), 1111.3066

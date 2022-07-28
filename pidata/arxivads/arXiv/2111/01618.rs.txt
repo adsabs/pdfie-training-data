@@ -1,59 +1,33 @@
-F. Sannino and K. Tuominen, Phys. Rev. D 71 (2005), 051901 doi:10.1103/PhysRevD.71.051901
-F. SanniNo. and K. Tuominen, Phys. Rev. D 71, 2005, arXiv:hep-ph/0405209 [hep-ph
+F. Sannino and K. Tuominen, Phys. Rev. D 71 (2005), 051901 doi:10.1103/PhysRevD.71.051901 [arXiv:hep-ph/0405209 [hep-ph]].
 C. T. Hill and E. H. Simmons, Phys. Rept. 381 (2003), 235-402 [erratum: Phys. Rept. 390 (2004), 553-554] doi:10.1016/S0370-1573(03)00140-6 [arXiv:hep-ph/0203079 [hep-ph]].
-D. D. Dietrich, F. Sannino and K. Tuominen, Phys. Rev. D 72 (2005), 055001 doi:10.1103/PhysRevD.72.055001
-D. D. Dietrich, F. SanniNo. and K. Tuominen, Phys. Rev. D 72, 2005, arXiv:hep-ph/0505059 [hep-ph
-A. Arbey, G. Cacciapaglia, H. Cai, A. Deandrea, S. Le Corre and F. Sannino, Phys. Rev. D 95 (2017) no.1, 015028 doi:10.1103/PhysRevD.95.015028
-A. Arbey, G. Cacciapaglia, H. Cai, A. Deandrea, S. Le Corre and F. Sannino, Phys. Rev. D 95, 2017, arXiv:1502.04718 [hep-ph
-T. Karavirta, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05 (2012), 003 doi:10.1007/JHEP05(2012)003
-T. Karavirta, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05, 2012, arXiv:1111.4104 [hep-lat
-V. Leino, J. Rantaharju, T. Rantalaiho, K. Rummukainen, J. M. Suorsa and K. Tuominen, Phys. Rev. D 95 (2017) no.11, 114516 doi:10.1103/PhysRevD.95.114516
-V. Leino, J. Rantaharju, T. Rantalaiho, K. Rummukainen, J. M. Suorsa and K. Tuominen, Phys. Rev. D 95, 2017, arXiv:1701.04666 [hep-lat
-V. Leino, K. Rummukainen, J. M. Suorsa, K. Tuominen and S. Tahtinen, Phys. Rev. D 97 (2018) no.11, 114501 doi:10.1103/PhysRevD.97.114501
-V. Leino, K. Rummukainen, J. M. Suorsa, K. Tuominen and S. Tahtinen, Phys. Rev. D 97, 2018, arXiv:1707.04722 [hep-lat
-V. Leino, K. Rummukainen and K. Tuominen, Phys. Rev. D 98 (2018) no.5, 054503 doi:10.1103/PhysRevD.98.054503
-V. Leino, K. Rummukainen and K. Tuominen, Phys. Rev. D 98, arXiv:1804.02319 [hep-lat
+D. D. Dietrich, F. Sannino and K. Tuominen, Phys. Rev. D 72 (2005), 055001 doi:10.1103/PhysRevD.72.055001 [arXiv:hep-ph/0505059 [hep-ph]].
+A. Arbey, G. Cacciapaglia, H. Cai, A. Deandrea, S. Le Corre and F. Sannino, Phys. Rev. D 95 (2017) no.1, 015028 doi:10.1103/PhysRevD.95.015028 [arXiv:1502.04718 [hep-ph]].
+T. Karavirta, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05 (2012), 003 doi:10.1007/JHEP05(2012)003 [arXiv:1111.4104 [hep-lat]].
+V. Leino, J. Rantaharju, T. Rantalaiho, K. Rummukainen, J. M. Suorsa and K. Tuominen, Phys. Rev. D 95 (2017) no.11, 114516 doi:10.1103/PhysRevD.95.114516 [arXiv:1701.04666 [hep-lat]].
+V. Leino, K. Rummukainen, J. M. Suorsa, K. Tuominen and S. Tahtinen, Phys. Rev. D 97 (2018) no.11, 114501 doi:10.1103/PhysRevD.97.114501 [arXiv:1707.04722 [hep-lat]].
+V. Leino, K. Rummukainen and K. Tuominen, Phys. Rev. D 98 (2018) no.5, 054503 doi:10.1103/PhysRevD.98.054503 [arXiv:1804.02319 [hep-lat]].
 A. Amato, V. Leino, K. Rummukainen, K. Tuominen and S. Tahtinen, [arXiv:1806.07154 [hep-lat]].
-A. J. Hietanen, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05 (2009), 025 doi:10.1088/1126-6708/2009/05/025
-A. J. Hietanen, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05, 2009, arXiv:0812.1467 [hep-lat
-A. J. Hietanen, K. Rummukainen and K. Tuominen, Phys. Rev. D 80 (2009), 094504 doi:10.1103/PhysRevD.80.094504
-A. J. Hietanen, K. Rummukainen and K. Tuominen, Phys. Rev. D 80, 2009, arXiv:0904.0864 [hep-lat
-L. Del Debbio, A. Patella and C. Pica, Phys. Rev. D 81 (2010), 094503 doi:10.1103/PhysRevD.81.094503
-L. Del Debbio, A. Patella and C. Pica, Phys. Rev. D 81, arXiv:0805.2058 [hep-lat
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 80 (2009), 074507 doi:10.1103/PhysRevD.80.074507
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 80, 2009, arXiv:0907.3896 [hep-lat
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 82 (2010), 014509 doi:10.1103/PhysRevD.82.014509
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 82, arXiv:1004.3197 [hep-lat
-F. Bursa, L. Del Debbio, D. Henty, E. Kerrane, B. Lucini, A. Patella, C. Pica, T. Pickup and A. Rago, Phys. Rev. D 84 (2011), 034506 doi:10.1103/PhysRevD.84.034506
-F. Bursa, L. Del Debbio, D. Henty, E. Kerrane, B. Lucini, A. Patella, C. Pica, T. Pickup and A. Rago, Phys. Rev. D 84, 2011, arXiv:1104.4301 [hep-lat
-T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 83 (2011), 074507 doi:10.1103/PhysRevD.83.074507
-T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 83, arXiv:1102.2843 [hep-lat
-J. Rantaharju, T. Rantalaiho, K. Rummukainen and K. Tuominen, Phys. Rev. D 93 (2016) no.9, 094509 doi:10.1103/PhysRevD.93.094509
-J. Rantaharju, T. Rantalaiho, K. Rummukainen and K. Tuominen, Phys. Rev. D 93, 2016, arXiv:1510.03335 [hep-lat
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 93 (2016) no.5, 054505 doi:10.1103/PhysRevD.93.054505
-L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 93, 2016, arXiv:1512.08242 [hep-lat
-V. Leino, T. Rindlisbacher, K. Rummukainen, F. Sannino and K. Tuominen, Phys. Rev. D 101 (2020) no.7, 074508 doi:10.1103/PhysRevD.101.074508
-V. Leino, T. Rindlisbacher, K. Rummukainen, F. SanniNo. and K. Tuominen, Phys. Rev. D 101, arXiv:1908.04605 [hep-lat
+A. J. Hietanen, J. Rantaharju, K. Rummukainen and K. Tuominen, JHEP 05 (2009), 025 doi:10.1088/1126-6708/2009/05/025 [arXiv:0812.1467 [hep-lat]].
+A. J. Hietanen, K. Rummukainen and K. Tuominen, Phys. Rev. D 80 (2009), 094504 doi:10.1103/PhysRevD.80.094504 [arXiv:0904.0864 [hep-lat]].
+L. Del Debbio, A. Patella and C. Pica, Phys. Rev. D 81 (2010), 094503 doi:10.1103/PhysRevD.81.094503 [arXiv:0805.2058 [hep-lat]].
+L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 80 (2009), 074507 doi:10.1103/PhysRevD.80.074507 [arXiv:0907.3896 [hep-lat]].
+L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 82 (2010), 014509 doi:10.1103/PhysRevD.82.014509 [arXiv:1004.3197 [hep-lat]].
+F. Bursa, L. Del Debbio, D. Henty, E. Kerrane, B. Lucini, A. Patella, C. Pica, T. Pickup and A. Rago, Phys. Rev. D 84 (2011), 034506 doi:10.1103/PhysRevD.84.034506 [arXiv:1104.4301 [hep-lat]].
+T. DeGrand, Y. Shamir and B. Svetitsky, Phys. Rev. D 83 (2011), 074507 doi:10.1103/PhysRevD.83.074507 [arXiv:1102.2843 [hep-lat]].
+J. Rantaharju, T. Rantalaiho, K. Rummukainen and K. Tuominen, Phys. Rev. D 93 (2016) no.9, 094509 doi:10.1103/PhysRevD.93.094509 [arXiv:1510.03335 [hep-lat]].
+L. Del Debbio, B. Lucini, A. Patella, C. Pica and A. Rago, Phys. Rev. D 93 (2016) no.5, 054505 doi:10.1103/PhysRevD.93.054505 [arXiv:1512.08242 [hep-lat]].
+V. Leino, T. Rindlisbacher, K. Rummukainen, F. Sannino and K. Tuominen, Phys. Rev. D 101 (2020) no.7, 074508 doi:10.1103/PhysRevD.101.074508 [arXiv:1908.04605 [hep-lat]].
 J. Rantaharju, T. Rindlisbacher, K. Rummukainen, A. Salami and K. Tuominen, [arXiv:2108.10630 [hep-lat]].
 T. Rindlisbacher, K. Rummukainen, A. Salami and K. Tuominen, [arXiv:2110.13882 [hep-lat]].
-S. Capitani, S. Durr and C. Hoelbling, JHEP 11 (2006), 028 doi:10.1088/1126-6708/2006/11/028
-S. Capitani, S. Durr and C. Hoelbling, JHEP 11, 2006, arXiv:hep-lat/0607006 [hep-lat
-R. C. Brower, T. Ivanenko, A. R. Levi and K. N. Orginos, Nucl. Phys. B 484 (1997), 353-374 doi:10.1016/S0550-3213(96)00579-2
-R. C. Brower, T. Ivanenko, A. R. Levi and K. N. Orginos, Nucl. Phys. B 484, 1997, arXiv:hep-lat/9509012 [hep-lat
-A. Hasenfratz and T. A. DeGrand, Phys. Rev. D 49 (1994), 466-473 doi:10.1103/PhysRevD.49.466
-A. Hasenfratz and T. A. DeGrand, Phys. Rev. D 49, 1994, arXiv:hep-lat/9304001 [hep-lat
-T. Blum, C. E. DeTar, U. M. Heller, L. Karkkainen, K. Rummukainen and D. Toussaint, Nucl. Phys. B 442 (1995), 301-316 doi:10.1016/0550-3213(95)00137-9
-T. Blum, C. E. DeTar, U. M. Heller, L. Karkkainen, K. Rummukainen and D. Toussaint, Nucl. Phys. B 442, arXiv:hep-lat/9412038 [hep-lat
-M. Luscher, S. Sint, R. Sommer, P. Weisz and U. Wolff, Nucl. Phys. B 491 (1997), 323-343 doi:10.1016/S0550-3213(97)00080-1
-M. Luscher, S. Sint, R. Sommer, P. Weisz and U. Wolff, Nucl. Phys. B 491, 1997, arXiv:hep-lat/9609035 [hep-lat
+S. Capitani, S. Durr and C. Hoelbling, JHEP 11 (2006), 028 doi:10.1088/1126-6708/2006/11/028 [arXiv:hep-lat/0607006 [hep-lat]].
+R. C. Brower, T. Ivanenko, A. R. Levi and K. N. Orginos, Nucl. Phys. B 484 (1997), 353-374 doi:10.1016/S0550-3213(96)00579-2 [arXiv:hep-lat/9509012 [hep-lat]].
+A. Hasenfratz and T. A. DeGrand, Phys. Rev. D 49 (1994), 466-473 doi:10.1103/PhysRevD.49.466 [arXiv:hep-lat/9304001 [hep-lat]].
+T. Blum, C. E. DeTar, U. M. Heller, L. Karkkainen, K. Rummukainen and D. Toussaint, Nucl. Phys. B 442 (1995), 301-316 doi:10.1016/0550-3213(95)00137-9 [arXiv:hep-lat/9412038 [hep-lat]].
+M. Luscher, S. Sint, R. Sommer, P. Weisz and U. Wolff, Nucl. Phys. B 491 (1997), 323-343 doi:10.1016/S0550-3213(97)00080-1 [arXiv:hep-lat/9609035 [hep-lat]].
 C. T. Peterson, A. Hasenfratz, J. van Sickle and O. Witzel, [arXiv:2109.09720 [hep-lat]].
-M. Luscher, R. Narayanan, P. Weisz and U. Wolff, Nucl. Phys. B 384 (1992), 168-228 doi:10.1016/0550-3213(92)90466-O
-M. Luscher, R. Narayanan, P. Weisz and U. Wolff, Nucl. Phys. B 384, arXiv:hep-lat/9207009 [hep-lat
-Z. Fodor, K. Holland, J. Kuti, D. Nogradi and C. H. Wong, JHEP 11 (2012), 007 doi:10.1007/JHEP11(2012)007
-Z. Fodor, K. Holland, J. Kuti, D. Nogradi and C. H. Wong, JHEP 11, arXiv:1208.1051 [hep-lat
+M. Luscher, R. Narayanan, P. Weisz and U. Wolff, Nucl. Phys. B 384 (1992), 168-228 doi:10.1016/0550-3213(92)90466-O [arXiv:hep-lat/9207009 [hep-lat]].
+Z. Fodor, K. Holland, J. Kuti, D. Nogradi and C. H. Wong, JHEP 11 (2012), 007 doi:10.1007/JHEP11(2012)007 [arXiv:1208.1051 [hep-lat]].
 M. Luscher and P. Weisz, Commun. Math. Phys. 97 (1985), 59 [erratum: Commun. Math. Phys. 98 (1985), 433] doi:10.1007/BF01206178
-M. Luscher, JHEP 08 (2010), 071 [erratum: JHEP 03 (2014), 092] doi:10.1007/JHEP08(2010)071 [arXiv:1006.4518 [hep-lat]].
-F. Jegerlehner and O. V. Tarasov, Nucl. Phys. B 549 (1999), 481-498 doi:10.1016/S0550-3213(99)00141-8
-F. Jegerlehner and O. V. Tarasov, Nucl. Phys. B 549, 1999, arXiv:hep-ph/9809485 [hep-ph
-D. D. Dietrich, Phys. Rev. D 82 (2010), 065007 doi:10.1103/PhysRevD.82.065007
-D. D. Dietrich, Phys. Rev. D 82, arXiv:1005.1324 [hep-ph
+M. Lüscher, JHEP 08 (2010), 071 [erratum: JHEP 03 (2014), 092] doi:10.1007/JHEP08(2010)071 [arXiv:1006.4518 [hep-lat]].
+F. Jegerlehner and O. V. Tarasov, Nucl. Phys. B 549 (1999), 481-498 doi:10.1016/S0550-3213(99)00141-8 [arXiv:hep-ph/9809485 [hep-ph]].
+D. D. Dietrich, Phys. Rev. D 82 (2010), 065007 doi:10.1103/PhysRevD.82.065007 [arXiv:1005.1324 [hep-ph]].

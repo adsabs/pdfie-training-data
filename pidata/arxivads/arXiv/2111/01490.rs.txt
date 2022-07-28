@@ -1,16 +1,16 @@
-S.D.M. White, J.F. Navarro, A.E. Evrard, C.S. Frenk,, Nature, 366, 429 (1993)
-Y.T. Lin, J.J. Mohr,, ApJ, 617, 879 (2004), astro-ph/0408557
+S.D.M. White, J.F. Navarro, A.E. Evrard, C.S. Frenk, Nature, 366, 429 (1993)
+Y.T. Lin, J.J. Mohr, ApJ, 617, 879 (2004), astro-ph/0408557
 S. Borgani, A. Kravtsov, Advanced Science Letters 4, 204 (2011), 0906.4370
-S.W. Allen, D.A. Rapetti, R.W. Schmidt, H. Ebeling, R.G. Morris, A.C. Fabian,, MNRAS, 383, 879 (2008), 0706.0033
+S.W. Allen, D.A. Rapetti, R.W. Schmidt, H. Ebeling, R.G. Morris, A.C. Fabian, MNRAS, 383, 879 (2008), 0706.0033
 L. Salvati, M. Douspis, A. Ritz, N. Aghanim, A. Babul, A&A, 626, A27 (2019), 1901.03096
 G.W. Pratt, M. Arnaud, A. Biviano, D. Eckert, S. Ettori, D. Nagai, N. Okabe, T.H. Reiprich, Space Science Reviews, 215, 25 (2019), 1902.10837
 Planck Collaboration, P.A.R. Ade, N. Aghanim, M. Arnaud, M. Ashdown, J. Aumont, C. Baccigalupi, A. Balbi, A.J. Banday, R.B. Barreiro et al., A&A, 536, A8 (2011), 1101.2024
-L. Lovisari, G. Schellenberger, M. Sereno, S. Ettori, G.W. Pratt, W.R. Forman, C. Jones, F. Andrade-Santos, S. Randall, R. Kraft,, ApJ, 892, 102 (2020), 2002.11740
-S. Planelles, S. Borgani, K. Dolag, S. Ettori, D. Fabjan, G. Murante, L. Tornatore,, MNRAS, 431, 1487 (2013), 1209.5058
+L. Lovisari, G. Schellenberger, M. Sereno, S. Ettori, G.W. Pratt, W.R. Forman, C. Jones, F. Andrade-Santos, S. Randall, R. Kraft, ApJ, 892, 102 (2020), 2002.11740
+S. Planelles, S. Borgani, K. Dolag, S. Ettori, D. Fabjan, G. Murante, L. Tornatore, MNRAS, 431, 1487 (2013), 1209.5058
 K. Bora, S. Desai, European Physical Journal C, 81, 296 (2021), 2103.12695
 Planck Collaboration, N. Aghanim, Y. Akrami, M. Ashdown, J. Aumont, C. Baccigalupi, M. Ballardini, A.J. Banday, R.B. Barreiro, N. Bartolo et al., A&A, 641, A6 (2020), 1807.06209
-M. Sereno, S. Ettori,, MNRAS, 468, 3322 (2017), 1603.06581
-G.P. Smith, P. Mazzotta, N. Okabe, F. Ziparo, S.L. Mulroy, A. Babul, A. Finoguenov, I.G. McCarthy, M. Lieu, Y.M. Bahe et al.,, MNRAS, 456, L74 (2016), 1511.01919
-R. Herbonnet, C. Sifon, H. Hoekstra, Y. Bahe, R.F.J. van der Burg, J.B. Melin, A. von der Linden, D. Sand, S. Kay, D. Barnes,, MNRAS, 497, 4684 (2020), 1912.04414
-V. Biffi, S. Borgani, G. Murante, E. Rasia, S. Planelles, G.L. Granato, C. Ragone-Figueroa, A.M. Beck, M. Gaspari, K. Dolag,, ApJ, 827, 112 (2016), 1606.02293
-H. Hoekstra, R. Herbonnet, A. Muzzin, A. Babul, A. Mahdavi, M. Viola, M. Cacciato,, MNRAS, 449, 685 (2015), 1502.01883
+M. Sereno, S. Ettori, MNRAS, 468, 3322 (2017), 1603.06581
+G.P. Smith, P. Mazzotta, N. Okabe, F. Ziparo, S.L. Mulroy, A. Babul, A. Finoguenov, I.G. McCarthy, M. Lieu, Y.M. Bahe et al., MNRAS, 456, L74 (2016), 1511.01919
+R. Herbonnet, C. Sifon, H. Hoekstra, Y. Bahe, R.F.J. van der Burg, J.B. Melin, A. von der Linden, D. Sand, S. Kay, D. Barnes, MNRAS, 497, 4684 (2020), 1912.04414
+V. Biffi, S. Borgani, G. Murante, E. Rasia, S. Planelles, G.L. Granato, C. Ragone-Figueroa, A.M. Beck, M. Gaspari, K. Dolag, ApJ, 827, 112 (2016), 1606.02293
+H. Hoekstra, R. Herbonnet, A. Muzzin, A. Babul, A. Mahdavi, M. Viola, M. Cacciato, MNRAS, 449, 685 (2015), 1502.01883

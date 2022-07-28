@@ -1,11 +1,11 @@
-ATLAS Collaboration, "Precision measurement and interpretation of inclusive W+, W- and Z/ production cross sections with the ATLAS detector", The European Physical Journal C 77(6) (2017), doi:10.1140/epjc/s10052-017-4911-9.
-ATLAS Collaboration, "The ATLAS experiment at the CERN Large Hadron Collider", Journal of Instrumentation 3(08), S08003 (2008), doi:10.1088/1748-0221/3/08/s08003.
-H1 and Zeus Collaborations, "Combination of measurements of inclusive Deep Inelastic e"p scattering cross sections and QCD analysis of HERA data (2015), 1506.06042.
-R. S. Towel et al., "Improved measurement of the d"/ u asymmetry in the nucleon sea d"/ u asymmetry in the nucleon sea d"/ u asymmetry in the nucleon sea , Physical Review D 64(5) (2001), doi:10.1103/physrevd.64.052002.
-ATLAS Collaboration, "Determination of the parton distribution functions of the proton from ATLAS measurements of differential W" and Z boson production in association with jets, Journal of High Energy Physics 2021(7), 223 (2021), doi:10.1007/JHEP07(2021)223.
-ATLAS Collaboration, "Measurement of differential cross sections and W+/Wcross-section ratios for W boson production in association with jets at s" 8 TeV with the ATLAS detector, Journal of High Energy Physics 2018(5) (2018), doi:10.1007/jhep05(2018)077.
-ATLAS Collaboration, "Measurement of the inclusive cross-section for the production of jets in association with a Z boson in proton-proton collisions at 8 TeV using the ATLAS detector", The European Physical Journal C 79(10) (2019), doi:10.1140/epjc/s10052-131019-7321-3.
-M. Botje, "QCDNUM: Fast QCD evolution and convolution", Comp. Phys. Comm. 182(2011) 490, 1005.1481.
-S. Alekhin et al., "HERAFitter, open source QCD fit project", (2015), 1410.4412.
-F.James et al., "Minuit: A System for Function Minimization and Analysis of the Parameter Errors and Correlations", Comput. Phys. Commun. 10, 343 (1975), doi:10.1016/0010-4655(75)90039-9.
-T.-J. Hou et al., "New CTEQ global analysis of quantum chromodynamics with high-precision data from the LHC", Physical Review D 103(1) (2021), doi:10.1103/PhysRevD.103.014013.
+ATLAS Collaboration, Precision measurement and interpretation of inclusive W+, W- and Z/γ* production cross sections with the ATLAS detector, The European Physical Journal C 77(6) (2017), doi:10.1140/epjc/s10052-017-4911-9.
+ATLAS Collaboration, The ATLAS experiment at the CERN Large Hadron Collider, Journal of Instrumentation 3(08), S08003 (2008), doi:10.1088/1748-0221/3/08/s08003.
+H1 and Zeus Collaborations, Combination of measurements of inclusive Deep Inelastic ep scattering cross sections and QCD analysis of HERA data (2015), 1506.06042.
+R. S. Towel et al., Improved measurement of the d/u asymmetry in the nucleon sea, Physical Review D 64(5) (2001), doi:10.1103/physrevd.64.052002.
+ATLAS Collaboration, Determination of the parton distribution functions of the proton from ATLAS measurements of differential W and Z boson production in association with jets, Journal of High Energy Physics 2021(7), 223 (2021), doi:10.1007/JHEP07(2021)223.
+ATLAS Collaboration, Measurement of differential cross sections and W+/W- cross-section ratios for W boson production in association with jets at √s 8 TeV with the ATLAS detector, Journal of High Energy Physics 2018(5) (2018), doi:10.1007/jhep05(2018)077.
+ATLAS Collaboration, Measurement of the inclusive cross-section for the production of jets in association with a Z boson in proton-proton collisions at 8 TeV using the ATLAS detector, The European Physical Journal C 79(10) (2019), doi:10.1140/epjc/s10052-131019-7321-3.
+M. Botje, QCDNUM: Fast QCD evolution and convolution, Comp. Phys. Comm. 182(2011) 490, 1005.1481.
+S. Alekhin et al., HERAFitter, open source QCD fit project, (2015), 1410.4412.
+F.James et al., Minuit: A System for Function Minimization and Analysis of the Parameter Errors and Correlations, Comput. Phys. Commun. 10, 343 (1975), doi:10.1016/0010-4655(75)90039-9.
+T.-J. Hou et al., New CTEQ global analysis of quantum chromodynamics with high-precision data from the LHC, Physical Review D 103(1) (2021), doi:10.1103/PhysRevD.103.014013.

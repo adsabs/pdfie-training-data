@@ -28,7 +28,7 @@ Evrard, A. E., Bialek, J., Busha, M., et al. 2008,, ApJ, 672, 122
 Genzel, R., Baker, A. J., Tacconi, L. J., et al. 2003,, ApJ, 584, 633
 Genzel, R., Tacconi, L. J., Gracia-Carpio, J., et al. 2010,, MNRAS, 407, 2091
 Ginolfi, M., Maiolino, R., Nagao, T., et al. 2017,, MNRAS, 468, 3468
-Gomez-Guijarro, C., Riechers, D. A., Pavesi, R., et al. 2019,, ApJ, 872, 117
+Gómez-Guijarro, C., Riechers, D. A., Pavesi, R., et al. 2019,, ApJ, 872, 117
 Goto, T., & Toft, S. 2015, A&A, 579, A17
 Harrington, K. C., Yun, M. S., Cybulski, R., et al. 2016,, MNRAS, 458, 4383
 Harris, A. I., Baker, A. J., Zonak, S. G., et al. 2010,, ApJ, 723, 1139

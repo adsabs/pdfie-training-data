@@ -1,3 +1,63 @@
+M. Sato and Y. Ando, Rep. Prog. Phys. 80, 076501 (2017).
+D. A. Ivanov, Phys. Rev. Lett. 86, 268 (2001).
+C. Nayak, S. H. Simon, A. Stern, M. Freedman, and S. Das Sarma, Rev. Mod. Phys. 80, 1083 (2008).
+A. Ramires, D. F. Agterberg, and M. Sigrist, Phys. Rev. B 98, 024501 (2018).
+M. Sato, Phys. Rev. B 79, 214526 (2009).
+M. Sato, Phys. Rev. B 81, 220504(R) (2010).
+L. Fu and E. Berg, Phys. Rev. Lett. 105, 097001 (2010).
+M. Geier, P. W. Brouwer, and L. Trifunovic, Phys. Rev. B 101, 245128 (2020).
+S. Ono, H. C. Po, and H. Watanabe, Science Advances 6, eaaz8367 (2020).
+L. Fu and C. L. Kane, Phys. Rev. Lett. 100, 096407 (2008).
+R. M. Lutchyn, J. D. Sau, and S. Das Sarma, Phys. Rev. Lett. 105, 077001 (2010).
+Y. Oreg, G. Refael, and F. von Oppen, Phys. Rev. Lett. 105, 177002 (2010).
+V. Mourik, K. Zuo, S. M. Frolov, S. R. Plissard, E. P. A. M. Bakkers, and L. P. Kouwenhoven, Science 336, 1003 (2012).
+S. Nadj-Perge, I. K. Drozdov, J. Li, H. Chen, S. Jeon, J. Seo, A. H. MacDonald, B. A. Bernevig, and A. Yazdani, Science 346, 602 (2014).
+A. Palacio-Morales, E. Mascot, S. Cocklin, H. Kim, S. Rachel, D. K. Morr, and R. Wiesendanger, Science Advances 5, eaav6600 (2019).
+C. Kallin and J. Berlinsky, Rep. Prog. Phys. 79, 054502 (2016).
+R. Nandkishore, L. S. Levitov, and A. V. Chubukov, Nat. Phys. 8, 158 (2012).
+M. L. Kiesel, C. Platt, W. Hanke, D. A. Abanin, and R. Thomale, Phys. Rev. B 86, 020507(R) (2012).
+W. Wu, M. M. Scherer, C. Honerkamp, and K. Le Hur, Phys. Rev. B 87, 094521 (2013).
+A. M. Black-Schaffer, W. Wu, and K. Le Hur, Phys. Rev. B 90, 054521 (2014).
+A. M. Black-Schaffer and C. Honerkamp, J. Phys. Condens. Matter 26, 423201 (2014).
+In non-centrosymmetric systems it is possible to avoid their annihilation by applying a small Zeeman field60.
+H. Tou, Y. Kitaoka, K. Asayama, N. Kimura, Y. Ōnuki, E. Yamamoto, and K. Maezawa, Phys. Rev. Lett. 77, 1374 (1996).
+E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noël, M. Sigrist, and P. Rogl, Phys. Rev. Lett. 92, 027003 (2004).
+Y. Yanase and M. Sigrist, J. Phys. Soc. Jap. 77, 124711 (2008).
+Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. 104, 057001 (2010).
+S. Sasaki, M. Kriener, K. Segawa, K. Yada, Y. Tanaka, M. Sato, and Y. Ando, Phys. Rev. Lett. 107, 217001 (2011).
+A. S. Erickson, J.-H. Chu, M. F. Toney, T. H. Geballe, and I. R. Fisher, Phys. Rev. B 79, 024520 (2009).
+M. Novak, S. Sasaki, M. Kriener, K. Segawa, and Y. Ando, Phys. Rev. B 88, 140502(R) (2013).
+S. Sasaki, Z. Ren, A. A. Taskin, K. Segawa, L. Fu, and Y. Ando, Phys. Rev. Lett. 109, 217004 (2012).
+P. Zhang, K. Yaji, T. Hashimoto, Y. Ota, T. Kondo, K. Okazaki, Z. Wang, J. Wen, G. D. Gu, H. Ding, and S. Shin, Science 360, 182 (2018).
+J. D. Rameau, N. Zaki, G. D. Gu, P. D. Johnson, and M. Weinert, Phys. Rev. B 99, 205117 (2019).
+Z. Wang, J. O. Rodriguez, L. Jiao, S. Howard, M. Graham, G. D. Gu, T. L. Hughes, D. K. Morr, and V. Madhavan, Science 367, 104 (2020).
+S. Ran, C. Eckberg, Q.-P. Ding, Y. Furukawa, T. Metz, S. R. Saha, I.-L. Liu, M. Zic, H. Kim, J. Paglione, and N. P. Butch, Science 365, 684 (2019).
+H. Zhang, C.-X. Liu, X.-L. Qi, X. Dai, Z. Fang, and S.-C. Zhang, Nat. Phys. 5, 438 (2009).
+Y. Tanaka, Z. Ren, T. Sato, K. Nakayama, S. Souma, T. Takahashi, K. Segawa, and Y. Ando, Nat. Phys. 8, 800 (2012).
+S. Raghu, S. A. Kivelson, and D. J. Scalapino, Phys. Rev. B 81, 224505 (2010).
+S. Raghu, E. Berg, A. V. Chubukov, and S. A. Kivelson, Phys. Rev. B 85, 024516 (2012).
+S. Wolf, T. L. Schmidt, and S. Rachel, Phys. Rev. B 98, 174515 (2018).
+W. Cho, R. Thomale, S. Raghu, and S. A. Kivelson, Phys. Rev. B 88, 064505 (2013).
+C. Platt, W. Cho, R. H. McKenzie, R. Thomale, and S. Raghu, Phys. Rev. B 93, 214515 (2016).
+W. Cho, C. Platt, R. H. McKenzie, and S. Raghu, Phys. Rev. B 92, 134514 (2015).
+T. Scaffidi, J. C. Romers, and S. H. Simon, Phys. Rev. B 89, 220510(R) (2014).
+H. S. Røising, F. Flicker, T. Scaffidi, and S. H. Simon, Phys. Rev. B 98, 224515 (2018).
+C. L. Kane and E. J. Mele, Phys. Rev. Lett. 95, 146802 (2005).
+C. L. Kane and E. J. Mele, Phys. Rev. Lett. 95, 226801 (2005).
+G. W. Semenoff, Phys. Rev. Lett. 53, 2449 (1984).
+A. M. Black-Schaffer and K. Le Hur, Phys. Rev. B 92, 140503(R) (2015).
+See Supplemental Material at [URL] for (i) symmetry considerations and further details of the models, (ii) technical aspects of the WCRG method, (iii) form factors of the superconducting instabilities and (iv) comparison of the bandstructures of the involved models.
+J. F. Annett, Adv. Phys. 39, 83 (1990).
+M. Altmeyer, D. Guterding, P. J. Hirschfeld, T. A. Maier, R. Valentı́, and D. J. Scalapino, Phys. Rev. B 94, 214515 (2016).
+W. Metzner, M. Salmhofer, C. Honerkamp, V. Meden, and K. Schönhammer, Rev. Mod. Phys. 84, 299 (2012).
+W. Kohn and J. M. Luttinger, Phys. Rev. Lett. 15, 524 (1965).
+S. Wolf and S. Rachel, Phys. Rev. B 102, 174512 (2020).
+O. Vafek and L. Wang, Phys. Rev. B 84, 172501 (2011).
+R. Shankar, Rev. Mod. Phys. 66, 129 (1994).
+S. Rachel and K. Le Hur, Phys. Rev. B 82, 075106 (2010).
+K. Lee, T. Hazra, M. Randeria, and N. Trivedi, Phys. Rev. B 99, 184514 (2019).
+X. Wu, M. Fink, W. Hanke, R. Thomale, and D. Di Sante, Phys. Rev. B 100, 041117(R) (2019).
+M. Sato, Y. Takahashi, and S. Fujimoto, Phys. Rev. B 82, 134521 (2010).
 G. W. Semenoff, Phys. Rev. Lett. 53, 2449 (1984)
 C. L. Kane and E. J. Mele, Phys. Rev. Lett. 95, 146802 (2005)
 C. L. Kane and E. J. Mele, Phys. Rev. Lett. 95, 226801 (2005)
