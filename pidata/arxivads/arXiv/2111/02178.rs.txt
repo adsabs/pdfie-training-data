@@ -13,7 +13,7 @@ Kanti, P., Mavromatos, N. E., Rizos, J., et al. 1996, Phys. Rev. D, 54, 5049. do
 Kocherlakota, P., Rezzolla, L., Falcke, H., et al. 2021, Phys. Rev. D, 103, 104047. doi:10.1103/PhysRevD.103.104047
 Lara, G., Volkel, S. H., & Barausse, E. 2021, arXiv:2110.00026
 Maselli, A., Pani, P., Gualtieri, L., et al. 2015, Phys. Rev. D, 92, 083014. doi:10.1103/PhysRevD.92.083014
-Narayan, R., Johnson, M. D., & Gammie, C. F. 2019,, ApJ, 885, L33. doi:10.3847/2041-8213/ab518c
+Narayan, R., Johnson, M. D., & Gammie, C. F. 2019, ApJ, 885, L33. doi:10.3847/2041-8213/ab518c
 Psaltis, D., Medeiros, L., Christian, P., et al. 2020, Phys. Rev. Lett., 125, 141104. doi:10.1103/PhysRevLett.125.141104
 Rezzolla, L. & Zhidenko, A. 2014, Phys. Rev. D, 90, 084009. doi:10.1103/PhysRevD.90.084009
 Shapiro, S. L. & Teukolsky, S. A. 1983, A Wiley-Interscience Publication, New York: Wiley, 1983

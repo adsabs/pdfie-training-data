@@ -1,6 +1,6 @@
 N. Brambilla et al. (Quarkonium Working Group) (2004), hep-ph/0412158
 N. Brambilla et al., Eur. Phys. J. C 71, 1534 (2011), 1010.5827
-G.T. Bodwin, E. Braaten, E. Eichten, S.L. Olsen, T.K. Pedlar, J. Russ, "Quarkonium at the Frontiers of High Energy Physics: A Snowmass White Paper", in "Community Summer Study 2013": Snowmass on the Mississippi (2013), 1307.7425
+G.T. Bodwin, E. Braaten, E. Eichten, S.L. Olsen, T.K. Pedlar, J. Russ, Quarkonium at the Frontiers of High Energy Physics: A Snowmass White Paper, in Community Summer Study 2013: Snowmass on the Mississippi (2013), 1307.7425
 N. Brambilla et al., Eur. Phys. J. C 74, 2981 (2014), 1404.3723
 W.E. Caswell, G.P. Lepage, Phys. Lett. 167B, 437 (1986)
 G.T. Bodwin, E. Braaten, G.P. Lepage, Phys. Rev. D51, 1125 (1995), [Erratum: Phys. Rev.D55,5853(1997)], hep-ph/9407339

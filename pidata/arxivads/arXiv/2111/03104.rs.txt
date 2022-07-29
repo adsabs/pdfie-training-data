@@ -1,23 +1,23 @@
 Dziembowski W. A., 2012, Acta Astron., 62, 323
 Dziembowski W. A., 2016, Commmunications of the Konkoly Observatory Hungary, 105, 23
-Dziembowski W. A., Smolec R., 2009, in Guzik J. A., Bradley P. A., eds, American Institute of Physics Conference Series Vol. 1170, Stellar Pulsation: Challenges for Theory and Observation. pp 83-85 (arXiv:0907.1417), doi:10.1063/1.3246580
-Gruberbauer M., et al., 2007,, MNRAS, 379, 1498
-Kraft R. P., Camp D. C., Fernie J. D., Fujita C., Hughes W. T., 1959,, ApJ, 129, 50
-Moskalik P., Kolaczkowski Z., 2009,, MNRAS, 394, 1649
-Moskalik P., et al., 2015,, MNRAS, 447, 2348
-Nardetto N., Mourard D., Kervella P., Mathias P., Merand A., Bersier D., 2006, A&A, 453, 309
-Netzel H., Smolec R., 2019,, MNRAS, 487, 5584
+Dziembowski W. A., Smolec R., 2009, in Guzik J. A., Bradley P. A., eds, American Institute of Physics Conference Series Vol. 1170, Stellar Pulsation: Challenges for Theory and Observation. pp 83–85 (arXiv:0907.1417), doi:10.1063/1.3246580
+Gruberbauer M., et al., 2007, MNRAS, 379, 1498
+Kraft R. P., Camp D. C., Fernie J. D., Fujita C., Hughes W. T., 1959, ApJ, 129, 50
+Moskalik P., Kolaczkowski Z., 2009, MNRAS, 394, 1649
+Moskalik P., et al., 2015, MNRAS, 447, 2348
+Nardetto N., Mourard D., Kervella P., Mathias P., Mérand A., Bersier D., 2006, A&A, 453, 309
+Netzel H., Smolec R., 2019, MNRAS, 487, 5584
 Pietrukowicz P., et al., 2013, Acta Astron., 63, 379
-Pilecki B., et al., 2015,, ApJ, 806, 29
-Pilecki B., et al., 2018,, ApJ, 862, 43
+Pilecki B., et al., 2015, ApJ, 806, 29
+Pilecki B., et al., 2018, ApJ, 862, 43
 Plachy E., et al., 2020, arXiv e-prints, p. arXiv:2012.09709
 Schmid V. S., et al., 2014, A&A, 570, A33
-Smolec R., Sniegowska M., 2016,, MNRAS, 458, 3561
+Smolec R., Śniegowska M., 2016, MNRAS, 458, 3561
 Smolec R., Dziembowski W., Moskalik P., Netzel H., Prudil Z., Skarka M., Soszynski I., 2017, in European Physical Journal Web of Conferences. p. 06003 (arXiv:1703.03029), doi:10.1051/epjconf/201715206003
 Soszynski I., et al., 2008, Acta Astron., 58, 163
-Soszynski I., et al., 2010, Acta Astron., 60, 17
-Soszynski I., et al., 2017a, Acta Astron., 67, 103
-Soszynski I., et al., 2017b, Acta Astron., 67, 297
+Soszyński I., et al., 2010, Acta Astron., 60, 17
+Soszyński I., et al., 2017a, Acta Astron., 67, 103
+Soszyński I., et al., 2017b, Acta Astron., 67, 297
 Tkachenko A., Van Reeth T., Tsymbal V., Aerts C., Kochukhov O., Debosscher J., 2013, A&A, 560, A37
 Udalski A., Szymanski M., Kaluzny J., Kubiak M., Mateo M., 1992, Acta Astron., 42, 253
 Zima W., 2008, Communications in Asteroseismology, 157, 387

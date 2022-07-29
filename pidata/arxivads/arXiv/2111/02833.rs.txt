@@ -1,24 +1,15 @@
-P. Gambino, M. Jung and S. Schacht, Phys. Lett. B 795 (2019), 386-390 doi:10.1016/j.physletb.2019.06.039
-P. Gambino, M. Jung and S. Schacht, Phys. Lett. B 795, arXiv:1905.08209 [hep-ph
+P. Gambino, M. Jung and S. Schacht, Phys. Lett. B 795 (2019), 386-390 doi:10.1016/j.physletb.2019.06.039 [arXiv:1905.08209 [hep-ph]].
 P. A. Zyla et al. [Particle Data Group], PTEP 2020 (2020) no.8, 083C01 doi:10.1093/ptep/ptaa104
 Y. S. Amhis et al. [HFLAV], Eur. Phys. J. C 81 (2021) no.3, 226 doi:10.1140/epjc/s10052-020-8156-7 [arXiv:1909.12524 [hep-ex]].
 J. Chay, H. Georgi and B. Grinstein, Phys. Lett. B 247 (1990), 399-405 doi:10.1016/0370-2693(90)90916-T
-A. V. Manohar and M. B. Wise, Phys. Rev. D 49 (1994), 1310-1329 doi:10.1103/PhysRevD.49.1310
-A. V. Manohar and M. B. Wise, Phys. Rev. D 49, 1994, arXiv:hep-ph/9308246 [hep-ph
+A. V. Manohar and M. B. Wise, Phys. Rev. D 49 (1994), 1310-1329 doi:10.1103/PhysRevD.49.1310 [arXiv:hep-ph/9308246 [hep-ph]].
 B. Blok, L. Koyrakh, M. A. Shifman and A. I. Vainshtein, Phys. Rev. D 49 (1994), 3356 [erratum: Phys. Rev. D 50 (1994), 3572] doi:10.1103/PhysRevD.50.3572 [arXiv:hep-ph/9307247 [hep-ph]].
 S. Hashimoto, B. Colquhoun, T. Izubuchi, T. Kaneko and H. Ohki, EPJ Web Conf. 175 (2018), 13006 doi:10.1051/epjconf/201817513006
 R. Aaij et al. [LHCb], [arXiv:2103.11769 [hep-ex]].
-P. Gambino and S. Hashimoto, Phys. Rev. Lett. 125 (2020) no.3, 032001 doi:10.1103/PhysRevLett.125.032001
-P. GambiNo. and S. Hashimoto, Phys. Rev. Lett. 125, arXiv:2005.13730 [hep-lat
-P. Colangelo, F. De Fazio and F. Loparco, JHEP 11 (2020), 032 doi:10.1007/JHEP11(2020)032
-P. Colangelo, F. De Fazio and F. Loparco, JHEP 11, arXiv:2006.13759 [hep-ph
-K. Nakayama, B. Fahy and S. Hashimoto, Phys. Rev. D 94 (2016) no.5, 054507 doi:10.1103/PhysRevD.94.054507
-K. Nakayama, B. Fahy and S. Hashimoto, Phys. Rev. D 94, arXiv:1606.01002 [hep-lat
-S. Hashimoto, PTEP 2017 (2017) no.5, 053B03 doi:10.1093/ptep/ptx052
-S. Hashimoto, PTEP, arXiv:1703.01881 [hep-lat
-P. Gambino, A. Melis and S. Simula, Phys. Rev. D 96 (2017) no.1, 014511 doi:10.1103/PhysRevD.96.014511
-P. Gambino, A. Melis and S. Simula, Phys. Rev. D 96, 2017, arXiv:1704.06105 [hep-lat
-M. Bordone, B. Capdevila and P. Gambino, Phys. Lett. B 822 (2021), 136679 doi:10.1016/j.physletb.2021.136679
-M. Bordone, B. Capdevila and P. Gambino, Phys. Lett. B 822, 2021, arXiv:2107.00604 [hep-ph
-V. Aquila, P. Gambino, G. Ridolfi and N. Uraltsev, Nucl. Phys. B 719 (2005), 77-102 doi:10.1016/j.nuclphysb.2005.04.031
-V. Aquila, P. Gambino, G. Ridolfi and N. Uraltsev, Nucl. Phys. B 719, 2005, arXiv:hep-ph/0503083 [hep-ph
+P. Gambino and S. Hashimoto, Phys. Rev. Lett. 125 (2020) no.3, 032001 doi:10.1103/PhysRevLett.125.032001 [arXiv:2005.13730 [hep-lat]].
+P. Colangelo, F. De Fazio and F. Loparco, JHEP 11 (2020), 032 doi:10.1007/JHEP11(2020)032 [arXiv:2006.13759 [hep-ph]].
+K. Nakayama, B. Fahy and S. Hashimoto, Phys. Rev. D 94 (2016) no.5, 054507 doi:10.1103/PhysRevD.94.054507 [arXiv:1606.01002 [hep-lat]].
+S. Hashimoto, PTEP 2017 (2017) no.5, 053B03 doi:10.1093/ptep/ptx052 [arXiv:1703.01881 [hep-lat]].
+P. Gambino, A. Melis and S. Simula, Phys. Rev. D 96 (2017) no.1, 014511 doi:10.1103/PhysRevD.96.014511 [arXiv:1704.06105 [hep-lat]].
+M. Bordone, B. Capdevila and P. Gambino, Phys. Lett. B 822 (2021), 136679 doi:10.1016/j.physletb.2021.136679 [arXiv:2107.00604 [hep-ph]].
+V. Aquila, P. Gambino, G. Ridolfi and N. Uraltsev, Nucl. Phys. B 719 (2005), 77-102 doi:10.1016/j.nuclphysb.2005.04.031 [arXiv:hep-ph/0503083 [hep-ph]].

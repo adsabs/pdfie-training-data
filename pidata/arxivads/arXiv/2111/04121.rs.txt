@@ -1,68 +1,68 @@
 Aartsen M. G., et al., 2013, Phys. Rev. Lett., 111, 021103
-Aartsen M. G., et al., 2020,, ApJ, 890, 111
+Aartsen M. G., et al., 2020, ApJ, 890, 111
 Aartsen M. G., et al., 2021, Journal of Physics G Nuclear Physics, 48, 060501
-Arons J., Scharlemann E. T., 1979,, ApJ, 231, 854
-Beloborodov A. M., 2017,, ApJ, 843, L26
-Beloborodov A. M., 2020,, ApJ, 896, 142
-Blaes O., Blandford R., Goldreich P., Madau P., 1989,, ApJ, 343, 839
-Bochenek C. D., Ravi V., Belov K. V., Hallinan G., Kocz J., Kulkarni S. R., McKenna D. L., 2020,, Nature, 587, 59
-CHIME/FRB Collaboration et al., 2019,, ApJ, 885, L24
-CHIME/FRB Collaboration et al., 2020,, Nature, 587, 54
+Arons J., Scharlemann E. T., 1979, ApJ, 231, 854
+Beloborodov A. M., 2017, ApJ, 843, L26
+Beloborodov A. M., 2020, ApJ, 896, 142
+Blaes O., Blandford R., Goldreich P., Madau P., 1989, ApJ, 343, 839
+Bochenek C. D., Ravi V., Belov K. V., Hallinan G., Kocz J., Kulkarni S. R., McKenna D. L., 2020, Nature, 587, 59
+CHIME/FRB Collaboration et al., 2019, ApJ, 885, L24
+CHIME/FRB Collaboration et al., 2020, Nature, 587, 54
 Ghadimi A., Santander M., 2021, arXiv e-prints, p. arXiv:2107.08322
-Goldreich P., Julian W. H., 1969,, ApJ, 157, 869
-Guepin C., Cerutti B., Kotera K., 2020, A&A, 635, A138
+Goldreich P., Julian W. H., 1969, ApJ, 157, 869
+Guépin C., Cerutti B., Kotera K., 2020, A&A, 635, A138
 Halzen F., Hooper D., 2002, Reports on Progress in Physics, 65, 1025
 IceCube Collaboration et al., 2018, Science, 361, eaat1378
 Jackson J. D., 1998, Classical Electrodynamics, 3rd Edition
-Katz J. I., 2016,, ApJ, 826, 226
-Kumar P., Bosnjak Z., 2020,, MNRAS, 494, 2385
-Kumar P., Lu W., Bhattacharya M., 2017,, MNRAS, 468, 2726
+Katz J. I., 2016, ApJ, 826, 226
+Kumar P., Bošnjak Ž., 2020, MNRAS, 494, 2385
+Kumar P., Lu W., Bhattacharya M., 2017, MNRAS, 468, 2726
 Li Z., 2012, Phys. Rev. D, 85, 027301
 Li C. K., et al., 2021a, Nature Astronomy, 5, 378
-Li D., et al., 2021b,, Nature, 598, 267
-Lin L., et al., 2020,, Nature, 587, 63
+Li D., et al., 2021b, Nature, 598, 267
+Lin L., et al., 2020, Nature, 587, 63
 Lorimer D. R., Bailes M., McLaughlin M. A., Narkevic D. J., Crawford F., 2007, Science, 318, 777
-Lu W., Kumar P., 2018,, MNRAS, 477, 2470
-Lu W., Kumar P., Zhang B., 2020,, MNRAS, 498, 1397
+Lu W., Kumar P., 2018, MNRAS, 477, 2470
+Lu W., Kumar P., Zhang B., 2020, MNRAS, 498, 1397
 Luo J.-W., Zhang B., 2020, Phys. Rev. D, 101, 103015
-Luo R., Lee K., Lorimer D. R., Zhang B., 2018,, MNRAS, 481, 2320
-Luo R., Men Y., Lee K., Wang W., Lorimer D. R., Zhang B., 2020,, MNRAS, 494, 665
-Lyubarsky Y., 2014,, MNRAS, 442, L9
-Lyubarsky Y., 2020,, ApJ, 897, 1
+Luo R., Lee K., Lorimer D. R., Zhang B., 2018, MNRAS, 481, 2320
+Luo R., Men Y., Lee K., Wang W., Lorimer D. R., Zhang B., 2020, MNRAS, 494, 665
+Lyubarsky Y., 2014, MNRAS, 442, L9
+Lyubarsky Y., 2020, ApJ, 897, 1
 Lyubarsky Y., 2021, Universe, 7, 56
-Margalit B., Beniamini P., Sridhar N., Metzger B. D., 2020,, ApJ, 899, L27
-Mereghetti S., et al., 2020,, ApJ, 898, L29
-Meszaros P., 2017, Annual Review of Nuclear and Particle Science, 67, 45
-Metzger B. D., Berger E., Margalit B., 2017,, ApJ, 841, 14
-Metzger B. D., Margalit B., Sironi L., 2019,, MNRAS, 485, 4091
-Metzger B. D., Fang K., Margalit B., 2020,, ApJ, 902, L22
+Margalit B., Beniamini P., Sridhar N., Metzger B. D., 2020, ApJ, 899, L27
+Mereghetti S., et al., 2020, ApJ, 898, L29
+Mészáros P., 2017, Annual Review of Nuclear and Particle Science, 67, 45
+Metzger B. D., Berger E., Margalit B., 2017, ApJ, 841, 14
+Metzger B. D., Margalit B., Sironi L., 2019, MNRAS, 485, 4091
+Metzger B. D., Fang K., Margalit B., 2020, ApJ, 902, L22
 Murase K., 2008, Phys. Rev. D, 78, 101302
 Murase K., Bartos I., 2019, Annual Review of Nuclear and Particle Science, 69, 477
 Murase K., Nagataki S., 2006, Phys. Rev. D, 73, 063002
-Murase K., Meszaros P., Zhang B., 2009, Phys. Rev. D, 79, 103001
-Muslimov A. G., Harding A. K., 2004,, ApJ, 606, 1143
+Murase K., Mészáros P., Zhang B., 2009, Phys. Rev. D, 79, 103001
+Muslimov A. G., Harding A. K., 2004, ApJ, 606, 1143
 Planck Collaboration et al., 2016, A&A, 594, A13
 Popov S. B., Postnov K. A., 2010, in Harutyunian H. A., Mickaelian A. M., Terzian Y., eds, Evolution of Cosmic Objects through their Physical Activity. pp 129-132 (arXiv:0710.2006)
 Ridnaia A., et al., 2021, Nature Astronomy, 5, 372
-Ruderman M. A., Sutherland P. G., 1975,, ApJ, 196, 51
+Ruderman M. A., Sutherland P. G., 1975, ApJ, 196, 51
 Sironi L., Plotnikov I., Nattila J., Beloborodov A. M., 2021, Phys. Rev. Lett., 127, 035101
 Stecker F. W., 1968, Phys. Rev. Lett., 21, 1016
 Stein R., et al., 2021, Nature Astronomy, 5, 510
-Sun H., Zhang B., Li Z., 2015,, ApJ, 812, 33
+Sun H., Zhang B., Li Z., 2015, ApJ, 812, 33
 Tavani M., et al., 2021, Nature Astronomy, 5, 401
-Thompson C., Duncan R. C., 1995,, MNRAS, 275, 255
-Thompson C., Duncan R. C., 1996,, ApJ, 473, 322
+Thompson C., Duncan R. C., 1995, MNRAS, 275, 255
+Thompson C., Duncan R. C., 1996, ApJ, 473, 322
 Thornton D., et al., 2013, Science, 341, 53
-Wadiasingh Z., Beniamini P., Timokhin A., Baring M. G., van der Horst A. J., Harding A. K., Kazanas D., 2020,, ApJ, 891, 82
-Xiao D., Dai Z.-G., Meszaros P., 2017,, ApJ, 843, 17
-Yang Y.-P., Zhang B., 2018,, ApJ, 868, 31
+Wadiasingh Z., Beniamini P., Timokhin A., Baring M. G., van der Horst A. J., Harding A. K., Kazanas D., 2020, ApJ, 891, 82
+Xiao D., Dai Z.-G., Mészáros P., 2017, ApJ, 843, 17
+Yang Y.-P., Zhang B., 2018, ApJ, 868, 31
 Yang Y.-P., Zhang B., 2021, arXiv e-prints, p. arXiv:2104.01925
-Yang Y.-P., Zhu J.-P., Zhang B., Wu X.-F., 2020,, ApJ, 901, L13
-Yu Y.-W., Zou Y.-C., Dai Z.-G., Yu W.-F., 2021,, MNRAS, 500, 2704
-Yuan Y., Beloborodov A. M., Chen A. Y., Levin Y., 2020,, ApJ, 900, L21
-Yuksel H., Kistler M. D., Beacom J. F., Hopkins A. M., 2008,, ApJ, 683, L5
-Zhang B., 2020,, Nature, 587, 45
+Yang Y.-P., Zhu J.-P., Zhang B., Wu X.-F., 2020, ApJ, 901, L13
+Yu Y.-W., Zou Y.-C., Dai Z.-G., Yu W.-F., 2021, MNRAS, 500, 2704
+Yuan Y., Beloborodov A. M., Chen A. Y., Levin Y., 2020, ApJ, 900, L21
+Yuksel H., Kistler M. D., Beacom J. F., Hopkins A. M., 2008, ApJ, 683, L5
+Zhang B., 2020, Nature, 587, 45
 Zhang B., Kumar P., 2013, Phys. Rev. Lett., 110, 121101
-Zhang B., Dai Z. G., Meszaros P., Waxman E., Harding A. K., 2003,, ApJ, 595, 346
-Zhang R. C., Zhang B., Li Y., Lorimer D. R., 2021,, MNRAS, 501, 157
-Zhu J.-P., Wang K., Zhang B., 2021,, ApJ, 917, L28
+Zhang B., Dai Z. G., Mészáros P., Waxman E., Harding A. K., 2003, ApJ, 595, 346
+Zhang R. C., Zhang B., Li Y., Lorimer D. R., 2021, MNRAS, 501, 157
+Zhu J.-P., Wang K., Zhang B., 2021, ApJ, 917, L28

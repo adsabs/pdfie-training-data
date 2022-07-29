@@ -3,7 +3,7 @@ M. Cataneo, D. Rapetti, International Journal of Modern Physics D 27, 1848006 (2
 M. Cataneo et al., Phys. Rev. D92, 044009 (2015), 1412.0133
 W.H. Press, P. Schechter, ApJ187, 425 (1974)
 L. Salvati et al., A&A614, A13 (2018), 1708.00697
-I. Zubeldia, A. Challinor, MNRAS489, 401 (2019), 1904.07887
+Í. Zubeldia, A. Challinor, MNRAS489, 401 (2019), 1904.07887
 Planck Collaboration et al., A&A594, A24 (2016), 1502.01597
 T.M.C. Abbott et al., Phys. Rev. D102, 023509 (2020), 2002.11124
 F. Pacaud et al., A&A620, A10 (2018), 1810.01624
@@ -12,7 +12,7 @@ R.A. Sunyaev, Y.B. Zeldovich, Ap&SS7, 3 (1970)
 S. Bocquet et al. (2015), 1502.07357
 E. Artis et al., A&A649, A47 (2021), 2101.02501
 A. Fumagalli et al., A&A652, A21 (2021), 2102.08914
-F. Mayet et al., in "EPJ Web of Conferences 2228" (2020), p. 00017, 1911.03145
+F. Mayet et al., in EPJ Web of Conferences 2228 (2020), p. 00017, 1911.03145
 Planck Collaboration et al., A&A594, A27 (2016), 1502.01598
 L. Perotto et al., A&A637, A71 (2020), 1910.02038
 D. Nagai et al., ApJ668, 1 (2007), astro-ph/0703661

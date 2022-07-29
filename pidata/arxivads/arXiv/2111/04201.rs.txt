@@ -8,7 +8,7 @@ C. Cheung, J. Liu, and G. N. Remmen, Phys. Rev. D 100, 046003 (2019), arXiv:1903
 G. J. Loges, T. Noumi, and G. Shiu, Phys. Rev. D 102, 046010 (2020), arXiv:1909.01352 [hep-th]
 B. Bellazzini, M. Lewandowski, and J. Serra, Phys. Rev. Lett. 123, 251103 (2019), arXiv:1902.03250 [hep-th]
 P. A. Cano, T. Ort in, and P. F. Ramirez, JHEP 02, 175, arXiv:1909.08530 [hep-th]
-P. A. Cano, S. Chimento, R. Linares, T. Ort in, and P. F. Ram irez, JHEP 02, 031, arXiv:1910.14324 [hep-th]
+P. A. Cano, S. Chimento, R. Linares, T. Ortín, and P. F. Ramírez, JHEP 02, 031, arXiv:1910.14324 [hep-th]
 A. M. Charles, (2019), arXiv:1906.07734 [hep-th]
 C. R. T. Jones and B. McPeak, JHEP 06, 140, arXiv:1908.10452 [hep-th]
 S. Cremonini, C. R. T. Jones, J. T. Liu, and B. McPeak, JHEP 09, 003, arXiv:1912.11161 [hep-th]
@@ -24,11 +24,11 @@ R. M. Wald, Phys. Rev. D 48, R3427 (1993), arXiv:gr-qc/9307038
 V. Iyer and R. M. Wald, Phys. Rev. D 50, 846 (1994), arXiv:gr-qc/9403028
 V. Iyer and R. M. Wald, Phys. Rev. D 52, 4430 (1995)
 J. Sorce and R. M. Wald, Phys. Rev. D 96, 104014 (2017), arXiv:1707.05862 [gr-qc]
-D. Mitsios, T. Ort in, and D. Peren iguez, JHEP 08, 019, arXiv:2106.07495 [hep-th]
+D. Mitsios, T. Ortín, and D. Pereñíguez, JHEP 08, 019, arXiv:2106.07495 [hep-th]
 H. S. Reall and J. E. Santos, JHEP 04, 021, arXiv:1901.11535 [hep-th]
 N. Bobev, A. M. Charles, K. Hristov, and V. Reys, JHEP 08, 173, arXiv:2106.04581 [hep-th]
 E.-A. Kontou and K. Sanders, Class. Quant. Grav. 37, 193001 (2020), arXiv:2003.01815 [gr-qc]
-P. A. Cano and A. Ruiperez, JHEP 05, 189, [Erratum: JHEP 03, 187 (2020)], arXiv:1901.01315 [gr-qc]
+P. A. Cano and A. Ruipérez, JHEP 05, 189, [Erratum: JHEP 03, 187 (2020)], arXiv:1901.01315 [gr-qc]
 D. Harlow, JHEP 01, 122, arXiv:1510.07911 [hep-th]
 M. Montero, JHEP 03, 157, arXiv:1812.03978 [hep-th]
 O. Aharony and E. Palti, (2021), arXiv:2108.04594 [hep-th]

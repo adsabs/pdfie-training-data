@@ -3,41 +3,41 @@ Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2016, Phys. Rev. Lett., 116, 06
 Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2017, ApJL, 848, L13, doi: 10.3847/2041-8213/aa920c
 Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2017, Phys. Rev. Lett., 119, 161101, doi: 10.1103/PhysRevLett.119.161101
 Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2017a, ApJL, 848, L12, doi: 10.3847/2041-8213/aa91c9
---. 2017b,, Nature, 551, 85, doi: 10.1038/nature24471
---. 2020a, Astrophys. J. Lett., 892, L3, doi: 10.3847/2041-8213/ab75f5
---. 2020b, Living Reviews in Relativity, 23, 3, doi: 10.1007/s41114-020-00026-9
+—. 2017b, Nature, 551, 85, doi: 10.1038/nature24471
+—. 2020a, Astrophys. J. Lett., 892, L3, doi: 10.3847/2041-8213/ab75f5
+—. 2020b, Living Reviews in Relativity, 23, 3, doi: 10.1007/s41114-020-00026-9
 Abbott, R., Abbott, T. D., Abraham, S., et al. 2020c, ApJL, 896, L44, doi: 10.3847/2041-8213/ab960f
---. 2021, ApJL, 915, L5, doi: 10.3847/2041-8213/ac082e
+—. 2021, ApJL, 915, L5, doi: 10.3847/2041-8213/ac082e
 Ackley, K., Amati, L., Barbieri, C., et al. 2020, A&A, 643, A113, doi: 10.1051/0004-6361/202037669
 Alexander, K. D., Berger, E., Fong, W., et al. 2017, ApJL, 848, L21, doi: 10.3847/2041-8213/aa905d
 Alexander, K. D., Schroeder, G., Paterson, K., et al. 2021, arXiv e-prints, arXiv:2102.08957. https://arxiv.org/abs/2102.08957
 Anand, S., Coughlin, M. W., Kasliwal, M. M., et al. 2020, Nature Astronomy, doi: 10.1038/s41550-020-1183-3
---. 2021, Nature Astronomy, 5, 46, doi: 10.1038/s41550-020-1183-3
+—. 2021, Nature Astronomy, 5, 46, doi: 10.1038/s41550-020-1183-3
 Andreoni, I., Ackley, K., Cooke, J., et al. 2017, PASA, 34, e069, doi: 10.1017/pasa.2017.65
 Andreoni, I., Goldstein, D. A., Anand, S., et al. 2019a, ApJL, 881, L16, doi: 10.3847/2041-8213/ab3399
 Andreoni, I., Anand, S., Bianco, F. B., et al. 2019b, PASP, 131, 068004, doi: 10.1088/1538-3873/ab1531
---. 2019c, PASP, 131, 068004, doi: 10.1088/1538-3873/ab1531
-Andreoni, I., Goldstein, D. A., Kasliwal, M. M., et al. 2020,, ApJ, 890, 131, doi: 10.3847/1538-4357/ab6a1b
+—. 2019c, PASP, 131, 068004, doi: 10.1088/1538-3873/ab1531
+Andreoni, I., Goldstein, D. A., Kasliwal, M. M., et al. 2020, ApJ, 890, 131, doi: 10.3847/1538-4357/ab6a1b
 Andreoni, I., Coughlin, M. W., Almualla, M., et al. 2021a, arXiv e-prints, arXiv:2106.06820. https://arxiv.org/abs/2106.06820
-Andreoni, I., Coughlin, M. W., Kool, E. C., et al. 2021b,, ApJ, 918, 63, doi: 10.3847/1538-4357/ac0bc7
+Andreoni, I., Coughlin, M. W., Kool, E. C., et al. 2021b, ApJ, 918, 63, doi: 10.3847/1538-4357/ac0bc7
 Annala, E., Gorda, T., Kurkela, A., & Vuorinen, A. 2018, Phys. Rev. Lett., 120, 172703, doi: 10.1103/PhysRevLett.120.172703
 Antier, S., Agayeva, S., Almualla, M., et al. 2020, Monthly Notices of the Royal Astronomical Society, 497, 5518, doi: 10.1093/mnras/staa1846
 Arcavi, I. 2018, ApJL, 855, L23, doi: 10.3847/2041-8213/aab267
-Arcavi, I., Hosseinzadeh, G., Howell, D. A., et al. 2017,, Nature, 551, 64, doi: 10.1038/nature24291
+Arcavi, I., Hosseinzadeh, G., Howell, D. A., et al. 2017, Nature, 551, 64, doi: 10.1038/nature24291
 Ascenzi, S., De Lillo, N., Haster, C.-J., Ohme, F., & Pannarale, F. 2018, arXiv: 1808.06848
-Ascenzi, S., Coughlin, M. W., Dietrich, T., et al. 2019,, MNRAS, 486, 672, doi: 10.1093/mnras/stz891
+Ascenzi, S., Coughlin, M. W., Dietrich, T., et al. 2019, MNRAS, 486, 672, doi: 10.1093/mnras/stz891
 Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33, doi: 10.1051/0004-6361/201322068
 Barbieri, C., Salafia, O. S., Perego, A., Colpi, M., & Ghirlanda, G. 2019, A&A, 625, A152, doi: 10.1051/0004-6361/201935443
---. 2020, European Physical Journal A, 56, 8, doi: 10.1140/epja/s10050-019-00013-x
+—. 2020, European Physical Journal A, 56, 8, doi: 10.1140/epja/s10050-019-00013-x
 Bauswein, A., Just, O., Janka, H.-T., & Stergioulas, N. 2017, ApJL, 850, L34, doi: 10.3847/2041-8213/aa9994
-Becerra, R. L., Dichiara, S., Watson, A. M., et al. 2021,, MNRAS, 507, 1401, doi: 10.1093/mnras/stab2086
+Becerra, R. L., Dichiara, S., Watson, A. M., et al. 2021, MNRAS, 507, 1401, doi: 10.1093/mnras/stab2086
 Bellm, E. C., Burke, C. J., Coughlin, M. W., et al. 2021, arXiv e-prints, arXiv:2110.02314. https://arxiv.org/abs/2110.02314
 Bellm, E. C., Kulkarni, S. R., Barlow, T., et al. 2019, PASP, 131, 068003
-Bhakta, D., Mooley, K. P., Corsi, A., et al. 2021,, ApJ, 911, 77, doi: 10.3847/1538-4357/abeaa8
+Bhakta, D., Mooley, K. P., Corsi, A., et al. 2021, ApJ, 911, 77, doi: 10.3847/1538-4357/abeaa8
 Bianco, F. B., Drout, M. R., Graham, M. L., et al. 2019, PASP, 131, 068002, doi: 10.1088/1538-3873/ab121a
 Bloemen, S., Groot, P., Nelemans, G., & Klein-Wolt, M. 2015, in Astronomical Society of the Pacific Conference Series, Vol. 496, Living Together: Planets, Host Stars and Binaries, ed. S. M. Rucinski, G. Torres, & M. Zejda, 254
 Bloom, J. S., Holz, D. E., Hughes, S. A., et al. 2009, arXiv e-prints, arXiv:0902.1527. https://arxiv.org/abs/0902.1527
-Bulla, M. 2019,, MNRAS, 489, 5037, doi: 10.1093/mnras/stz2495
+Bulla, M. 2019, MNRAS, 489, 5037, doi: 10.1093/mnras/stz2495
 Chambers, K. C., Magnier, E. A., Metcalfe, N., et al. 2016, arXiv e-prints, arXiv:1612.05560. https://arxiv.org/abs/1612.05560
 Chang, S.-W., Onken, C. A., Wolf, C., et al. 2021, PASA, 38, e024, doi: 10.1017/pasa.2021.17
 Chase, E. A., O'Connor, B., Fryer, C. L., et al. 2021, arXiv e-prints, arXiv:2105.12268. https://arxiv.org/abs/2105.12268
@@ -53,7 +53,7 @@ Coughlin, M. W., Antier, S., Dietrich, T., et al. 2020b, Nature Communications, 
 Coulter, D. A., Foley, R. J., Kilpatrick, C. D., et al. 2017, Science, 358, 1556, doi: 10.1126/science.aap9811
 Cowperthwaite, P. S., Villar, V. A., Scolnic, D. M., & Berger, E. 2018a, ArXiv e-prints. https://arxiv.org/abs/1811.03098
 Cowperthwaite, P. S., Berger, E., Villar, V. A., et al. 2017, ApJL, 848, L17, doi: 10.3847/2041-8213/aa8fc7
-Cowperthwaite, P. S., Berger, E., Rest, A., et al. 2018b,, ApJ, 858, 18, doi: 10.3847/1538-4357/aabad9
+Cowperthwaite, P. S., Berger, E., Rest, A., et al. 2018b, ApJ, 858, 18, doi: 10.3847/1538-4357/aabad9
 de Mink, S. E., & King, A. 2017, ApJL, 839, L7, doi: 10.3847/2041-8213/aa67f3
 de Wet, S., Groot, P. J., Bloemen, S., et al. 2021, A&A, 649, A72, doi: 10.1051/0004-6361/202040231
 Dichiara, S., Becerra, R. L., Chase, E. A., et al. 2021, arXiv e-prints, arXiv:2110.12047. https://arxiv.org/abs/2110.12047
@@ -65,16 +65,16 @@ Evans, P. A., Cenko, S. B., Kennea, J. A., et al. 2017, Science, 358, 1565, doi:
 Flaugher, B., Diehl, H. T., Honscheid, K., et al. 2015, The Astronomical Journal, 150, 150, doi: 10.1088/0004-6256/150/5/150
 Foucart, F. 2012, PhRvD, 86, 124007, doi: 10.1103/PhysRevD.86.124007
 Foucart, F., Deaton, M. B., Duez, M. D., et al. 2013, Phys.Rev., D87, 084006, doi: 10.1103/PhysRevD.87.084006
-Garcia, A., Morgan, R., Herner, K., et al. 2020,, ApJ, 903, 75, doi: 10.3847/1538-4357/abb823
+Garcia, A., Morgan, R., Herner, K., et al. 2020, ApJ, 903, 75, doi: 10.3847/1538-4357/abb823
 Ghirlanda, G., Salvaterra, R., Campana, S., et al. 2015, A&A, 578, A71, doi: 10.1051/0004-6361/201526112
 Ghirlanda, G., Salafia, O. S., Paragi, Z., et al. 2019, Science, 363, 968, doi: 10.1126/science.aau8815
 Goldstein, A., Veres, P., Burns, E., et al. 2017, ApJL, 848, L14, doi: 10.3847/2041-8213/aa8f41
 Goldstein, D. A., Andreoni, I., Nugent, P. E., et al. 2019, ApJL, 881, L7, doi: 10.3847/2041-8213/ab3046
 Gomez, S., Hosseinzadeh, G., Cowperthwaite, P. S., et al. 2019, ApJL, 884, L55, doi: 10.3847/2041-8213/ab4ad5
 Gompertz, B. P., Nicholl, M., Schmidt, P., Pratten, G., & Vecchio, A. 2021, arXiv e-prints, arXiv:2108.10184. https://arxiv.org/abs/2108.10184
-Gompertz, B. P., Levan, A. J., Tanvir, N. R., et al. 2018,, ApJ, 860, 62, doi: 10.3847/1538-4357/aac206
-Gompertz, B. P., Cutter, R., Steeghs, D., et al. 2020,, MNRAS, 497, 726, doi: 10.1093/mnras/staa1845
-Gottlieb, O., Nakar, E., Piran, T., & Hotokezaka, K. 2018,, MNRAS, 479, 588, doi: 10.1093/mnras/sty1462
+Gompertz, B. P., Levan, A. J., Tanvir, N. R., et al. 2018, ApJ, 860, 62, doi: 10.3847/1538-4357/aac206
+Gompertz, B. P., Cutter, R., Steeghs, D., et al. 2020, MNRAS, 497, 726, doi: 10.1093/mnras/staa1845
+Gottlieb, O., Nakar, E., Piran, T., & Hotokezaka, K. 2018, MNRAS, 479, 588, doi: 10.1093/mnras/sty1462
 Graham, M. J., Kulkarni, S. R., Bellm, E. C., et al. 2019, PASP, 131, 078001, doi: 10.1088/1538-3873/ab006c
 Graham, M. J., Ford, K. E. S., McKernan, B., et al. 2020, PhRvL, 124, 251102, doi: 10.1103/PhysRevLett.124.251102
 Guidorzi, C., Margutti, R., Brout, D., et al. 2017, ApJL, 851, L36, doi: 10.3847/2041-8213/aaa009
@@ -82,21 +82,21 @@ Hajela, A., Margutti, R., Alexander, K. D., et al. 2019, ApJL, 886, L17, doi: 10
 Hallinan, G., Corsi, A., Mooley, K. P., et al. 2017, Science, 358, 1579, doi: 10.1126/science.aap9855
 Hjorth, J., Levan, A. J., Tanvir, N. R., et al. 2017, ApJL, 848, L31, doi: 10.3847/2041-8213/aa9110
 Hosseinzadeh, G., Cowperthwaite, P. S., Gomez, S., et al. 2019, ApJL, 880, L4, doi: 10.3847/2041-8213/ab271c
-Hotokezaka, K., & Nakar, E. 2020,, ApJ, 891, 152, doi: 10.3847/1538-4357/ab6a98
+Hotokezaka, K., & Nakar, E. 2020, ApJ, 891, 152, doi: 10.3847/1538-4357/ab6a98
 Hotokezaka, K., Nakar, E., Gottlieb, O., et al. 2018. https://arxiv.org/abs/1806.10596
 Jones, R. L., Yoachim, P., Chandrasekharan, S., et al. 2014, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9149, Observatory Operations: Strategies, Processes, and Systems V, ed. A. B. Peck, C. R. Benn, & R. L. Seaman, 91490B, doi: 10.1117/12.2056835
 Kasen, D., Fernandez, R., & Metzger, B. 2015, Mon. Not. Roy. Astron. Soc., 450, 1777, doi: 10.1093/mnras/stv721
-Kasen, D., Metzger, B., Barnes, J., Quataert, E., & Ramirez-Ruiz, E. 2017,, Nature, 551, 80, doi: 10.1038/nature24453
+Kasen, D., Metzger, B., Barnes, J., Quataert, E., & Ramirez-Ruiz, E. 2017, Nature, 551, 80, doi: 10.1038/nature24453
 Kasliwal, M. M., Nakar, E., Singer, L. P., et al. 2017, Science, 358, 1559, doi: 10.1126/science.aap9455
 Kasliwal, M. M., Kasen, D., Lau, R. M., et al. 2019, Monthly Notices of the Royal Astronomical Society: Letters, doi: 10.1093/mnrasl/slz007
-Kasliwal, M. M., Anand, S., Ahumada, T., et al. 2020,, ApJ, 905, 145, doi: 10.3847/1538-4357/abc335
-Kawaguchi, K., Kyutoku, K., Shibata, M., & Tanaka, M. 2016,, ApJ, 825, 52, doi: 10.3847/0004-637X/825/1/52
+Kasliwal, M. M., Anand, S., Ahumada, T., et al. 2020, ApJ, 905, 145, doi: 10.3847/1538-4357/abc335
+Kawaguchi, K., Kyutoku, K., Shibata, M., & Tanaka, M. 2016, ApJ, 825, 52, doi: 10.3847/0004-637X/825/1/52
 Kilpatrick, C. D., Foley, R. J., Kasen, D., et al. 2017, Science, 358, 1583, doi: 10.1126/science.aaq0073
 Kilpatrick, C. D., Coulter, D. A., Arcavi, I., et al. 2021, arXiv e-prints, arXiv:2106.06897. https://arxiv.org/abs/2106.06897
 Kotake, K., Sato, K., & Takahashi, K. 2006, Reports on Progress in Physics, 69, 971, doi: 10.1088/0034-4885/69/4/R03
 Lai, X., Zhou, E., & Xu, R. 2019, The European Physical Journal A, 55, 60, doi: 10.1140/epja/i2019-12720-8
-Lamb, G. P., Tanaka, M., & Kobayashi, S. 2018,, MNRAS, 476, 4435, doi: 10.1093/mnras/sty484
-Lamb, G. P., Tanvir, N. R., Levan, A. J., et al. 2019,, ApJ, 883, 48, doi: 10.3847/1538-4357/ab38bb
+Lamb, G. P., Tanaka, M., & Kobayashi, S. 2018, MNRAS, 476, 4435, doi: 10.1093/mnras/sty484
+Lamb, G. P., Tanvir, N. R., Levan, A. J., et al. 2019, ApJ, 883, 48, doi: 10.3847/1538-4357/ab38bb
 Levan, A. J., Lyman, J. D., Tanvir, N. R., et al. 2017, ApJL, 848, L28, doi: 10.3847/2041-8213/aa905f
 Li, L.-X., & Paczynski, B. 1998, ApJL, 507, L59, doi: 10.1086/311680
 Lipunov, V. M., Gorbovskoy, E., Kornilov, V. G., et al. 2017, ApJL, 850, L1, doi: 10.3847/2041-8213/aa92c0
@@ -106,58 +106,58 @@ Margalit, B., & Metzger, B. 2017, The Astrophysical Journal Letters, 850, doi: 1
 Margutti, R., & Chornock, R. 2020, arXiv e-prints, arXiv:2012.04810. https://arxiv.org/abs/2012.04810
 Margutti, R., Berger, E., Fong, W., et al. 2017, ApJL, 848, L20, doi: 10.3847/2041-8213/aa9057
 Margutti, R., Cowperthwaite, P., Doctor, Z., et al. 2018, arXiv e-prints, arXiv:1812.04051. https://arxiv.org/abs/1812.04051
-McKernan, B., Ford, K. E. S., Bellovary, J., et al. 2018,, ApJ, 866, 66, doi: 10.3847/1538-4357/aadae5
-Metzger, B. D., Bauswein, A., Goriely, S., & Kasen, D. 2015,, MNRAS, 446, 1115, doi: 10.1093/mnras/stu2225
-Mooley, K. P., Deller, A. T., Gottlieb, O., et al. 2018,, Nature, 561, 355, doi: 10.1038/s41586-018-0486-3
-Morgan, R., Soares-Santos, M., Annis, J., et al. 2020,, ApJ, 901, 83, doi: 10.3847/1538-4357/abafaa
+McKernan, B., Ford, K. E. S., Bellovary, J., et al. 2018, ApJ, 866, 66, doi: 10.3847/1538-4357/aadae5
+Metzger, B. D., Bauswein, A., Goriely, S., & Kasen, D. 2015, MNRAS, 446, 1115, doi: 10.1093/mnras/stu2225
+Mooley, K. P., Deller, A. T., Gottlieb, O., et al. 2018, Nature, 561, 355, doi: 10.1038/s41586-018-0486-3
+Morgan, R., Soares-Santos, M., Annis, J., et al. 2020, ApJ, 901, 83, doi: 10.3847/1538-4357/abafaa
 Most, E. R., Weih, L. R., Rezzolla, L., & Schaffner-Bielich, J. 2018, Phys. Rev. Lett., 120, 261103, doi: 10.1103/PhysRevLett.120.261103
 Murguia-Berthier, A., Montes, G., Ramirez-Ruiz, E., De Colle, F., & Lee, W. H. 2014, ApJL, 788, L8, doi: 10.1088/2041-8205/788/1/L8
 Nakar, E. 2020, PhR, 886, 1, doi: 10.1016/j.physrep.2020.08.008
-Nativi, L., Bulla, M., Rosswog, S., et al. 2021a,, MNRAS, 500, 1772, doi: 10.1093/mnras/staa3337
-Nativi, L., Lamb, G. P., Rosswog, S., Lundman, C., & Kowal, G. 2021b,, MNRAS, doi: 10.1093/mnras/stab2982
-Nicholl, M., Margalit, B., Schmidt, P., et al. 2021,, MNRAS, 505, 3016, doi: 10.1093/mnras/stab1523
-Oates, S. R., Marshall, F. E., Breeveld, A. A., et al. 2021,, MNRAS, 507, 1296, doi: 10.1093/mnras/stab2189
-Page, K. L., Evans, P. A., Tohuvavohu, A., et al. 2020,, MNRAS, 499, 3459, doi: 10.1093/mnras/staa3032
+Nativi, L., Bulla, M., Rosswog, S., et al. 2021a, MNRAS, 500, 1772, doi: 10.1093/mnras/staa3337
+Nativi, L., Lamb, G. P., Rosswog, S., Lundman, C., & Kowal, G. 2021b, MNRAS, doi: 10.1093/mnras/stab2982
+Nicholl, M., Margalit, B., Schmidt, P., et al. 2021, MNRAS, 505, 3016, doi: 10.1093/mnras/stab1523
+Oates, S. R., Marshall, F. E., Breeveld, A. A., et al. 2021, MNRAS, 507, 1296, doi: 10.1093/mnras/stab2189
+Page, K. L., Evans, P. A., Tohuvavohu, A., et al. 2020, MNRAS, 499, 3459, doi: 10.1093/mnras/staa3032
 Palmese, A., Fishbach, M., Burke, C. J., Annis, J., & Liu, X. 2021, ApJL, 914, L34, doi: 10.3847/2041-8213/ac0883
 Palmese, A., Hartley, W., Tarsitano, F., et al. 2017, ApJL, 849, L34, doi: 10.3847/2041-8213/aa9660
 Pan, Y. C., Kilpatrick, C. D., Simon, J. D., et al. 2017, ApJL, 848, L30, doi: 10.3847/2041-8213/aa9116
-Perna, R., Lazzati, D., & Giacomazzo, B. 2016,, ApJ, 821, L18, doi: 10.3847/2041-8205/821/1/L18
+Perna, R., Lazzati, D., & Giacomazzo, B. 2016, ApJ, 821, L18, doi: 10.3847/2041-8205/821/1/L18
 Petrov, P., Singer, L. P., Coughlin, M. W., et al. 2021, Data-driven expectations for electromagnetic counterpart searches based on LIGO/Virgo public alerts. https://arxiv.org/abs/2108.07277
-Pian, E., D'Avanzo, P., Benetti, S., et al. 2017,, Nature, 551, 67, doi: 10.1038/nature24298
-Pian et al. 2017,, Nature, 551, 67 EP . http://dx.doi.org/10.1038/nature24298
-Piro, A. L., & Kollmeier, J. A. 2018,, ApJ, 855, 103, doi: 10.3847/1538-4357/aaaab3
+Pian, E., D'Avanzo, P., Benetti, S., et al. 2017, Nature, 551, 67, doi: 10.1038/nature24298
+Pian et al. 2017, Nature, 551, 67 EP . http://dx.doi.org/10.1038/nature24298
+Piro, A. L., & Kollmeier, J. A. 2018, ApJ, 855, 103, doi: 10.3847/1538-4357/aaaab3
 Pozanenko, A. S., Minaev, P. Y., Grebenev, S. A., & Chelovekov, I. V. 2020, Astronomy Letters, 45, 710, doi: 10.1134/S1063773719110057
 Radice, D., Bernuzzi, S., & Perego, A. 2020, Annual Review of Nuclear and Particle Science, 70, 95, doi: 10.1146/annurev-nucl-013120-114541
 Radice, D., Perego, A., Zappa, F., & Bernuzzi, S. 2018, The Astrophysical Journal Letters, 852, L29. http://stacks.iop.org/2041-8205/852/i=2/a=L29
 Roberts, L. F., Kasen, D., Lee, W. H., & Ramirez-Ruiz, E. 2011, Astrophys.J., 736, L21, doi: 10.1088/2041-8205/736/1/L21
-Rossi, A., Stratta, G., Maiorano, E., et al. 2020,, MNRAS, 493, 3379, doi: 10.1093/mnras/staa479
+Rossi, A., Stratta, G., Maiorano, E., et al. 2020, MNRAS, 493, 3379, doi: 10.1093/mnras/staa479
 Rosswog, S., Feindt, U., Korobkin, O., et al. 2017, Class. Quant. Grav., 34, 104001, doi: 10.1088/1361-6382/aa68a9
 Rosswog, S., Sollerman, J., Feindt, U., et al. 2018, A&A, 615, A132, doi: 10.1051/0004-6361/201732117
-Sagues Carracedo, A., Bulla, M., Feindt, U., & Goobar, A. 2021,, MNRAS, 504, 1294, doi: 10.1093/mnras/stab872
+Sagues Carracedo, A., Bulla, M., Feindt, U., & Goobar, A. 2021, MNRAS, 504, 1294, doi: 10.1093/mnras/stab872
 Salafia, O. S., Ghirlanda, G., Ascenzi, S., & Ghisellini, G. 2019, A&A, 628, A18, doi: 10.1051/0004-6361/201935831
 Salafia, O. S., & Giacomazzo, B. 2021, A&A, 645, A93, doi: 10.1051/0004-6361/202038590
 Scolnic, D., Kessler, R., Brout, D., et al. 2018a, ApJL, 852, L3, doi: 10.3847/2041-8213/aa9d82
---. 2018b, ApJL, 852, L3, doi: 10.3847/2041-8213/aa9d82
-Setzer, C. N., Biswas, R., Peiris, H. V., et al. 2019,, MNRAS, 485, 4260, doi: 10.1093/mnras/stz506
-Smartt, S. J., Chen, T.-W., Jerkstrand, A., et al. 2017,, Nature, 551, 75, doi: 10.1038/nature24303
+—. 2018b, ApJL, 852, L3, doi: 10.3847/2041-8213/aa9d82
+Setzer, C. N., Biswas, R., Peiris, H. V., et al. 2019, MNRAS, 485, 4260, doi: 10.1093/mnras/stz506
+Smartt, S. J., Chen, T.-W., Jerkstrand, A., et al. 2017, Nature, 551, 75, doi: 10.1038/nature24303
 Soares-Santos, M., Holz, D. E., Annis, J., et al. 2017, ApJL, 848, L16, doi: 10.3847/2041-8213/aa9059
 Sravan, N., Graham, M. J., Fremling, C., & Coughlin, M. W. 2021, arXiv e-prints, arXiv:2112.05897. https://arxiv.org/abs/2112.05897
 Steeghs, D., Galloway, D. K., Ackley, K., et al. 2021, arXiv e-prints, arXiv:2110.05539. https://arxiv.org/abs/2110.05539
 Stein, R., Velzen, S. v., Kowalski, M., et al. 2021, Nature Astronomy, 5, 510, doi: 10.1038/s41550-020-01295-8
-Stone, N. C., Metzger, B. D., & Haiman, Z. 2017,, MNRAS, 464, 946, doi: 10.1093/mnras/stw2260
+Stone, N. C., Metzger, B. D., & Haiman, Z. 2017, MNRAS, 464, 946, doi: 10.1093/mnras/stw2260
 Tanvir, N. R., Levan, A. J., Gonzalez-Fernandez, C., et al. 2017, ApJL, 848, L27, doi: 10.3847/2041-8213/aa90b6
-Thakur, A. L., Dichiara, S., Troja, E., et al. 2020,, MNRAS, 499, 3868, doi: 10.1093/mnras/staa2798
+Thakur, A. L., Dichiara, S., Troja, E., et al. 2020, MNRAS, 499, 3868, doi: 10.1093/mnras/staa2798
 The LIGO Scientific Collaboration, the Virgo Collaboration, Abbott, R., et al. 2021a, ApJL, 913, L7, doi: 10.3847/2041-8213/abe949
---. 2021b, arXiv e-prints, arXiv:2108.01045. https://arxiv.org/abs/2108.01045
+—. 2021b, arXiv e-prints, arXiv:2108.01045. https://arxiv.org/abs/2108.01045
 Tonry, J. L., Denneau, L., Heinze, A. N., et al. 2018, Publications of the Astronomical Society of the Pacific, 130, 064505. http://stacks.iop.org/1538-3873/130/i=988/a=064505
-Troja, E., Piro, L., van Eerten, H., et al. 2017,, Nature, 551, 71, doi: 10.1038/nature24290
-Troja, E., Castro-Tirado, A. J., Becerra Gonzalez, J., et al. 2019,, MNRAS, 489, 2104, doi: 10.1093/mnras/stz2255
+Troja, E., Piro, L., van Eerten, H., et al. 2017, Nature, 551, 71, doi: 10.1038/nature24290
+Troja, E., Castro-Tirado, A. J., Becerra Gonzalez, J., et al. 2019, MNRAS, 489, 2104, doi: 10.1093/mnras/stz2255
 Tucker, D., Wiesner, M., Allam, S., et al. 2021, arXiv e-prints, arXiv:2109.13351. https://arxiv.org/abs/2109.13351
 Valenti, S., Sand, D. J., Yang, S., et al. 2017, Astrophys. J., 848, L24, doi: 10.3847/2041-8213/aa8edf
 Valenti, S., David, Sand, J., et al. 2017, ApJL, 848, L24, doi: 10.3847/2041-8213/aa8edf
-Vieira, N., Ruan, J. J., Haggard, D., et al. 2020,, ApJ, 895, 96, doi: 10.3847/1538-4357/ab917d
+Vieira, N., Ruan, J. J., Haggard, D., et al. 2020, ApJ, 895, 96, doi: 10.3847/1538-4357/ab917d
 Villar, V. A., Guillochon, J., Berger, E., et al. 2017, ApJL, 851, L21, doi: 10.3847/2041-8213/aa9c84
-Wang, H., & Giannios, D. 2021,, ApJ, 908, 200, doi: 10.3847/1538-4357/abd39c
-Watson, A. M., Butler, N. R., Lee, W. H., et al. 2020,, MNRAS, 492, 5916, doi: 10.1093/mnras/staa161
-Watson, D., Hansen, C. J., Selsing, J., et al. 2019,, Nature, 574, 497, doi: 10.1038/s41586-019-1676-3
+Wang, H., & Giannios, D. 2021, ApJ, 908, 200, doi: 10.3847/1538-4357/abd39c
+Watson, A. M., Butler, N. R., Lee, W. H., et al. 2020, MNRAS, 492, 5916, doi: 10.1093/mnras/staa161
+Watson, D., Hansen, C. J., Selsing, J., et al. 2019, Nature, 574, 497, doi: 10.1038/s41586-019-1676-3
 Zhu, J.-P., Yang, Y.-P., Zhang, B., Gao, H., & Yu, Y.-W. 2021, arXiv e-prints, arXiv:2110.10468. https://arxiv.org/abs/2110.10468

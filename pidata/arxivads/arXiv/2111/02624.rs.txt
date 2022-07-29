@@ -1,43 +1,43 @@
 Ando, S., Sato, K., & Totani, T. 2003, Astroparticle Physics, 18, 307, doi: 10.1016/S0927-6505(02)00152-4
 Andre, P., Men'shchikov, A., Bontemps, S., et al. 2010, A&A, 518, L102, doi: 10.1051/0004-6361/201014666
 Annala, E., Gorda, T., Kurkela, A., & Vuorinen, A. 2018, PhRvL, 120, 172703, doi: 10.1103/PhysRevLett.120.172703
-Aoyama, S., Hirashita, H., & Nagamine, K. 2020,, MNRAS, 491, 3844, doi: 10.1093/mnras/stz3253
-Aoyama, S., Hou, K.-C., Hirashita, H., Nagamine, K., & Shimizu, I. 2018,, MNRAS, 478, 4905, doi: 10.1093/mnras/sty1431
-Aoyama, S., Hou, K.-C., Shimizu, I., et al. 2017,, MNRAS, 466, 105, doi: 10.1093/mnras/stw3061
-Aoyama, S., Hirashita, H., Lim, C.-F., et al. 2019,, MNRAS, 484, 1852, doi: 10.1093/mnras/stz021
+Aoyama, S., Hirashita, H., & Nagamine, K. 2020, MNRAS, 491, 3844, doi: 10.1093/mnras/stz3253
+Aoyama, S., Hou, K.-C., Hirashita, H., Nagamine, K., & Shimizu, I. 2018, MNRAS, 478, 4905, doi: 10.1093/mnras/sty1431
+Aoyama, S., Hou, K.-C., Shimizu, I., et al. 2017, MNRAS, 466, 105, doi: 10.1093/mnras/stw3061
+Aoyama, S., Hirashita, H., Lim, C.-F., et al. 2019, MNRAS, 484, 1852, doi: 10.1093/mnras/stz021
 Asano, R. S., Takeuchi, T. T., Hirashita, H., & Inoue, A. K. 2013a, Earth, Planets, and Space, 65, 213, doi: 10.5047/eps.2012.04.014
-Asano, R. S., Takeuchi, T. T., Hirashita, H., & Nozawa, T. 2013b,, MNRAS, 432, 637, doi: 10.1093/mnras/stt506
---. 2014,, MNRAS, 440, 134, doi: 10.1093/mnras/stu208
-Baldry, I. K., & Glazebrook, K. 2003,, ApJ, 593, 258, doi: 10.1086/376502
+Asano, R. S., Takeuchi, T. T., Hirashita, H., & Nozawa, T. 2013b, MNRAS, 432, 637, doi: 10.1093/mnras/stt506
+—. 2014, MNRAS, 440, 134, doi: 10.1093/mnras/stu208
+Baldry, I. K., & Glazebrook, K. 2003, ApJ, 593, 258, doi: 10.1086/376502
 Bastian, N., Covey, K. R., & Meyer, M. R. 2010, ARA&A, 48, 339, doi: 10.1146/annurev-astro-082708-101642
-Baugh, C. M., Lacey, C. G., Frenk, C. S., et al. 2005,, MNRAS, 356, 1191, doi: 10.1111/j.1365-2966.2004.08553.x
+Baugh, C. M., Lacey, C. G., Frenk, C. S., et al. 2005, MNRAS, 356, 1191, doi: 10.1111/j.1365-2966.2004.08553.x
 Bauswein, A., Just, O., Janka, H.-T., & Stergioulas, N. 2017, ApJL, 850, L34, doi: 10.3847/2041-8213/aa9994
 Bays, K., Iida, T., Abe, K., et al. 2012, PhRvD, 85, 052007, doi: 10.1103/PhysRevD.85.052007
 Beacom, J. F. 2010, Annual Review of Nuclear and Particle Science, 60, 439, doi: 10.1146/annurev.nucl.010909.083331
 Chabrier, G. 2003, PASP, 115, 763, doi: 10.1086/376392
 Cromartie, H. T., Fonseca, E., Ransom, S. M., et al. 2020, Nature Astronomy, 4, 72, doi: 10.1038/s41550-019-0880-2
-Dahlen, T., Strolger, L.-G., Riess, A. G., et al. 2012,, ApJ, 757, 70, doi: 10.1088/0004-637X/757/1/70
-Heger, A., Fryer, C. L., Woosley, S. E., Langer, N., & Hartmann, D. H. 2003,, ApJ, 591, 288, doi: 10.1086/375341
-Hirashita, H. 2015,, MNRAS, 447, 2937, doi: 10.1093/mnras/stu2617
-Hirashita, H., & Aoyama, S. 2019,, MNRAS, 482, 2555, doi: 10.1093/mnras/sty2838
+Dahlen, T., Strolger, L.-G., Riess, A. G., et al. 2012, ApJ, 757, 70, doi: 10.1088/0004-637X/757/1/70
+Heger, A., Fryer, C. L., Woosley, S. E., Langer, N., & Hartmann, D. H. 2003, ApJ, 591, 288, doi: 10.1086/375341
+Hirashita, H. 2015, MNRAS, 447, 2937, doi: 10.1093/mnras/stu2617
+Hirashita, H., & Aoyama, S. 2019, MNRAS, 482, 2555, doi: 10.1093/mnras/sty2838
 Hirata, K., Kajita, T., Koshiba, M., et al. 1987, PhRvL, 58, 1490, doi: 10.1103/PhysRevLett.58.1490
-Hounsell, R., Scolnic, D., Foley, R. J., et al. 2018,, ApJ, 867, 23, doi: 10.3847/1538-4357/aac08b
+Hounsell, R., Scolnic, D., Foley, R. J., et al. 2018, ApJ, 867, 23, doi: 10.3847/1538-4357/aac08b
 Hyper-Kamiokande Proto-Collaboration, :, Abe, K., et al. 2018, arXiv e-prints, arXiv:1805.04163. https://arxiv.org/abs/1805.04163
 Inutsuka, S.-i. 2001, ApJL, 559, L149, doi: 10.1086/323786
 Inutsuka, S.-i., Inoue, T., Iwasaki, K., & Hosokawa, T. 2015, A&A, 580, A49, doi: 10.1051/0004-6361/201425584
-Inutsuka, S.-i., & Miyama, S. M. 1997,, ApJ, 480, 681, doi: 10.1086/303982
+Inutsuka, S.-i., & Miyama, S. M. 1997, ApJ, 480, 681, doi: 10.1086/303982
 Kajita, T. 1999, Nuclear Physics B Proceedings Supplements, 77, 123, doi: 10.1016/S0920-5632(99)00407-7
 Kippenhahn, R., Weigert, A., & Weiss, A. 2012, Stellar Structure and Evolution, doi: 10.1007/978-3-642-30304-3
-Konyves, V., Andre, P., Men'shchikov, A., et al. 2010, A&A, 518, L106, doi: 10.1051/0004-6361/201014689
---. 2015, A&A, 584, A91, doi: 10.1051/0004-6361/201525861
-Kroupa, P. 2001,, MNRAS, 322, 231, doi: 10.1046/j.1365-8711.2001.04022.x
+Konyves, V., André, P., Men'shchikov, A., et al. 2010, A&A, 518, L106, doi: 10.1051/0004-6361/201014689
+—. 2015, A&A, 584, A91, doi: 10.1051/0004-6361/201525861
+Kroupa, P. 2001, MNRAS, 322, 231, doi: 10.1046/j.1365-8711.2001.04022.x
 Langacker, P. 1981, Physics Reports, 72, 185, doi: https://doi.org/10.1016/0370-1573(81)90059-4
 Madau, P., & Dickinson, M. 2014, ARA&A, 52, 415, doi: 10.1146/annurev-astro-081811-125615
 Malek, M., Morii, M., Fukuda, S., et al. 2003, Phys. Rev. Lett., 90, 061101, doi: 10.1103/PhysRevLett.90.061101
 Mathews, G. J., Boccioli, L., Hidaka, J., & Kajino, T. 2020, Modern Physics Letters A, 35, 2030011, doi: 10.1142/S0217732320300116
-Mattila, S., Dahlen, T., Efstathiou, A., et al. 2012,, ApJ, 756, 111, doi: 10.1088/0004-637X/756/2/111
-Nakazato, K., Sumiyoshi, K., Suzuki, H., et al. 2013,, ApJS, 205, 2, doi: 10.1088/0067-0049/205/1/2
+Mattila, S., Dahlen, T., Efstathiou, A., et al. 2012, ApJ, 756, 111, doi: 10.1088/0004-637X/756/2/111
+Nakazato, K., Sumiyoshi, K., Suzuki, H., et al. 2013, ApJS, 205, 2, doi: 10.1088/0067-0049/205/1/2
 Raffelt, G. G. 1996, Stars as laboratories for fundamental physics : the astro-physics of neutrinos, axions, and other weakly interacting particles
-Salpeter, E. E. 1955,, ApJ, 121, 161, doi: 10.1086/145971
-Searle, L., & Sargent, W. L. W. 1972,, ApJ, 173, 25, doi: 10.1086/151398
+Salpeter, E. E. 1955, ApJ, 121, 161, doi: 10.1086/145971
+Searle, L., & Sargent, W. L. W. 1972, ApJ, 173, 25, doi: 10.1086/151398
 Silk, J., & Mamon, G. A. 2012, Research in Astronomy and Astrophysics, 12, 917, doi: 10.1088/1674-4527/12/8/004

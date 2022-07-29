@@ -31,7 +31,7 @@ Nelson D. et al., 2018,, MNRAS, 475, 624. doi:10.1093/mnras/stx3040
 Owers M. S. et al., 2012, ApJL, 750, L23. doi:10.1088/2041-8205/750/1/L23
 Pak M. et al., 2019,, ApJ, 880, 149. doi:10.3847/1538-4357/ab2ad6
 Penoyre Z. et al., 2017,, MNRAS, 468, 3883. doi:10.1093/mnras/stx762
-Peschken N., Lokas E. L., Athanassoula E., 2020,, MNRAS, 493, 1375. doi:10.1093/mnras/staa299
+Peschken N., Łokas E. L., Athanassoula E., 2020,, MNRAS, 493, 1375. doi:10.1093/mnras/staa299
 Pillepich A. et al., 2018,, MNRAS, 475, 648. doi:10.1093/mnras/stx3112
 Poggianti B. M. et al., 2009, ApJL, 697, L137. doi:10.1088/0004-637X/697/2/L137
 Poole G. B. et al., 2017,, MNRAS, 472, 3659. doi:10.1093/mnras/stx2233
@@ -42,7 +42,7 @@ Quilis V., Moore B., Bower R., 2000, Sci, 288, 1617. doi:10.1126/science.288.547
 Robotham A. S. G. et al., 2011,, MNRAS, 416, 2640. doi:10.1111/j.1365-2966.2011.19217.x
 Rodriguez-Gomez V. et al., 2015,, MNRAS, 449, 49. doi:10.1093/mnras/stv264
 Rodriguez-Gomez V. et al., 2019,, MNRAS, 483, 4140. doi:10.1093/mnras/sty3345
-Sanchez S. F. et al., 2012, A&A, 538, A8. doi:10.1051/0004-6361/201117353
+Sánchez S. F. et al., 2012, A&A, 538, A8. doi:10.1051/0004-6361/201117353
 Scott N. et al., 2018,, MNRAS, 481, 2299. doi:10.1093/mnras/sty2355
 Snyder G. F. et al., 2015,, MNRAS, 454, 1886. doi:10.1093/mnras/stv2078
 Springel V., White S. D. M. et al., 2005, Natur, 435, 629. doi:10.1038/nature03597

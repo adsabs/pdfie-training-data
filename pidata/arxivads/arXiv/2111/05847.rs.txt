@@ -1,7 +1,7 @@
 C. Caprini and D. G. Figueroa, Class. Quant. Grav. 35, 163001 (2018), arXiv:1801.04268 [astro-ph.CO]
 R. Abbott et al. (LIGO Scientific, Virgo, KAGRA), Phys. Rev. Lett. 126, 241102 (2021), arXiv:2101.12248 [gr-qc]
 A. Romero, K. Martinovic, T. A. Callister, H.-K. Guo, M. Mart inez, M. Sakellariadou, F.-W. Yang, and Y. Zhao, Phys. Rev. Lett. 126, 151301 (2021), arXiv:2102.01714 [hep-ph]
-A. Romero-Rodriguez, M. Martinez, O. Pujolas, M. Sakellariadou, and V. Vaskonen, (2021), arXiv:2107.11660 [gr-qc]
+A. Romero-Rodriguez, M. Martinez, O. Pujolàs, M. Sakellariadou, and V. Vaskonen, (2021), arXiv:2107.11660 [gr-qc]
 B. P. Abbott et al. (LIGO Scientific, Virgo), Phys. Rev. X 9, 031040 (2019), arXiv:1811.12907 [astro-ph.HE]
 R. Abbott et al. (LIGO Scientific, Virgo), Phys. Rev. X 11, 021053 (2021), arXiv:2010.14527 [gr-qc]
 R. Abbott et al. (LIGO Scientific, VIRGO, KAGRA), (2021), arXiv:2111.03606 [gr-qc]
@@ -25,7 +25,7 @@ L. Badurina, O. Buchmueller, J. Ellis, M. Lewicki, C. McCabe, and V. Vaskonen, (
 J. Crowder and N. J. Cornish, Phys. Rev. D 72, 083005 (2005), arXiv:gr-qc/0506015
 P. Madau and T. Fragos, Astrophys. J. 840, 39 (2017), arXiv:1606.07887 [astro-ph.GA]
 K. Belczynski, D. E. Holz, T. Bulik, and R. O'Shaughnessy, Nature 534, 512 (2016), arXiv:1602.04531 [astro-ph.HE]
-G. Hutsi, M. Raidal, V. Vaskonen, and H. Veermae, JCAP 03, 068 (2021), arXiv:2012.02786 [astro-ph.CO]
+G. Hütsi, M. Raidal, V. Vaskonen, and H. Veermäe, JCAP 03, 068 (2021), arXiv:2012.02786 [astro-ph.CO]
 P. Ajith et al., Phys. Rev. D 77, 104017 (2008), [Erratum: Phys.Rev.D 79, 129901 (2009)], arXiv:0710.2335 [gr-qc]
 D. Gerosa, S. Ma, K. W. K. Wong, E. Berti, R. O'Shaughnessy, Y. Chen, and K. Belczynski, Phys. Rev. D 99, 103004 (2019), arXiv:1902.00021 [astro-ph.HE]
 E. S. Phinney, (2001), arXiv:astro-ph/0108028

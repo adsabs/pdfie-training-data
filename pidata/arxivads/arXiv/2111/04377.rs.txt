@@ -3,9 +3,9 @@ D. Inotani, R. Hanai, and Y. Ohashi, Phys. Rev. A 94, 043632 (2016).
 Z. Wu and G. M. Bruun, Phys. Rev. Lett. 117, 245302 (2016).
 N. Cooper and G. Shlyapnikov, Phys. Rev. Lett. 103, 155302 (2009).
 C. Zhang, S. Tewari, R. M. Lutchyn, and S. D. Sarma, Phys. Rev. Lett. 101, 160401 (2008).
-B. Julia-D iaz, T. Gra, O. Dutta, D. Chang, and M. Lewenstein, Nature communications 4, 2046 (2013).
+B. Juliá-Díaz, T. Graß, O. Dutta, D. Chang, and M. Lewenstein, Nature communications 4, 2046 (2013).
 Y.-J. Han, Y.-H. Chan, W. Yi, A. Daley, S. Diehl, P. Zoller, and L.-M. Duan, Phys. Rev. Lett. 103, 070404 (2009).
-C.-E. Bardyn, M. Baranov, E. Rico, A. Imamoglu, P. Zoller, and S. Diehl, Phys. Rev. Lett. 109, 130402 (2012).
+C.-E. Bardyn, M. Baranov, E. Rico, A. İmamoğlu, P. Zoller, and S. Diehl, Phys. Rev. Lett. 109, 130402 (2012).
 K. Thompson, J. Brand, and U. Zulicke, Phys. Rev. A 101, 013613 (2020).
 M. Sato, Y. Takahashi, and S. Fujimoto, Phys. Rev. Lett. 103, 020401 (2009).
 A. Leggett, Rev. Mod. Phys. 47, 331 (1975).

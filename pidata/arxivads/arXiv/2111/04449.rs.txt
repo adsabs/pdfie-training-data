@@ -19,15 +19,15 @@ de Gasperin, F., Brunetti, G., Bruggen, M., et al. 2020, A&A, 642, A85, doi: 10.
 Di Gennaro, G., van Weeren, R. J., Hoeft, M., et al. 2018,, ApJ, 865, 24, doi: 10.3847/1538-4357/aad738
 Di Gennaro, G., van Weeren, R. J., Andrade-Santos, F., et al. 2019,, ApJ, 873, 64, doi: 10.3847/1538-4357/ab03cd
 Di Gennaro, G., van Weeren, R. J., Rudnick, L., et al. 2021, arXiv e-prints, arXiv:2102.06631. https://arxiv.org/abs/2102.06631
-Dolag, K., & Enlin, T. A. 2000, A&A, 362, 151
+Dolag, K., & Enßlin, T. A. 2000, A&A, 362, 151
 Dominguez-Fernandez, P., Bruggen, M., Vazza, F., et al. 2020,, MNRAS, 500, 795, doi: 10.1093/mnras/staa3018
-Dom inguez-Fernandez, P., Vazza, F., Bruggen, M., & Brunetti, G. 2019,, MNRAS, 486, 623, doi: 10.1093/mnras/stz877
+Domínguez-Fernández, P., Vazza, F., Bruggen, M., & Brunetti, G. 2019,, MNRAS, 486, 623, doi: 10.1093/mnras/stz877
 Ebeling, H., Edge, A. C., Bohringer, H., et al. 1998,, MNRAS, 301, 881, doi: 10.1046/j.1365-8711.1998.01949.x
 Ensslin, T. A., Biermann, P. L., Klein, U., & Kohle, S. 1998, A&A, 332, 395
-Enlin, T. A., & Gopal-Krishna. 2001, in Astronomical Society of the Pacific Conference Series, Vol. 250, Particles and Fields in Radio Galaxies Conference, ed. R. A. Laing & K. M. Blundell, 454
+Enßlin, T. A., & Gopal-Krishna. 2001, in Astronomical Society of the Pacific Conference Series, Vol. 250, Particles and Fields in Radio Galaxies Conference, ed. R. A. Laing & K. M. Blundell, 454
 Ge, C., Liu, R.-Y., Sun, M., et al. 2020,, MNRAS, 497, 4704, doi: 10.1093/mnras/staa2320
 Guo, F., Li, X., Li, H., et al. 2016, ApJL, 818, L9, doi: 10.3847/2041-8205/818/1/L9
-Hoeft, M., & Bruggen, M. 2007,, MNRAS, 375, 77, doi: 10.1111/j.1365-2966.2006.11111.x
+Hoeft, M., & Brüggen, M. 2007,, MNRAS, 375, 77, doi: 10.1111/j.1365-2966.2006.11111.x
 Hong, S. E., Kang, H., & Ryu, D. 2015,, ApJ, 812, 49, doi: 10.1088/0004-637X/812/1/49
 HyeongHan, K., Jee, M. J., Rudnick, L., et al. 2020,, ApJ, 900, 127, doi: 10.3847/1538-4357/aba742
 Inchingolo, G., Wittor, D., Rajpurohit, K., & Vazza, F. 2021,, MNRAS, doi: 10.1093/mnras/stab3096
@@ -75,22 +75,22 @@ Stroe, A., Shimwell, T., Rumsey, C., et al. 2016,, MNRAS, 455, 2402, doi: 10.109
 Stuardi, C., Bonafede, A., Wittor, D., et al. 2019,, MNRAS, 489, 3905, doi: 10.1093/mnras/stz2408
 Sun, M., Murray, S. S., Markevitch, M., & Vikhlinin, A. 2002,, ApJ, 565, 867, doi: 10.1086/324721
 Tasse, C., Shimwell, T., Hardcastle, M. J., et al. 2020, arXiv e-prints, arXiv:2011.08328. https://arxiv.org/abs/2011.08328
-Tholken, S., Reiprich, T. H., Sommer, M. W., & Ota, N. 2018, A&A, 619, A68, doi: 10.1051/0004-6361/201834053
+Thölken, S., Reiprich, T. H., Sommer, M. W., & Ota, N. 2018, A&A, 619, A68, doi: 10.1051/0004-6361/201834053
 Trasatti, M., Akamatsu, H., Lovisari, L., et al. 2015, A&A, 575, A45, doi: 10.1051/0004-6361/201423972
 van Haarlem, M. P., Wise, M. W., Gunst, A. W., et al. 2013, A&A, 556, A2, doi: 10.1051/0004-6361/201220873
 van Weeren, R. J., de Gasperin, F., Akamatsu, H., et al. 2019, SSRv, 215, 16, doi: 10.1007/s11214-019-0584-z
-van Weeren, R. J., Intema, H. T., Oonk, J. B. R., Rottgering, H. J. A., & Clarke, T. E. 2009a, A&A, 508, 1269, doi: 10.1051/0004-6361/200912934
-van Weeren, R. J., Rottgering, H. J. A., Bruggen, M., & Cohen, A. 2009b, A&A, 505, 991, doi: 10.1051/0004-6361/200912528
-van Weeren, R. J., Rottgering, H. J. A., Bruggen, M., & Hoeft, M. 2010, Science, 330, 347, doi: 10.1126/science.1194293, doi:10.1126/science.1194293
-van Weeren, R. J., Rottgering, H. J. A., Intema, H. T., et al. 2012a, A&A, 546, A124, doi: 10.1051/0004-6361/201219000
-van Weeren, R. J., Rottgering, H. J. A., Rafferty, D. A., et al. 2012b, A&A, 543, A43, doi: 10.1051/0004-6361/201219154
+van Weeren, R. J., Intema, H. T., Oonk, J. B. R., Röttgering, H. J. A., & Clarke, T. E. 2009a, A&A, 508, 1269, doi: 10.1051/0004-6361/200912934
+van Weeren, R. J., Röttgering, H. J. A., Bruggen, M., & Cohen, A. 2009b, A&A, 505, 991, doi: 10.1051/0004-6361/200912528
+van Weeren, R. J., Röttgering, H. J. A., Bruggen, M., & Hoeft, M. 2010, Science, 330, 347, doi: 10.1126/science.1194293, doi:10.1126/science.1194293
+van Weeren, R. J., Röttgering, H. J. A., Intema, H. T., et al. 2012a, A&A, 546, A124, doi: 10.1051/0004-6361/201219000
+van Weeren, R. J., Röttgering, H. J. A., Rafferty, D. A., et al. 2012b, A&A, 543, A43, doi: 10.1051/0004-6361/201219154
 van Weeren, R. J., Brunetti, G., Bruggen, M., et al. 2016,, ApJ, 818, 204, doi: 10.3847/0004-637X/818/2/204
 van Weeren, R. J., Andrade-Santos, F., Dawson, W. A., et al. 2017a, Nature Astronomy, 1, 0005, doi: 10.1038/s41550-016-0005
 van Weeren, R. J., Ogrean, G. A., Jones, C., et al. 2017b,, ApJ, 835, 197, doi: 10.3847/1538-4357/835/2/197
 van Weeren, R. J., Shimwell, T. W., Botteon, A., et al. 2020, arXiv e-prints, arXiv:2011.02387. https://arxiv.org/abs/2011.02387
-Vazza, F., & Bruggen, M. 2014,, MNRAS, 437, 2291, doi: 10.1093/mnras/stt2042
-Vazza, F., Brunetti, G., Bruggen, M., & Bonafede, A. 2018,, MNRAS, 474, 1672, doi: 10.1093/mnras/stx2830
-Vazza, F., Eckert, D., Bruggen, M., & Huber, B. 2015,, MNRAS, 451, 2198, doi: 10.1093/mnras/stv1072
+Vazza, F., & Brüggen, M. 2014,, MNRAS, 437, 2291, doi: 10.1093/mnras/stt2042
+Vazza, F., Brunetti, G., Brüggen, M., & Bonafede, A. 2018,, MNRAS, 474, 1672, doi: 10.1093/mnras/stx2830
+Vazza, F., Eckert, D., Brüggen, M., & Huber, B. 2015,, MNRAS, 451, 2198, doi: 10.1093/mnras/stv1072
 Wittor, D., Ettori, S., Vazza, F., et al. 2021, arXiv e-prints, arXiv:2106.08351. https://arxiv.org/abs/2106.08351
-Wittor, D., Hoeft, M., Vazza, F., Bruggen, M., & Dom inguez-Fernandez, P. 2019,, MNRAS, 490, 3987, doi: 10.1093/mnras/stz2715
-Wittor, D., Vazza, F., & Bruggen, M. 2017,, MNRAS, 464, 4448, doi: 10.1093/mnras/stw2631
+Wittor, D., Hoeft, M., Vazza, F., Brüggen, M., & Domínguez-Fernández, P. 2019,, MNRAS, 490, 3987, doi: 10.1093/mnras/stz2715
+Wittor, D., Vazza, F., & Brüggen, M. 2017,, MNRAS, 464, 4448, doi: 10.1093/mnras/stw2631

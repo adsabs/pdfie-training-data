@@ -1,5 +1,5 @@
 Allamandola, L.J., Tielens, A.G.G.M., & Barker, J.R. 1985,, ApJ, 290, L25
-Andre, M., Oliveira, C., Howk, J. C., et al. 2003,, ApJ, 591, 1000
+André, M., Oliveira, C., Howk, J. C., et al. 2003,, ApJ, 591, 1000
 Bohren, C.F., & Huffman, D.R. 1983, Absorption and Scattering of Light by Small Particles (New York: Wiley)
 Cardelli, J. A., & Clayton, G. C. 1991, AJ, 101, 1021
 Cardelli, J. A., Clayton, G., C., & Mathis, J. S. 1989,, ApJ, 345, 245
@@ -12,14 +12,14 @@ Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., et al. 2008,, ApJ, 687, 104
 Crinklaw, G., Federman, S. R., & Joseph, C. L. 1994,, ApJ, 424, 748
 Cui, J., Bechtold, J., Ge, J., & Meyer, D. M. 2005,, ApJ, 633, 649
 De Cia, A., Jenkins, E. B., Fox, A. J., et al. 2021,, Nature, 597, 206
-Desert, F.-X., Boulanger, F., & Puget, J. L. 1990, A&A, 500, 313
+Désert, F.-X., Boulanger, F., & Puget, J. L. 1990, A&A, 500, 313
 Diplas, A., & Savage, B. D. 1994,, ApJS, 93, 211
 Draine, B.T., & Lee, H.M. 1984,, ApJ, 258, 89D
 Federman, S. R., Strom, C. J., Lambert, D. L., et al. 1994,, ApJ, 424, 772
 Fitzpatrick, E.L., & Massa, D. 1990,, ApJS, 72, 163 (FM90)
 Fitzpatrick, E.L., & Massa, D. 2007,, ApJ, 663, 320
 Fitzpatrick, E. L., Massa, D., Gordon, K. D., et al. 2019,, ApJ, 886, 108
-Gnacinski, P., & Krogulec, M. 2006, Acta Astron., 56, 373
+Gnaciński, P., & Krogulec, M. 2006, Acta Astron., 56, 373
 Gordon, K.D., Cartledge, S., & Clayton, G.C. 2009,, ApJ, 705, 1320
 Hanson, M. M., Snow, T. P., & Black, J. H. 1992,, ApJ, 392, 571
 Hensley, B. S., & Draine, B. T. 2017,, ApJ, 836, 179
@@ -40,8 +40,8 @@ Kimura, H., Mann, I., & Jessberger, E. K. 2003a,, ApJ, 582, 846
 Kimura, H., Mann, I., & Jessberger, E. K. 2003b,, ApJ, 583, 314
 Knauth, D. C., Meyer, D. M., & Lauroesch, J. T. 2006,, ApJ, 647, L115
 Larson, K. A., Whittet, D. C. B., & Hough, J. H. 1996,, ApJ, 472, 755
-Leger, A., & Puget, J. 1984, A&A, 137, L5
-Lenz, D., Hensley, B. S., & Dore, O. 2017,, ApJ, 846, 38
+Léger, A., & Puget, J. 1984, A&A, 137, L5
+Lenz, D., Hensley, B. S., & Doré, O. 2017,, ApJ, 846, 38
 Li, A. 2004, in ASP Conf. Ser. 309, Astrophysics of Dust, ed. A. N. Witt, G. C. Clayton, & B. T. Draine (San Francisco, CA: ASP), 417
 Li, A. 2005,, ApJ, 622, 965
 Li, A. 2020, Nature Astronomy, 4, 339
@@ -65,7 +65,7 @@ Rachford, B. L., Snow, T. P., Tumlinson, J., et al. 2002,, ApJ, 577, 221
 Rachford, B. L., Snow, T. P., Destree, J. D., et al. 2009,, ApJS, 180, 125
 Sheffer, Y., Rogers, M., Federman, S. R., et al. 2007,, ApJ, 667, 1002
 Sheffer, Y., Rogers, M., Federman, S. R., et al. 2008,, ApJ, 687, 1075
-Siebenmorgen, R., & Krugel, E. 1992, A&A, 259, 614
+Siebenmorgen, R., & Krügel, E. 1992, A&A, 259, 614
 Siebenmorgen, R., Voshchinnikov, N. V., Bagnulo, S., et al. 2018, A&A, 611, A5
 Snow, T.P., & Witt, A.N. 1995, Science, 270, 1455
 Snow, T.P., & Witt, A.N. 1996,, ApJ, 468, L65

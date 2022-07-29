@@ -1,24 +1,24 @@
-Aller M. F., Aller H. D., Hughes P. A., 1992,, ApJ, 399, 16
+Aller M. F., Aller H. D., Hughes P. A., 1992, ApJ, 399, 16
 Belladitta S., et al., 2020, A&A, 635, L7
-Coppejans R., Cseh D., Williams W. L., van Velzen S., Falcke H., 2015,, MNRAS, 450, 1477
+Coppejans R., Cseh D., Williams W. L., van Velzen S., Falcke H., 2015, MNRAS, 450, 1477
 Gopal-Krishna Patnaik A. R., Steppe H., 1983, A&A, 123, 107
 Massaro E., Giommi P., Leto C., Marchegiani P., Maselli A., Perri M., Piranomonte S., Sclavi S., 2009, A&A, 495, 691
 Massaro E., Maselli A., Leto C., Marchegiani P., Perri M., Giommi P., Piranomonte S., 2015, Ap&SS, 357, 75
 Mingaliev M. G., Sotnikova Y. V., Torniainen I., Tornikoski M., Udovitskiy R. Y., 2012, A&A, 544, A25
 Mingaliev M. G., Sotnikova Y. V., Mufakharov T. V., Erkenov A. K., Udovitskiy R. Y., 2013, Astrophysical Bulletin, 68, 262
 Mingaliev M. G., Sotnikova Y. V., Udovitskiy R. Y., Mufakharov T. V., Nieppola E., Erkenov A. K., 2014, A&A, 572, A59
-Mufakharov T., Mikhailov A., Sotnikova Y., Mingaliev M., Stolyarov V., Erkenov A., Nizhelskij N., Tsybulev P., 2021,, MNRAS, 503, 4662
-O'Dea C. P., 1990,, MNRAS, 245, 20
+Mufakharov T., Mikhailov A., Sotnikova Y., Mingaliev M., Stolyarov V., Erkenov A., Nizhelskij N., Tsybulev P., 2021, MNRAS, 503, 4662
+O'Dea C. P., 1990, MNRAS, 245, 20
 O'Dea C. P., Saikia D. J., 2021, A&ARv, 29, 3
 O'Dea C. P., Baum S. A., Morris G. B., 1990, A&AS, 82, 261
-O'Dea C. P., Baum S. A., Stanghellini C., 1991,, ApJ, 380, 66
+O'Dea C. P., Baum S. A., Stanghellini C., 1991, ApJ, 380, 66
 Planck Collaboration et al., 2011, A&A, 536, A15
 Sotnikova Y. V., Mufakharov T. V., Majorova E. K., Mingaliev M. G., Udovitskii R. Y., Bursov N. N., Semenova T. A., 2019, Astrophysical Bulletin, 74, 348
 Sotnikova Y., et al., 2021, arXiv e-prints, p. arXiv:2109.14029
 Spoelstra T. A. T., Patnaik A. R., Gopal-Krishna 1985, A&A, 152, 38
 Stanghellini C., O'Dea C. P., Dallacasa D., Baum S. A., Fanti R., Fanti C., 1998, A&AS, 131, 303
-Torniainen I., Tornikoski M., Terasranta H., Aller M. F., Aller H. D., 2005, A&A, 435, 839
-Torniainen I., Tornikoski M., Lahteenmaki A., Aller M. F., Aller H. D., Mingaliev M. G., 2007, A&A, 469, 451
+Torniainen I., Tornikoski M., Teräsranta H., Aller M. F., Aller H. D., 2005, A&A, 435, 839
+Torniainen I., Tornikoski M., Lähteenmäki A., Aller M. F., Aller H. D., Mingaliev M. G., 2007, A&A, 469, 451
 Tornikoski M., Jussila I., Johansson P., Lainela M., Valtaoja E., 2001, AJ, 121, 1306
 Tornikoski M., et al., 2009, Astronomische Nachrichten, 330, 128
 Tsybulev P. G., 2011, Astrophysical Bulletin, 66, 109

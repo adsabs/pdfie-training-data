@@ -1,52 +1,54 @@
-M. Greiner, O. Mandel, T. Esslinger, T. W. Hansch, and I. Bloch, Nature 415, 39 (2002)
-F. Schafer, T. Fukuhara, S. Sugawa, Y. Takasu, and Y. Takahashi, Nature Reviews Physics 2, 411 (2020)
-C. Gross and I. Bloch, Science 357, 995 (2017)
-I. Bloch, J. Dalibard, and S. Nascimbene, Nature Physics 8, 267 (2012)
-M. Lewenstein, A. Sanpera, and V. Ahufinger, Contemporary Physics 54 (2013), 10.1080/00107514.2013.800135
-M. Baranov, Physics Reports 464, 71 (2008)
-S. Baier, M. J. Mark, D. Petter, K. Aikawa, L. Chomaz, Z. Cai, M. Baranov, P. Zoller, and F. Ferlaino, Science 352, 201 (2016)
-T. Lahaye, C. Menotti, L. Santos, M. Lewenstein, and T. Pfau, Reports on Progress in Physics 72, 126401 (2009)
-E. G. Dalla Torre, E. Berg, and E. Altman, Phys. Rev. Lett. 97, 260401 (2006)
-E. Berg, E. G. Dalla Torre, T. Giamarchi, and E. Altman, Phys. Rev. B 77, 245119 (2008)
-D. Rossini and R. Fazio, New Journal of Physics 14, 065012 (2012)
-J. Sebby-Strabley, M. Anderlini, P. S. Jessen, and J. V. Porto, Phys. Rev. A 73, 033605 (2006)
-J. Sebby-Strabley, B. L. Brown, M. Anderlini, P. J. Lee, W. D. Phillips, J. V. Porto, and P. R. Johnson, Phys. Rev. Lett. 98, 200405 (2007)
-M. Anderlini, P. J. Lee, B. L. Brown, J. Sebby-Strabley, W. D. Phillips, and J. V. Porto, Nature 448, 452 (2007)
-S. Folling, S. Trotzky, P. Cheinet, M. Feld, R. Saers, A. Widera, T. Muller, and I. Bloch, Nature 448, 1029 (2007)
-M. Singh, A. Dhar, T. Mishra, R. V. Pai, and B. P. Das, Phys. Rev. A 85, 051604 (2012)
-M. Singh and T. Mishra, Phys. Rev. A 94, 063610 (2016)
-A. Dhar, T. Mishra, R. V. Pai, and B. P. Das, Phys. Rev. A 83, 053621 (2011)
-A. Dhar, M. Singh, R. V. Pai, and B. P. Das, Phys. Rev. A 84, 033631 (2011)
-R. Roth and K. Burnett, Phys. Rev. A 68, 023604 (2003)
-F. Schmitt, M. Hild, and R. Roth, Phys. Rev. A 80, 023621 (2009)
-G. Roux, T. Barthel, I. P. McCulloch, C. Kollath, U. Schollwock, and T. Giamarchi, Phys. Rev. A 78, 023628 (2008)
-S. Peil, J. V. Porto, B. L. Tolra, J. M. Obrecht, B. E. King, M. Subbotin, S. L. Rolston, and W. D. Phillips, Phys. Rev. A 67, 051603 (2003)
-P. Cheinet, S. Trotzky, M. Feld, U. Schnorrberger, M. Moreno-Cardoner, S. Folling, and I. Bloch, Phys. Rev. Lett. 101, 090404 (2008)
-B.-L. Chen, S.-P. Kou, Y. Zhang, and S. Chen, Phys. Rev. A 81, 053608 (2010)
-I. Danshita, J. E. Williams, C. A. R. Sa de Melo, and C. W. Clark, Phys. Rev. A 76, 043606 (2007)
-S. Lahiri, S. Mondal, M. Singh, and T. Mishra, Phys. Rev. A 101, 063624 (2020)
-S. Mondal, S. Greschner, and T. Mishra, Phys. Rev. A 100, 013627 (2019)
-F. Grusdt, M. Honing, and M. Fleischhauer, Phys. Rev. Lett. 110, 260405 (2013)
-S. Greschner, S. Mondal, and T. Mishra, Phys. Rev. A 101, 053630 (2020)
-S. Mondal, S. Greschner, L. Santos, and T. Mishra, Phys. Rev. A 104, 013315 (2021)
-S. Ryu and Y. Hatsugai, Phys. Rev. Lett. 89, 077002 (2002)
-M. Di Liberto, A. Recati, I. Carusotto, and C. Menotti, Phys. Rev. A 94, 062704 (2016)
-M. Aidelsburger, M. Atala, S. Nascimbene, S. Trotzky, Y.-A. Chen, and I. Bloch, Phys. Rev. Lett. 107, 255301 (2011)
-A. Dhar, T. Mishra, R. V. Pai, S. Mukerjee, and B. P. Das, Phys. Rev. A 88, 053625 (2013)
-H. P. Luschen, S. Scherg, T. Kohlert, M. Schreiber, P. Bordia, X. Li, S. Das Sarma, and I. Bloch, Phys. Rev. Lett. 120, 160404 (2018)
-M. Schreiber, S. S. Hodgman, P. Bordia, H. P. Lschen, M. H. Fischer, R. Vosk, E. Altman, U. Schneider, and I. Bloch, Science 349, 842 (2015)
-X. Li and S. Das Sarma, Phys. Rev. B 101, 064203 (2020)
-G. Roati, C. D'Errico, L. Fallani, M. Fattori, C. Fort, M. Zaccanti, G. Modugno, M. Modugno, and M. Inguscio, Nature 453, 895 (2008)
-A. Padhan, M. Kanti Giri, S. Mondal, and T. Mishra, arXiv e-prints , arXiv:2109.09621 (2021), arXiv:2109.09621 [cond-mat.quant-gas]
-B. Yang, H. Sun, C.-J. Huang, H.-Y. Wang, Y. Deng, H.-N. Dai, Z.-S. Yuan, and J.-W. Pan, Science 369, 550 (2020)
-W. P. Su, J. R. Schrieffer, and A. J. Heeger, Phys. Rev. Lett. 42, 1698 (1979)
-J. Zak, Phys. Rev. Lett. 62, 2747 (1989)
-M. Atala, M. Aidelsburger, J. T. Barreiro, D. Abanin, T. Kitagawa, E. Demler, and I. Bloch, Nature Physics 9, 795 (2013)
-T. Mishra, J. Carrasquilla, and M. Rigol, Phys. Rev. B 84, 115135 (2011)
-T. Mishra, R. V. Pai, S. Mukerjee, and A. Paramekanti, Phys. Rev. B 87, 174504 (2013)
-T. Mishra, R. V. Pai, and S. Mukerjee, Phys. Rev. A 89, 013615 (2014)
-T. Mishra, S. Greschner, and L. Santos, Phys. Rev. A 91, 043614 (2015)
-M. Di Liberto, A. Recati, I. Carusotto, and C. Menotti, The European Physical Journal Special Topics 226, 2751 (2017)
-Y. Kuno and Y. Hatsugai, Phys. Rev. Research 2, 042024 (2020)
-M. Kohmoto, M. den Nijs, and L. P. Kadanoff, Phys. Rev. B 24, 5229 (1981)
-M. A. Cazalilla, R. Citro, T. Giamarchi, E. Orignac, and M. Rigol, Rev. Mod. Phys. 83, 1405 (2011)
+M. Greiner, O. Mandel, T. Esslinger, T. W. Hansch, and I. Bloch, Nature 415, 39 (2002).
+F. Schäfer, T. Fukuhara, S. Sugawa, Y. Takasu, and Y. Takahashi, Nature Reviews Physics 2, 411 (2020).
+C. Gross and I. Bloch, Science 357, 995 (2017).
+I. Bloch, J. Dalibard, and S. Nascimbene, Nature Physics 8, 267 (2012).
+M. Lewenstein, A. Sanpera, and V. Ahufinger, Contemporary Physics 54 (2013), 10.1080/00107514.2013.800135.
+M. Baranov, Physics Reports 464, 71 (2008).
+S. Baier, M. J. Mark, D. Petter, K. Aikawa, L. Chomaz, Z. Cai, M. Baranov, P. Zoller, and F. Ferlaino, Science 352, 201 (2016).
+T. Lahaye, C. Menotti, L. Santos, M. Lewenstein, and T. Pfau, Reports on Progress in Physics 72, 126401 (2009).
+E. G. Dalla Torre, E. Berg, and E. Altman, Phys. Rev. Lett. 97, 260401 (2006).
+E. Berg, E. G. Dalla Torre, T. Giamarchi, and E. Altman, Phys. Rev. B 77, 245119 (2008).
+D. Rossini and R. Fazio, New Journal of Physics 14, 065012 (2012).
+J. Sebby-Strabley, M. Anderlini, P. S. Jessen, and J. V. Porto, Phys. Rev. A 73, 033605 (2006).
+J. Sebby-Strabley, B. L. Brown, M. Anderlini, P. J. Lee, W. D. Phillips, J. V. Porto, and P. R. Johnson, Phys. Rev. Lett. 98, 200405 (2007).
+M. Anderlini, P. J. Lee, B. L. Brown, J. Sebby-Strabley, W. D. Phillips, and J. V. Porto, Nature 448, 452 (2007).
+S. Folling, S. Trotzky, P. Cheinet, M. Feld, R. Saers, A. Widera, T. Muller, and I. Bloch, Nature 448, 1029 (2007).
+M. Singh, A. Dhar, T. Mishra, R. V. Pai, and B. P. Das, Phys. Rev. A 85, 051604 (2012).
+M. Singh and T. Mishra, Phys. Rev. A 94, 063610 (2016).
+A. Dhar, T. Mishra, R. V. Pai, and B. P. Das, Phys. Rev. A 83, 053621 (2011).
+A. Dhar, M. Singh, R. V. Pai, and B. P. Das, Phys. Rev. A 84, 033631 (2011).
+R. Roth and K. Burnett, Phys. Rev. A 68, 023604 (2003).
+F. Schmitt, M. Hild, and R. Roth, Phys. Rev. A 80, 023621 (2009).
+G. Roux, T. Barthel, I. P. McCulloch, C. Kollath, U. Schollwock, and T. Giamarchi, Phys. Rev. A 78, 023628 (2008).
+S. Peil, J. V. Porto, B. L. Tolra, J. M. Obrecht, B. E. King, M. Subbotin, S. L. Rolston, and W. D. Phillips, Phys. Rev. A 67, 051603 (2003).
+J. Sebby-Strabley, M. Anderlini, P. S. Jessen, and J. V. Porto, Phys. Rev. A 73, 033605 (2006).
+P. Cheinet, S. Trotzky, M. Feld, U. Schnorrberger, M. Moreno-Cardoner, S. Folling, and I. Bloch, Phys. Rev. Lett. 101, 090404 (2008).
+B.-L. Chen, S.-P. Kou, Y. Zhang, and S. Chen, Phys. Rev. A 81, 053608 (2010).
+I. Danshita, J. E. Williams, C. A. R. Sa de Melo, and C. W. Clark, Phys. Rev. A 76, 043606 (2007).
+S. Lahiri, S. Mondal, M. Singh, and T. Mishra, Phys. Rev. A 101, 063624 (2020).
+S. Mondal, S. Greschner, and T. Mishra, Phys. Rev. A 100, 013627 (2019).
+F. Grusdt, M. Honing, and M. Fleischhauer, Phys. Rev. Lett. 110, 260405 (2013).
+S. Greschner, S. Mondal, and T. Mishra, Phys. Rev. A 101, 053630 (2020).
+S. Mondal, S. Greschner, L. Santos, and T. Mishra, Phys. Rev. A 104, 013315 (2021).
+S. Ryu and Y. Hatsugai, Phys. Rev. Lett. 89, 077002 (2002).
+M. Di Liberto, A. Recati, I. Carusotto, and C. Menotti, Phys. Rev. A 94, 062704 (2016).
+M. Aidelsburger, M. Atala, S. Nascimbene, S. Trotzky, Y.-A. Chen, and I. Bloch, Phys. Rev. Lett. 107, 255301 (2011).
+A. Dhar, T. Mishra, R. V. Pai, S. Mukerjee, and B. P. Das, Phys. Rev. A 88, 053625 (2013).
+H. P. Luschen, S. Scherg, T. Kohlert, M. Schreiber, P. Bordia, X. Li, S. Das Sarma, and I. Bloch, Phys. Rev. Lett. 120, 160404 (2018).
+M. Schreiber, S. S. Hodgman, P. Bordia, H. P. Lschen, M. H. Fischer, R. Vosk, E. Altman, U. Schneider, and I. Bloch, Science 349, 842 (2015).
+X. Li and S. Das Sarma, Phys. Rev. B 101, 064203 (2020).
+G. Roati, C. D'Errico, L. Fallani, M. Fattori, C. Fort, M. Zaccanti, G. Modugno, M. Modugno, and M. Inguscio, Nature 453, 895 (2008).
+A. Padhan, M. Kanti Giri, S. Mondal, and T. Mishra, arXiv e-prints , arXiv:2109.09621 (2021), arXiv:2109.09621 [cond-mat.quant-gas].
+B. Yang, H. Sun, C.-J. Huang, H.-Y. Wang, Y. Deng, H.-N. Dai, Z.-S. Yuan, and J.-W. Pan, Science 369, 550 (2020).
+W. P. Su, J. R. Schrieffer, and A. J. Heeger, Phys. Rev. Lett. 42, 1698 (1979).
+J. Zak, Phys. Rev. Lett. 62, 2747 (1989).
+M. Atala, M. Aidelsburger, J. T. Barreiro, D. Abanin, T. Kitagawa, E. Demler, and I. Bloch, Nature Physics 9, 795 (2013).
+T. Mishra, J. Carrasquilla, and M. Rigol, Phys. Rev. B 84, 115135 (2011).
+T. Mishra, R. V. Pai, S. Mukerjee, and A. Paramekanti, Phys. Rev. B 87, 174504 (2013).
+T. Mishra, R. V. Pai, and S. Mukerjee, Phys. Rev. A 89, 013615 (2014).
+T. Mishra, S. Greschner, and L. Santos, Phys. Rev. A 91, 043614 (2015).
+M. Di Liberto, A. Recati, I. Carusotto, and C. Menotti, The European Physical Journal Special Topics 226, 2751 (2017).
+Y. Kuno and Y. Hatsugai, Phys. Rev. Research 2, 042024 (2020).
+M. Kohmoto, M. den Nijs, and L. P. Kadanoff, Phys. Rev. B 24, 5229 (1981).
+M. A. Cazalilla, R. Citro, T. Giamarchi, E. Orignac, and M. Rigol, Rev. Mod. Phys. 83, 1405 (2011).
+T. Mishra, J. Carrasquilla, and M. Rigol, Phys. Rev. B 84, 115135 (2011).

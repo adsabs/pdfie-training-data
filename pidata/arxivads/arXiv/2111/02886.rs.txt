@@ -1,25 +1,24 @@
 Barmby, P., Ashby, M. L. N., Bianchi, L., et al. 2006, ApJL, 650, L45, doi: 10.1086/508626
-Blair, W. P., Kirshner, R. P., & Chevalier, R. A. 1981,, ApJ, 247, 879, doi: 10.1086/159098
-Dalcanton, J. J., Fouesneau, M., Hogg, D. W., et al. 2015,, ApJ, 814, 3, doi: 10.1088/0004-637X/814/1/3
+Blair, W. P., Kirshner, R. P., & Chevalier, R. A. 1981, ApJ, 247, 879, doi: 10.1086/159098
+Dalcanton, J. J., Fouesneau, M., Hogg, D. W., et al. 2015, ApJ, 814, 3, doi: 10.1088/0004-637X/814/1/3
 de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference
 Catalogue of Bright Galaxies Dennefeld, M., & Kunth, D. 1981, AJ, 86, 989, doi: 10.1086/112974
 Devereux, N. A., Price, R., Wells, L. A., & Duric, N. 1994, AJ, 108, 1667, doi: 10.1086/117188
-Draine, B. T., & Lee, H. M. 1984,, ApJ, 285, 89, doi: 10.1086/162480
-Draine, B. T., Aniano, G., Krause, O., et al. 2014,, ApJ, 780, 172, doi: 10.1088/0004-637X/780/2/172
-Dunne, L., Eales, S., Ivison, R., Morgan, H., & Edmunds, M. 2003,, Nature, 424, 285, doi: 10.1038/nature01792
-Dwek, E., Foster, S. M., & Vancura, O. 1996,, ApJ, 457, 244, doi: 10.1086/176725
+Draine, B. T., & Lee, H. M. 1984, ApJ, 285, 89, doi: 10.1086/162480
+Draine, B. T., Aniano, G., Krause, O., et al. 2014, ApJ, 780, 172, doi: 10.1088/0004-637X/780/2/172
+Dunne, L., Eales, S., Ivison, R., Morgan, H., & Edmunds, M. 2003, Nature, 424, 285, doi: 10.1038/nature01792
+Dwek, E., Foster, S. M., & Vancura, O. 1996, ApJ, 457, 244, doi: 10.1086/176725
 Fritz, J., Gentile, G., Smith, M. W. L., et al. 2012, A&A, 546, A34, doi: 10.1051/0004-6361/201118619
-Gomez, H. L., Clark, C. J. R., Nozawa, T., et al. 2012,, MNRAS, 420, 3557, doi: 10.1111/j.1365-2966.2011.20272.x
+Gomez, H. L., Clark, C. J. R., Nozawa, T., et al. 2012, MNRAS, 420, 3557, doi: 10.1111/j.1365-2966.2011.20272.x
 Gordon, K. D., Bailin, J., Engelbracht, C. W., et al. 2006, ApJL, 638, L87, doi: 10.1086/501046
 Haas, M., Lemke, D., Stickel, M., et al. 1998, A&A, 338, L33
 Habing, H. J., Miley, G., Young, E., et al. 1984, ApJL, 278, L59, doi: 10.1086/184223
 Hildebrand, R. H. 1983, QJRAS, 24, 267
-Jones, A. P., Tielens, A. G. G. M., Hollenbach, D. J., & McKee, C. F. 1994,, ApJ, 433, 797, doi: 10.1086/174689 Laki cevi
-c, M., van Loon, J. T., Meixner, M., et al. 2015,, ApJ, 799, 50, doi: 10.1088/0004-637X/799/1/50
-Lee, J. H., & Lee, M. G. 2014,, ApJ, 786, 130, doi: 10.1088/0004-637X/786/2/130
+Jones, A. P., Tielens, A. G. G. M., Hollenbach, D. J., & McKee, C. F. 1994, ApJ, 433, 797, doi: 10.1086/174689
+Lakićević, M., van Loon, J. T., Meixner, M., et al. 2015, ApJ, 799, 50, doi: 10.1088/0004-637X/799/1/50
+Lee, J. H., & Lee, M. G. 2014, ApJ, 786, 130, doi: 10.1088/0004-637X/786/2/130
 Morgan, H. L., Dunne, L., Eales, S. A., Ivison, R. J., & Edmunds, M. G. 2003, ApJL, 597, L33, doi: 10.1086/379639
 Vilardell, F., Ribas, I., Jordi, C., Fitzpatrick, E. L., & Guinan, E. F. 2010, A&A, 509, A70, doi: 10.1051/0004-6361/200913299
 Wang, S., Zhang, C., Jiang, B., et al. 2020, A&A, 639, A72, doi: 10.1051/0004-6361/201936868
-Whitworth, A. P., Marsh, K. A., Cigan, P. J., et al. 2019,, MNRAS, 489, 5436, doi: 10.1093/mnras/stz2166
-Zhao, H., Jiang, B., Gao, S., Li, J., & Sun, M. 2018,, ApJ, 855, 12,
-doi: 10.3847/1538-4357/aaacd0 1. Images of SNR [LL2014]60 and [LL2014]135 in various bands :(a) H, (b) Spitzer/IRAC8, (c) Spitzer/MIPS24, (d) Hershcel/PACS70 , (e) Herschel/PACS100, (f) Herschel/PACS160, where the object is at the center. The red circle marks the area of the SNR, and the six equal-area circles at beside marks the areas used for background evaluation. The blue circle of [LL2014]135(bottom) marks the extended area of the SNR because of the obvious infrared feature. Table 1. The fundamental information and derived dust parameters of 23 supernova remnants in M31 Name a R.A.a Decla Da Typea F24m 24m F70m 70m F100m 100m F160m 160m Md Td (h m s) ( ) (pc) (mJy) (mJy) (mJy) (mJy) (mJy) (mJy) (mJy) (mJy) (M ) (K) [LL2014]2 00 39 23.3 40 44 19.8 55.4 CC 1.1 0.09 26.6 3.2 38.8 4.7 53.2 6.4 66+47.5 -28.8 22.2+2.1 -1.8 [LL2014]4 00 39 44.9 40 29 54.1 45.6 CC 0.3 0.02 8.9 1.1 16.9 2.0 57.7 6.9 464+359.0 -224.4 15.4+1.3 -1.0 [LL2014]12 00 40 32.0 40 30 31.4 51.2 CC 0.8 0.06 24.4 2.9 34.2 4.1 65.7 7.9 150+122.9 -74.9 19.4+2.0 -1.6 [LL2014]13 00 40 33.4 40 43 36.0 55.2 CC 4.2 0.34 71.2 8.5 140.1 16.8 186.6 22.4 280+193.3 -112.6 21.4+1.7 -1.6 [LL2014]14 00 40 33.6 40 32 47.1 59.6 CC 9.4 0.75 70.2 8.4 150.4 18.1 225.1 27.0 425+288.2 -174.7 20.3+1.7 -1.4 [LL2014]15 00 40 36.1 40 49 09.9 63.6 CC 2.1 0.17 53.5 6.4 98.1 11.8 132.2 15.8 190+128.3 -80.5 21.5+1.9 -1.6 [LL2014]21 00 41 03.9 40 47 02.2 28.0 Ia 0.2 0.02 7.6 0.9 17.2 2.1 34.3 4.1 108+78.4 -50.4 18.3+1.6 -1.3 [LL2014]22 00 41 06.2 40 52 08.8 37.6 Ia 0.8 0.06 9.9 1.2 25.7 3.1 48.4 5.8 145+97.8 -62.8 18.5+1.4 -1.3 [LL2014]39 00 42 14.8 40 52 03.0 32.4 Ia 2.2 0.18 16.2 1.9 30.5 3.7 54.6 6.6 131+88.8 -58.8 19.3+1.7 -1.4 [LL2014]40 00 42 20.2 41 27 54.8 45.2 CC 9.3 0.74 80.7 9.7 205.1 24.6 246.6 29.6 371+219.2 -135.8 21.5+1.6 -1.5 [LL2014]60 00 43 10.9 41 37 38.3 45.2 CC 5.2 0.42 40.4 4.9 115.2 13.8 184.3 22.1 434+281.8 -185.0 19.4+1.5 -1.3 [LL2014]66 00 43 27.9 41 18 30.5 40.4 CC 1.8 0.14 41.5 5.0 77.2 9.3 100.9 12.1 140+93.6 -58.7 21.7+1.9 -1.6 [LL2014]86 00 44 13.2 41 50 30.7 44.6 Ia 1.6 0.13 42.6 5.1 66.3 8.0 93.5 11.2 128+89.9 -56.5 21.7+2.0 -1.6 [LL2014]95 00 44 29.5 41 52 44.1 55.0 CC 10.2 0.82 75.4 9.1 165.1 19.8 281.8 33.8 673+461.7 -306.8 19.3+1.7 -1.4 [LL2014]96 00 44 32.1 41 23 35.9 54.8 CC 4.7 0.38 59.9 7.2 155.8 18.7 310.1 37.2 1047+733.3 -444.6 18.0+1.5 -1.3 [LL2014]100 00 44 38.8 41 25 26.8 46.2 CC 13.6 1.09 104.8 12.6 266.3 31.9 314.0 37.7 461+256.5 -181.7 21.6+1.6 -1.4 [LL2014]106 00 44 47.0 41 29 20.5 42.0 CC 0.7 0.06 25.9 3.1 71.2 8.5 143.8 17.3 500+348.6 -221.4 17.9+1.5 -1.2 [LL2014]110 00 44 50.8 41 32 12.2 67.8 CC 5.5 0.44 86.7 10.4 146.1 17.5 216.3 25.9 344+245.2 -149.6 21.0+1.8 -1.6 [LL2014]117 00 45 05.0 41 38 53.2 69.8 CC 10.3 0.82 114.4 13.7 212.1 25.4 338.0 40.6 657+464.5 -283.3 20.1+1.8 -1.5 [LL2014]122 00 45 12.1 41 50 17.5 72.4 Ia 1.1 0.09 58.4 7.0 105.7 12.7 225.8 27.1 737+583.7 -375.0 18.1+1.8 -1.3 [LL2014]135 00 45 27.8 41 46 27.0 67.2 CC 8.1 0.65 123.2 14.8 220.1 26.4 361.4 43.3 717+550.8 -344.7 20.0+2.0 -1.5 [LL2014]145 00 45 56.5 42 11 10.5 88.8 Ia 3.6 0.29 24.6 3.0 69.5 8.3 200.1 24.0 1271+950.7 -567.8 16.0+1.2 -1.0 [LL2014]147 00 46 20.1 41 52 59.7 89.4 CC 1.8 0.14 21.6 2.6 51.1 6.1 98.7 11.8 300+218.3 -142.9 18.4+1.7 -1.3
+Whitworth, A. P., Marsh, K. A., Cigan, P. J., et al. 2019, MNRAS, 489, 5436, doi: 10.1093/mnras/stz2166
+Zhao, H., Jiang, B., Gao, S., Li, J., & Sun, M. 2018, ApJ, 855, 12, doi: 10.3847/1538-4357/aaacd0

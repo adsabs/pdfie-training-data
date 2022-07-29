@@ -1,38 +1,38 @@
-Anan, T., Schad, T. A., Jaeggli, S. A., et al. 2019,, ApJ, 882, 161. doi:10.3847/1538-4357/ab357f
+Anan, T., Schad, T. A., Jaeggli, S. A., et al. 2019, ApJ, 882, 161. doi:10.3847/1538-4357/ab357f
 Bastian, T. S., Chintzoglou, G., De Pontieu, B., et al. 2017, ApJL, 845, L19. doi:10.3847/2041-8213/aa844c
 Beckers, J. M. & Tallant, P. E. 1969, SoPh, 7, 351
 Beckers, J. M. & Schultz, R. B. 1972, SoPh, 27, 61
 Bogdan, T. J. & Judge, P. G. 2006, Philosophical Transactions of the Royal Society of London Series A, 364, 313. doi:10.1098/rsta.2005.1701
 Cao, W., Gorceix, N., Coulter, R., et al. 2010, Astronomische Nachrichten, 331, 636. doi:10.1002/asna.201011390
 Centeno, R., Collados, M., & Trujillo Bueno, J. 2006, Solar Polarization 4, 358, 465
-Chae, J. & Goode, P. R. 2015,, ApJ, 808, 118. doi:10.1088/0004-637X/808/2/118
-Chae, J. & Litvinenko, Y. E. 2017,, ApJ, 844, 129. doi:10.3847/1538-4357/aa7be9
+Chae, J. & Goode, P. R. 2015, ApJ, 808, 118. doi:10.1088/0004-637X/808/2/118
+Chae, J. & Litvinenko, Y. E. 2017, ApJ, 844, 129. doi:10.3847/1538-4357/aa7be9
 Christopoulou, E. B., Georgakilas, A. A., & Koutchmy, S. 2000, A&A, 354, 305
 Christopoulou, E. B., Georgakilas, A. A., & Koutchmy, S. 2001, A&A, 375, 617. doi:10.1051/0004-6361:20010887
 De Pontieu, B., Title, A. M., Lemen, J. R., et al. 2014, SoPh, 289, 2733. doi:10.1007/s11207-014-0485-y
-Felipe, T., Khomenko, E., & Collados, M. 2010,, ApJ, 719, 357. doi:10.1088/0004-637X/719/1/357
+Felipe, T., Khomenko, E., & Collados, M. 2010, ApJ, 719, 357. doi:10.1088/0004-637X/719/1/357
 Felipe, T., Kuckein, C., Gonzalez Manrique, S. J., et al. 2020, ApJL, 900, L29. doi:10.3847/2041-8213/abb1a5
 Fleck, B. & Deubner, F.-L. 1989, A&A, 224, 245
 Fontenla, J. M., Harder, J., Livingston, W., et al. 2011, Journal of Geophysical Research (Atmospheres), 116, D20108. doi:10.1029/2011JD016032
-Fricke, K. & Elsasser, H. 1965, Zeitschrift fr Astrophysik, 63, 35
+Fricke, K. & Elsässer, H. 1965, Zeitschrift für Astrophysik, 63, 35
 Giovanelli, R. G. 1972, SoPh, 27, 71
-Ireland, J., McAteer, R. T. J., & Inglis, A. R. 2015,, ApJ, 798, 1. doi:10.1088/0004-637X/798/1/1
+Ireland, J., McAteer, R. T. J., & Inglis, A. R. 2015, ApJ, 798, 1. doi:10.1088/0004-637X/798/1/1
 Iwai, K., Loukitcheva, M., Shimojo, M., et al. 2017, ApJL, 841, L20. doi:10.3847/2041-8213/aa71b5
 Khomenko, E. & Collados, M. 2015, Living Reviews in Solar Physics, 12, 6. doi:10.1007/lrsp-2015-6
 Kobanov, N. I., Kolobov, D. Y., & Makarchik, D. V. 2006, SoPh, 238, 231. doi:10.1007/s11207-006-0160-z
 Leibacher, J. W. & Stein, R. F. 1981, NASA Special Publication, 263
 Lemen, J. R., Title, A. M., Akin, D. J., et al. 2012, SoPh, 275, 17. doi:10.1007/s11207-011-9776-8
-Lites, B. W. 1984,, ApJ, 277, 874. doi:10.1086/161758
-Lites, B. W. 1986,, ApJ, 301, 1005. doi:10.1086/163964
+Lites, B. W. 1984, ApJ, 277, 874. doi:10.1086/161758
+Lites, B. W. 1986, ApJ, 301, 1005. doi:10.1086/163964
 Litvinenko, Y. E. & Chae, J. 2017, A&A, 599, A15. doi:10.1051/0004-6361/201629568
-Lohner-Bottcher, J., Bello Gonzalez, N., & Schmidt, W. 2016, Astronomische Nachrichten, 337, 1040. doi:10.1002/asna.201612430
+Löhner-Böttcher, J., Bello González, N., & Schmidt, W. 2016, Astronomische Nachrichten, 337, 1040. doi:10.1002/asna.201612430
 Loukitcheva, M., Solanki, S. K., Carlsson, M., et al. 2004, A&A, 419, 747. doi:10.1051/0004-6361:20034159
 Loukitcheva, M., Solanki, S. K., Carlsson, M., et al. 2015, A&A, 575, A15
-Loukitcheva, M. A., Iwai, K., Solanki, S. K., et al. 2017,, ApJ, 850, 35. doi:10.3847/1538-4357/aa91cc
-Maltby, P., Avrett, E. H., Carlsson, M., et al. 1986,, ApJ, 306, 284. doi:10.1086/164342
+Loukitcheva, M. A., Iwai, K., Solanki, S. K., et al. 2017, ApJ, 850, 35. doi:10.3847/1538-4357/aa91cc
+Maltby, P., Avrett, E. H., Carlsson, M., et al. 1986, ApJ, 306, 284. doi:10.1086/164342
 Maurya, R. A., Chae, J., Park, H., et al. 2013, SoPh, 288, 73. doi:10.1007/s11207-013-0286-8
 Mein, N. & Mein, P. 1976, SoPh, 49, 231. doi:10.1007/BF00162447
-Molnar, M. E., Reardon, K. P., Chai, Y., et al. 2019,, ApJ, 881, 99. doi:10.3847/1538-4357/ab2ba3
+Molnar, M. E., Reardon, K. P., Chai, Y., et al. 2019, ApJ, 881, 99. doi:10.3847/1538-4357/ab2ba3
 Nagashima, K., Sekii, T., Kosovichev, A. G., et al. 2007, PASJ, 59, S631. doi:10.1093/pasj/59.sp3.S631
 Nindos, A., Alissandrakis, C. E., Gelfreikh, G. B., et al. 2002, A&A, 386, 658. doi:10.1051/0004-6361:20020252
 Nindos, A., Alissandrakis, C. E., Bastian, T. S., et al. 2018, A&A, 619, L6. doi:10.1051/0004-6361/201834113
@@ -41,24 +41,24 @@ Patsourakos, S., Alissandrakis, C. E., Nindos, A., et al. 2020, A&A, 634, A86. d
 Petry, D. & CASA Development Team 2012, Astronomical Data Analysis Software and Systems XXI, 461, 849
 Phillis, G. L. 1975, SoPh, 41, 71. doi:10.1007/BF00152957
 Reardon, K. P., Lepreti, F., Carbone, V., et al. 2008, ApJL, 683, L207. doi:10.1086/591790
-Reznikova, V. E., Shibasaki, K., Sych, R. A., et al. 2012,, ApJ, 746, 119. doi:10.1088/0004-637X/746/2/119
+Reznikova, V. E., Shibasaki, K., Sych, R. A., et al. 2012, ApJ, 746, 119. doi:10.1088/0004-637X/746/2/119
 Rybicki, G. B. & Hummer, D. G. 1991, A&A, 245, 171
 Rybicki, G. B. & Hummer, D. G. 1992, A&A, 262, 209
-Shibasaki, K. 2001,, ApJ, 550, 1113. doi:10.1086/319820
+Shibasaki, K. 2001, ApJ, 550, 1113. doi:10.1086/319820
 Shimojo, M., Hudson, H. S., White, S. M., et al. 2017, ApJL, 841, L5. doi:10.3847/2041-8213/aa70e3
 Skartlien, R., Carlsson, M., & Stein, R. F. 1994, Chromospheric Dynamics, 79
-Su, J. T., Ji, K. F., Cao, W., et al. 2016,, ApJ, 817, 117. doi:10.3847/0004-637X/817/2/117
+Su, J. T., Ji, K. F., Cao, W., et al. 2016, ApJ, 817, 117. doi:10.3847/0004-637X/817/2/117
 Sych, R. & Nakariakov, V. M. 2014, A&A, 569, A72. doi:10.1051/0004-6361/201424049
 Thomas, J. H. 1981, The Physics of Sunspots, 345
-Tian, H., DeLuca, E., Reeves, K. K., et al. 2014,, ApJ, 786, 137. doi:10.1088/0004-637X/786/2/137
+Tian, H., DeLuca, E., Reeves, K. K., et al. 2014, ApJ, 786, 137. doi:10.1088/0004-637X/786/2/137
 Tziotziou, K., Tsiropoula, G., Mein, N., et al. 2006, A&A, 456, 689. doi:10.1051/0004-6361:20064997
 Tziotziou, K., Tsiropoula, G., Mein, N., et al. 2007, A&A, 463, 1153. doi:10.1051/0004-6361:20066412
 Uexkuell, M. V., Kneer, F., & Mattig, W. 1983, A&A, 123, 263
-Uitenbroek, H. 2000,, ApJ, 536, 481. doi:10.1086/308933
-Wallace, L., Hinkle, K., & Livingston, W. C. 2005, An atlas of sunspot umbral spectra in the visible from 15,000 to 25,500 cm-1 (3920 to 6664 A) , by Wallace, Lloyd.; Hinkle, Kenneth.; Livingston, W. C. [Tucson, AZ : National Solar Observatory, 2005]
+Uitenbroek, H. 2000, ApJ, 536, 481. doi:10.1086/308933
+Wallace, L., Hinkle, K., & Livingston, W. C. 2005, An atlas of sunspot umbral spectra in the visible from 15,000 to 25,500 cm-1 (3920 to 6664 Å) , by Wallace, Lloyd.; Hinkle, Kenneth.; Livingston, W. C. [Tucson, AZ : National Solar Observatory, 2005]
 Wedemeyer, S., Bastian, T., Brajsa, R., et al. 2016, SSRv, 200, 1
 White, S. M., Iwai, K., Phillips, N. M., et al. 2017, SoPh, 292, 88
-Yurchyshyn, V., Abramenko, V., & Kilcik, A. 2015,, ApJ, 798, 136. doi:10.1088/0004-637X/798/2/136
-Yurchyshyn, V., Kilcik, A., Sahin, S., et al. 2020,, ApJ, 896, 150. doi:10.3847/1538-4357/ab91b8
+Yurchyshyn, V., Abramenko, V., & Kilcik, A. 2015, ApJ, 798, 136. doi:10.1088/0004-637X/798/2/136
+Yurchyshyn, V., Kilcik, A., Sahin, S., et al. 2020, ApJ, 896, 150. doi:10.3847/1538-4357/ab91b8
 Zhugzhda, I. D. & Dzhalilov, N. S. 1982, A&A, 112, 16
-Zhugzhda, I. D. 1984,, MNRAS, 207, 731. doi:10.1093/mnras/207.4.731
+Zhugzhda, I. D. 1984, MNRAS, 207, 731. doi:10.1093/mnras/207.4.731

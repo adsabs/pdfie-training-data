@@ -7,7 +7,7 @@ Z.-G. Mou, P. M. Saffin, A. Tranberg, and S. Woodward, JHEP, 06, 094 (2019), arX
 B. Buyens, J. Haegeman, K. Van Acoleyen, H. Verschelde, and F. Verstraete, Phys. Rev. Lett., 113, 091601 (2014), arXiv:1312.6654.
 T. Pichler, M. Dalmonte, E. Rico, P. Zoller, and S. Montangero, Phys. Rev. X, 6, 011023 (2016), arXiv:1505.04440.
 S. Takeda (2021), arXiv:2108.10017.
-E. A. Martinez et al.,, Nature, 534, 516-519 (2016), arXiv:1605.04570.
+E. A. Martinez et al., Nature, 534, 516-519 (2016), arXiv:1605.04570.
 N. Klco, E. F. Dumitrescu, A. J. McCaskey, T. D. Morris, R. C. Pooser, M. Sanz, E. Solano, P. Lougovski, and M. J. Savage, Phys. Rev. A, 98, 032331 (2018), arXiv:1803.03326.
 E. Gustafson, P. Dreher, Z. Hang, and Y. Meurice, Quantum Sci. Technol., 6, 045020 (2021), arXiv:1910.09478.
 D. E. Kharzeev and Y. Kikuchi, Phys. Rev. Res., 2, 023342 (2020), arXiv:2001.00698.

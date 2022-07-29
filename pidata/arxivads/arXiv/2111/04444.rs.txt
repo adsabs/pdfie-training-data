@@ -1,11 +1,11 @@
-Domingos, R. C., Winter, O. C., & Yokoyama, T. 2006,, MNRAS, 373, 1227
-Heller, R. 2014,, ApJ, 787, 14
-Heller, R., Hippke, M., & Jackson, B. 2016a,, ApJ, 820, 88
+Domingos, R. C., Winter, O. C., & Yokoyama, T. 2006, MNRAS, 373, 1227
+Heller, R. 2014, ApJ, 787, 14
+Heller, R., Hippke, M., & Jackson, B. 2016a, ApJ, 820, 88
 Heller, R., Hippke, M., Placek, B., Angerhausen, D., & Agol, E. 2016b, A&A, 591, A67
 Hippke, M. & Heller, R. 2019, A&A, 623, A39
-Kipping, D. 2021,, MNRAS, 507, 4120
-Kovacs, G., Zucker, S., & Mazeh, T. 2002, A&A, 391, 369
-Mandel, K. & Agol, E. 2002,, ApJ, 580, L171
-Martin, D. V. 2017,, MNRAS, 467, 1694
+Kipping, D. 2021, MNRAS, 507, 4120
+Kovács, G., Zucker, S., & Mazeh, T. 2002, A&A, 391, 369
+Mandel, K. & Agol, E. 2002, ApJ, 580, L171
+Martin, D. V. 2017, MNRAS, 467, 1694
 Sartoretti, P. & Schneider, J. 1999, A&AS, 134, 553
-Simon, A. E., Szabo, G. M., Kiss, L. L., & Szatmary, K. 2012,, MNRAS, 419, 164
+Simon, A. E., Szabo, G. M., Kiss, L. L., & Szatmáry, K. 2012, MNRAS, 419, 164
