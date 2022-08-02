@@ -1,4 +1,4 @@
-ALMA Partnership, Brogan, C. L., Perez, L. M., et al. 2015, ApJL, 808, L3, doi: 10.1088/2041-8205/808/1/L3
+ALMA Partnership, Brogan, C. L., Pérez, L. M., et al. 2015, ApJL, 808, L3, doi: 10.1088/2041-8205/808/1/L3
 Andrews, S. M., Wilner, D. J., Zhu, Z., et al. 2016, ApJL, 820, L40, doi: 10.3847/2041-8205/820/2/L40
 Artymowicz, P. 1992, PASP, 104, 769, doi: 10.1086/133051
 Artymowicz, P., & Lubow, S. H. 1994, ApJ, 421, 651, doi: 10.1086/173679
@@ -6,7 +6,7 @@ Baruteau, C., Meru, F., & Paardekooper, S.-J. 2011, MNRAS, 416, 1971, doi: 10.11
 Bodenheimer, P., D'Angelo, G., Lissauer, J. J., Fortney, J. J., & Saumon, D. 2013, ApJ, 770, 120, doi: 10.1088/0004-637X/770/2/120
 Chandrasekhar, S. 1961, Hydrodynamic and hydromagnetic stability (Oxford Clarendon Press)
 Christiaens, V., Cantalloube, F., Casassus, S., et al. 2019, ApJL, 877, L33, doi: 10.3847/2041-8213/ab212b
-Cieza, L. A., Casassus, S., Perez, S., et al. 2017, ApJL, 851, L23, doi: 10.3847/2041-8213/aa9b7b
+Cieza, L. A., Casassus, S., Pérez, S., et al. 2017, ApJL, 851, L23, doi: 10.3847/2041-8213/aa9b7b
 Crida, A., & Morbidelli, A. 2007, MNRAS, 377, 1324, doi: 10.1111/j.1365-2966.2007.11704.x
 Crida, A., Morbidelli, A., & Masset, F. 2006, Icarus, 181, 587, doi: 10.1016/j.icarus.2005.10.007
 D'Angelo, G., Kley, W., & Henning, T. 2003, ApJ, 586, 540, doi: 10.1086/367555
@@ -14,7 +14,7 @@ de Val-Borro, M., Edgar, R. G., Artymowicz, P., et al. 2006, MNRAS, 370, 529, do
 Dempsey, A. M., Munoz, D. J., & Lithwick, Y. 2021, ApJL, 918, L36, doi: 10.3847/2041-8213/ac22af
 Dipierro, G., Price, D., Laibe, G., et al. 2015, MNRAS, 453, L73, doi: 10.1093/mnrasl/slv105
 Dong, R., Zhu, Z., & Whitney, B. 2015, ApJ, 809, 93, doi: 10.1088/0004-637X/809/1/93
-Drzkowska, J., & Dullemond, C. P. 2018, A&A, 614, A62, doi: 10.1051/0004-6361/201732221
+Drążkowska, J., & Dullemond, C. P. 2018, A&A, 614, A62, doi: 10.1051/0004-6361/201732221
 Duffell, P. C., & Chiang, E. 2015, ApJ, 812, 94, doi: 10.1088/0004-637X/812/2/94
 Duffell, P. C., D'Orazio, D., Derdzinski, A., et al. 2020, ApJ, 901, 25, doi: 10.3847/1538-4357/abab95
 Duffell, P. C., & MacFadyen, A. I. 2013, ApJ, 769, 41, doi: 10.1088/0004-637X/769/1/41
@@ -39,7 +39,7 @@ Kanagawa, K. D., Muto, T., Tanaka, H., et al. 2015a, ApJL, 806, L15, doi: 10.108
 Kanagawa, K. D., Tanaka, H., Muto, T., & Tanigawa, T. 2017, PASJ, 69, 97, doi: 10.1093/pasj/psx114
 Kanagawa, K. D., Tanaka, H., Muto, T., Tanigawa, T., & Takeuchi, T. 2015b, MNRAS, 448, 994, doi: 10.1093/mnras/stv025
 Kanagawa, K. D., Tanaka, H., & Szuszkiewicz, E. 2018, ApJ, 861, 140, doi: 10.3847/1538-4357/aac8d9
-Keppler, M., Benisty, M., Muller, A., et al. 2018, A&A, 617, A44, doi: 10.1051/0004-6361/201832957
+Keppler, M., Benisty, M., Müller, A., et al. 2018, A&A, 617, A44, doi: 10.1051/0004-6361/201832957
 Kley, W. 1999, MNRAS, 303, 696, doi: 10.1046/j.1365-8711.1999.02198.x
 Kley, W., & Dirksen, G. 2006, A&A, 447, 369, doi: 10.1051/0004-6361:20053914
 Koller, J., Li, H., & Lin, D. N. C. 2003, ApJL, 596, L91, doi: 10.1086/379032
@@ -50,14 +50,14 @@ Lin, D. N. C., & Papaloizou, J. 1979, MNRAS, 186, 799, doi: 10.1093/mnras/186.4.
 Lin, M.-K. 2012, ApJ, 754, 21, doi: 10.1088/0004-637X/754/1/21
 —. 2014, MNRAS, 437, 575, doi: 10.1093/mnras/stt1909
 Long, Z. C., Akiyama, E., Sitko, M., et al. 2018, ApJ, 858, 112, doi: 10.3847/1538-4357/aaba7c
-Loomis, R. A., Oberg, K. I., Andrews, S. M., & MacGregor, M. A. 2017, ApJ, 840, 23, doi: 10.3847/1538-4357/aa6c63
+Loomis, R. A., Öberg, K. I., Andrews, S. M., & MacGregor, M. A. 2017, ApJ, 840, 23, doi: 10.3847/1538-4357/aa6c63
 Lubow, S. H. 1991, ApJ, 381, 259, doi: 10.1086/170647
 Lubow, S. H., Seibert, M., & Artymowicz, P. 1999, ApJ, 526, 1001, doi: 10.1086/308045
 Machida, M. N., Kokubo, E., Inutsuka, S.-I., & Matsumoto, T. 2010, MNRAS, 405, 1227, doi: 10.1111/j.1365-2966.2010.16527.x
 Masset, F. 2000, A&AS, 141, 165, doi: 10.1051/aas:2000116
 Masset, F., & Snellgrove, M. 2001, MNRAS, 320, L55, doi: 10.1046/j.1365-8711.2001.04159.x
 Metchev, S. A., Hillenbrand, L. A., & Meyer, M. R. 2004, ApJ, 600, 435, doi: 10.1086/379788
-Muller, A., Keppler, M., Henning, T., et al. 2018, A&A, 617, L2, doi: 10.1051/0004-6361/201833584
+Müller, A., Keppler, M., Henning, T., et al. 2018, A&A, 617, L2, doi: 10.1051/0004-6361/201833584
 Ono, T., Muto, T., Takeuchi, T., & Nomura, H. 2016, ApJ, 823, 84, doi: 10.3847/0004-637X/823/2/84
 Picogna, G., & Kley, W. 2015, A&A, 584, A110, doi: 10.1051/0004-6361/201526921
 Shakura, N. I., & Sunyaev, R. A. 1973, A&A, 500, 33

@@ -5,7 +5,7 @@ Baraffe I., Chabrier G., Allard F., Hauschildt P. H., 1998, A&A, 337, 403
 Barnes S. A., 2010, ApJ, 722, 222
 Barnes S. A., Kim Y.-C., 2010, ApJ, 721, 675
 Bastian N., Covey K. R., Meyer M. R., 2010, ARA&A, 48, 339
-Berlanas S. R., Herrero A., Comeron F., Simon-Diaz S., Cervino M., Pasquali A., 2018, A&A, 620, A56
+Berlanas S. R., Herrero A., Comerón F., Simón-Díaz S., Cerviño M., Pasquali A., 2018, A&A, 620, A56
 Biazzo K., Randich S., Palla F., 2011, A&A, 525, A35
 Bouvier J., Matt S. P., Mohanty S., Scholz A., Stassun K. G., Zanni C., 2014, Protostars and Planets VI, pp 433-450
 Casamiquela L., et al., 2017, MNRAS, 470, 4363
@@ -31,11 +31,11 @@ Guarcello M. G., et al., 2013, ApJ, 773, 135
 Guarcello M. G., et al., 2021, A&A, 650, A157
 Hartman J. D., et al., 2008, ApJ, 675, 1233
 Hartman J. D., et al., 2009, ApJ, 691, 342
-Hartman J. D., Bakos G. A., Kovacs G., Noyes R. W., 2010, MNRAS, 408, 475
+Hartman J. D., Bakos G. Á., Kovács G., Noyes R. W., 2010, MNRAS, 408, 475
 Hartmann L., Calvet N., Gullbring E., D'Alessio P., 1998, ApJ, 495, 385
 Herczeg G. J., Hillenbrand L. A., 2015, ApJ, 808, 23
-Hernandez J., et al., 2007, ApJ, 662, 1067
-Hernandez J., Hartmann L., Calvet N., Jeffries R. D., Gutermuth R., Muzerolle J., Stauffer J., 2008, ApJ, 686, 1195
+Hernández J., et al., 2007, ApJ, 662, 1067
+Hernández J., Hartmann L., Calvet N., Jeffries R. D., Gutermuth R., Muzerolle J., Stauffer J., 2008, ApJ, 686, 1195
 Ireland L. G., Zanni C., Matt S. P., Pantolmos G., 2021, ApJ, 906, 4
 Irwin J., Hodgkin S., Aigrain S., Hebb L., Bouvier J., Clarke C., Moraux E., Bramich D. M., 2007, MNRAS, 377, 741
 Irwin J., Hodgkin S., Aigrain S., Bouvier J., Hebb L., Irwin M., Moraux E., 2008, MNRAS, 384, 675
@@ -45,7 +45,7 @@ Kroupa P., Weidner C., Pflamm-Altenburg J., Thies I., Dabringhausen J., Marks M.
 Landin N. R., Mendes L. T. S., Vaz L. P. R., Alencar S. H. P., 2016, A&A, 586, A96
 Lanzafame A. C., Spada F., 2015, A&A, 584, A30
 Littlefair S. P., Naylor T., Mayne N. J., Saunders E. S., Jeffries R. D., 2010, MNRAS, 403, 545
-Lodieu N., Perez-Garrido A., Smart R. L., Silvotti R., 2019, A&A, 628, A66
+Lodieu N., Pérez-Garrido A., Smart R. L., Silvotti R., 2019, A&A, 628, A66
 MacGregor K. B., Brenner M., 1991, ApJ, 376, 204
 Matt S., Pudritz R. E., 2005, ApJ, 632, L135
 Matt S. P., MacGregor K. B., Pinsonneault M. H., Greene T. P., 2012, ApJ, 754, L26
@@ -61,7 +61,7 @@ Rebull L. M., et al., 2016, AJ, 152, 113
 Rebull L. M., Stauffer J. R., Hillenbrand L. A., Cody A. M., Bouvier J., Soderblom D. R., Pinsonneault M., Hebb L., 2017, ApJ, 839, 92
 Rebull L. M., Stauffer J. R., Cody A. M., Hillenbrand L. A., David T. J., Pinsonneault M., 2018, AJ, 155, 196
 Rebull L. M., Stauffer J. R., Cody A. M., Hillenbrand L. A., Bouvier J., Roggero N., David T. J., 2020, AJ, 159, 273
-Ribas A., Merin B., Bouy H., Maud L. T., 2014, A&A, 561, A54
+Ribas Á., Merin B., Bouy H., Maud L. T., 2014, A&A, 561, A54
 Romanova M. M., Ustyugova G. V., Koldoba A. V., Lovelace R. V. E., 2009, MNRAS, 399, 1802
 Roquette J., Bouvier J., Alencar S. H. P., Vaz L. P. R., Guarcello M. G., 2017, A&A, 603, A106
 Roquette J., Matt S. P., Winter A. J., Amard L., Stasevic S., 2021, MNRAS, 508, 3710

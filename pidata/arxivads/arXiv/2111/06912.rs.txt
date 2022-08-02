@@ -1,6 +1,5 @@
 S. W. Hawking, Nature 248, 30 (1974)
-S. W. Hawking, Commun. Math. Phys. 43, 199 (1975),
-S. W. Hawking, Erratum: Commun.Math.Phys. 46, 206 (1976)
+S. W. Hawking, Commun. Math. Phys. 43, 199 (1975), [Erratum: Commun.Math.Phys. 46, 206 (1976)].
 S. W. Hawking, Phys. Rev. D 14, 2460 (1976)
 D. N. Page, Phys. Rev. Lett. 71, 3743 (1993), arXiv:hep-th/9306083
 D. N. Page, JCAP 09, 028 (2013), arXiv:1301.4995 [hep-th]

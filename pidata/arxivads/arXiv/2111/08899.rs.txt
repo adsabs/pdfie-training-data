@@ -28,13 +28,13 @@ Lee, B.-C., Park, M.-G., Lee, S.-M., et al. 2015, A&A, 584, A79.
 Lomb, N. R. 1976, Ap&SS, 39, 447.
 Meschiari, S., Wolf, A. S., Rivera, E., et al. 2009, PASP, 121, 1016.
 Meszaros, S., Dupree, A. K., & Szentgyorgyi, A. 2008, AJ, 135, 1117.
-Meszaros, S., Dupree, A. K., & Szalai, T. 2009, AJ, 137, 4282.
+Mészarós, S., Dupree, A. K., & Szalai, T. 2009, AJ, 137, 4282.
 Queloz, D., Henry, G. W., Sivan, J. P., et al. 2001, A&A, 379, 279.
 Reichert, K., Reffert, S., Stock, S., et al. 2019, A&A, 625, A22.
 Saio, H., Wood, P. R., Takayama, M., et al. 2015, MNRAS, 452, 3863.
 Sato, B., Kambe, E., Takeda, Y., et al. 2005, PASJ, 57, 97.
 Scargle, J. D. 1982, ApJ, 263, 835.
-Setiawan, J., von der Luhe, O., Pasquini, L., et al. 2005, 13th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, 560, 963
+Setiawan, J., von der Lühe, O., Pasquini, L., et al. 2005, 13th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, 560, 963
 Takeda, Y., Sato, B., Kambe, E., et al. 2002, PASJ, 54, 1041.
 Takeda, Y., Ohkubo, M., Sato, B., et al. 2005, PASJ, 57, 27.
 Takeda, Y., Sato, B., & Murata, D. 2008, PASJ, 60, 781.

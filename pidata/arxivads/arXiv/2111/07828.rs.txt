@@ -1,13 +1,13 @@
-Bose, S.; Mazumdar, A.; Morley, G.W.; Ulbricht, H.; Toros, P.M.M.; Geraci, A.A.; Barker, P.F.; Kim, M.S.; Milburn, G. Spin Entanglement Witness for Quantum Gravity. "Phy. Rev. Lett." 2017, "119", 240401, arXiv:1707.06050.
-Marletto, C.; Vedral, V. Witness gravity's quantum side in the lab. "Nature" 2017, "547", 156-158. http://dx.doi.org/10.1038/547156a.
-Howl, R.; Vedral, V.; Naik, D.; Christodoulou, M.; Rovelli, C.; Iyer, A. Non-Gaussianity as a Signature of a Quantum Theory of Gravity. "arXiv" 2021, arXiv:2004.01189.
-Christodoulou, M.; Rovelli, C. On the possibility of laboratory evidence for quantum superposition of geometries. "Phys. Lett. B" 2018, "792", 64-68, arXiv:1808.05842.
-Christodoulou, M.; Rovelli, C. On the possibility of experimental detection of the discreteness of time. "arXiv" 2018, arXiv:1812.01542v1.
+Bose, S.; Mazumdar, A.; Morley, G.W.; Ulbricht, H.; Toros, P.M.M.; Geraci, A.A.; Barker, P.F.; Kim, M.S.; Milburn, G. Spin Entanglement Witness for Quantum Gravity. Phy. Rev. Lett. 2017, 119, 240401, arXiv:1707.06050.
+Marletto, C.; Vedral, V. Witness gravity's quantum side in the lab. Nature 2017, 547, 156-158. http://dx.doi.org/10.1038/547156a.
+Howl, R.; Vedral, V.; Naik, D.; Christodoulou, M.; Rovelli, C.; Iyer, A. Non-Gaussianity as a Signature of a Quantum Theory of Gravity. arXiv 2021, arXiv:2004.01189.
+Christodoulou, M.; Rovelli, C. On the possibility of laboratory evidence for quantum superposition of geometries. Phys. Lett. B 2018, 792, 64-68, arXiv:1808.05842.
+Christodoulou, M.; Rovelli, C. On the possibility of experimental detection of the discreteness of time. arXiv 2018, arXiv:1812.01542v1.
 Christodoulou, M.; Di Biagio, A: Martin Dussaud, P. An experiment to test the discreteness of time arXiv:2007.08431.
-Adam, R. Planck 2015 results: I. Overview of products and scientific results. "Astron. Astrophys." 2016, "594", 1-38. arXiv:1502.01582.
-Bianchi, E.; Christodoulou, M.; Ambrosio, F.D.; Haggard, H.M.; Rovelli, C. White holes as remnants: A surprising scenario for the end of a black hole. "Class. Quantum Grav." 2018, "35", 225003. arXiv:1802.04264.
-Rovelli, C.; Vidotto, F. Small black/white hole stability and dark matter. "Universe" 2018, "4", 127. arXiv:1805.03872.
-Vidotto, F. Quantum insights on Primordial Black Holes as Dark Matter. "PoS" 2018, "EDSU2018", 046. arXiv:1811.08007.
-Horava, P. Quantum gravity at a Lifshitz point. "Phys. Rev. D Part. Fields Grav. Cosmol." 2009, "79", 084008. arXiv:0901.3775.
-Liberati, S. Tests of Lorentz invariance: A 2013 update. "Class. Quantum Grav." 2013, "30", 133001. arXiv:1304.5795.
-Canepa, A. Searches for supersymmetry at the Large Hadron Collider. "Rev. Physics" 2019, "4", 100033. http://dx.doi.org/10.1016/j.revip.2019.100033.
+Adam, R. Planck 2015 results: I. Overview of products and scientific results. Astron. Astrophys. 2016, 594, 1-38. arXiv:1502.01582.
+Bianchi, E.; Christodoulou, M.; Ambrosio, F.D.; Haggard, H.M.; Rovelli, C. White holes as remnants: A surprising scenario for the end of a black hole. Class. Quantum Grav. 2018, 35, 225003. arXiv:1802.04264.
+Rovelli, C.; Vidotto, F. Small black/white hole stability and dark matter. Universe 2018, 4, 127. arXiv:1805.03872.
+Vidotto, F. Quantum insights on Primordial Black Holes as Dark Matter. PoS 2018, EDSU2018, 046. arXiv:1811.08007.
+Horava, P. Quantum gravity at a Lifshitz point. Phys. Rev. D Part. Fields Grav. Cosmol. 2009, 79, 084008. arXiv:0901.3775.
+Liberati, S. Tests of Lorentz invariance: A 2013 update. Class. Quantum Grav. 2013, 30, 133001. arXiv:1304.5795.
+Canepa, A. Searches for supersymmetry at the Large Hadron Collider. Rev. Physics 2019, 4, 100033. http://dx.doi.org/10.1016/j.revip.2019.100033.

@@ -2,7 +2,7 @@ Asvestari, E., Pomoell, J., Kilpua, E., et al. 2021, A&A, in press, doi:10.1051/
 Balmaceda, L. A., Vourlidas, A., Stenborg, G. & St. Cyr, O. C. 2020, SoPh, 295, 107, doi:10.1007/s11207-020-01672-6
 Bellan, P. M. 2000, Imperial College Press, ISBN: 1860941419, doi:10.1142/p121
 Colaninno, R. C. & Vourlidas, A. 2006, ApJ, 652, 1747-1754, doi:10.1086/507943
-Demoulin, P. & Dasso, S. 2009, A&A, 498, 551-566, doi:10.1051/0004-6361/200810971
+Démoulin, P. & Dasso, S. 2009, A&A, 498, 551-566, doi:10.1051/0004-6361/200810971
 Farrugia, C. J., Osherovich, V. A. & Burlaga, L. F. 1995, J. Geophys. Res., 100( A7), 12293 12306, doi:10.1029/95JA00272.
 Feng, H., Zhao, Y., Wang, J., Liu, Q. & Zhao, G. 2021, Frontiers in Physics, 9, 232 doi:10.3389/fphy.2021.679780
 Gibson, S. E. & Low, B. C. 1998, ApJ, 493, 460-473, doi:10.1086/305107
@@ -25,7 +25,7 @@ Manchester, W. B., Kozyra, J. U., Lepri, S. T. & Lavraud, B. 2014, J. Geophys. R
 Pomoell, J. & Poedts S. 2018, J. Space Weather Space Clim., 8, A35, doi:10.1051/swsc/2018020
 Rosenbluth, M. N. & Bussac, M. N. 1979, Nuclear Fusion, 19, 489-498
 Sato, T. & Hayashi, T. 1983, PhRvL, 50, 38-40, doi:10.1103/PhysRevLett.50.38
-Scolini, C., Chan, E., Temmer, M., et al. 2020, ApJS, 247, 21, doi:10.3847/1538-4365/ab6216
+Scolini, C., Chané, E., Temmer, M., et al. 2020, ApJS, 247, 21, doi:10.3847/1538-4365/ab6216
 Shiota, D., Kusano, K., Miyoshi T. & Shibata, K. 2010, ApJ, 718, 1305-1314, doi:10.1088/0004-637X/718/2/1305
 Shiota, D. & Kataoka, R. 2016, Space Weather, 14, 56-75, doi:10.1002/2015SW001308
 Singh, T., Yalim, M. S. & Pogorelov, N. V. 2018, ApJ, 864, 18, doi:10.3847/1538-4357/aad3b4

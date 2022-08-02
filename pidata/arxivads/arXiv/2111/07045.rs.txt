@@ -1,8 +1,8 @@
 Abbott B. P., et al., 2017, Phys. Rev. Lett., 119, 161101
-Ali-Haimoud Y., Kamionkowski M., 2017, Phys. Rev. D, 95, 043534
+Ali-Haïmoud Y., Kamionkowski M., 2017, Phys. Rev. D, 95, 043534
 Barco O., 2021, MNRAS, 506, 806
 Berger E., Fong W., Chornock R., 2013, ApJ, 774, L23
-Bird S., Cholis I., Munoz J. B., Ali-Haimoud Y., Kamionkowski M., Kovetz E. D., Raccanelli A., Riess A. G., 2016, Phys. Rev. Lett., 116, 201301
+Bird S., Cholis I., Munoz J. B., Ali-Haïmoud Y., Kamionkowski M., Kovetz E. D., Raccanelli A., Riess A. G., 2016, Phys. Rev. Lett., 116, 201301
 Capela F., Pshirkov M., Tinyakov P., 2013, Phys. Rev. D, 87, 123524
 D'Eath P. D., 1978, Phys. Rev. D, 18, 990
 Dvorkin C., Blum K., Kamionkowski M., 2014, Phys. Rev. D, 89, 023519

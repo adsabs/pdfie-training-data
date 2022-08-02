@@ -1,34 +1,34 @@
-A. Lichnerowicz, "Theories relativistes de la gravitation et de l'electromagnetisme: relativite generale et theories unitaires (J. Gabay, ed.), 1955.
-G. W. Gibbons, "Supergravity vacua and solitons," https://arxiv.org/pdf/1110.0918.pdf
-T. Shiromizu, S. Ohashi and R. Suzuki, "A no-go on strictly stationary spacetimes in four/higher dimensions," Phys. Rev. D 86, 064041 (2012) https://arxiv.org/abs/1207.7250
-H. K. Kunduri and J. Lucietti, "No static bubbling spacetimes in higher dimensional Einstein-Maxwell theory," Class. Quant. Grav. 35, no.5, 054003 (2018) https://arxiv.org/abs/1712.02668
-I. Bena and N. P. Warner, "Black holes, black rings and their microstates," Lect. Notes Phys. 755, 1-92 (2008) https://arxiv.org/abs/hep-th/0701216
-H. K. Kunduri and J. Lucietti, "The first law of soliton and black hole mechanics in five dimensions," Class. Quant. Grav. 31, no.3, 032001 (2014) https://arxiv.org/abs/1310.4810
-J. P. Gauntlett, J. B. Gutowski, C. M. Hull, S. Pakis and H. S. Reall, "All supersymmetric solutions of minimal supergravity in five dimensions," Class. Quant. Grav. 20, 4587-4634 (2003). https://arxiv.org/abs/hep-th/0209114
-V. Breunholder and J. Lucietti, "Moduli space of supersymmetric solitons and black holes in five dimensions," Commun. Math. Phys. 365, no.2, 471-513 (2019). https://arxiv.org/abs/1712.07092
-S. F. Ross, "Non-supersymmetric asymptotically AdS5 x S5 smooth geometries," JHEP 01, 130 (2006). https://arxiv.org/abs/hep-th/0511090
-J. B. Gutowski and H. S. Reall, "Supersymmetric AdS5 black holes," JHEP 02, 006 (2004). https://arxiv.org/abs/hep-th/0401042
-J. B. Gutowski and H. S. Reall, "General supersymmetric AdS5 black holes," JHEP 04, 048 (2004). https://arxiv.org/abs/hep-th/0401129
-H. K. Kunduri, J. Lucietti and H. S. Reall, "Supersymmetric multi-charge AdS5 black holes," JHEP 04, 036 (2006). https://arxiv.org/abs/hep-th/0601156
-A. Cabo-Bizet, D. Cassani, D. Martelli and S. Murthy, "Microscopic origin of the Bekenstein-Hawking entropy of supersymmetric AdS5 black holes," JHEP 10, 062 (2019). https://arxiv.org/abs/1810.11442
-S. Choi, J. Kim, S. Kim and J. Nahmgoong, "Large AdS black holes from QFT." https://arxiv.org/abs/1810.12067
-F. Benini and P. Milan, "Black Holes in 4d N=4 Super-Yang-Mills," Phys. Rev. X 10, no.2, 021037 (2020). https://arxiv.org/abs/1812.09613
-A. Zaffaroni, "Lectures on AdS Black Holes, Holography and Localization," Living Rev. Rel. 23, no.1, 2 (2020). https://arxiv.org/abs/1902.07176
-Z. W. Chong, M. Cvetic, H. Lu and C. N. Pope, "General Non-Extremal Rotating Black Holes in Minimal Five-Dimensional Gauged Supergravity," Phys. Rev. Lett. 95, 161301 (2005). https://arxiv.org/abs/hep-th/0506029
-D. Cassani, J. Lorenzen and D. Martelli, "Comments on supersymmetric solutions of minimal gauged supergravity in five dimensions," Class. Quant. Grav. 33, no.11, 115013 (2016). https://arxiv.org/abs/1510.01380
-J. Lucietti and S. G. Ovchinnikov, "Uniqueness of supersymmetric AdS5 black holes with SU(2) symmetry," Class. Quant. Grav. 38, 195019 (2021). https://arxiv.org/abs/2105.08542
-M. Cvetic, G. W. Gibbons, H. Lu and C. N. Pope, "Rotating Black Holes in Gauged Supergravities: Thermodynamics, Supersymmetric Limits, Topological Solitons and Time Machines." https://arxiv.org/abs/hep-th/0504080
-A. Ashtekar and S. Das, "Asymptotically Anti-de Sitter Space-times: Conserved Quantities," Class. Quant. Grav. 17, L17-L30 (2000). https://arxiv.org/abs/hep-th/9911230
-M. Cvetic, M. J. Duff, P. Hoxha, J. T. Liu, H. Lu, J. X. Lu, R. Martinez-Acosta, C. N. Pope, H. Sati and T. A. Tran, "Embedding AdS Black Holes in Ten and Eleven-dimensions," Nucl. Phys. B 558, 96-126 (1999). https://arxiv.org/abs/hep-th/9903214
-F. C. Eperon, H. S. Reall and J. E. Santos, "Instability of supersymmetric microstate geometries," JHEP 10, 031 (2016). https://arxiv.org/abs/1607.06828
-G. W. Gibbons and N. P. Warner, "Global Structure of Five-dimensional BPS Fuzzballs," Class. Quant. Grav. 31, 025016 (2014). https://arxiv.org/abs/1305.0957
-J. Keir, "Evanescent ergosurface instability," Anal. Part. Diff. Eq. 13, No.6, 1833-1896 (2020). https://arxiv.org/abs/1810.03026
-J. Keir, "Slowly Decaying Waves on Spherically Symmetric Spacetimes and Ultracompact Neutron Stars," Class. Quant. Grav. 33, no.13, 135009 (2016). https://arxiv.org/abs/1404.7036
-G. Moschidis, "Logarithmic local energy decay for scalar waves on a general class of asymptotically flat spacetimes," Ann. PDE 2, 5 (2016). https://arxiv.org/abs/1509.08495
-J. Keir, "Wave propagation on microstate geometries," Annales Henri Poincare 21, no.3, 705-760 (2019). https://arxiv.org/abs/1609.01733
-S. Gunasekaran and H. K. Kunduri, "Slow decay of waves in gravitational solitons," Annales Henri Poincare 22, no.3, 821-872 (2021). https://arxiv.org/abs/2007.04283
-G. Holzegel and J. Smulevici, "Decay properties of Klein-Gordon fields on Kerr-AdS spacetimes," Commun. Pure Appl. Math. 66, 1751-1802 (2013). https://arxiv.org/abs/1110.6794
-G. Holzegel and J. Smulevici, "Quasimodes and a Lower Bound on the Uniform Energy Decay Rate for Kerr-AdS Spacetimes," Anal. Part. Diff. Eq. 7, no.5, 1057-1090 (2014). https://arxiv.org/abs/1303.5944
-P. Bizon and A. Rostworowski, "On weakly turbulent instability of anti-de Sitter space," Phys. Rev. Lett. 107, 031102 (2011). https://arxiv.org/abs/1104.3702
-P. Bizon, M. Maliborski and A. Rostworowski, "Resonant dynamics and the instability of anti-de Sitter spacetime," Phys. Rev. Lett. 115, no.8, 081103 (2015). https://arxiv.org/abs/1506.03519
-O. J. C. Dias, G. T. Horowitz and J. E. Santos, "Gravitational Turbulent Instability of Anti-de Sitter Space," Class. Quant. Grav. 29, 194002 (2012). https://arxiv.org/abs/1109.1825
+A. Lichnerowicz, “Théories relativistes de la gravitation et de l'électromagnétisme: relativité générale et théories unitaires (J. Gabay, ed.), 1955.
+G. W. Gibbons, “Supergravity vacua and solitons,” https://arxiv.org/pdf/1110.0918.pdf
+T. Shiromizu, S. Ohashi and R. Suzuki, “A no-go on strictly stationary spacetimes in four/higher dimensions,” Phys. Rev. D 86, 064041 (2012) https://arxiv.org/abs/1207.7250
+H. K. Kunduri and J. Lucietti, “No static bubbling spacetimes in higher dimensional Einstein-Maxwell theory,” Class. Quant. Grav. 35, no.5, 054003 (2018) https://arxiv.org/abs/1712.02668
+I. Bena and N. P. Warner, “Black holes, black rings and their microstates,” Lect. Notes Phys. 755, 1-92 (2008) https://arxiv.org/abs/hep-th/0701216
+H. K. Kunduri and J. Lucietti, “The first law of soliton and black hole mechanics in five dimensions,” Class. Quant. Grav. 31, no.3, 032001 (2014) https://arxiv.org/abs/1310.4810
+J. P. Gauntlett, J. B. Gutowski, C. M. Hull, S. Pakis and H. S. Reall, “All supersymmetric solutions of minimal supergravity in five dimensions,” Class. Quant. Grav. 20, 4587-4634 (2003). https://arxiv.org/abs/hep-th/0209114
+V. Breunholder and J. Lucietti, “Moduli space of supersymmetric solitons and black holes in five dimensions,” Commun. Math. Phys. 365, no.2, 471-513 (2019). https://arxiv.org/abs/1712.07092
+S. F. Ross, “Non-supersymmetric asymptotically AdS5 x S5 smooth geometries,” JHEP 01, 130 (2006). https://arxiv.org/abs/hep-th/0511090
+J. B. Gutowski and H. S. Reall, “Supersymmetric AdS5 black holes,” JHEP 02, 006 (2004). https://arxiv.org/abs/hep-th/0401042
+J. B. Gutowski and H. S. Reall, “General supersymmetric AdS5 black holes,” JHEP 04, 048 (2004). https://arxiv.org/abs/hep-th/0401129
+H. K. Kunduri, J. Lucietti and H. S. Reall, “Supersymmetric multi-charge AdS5 black holes,” JHEP 04, 036 (2006). https://arxiv.org/abs/hep-th/0601156
+A. Cabo-Bizet, D. Cassani, D. Martelli and S. Murthy, “Microscopic origin of the Bekenstein-Hawking entropy of supersymmetric AdS5 black holes,” JHEP 10, 062 (2019). https://arxiv.org/abs/1810.11442
+S. Choi, J. Kim, S. Kim and J. Nahmgoong, “Large AdS black holes from QFT.”f https://arxiv.org/abs/1810.12067
+F. Benini and P. Milan, “Black Holes in 4d N=4 Super-Yang-Mills,” Phys. Rev. X 10, no.2, 021037 (2020). https://arxiv.org/abs/1812.09613
+A. Zaffaroni, “Lectures on AdS Black Holes, Holography and Localization,” Living Rev. Rel. 23, no.1, 2 (2020). https://arxiv.org/abs/1902.07176
+Z. W. Chong, M. Cvetic, H. Lu and C. N. Pope, “General Non-Extremal Rotating Black Holes in Minimal Five-Dimensional Gauged Supergravity,” Phys. Rev. Lett. 95, 161301 (2005). https://arxiv.org/abs/hep-th/0506029
+D. Cassani, J. Lorenzen and D. Martelli, “Comments on supersymmetric solutions of minimal gauged supergravity in five dimensions,” Class. Quant. Grav. 33, no.11, 115013 (2016). https://arxiv.org/abs/1510.01380
+J. Lucietti and S. G. Ovchinnikov, “Uniqueness of supersymmetric AdS5 black holes with SU(2) symmetry,” Class. Quant. Grav. 38, 195019 (2021). https://arxiv.org/abs/2105.08542
+M. Cvetic, G. W. Gibbons, H. Lu and C. N. Pope, “Rotating Black Holes in Gauged Supergravities: Thermodynamics, Supersymmetric Limits, Topological Solitons and Time Machines.” https://arxiv.org/abs/hep-th/0504080
+A. Ashtekar and S. Das, “Asymptotically Anti-de Sitter Space-times: Conserved Quantities,” Class. Quant. Grav. 17, L17-L30 (2000). https://arxiv.org/abs/hep-th/9911230
+M. Cvetic, M. J. Duff, P. Hoxha, J. T. Liu, H. Lu, J. X. Lu, R. Martinez-Acosta, C. N. Pope, H. Sati and T. A. Tran, “Embedding AdS Black Holes in Ten and Eleven-dimensions,” Nucl. Phys. B 558, 96-126 (1999). https://arxiv.org/abs/hep-th/9903214
+F. C. Eperon, H. S. Reall and J. E. Santos, “Instability of supersymmetric microstate geometries,” JHEP 10, 031 (2016). https://arxiv.org/abs/1607.06828
+G. W. Gibbons and N. P. Warner, “Global Structure of Five-dimensional BPS Fuzzballs,” Class. Quant. Grav. 31, 025016 (2014). https://arxiv.org/abs/1305.0957
+J. Keir, “Evanescent ergosurface instability,” Anal. Part. Diff. Eq. 13, No.6, 1833-1896 (2020). https://arxiv.org/abs/1810.03026
+J. Keir, “Slowly Decaying Waves on Spherically Symmetric Spacetimes and Ultracompact Neutron Stars,” Class. Quant. Grav. 33, no.13, 135009 (2016). https://arxiv.org/abs/1404.7036
+G. Moschidis, “Logarithmic local energy decay for scalar waves on a general class of asymptotically flat spacetimes,” Ann. PDE 2, 5 (2016). https://arxiv.org/abs/1509.08495
+J. Keir, “Wave propagation on microstate geometries,” Annales Henri Poincare 21, no.3, 705-760 (2019). https://arxiv.org/abs/1609.01733
+S. Gunasekaran and H. K. Kunduri, “Slow decay of waves in gravitational solitons,” Annales Henri Poincare 22, no.3, 821-872 (2021). https://arxiv.org/abs/2007.04283
+G. Holzegel and J. Smulevici, “Decay properties of Klein-Gordon fields on Kerr-AdS spacetimes,” Commun. Pure Appl. Math. 66, 1751-1802 (2013). https://arxiv.org/abs/1110.6794
+G. Holzegel and J. Smulevici, “Quasimodes and a Lower Bound on the Uniform Energy Decay Rate for Kerr-AdS Spacetimes,” Anal. Part. Diff. Eq. 7, no.5, 1057-1090 (2014). https://arxiv.org/abs/1303.5944
+P. Bizon and A. Rostworowski, “On weakly turbulent instability of anti-de Sitter space,” Phys. Rev. Lett. 107, 031102 (2011). https://arxiv.org/abs/1104.3702
+P. Bizon, M. Maliborski and A. Rostworowski, “Resonant dynamics and the instability of anti-de Sitter spacetime,” Phys. Rev. Lett. 115, no.8, 081103 (2015). https://arxiv.org/abs/1506.03519
+O. J. C. Dias, G. T. Horowitz and J. E. Santos, “Gravitational Turbulent Instability of Anti-de Sitter Space,” Class. Quant. Grav. 29, 194002 (2012). https://arxiv.org/abs/1109.1825

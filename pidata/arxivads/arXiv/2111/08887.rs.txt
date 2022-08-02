@@ -21,7 +21,7 @@ Glover S. C. O., Clark P. C., 2012, MNRAS, 421, 116
 Gnedin N. Y., Hollon N., 2012, ApJS, 202, 13
 Goldsmith P. F., 2001, ApJ, 557, 736
 Habing H. J., 1968, Bull. Astron. Inst. Netherlands, 19, 421
-Haugbolle T., Padoan P., Nordlund A., 2018, ApJ, 854, 35
+Haugbølle T., Padoan P., Nordlund Å., 2018, ApJ, 854, 35
 Jackson J. M., et al., 2013, Publ. Astron. Soc. Australia, 30, e057
 Juvela M., 2019, A&A, 622, A79
 Juvela M., 2020, A&A, 644, A151
@@ -32,8 +32,8 @@ Kong S., 2019, ApJ, 873, 31
 Lada C. J., 1987, in Peimbert M., Jugaku J., eds, Vol. 115, Star Forming Regions. p. 1
 Larson R. B., 1981, MNRAS, 194, 809
 Li S., Zhang Q., Pillai T., Stephens I. W., Wang J., Li F., 2019, arXiv e-prints, p. arXiv:1909.08916
-Lu Z.-J., Pelkonen V.-M., Padoan P., Pan L., Haugbolle T., Nordlund A., 2020, ApJ, 904, 58
-Lu Z.-J., Pelkonen V.-M., Juvela M., Padoan P., Haugbolle T., Nordlund A., 2021, arXiv e-prints, p. arXiv:2108.08981
+Lu Z.-J., Pelkonen V.-M., Padoan P., Pan L., Haugbølle T., Nordlund Å., 2020, ApJ, 904, 58
+Lu Z.-J., Pelkonen V.-M., Juvela M., Padoan P., Haugbølle T., Nordlund Å., 2021, arXiv e-prints, p. arXiv:2108.08981
 Mathis J. S., Mezger P. G., Panagia N., 1983, A&A, 500, 259
 McKee C. F., Tan J. C., 2002, Nature, 416, 59
 McKee C. F., Tan J. C., 2003, ApJ, 585, 850
@@ -43,21 +43,21 @@ Molinari S., et al., 2016, A&A, 591, A149
 Motte F., et al., 2018, Nature Astronomy, 2, 478
 Myers P. C., Fuller G. A., Mathieu R. D., Beichman C. A., Benson P. J., Schild R. E., Emerson J. P., 1987, ApJ, 319, 340
 Ossenkopf V., Henning T., 1994, A&A, 291, 943
-Padoan P., Haugbolle T., Nordlund A., 2014, ApJ, 797, 32
-Padoan P., Pan L., Haugbolle T., Nordlund A., 2016a, ApJ, 822, 11
-Padoan P., Juvela M., Pan L., Haugbolle T., Nordlund A., 2016b, ApJ, 826, 140
-Padoan P., Haugbolle T., Nordlund A., Frimann S., 2017a, ApJ, 840, 48
-Padoan P., Haugbolle T., Nordlund A., Frimann S., 2017b, ApJ, 840, 48
-Padoan P., Pan L., Juvela M., Haugbolle T., Nordlund A., 2020, ApJ, 900, 82
+Padoan P., Haugbølle T., Nordlund Å., 2014, ApJ, 797, 32
+Padoan P., Pan L., Haugbølle T., Nordlund Å., 2016a, ApJ, 822, 11
+Padoan P., Juvela M., Pan L., Haugbølle T., Nordlund Å., 2016b, ApJ, 826, 140
+Padoan P., Haugbølle T., Nordlund Å., Frimann S., 2017a, ApJ, 840, 48
+Padoan P., Haugbølle T., Nordlund Å., Frimann S., 2017b, ApJ, 840, 48
+Padoan P., Pan L., Juvela M., Haugbølle T., Nordlund Å., 2020, ApJ, 900, 82
 Pillai T., Kauffmann J., Zhang Q., Sanhueza P., Leurini S., Wang K., Sridharan T. K., Konig C., 2019, A&A, 622, A54
-Plume R., Jaffe D. T., Evans Neal J. I., Mart in-Pintado J., Gomez-Gonzalez J., 1997, ApJ, 476, 730
+Plume R., Jaffe D. T., Evans Neal J. I., Martín-Pintado J., Gómez-González J., 1997, ApJ, 476, 730
 Rosolowsky E. W., Pineda J. E., Kauffmann J., Goodman A. A., 2008, ApJ, 679, 1338
 Ryabukhina O. L., Zinchenko I. I., 2021, MNRAS, 505, 726
 Salpeter E. E., 1955, ApJ, 121, 161
-Sanhueza P., Jackson J. M., Zhang Q., Guzman A. E., Lu X., Stephens I. W., Wang K., Tatematsu K., 2017, ApJ, 841, 97
+Sanhueza P., Jackson J. M., Zhang Q., Guzmán A. E., Lu X., Stephens I. W., Wang K., Tatematsu K., 2017, ApJ, 841, 97
 Sanhueza P., et al., 2019, arXiv e-prints, p. arXiv:1909.07985
 Schaller G., Schaerer D., Meynet G., Maeder A., 1992, A&AS, 96, 269
-Schoier F. L., van der Tak F. F. S., van Dishoeck E. F., Black J. H., 2005, A&A, 432, 369
+Schöier F. L., van der Tak F. F. S., van Dishoeck E. F., Black J. H., 2005, A&A, 432, 369
 Servajean E., Garay G., Rathborne J., Contreras Y., Gomez L., 2019, ApJ, 878, 146
 Shirley Y. L., 2015, PASP, 127, 299
 Shirley Y. L., Evans Neal J. I., Young K. E., Knez C., Jaffe D. T., 2003, ApJS, 149, 375
@@ -67,7 +67,7 @@ Sridharan T. K., Beuther H., Schilke P., Menten K. M., Wyrowski F., 2002, ApJ, 5
 Svoboda B. E., et al., 2019, arXiv e-prints, p. arXiv:1908.10374
 Teyssier R., 2002, A&A, 385, 337
 Teyssier R., 2007, Geophysical and Astrophysical Fluid Dynamics, 101, 199
-Tige J., et al., 2017, A&A, 602, A77
+Tigé J., et al., 2017, A&A, 602, A77
 Traficante A., Fuller G. A., Billot N., Duarte-Cabral A., Merello M., Molinari S., Peretto N., Schisano E., 2017, MNRAS, 470, 3882
 Traficante A., et al., 2018a, MNRAS, 477, 2220
 Traficante A., Lee Y. N., Hennebelle P., Molinari S., Kauffmann J., Pillai T., 2018b, A&A, 619, L7

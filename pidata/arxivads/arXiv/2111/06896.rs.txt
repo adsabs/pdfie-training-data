@@ -1,4 +1,4 @@
-an, S., Hamuy, M., et al. 2014, ApJ, 786, 67, doi: 10.1088/0004-637X/786/1/67
+Anderson, J. P., González-Gaitán, S., Hamuy, M., et al. 2014, ApJ, 786, 67, doi: 10.1088/0004-637X/786/1/67
 Arendt, R. G., Dwek, E., Kober, G., Rho, J., & Hwang, U. 2014, ApJ, 786, 55, doi: 10.1088/0004-637X/786/1/55
 Arnett, D., Fryxell, B., & Mueller, E. 1989, ApJL, 341, L63, doi: 10.1086/185458
 Arnett, W. D., & Fu, A. 1989, ApJ, 340, 396, doi: 10.1086/167402
@@ -27,8 +27,8 @@ Fransson, C., Chevalier, R. A., Filippenko, A. V., et al. 2002, ApJ, 572, 350, d
 Gall, C., Hjorth, J., Watson, D., et al. 2014, Nature, 511, 326, doi: 10.1038/nature13558
 Gomez, H. L., Krause, O., Barlow, M. J., et al. 2012, ApJ, 760, 96, doi: 10.1088/0004-637X/760/1/96
 Harvey, P., Lester, D., Dinerstein, H., Smith, B., & Colome, C. 1989, in Bulletin of the American Astronomical Society, Vol. 21, 1215
-Hashimoto, T., Laporte, N., Mawatari, K., et al. 2018, Nature, 557, 392, doi: 10.1038/s41586-018-0117-z J
-ager, C., Dorschner, J., Mutschke, H., Posch, T., & Henning, T. 2003, A&A, 408, 193, doi: 10.1051/0004-6361:20030916
+Hashimoto, T., Laporte, N., Mawatari, K., et al. 2018, Nature, 557, 392, doi: 10.1038/s41586-018-0117-z
+Jäger, C., Dorschner, J., Mutschke, H., Posch, T., & Henning, T. 2003, A&A, 408, 193, doi: 10.1051/0004-6361:20030916
 Kotak, R., Meikle, P., van Dyk, S. D., H oflich, P. A., & Mattila, S. 2005, ApJL, 628, L123, doi: 10.1086/432719
 Laporte, N., Ellis, R. S., Boone, F., et al. 2017, ApJL, 837, L21, doi: 10.3847/2041-8213/aa62aa
 Larsson, J., Fransson, C., Kjaer, K., et al. 2013, ApJ, 768, 89, doi: 10.1088/0004-637X/768/1/89
@@ -41,8 +41,8 @@ Matsuura, M., Dwek, E., Barlow, M. J., et al. 2015, ApJ, 800, 50, doi: 10.1088/0
 Meikle, W. P. S., Kotak, R., Farrah, D., et al. 2011, ApJ, 732, 109, doi: 10.1088/0004-637X/732/2/109
 Ott, U., Stephan, T., Hoppe, P., & Savina, M. R. 2019, ApJ, 885, 128, doi: 10.3847/1538-4357/ab41f3
 Owen, P. J., & Barlow, M. J. 2015, ApJ, 801, 141, doi: 10.1088/0004-637X/801/2/141
-Phillips, M. M., Hamuy, M., Heathcote, S. R., Suntzeff, N. B., & Kirhakos, S. 1990, AJ, 99, 1133, doi: 10.1086/115402 Pietrzy
-nski, G., Graczyk, D., Gieren, W., et al. 2013, Nature, 495, 76, doi: 10.1038/nature11878
+Phillips, M. M., Hamuy, M., Heathcote, S. R., Suntzeff, N. B., & Kirhakos, S. 1990, AJ, 99, 1133, doi: 10.1086/115402
+Pietrzyński, G., Graczyk, D., Gieren, W., et al. 2013, Nature, 495, 76, doi: 10.1038/nature11878
 Priestley, F. D., Barlow, M. J., De Looze, I., & Chawner, H. 2020, MNRAS, 491, 6020, doi: 10.1093/mnras/stz3434
 Rho, J., Gomez, H. L., Boogert, A., et al. 2018, MNRAS, 479, 5101, doi: 10.1093/mnras/sty1713
 Sarangi, A., & Cherchneff, I. 2015, A&A, 575, A95, doi: 10.1051/0004-6361/201424969

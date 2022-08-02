@@ -3,8 +3,8 @@ Abdo A. A., et al., 2010b, ApJ, 716, 30
 Abdo A. A., et al., 2010c, ApJ, 716, 835
 Ackermann M., et al., 2010, ApJ, 721, 1383
 Ackermann M., et al., 2014, ApJ, 786, 157
-Aleksic J., et al., 2011, ApJ, 730, L8
-Amaya-Almazan R. A., Chavushyan V., Patino-Alvarez V. M., 2021, ApJ, 906, 5
+Aleksić J., et al., 2011, ApJ, 730, L8
+Amaya-Almazán R. A., Chavushyan V., Patiño-Álvarez V. M., 2021, ApJ, 906, 5
 Angel J. R. P., Stockman H. S., 1980, ARA&A, 18, 321
 Angelakis E., et al., 2016, MNRAS, 463, 3365
 Atwood W. B., et al., 2009, ApJ, 697, 1071
@@ -28,13 +28,13 @@ Carnerero M. I., et al., 2015, MNRAS, 450, 2677
 Casadio C., et al., 2015, ApJ, 813, 51
 Castignani G., et al., 2017, A&A, 601, A30
 Chatterjee R., et al., 2012, ApJ, 749, 191
-Chavushyan V., Patino-Alvarez V. M., Amaya-Almazan R. A., Carrasco L., 2020, ApJ, 891, 68
+Chavushyan V., Patiño-Álvarez V. M., Amaya-Almazán R. A., Carrasco L., 2020, ApJ, 891, 68
 Christie I. M., Petropoulou M., Sironi L., Giannios D., 2019, MNRAS, 482, 65
 Cohen D. P., Romani R. W., Filippenko A. V., Cenko S. B., Lott B., Zheng W., Li W., 2014, ApJ, 797, 137
 D'Ammando F., et al., 2019, MNRAS, 490, 5300
 Fan J. H., Kurtanidze O., Liu Y., Richter G. M., Chanishvili R., Yuan Y. H., 2014, ApJS, 213, 26
 Fan J. H., et al., 2016, ApJS, 226, 20
-Fernandes S., Patino-Alvarez V. M., Chavushyan V., Schlegel E. M., Valdes J. R., 2020, MNRAS, 497, 2066
+Fernandes S., Patiño-Álvarez V. M., Chavushyan V., Schlegel E. M., Valdes J. R., 2020, MNRAS, 497, 2066
 Fossati G., Maraschi L., Celotti A., Comastri A., Ghisellini G., 1998, MNRAS, 299, 433
 Frank J., King A., Raine D. J., 2002, Accretion Power in Astrophysics: Third Edition
 Gaur H., Gupta A. C., Wiita P. J., Uemura M., Itoh R., Sasada M., 2014, ApJ, 781, L4
@@ -83,13 +83,13 @@ Moore R. L., Stockman H. S., 1981, ApJ, 243, 60
 Nieppola E., Valtaoja E., Tornikoski M., Hovatta T., Kotiranta M., 2008, A&A, 488, 867
 Osterman Meyer A., Miller H. R., Marshall K., Ryle W. T., Aller H., Aller M., Balonek T., 2009, AJ, 138, 1902
 Otero-Santos J., et al., 2020, MNRAS, 492, 5524
-Paczynsky B., Wiita P. J., 1980, A&A, 500, 203
+Paczyńsky B., Wiita P. J., 1980, A&A, 500, 203
 Pandey A., Gupta A. C., Wiita P. J., 2017, ApJ, 841, 123
 Pandey A., et al., 2020, ApJ, 890, 72
 Paris I., et al., 2017, A&A, 597, A79
 Pasierb M., et al., 2020, MNRAS, 492, 1295
-Patino-Alvarez V. M., et al., 2018, MNRAS, 479, 2037
-Patino-Alvarez V. M., Dzib S. A., Lobanov A., Chavushyan V., 2019, A&A, 630, A56
+Patiño-Álvarez V. M., et al., 2018, MNRAS, 479, 2037
+Patiño-Álvarez V. M., Dzib S. A., Lobanov A., Chavushyan V., 2019, A&A, 630, A56
 Pauliny-Toth I. I. K., Preuss E., Witzel A., Kellermann K. I., Fomalont E. B., Davis M. M., 1973, A&A, 27, 475
 Prince R., 2020, ApJ, 890, 164
 Prince R., Raman G., Hahn J., Gupta N., Majumdar P., 2018, ApJ, 866, 16

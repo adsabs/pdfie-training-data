@@ -2,18 +2,18 @@ Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, Publications of the Astro
 Barth, A. J., & Shields, J. C. 2000, PASP, 112, 753, doi: 10.1086/316583
 Belfiore, F., Maiolino, R., Maraston, C., et al. 2016, MNRAS, 461, 3111, doi: 10.1093/mnras/stw1234
 Bertola, F., Bettoni, D., Danziger, J., et al. 1991, ApJ, 373, 369, doi: 10.1086/170058
-Binette, L., Magris, C. G., Stasinska, G., & Bruzual, A. G. 1994, A&A, 292, 13
+Binette, L., Magris, C. G., Stasińska, G., & Bruzual, A. G. 1994, A&A, 292, 13
 Bower, G. A., Wilson, A. S., Heckman, T. M., & Richstone, D. O. 1996, AJ, 111, 1901, doi: 10.1086/117928
 Bryant, J. J., Owers, M. S., Robotham, A. S. G., et al. 2015, MNRAS, 447, 2857, doi: 10.1093/mnras/stu2635
 Cappellari, M., & Copin, Y. 2003, MNRAS, 342, 345, doi: 10.1046/j.1365-8711.2003.06541.x
 Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245, doi: 10.1086/167900
 Casasola, V., Combes, F., Bettoni, D., & Galletta, G. 2007, A&A, 473, 771, doi: 10.1051/0004-6361:20077883
 Cheung, E., Bundy, K., Cappellari, M., et al. 2016, Nature, 533, 504, doi: 10.1038/nature18006
-Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2005, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
-Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2011a, STARLIGHT: Spectral Synthesis Code. http://ascl.net/1108.006
-Cid Fernandes, R., Stasinska, G., Mateus, A., & Vale Asari, N. 2011b, MNRAS, 413, 1687, doi: 10.1111/j.1365-2966.2011.18244.x
-Cid Fernandes, R., Perez, E., Garc ia Benito, R., et al. 2013, A&A, 557, A86, doi: 10.1051/0004-6361/201220616
-de Amorim, A. L., Garc ia-Benito, R., Cid Fernandes, R., et al. 2017, MNRAS, 471, 3727, doi: 10.1093/mnras/stx1805
+Cid Fernandes, R., Mateus, A., Sodré, L., Stasińska, G., & Gomes, J. M. 2005, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
+Cid Fernandes, R., Mateus, A., Sodré, L., Stasińska, G., & Gomes, J. M. 2011a, STARLIGHT: Spectral Synthesis Code. http://ascl.net/1108.006
+Cid Fernandes, R., Stasińska, G., Mateus, A., & Vale Asari, N. 2011b, MNRAS, 413, 1687, doi: 10.1111/j.1365-2966.2011.18244.x
+Cid Fernandes, R., Perez, E., García Benito, R., et al. 2013, A&A, 557, A86, doi: 10.1051/0004-6361/201220616
+de Amorim, A. L., García-Benito, R., Cid Fernandes, R., et al. 2017, MNRAS, 471, 3727, doi: 10.1093/mnras/stx1805
 de Blok, W. J. G., Walter, F., Brinks, E., et al. 2008, The Astronomical Journal, 136, 2648, doi: 10.1088/0004-6256/136/6/2648
 de Blok, W. J. G., Walter, F., Ferguson, A. M. N., et al. 2018, ApJ, 865, 26, doi: 10.3847/1538-4357/aad557
 de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference Catalogue of Bright Galaxies
@@ -30,10 +30,10 @@ Ferland, G. J., & Mushotzky, R. F. 1984, ApJ, 286, 42, doi: 10.1086/162574
 Ferland, G. J., & Netzer, H. 1983, ApJ, 264, 105, doi: 10.1086/160577
 Filippenko, A. V., & Terlevich, R. 1992, ApJL, 397, L79, doi: 10.1086/186549
 Freedman, W. L., Madore, B. F., Gibson, B. K., et al. 2001, ApJ, 553, 47, doi: 10.1086/320638
-Garc ia-Benito, R., Zibetti, S., Sanchez, S. F., et al. 2015, A&A, 576, A135, doi: 10.1051/0004-6361/201425080
-Garc ia-Benito, R., Gonzalez Delgado, R. M., Perez, E., et al. 2017, A&A, 608, A27, doi: 10.1051/0004-6361/201731357
-Gonzalez Delgado, R. M., Cervino, M., Martins, L. P., Leitherer, C., & Hauschildt, P. H. 2005, MNRAS, 357, 945, doi: 10.1111/j.1365-2966.2005.08692.x
-Guver, T., & Ozel, F. 2009, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
+García-Benito, R., Zibetti, S., Sánchez, S. F., et al. 2015, A&A, 576, A135, doi: 10.1051/0004-6361/201425080
+García-Benito, R., González Delgado, R. M., Pérez, E., et al. 2017, A&A, 608, A27, doi: 10.1051/0004-6361/201731357
+González Delgado, R. M., Cerviño, M., Martins, L. P., Leitherer, C., & Hauschildt, P. H. 2005, MNRAS, 357, 945, doi: 10.1111/j.1365-2966.2005.08692.x
+Güver, T., & Özel, F. 2009, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
 Halpern, J. P., & Steiner, J. E. 1983, ApJL, 269, L37, doi: 10.1086/184051
 Heckman, T. M. 1980, A&A, 500, 187
 Ho, L. C. 1999, ApJ, 516, 672, doi: 10.1086/307137
@@ -47,7 +47,7 @@ Kewley, L. J., Dopita, M. A., Sutherland, R. S., Heisler, C. A., & Trevena, J. 2
 Li, Z., Li, Z., Zhou, P., et al. 2019, MNRAS, 484, 964, doi: 10.1093/mnras/stz040
 Li, Z., Shen, J., & Kim, W.-T. 2015, ApJ, 806, 150, doi: 10.1088/0004-637X/806/2/150
 Li, Z., Wang, Q. D., & Wakker, B. P. 2009, MNRAS, 397, 148, doi: 10.1111/j.1365-2966.2009.14918.x
-Mart i-Vidal, I., Marcaide, J. M., Alberdi, A., et al. 2011, A&A, 533, A111, doi: 10.1051/0004-6361/201117211
+Martí-Vidal, I., Marcaide, J. M., Alberdi, A., et al. 2011, A&A, 533, A111, doi: 10.1051/0004-6361/201117211
 Molina, M., Eracleous, M., Barth, A. J., et al. 2018, The Astrophysical Journal, 864, 90, doi: 10.3847/1538-4357/aad5ed
 Nemmen, R. S., Storchi-Bergmann, T., & Eracleous, M. 2014, MNRAS, 438, 2804, doi: 10.1093/mnras/stt2388
 Osterbrock, D. E. 1989, Astrophysics of gaseous nebulae and active galactic nuclei
@@ -57,19 +57,19 @@ Peng, C. Y., Ho, L. C., Impey, C. D., & Rix, H.-W. 2002, The Astronomical Journa
 Proxauf, B., Ottl, S., & Kimeswenger, S. 2014, A&A, 561, A10, doi: 10.1051/0004-6361/201322581
 Ricci, T. V., Steiner, J. E., & Giansante, L. 2015a, A&A, 576, A58, doi: 10.1051/0004-6361/201425504
 Ricci, T. V., Steiner, J. E., & Menezes, R. B. 2015b, MNRAS, 451, 3728, doi: 10.1093/mnras/stv1156
-Rodr iguez del Pino, B., Arribas, S., Piqueras Lopez, J., Villar-Mart in, M., & Colina, L. 2019, MNRAS, 486, 344, doi: 10.1093/mnras/stz816
+Rodríguez del Pino, B., Arribas, S., Piqueras Lopez, J., Villar-Martín, M., & Colina, L. 2019, MNRAS, 486, 344, doi: 10.1093/mnras/stz816
 Salpeter, E. E. 1955, ApJ, 121, 161, doi: 10.1086/145971
-Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
-Sanchez, S. F., Garc ia-Benito, R., Zibetti, S., et al. 2016, A&A, 594, A36, doi: 10.1051/0004-6361/201628661
+Sánchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
+Sánchez, S. F., García-Benito, R., Zibetti, S., et al. 2016, A&A, 594, A36, doi: 10.1051/0004-6361/201628661
 Sarzi, M., Shields, J. C., Schawinski, K., et al. 2010, MNRAS, 402, 2187, doi: 10.1111/j.1365-2966.2009.16039.x
-Schnorr Muller, A., Storchi-Bergmann, T., Riffel, R. A., et al. 2011, MNRAS, 413, 149, doi: 10.1111/j.1365-2966.2010.18116.x
-Schodel, R., Krips, M., Markoff, S., Neri, R., & Eckart, A. 2007, A&A, 463, 551, doi: 10.1051/0004-6361:20066383
-Sersic, J. L. 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
+Schnorr Müller, A., Storchi-Bergmann, T., Riffel, R. A., et al. 2011, MNRAS, 413, 149, doi: 10.1111/j.1365-2966.2010.18116.x
+Schödel, R., Krips, M., Markoff, S., Neri, R., & Eckart, A. 2007, A&A, 463, 551, doi: 10.1051/0004-6361:20066383
+Sérsic, J. L. 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
 Shi, F., Li, Z., Yuan, F., & Zhu, B. 2021, Nature Astronomy, 5, 928, doi: 10.1038/s41550-021-01394-0
 Singh, R., van de Ven, G., Jahnke, K., et al. 2013, A&A, 558, A43, doi: 10.1051/0004-6361/201322062
 Smercina, A., Bell, E. F., Price, P. A., et al. 2020, ApJ, 905, 60, doi: 10.3847/1538-4357/abc485
 Soto, K. T., Martin, C. L., Prescott, M. K. M., & Armus, L. 2012, 757, 86, doi: 10.1088/0004-637x/757/1/86
-Stasinska, G., Vale Asari, N., Cid Fernandes, R., et al. 2008, MNRAS, 391, L29, doi: 10.1111/j.1745-3933.2008.00550.x
+Stasińska, G., Vale Asari, N., Cid Fernandes, R., et al. 2008, MNRAS, 391, L29, doi: 10.1111/j.1745-3933.2008.00550.x
 Steiner, J. E., Menezes, R. B., Ricci, T. V., & Oliveira, A. S. 2009, MNRAS, 395, 64, doi: 10.1111/j.1365-2966.2009.14530.x
 Vazdekis, A., Coelho, P., Cassisi, S., et al. 2015, MNRAS, 449, 1177, doi: 10.1093/mnras/stv151
 Walsh, J. L., Barth, A. J., Ho, L. C., et al. 2008, AJ, 136, 1677, doi: 10.1088/0004-6256/136/4/1677

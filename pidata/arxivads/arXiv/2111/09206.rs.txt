@@ -5,7 +5,7 @@ Ballard K. R., Heavens A. F., 1991, MNRAS, 251, 438
 Begelman M. C., Kirk J. G., 1990, ApJ, 353, 66
 Beloborodov A. M., 2017, ApJ, 843, L26
 Beloborodov A. M., 2020, ApJ, 896, 142
-Blandford R. D., Konigl A., 1979, ApJ, 232, 34
+Blandford R. D., Königl A., 1979, ApJ, 232, 34
 Blandford R. D., McKee C. F., 1976, Physics of Fluids, 19, 1130
 Bret A., 2020, ApJ, 900, 111
 Deng W., Zhang B., Li H., Stone J. M., 2017, ApJ, 845, L3
@@ -19,7 +19,7 @@ Gill R., Granot J., Kumar P., 2020, MNRAS, 491, 3343
 Gill R., Kole M., Granot J., 2021, arXiv, p. 2109.03286
 Goedbloed J. P., Keppens R., Poedts S., 2010, Advanced Magnetohydrodynamics. Cambridge University Press, New York
 Goodman J., 1986, ApJ, 308, L47
-Granot J., Konigl A., 2003, ApJ, 594, L83
+Granot J., Königl A., 2003, ApJ, 594, L83
 Granot J., Piran T., Bromberg O., Racusin J. L., Daigne F., 2015, Space Sci. Rev., 191, 471
 Harrison R., Kobayashi S., 2013, ApJ, 772, 101
 Huang X.-L., Xin L.-P., Yi S.-X., Zhong S.-Q., Qiu Y.-L., Deng J.-S., Wei J.-Y., Liang E.-W., 2016, ApJ, 833, 100
@@ -40,7 +40,7 @@ Lyubarsky Y., 2014, MNRAS, 442, L9
 Lyutikov M., Blandford R., 2003, arXiv, pp astro-ph/0312347
 Majorana A., Anile A. M., 1987, Physics of Fluids, 30, 3045
 Medvedev M. V., Loeb A., 1999, ApJ, 526, 697
-Meszaros P., Rees M. J., 1997, ApJ, 482, L29
+Mészáros P., Rees M. J., 1997, ApJ, 482, L29
 Metzger B. D., Margalit B., Sironi L., 2019, MNRAS, 485, 4091
 Mimica P., Aloy M. A., 2010, MNRAS, 401, 525
 Mimica P., Aloy M. A., Muller E., 2007, A&A, 466, 93
@@ -53,7 +53,7 @@ Nimmo K., et al., 2021, Nature Astronomy, 5, 594
 Paczynski B., 1986, ApJ, 308, L43
 Plotnikov I., Sironi L., 2019, MNRAS, 485, 3816
 Plotnikov I., Grassi A., Grech M., 2018, MNRAS, 477, 5238
-Rees M. J., Meszaros P., 1992, MNRAS, 258, 41
+Rees M. J., Mészáros P., 1992, MNRAS, 258, 41
 Rezzolla L., Zanotti O., 2013, Relativistic Hydrodynamics. Oxford University Press, New York
 Romero R., Marti J. M., Pons J. A., Ibanez J. M., Miralles J. A., 2005, Journal of Fluid Mechanics, 544, 323
 Santana R., Barniol Duran R., Kumar P., 2014, ApJ, 785, 29
@@ -72,12 +72,12 @@ Summerlin E. J., Baring M. G., 2012, ApJ, 745, 63
 Teboul O., Shaviv N. J., 2021, MNRAS, 507, 5340
 Thompson C., 1994, MNRAS, 270, 480
 Usov V. V., 1994, MNRAS, 267, 1035
-Vlahakis N., Konigl A., 2003, ApJ, 596, 1080
+Vlahakis N., Königl A., 2003, ApJ, 596, 1080
 Webb G. M., Zank G. P., McKenzie J. F., 1987, Journal of Plasma Physics, 37, 117
 Yu Y.-W., Zou Y.-C., Dai Z.-G., Yu W.-F., 2021, MNRAS, 500, 2704
 Zhang B., 2018, The Physics of Gamma-Ray Bursts. Cambridge University Press, New York
 Zhang B., 2020, Nature, 587, 45
 Zhang B., Kobayashi S., 2005, ApJ, 628, 315
 Zhang B., Yan H., 2011, ApJ, 726, 90
-Zhang B., Kobayashi S., Meszaros P., 2003, ApJ, 595, 950
+Zhang B., Kobayashi S., Mészáros P., 2003, ApJ, 595, 950
 de Hoffmann F., Teller E., 1950, Physical Review, 80, 692

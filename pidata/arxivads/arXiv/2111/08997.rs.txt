@@ -1,7 +1,7 @@
 Abbott T. M., et al., 2000, in Iye M., Moorwood A. F., eds, Proc. SPIE Vol. 4008, Optical and IR Telescope Instrumentation and Detectors. pp 714-719, doi:10.1117/12.395528
 Arnaud K. A., 1996, in Jacoby G. H., Barnes J., eds, ASP Conf. Ser. Vol. 101, Astronomical Data Analysis Software and Systems V. p. 17
 Bailer-Jones C. A. L., Rybizki J., Fouesneau M., Demleitner M., Andrae R., 2021, AJ, 161, 147
-Bissinger M., 2016, PhD Thesis, Friedrich-Alexander-Universitat Erlangen-Nurnberg
+Bissinger M., 2016, PhD Thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg
 Boldin P. A., Tsygankov S. S., Lutovinov A. A., 2013, Astronomy Letters, 39, 375
 Buckley D. A. H., Swart G. P., Meiring J. G., 2006, in Ground-based and Airborne Telescopes. p. 62670Z, doi:10.1117/12.673750
 Burgh E. B., Nordsieck K. H., Kobulnicky H. A., Williams T. B., O'Donoghue D., Smith M. P., Percival J. W., 2003, in Iye M., Moorwood A. F. M., eds, Proc. SPIE Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes. pp 1463-1471, doi:10.1117/12.460312
@@ -16,7 +16,7 @@ Dougherty S. M., Taylor A. R., 1994, MNRAS, 269, 1123
 Evans P. A., et al., 2009, MNRAS, 397, 1177
 Filippova E. V., Tsygankov S. S., Lutovinov A. A., Sunyaev R. A., 2005, Astronomy Letters, 31, 729
 Finger M. H., Jenke P. A., Wilson-Hodge C., 2015, The Astronomer's Telegram, 7045, 1
-Foight D. R., Guver T., Ozel F., Slane P. O., 2016, ApJ, 826, 66
+Foight D. R., Guver T., Özel F., Slane P. O., 2016, ApJ, 826, 66
 Goad M. R., et al., 2007, A&A, 476, 1401
 HI4PI Collaboration et al., 2016, A&A, 594, A116
 Hanson M. M., Conti P. S., Rieke M. J., 1996, ApJS, 107, 281
@@ -26,14 +26,14 @@ Illarionov A. F., Sunyaev R. A., 1975, A&A, 39, 185
 Kaastra J. S., Bleeker J. A. M., 2016, A&A, 587, A151
 Karasev D. I., Tsygankov S. S., Lutovinov A. A., 2015, Astronomy Letters, 41, 394
 Krimm H. A., et al., 2015, The Astronomer's Telegram, 7037, 1
-Kuhnel M., et al., 2016, Acta Polytechnica, 56, 41
+Kühnel M., et al., 2016, Acta Polytechnica, 56, 41
 Li K. L., Kong A. K. H., 2015, The Astronomer's Telegram, 7067, 1
 Lutovinov A. A., Tsygankov S. S., 2009, Astronomy Letters, 35, 433
 Malyshev D., Gotz C. F. D., 2015, The Astronomer's Telegram, 7425, 1
 Marshall F. E., in 't Zand J. J. M., Strohmayer T., Markwardt C. B., 1999, IAU Circ., 7240, 2
 Molkov S., Lutovinov A., Tsygankov S., Mereminskiy I., Mushtukov A., 2019, ApJ, 883, L11
 Molkov S., Doroshenko V., Lutovinov A., Tsygankov S., Santangelo A., Mereminskiy I., Semena A., 2021, ApJ, 915, L27
-Nabizadeh A., Tsygankov S. S., Karasev D. I., Monkkonen J., Lutovinov A. A., Nagirner D. I., Poutanen J., 2019, A&A, 622, A198
+Nabizadeh A., Tsygankov S. S., Karasev D. I., Mönkkönen J., Lutovinov A. A., Nagirner D. I., Poutanen J., 2019, A&A, 622, A198
 Negoro H., et al., 2015, The Astronomer's Telegram, 7034, 1
 Romano P., Sidoli L., Mangano V., Mereghetti S., 2007, The Astronomer's Telegram, 1287, 1
 Staubert R., et al., 2019, A&A, 622, A61

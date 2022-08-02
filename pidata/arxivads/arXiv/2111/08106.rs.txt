@@ -1,7 +1,7 @@
 Alpert, S. E., Tiwari, S. K., Moore, R. L., Winebarger, A. R., & Savage, S. L. 2016, ApJ, 822, 35
 Aschwanden, M. J., Nightingale, R. W., Tarbell, T. D., & Wolfson, C. J. 2000a, ApJ, 535, 1027
 Aschwanden, M. J., Tarbell, T. D., Nightingale, R. W., et al. 2000b, ApJ, 535, 1047
-Berghmans, D., Auchere, F., Long, D. M., et al. 2021, arXiv e-prints, arXiv:2104.03382
+Berghmans, D., Auchère, F., Long, D. M., et al. 2021, arXiv e-prints, arXiv:2104.03382
 Berghmans, D. & Clette, F. 1999, Sol. Phys., 186, 207
 Berghmans, D., Clette, F., & Moses, D. 1998, A&A, 336, 1039
 Brosius, J. W. & Holman, G. D. 2009, ApJ, 692, 492
@@ -27,11 +27,11 @@ Madjarska, M. S. 2019, Living Reviews in Solar Physics, 16, 2
 Madjarska, M. S., Doyle, J. G., Teriaca, L., & Banerjee, D. 2003, A&A, 398, 775
 Mandal, S., Yuan, D., Fang, X., et al. 2016, ApJ, 828, 72
 Milligan, R. O., Gallagher, P. T., Mathioudakis, M., & Keenan, F. P. 2006, ApJ, 642, L169
-Muller, D., St. Cyr, O. C., Zouganelis, I., et al. 2020, A&A, 642, A1
+Müller, D., St. Cyr, O. C., Zouganelis, I., et al. 2020, A&A, 642, A1
 Panesar, N. K., Tiwari, S. K., Berghmans, D., et al. 2021, arXiv e-prints, arXiv:2110.06846
 Peter, H., Tian, H., Curdt, W., et al. 2014, Science, 346, 1255726, doi:10.1126/science.1255726
 Rachmeler, L. A., Winebarger, A. R., Savage, S. L., et al. 2019, Sol. Phys., 294, 174
-Rochus, P., Auchere, F., Berghmans, D., et al. 2020, A&A, 642, A8
+Rochus, P., Auchère, F., Berghmans, D., et al. 2020, A&A, 642, A8
 Solanki, S. K., del Toro Iniesta, J. C., Woch, J., et al. 2020, A&A, 642, A11
 Spice Consortium, Anderson, M., Appourchaux, T., et al. 2020, A&A, 642, A14
 Tian, H., Kleint, L., Peter, H., et al. 2014, ApJ, 790, L29
@@ -40,4 +40,4 @@ Winebarger, A. R., Walsh, R. W., Moore, R., et al. 2013, ApJ, 771, 21
 Young, P. R., Tian, H., Peter, H., et al. 2018, Space Sci. Rev., 214, 120
 Zacharias, P., Peter, H., & Bingert, S. 2011, A&A, 532, A112
 Zhang, Q. M., Chen, P. F., Guo, Y., Fang, C., & Ding, M. D. 2012, ApJ, 746, 19
-Zhukov, A. N., Mierla, M., Auchere, F., et al. 2021, arXiv e-prints, arXiv:2109.02169
+Zhukov, A. N., Mierla, M., Auchère, F., et al. 2021, arXiv e-prints, arXiv:2109.02169
