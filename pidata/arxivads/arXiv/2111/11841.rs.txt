@@ -1,86 +1,86 @@
-Asseo, E. & Melikidze, G. I. 1998,, MNRAS, 301, 59. doi:10.1046/j.1365-8711.1998.01990.x
-Beloborodov, A. M. 2020,, ApJ, 896, 142. doi:10.3847/1538-4357/ab83eb
+Asseo, E. & Melikidze, G. I. 1998, MNRAS, 301, 59. doi:10.1046/j.1365-8711.1998.01990.x
+Beloborodov, A. M. 2020, ApJ, 896, 142. doi:10.3847/1538-4357/ab83eb
 Beloborodov, A. M. 2021, arXiv:2108.07881
 Bilous, A. V., Griessmeier, J. M., Pennucci, T., et al. 2021, arXiv:2109.08500
 Benacek, J., Munoz, P. A., & Buchner, J. 2021, arXiv:2106.13525
-Bochenek, C. D., Ravi, V., Belov, K. V., et al. 2020,, Nature, 587, 59. doi:10.1038/s41586-020-2872-x
-Caleb, M., Stappers, B. W., Abbott, T. D., et al. 2020,, MNRAS, 496, 4565. doi:10.1093/mnras/staa1791
-Chamma, M. A., Rajabi, F., Wyenberg, C. M., et al. 2021,, MNRAS, 507, 246. doi:10.1093/mnras/stab2070
-Chatterjee, S., Law, C. J., Wharton, R. S., et al. 2017,, Nature, 541, 58. doi:10.1038/nature20797
-Chawla, P., Andersen, B. C., Bhardwaj, M., et al. 2020,, ApJ, 896, L41. doi:10.3847/2041-8213/ab96bf
-Cheng, A. F. & Ruderman, M. A. 1977,, ApJ, 212, 800. doi:10.1086/155105
-CHIME/FRB Collaboration, Amiri, M., Bandura, K., et al. 2019,, Nature, 566, 235. doi:10.1038/s41586-018-0864-x
-CHIME/FRB Collaboration, Andersen, B. C., Bandura, K., et al. 2019,, ApJ, 885, L24. doi:10.3847/2041-8213/ab4a80
-Chime/Frb Collaboration, Amiri, M., Andersen, B. C., et al. 2020,, Nature, 582, 351. doi:10.1038/s41586-020-2398-2
-CHIME/FRB Collaboration, Andersen, B. C., Bandura, K. M., et al. 2020,, Nature, 587, 54. doi:10.1038/s41586-020-2863-y
+Bochenek, C. D., Ravi, V., Belov, K. V., et al. 2020, Nature, 587, 59. doi:10.1038/s41586-020-2872-x
+Caleb, M., Stappers, B. W., Abbott, T. D., et al. 2020, MNRAS, 496, 4565. doi:10.1093/mnras/staa1791
+Chamma, M. A., Rajabi, F., Wyenberg, C. M., et al. 2021, MNRAS, 507, 246. doi:10.1093/mnras/stab2070
+Chatterjee, S., Law, C. J., Wharton, R. S., et al. 2017, Nature, 541, 58. doi:10.1038/nature20797
+Chawla, P., Andersen, B. C., Bhardwaj, M., et al. 2020, ApJ, 896, L41. doi:10.3847/2041-8213/ab96bf
+Cheng, A. F. & Ruderman, M. A. 1977, ApJ, 212, 800. doi:10.1086/155105
+CHIME/FRB Collaboration, Amiri, M., Bandura, K., et al. 2019, Nature, 566, 235. doi:10.1038/s41586-018-0864-x
+CHIME/FRB Collaboration, Andersen, B. C., Bandura, K., et al. 2019, ApJ, 885, L24. doi:10.3847/2041-8213/ab4a80
+Chime/Frb Collaboration, Amiri, M., Andersen, B. C., et al. 2020, Nature, 582, 351. doi:10.1038/s41586-020-2398-2
+CHIME/FRB Collaboration, Andersen, B. C., Bandura, K. M., et al. 2020, Nature, 587, 54. doi:10.1038/s41586-020-2863-y
 The CHIME/FRB Collaboration, :, Amiri, M., et al. 2021, arXiv:2106.04352
-Cho, H., Macquart, J.-P., Shannon, R. M., et al. 2020,, ApJ, 891, L38. doi:10.3847/2041-8213/ab7824
-Cooper, A. J. & Wijers, R. A. M. J. 2021a,, MNRAS, 508, L32. doi:10.1093/mnrasl/slab099
+Cho, H., Macquart, J.-P., Shannon, R. M., et al. 2020, ApJ, 891, L38. doi:10.3847/2041-8213/ab7824
+Cooper, A. J. & Wijers, R. A. M. J. 2021a, MNRAS, 508, L32. doi:10.1093/mnrasl/slab099
 Cooper, A. J. & Wijers, R. A. M. J. 2021b, arXiv:2110.15244
 Cordes, J. M. & Chatterjee, S. 2019, ARA&A, 57, 417. doi:10.1146/annurev-astro-091918-104501
 Cordes, J. M., Ocker, S. K., & Chatterjee, S. 2021, arXiv:2108.01172
-Cordes, J. M., Wasserman, I., Hessels, J. W. T., et al. 2017,, ApJ, 842, 35. doi:10.3847/1538-4357/aa74da
+Cordes, J. M., Wasserman, I., Hessels, J. W. T., et al. 2017, ApJ, 842, 35. doi:10.3847/1538-4357/aa74da
 Dai, S., Lu, J., Wang, C., et al. 2020, arXiv:2011.03960
-Day, C. K., Deller, A. T., Shannon, R. M., et al. 2020,, MNRAS, 497, 3335. doi:10.1093/mnras/staa2138
-Deng, W. & Zhang, B. 2014,, ApJ, 783, L35. doi:10.1088/2041-8205/783/2/L35
+Day, C. K., Deller, A. T., Shannon, R. M., et al. 2020, MNRAS, 497, 3335. doi:10.1093/mnras/staa2138
+Deng, W. & Zhang, B. 2014, ApJ, 783, L35. doi:10.1088/2041-8205/783/2/L35
 Elsaesser, K. & Kirk, J. 1976, A&A, 52, 449
-Fonseca, E., Andersen, B. C., Bhardwaj, M., et al. 2020,, ApJ, 891, L6. doi:10.3847/2041-8213/ab7208
-Gajjar, V., Siemion, A. P. V., Price, D. C., et al. 2018,, ApJ, 863, 2. doi:10.3847/1538-4357/aad005
-Gangadhara, R. T., Han, J. L., & Wang, P. F. 2021,, ApJ, 911, 152. doi:10.3847/1538-4357/abe714
+Fonseca, E., Andersen, B. C., Bhardwaj, M., et al. 2020, ApJ, 891, L6. doi:10.3847/2041-8213/ab7208
+Gajjar, V., Siemion, A. P. V., Price, D. C., et al. 2018, ApJ, 863, 2. doi:10.3847/1538-4357/aad005
+Gangadhara, R. T., Han, J. L., & Wang, P. F. 2021, ApJ, 911, 152. doi:10.3847/1538-4357/abe714
 Ghisellini, G. & Locatelli, N. 2018, A&A, 613, A61. doi:10.1051/0004-6361/201731820
-Gil, J., Lyubarsky, Y., & Melikidze, G. I. 2004,, ApJ, 600, 872. doi:10.1086/379972
-Goldreich, P. & Julian, W. H. 1969,, ApJ, 157, 869. doi:10.1086/150119
-Hilmarsson, G. H., Michilli, D., Spitler, L. G., et al. 2021a,, ApJ, 908, L10. doi:10.3847/2041-8213/abdec0
-Hilmarsson, G. H., Spitler, L. G., Main, R. A., et al. 2021,, MNRAS, 508, 5354. doi:10.1093/mnras/stab2936
-Hessels, J. W. T., Spitler, L. G., Seymour, A. D., et al. 2019,, ApJ, 876, L23. doi:10.3847/2041-8213/ab13ae
-Ioka, K. 2020,, ApJ, 904, L15. doi:10.3847/2041-8213/abc6a3
+Gil, J., Lyubarsky, Y., & Melikidze, G. I. 2004, ApJ, 600, 872. doi:10.1086/379972
+Goldreich, P. & Julian, W. H. 1969, ApJ, 157, 869. doi:10.1086/150119
+Hilmarsson, G. H., Michilli, D., Spitler, L. G., et al. 2021a, ApJ, 908, L10. doi:10.3847/2041-8213/abdec0
+Hilmarsson, G. H., Spitler, L. G., Main, R. A., et al. 2021, MNRAS, 508, 5354. doi:10.1093/mnras/stab2936
+Hessels, J. W. T., Spitler, L. G., Seymour, A. D., et al. 2019, ApJ, 876, L23. doi:10.3847/2041-8213/ab13ae
+Ioka, K. 2020, ApJ, 904, L15. doi:10.3847/2041-8213/abc6a3
 Jackson, J. D. 1998, Classical Electrodynamics, 3rd Edition, by John David Jackson, pp. 832. ISBN 0-471-30932-X. Wiley-VCH , July 1998., 832
-Josephy, A., Chawla, P., Fonseca, E., et al. 2019,, ApJ, 882, L18. doi:10.3847/2041-8213/ab2c00
+Josephy, A., Chawla, P., Fonseca, E., et al. 2019, ApJ, 882, L18. doi:10.3847/2041-8213/ab2c00
 Katz, J. I. 2014, Phys. Rev. D, 89, 103009. doi:10.1103/PhysRevD.89.103009
-Katz, J. I. 2018,, MNRAS, 481, 2946. doi:10.1093/mnras/sty2459
-Kumar, P., Lu, W., & Bhattacharya, M. 2017,, MNRAS, 468, 2726. doi:10.1093/mnras/stx665
-Kumar, P. & Bosnjak, Z. 2020,, MNRAS, 494, 2385. doi:10.1093/mnras/staa774
+Katz, J. I. 2018, MNRAS, 481, 2946. doi:10.1093/mnras/sty2459
+Kumar, P., Lu, W., & Bhattacharya, M. 2017, MNRAS, 468, 2726. doi:10.1093/mnras/stx665
+Kumar, P. & Bosnjak, Z. 2020, MNRAS, 494, 2385. doi:10.1093/mnras/staa774
 Kumar, P., Shannon, R. M., Lower, M. E., et al. 2021, arXiv:2109.11535
 Kundu, E. & Zhang, B. 2021, MNRAS. doi:10.1093/mnrasl/slab091
 Li, D., Wang, P., Zhu, W. W., et al. 2021, arXiv:2107.08205
-Liu, Z.-N., Wang, W.-Y., Yang, Y.-P., et al. 2020,, ApJ, 905, 140. doi:10.3847/1538-4357/abc55c
+Liu, Z.-N., Wang, W.-Y., Yang, Y.-P., et al. 2020, ApJ, 905, 140. doi:10.3847/1538-4357/abc55c
 Lorimer, D. R. & Kramer, M. 2012, Handbook of Pulsar Astronomy, by D. R. Lorimer , M. Kramer, Cambridge, UK: Cambridge University Press, 2012
 Lorimer, D. R., Bailes, M., McLaughlin, M. A., et al. 2007, Science, 318, 777. doi:10.1126/science.1147532, doi:10.1126/science.1147532
-Low, B. C. & Lou, Y. Q. 1990,, ApJ, 352, 343. doi:10.1086/168541
-Lu, W. & Kumar, P. 2018,, MNRAS, 477, 2470. doi:10.1093/mnras/sty716
-Lu, W., Kumar, P., & Zhang, B. 2020,, MNRAS, 498, 1397. doi:10.1093/mnras/staa2450
-Luo, R., Wang, B. J., Men, Y. P., et al. 2020,, Nature, 586, 693. doi:10.1038/s41586-020-2827-2
-Margalit, B., Beniamini, P., Sridhar, N., et al. 2020,, ApJ, 899, L27. doi:10.3847/2041-8213/abac57
-Melikidze, G. I., Gil, J. A., & Pataraya, A. D. 2000,, ApJ, 544, 1081. doi:10.1086/317220
+Low, B. C. & Lou, Y. Q. 1990, ApJ, 352, 343. doi:10.1086/168541
+Lu, W. & Kumar, P. 2018, MNRAS, 477, 2470. doi:10.1093/mnras/sty716
+Lu, W., Kumar, P., & Zhang, B. 2020, MNRAS, 498, 1397. doi:10.1093/mnras/staa2450
+Luo, R., Wang, B. J., Men, Y. P., et al. 2020, Nature, 586, 693. doi:10.1038/s41586-020-2827-2
+Margalit, B., Beniamini, P., Sridhar, N., et al. 2020, ApJ, 899, L27. doi:10.3847/2041-8213/abac57
+Melikidze, G. I., Gil, J. A., & Pataraya, A. D. 2000, ApJ, 544, 1081. doi:10.1086/317220
 Melrose, D. B. 2017, Reviews of Modern Plasma Physics, 1, 5. doi:10.1007/s41614-017-0007-0
-Metzger, B. D., Margalit, B., & Sironi, L. 2019,, MNRAS, 485, 4091. doi:10.1093/mnras/stz700
-Michilli, D., Seymour, A., Hessels, J. W. T., et al. 2018,, Nature, 553, 182. doi:10.1038/nature25149
+Metzger, B. D., Margalit, B., & Sironi, L. 2019, MNRAS, 485, 4091. doi:10.1093/mnras/stz700
+Michilli, D., Seymour, A., Hessels, J. W. T., et al. 2018, Nature, 553, 182. doi:10.1038/nature25149
 Nimmo, K., Hessels, J. W. T., Keimpema, A., et al. 2021, Nature Astronomy, 5, 594. doi:10.1038/s41550-021-01321-3
 Niu, C.-H., Aggarwal, K., Li, D., et al. 2021, arXiv:2110.07418
 Pastor-Marazuela, I., Connor, L., van Leeuwen, J., et al. 2020, arXiv:2012.08348
 Petroff, E., Hessels, J. W. T., & Lorimer, D. R. 2019, A&A Rev., 27, 4. doi:10.1007/s00159-019-0116-6
 Philippov, A., Timokhin, A., & Spitkovsky, A. 2020, Phys. Rev. Lett., 124, 245101. doi:10.1103/PhysRevLett.124.245101
 Platts, E., Weltman, A., Walters, A., et al. 2019, Phys. Rep., 821, 1. doi:10.1016/j.physrep.2019.06.003
-Platts, E., Caleb, M., Stappers, B. W., et al. 2021,, MNRAS, 505, 3041. doi:10.1093/mnras/stab1544
+Platts, E., Caleb, M., Stappers, B. W., et al. 2021, MNRAS, 505, 3041. doi:10.1093/mnras/stab1544
 Pleunis, Z., Good, D. C., Kaspi, V. M., et al. 2021, arXiv:2106.04356
-Pol, N., Lam, M. T., McLaughlin, M. A., et al. 2019,, ApJ, 886, 135. doi:10.3847/1538-4357/ab4c2f
+Pol, N., Lam, M. T., McLaughlin, M. A., et al. 2019, ApJ, 886, 135. doi:10.3847/1538-4357/ab4c2f
 Radhakrishnan, V. & Cooke, D. J. 1969, Astrophys. Lett., 3, 225
-Rajabi, F., Chamma, M. A., Wyenberg, C. M., et al. 2020,, MNRAS, 498, 4936. doi:10.1093/mnras/staa2723
-Ruderman, M. A. & Sutherland, P. G. 1975,, ApJ, 196, 51. doi:10.1086/153393 (RS75)
+Rajabi, F., Chamma, M. A., Wyenberg, C. M., et al. 2020, MNRAS, 498, 4936. doi:10.1093/mnras/staa2723
+Ruderman, M. A. & Sutherland, P. G. 1975, ApJ, 196, 51. doi:10.1086/153393 (RS75)
 Rybicki, G. B. & Lightman, A. P. 1979, A Wiley-Interscience Publication, New York: Wiley, 1979
-Simard, D. & Ravi, V. 2020,, ApJ, 899, L21. doi:10.3847/2041-8213/abaa40
-Spitler, L. G., Scholz, P., Hessels, J. W. T., et al. 2016,, Nature, 531, 202. doi:10.1038/nature17168
-Sturrock, P. A., Petrosian, V., & Turk, J. S. 1975,, ApJ, 196, 73. doi:10.1086/153394
-Usov, V. V. 1987,, ApJ, 320, 333. doi:10.1086/165546
-Wang, J.-S. & Lai, D. 2020,, ApJ, 892, 135. doi:10.3847/1538-4357/ab7dbf
-Wang, W., Zhang, B., Chen, X., et al. 2019,, ApJ, 876, L15. doi:10.3847/2041-8213/ab1aab
-Wang, W.-Y., Xu, R., & Chen, X. 2020,, ApJ, 899, 109. doi:10.3847/1538-4357/aba268
+Simard, D. & Ravi, V. 2020, ApJ, 899, L21. doi:10.3847/2041-8213/abaa40
+Spitler, L. G., Scholz, P., Hessels, J. W. T., et al. 2016, Nature, 531, 202. doi:10.1038/nature17168
+Sturrock, P. A., Petrosian, V., & Turk, J. S. 1975, ApJ, 196, 73. doi:10.1086/153394
+Usov, V. V. 1987, ApJ, 320, 333. doi:10.1086/165546
+Wang, J.-S. & Lai, D. 2020, ApJ, 892, 135. doi:10.3847/1538-4357/ab7dbf
+Wang, W., Zhang, B., Chen, X., et al. 2019, ApJ, 876, L15. doi:10.3847/2041-8213/ab1aab
+Wang, W.-Y., Xu, R., & Chen, X. 2020, ApJ, 899, 109. doi:10.3847/1538-4357/aba268
 Xu, H., Niu, J. R., Chen, P., et al. 2021, arXiv:2111.11764
-Yang, Y.-P. & Zhang, B. 2018,, ApJ, 868, 31. doi:10.3847/1538-4357/aae685
-Yang, Y.-P., Zhang, B., & Wei, J.-Y. 2019,, ApJ, 878, 89. doi:10.3847/1538-4357/ab1fe2
-Yang, Y.-P., Zhu, J.-P., Zhang, B., et al. 2020,, ApJ, 901, L13. doi:10.3847/2041-8213/abb535
-Yang, Y.-P. & Zhang, B. 2020,, ApJ, 892, L10. doi:10.3847/2041-8213/ab7ccf
-Yang, Y.-P. & Zhang, B. 2021,, ApJ, 919, 89. doi:10.3847/1538-4357/ac14b5
-Zhang, B. 2018,, ApJ, 867, L21. doi:10.3847/2041-8213/aae8e3
-Zhang, B. 2020,, Nature, 587, 45. doi:10.1038/s41586-020-2828-1
+Yang, Y.-P. & Zhang, B. 2018, ApJ, 868, 31. doi:10.3847/1538-4357/aae685
+Yang, Y.-P., Zhang, B., & Wei, J.-Y. 2019, ApJ, 878, 89. doi:10.3847/1538-4357/ab1fe2
+Yang, Y.-P., Zhu, J.-P., Zhang, B., et al. 2020, ApJ, 901, L13. doi:10.3847/2041-8213/abb535
+Yang, Y.-P. & Zhang, B. 2020, ApJ, 892, L10. doi:10.3847/2041-8213/ab7ccf
+Yang, Y.-P. & Zhang, B. 2021, ApJ, 919, 89. doi:10.3847/1538-4357/ac14b5
+Zhang, B. 2018, ApJ, 867, L21. doi:10.3847/2041-8213/aae8e3
+Zhang, B. 2020, Nature, 587, 45. doi:10.1038/s41586-020-2828-1
 Zhang, B. 2021, arXiv:2111.06571

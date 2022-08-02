@@ -1,18 +1,18 @@
 Ao, Y., Zheng, Z., Henkel, C., et al. 2020, Nature Astronomy, 4, 670
-Arabsalmani, M., Moller, P., Perley, D. A., et al. 2018,, MNRAS, 473, 3312
-Aravena, M., Carilli, C., Daddi, E., et al. 2010,, ApJ, 718, 177
-Arrigoni Battaia, F., Prochaska, J. X., Hennawi, J. F., et al. 2018a,, MNRAS, 473, 3907
+Arabsalmani, M., Moller, P., Perley, D. A., et al. 2018, MNRAS, 473, 3312
+Aravena, M., Carilli, C., Daddi, E., et al. 2010, ApJ, 718, 177
+Arrigoni Battaia, F., Prochaska, J. X., Hennawi, J. F., et al. 2018a, MNRAS, 473, 3907
 Arrigoni Battaia, F., Chen, C.-C., Fumagalli, M., et al. 2018b, A&A, 620, A202
-Beelen, A., Cox, P., Benford, D. J., et al. 2006,, ApJ, 642, 694
+Beelen, A., Cox, P., Benford, D. J., et al. 2006, ApJ, 642, 694
 Beers, T. C., Flynn, K., & Gebhardt, K. 1990, AJ, 100, 32
-Bothwell, M. S., Smail, I., Chapman, S. C., et al. 2013,, MNRAS, 429, 3047
+Bothwell, M. S., Smail, I., Chapman, S. C., et al. 2013, MNRAS, 429, 3047
 Canameras, R., Nesvadba, N. P. H., Guery, D., et al. 2015, A&A, 581, A105
-Cai, Z., Fan, X., Peirani, S., et al. 2016,, ApJ, 833, 135
-Cai, Z., Fan, X., Yang, Y., et al. 2017a,, ApJ, 837, 71
-Cai, Z., Fan, X., Bian, F., et al. 2017b,, ApJ, 839, 131
+Cai, Z., Fan, X., Peirani, S., et al. 2016, ApJ, 833, 135
+Cai, Z., Fan, X., Yang, Y., et al. 2017a, ApJ, 837, 71
+Cai, Z., Fan, X., Bian, F., et al. 2017b, ApJ, 839, 131
 Cai, Z., Hamden, E., Matuszewski, M., et al. 2018, ApJL, 861, L3
-Cai, Z., Cantalupo, S., Prochaska, J. X., et al. 2019,, ApJS, 245, 23
-Cantalupo, S., Arrigoni-Battaia, F., Prochaska, J. X., Hennawi, J. F., & Madau, P. 2014,, Nature, 506, 63
+Cai, Z., Cantalupo, S., Prochaska, J. X., et al. 2019, ApJS, 245, 23
+Cantalupo, S., Arrigoni-Battaia, F., Prochaska, J. X., Hennawi, J. F., & Madau, P. 2014, Nature, 506, 63
 Carilli, C. L., & Walter, F. 2013, ARA&A, 51, 105
 Daddi, E., Elbaz, D., Walter, F., et al. 2010, ApJL, 714, L118
 Daddi, E., Dannerbauer, H., Liu, D., et al. 2015, A&A, 577, A46
@@ -21,45 +21,45 @@ Dannerbauer, H., Harrington, K., D iaz-Sanchez, A., et al. 2019, AJ, 158, 34
 Dannerbauer, H., Lehnert, M. D., Emonts, B., et al. 2017, A&A, 608, A48
 Decarli, R., Arrigoni-Battaia, F., Hennawi, J. F., et al. 2021, A&A, 645, L3
 Emonts, B., Cai, Z., Prochaska, X., Li, Q., & Lehnert, M. 2019, arXiv e-prints, arXiv:1911.05053
-Emonts, B. H. C., Norris, R. P., Feain, I., et al. 2014,, MNRAS, 438, 2898
+Emonts, B. H. C., Norris, R. P., Feain, I., et al. 2014, MNRAS, 438, 2898
 Emonts, B. H. C., Lehnert, M. D., Villar-Mart in, M., et al. 2016, Science, 354, 1128
-Emonts, B. H. C., Lehnert, M. D., Dannerbauer, H., et al. 2018,, MNRAS, 477, L60
-Evrard, A. E., Bialek, J., Busha, M., et al. 2008,, ApJ, 672, 122
-Genzel, R., Baker, A. J., Tacconi, L. J., et al. 2003,, ApJ, 584, 633
-Genzel, R., Tacconi, L. J., Gracia-Carpio, J., et al. 2010,, MNRAS, 407, 2091
-Ginolfi, M., Maiolino, R., Nagao, T., et al. 2017,, MNRAS, 468, 3468
-Gómez-Guijarro, C., Riechers, D. A., Pavesi, R., et al. 2019,, ApJ, 872, 117
+Emonts, B. H. C., Lehnert, M. D., Dannerbauer, H., et al. 2018, MNRAS, 477, L60
+Evrard, A. E., Bialek, J., Busha, M., et al. 2008, ApJ, 672, 122
+Genzel, R., Baker, A. J., Tacconi, L. J., et al. 2003, ApJ, 584, 633
+Genzel, R., Tacconi, L. J., Gracia-Carpio, J., et al. 2010, MNRAS, 407, 2091
+Ginolfi, M., Maiolino, R., Nagao, T., et al. 2017, MNRAS, 468, 3468
+Gómez-Guijarro, C., Riechers, D. A., Pavesi, R., et al. 2019, ApJ, 872, 117
 Goto, T., & Toft, S. 2015, A&A, 579, A17
-Harrington, K. C., Yun, M. S., Cybulski, R., et al. 2016,, MNRAS, 458, 4383
-Harris, A. I., Baker, A. J., Zonak, S. G., et al. 2010,, ApJ, 723, 1139
+Harrington, K. C., Yun, M. S., Cybulski, R., et al. 2016, MNRAS, 458, 4383
+Harris, A. I., Baker, A. J., Zonak, S. G., et al. 2010, ApJ, 723, 1139
 Hennawi, J. F., Prochaska, J. X., Cantalupo, S., & Arrigoni-Battaia, F. 2015, Science, 348, 779
-Ivison, R. J., Smail, I., Le Borgne, J. F., et al. 1998,, MNRAS, 298, 583
+Ivison, R. J., Smail, I., Le Borgne, J. F., et al. 1998, MNRAS, 298, 583
 Kennicutt, Jr., R. C. 1998, ARA&A, 36, 189
-Kirkpatrick, A., Sharon, C., Keller, E., & Pope, A. 2019,, ApJ, 879, 41
+Kirkpatrick, A., Sharon, C., Keller, E., & Pope, A. 2019, ApJ, 879, 41
 Koekemoer, A. M., Fruchter, A. S., Hook, R. N., & Hack, W. 2003, in HST Calibration Workshop : Hubble after the Installation of the ACS and the NICMOS Cooling System, 337
-Li, Q., Cai, Z., Prochaska, J. X., et al. 2019,, ApJ, 875, 130
-Magdis, G. E., Rigopoulou, D., Hopwood, R., et al. 2014,, ApJ, 796, 63
+Li, Q., Cai, Z., Prochaska, J. X., et al. 2019, ApJ, 875, 130
+Magdis, G. E., Rigopoulou, D., Hopwood, R., et al. 2014, ApJ, 796, 63
 Miley, G. K., Overzier, R. A., Zirm, A. W., et al. 2006, ApJL, 650, L29
-Miller, T. B., Chapman, S. C., Aravena, M., et al. 2018,, Nature, 556, 469
-Munari, E., Biviano, A., Borgani, S., Murante, G., & Fabjan, D. 2013,, MNRAS, 430, 2638
-Nesvadba, N. P. H., Lehnert, M. D., Eisenhauer, F., et al. 2006,, ApJ, 650, 693
-Oteo, I., Ivison, R. J., Dunne, L., et al. 2018,, ApJ, 856, 72
+Miller, T. B., Chapman, S. C., Aravena, M., et al. 2018, Nature, 556, 469
+Munari, E., Biviano, A., Borgani, S., Murante, G., & Fabjan, D. 2013, MNRAS, 430, 2638
+Nesvadba, N. P. H., Lehnert, M. D., Eisenhauer, F., et al. 2006, ApJ, 650, 693
+Oteo, I., Ivison, R. J., Dunne, L., et al. 2018, ApJ, 856, 72
 Pentericci, L., Roettgering, H. J. A., Miley, G. K., Carilli, C. L., & McCarthy, P. 1997, A&A, 326, 580
-Reid, M. J., Schneps, M. H., Moran, J. M., et al. 1988,, ApJ, 330, 809
-Riechers, D. A. 2013,, Nature, 502, 459
+Reid, M. J., Schneps, M. H., Moran, J. M., et al. 1988, ApJ, 330, 809
+Riechers, D. A. 2013, Nature, 502, 459
 Riechers, D. A., Boogaard, L. A., Decarli, R., et al. 2020, ApJL, 896, L21
-Ruel, J., Bazin, G., Bayliss, M., et al. 2014,, ApJ, 792, 45
-Saro, A., Mohr, J. J., Bazin, G., & Dolag, K. 2013,, ApJ, 772, 47
-Sharon, C. E., Riechers, D. A., Hodge, J., et al. 2016,, ApJ, 827, 18
+Ruel, J., Bazin, G., Bayliss, M., et al. 2014, ApJ, 792, 45
+Saro, A., Mohr, J. J., Bazin, G., & Dolag, K. 2013, ApJ, 772, 47
+Sharon, C. E., Riechers, D. A., Hodge, J., et al. 2016, ApJ, 827, 18
 Solomon, P. M., Downes, D., & Radford, S. J. E. 1992, ApJL, 387, L55
 Strandet, M. L., Weiss, A., De Breuck, C., et al. 2017, ApJL, 842, L15
-Ueda, J., Iono, D., Yun, M. S., et al. 2014,, ApJS, 214, 1
+Ueda, J., Iono, D., Yun, M. S., et al. 2014, ApJS, 214, 1
 Wagg, J., & Kanekar, N. 2012, ApJL, 751, L24
-Wang, T., Elbaz, D., Daddi, E., et al. 2016,, ApJ, 828, 56
-White, M., Cohn, J. D., & Smit, R. 2010,, MNRAS, 408, 1818
-White, M., Myers, A. D., Ross, N. P., et al. 2012,, MNRAS, 424, 933
-Wilkinson, A., Almaini, O., Chen, C.-C., et al. 2017,, MNRAS, 464, 1380
+Wang, T., Elbaz, D., Daddi, E., et al. 2016, ApJ, 828, 56
+White, M., Cohn, J. D., & Smit, R. 2010, MNRAS, 408, 1818
+White, M., Myers, A. D., Ross, N. P., et al. 2012, MNRAS, 424, 933
+Wilkinson, A., Almaini, O., Chen, C.-C., et al. 2017, MNRAS, 464, 1380
 Yang, C., Omont, A., Beelen, A., et al. 2017, A&A, 608, A144
-Yang, Y., Walter, F., Decarli, R., et al. 2014,, ApJ, 784, 171
-Yang, Y., Zabludoff, A., Eisenstein, D., & Dave, R. 2010,, ApJ, 719, 1654
-Yang, Y., Decarli, R., Dannerbauer, H., et al. 2012,, ApJ, 744, 178
+Yang, Y., Walter, F., Decarli, R., et al. 2014, ApJ, 784, 171
+Yang, Y., Zabludoff, A., Eisenstein, D., & Dave, R. 2010, ApJ, 719, 1654
+Yang, Y., Decarli, R., Dannerbauer, H., et al. 2012, ApJ, 744, 178

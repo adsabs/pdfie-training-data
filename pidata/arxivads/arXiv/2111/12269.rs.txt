@@ -1,33 +1,33 @@
-Beloborodov A. M., 2017,, ApJ, 843, L26
-Beloborodov A. M., 2020,, ApJ, 896, 142
+Beloborodov A. M., 2017, ApJ, 843, L26
+Beloborodov A. M., 2020, ApJ, 896, 142
 Bochenek C. D., McKenna D. L., Belov K. V., Kocz J., Kulkarni S. R., Lamb J., Ravi V., Woody D., 2020, PASP, 132, 034202
-Chime/Frb Collaboration et al., 2020,, Nature, 582, 351
-Cooper A. J., Wijers R. A. M. J., 2021,, MNRAS, 508, L32
+Chime/Frb Collaboration et al., 2020, Nature, 582, 351
+Cooper A. J., Wijers R. A. M. J., 2021, MNRAS, 508, L32
 Cordes J. M., Chatterjee S., 2019, ARA&A, 57, 417
-Gil J., Lyubarsky Y., Melikidze G. I., 2004,, ApJ, 600, 872
-Goldreich P., Julian W. H., 1969,, ApJ, 157, 869
+Gil J., Lyubarsky Y., Melikidze G. I., 2004, ApJ, 600, 872
+Goldreich P., Julian W. H., 1969, ApJ, 157, 869
 Jackson J. D., 1998, Classical Electrodynamics, 3rd Edition
 Katz J. I., 2014, Phys. Rev. D, 89, 103009
-Kumar P., Bosnjak Z., 2020,, MNRAS, 494, 2385
-Kumar P., Lu W., Bhattacharya M., 2017,, MNRAS, 468, 2726
+Kumar P., Bosnjak Z., 2020, MNRAS, 494, 2385
+Kumar P., Lu W., Bhattacharya M., 2017, MNRAS, 468, 2726
 Li C. K., et al., 2021, Nature Astronomy, 5, 378
 Lorimer D. R., Bailes M., McLaughlin M. A., Narkevic D. J., Crawford F., 2007, Science, 318, 777
-Lu W., Kumar P., Zhang B., 2020,, MNRAS, 498, 1397
-Lyubarsky Y., 2020,, ApJ, 897, 1
+Lu W., Kumar P., Zhang B., 2020, MNRAS, 498, 1397
+Lyubarsky Y., 2020, ApJ, 897, 1
 Lyubarsky Y., 2021, Universe, 7, 56
-Margalit B., Beniamini P., Sridhar N., Metzger B. D., 2020,, ApJ, 899, L27
-Melikidze G. I., Gil J. A., Pataraya A. D., 2000,, ApJ, 544, 1081
+Margalit B., Beniamini P., Sridhar N., Metzger B. D., 2020, ApJ, 899, L27
+Melikidze G. I., Gil J. A., Pataraya A. D., 2000, ApJ, 544, 1081
 Melrose D. B., 1980, Plasma astrohysics. Nonthermal processes in diffuse magnetized plasmas - Vol.1: The emission, absorption and transfer of waves in plasmas; Vol.2: Astrophysical applications
-Mereghetti S., et al., 2020,, ApJ, 898, L29
-Metzger B. D., Berger E., Margalit B., 2017,, ApJ, 841, 14
-Metzger B. D., Margalit B., Sironi L., 2019,, MNRAS, 485, 4091
+Mereghetti S., et al., 2020, ApJ, 898, L29
+Metzger B. D., Berger E., Margalit B., 2017, ApJ, 841, 14
+Metzger B. D., Margalit B., Sironi L., 2019, MNRAS, 485, 4091
 Petroff E., Hessels J. W. T., Lorimer D. R., 2019, A&ARv, 27, 4
 Rybicki G. B., Lightman A. P., 1979, Radiative processes in astro-physics
-Wadiasingh Z., Beniamini P., Timokhin A., Baring M. G., van der Horst A. J., Harding A. K., Kazanas D., 2020,, ApJ, 891, 82
+Wadiasingh Z., Beniamini P., Timokhin A., Baring M. G., van der Horst A. J., Harding A. K., Kazanas D., 2020, ApJ, 891, 82
 Wang W.-Y., Yang Y.-P., Niu C.-H., Xu R., Zhang B., 2021, Magnetospheric curvature radiation by bunches as emission mechanism for repeating fast radio bursts (arXiv:2111.11841)
-Waxman E., 2017,, ApJ, 842, 34
-Yang Y.-P., Zhang B., 2018,, ApJ, 868, 31
-Yang Y.-P., Zhang B., 2021,, ApJ, 919, 89
-Yang Y.-P., Zhu J.-P., Zhang B., Wu X.-F., 2020,, ApJ, 901, L13
-Zhang B., 2020,, Nature, 587, 45
+Waxman E., 2017, ApJ, 842, 34
+Yang Y.-P., Zhang B., 2018, ApJ, 868, 31
+Yang Y.-P., Zhang B., 2021, ApJ, 919, 89
+Yang Y.-P., Zhu J.-P., Zhang B., Wu X.-F., 2020, ApJ, 901, L13
+Zhang B., 2020, Nature, 587, 45
 Zhang B., 2021, Coherent inverse Compton scattering by bunches in fast radio bursts (arXiv:2111.06571)

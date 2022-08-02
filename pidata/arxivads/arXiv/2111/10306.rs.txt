@@ -1,66 +1,66 @@
-Banik, I. & Zhao, H. 2018,, MNRAS, 473, 4033
-Banks, G. D., Disney, M. J., Knezek, P. M., et al. 1999,, ApJ, 524, 612
-Behroozi, P. S., Wechsler, R. H., & Conroy, C. 2013,, ApJ, 770, 57
+Banik, I. & Zhao, H. 2018, MNRAS, 473, 4033
+Banks, G. D., Disney, M. J., Knezek, P. M., et al. 1999, ApJ, 524, 612
+Behroozi, P. S., Wechsler, R. H., & Conroy, C. 2013, ApJ, 770, 57
 Bouchard, A., Jerjen, H., Da Costa, G. S., & Ott, J. 2007, AJ, 133, 261
 Bullock, J. S. & Boylan-Kolchin, M. 2017, ARA&A, 55, 343
-Byun, W., Sheen, Y.-K., Park, H. S., et al. 2020,, ApJ, 891, 18
-Chae, K.-H., Desmond, H., Lelli, F., McGaugh, S. S., & Schombert, J. M. 2021,, ApJ, 921, 104
-Collins, M. L. M., Read, J. I., Ibata, R. A., et al. 2021,, MNRAS, 505, 5686
-Cote, P., McLaughlin, D. E., Hanes, D. A., et al. 2001,, ApJ, 559, 828
+Byun, W., Sheen, Y.-K., Park, H. S., et al. 2020, ApJ, 891, 18
+Chae, K.-H., Desmond, H., Lelli, F., McGaugh, S. S., & Schombert, J. M. 2021, ApJ, 921, 104
+Collins, M. L. M., Read, J. I., Ibata, R. A., et al. 2021, MNRAS, 505, 5686
+Cote, P., McLaughlin, D. E., Hanes, D. A., et al. 2001, ApJ, 559, 828
 Cote, S., Freeman, K. C., Carignan, C., & Quinn, P. J. 1997, AJ, 114, 1313
 Crnojevic, D., Grebel, E. K., & Cole, A. A. 2011, A&A, 530, A59
-Crnojevic, D., Sand, D. J., Bennet, P., et al. 2019,, ApJ, 872, 80
-Crnojevic, D., Sand, D. J., Caldwell, N., et al. 2014,, ApJ, 795, L35
+Crnojevic, D., Sand, D. J., Bennet, P., et al. 2019, ApJ, 872, 80
+Crnojevic, D., Sand, D. J., Caldwell, N., et al. 2014, ApJ, 795, L35
 den Heijer, M., Oosterloo, T. A., Serra, P., et al. 2015, A&A, 581, A98
-Doyle, M. T., Drinkwater, M. J., Rohde, D. J., et al. 2005,, MNRAS, 361, 34
+Doyle, M. T., Drinkwater, M. J., Rohde, D. J., et al. 2005, MNRAS, 361, 34
 Emsellem, E., van der Burg, R. F. J., Fensch, J., et al. 2019, A&A, 625, A76
 Fahrion, K., Lyubenova, M., Hilker, M., et al. 2020a, A&A, 637, A26
 Fahrion, K., Muller, O., Rejkuba, M., et al. 2020b, A&A, 634, A53
 Famaey, B. & McGaugh, S. S. 2012, Living Reviews in Relativity, 15, 10
-Forman, W., Jones, C., & Tucker, W. 1985,, ApJ, 293, 102
-Freedman, W. L., Madore, B. F., Hatt, D., et al. 2019,, ApJ, 882, 34
+Forman, W., Jones, C., & Tucker, W. 1985, ApJ, 293, 102
+Freedman, W. L., Madore, B. F., Hatt, D., et al. 2019, ApJ, 882, 34
 Freundlich, J., Famaey, B., Oria, P. A., et al. 2021, arXiv e-prints, arXiv:2109.04487
-Gaspari, M., Eckert, D., Ettori, S., et al. 2019,, ApJ, 884, 169
-Haghi, H., Kroupa, P., Banik, I., et al. 2019,, MNRAS, 487, 2441
+Gaspari, M., Eckert, D., Ettori, S., et al. 2019, ApJ, 884, 169
+Haghi, H., Kroupa, P., Banik, I., et al. 2019, MNRAS, 487, 2441
 Harris, G. L. H., Rejkuba, M., & Harris, W. E. 2010, PASA, 27, 457
 Heesters, N., Habas, R., Marleau, F. R., et al. 2021, A&A, 654, A161
 Ibata, R. A., Lewis, G. F., Conn, A. R., et al. 2013, NAT, 493, 62
 Jerjen, H., Binggeli, B., & Freeman, K. C. 2000a, AJ, 119, 593
 Jerjen, H., Freeman, K. C., & Binggeli, B. 2000b, AJ, 119, 166
 Karachentsev, I. D. 2005, AJ, 129, 178
-Karachentsev, I. D., Kashibadze, O. G., Makarov, D. I., & Tully, R. B. 2009,, MNRAS, 393, 1265
+Karachentsev, I. D., Kashibadze, O. G., Makarov, D. I., & Tully, R. B. 2009, MNRAS, 393, 1265
 Karachentsev, I. D., Makarov, D. I., & Kaisina, E. I. 2013, AJ, 145, 101
 Karachentsev, I. D., Sharina, M. E., Dolphin, A. E., et al. 2002, A&A, 385, 21
 Karachentsev, I. D., Tully, R. B., Dolphin, A., et al. 2007, AJ, 133, 504
 Kashibadze, O. G. & Karachentsev, I. D. 2018, A&A, 609, A11
-Katz, H., Desmond, H., Lelli, F., et al. 2018,, MNRAS, 480, 4287
+Katz, H., Desmond, H., Lelli, F., et al. 2018, MNRAS, 480, 4287
 Khetan, N., Izzo, L., Branchesi, M., et al. 2021, A&A, 647, A72
-Kirby, E. M., Koribalski, B., Jerjen, H., & Lopez-Sanchez, A. 2012,, MNRAS, 420, 2924
+Kirby, E. M., Koribalski, B., Jerjen, H., & Lopez-Sanchez, A. 2012, MNRAS, 420, 2924
 Koribalski, B. S., Staveley-Smith, L., Kilborn, V. A., et al. 2004, AJ, 128, 16
-Kourkchi, E. & Tully, R. B. 2017,, ApJ, 843, 16
-Kourkchi, E., Tully, R. B., Eftekharzadeh, S., et al. 2020,, ApJ, 902, 145
+Kourkchi, E. & Tully, R. B. 2017, ApJ, 843, 16
+Kourkchi, E., Tully, R. B., Eftekharzadeh, S., et al. 2020, ApJ, 902, 145
 Kravtsov, A. V., Vikhlinin, A. A., & Meshcheryakov, A. V. 2018, Astronomy Letters, 44, 8
 Kroupa, P., Famaey, B., de Boer, K. S., et al. 2010, A&A, 523, A32
 Lelli, F., Fraternali, F., & Verheijen, M. 2014, A&A, 563, A27
 Lelli, F., McGaugh, S. S., & Schombert, J. M. 2016a, AJ, 152, 157
-Lelli, F., McGaugh, S. S., & Schombert, J. M. 2016b,, ApJ, 816, L14
-Lelli, F., McGaugh, S. S., Schombert, J. M., Desmond, H., & Katz, H. 2019,, MNRAS, 484, 3267
-Lelli, F., McGaugh, S. S., Schombert, J. M., & Pawlowski, M. S. 2017,, ApJ, 836, 152
-Lewis, G. F., Brewer, B. J., & Wan, Z. 2020,, MNRAS, 491, L1
-Libeskind, N. I., Hoffman, Y., Tully, R. B., et al. 2015,, MNRAS, 452, 1052
+Lelli, F., McGaugh, S. S., & Schombert, J. M. 2016b, ApJ, 816, L14
+Lelli, F., McGaugh, S. S., Schombert, J. M., Desmond, H., & Katz, H. 2019, MNRAS, 484, 3267
+Lelli, F., McGaugh, S. S., Schombert, J. M., & Pawlowski, M. S. 2017, ApJ, 836, 152
+Lewis, G. F., Brewer, B. J., & Wan, Z. 2020, MNRAS, 491, L1
+Libeskind, N. I., Hoffman, Y., Tully, R. B., et al. 2015, MNRAS, 452, 1052
 Lynden-Bell, D. 1981, The Observatory, 101, 111
 Martinez-Delgado, D., Makarov, D., Javanmardi, B., et al. 2021, arXiv e-prints, arXiv:2106.08868
 Mateo, M., Olszewski, E., Welch, D. L., Fischer, P., & Kunkel, W. 1991, AJ, 102, 914
 McGaugh, S. S. 2012, AJ, 143, 40
 McGaugh, S. S. & Schombert, J. M. 2014, AJ, 148, 77
-McGaugh, S. S. & Schombert, J. M. 2015,, ApJ, 802, 18
-McGaugh, S. S., Schombert, J. M., Bothun, G. D., & de Blok, W. J. G. 2000,, ApJ, 533, L99
-McGaugh, S. S., Schombert, J. M., de Blok, W. J. G., & Zagursky, M. J. 2010,, ApJ, 708, L14
-Milgrom, M. 1983a,, ApJ, 270, 371
-Milgrom, M. 1983b,, ApJ, 270, 384
-Milgrom, M. 1983c,, ApJ, 270, 365
+McGaugh, S. S. & Schombert, J. M. 2015, ApJ, 802, 18
+McGaugh, S. S., Schombert, J. M., Bothun, G. D., & de Blok, W. J. G. 2000, ApJ, 533, L99
+McGaugh, S. S., Schombert, J. M., de Blok, W. J. G., & Zagursky, M. J. 2010, ApJ, 708, L14
+Milgrom, M. 1983a, ApJ, 270, 371
+Milgrom, M. 1983b, ApJ, 270, 384
+Milgrom, M. 1983c, ApJ, 270, 365
 Milgrom, M. 2019, Phys. Rev. D, 99, 044041
-Moster, B. P., Naab, T., & White, S. D. M. 2013,, MNRAS, 428, 3121
+Moster, B. P., Naab, T., & White, S. D. M. 2013, MNRAS, 428, 3121
 Muller, O., Fahrion, K., Rejkuba, M., et al. 2021a, A&A, 645, A92
 Muller, O., Jerjen, H., & Binggeli, B. 2015, A&A, 583, A79
 Muller, O., Jerjen, H., Pawlowski, M. S., & Binggeli, B. 2016, A&A, 595, A119
@@ -68,41 +68,41 @@ Muller, O., Pawlowski, M. S., Jerjen, H., & Lelli, F. 2018, Science, 359, 534
 Muller, O., Pawlowski, M. S., Lelli, F., et al. 2021b, A&A, 645, L5
 Muller, O., Rejkuba, M., Pawlowski, M. S., et al. 2019, A&A, 629, A18
 Muller, O., Scalera, R., Binggeli, B., & Jerjen, H. 2017, A&A, 602, A119
-Navarro, J. F., Frenk, C. S., & White, S. D. M. 1997,, ApJ, 490, 493
+Navarro, J. F., Frenk, C. S., & White, S. D. M. 1997, ApJ, 490, 493
 Oppenheimer, B. D., Babul, A., Bahe, Y., Butsky, I. S., & McCarthy, I. G. 2021, Universe, 7, 209
 Oria, P. A., Famaey, B., Thomas, G. F., et al. 2021, arXiv e-prints, arXiv:2109.10160
 Pawlowski, M. S. 2018, Modern Physics Letters A, 33, 1830004
-Pawlowski, M. S. & Kroupa, P. 2020,, MNRAS, 491, 3042
-Pawlowski, M. S., Kroupa, P., & Jerjen, H. 2013,, MNRAS, 435, 1928
-Pawlowski, M. S., Pflamm-Altenburg, J., & Kroupa, P. 2012,, MNRAS, 423, 1109
+Pawlowski, M. S. & Kroupa, P. 2020, MNRAS, 491, 3042
+Pawlowski, M. S., Kroupa, P., & Jerjen, H. 2013, MNRAS, 435, 1928
+Pawlowski, M. S., Pflamm-Altenburg, J., & Kroupa, P. 2012, MNRAS, 423, 1109
 Pawlowski, M. S. & Sohn, S. T. 2021, arXiv e-prints, arXiv:2109.13253
-Peng, E. W., Ford, H. C., & Freeman, K. C. 2004a,, ApJ, 602, 705
-Peng, E. W., Ford, H. C., & Freeman, K. C. 2004b,, ApJ, 602, 685
+Peng, E. W., Ford, H. C., & Freeman, K. C. 2004a, ApJ, 602, 705
+Peng, E. W., Ford, H. C., & Freeman, K. C. 2004b, ApJ, 602, 685
 Peterson, R. C. & Caldwell, N. 1993, AJ, 105, 1411
 Planck Collaboration, Aghanim, N., Akrami, Y., et al. 2020a, A&A, 641, A6
 Planck Collaboration, Aghanim, N., Akrami, Y., et al. 2020b, A&A, 641, A6
-Puzia, T. H. & Sharina, M. E. 2008,, ApJ, 674, 909
+Puzia, T. H. & Sharina, M. E. 2008, ApJ, 674, 909
 Rejkuba, M. 2004, A&A, 413, 903
-Riess, A. G., Casertano, S., Yuan, W., et al. 2021,, ApJ, 908, L6
-Romanowsky, A. J. & Fall, S. M. 2012,, ApJS, 203, 17
+Riess, A. G., Casertano, S., Yuan, W., et al. 2021, ApJ, 908, L6
+Romanowsky, A. J. & Fall, S. M. 2012, ApJS, 203, 17
 Samurovic, S. 2016, Ap&SS, 361, 199
-Sandage, A. 1986,, ApJ, 307, 1
-Santos-Santos, I. M., Dominguez-Tenreiro, R., & Pawlowski, M. S. 2020,, MNRAS, 499, 3755
+Sandage, A. 1986, ApJ, 307, 1
+Santos-Santos, I. M., Dominguez-Tenreiro, R., & Pawlowski, M. S. 2020, MNRAS, 499, 3755
 Saviane, I. & Jerjen, H. 2007, AJ, 133, 1756
 Schombert, J., McGaugh, S., & Lelli, F. 2020, AJ, 160, 71
 Struve, C., Oosterloo, T. A., Morganti, R., & Saripalli, L. 2010, A&A, 515, A67
 Taibi, S., Battaglia, G., Kacharov, N., et al. 2018, A&A, 618, A122
-Taylor, M. A., Eigenthaler, P., Puzia, T. H., et al. 2018,, ApJ, 867, L15
+Taylor, M. A., Eigenthaler, P., Puzia, T. H., et al. 2018, ApJ, 867, L15
 Tully, R. B. 2015, AJ, 149, 54
-Tully, R. B., Libeskind, N. I., Karachentsev, I. D., et al. 2015,, ApJ, 802, L25
+Tully, R. B., Libeskind, N. I., Karachentsev, I. D., et al. 2015, ApJ, 802, L25
 Tully, R. B., Rizzi, L., Shaya, E. J., et al. 2009, AJ, 138, 323
-Tully, R. B., Shaya, E. J., Karachentsev, I. D., et al. 2008,, ApJ, 676, 184
+Tully, R. B., Shaya, E. J., Karachentsev, I. D., et al. 2008, ApJ, 676, 184
 van den Bergh, S. 2000, AJ, 119, 609
-van Dokkum, P., Danieli, S., Abraham, R., Conroy, C., & Romanowsky, A. J. 2019,, ApJ, 874, L5
+van Dokkum, P., Danieli, S., Abraham, R., Conroy, C., & Romanowsky, A. J. 2019, ApJ, 874, L5
 Veljanoski, J. & Helmi, A. 2016, A&A, 592, A55
-Walker, M. G., Mateo, M., Olszewski, E. W., et al. 2009,, ApJ, 704, 1274
-Wang, J., Hammer, F., Rejkuba, M., Crnojevic, D., & Yang, Y. 2020,, MNRAS, 498, 2766
-Wolf, J., Martinez, G. D., Bullock, J. S., et al. 2010,, MNRAS, 406, 1220
+Walker, M. G., Mateo, M., Olszewski, E. W., et al. 2009, ApJ, 704, 1274
+Wang, J., Hammer, F., Rejkuba, M., Crnojevic, D., & Yang, Y. 2020, MNRAS, 498, 2766
+Wolf, J., Martinez, G. D., Bullock, J. S., et al. 2010, MNRAS, 406, 1220
 Woodley, K. A. 2006, AJ, 132, 2424
 Woodley, K. A., Gomez, M., Harris, W. E., Geisler, D., & Harris, G. L. H. 2010, AJ, 139, 1871
 Zwicky, F. 1933, Helvetica Physica Acta, 6, 110

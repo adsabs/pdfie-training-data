@@ -1,23 +1,23 @@
-Andries, J., Arregui, I., & Goossens, M. 2005a,, ApJ, 624, L57
+Andries, J., Arregui, I., & Goossens, M. 2005a, ApJ, 624, L57
 Andries, J., Goossens, M., Hollweg, J. V., Arregui, I., & Van Doorsselaere, T. 2005b, A&A, 430, 1109
-Antolin, P., De Moortel, I., Van Doorsselaere, T., & Yokoyama, T. 2016,, ApJ, 830, L22
-Antolin, P., De Moortel, I., Van Doorsselaere, T., & Yokoyama, T. 2017,, ApJ, 836, 219
-Antolin, P., Okamoto, T. J., De Pontieu, B., et al. 2015,, ApJ, 809, 72
-Antolin, P., Yokoyama, T., & Van Doorsselaere, T. 2014,, ApJ, 787, L22
+Antolin, P., De Moortel, I., Van Doorsselaere, T., & Yokoyama, T. 2016, ApJ, 830, L22
+Antolin, P., De Moortel, I., Van Doorsselaere, T., & Yokoyama, T. 2017, ApJ, 836, 219
+Antolin, P., Okamoto, T. J., De Pontieu, B., et al. 2015, ApJ, 809, 72
+Antolin, P., Yokoyama, T., & Van Doorsselaere, T. 2014, ApJ, 787, L22
 Arregui, I., Ballester, J. L., Oliver, R., Soler, R., & Terradas, J. 2012, in Astronomical Society of the Pacific Conference Series, Vol. 455, 4th Hinode Science Meeting: Unsolved Problems and Recent Insights, ed. L. Bellot Rubio, F. Reale, & M. Carlsson, 211
 Arregui, I., Oliver, R., & Ballester, J. L. 2018, Living Reviews in Solar Physics, 15, 3
 Arregui, I. & Soler, R. 2015, A&A, 578, A130
 Arregui, I., Soler, R., Ballester, J. L., & Wright, A. N. 2011, A&A, 533, A60
-Arregui, I., Terradas, J., Oliver, R., & Ballester, J. L. 2008,, ApJ, 682, L141
+Arregui, I., Terradas, J., Oliver, R., & Ballester, J. L. 2008, ApJ, 682, L141
 Arregui, I., Van Doorsselaere, T., Andries, J., Goossens, M., & Kimpe, D. 2005, A&A, 441, 361
-Bahari, K., Petrukhin, N. S., & Ruderman, M. S. 2020,, MNRAS, 496, 67
+Bahari, K., Petrukhin, N. S., & Ruderman, M. S. 2020, MNRAS, 496, 67
 Ballester, J. L. 2014, in Nature of Prominences and their Role in Space Weather, ed. B. Schmieder, J.-M. Malherbe, & S. T. Wu, Vol. 300, 30-39
 Ballester, J. L., Soler, R., Terradas, J., & Carbonell, M. 2020, A&A, 641, A48
-Berger, T. E., Shine, R. A., Slater, G. L., et al. 2008,, ApJ, 676, L89
+Berger, T. E., Shine, R. A., Slater, G. L., et al. 2008, ApJ, 676, L89
 Browning, P. K. & Priest, E. R. 1984, A&A, 131, 283
 Cao, W., Gorceix, N., Coulter, R., et al. 2010, Astronomische Nachrichten, 331, 636
 Chandrasekhar, S. 1961, Hydrodynamic and hydromagnetic stability
-Diaz, A. J., Oliver, R., & Ballester, J. L. 2010,, ApJ, 725, 1742
+Diaz, A. J., Oliver, R., & Ballester, J. L. 2010, ApJ, 725, 1742
 Diaz-Suarez, S. & Soler, R. 2021, A&A, 648, A22
 Dymova, M. V. & Ruderman, M. S. 2006, A&A, 457, 1059
 Edwin, P. M. & Roberts, B. 1983, Sol. Phys, 88, 179
@@ -27,19 +27,19 @@ Goode, P. R. & Cao, W. 2012, in Astronomical Society of the Pacific Conference S
 Harten, A. 1983, JCoPh, 49, 357
 Heinzel, P., Gunar, S., & Anzer, U. 2015, A&A, 579, A16
 Hollweg, J. V. 1971, J. Geophys. Res., 76, 5155
-Ionson, J. A. 1978,, ApJ, 226, 650
-Jing, J., Li, Q., Liu, C., et al. 2019,, ApJ, 880, 143
-Karami, K. & Bahari, K. 2012,, ApJ, 757, 186
+Ionson, J. A. 1978, ApJ, 226, 650
+Jing, J., Li, Q., Liu, C., et al. 2019, ApJ, 880, 143
+Karami, K. & Bahari, K. 2012, ApJ, 757, 186
 Leake, J. E., Arber, T. D., & Khodachenko, M. L. 2005, A&A, 442, 1091
 Lin, Y. 2011, SSRv, 158, 237
 Lin, Y., Engvold, O., Rouppe van der Voort, L., Wiik, J. E., & Berger, T. E. 2005, Sol. Phys., 226, 239
 Lin, Y., Engvold, O., Rouppe van der Voort, L. H. M., & van Noort, M. 2007, Sol. Phys., 246, 65
 Lin, Y., Martin, S. F., Engvold, O., Rouppe van der Voort, L. H. M., & van Noort, M. 2008, Advances in Space Research, 42, 803
-Lin, Y., Soler, R., Engvold, O., et al. 2009,, ApJ, 704, 870
+Lin, Y., Soler, R., Engvold, O., et al. 2009, ApJ, 704, 870
 Magyar, N. & Van Doorsselaere, T. 2016, A&A, 595, A81
 Magyar, N., Van Doorsselaere, T., & Marcu, A. 2015, A&A, 582, A117
 Martinez-Gomez, D., Soler, R., & Terradas, J. 2015, A&A, 578, A104
-Martinez-Gomez, D., Soler, R., & Terradas, J. 2018,, ApJ, 856, 16
+Martinez-Gomez, D., Soler, R., & Terradas, J. 2018, ApJ, 856, 16
 Montes-Solis, M. & Arregui, I. 2019, A&A, 622, A88
 Morton, R. J. & Erdelyi, R. 2009, A&A, 502, 315
 Nakariakov, V. M. & Verwichte, E. 2005, Living Reviews in Solar Physics, 2, 3
@@ -53,29 +53,29 @@ Rimmele, T. R., Warner, M., Keil, S. L., et al. 2020, Sol. Phys., 295, 172
 Ruderman, M. S. & Goossens, M. 2014, Sol. Phys., 289, 1999
 Ruderman, M. S., Goossens, M., & Andries, J. 2010, Physics of Plasmas, 17, 082108
 Ruderman, M. S., Petrukhin, N. S., & Pelinovsky, E. 2016, Sol. Phys., 291, 1143
-Ruderman, M. S. & Roberts, B. 2002,, ApJ, 577, 475
+Ruderman, M. S. & Roberts, B. 2002, ApJ, 577, 475
 Ruderman, M. S. & Terradas, J. 2013, A&A, 555, A27
-Ruderman, M. S., Verth, G., & Erdelyi, R. 2008,, ApJ, 686, 694
+Ruderman, M. S., Verth, G., & Erdelyi, R. 2008, ApJ, 686, 694
 Sadeghi, M., Bahari, K., & Karami, K. 2021, arXiv e-prints, arXiv:2101.02064
 Scharmer, G. B., Bjelksjo, K., Korhonen, T. K., Lindberg, B., & Petterson, B. 2003, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4853, Innovative Telescopes and Instrumentation for Solar Astrophysics, ed. S. L. Keil & S. V. Avakyan, 341-350
-Scharmer, G. B., Narayan, G., Hillberg, T., et al. 2008,, ApJ, 689, L69
-Soler, R. 2017,, ApJ, 850, 114
-Soler, R., Arregui, I., Oliver, R., & Ballester, J. L. 2010a,, ApJ, 722, 1778
-Soler, R., Carbonell, M., Ballester, J. L., & Terradas, J. 2013,, ApJ, 767, 171
+Scharmer, G. B., Narayan, G., Hillberg, T., et al. 2008, ApJ, 689, L69
+Soler, R. 2017, ApJ, 850, 114
+Soler, R., Arregui, I., Oliver, R., & Ballester, J. L. 2010a, ApJ, 722, 1778
+Soler, R., Carbonell, M., Ballester, J. L., & Terradas, J. 2013, ApJ, 767, 171
 Soler, R. & Goossens, M. 2011, A&A, 531, A167
 Soler, R., Goossens, M., & Ballester, J. L. 2015, A&A, 575, A123
-Soler, R., Oliver, R., & Ballester, J. L. 2009,, ApJ, 707, 662
+Soler, R., Oliver, R., & Ballester, J. L. 2009, ApJ, 707, 662
 Soler, R., Oliver, R., & Ballester, J. L. 2014, in Nature of Prominences and their Role in Space Weather, ed. B. Schmieder, J.-M. Malherbe, & S. T. Wu, Vol. 300, 48-51
-Soler, R., Terradas, J., Oliver, R., Ballester, J. L., & Goossens, M. 2010b,, ApJ, 712, 875
-Terradas, J., Andries, J., Goossens, M., et al. 2008a,, ApJ, 687, L115
-Terradas, J., Arregui, I., Oliver, R., & Ballester, J. L. 2008b,, ApJ, 678, L153
-Terradas, J., Magyar, N., & Van Doorsselaere, T. 2018,, ApJ, 853, 35
-Terradas, J. & Ofman, L. 2004,, ApJ, 610, 523
-Terradas, J., Soler, R., Luna, M., Oliver, R., & Ballester, J. L. 2015,, ApJ, 799, 94
-Terradas, J., Soler, R., Luna, M., et al. 2016,, ApJ, 820, 125
+Soler, R., Terradas, J., Oliver, R., Ballester, J. L., & Goossens, M. 2010b, ApJ, 712, 875
+Terradas, J., Andries, J., Goossens, M., et al. 2008a, ApJ, 687, L115
+Terradas, J., Arregui, I., Oliver, R., & Ballester, J. L. 2008b, ApJ, 678, L153
+Terradas, J., Magyar, N., & Van Doorsselaere, T. 2018, ApJ, 853, 35
+Terradas, J. & Ofman, L. 2004, ApJ, 610, 523
+Terradas, J., Soler, R., Luna, M., Oliver, R., & Ballester, J. L. 2015, ApJ, 799, 94
+Terradas, J., Soler, R., Luna, M., et al. 2016, ApJ, 820, 125
 Tikhonchuk, V. T., Rankin, R., Frycz, P., & Samson, J. C. 1995, Physics of Plasmas, 2, 501
-Van Doorsselaere, T., Goossens, M., Magyar, N., Ruderman, M. S., & Ismayilli, R. 2021,, ApJ, 910, 58
+Van Doorsselaere, T., Goossens, M., Magyar, N., Ruderman, M. S., & Ismayilli, R. 2021, ApJ, 910, 58
 Verth, G. & Erdelyi, R. 2008, A&A, 486, 1015
-Verth, G., Erdelyi, R., & Jess, D. B. 2008,, ApJ, 687, L45
+Verth, G., Erdelyi, R., & Jess, D. B. 2008, ApJ, 687, L45
 Woger, F., Rimmele, T., Ferayorni, A., et al. 2021, Sol. Phys., 296, 145
 Zaqarashvili, T. V., Khodachenko, M. L., & Rucker, H. O. 2011, A&A, 529, A82

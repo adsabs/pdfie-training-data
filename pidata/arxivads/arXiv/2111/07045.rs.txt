@@ -1,30 +1,30 @@
 Abbott B. P., et al., 2017, Phys. Rev. Lett., 119, 161101
 Ali-Haimoud Y., Kamionkowski M., 2017, Phys. Rev. D, 95, 043534
-Barco O., 2021,, MNRAS, 506, 806
-Berger E., Fong W., Chornock R., 2013,, ApJ, 774, L23
+Barco O., 2021, MNRAS, 506, 806
+Berger E., Fong W., Chornock R., 2013, ApJ, 774, L23
 Bird S., Cholis I., Munoz J. B., Ali-Haimoud Y., Kamionkowski M., Kovetz E. D., Raccanelli A., Riess A. G., 2016, Phys. Rev. Lett., 116, 201301
 Capela F., Pshirkov M., Tinyakov P., 2013, Phys. Rev. D, 87, 123524
 D'Eath P. D., 1978, Phys. Rev. D, 18, 990
 Dvorkin C., Blum K., Kamionkowski M., 2014, Phys. Rev. D, 89, 023519
-Ghirlanda G., Pescalli A., Ghisellini G., 2013,, MNRAS, 432, 3237
-Hawking S., 1971,, MNRAS, 152, 75
+Ghirlanda G., Pescalli A., Ghisellini G., 2013, MNRAS, 432, 3237
+Hawking S., 1971, MNRAS, 152, 75
 Henry G. R., Feduniak R. B., Silver J. E., Peterson M. A., 1968, Phys. Rev., 176, 1451
 Herzog-Arbeitman J., Lisanti M., Madau P., Necib L., 2018, Phys. Rev. Lett., 120, 041102
-Jackson A. A., Ryan M. P., 1973,, Nature, 245, 88
+Jackson A. A., Ryan M. P., 1973, Nature, 245, 88
 Kouvaris C., 2008, Phys. Rev. D, 77, 023006
-Kulkarni S. R., et al., 1998,, Nature, 395, 663
-MacFadyen A. I., Woosley S. E., Heger A., 2001,, ApJ, 550, 410
-Mazzali P. A., et al., 2003,, ApJ, 599, L95
-Metzger B. D., et al., 2010,, MNRAS, 406, 2650
+Kulkarni S. R., et al., 1998, Nature, 395, 663
+MacFadyen A. I., Woosley S. E., Heger A., 2001, ApJ, 550, 410
+Mazzali P. A., et al., 2003, ApJ, 599, L95
+Metzger B. D., et al., 2010, MNRAS, 406, 2650
 Misner C. W., Thorne K. S., Wheeler J. A., 1973, Gravitation. W. H. Freeman and Company
 Nakar E., 2007, Phys. Rep., 442, 166
-Podsiadlowski P., Mazzali P. A., Nomoto K., Lazzati D., Cappellaro E., 2004,, ApJ, 607, L17
-Pounds K. A., Nixon C. J., Lobban A., King A. R., 2018,, MNRAS, 481, 1832
+Podsiadlowski P., Mazzali P. A., Nomoto K., Lazzati D., Cappellaro E., 2004, ApJ, 607, L17
+Pounds K. A., Nixon C. J., Lobban A., King A. R., 2018, MNRAS, 481, 1832
 Read J. I., 2014, J. Phys. G: Nucl. Part. Phys., 41, 063101
 Rybicki G. B., Lightman A. P., 1985, Fundamentals of Radiative Transfer. John Wiley & Sons, Ltd, pp 1-50, doi:10.1002/9783527618170.ch1
-Ryde F., 2004,, ApJ, 614, 827
+Ryde F., 2004, ApJ, 614, 827
 Sollerman J., et al., 2006, A&A, 454, 503
-Tanvir N. R., Levan A. J., Fruchter A. S., Hjorth J., Hounsell R. A., Wiersema K., Tunnicliffe R. L., 2013,, Nature, 500, 547
+Tanvir N. R., Levan A. J., Fruchter A. S., Hjorth J., Hounsell R. A., Wiersema K., Tunnicliffe R. L., 2013, Nature, 500, 547
 Villanueva-Domingo P., Mena O., Palomares-Ruiz S., 2021, Front. Astron. Space Sci., 8, 87
 Woosley S. E., Bloom J. S., 2006, ARA&A, 44, 507
 Yalinewich A., Caplan M. E., 2021, MNRAS: Lett., 505, L115

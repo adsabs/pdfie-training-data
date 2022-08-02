@@ -1,49 +1,49 @@
-Aguado, D. S., Ahumada, R., Almeida, A., et al. 2019,, ApJS, 240, 23, doi: 10.3847/1538-4365/aaf651
+Aguado, D. S., Ahumada, R., Almeida, A., et al. 2019, ApJS, 240, 23, doi: 10.3847/1538-4365/aaf651
 Aller, L. H. 1984, Physics of thermal gaseous nebulae, doi: 10.1007/978-94-010-9639-3
 Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, PASP, 93, 5, doi: 10.1086/130766
-Barrera-Ballesteros, J. K., Heckman, T. M., Zhu, G. B., et al. 2016,, MNRAS, 463, 2513, doi: 10.1093/mnras/stw1984
+Barrera-Ballesteros, J. K., Heckman, T. M., Zhu, G. B., et al. 2016, MNRAS, 463, 2513, doi: 10.1093/mnras/stw1984
 Belfiore, F., Westfall, K. B., Schaefer, A., et al. 2019, AJ, 158, 160, doi: 10.3847/1538-3881/ab3e4e
 Blanton, M. R., Kazin, E., Muna, D., Weaver, B. A., & Price-Whelan, A. 2011, AJ, 142, 31, doi: 10.1088/0004-6256/142/1/31
 Blanton, M. R., Bershady, M. A., Abolfathi, B., et al. 2017, AJ, 154, 28, doi: 10.3847/1538-3881/aa7567
-Bruzual, G., & Charlot, S. 2003,, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
-Bundy, K., Bershady, M. A., Law, D. R., et al. 2015,, ApJ, 798, 7, doi: 10.1088/0004-637X/798/1/7
-Calzetti, D., Armus, L., Bohlin, R. C., et al. 2000,, ApJ, 533, 682, doi: 10.1086/308692
+Bruzual, G., & Charlot, S. 2003, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
+Bundy, K., Bershady, M. A., Law, D. R., et al. 2015, ApJ, 798, 7, doi: 10.1088/0004-637X/798/1/7
+Calzetti, D., Armus, L., Bohlin, R. C., et al. 2000, ApJ, 533, 682, doi: 10.1086/308692
 Cano-D iaz, M., Sanchez, S. F., Zibetti, S., et al. 2016, ApJL, 821, L26, doi: 10.3847/2041-8205/821/2/L26
-Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989,, ApJ, 345, 245, doi: 10.1086/167900
+Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245, doi: 10.1086/167900
 Chabrier, G. 2003, PASP, 115, 763, doi: 10.1086/376392
 Chen, G., Zhang, H.-X., Kong, X., et al. 2020, The Astrophysical Journal, 895, 146, doi: 10.3847/1538-4357/ab8cc2
-Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2005,, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
-Dom inguez Sanchez, H., Huertas-Company, M., Bernardi, M., Tuccillo, D., & Fischer, J. L. 2018,, MNRAS, 476, 3661, doi: 10.1093/mnras/sty338
+Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2005, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
+Dom inguez Sanchez, H., Huertas-Company, M., Bernardi, M., Tuccillo, D., & Fischer, J. L. 2018, MNRAS, 476, 3661, doi: 10.1093/mnras/sty338
 Drory, N., MacDonald, N., Bershady, M. A., et al. 2015, AJ, 149, 77, doi: 10.1088/0004-6256/149/2/77
 Fischer, J.-L., DomnguezSnchez, H., & Bernardi, M. 2018, Monthly Notices of the Royal Astronomical Society, 483, 2057, doi: 10.1093/mnras/sty3135
-Gao, Y., Wang, E., Kong, X., et al. 2018,, ApJ, 868, 89, doi: 10.3847/1538-4357/aae9f1
+Gao, Y., Wang, E., Kong, X., et al. 2018, ApJ, 868, 89, doi: 10.3847/1538-4357/aae9f1
 Gao, Y.-L., Lian, J.-H., Kong, X., et al. 2017, Research in Astronomy and Astrophysics, 17, 041, doi: 10.1088/1674-4527/17/5/41
-Hummer, D. G., & Storey, P. J. 1987,, MNRAS, 224, 801, doi: 10.1093/mnras/224.3.801
-Hwang, H.-C., Barrera-Ballesteros, J. K., Heckman, T. M., et al. 2019,, ApJ, 872, 144, doi: 10.3847/1538-4357/aaf7a3
+Hummer, D. G., & Storey, P. J. 1987, MNRAS, 224, 801, doi: 10.1093/mnras/224.3.801
+Hwang, H.-C., Barrera-Ballesteros, J. K., Heckman, T. M., et al. 2019, ApJ, 872, 144, doi: 10.3847/1538-4357/aaf7a3
 Izotov, Y. I., Stasinska, G., Meynet, G., Guseva, N. G., & Thuan, T. X. 2006, A&A, 448, 955, doi: 10.1051/0004-6361:20053763
-Kauffmann, G., Heckman, T. M., Tremonti, C., et al. 2003a,, MNRAS, 346, 1055, doi: 10.1111/j.1365-2966.2003.07154.x
-Kauffmann, G., Heckman, T. M., White, S. D. M., et al. 2003b,, MNRAS, 341, 33, doi: 10.1046/j.1365-8711.2003.06291.x
+Kauffmann, G., Heckman, T. M., Tremonti, C., et al. 2003a, MNRAS, 346, 1055, doi: 10.1111/j.1365-2966.2003.07154.x
+Kauffmann, G., Heckman, T. M., White, S. D. M., et al. 2003b, MNRAS, 341, 33, doi: 10.1046/j.1365-8711.2003.06291.x
 Kennicutt, Robert C., J. 1998, ARA&A, 36, 189, doi: 10.1146/annurev.astro.36.1.189
 Kewley, L. J., Nicholls, D. C., & Sutherland, R. S. 2019, ARA&A, 57, 511, doi: 10.1146/annurev-astro-081817-051832
 Kunth, D., & Ostlin, G. 2000, A&A Rv, 10, 1, doi: 10.1007/s001590000005
 Law, D. R., Cherinka, B., Yan, R., et al. 2016, AJ, 152, 83, doi: 10.3847/0004-6256/152/4/83
 Lequeux, J., Peimbert, M., Rayo, J. F., Serrano, A., & Torres-Peimbert, S. 1979, A&A, 500, 145
-Liu, Q., Wang, E., Lin, Z., et al. 2018,, ApJ, 857, 17, doi: 10.3847/1538-4357/aab3d5
-Lopez-Sanchez, A. R., Mesa-Delgado, A., Lopez-Mart in, L., & Esteban, C. 2011,, MNRAS, 411, 2076, doi: 10.1111/j.1365-2966.2010.17847.x
-Ly, C., Malkan, M. A., Nagao, T., et al. 2014,, ApJ, 780, 122, doi: 10.1088/0004-637X/780/2/122
-Mannucci, F., Cresci, G., Maiolino, R., Marconi, A., & Gnerucci, A. 2010,, MNRAS, 408, 2115, doi: 10.1111/j.1365-2966.2010.17291.x
+Liu, Q., Wang, E., Lin, Z., et al. 2018, ApJ, 857, 17, doi: 10.3847/1538-4357/aab3d5
+Lopez-Sanchez, A. R., Mesa-Delgado, A., Lopez-Mart in, L., & Esteban, C. 2011, MNRAS, 411, 2076, doi: 10.1111/j.1365-2966.2010.17847.x
+Ly, C., Malkan, M. A., Nagao, T., et al. 2014, ApJ, 780, 122, doi: 10.1088/0004-637X/780/2/122
+Mannucci, F., Cresci, G., Maiolino, R., Marconi, A., & Gnerucci, A. 2010, MNRAS, 408, 2115, doi: 10.1111/j.1365-2966.2010.17291.x
 Marino, R. A., Rosales-Ortega, F. F., Sanchez, S. F., et al. 2013, A&A, 559, A114, doi: 10.1051/0004-6361/201321956
 Markwardt, C. B. 2009, in Astronomical Society of the Pacific Conference Series, Vol. 411, Astronomical Data Analysis Software and Systems XVIII, ed. D. A. Bohlender, D. Durand, & P. Dowler, 251. https://arxiv.org/abs/0902.2850
 Meert, A., Vikram, V., & Bernardi, M. 2014, Monthly Notices of the Royal Astronomical Society, 446, 3943, doi: 10.1093/mnras/stu2333
-Nair, P. B., & Abraham, R. G. 2010,, ApJS, 186, 427, doi: 10.1088/0067-0049/186/2/427
-Pettini, M., & Pagel, B. E. J. 2004,, MNRAS, 348, L59, doi: 10.1111/j.1365-2966.2004.07591.x
-Pilyugin, L. S., & Grebel, E. K. 2016,, MNRAS, 457, 3678, doi: 10.1093/mnras/stw238
-Pilyugin, L. S., Mattsson, L., V ilchez, J. M., & Cedres, B. 2009,, MNRAS, 398, 485, doi: 10.1111/j.1365-2966.2009.15182.x
-Pilyugin, L. S., V ilchez, J. M., & Thuan, T. X. 2010,, ApJ, 720, 1738, doi: 10.1088/0004-637X/720/2/1738
-Rosales-Ortega, F. F., Kennicutt, R. C., Sanchez, S. F., et al. 2010,, MNRAS, 405, 735, doi: 10.1111/j.1365-2966.2010.16498.x
+Nair, P. B., & Abraham, R. G. 2010, ApJS, 186, 427, doi: 10.1088/0067-0049/186/2/427
+Pettini, M., & Pagel, B. E. J. 2004, MNRAS, 348, L59, doi: 10.1111/j.1365-2966.2004.07591.x
+Pilyugin, L. S., & Grebel, E. K. 2016, MNRAS, 457, 3678, doi: 10.1093/mnras/stw238
+Pilyugin, L. S., Mattsson, L., V ilchez, J. M., & Cedres, B. 2009, MNRAS, 398, 485, doi: 10.1111/j.1365-2966.2009.15182.x
+Pilyugin, L. S., V ilchez, J. M., & Thuan, T. X. 2010, ApJ, 720, 1738, doi: 10.1088/0004-637X/720/2/1738
+Rosales-Ortega, F. F., Kennicutt, R. C., Sanchez, S. F., et al. 2010, MNRAS, 405, 735, doi: 10.1111/j.1365-2966.2010.16498.x
 Rosales-Ortega, F. F., Sanchez, S. F., Iglesias-Paramo, J., et al. 2012, ApJL, 756, L31, doi: 10.1088/2041-8205/756/2/L31
-Salim, S., Rich, R. M., Charlot, S., et al. 2007,, ApJS, 173, 267, doi: 10.1086/519218
+Salim, S., Rich, R. M., Charlot, S., et al. 2007, ApJS, 173, 267, doi: 10.1086/519218
 Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
-Schlegel, D. J., Finkbeiner, D. P., & Davis, M. 1998,, ApJ, 500, 525, doi: 10.1086/305772
-Tremonti, C. A., Heckman, T. M., Kauffmann, G., et al. 2004,, ApJ, 613, 898, doi: 10.1086/423264
+Schlegel, D. J., Finkbeiner, D. P., & Davis, M. 1998, ApJ, 500, 525, doi: 10.1086/305772
+Tremonti, C. A., Heckman, T. M., Kauffmann, G., et al. 2004, ApJ, 613, 898, doi: 10.1086/423264
 Westfall, K. B., Cappellari, M., Bershady, M. A., et al. 2019, AJ, 158, 231, doi: 10.3847/1538-3881/ab44a2

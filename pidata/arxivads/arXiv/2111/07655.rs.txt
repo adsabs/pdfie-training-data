@@ -1,64 +1,64 @@
-Ansdell M., et al., 2020,, MNRAS, 492, 572
+Ansdell M., et al., 2020, MNRAS, 492, 572
 Bailer-Jones C. A. L., Rybizki J., Fouesneau M., Demleitner M., Andrae R., 2021, AJ, 161, 147
-Bell C. P. M., Mamajek E. E., Naylor T., 2015,, MNRAS, 454, 593
-Bergner J. B., Oberg K. I., Bergin E. A., Loomis R. A., Pegues J., Qi C., 2019,, ApJ, 876, 25
+Bell C. P. M., Mamajek E. E., Naylor T., 2015, MNRAS, 454, 593
+Bergner J. B., Oberg K. I., Bergin E. A., Loomis R. A., Pegues J., Qi C., 2019, ApJ, 876, 25
 Bockelee-Morvan D., Biver N., 2017, Philosophical Transactions of the Royal Society of London Series A, 375, 20160252
-Cataldi G., et al., 2018,, ApJ, 861, 72
-Cataldi G., et al., 2020,, ApJ, 892, 99
-Dent W. R. F., Greaves J. S., Coulson I. M., 2005,, MNRAS, 359, 663
+Cataldi G., et al., 2018, ApJ, 861, 72
+Cataldi G., et al., 2020, ApJ, 892, 99
+Dent W. R. F., Greaves J. S., Coulson I. M., 2005, MNRAS, 359, 663
 Dent W. R. F., et al., 2014, Science, 343, 1490
 Di Folco E., Pericaud J., Dutrey A., Augereau J. C., Chapillon E., Guilloteau S., Pietu V., Boccaletti A., 2020, A&A, 635, A94
-Draine B. T., Lee H. M., 1984,, ApJ, 285, 89
-Drozdovskaya M. N., Walsh C., van Dishoeck E. F., Furuya K., Marboeuf U., Thiabaud A., Harsono D., Visser R., 2016,, MNRAS, 462, 977
+Draine B. T., Lee H. M., 1984, ApJ, 285, 89
+Drozdovskaya M. N., Walsh C., van Dishoeck E. F., Furuya K., Marboeuf U., Thiabaud A., Harsono D., Visser R., 2016, MNRAS, 462, 977
 Dutrey A., et al., 2014, in Beuther H., Klessen R. S., Dullemond C. P., Henning T., eds, Protostars and Planets VI. p. 317 (arXiv:1402.3503), doi:10.2458/azu_uapress_9780816531240-ch014
 Eistrup C., Walsh C., van Dishoeck E. F., 2016, A&A, 595, A83
-Flower D. R., Lique F., 2015,, MNRAS, 446, 1750
+Flower D. R., Lique F., 2015, MNRAS, 446, 1750
 Guilloteau S., Di Folco E., Dutrey A., Simon M., Grosso N., Pietu V., 2013, A&A, 549, A92
 Guilloteau S., et al., 2016, A&A, 592, A124
 Heays A. N., Bosman A. D., van Dishoeck E. F., 2017, A&A, 602, A105
-Hobbs L. M., Vidal-Madjar A., Ferlet R., Albert C. E., Gry C., 1985,, ApJ, 293, L29
-Hoogerwerf R., 2000,, MNRAS, 313, 43
-Huang J., et al., 2018,, ApJ, 869, L42
-Hughes A. M., Wilner D. J., Kamp I., Hogerheijde M. R., 2008,, ApJ, 681, 626
-Hughes A. M., et al., 2017,, ApJ, 839, 86
+Hobbs L. M., Vidal-Madjar A., Ferlet R., Albert C. E., Gry C., 1985, ApJ, 293, L29
+Hoogerwerf R., 2000, MNRAS, 313, 43
+Huang J., et al., 2018, ApJ, 869, L42
+Hughes A. M., Wilner D. J., Kamp I., Hogerheijde M. R., 2008, ApJ, 681, 626
+Hughes A. M., et al., 2017, ApJ, 839, 86
 Hughes A. M., Duchene G., Matthews B. C., 2018, ARA&A, 56, 541
 Klusmeyer J., et al., 2021, arXiv e-prints, p. arXiv:2107.07435
-Kospal A., et al., 2013,, ApJ, 776, 77
-Kral Q., Matra L., Wyatt M. C., Kennedy G. M., 2017,, MNRAS, 469, 521
-Kral Q., Marino S., Wyatt M. C., Kama M., Matra L., 2019,, MNRAS, 489, 3670
-Kral Q., Matra L., Kennedy G. M., Marino S., Wyatt M. C., 2020,, MNRAS, 497, 2811
+Kospal A., et al., 2013, ApJ, 776, 77
+Kral Q., Matra L., Wyatt M. C., Kennedy G. M., 2017, MNRAS, 469, 521
+Kral Q., Marino S., Wyatt M. C., Kama M., Matra L., 2019, MNRAS, 489, 3670
+Kral Q., Matra L., Kennedy G. M., Marino S., Wyatt M. C., 2020, MNRAS, 497, 2811
 Lee H.-H., Roueff E., Pineau des Forets G., Shalabiea O. M., Terzieva R., Herbst E., 1998, A&A, 334, 1047
-Lieman-Sifry J., Hughes A. M., Carpenter J. M., Gorti U., Hales A., Flaherty K. M., 2016,, ApJ, 828, 25
+Lieman-Sifry J., Hughes A. M., Carpenter J. M., Gorti U., Hales A., Flaherty K. M., 2016, ApJ, 828, 25
 Lovell A. J., Schloerb F. P., Bergin E. A., Dickens J. E., De Vries C. H., Senay M. C., Irvine W. M., 1997, Earth Moon and Planets, 77, 253
-Marino S., et al., 2016,, MNRAS, 460, 2933
-Marino S., et al., 2017,, MNRAS, 465, 2595
-Marino S., Flock M., Henning T., Kral Q., Matra L., Wyatt M. C., 2020,, MNRAS, 492, 4409
+Marino S., et al., 2016, MNRAS, 460, 2933
+Marino S., et al., 2017, MNRAS, 465, 2595
+Marino S., Flock M., Henning T., Kral Q., Matra L., Wyatt M. C., 2020, MNRAS, 492, 4409
 Marti-Vidal I., Vlemmings W. H. T., Muller S., Casey S., 2014, A&A, 563, A136
-Matra L., et al., 2017,, ApJ, 842, 9
-Matra L., Wilner D. J., Oberg K. I., Andrews S. M., Loomis R. A., Wyatt M. C., Dent W. R. F., 2018,, ApJ, 853, 147
+Matra L., et al., 2017, ApJ, 842, 9
+Matra L., Wilner D. J., Oberg K. I., Andrews S. M., Loomis R. A., Wyatt M. C., Dent W. R. F., 2018, ApJ, 853, 147
 Matra L., Oberg K. I., Wilner D. J., Olofsson J., Bayo A., 2019, AJ, 157, 117
 McMullin J. P., Waters B., Schiebel D., Young W., Golap K., 2007, in Shaw R. A., Hill F., Bell D. J., eds, Astronomical Society of the Pacific Conference Series Vol. 376, Astronomical Data Analysis Software and Systems XVI. p. 127
 Meeus G., et al., 2012, A&A, 544, A78
-Milam S. N., Savage C., Ziurys L. M., Wyckoff S., 2004,, ApJ, 615, 1054
+Milam S. N., Savage C., Ziurys L. M., Wyckoff S., 2004, ApJ, 615, 1054
 Miley J. M., Panic O., Wyatt M., Kennedy G. M., 2018, A&A, 615, L10
 Miotello A., et al., 2019, A&A, 631, A69
-Moor A., et al., 2013,, ApJ, 777, L25
-Moor A., et al., 2017,, ApJ, 849, 123
-Moor A., et al., 2019,, ApJ, 884, 108
+Moor A., et al., 2013, ApJ, 777, L25
+Moor A., et al., 2017, ApJ, 849, 123
+Moor A., et al., 2019, ApJ, 884, 108
 Mumma M. J., Charnley S. B., 2011, ARA&A, 49, 471
 Muro-Arena G. A., et al., 2020, A&A, 635, A121
-Murphy S. J., Joyce M., Bedding T. R., White T. R., Kama M., 2021,, MNRAS, 502, 1633
-Nakatani R., Kobayashi H., Kuiper R., Nomura H., Aikawa Y., 2021,, ApJ, 915, 90
+Murphy S. J., Joyce M., Bedding T. R., White T. R., Kama M., 2021, MNRAS, 502, 1633
+Nakatani R., Kobayashi H., Kuiper R., Nomura H., Aikawa Y., 2021, ApJ, 915, 90
 Oberg K. I., Bergin E. A., 2021, Phys. Rep., 893, 1
-Oberg K. I., et al., 2010,, ApJ, 720, 480
-Oberg K. I., et al., 2011,, ApJ, 734, 98
-Pecaut M. J., Mamajek E. E., 2016,, MNRAS, 461, 794
+Oberg K. I., et al., 2010, ApJ, 720, 480
+Oberg K. I., et al., 2011, ApJ, 734, 98
+Pecaut M. J., Mamajek E. E., 2016, MNRAS, 461, 794
 Pegues J., et al., 2021, arXiv e-prints, p. arXiv:2105.04681
 Pericaud J., Di Folco E., Dutrey A., Guilloteau S., Pietu V., 2017, A&A, 600, A62
-Roberge A., Feldman P. D., Lagrange A. M., Vidal-Madjar A., Ferlet R., Jolly A., Lemaire J. L., Rostas F., 2000,, ApJ, 538, 904
-Roberge A., Feldman P. D., Weinberger A. J., Deleuil M., Bouret J.-C., 2006,, Nature, 441, 724
-Roberge A., Welsh B. Y., Kamp I., Weinberger A. J., Grady C. A., 2014,, ApJ, 796, L11
-Rollins R. P., Rawlings J. M. C., 2012,, MNRAS, 427, 2328
+Roberge A., Feldman P. D., Lagrange A. M., Vidal-Madjar A., Ferlet R., Jolly A., Lemaire J. L., Rostas F., 2000, ApJ, 538, 904
+Roberge A., Feldman P. D., Weinberger A. J., Deleuil M., Bouret J.-C., 2006, Nature, 441, 724
+Roberge A., Welsh B. Y., Kamp I., Weinberger A. J., Grady C. A., 2014, ApJ, 796, L11
+Rollins R. P., Rawlings J. M. C., 2012, MNRAS, 427, 2328
 Schoier F. L., van der Tak F. F. S., van Dishoeck E. F., Black J. H., 2005, A&A, 432, 369
 Semenov D., et al., 2010, A&A, 522, A42
 Smirnov-Pinchukov G. V., Semenov D. A., Akimkin V. V., Henning T., 2020, A&A, 644, A4
@@ -66,12 +66,12 @@ Veal J. M., et al., 1997, IAU Circ., 6575, 1
 Vidal-Madjar A., et al., 1994, A&A, 290, 245
 Visser R., van Dishoeck E. F., Black J. H., 2009, A&A, 503, 323
 Wakelam V., et al., 2012, Astrophys.~J.,~Suppl.~Ser, 199, 21
-Wakelam V., et al., 2015,, ApJS, 217, 20
-White J. A., Boley A. C., 2018,, ApJ, 859, 103
-Wichittanakom C., Oudmaijer R. D., Fairlamb J. R., Mendigutia I., Vioque M., Ababakr K. M., 2020,, MNRAS, 493, 234
+Wakelam V., et al., 2015, ApJS, 217, 20
+White J. A., Boley A. C., 2018, ApJ, 859, 103
+Wichittanakom C., Oudmaijer R. D., Fairlamb J. R., Mendigutia I., Vioque M., Ababakr K. M., 2020, MNRAS, 493, 234
 Wilson T. L., Rood R., 1994, ARA&A, 32, 191
 Wyatt M. C., 2008, ARA&A, 46, 339
-Zuckerman B., Song I., 2012,, ApJ, 758, 77
+Zuckerman B., Song I., 2012, ApJ, 758, 77
 de Zeeuw P. T., Hoogerwerf R., de Bruijne J. H. J., Brown A. G. A., Blaauw A., 1999, AJ, 117, 354
 van der Plas G., et al., 2019, A&A, 624, A33
 van der Tak F. F. S., Black J. H., Schoier F. L., Jansen D. J., van Dishoeck E. F., 2010, Radex: Fast Non-LTE Analysis of Interstellar Line Spectra (ascl:1010.075)

@@ -1,9 +1,9 @@
 Anderson, E. & Francis, C. 2012, Astronomy Letters, 38, 331.
-Bressan, A., Marigo, P., Girardi, L., et al. 2012,, MNRAS, 427, 127.
+Bressan, A., Marigo, P., Girardi, L., et al. 2012, MNRAS, 427, 127.
 Butler, R. P., Marcy, G. W., Williams, E., et al. 1996, PASP, 108, 500.
-Eberhard, G. & Schwarzschild, K. 1913,, ApJ, 38, 292.
+Eberhard, G. & Schwarzschild, K. 1913, ApJ, 38, 292.
 da Silva, L., Girardi, L., Pasquini, L., et al. 2006, A&A, 458, 609.
-Dollinger, M. P. & Hartmann, M. 2021,, ApJS, 256, 10.
+Dollinger, M. P. & Hartmann, M. 2021, ApJS, 256, 10.
 Endl, M., Kurster, M., & Els, S. 2000, A&A, 362, 585.
 ESA, . 1997 . 1997, VizieR Online Data Catalog, I/239
 Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2018, A&A, 616, A1.
@@ -31,12 +31,12 @@ Meszaros, S., Dupree, A. K., & Szentgyorgyi, A. 2008, AJ, 135, 1117.
 Meszaros, S., Dupree, A. K., & Szalai, T. 2009, AJ, 137, 4282.
 Queloz, D., Henry, G. W., Sivan, J. P., et al. 2001, A&A, 379, 279.
 Reichert, K., Reffert, S., Stock, S., et al. 2019, A&A, 625, A22.
-Saio, H., Wood, P. R., Takayama, M., et al. 2015,, MNRAS, 452, 3863.
+Saio, H., Wood, P. R., Takayama, M., et al. 2015, MNRAS, 452, 3863.
 Sato, B., Kambe, E., Takeda, Y., et al. 2005, PASJ, 57, 97.
-Scargle, J. D. 1982,, ApJ, 263, 835.
+Scargle, J. D. 1982, ApJ, 263, 835.
 Setiawan, J., von der Luhe, O., Pasquini, L., et al. 2005, 13th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, 560, 963
 Takeda, Y., Sato, B., Kambe, E., et al. 2002, PASJ, 54, 1041.
 Takeda, Y., Ohkubo, M., Sato, B., et al. 2005, PASJ, 57, 27.
 Takeda, Y., Sato, B., & Murata, D. 2008, PASJ, 60, 781.
 Valenti, J. A., Butler, R. P., & Marcy, G. W. 1995, PASP, 107, 966.
-Wood, P. R., Olivier, E. A., & Kawaler, S. D. 2004,, ApJ, 604, 800.
+Wood, P. R., Olivier, E. A., & Kawaler, S. D. 2004, ApJ, 604, 800.

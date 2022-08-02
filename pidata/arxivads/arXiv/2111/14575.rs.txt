@@ -1,34 +1,34 @@
 Berger M. A., 1984, Geophysical and Astrophysical Fluid Dynamics, 30, 79
-Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2013,, MNRAS, 434, 3030
-Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2016,, MNRAS, 462, 3031
-Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2019,, MNRAS, 485, 2909
-Bodo G., Tavecchio F., Sironi L., 2021,, MNRAS, 501, 2836
-Bromberg O., Singh C. B., Davelaar J., Philippov A. A., 2019,, ApJ, 884, 39
-Bromberg O., Tchekhovskoy A., 2016,, MNRAS, 456, 1739
+Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2013, MNRAS, 434, 3030
+Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2016, MNRAS, 462, 3031
+Bodo G., Mamatsashvili G., Rossi P., Mignone A., 2019, MNRAS, 485, 2909
+Bodo G., Tavecchio F., Sironi L., 2021, MNRAS, 501, 2836
+Bromberg O., Singh C. B., Davelaar J., Philippov A. A., 2019, ApJ, 884, 39
+Bromberg O., Tchekhovskoy A., 2016, MNRAS, 456, 1739
 Browning P. K., Gerrard C., Hood A. W., Kevis R., van der Linden R. A. M., 2008, A&A, 485, 837
 Browning P. K., Van der Linden R. A. M., 2003, A&A, 400, 355
-Davelaar J., Philippov A. A., Bromberg O., Singh C. B., 2020,, ApJ, 896, L31
-Gordovskyy M., Browning P. K., 2011,, ApJ, 729, 101
+Davelaar J., Philippov A. A., Bromberg O., Singh C. B., 2020, ApJ, 896, L31
+Gordovskyy M., Browning P. K., 2011, ApJ, 729, 101
 Gordovskyy M., Browning P. K., Kontar E. P., 2017, A&A, 604, A116
-Guo X., Sironi L., Narayan R., 2014,, ApJ, 797, 47
-Hosking D. N., Sironi L., 2020,, ApJ, 900, L23
-Kadowaki L. H. S., de Gouveia Dal Pino E. M., Medina-Torrejon T. E., Mizuno Y., Kushwaha P., 2021,, ApJ, 912, 109
-Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2017,, MNRAS, 467, 4647
-Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2018,, MNRAS, 474, 3954
+Guo X., Sironi L., Narayan R., 2014, ApJ, 797, 47
+Hosking D. N., Sironi L., 2020, ApJ, 900, L23
+Kadowaki L. H. S., de Gouveia Dal Pino E. M., Medina-Torrejon T. E., Mizuno Y., Kushwaha P., 2021, ApJ, 912, 109
+Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2017, MNRAS, 467, 4647
+Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2018, MNRAS, 474, 3954
 Makwana K. D., Zhdankin V., Li H., Daughton W., Cattaneo F., 2015, Physics of Plasmas, 22, 042902
-Medina-Torrejon T. E., de Gouveia Dal Pino E. M., Kadowaki L. H. S., Kowal G., Singh C. B., Mizuno Y., 2021,, ApJ, 908, 193
-Mignone A., Bodo G., Massaglia S., Matsakos T., Tesileanu O., Zanni C., Ferrari A., 2007,, ApJS, 170, 228
-Mignone A., Mattia G., Bodo G., Del Zanna L., 2019,, MNRAS, 486, 4252
-Mignone A., Plewa T., Bodo G., 2005,, ApJS, 160, 199
-Mizuno Y., Lyubarsky Y., Nishikawa K.-I., Hardee P. E., 2009,, ApJ, 700, 684
-Petropoulou M., Sironi L., Spitkovsky A., Giannios D., 2019,, ApJ, 880, 37
-Sironi L., Petropoulou M., Giannios D., 2015,, MNRAS, 450, 183
-Sironi L., Rowan M. E., Narayan R., 2021,, ApJ, 907, L44
-Sironi L., Spitkovsky A., 2014,, ApJ, 783, L21
-Sobacchi E., Lyubarsky Y. E., Sormani M. C., 2017,, MNRAS, 468, 4635
+Medina-Torrejon T. E., de Gouveia Dal Pino E. M., Kadowaki L. H. S., Kowal G., Singh C. B., Mizuno Y., 2021, ApJ, 908, 193
+Mignone A., Bodo G., Massaglia S., Matsakos T., Tesileanu O., Zanni C., Ferrari A., 2007, ApJS, 170, 228
+Mignone A., Mattia G., Bodo G., Del Zanna L., 2019, MNRAS, 486, 4252
+Mignone A., Plewa T., Bodo G., 2005, ApJS, 160, 199
+Mizuno Y., Lyubarsky Y., Nishikawa K.-I., Hardee P. E., 2009, ApJ, 700, 684
+Petropoulou M., Sironi L., Spitkovsky A., Giannios D., 2019, ApJ, 880, 37
+Sironi L., Petropoulou M., Giannios D., 2015, MNRAS, 450, 183
+Sironi L., Rowan M. E., Narayan R., 2021, ApJ, 907, L44
+Sironi L., Spitkovsky A., 2014, ApJ, 783, L21
+Sobacchi E., Lyubarsky Y. E., Sormani M. C., 2017, MNRAS, 468, 4635
 Taylor J. B., 1974, Pys. Rev. Lett., 33, 1139
 Taylor J. B., 1986, Reviews of Modern Physics, 58, 741
-Werner G. R., Uzdensky D. A., 2017,, ApJ, 843, L27
-Zhang H., Deng W., Li H., Bottcher M., 2016,, ApJ, 817, 63
-Zhang H., Li X., Guo F., Giannios D., 2018,, ApJ, 862, L25
-Zhdankin V., Uzdensky D. A., Perez J. C., Boldyrev S., 2013,, ApJ, 771, 124
+Werner G. R., Uzdensky D. A., 2017, ApJ, 843, L27
+Zhang H., Deng W., Li H., Bottcher M., 2016, ApJ, 817, 63
+Zhang H., Li X., Guo F., Giannios D., 2018, ApJ, 862, L25
+Zhdankin V., Uzdensky D. A., Perez J. C., Boldyrev S., 2013, ApJ, 771, 124

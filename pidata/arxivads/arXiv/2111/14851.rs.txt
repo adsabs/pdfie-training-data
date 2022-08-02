@@ -1,48 +1,48 @@
-Adamo, A., Hollyhead, K., Messa, M., et al. 2020,, MNRAS, 499, 3267
+Adamo, A., Hollyhead, K., Messa, M., et al. 2020, MNRAS, 499, 3267
 Aihara, H., AlSayyad, Y., Ando, M., et al. 2019, PASJ, 71, 114
-Beasley, M. A., & Trujillo, I. 2016,, ApJ, 830, 23
+Beasley, M. A., & Trujillo, I. 2016, ApJ, 830, 23
 Bertin, E., & Arnouts, S. 1996, A&AS, 117, 393
 Bland-Hawthorn, J., & Gerhard, O. 2016, ARA&A, 54, 529
-Carleton, T., Guo, Y., Munshi, F., Tremmel, M., & Wright, A. 2021,, MNRAS, 502, 398
-Carlsten, S. G., Beaton, R. L., Greco, J. P., & Greene, J. E. 2019,, ApJ, 879, 13
+Carleton, T., Guo, Y., Munshi, F., Tremmel, M., & Wright, A. 2021, MNRAS, 502, 398
+Carlsten, S. G., Beaton, R. L., Greco, J. P., & Greene, J. E. 2019, ApJ, 879, 13
 Dey, A., Schlegel, D. J., Lang, D., et al. 2019, AJ, 157, 168
-Elmegreen, B. G., & Efremov, Y. N. 1997,, ApJ, 480, 235
-Erwin, P. 2015,, ApJ, 799, 226
-Forbes, D. A., Alabi, A., Romanowsky, A. J., Brodie, J. P., & Arimoto, N. 2020,, MNRAS, 492, 4874
+Elmegreen, B. G., & Efremov, Y. N. 1997, ApJ, 480, 235
+Erwin, P. 2015, ApJ, 799, 226
+Forbes, D. A., Alabi, A., Romanowsky, A. J., Brodie, J. P., & Arimoto, N. 2020, MNRAS, 492, 4874
 Forbes, D. A., Gannon, J., Couch, W. J., et al. 2019, A&A, 626, A66
-Forbes, D. A., Gannon, J. S., Romanowsky, A. J., et al. 2021,, MNRAS, 500, 1279
+Forbes, D. A., Gannon, J. S., Romanowsky, A. J., et al. 2021, MNRAS, 500, 1279
 Forbes, D. A., Bastian, N., Gieles, M., et al. 2018, Proceedings of the Royal Society of London Series A, 474, 20170616
-Genzel, R., Forster Schreiber, N. M., Rosario, D., et al. 2014,, ApJ, 796, 7
-Greco, J. P., van Dokkum, P., Danieli, S., Carlsten, S. G., & Conroy, C. 2021,, ApJ, 908, 24
+Genzel, R., Forster Schreiber, N. M., Rosario, D., et al. 2014, ApJ, 796, 7
+Greco, J. P., van Dokkum, P., Danieli, S., Carlsten, S. G., & Conroy, C. 2021, ApJ, 908, 24
 Harris, W. E. 1996, AJ, 112, 1487
-Harris, W. E., Harris, G. L. H., & Alessi, M. 2013,, ApJ, 772, 82
-Kartha, S. S., Forbes, D. A., Spitler, L. R., et al. 2014,, MNRAS, 437, 273
+Harris, W. E., Harris, G. L. H., & Alessi, M. 2013, ApJ, 772, 82
+Kartha, S. S., Forbes, D. A., Spitler, L. R., et al. 2014, MNRAS, 437, 273
 Kennicutt, R. C., & Evans, N. J. 2012, ARA&A, 50, 531
-Kourkchi, E., & Tully, R. B. 2017,, ApJ, 843, 16
+Kourkchi, E., & Tully, R. B. 2017, ApJ, 843, 16
 Krause, M. G. H., Offner, S. S. R., Charbonnel, C., et al. 2020, SSRv, 216, 64
-Kruijssen, J. M. D. 2012,, MNRAS, 426, 3008
+Kruijssen, J. M. D. 2012, MNRAS, 426, 3008
 Kruijssen, J. M. D. 2014, Classical and Quantum Gravity, 31, 244006
-Kruijssen, J. M. D. 2015,, MNRAS, 454, 1658
+Kruijssen, J. M. D. 2015, MNRAS, 454, 1658
 Krumholz, M. R., McKee, C. F., & Bland-Hawthorn, J. 2019, ARA&A, 57, 227
-Lamers, H. J. G. L. M., Baumgardt, H., & Gieles, M. 2010,, MNRAS, 409, 305
+Lamers, H. J. G. L. M., Baumgardt, H., & Gieles, M. 2010, MNRAS, 409, 305
 Larsen, S. S., Strader, J., & Brodie, J. P. 2012, A&A, 544, L14
-Lim, S., Peng, E. W., Cote, P., et al. 2018,, ApJ, 862, 82
-Lim, S., Cote, P., Peng, E. W., et al. 2020,, ApJ, 899, 69
+Lim, S., Peng, E. W., Cote, P., et al. 2018, ApJ, 862, 82
+Lim, S., Cote, P., Peng, E. W., et al. 2020, ApJ, 899, 69
 Mahdavi, A., Trentham, N., & Tully, R. B. 2005, AJ, 130, 1502
-Miller, B. W., & Lotz, J. M. 2007,, ApJ, 670, 1074
+Miller, B. W., & Lotz, J. M. 2007, ApJ, 670, 1074
 Muller, O., Marleau, F. R., Duc, P.-A., et al. 2020, A&A, 640, A106
 Muller, O., Durrell, P. R., Marleau, F. R., et al. 2021, arXiv e-prints, arXiv:2101.10659
 Peng, E. W., & Lim, S. 2016, ApJL, 822, L31
-Pfeffer, J., Bastian, N., Kruijssen, J. M. D., et al. 2019,, MNRAS, 490, 1714
-Reina-Campos, M., & Kruijssen, J. M. D. 2017,, MNRAS, 469, 1282
-Reina-Campos, M., Kruijssen, J. M. D., Pfeffer, J., Bastian, N., & Crain, R. A. 2018,, MNRAS, 481, 2851
+Pfeffer, J., Bastian, N., Kruijssen, J. M. D., et al. 2019, MNRAS, 490, 1714
+Reina-Campos, M., & Kruijssen, J. M. D. 2017, MNRAS, 469, 1282
+Reina-Campos, M., Kruijssen, J. M. D., Pfeffer, J., Bastian, N., & Crain, R. A. 2018, MNRAS, 481, 2851
 Rejkuba, M. 2012, Ap&SS, 341, 195
-Schlafly, E. F., & Finkbeiner, D. P. 2011,, ApJ, 737, 103
-Shen, Z., van Dokkum, P., & Danieli, S. 2021,, ApJ, 909, 179
-Somalwar, J. J., Greene, J. E., Greco, J. P., et al. 2020,, ApJ, 902, 45
-Trujillo-Gomez, S., Kruijssen, J. M. D., Keller, B. W., & Reina-Campos, M. 2021a,, MNRAS, 506, 4841
+Schlafly, E. F., & Finkbeiner, D. P. 2011, ApJ, 737, 103
+Shen, Z., van Dokkum, P., & Danieli, S. 2021, ApJ, 909, 179
+Somalwar, J. J., Greene, J. E., Greco, J. P., et al. 2020, ApJ, 902, 45
+Trujillo-Gomez, S., Kruijssen, J. M. D., Keller, B. W., & Reina-Campos, M. 2021a, MNRAS, 506, 4841
 Trujillo-Gomez, S., Kruijssen, J. M. D., & Reina-Campos, M. 2021b, arXiv e-prints, arXiv:2103.08610
-Trujillo-Gomez, S., Reina-Campos, M., & Kruijssen, J. M. D. 2019,, MNRAS, 488, 3972
+Trujillo-Gomez, S., Reina-Campos, M., & Kruijssen, J. M. D. 2019, MNRAS, 488, 3972
 Tully, R. B., Courtois, H. M., & Sorce, J. G. 2016, AJ, 152, 50
 van Dokkum, P., Abraham, R., Romanowsky, A. J., et al. 2017, ApJL, 844, L11
 van Dokkum, P., Cohen, Y., Danieli, S., et al. 2018, ApJL, 856, L30

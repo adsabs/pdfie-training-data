@@ -1,64 +1,64 @@
 Abate, C., Pols, O. R., Izzard, R. G., Mohamed, S. S., & de Mink, S. E. 2013, A&A, 552, A26, doi: 10.1051/0004-6361/201220007
-Abdo, A. A., Ackermann, M., Ajello, M., et al. 2011,, ApJ, 734, 28, doi: 10.1088/0004-637X/734/1/28
-Abdollahi, S., Acero, F., Ackermann, M., et al. 2020,, ApJS, 247, 33, doi: 10.3847/1538-4365/ab6bcb
-Abeysekara, A. U., Archer, A., Benbow, W., et al. 2020,, ApJ, 894, 51, doi: 10.3847/1538-4357/ab8310
-Acciari, V. A., Aliu, E., Arlen, T., et al. 2010,, ApJ, 714, 163, doi: 10.1088/0004-637X/714/1/163
-Acero, F., Ackermann, M., Ajello, M., et al. 2016,, ApJS, 224, 8, doi: 10.3847/0067-0049/224/1/8
+Abdo, A. A., Ackermann, M., Ajello, M., et al. 2011, ApJ, 734, 28, doi: 10.1088/0004-637X/734/1/28
+Abdollahi, S., Acero, F., Ackermann, M., et al. 2020, ApJS, 247, 33, doi: 10.3847/1538-4365/ab6bcb
+Abeysekara, A. U., Archer, A., Benbow, W., et al. 2020, ApJ, 894, 51, doi: 10.3847/1538-4357/ab8310
+Acciari, V. A., Aliu, E., Arlen, T., et al. 2010, ApJ, 714, 163, doi: 10.1088/0004-637X/714/1/163
+Acero, F., Ackermann, M., Ajello, M., et al. 2016, ApJS, 224, 8, doi: 10.3847/0067-0049/224/1/8
 Ackermann, M., Ajello, M., Allafort, A., et al. 2013, Science, 339, 807, doi: 10.1126/science.1231160, doi:10.1126/science.1231160
 Aguilar, M., Aisa, D., Alpat, B., et al. 2015a, PhRvL, 114, 171103, doi: 10.1103/PhysRevLett.114.171103
 --. 2015b, PhRvL, 115, 211101, doi: 10.1103/PhysRevLett.115.211101
 Aguilar, M., Ali Cavasonza, L., Alpat, B., et al. 2017, PhRvL, 119, 251101, doi: 10.1103/PhysRevLett.119.251101
-Ahnen, M. L., Ansoldi, S., Antonelli, L. A., et al. 2017,, MNRAS, 472, 2956, doi: 10.1093/mnras/stx2079
+Ahnen, M. L., Ansoldi, S., Antonelli, L. A., et al. 2017, MNRAS, 472, 2956, doi: 10.1093/mnras/stx2079
 Albert, J., Aliu, E., Anderhub, H., et al. 2007, ApJL, 664, L87, doi: 10.1086/520957
 Ballet, J., Burnett, T. H., Digel, S. W., & Lott, B. 2020, arXiv e-prints, arXiv:2005.11208. https://arxiv.org/abs/2005.11208
-Bell, A. R. 1978a,, MNRAS, 182, 147, doi: 10.1093/mnras/182.2.147
---. 1978b,, MNRAS, 182, 443, doi: 10.1093/mnras/182.3.443
-Biermann, P. L., Becker, J. K., Dreyer, J., et al. 2010,, ApJ, 725, 184, doi: 10.1088/0004-637X/725/1/184
+Bell, A. R. 1978a, MNRAS, 182, 147, doi: 10.1093/mnras/182.2.147
+--. 1978b, MNRAS, 182, 443, doi: 10.1093/mnras/182.3.443
+Biermann, P. L., Becker, J. K., Dreyer, J., et al. 2010, ApJ, 725, 184, doi: 10.1088/0004-637X/725/1/184
 Blasi, P. 2004, Astroparticle Physics, 21, 45, doi: 10.1016/j.astropartphys.2003.10.008
-Blasi, P., Gabici, S., & Vannoni, G. 2005,, MNRAS, 361, 907, doi: 10.1111/j.1365-2966.2005.09227.x
-Borkowski, K., Szymkowiak, A. E., Blondin, J. M., & Sarazin, C. L. 1996,, ApJ, 466, 866, doi: 10.1086/177560
+Blasi, P., Gabici, S., & Vannoni, G. 2005, MNRAS, 361, 907, doi: 10.1111/j.1365-2966.2005.09227.x
+Borkowski, K., Szymkowiak, A. E., Blondin, J. M., & Sarazin, C. L. 1996, ApJ, 466, 866, doi: 10.1086/177560
 Caprioli, D., Amato, E., & Blasi, P. 2010a, Astroparticle Physics, 33, 307, doi: 10.1016/j.astropartphys.2010.03.001
-Caprioli, D., Blasi, P., Amato, E., & Vietri, M. 2009,, MNRAS, 395, 895. https://arxiv.org/abs/0807.4261
-Caprioli, D., Kang, H., Vladimirov, A. E., & Jones, T. W. 2010b,, MNRAS, 407, 1773, doi: 10.1111/j.1365-2966.2010.17013.x
-Case, G. L., & Bhattacharya, D. 1998,, ApJ, 504, 761, doi: 10.1086/306089
-Chevalier, R. A., & Fransson, C. 2006,, ApJ, 651, 381, doi: 10.1086/507606
-Clark, D. H., & Caswell, J. L. 1976,, MNRAS, 174, 267, doi: 10.1093/mnras/174.2.267
+Caprioli, D., Blasi, P., Amato, E., & Vietri, M. 2009, MNRAS, 395, 895. https://arxiv.org/abs/0807.4261
+Caprioli, D., Kang, H., Vladimirov, A. E., & Jones, T. W. 2010b, MNRAS, 407, 1773, doi: 10.1111/j.1365-2966.2010.17013.x
+Case, G. L., & Bhattacharya, D. 1998, ApJ, 504, 761, doi: 10.1086/306089
+Chevalier, R. A., & Fransson, C. 2006, ApJ, 651, 381, doi: 10.1086/507606
+Clark, D. H., & Caswell, J. L. 1976, MNRAS, 174, 267, doi: 10.1093/mnras/174.2.267
 Devin, J., Lemoine-Goumard, M., Grondin, M. H., et al. 2020, A&A, 643, A28, doi: 10.1051/0004-6361/202038503
-Elias, J. H., Matthews, K., Neugebauer, G., & Persson, S. E. 1985,, ApJ, 296, 379, doi: 10.1086/163456
-Ertl, T., Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020,, ApJ, 890, 51, doi: 10.3847/1538-4357/ab6458
+Elias, J. H., Matthews, K., Neugebauer, G., & Persson, S. E. 1985, ApJ, 296, 379, doi: 10.1086/163456
+Ertl, T., Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020, ApJ, 890, 51, doi: 10.3847/1538-4357/ab6458
 Ferrand, G., & Safi-Harb, S. 2012, Advances in Space Research, 49, 1313, doi: 10.1016/j.asr.2012.02.004
 H. E. S. S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A3, doi: 10.1051/0004-6361/201732125
 H. E. S. S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A6, doi: 10.1051/0004-6361/201629790
 H.E.S.S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A7, doi: 10.1051/0004-6361/201630002
-Ilkiewicz, K., Mikolajewska, J., Belczynski, K., Wiktorowicz, G., & Karczmarek, P. 2019,, MNRAS, 485, 5468, doi: 10.1093/mnras/stz760
-Katsuda, S., Acero, F., Tominaga, N., et al. 2015,, ApJ, 814, 29, doi: 10.1088/0004-637X/814/1/29
+Ilkiewicz, K., Mikolajewska, J., Belczynski, K., Wiktorowicz, G., & Karczmarek, P. 2019, MNRAS, 485, 5468, doi: 10.1093/mnras/stz760
+Katsuda, S., Acero, F., Tominaga, N., et al. 2015, ApJ, 814, 29, doi: 10.1088/0004-637X/814/1/29
 Krause, O., Birkmann, S. M., Usuda, T., et al. 2008, Science, 320, 1195, doi: 10.1126/science.1155788, doi:10.1126/science.1155788
-Lee, S.-H., Ellison, D. C., & Nagataki, S. 2012,, ApJ, 750, 156, doi: 10.1088/0004-637X/750/2/156
-Lee, S.-H., Patnaude, D. J., Raymond, J. C., et al. 2015,, ApJ, 806, 71, doi: 10.1088/0004-637X/806/1/71
-Maeda, K., Hattori, T., Milisavljevic, D., et al. 2015,, ApJ, 807, 35, doi: 10.1088/0004-637X/807/1/35
-Matzner, C. D., & McKee, C. F. 1999,, ApJ, 510, 379, doi: 10.1086/306571
+Lee, S.-H., Ellison, D. C., & Nagataki, S. 2012, ApJ, 750, 156, doi: 10.1088/0004-637X/750/2/156
+Lee, S.-H., Patnaude, D. J., Raymond, J. C., et al. 2015, ApJ, 806, 71, doi: 10.1088/0004-637X/806/1/71
+Maeda, K., Hattori, T., Milisavljevic, D., et al. 2015, ApJ, 807, 35, doi: 10.1088/0004-637X/807/1/35
+Matzner, C. D., & McKee, C. F. 1999, ApJ, 510, 379, doi: 10.1086/306571
 Mohamed, S., & Podsiadlowski, P. 2012, Baltic Astronomy, 21, 88, doi: 10.1515/astro-2017-0362
 Ohira, Y., & Ioka, K. 2011, ApJL, 729, L13, doi: 10.1088/2041-8205/729/1/L13
-Ouchi, R., & Maeda, K. 2017,, ApJ, 840, 90, doi: 10.3847/1538-4357/aa6ea9
+Ouchi, R., & Maeda, K. 2017, ApJ, 840, 90, doi: 10.3847/1538-4357/aa6ea9
 Poveda, A., & Woltjer, L. 1968, AJ, 73, 65, doi: 10.1086/110600
-Ptuskin, V., Zirakashvili, V., & Seo, E.-S. 2010,, ApJ, 718, 31, doi: 10.1088/0004-637X/718/1/31
+Ptuskin, V., Zirakashvili, V., & Seo, E.-S. 2010, ApJ, 718, 31, doi: 10.1088/0004-637X/718/1/31
 Schinnerer, E., Carilli, C. L., Scoville, N. Z., et al. 2004, AJ, 128, 1974, doi: 10.1086/424860
-Simpson, C., Rawlings, S., Ivison, R., et al. 2012,, MNRAS, 421, 3060, doi: 10.1111/j.1365-2966.2012.20529.x
+Simpson, C., Rawlings, S., Ivison, R., et al. 2012, MNRAS, 421, 3060, doi: 10.1111/j.1365-2966.2012.20529.x
 Smith, N. 2017, Interacting Supernovae: Types IIn and Ibn, ed. A. W. Alsabti & P. Murdin, 403, doi: 10.1007/978-3-319-21846-5 38
-Smith, N., Li, W., Filippenko, A. V., & Chornock, R. 2011,, MNRAS, 412, 1522, doi: 10.1111/j.1365-2966.2011.17229.x
+Smith, N., Li, W., Filippenko, A. V., & Chornock, R. 2011, MNRAS, 412, 1522, doi: 10.1111/j.1365-2966.2011.17229.x
 Suzuki, H., Bamba, A., Yamazaki, R., & Ohira, Y. 2020, PASJ, 72, 72, doi: 10.1093/pasj/psaa061
 Tanaka, T., Allafort, A., Ballet, J., et al. 2011, ApJL, 740, L51, doi: 10.1088/2041-8205/740/2/L51
 Tauris, T. M., & Savonije, G. J. 1999, A&A, 350, 928. https://arxiv.org/abs/astro-ph/9909147
-Truelove, J. K., & McKee, C. F. 1999,, ApJS, 120, 299, doi: 10.1086/313176
+Truelove, J. K., & McKee, C. F. 1999, ApJS, 120, 299, doi: 10.1086/313176
 van den Heuvel, E. P. J. 2009, in Astrophysics and Space Science Library, Vol. 359, Physics of Relativistic Objects in Compact Binaries: From Birth to Coalescence, ed. M. Colpi, P. Casella, V. Gorini, U. Moschella, & A. Possenti, 125, doi: 10.1007/978-1-4020-9264-0 4
 Vartanyan, D., Laplace, E., Renzo, M., et al. 2021, ApJL, 916, L5, doi: 10.3847/2041-8213/ac0b42
-Wang, B., Chen, W.-C., Liu, D.-D., et al. 2021,, MNRAS, 506, 4654, doi: 10.1093/mnras/stab2032
+Wang, B., Chen, W.-C., Liu, D.-D., et al. 2021, MNRAS, 506, 4654, doi: 10.1093/mnras/stab2032
 Wheeler, J. C., & Harkness, R. P. 1986, in NATO Advanced Study Institute (ASI) Series C, Vol. 180, Galaxy Distances and Deviations from Universal Expansion, ed. B. F. Madore & R. B. Tully, 45-54
-Woosley, S. E. 2019,, ApJ, 878, 49, doi: 10.3847/1538-4357/ab1b41
-Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020,, ApJ, 896, 56, doi: 10.3847/1538-4357/ab8cc1
-Woosley, S. E., Sukhbold, T., & Kasen, D. N. 2021,, ApJ, 913, 145, doi: 10.3847/1538-4357/abf3be
-Yasuda, H., & Lee, S.-H. 2019,, ApJ, 876, 27, doi: 10.3847/1538-4357/ab13ab
+Woosley, S. E. 2019, ApJ, 878, 49, doi: 10.3847/1538-4357/ab1b41
+Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020, ApJ, 896, 56, doi: 10.3847/1538-4357/ab8cc1
+Woosley, S. E., Sukhbold, T., & Kasen, D. N. 2021, ApJ, 913, 145, doi: 10.3847/1538-4357/abf3be
+Yasuda, H., & Lee, S.-H. 2019, ApJ, 876, 27, doi: 10.3847/1538-4357/ab13ab
 Yasuda, H., Lee, S.-H., & Maeda, K. 2021, ApJL, 919, L16, doi: 10.3847/2041-8213/ac24ac
-Yoon, S.-C. 2017,, MNRAS, 470, 3970, doi: 10.1093/mnras/stx1496
-Yuan, Y., Funk, S., Johannesson, G., et al. 2013,, ApJ, 779, 117, doi: 10.1088/0004-637X/779/2/117
+Yoon, S.-C. 2017, MNRAS, 470, 3970, doi: 10.1093/mnras/stx1496
+Yuan, Y., Funk, S., Johannesson, G., et al. 2013, ApJ, 779, 117, doi: 10.1088/0004-637X/779/2/117
 Zirakashvili, V. N., & Ptuskin, V. S. 2012, Astroparticle Physics, 39, 12, doi: 10.1016/j.astropartphys.2011.09.003

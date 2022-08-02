@@ -1,12 +1,12 @@
-Antonini, F., & Perets, H. B. 2012,, ApJ, 757, 27, doi: 10.1088/0004-637X/757/1/27
-Hamers, A. S., Bar-Or, B., Petrovich, C., & Antonini, F. 2018,, ApJ, 865, 2, doi: 10.3847/1538-4357/aadae2
-Kremer, K., Rui, N. Z., Weatherford, N. C., et al. 2021,, ApJ, 917, 28, doi: 10.3847/1538-4357/ac06d4
+Antonini, F., & Perets, H. B. 2012, ApJ, 757, 27, doi: 10.1088/0004-637X/757/1/27
+Hamers, A. S., Bar-Or, B., Petrovich, C., & Antonini, F. 2018, ApJ, 865, 2, doi: 10.3847/1538-4357/aadae2
+Kremer, K., Rui, N. Z., Weatherford, N. C., et al. 2021, ApJ, 917, 28, doi: 10.3847/1538-4357/ac06d4
 Peters, P. C., & Mathews, J. 1963, Physical Review, 131, 435, doi: 10.1103/PhysRev.131.435
 Rodriguez, C. L., Amaro-Seoane, P., Chatterjee, S., et al. 2018, PhRvD, 98, 123005, doi: 10.1103/PhysRevD.98.123005
-Samsing, J., MacLeod, M., & Ramirez-Ruiz, E. 2014,, ApJ, 784, 71, doi: 10.1088/0004-637X/784/1/71
-Shao, Y., & Li, X.-D. 2021,, ApJ, 920, 81, doi: 10.3847/1538-4357/ac173e
-Thompson, T. A. 2011,, ApJ, 741, 82, doi: 10.1088/0004-637X/741/2/82
+Samsing, J., MacLeod, M., & Ramirez-Ruiz, E. 2014, ApJ, 784, 71, doi: 10.1088/0004-637X/784/1/71
+Shao, Y., & Li, X.-D. 2021, ApJ, 920, 81, doi: 10.3847/1538-4357/ac173e
+Thompson, T. A. 2011, ApJ, 741, 82, doi: 10.1088/0004-637X/741/2/82
 Tucker, A., & Will, C. M. 2021, PhRvD, 104, 104023, doi: 10.1103/PhysRevD.104.104023
 Vynatheya, P., & Hamers, A. S. 2021, arXiv e-prints, arXiv:2110.14680. https://arxiv.org/abs/2110.14680
 Wagg, T., Breivik, K., & de Mink, S. E. 2021, arXiv e-prints, arXiv:2111.08717. https://arxiv.org/abs/2111.08717
-Wen, L. 2003,, ApJ, 598, 419, doi: 10.1086/378794
+Wen, L. 2003, ApJ, 598, 419, doi: 10.1086/378794

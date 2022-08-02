@@ -1,52 +1,52 @@
-Bersten, M. C., Benvenuto, O. G., Nomoto, K., et al. 2012,, ApJ, 757, 31
-Blondin, J. M., Lundqvist, P., & Chevalier, R. A. 1996,, ApJ, 472, 257
-Chugai, N. N. 2009,, MNRAS, 400, 866
+Bersten, M. C., Benvenuto, O. G., Nomoto, K., et al. 2012, ApJ, 757, 31
+Blondin, J. M., Lundqvist, P., & Chevalier, R. A. 1996, ApJ, 472, 257
+Chugai, N. N. 2009, MNRAS, 400, 866
 Dessart, L. & Audit, E. 2019, A&A, 629, A17
-Dessart, L., Audit, E., & Hillier, D. J. 2015,, MNRAS, 449, 4304
-Dessart, L., Hillier, D. J., Audit, E., Livne, E., & Waldman, R. 2016,, MNRAS, 458, 2094
+Dessart, L., Audit, E., & Hillier, D. J. 2015, MNRAS, 449, 4304
+Dessart, L., Hillier, D. J., Audit, E., Livne, E., & Waldman, R. 2016, MNRAS, 458, 2094
 Dessart, L., Hillier, D. J., Sukhbold, T., Woosley, S. E., & Janka, H. T. 2021, arXiv e-prints, arXiv:2109.12350
 Dessart, L., Leonard, D. C., & Prieto, J. L. 2020a, A&A, 638, A80
-Dessart, L., Livne, E., & Waldman, R. 2010,, MNRAS, 405, 2113
+Dessart, L., Livne, E., & Waldman, R. 2010, MNRAS, 405, 2113
 Dessart, L., Yoon, S.-C., Aguilera-Dena, D. R., & Langer, N. 2020b, A&A, 642, A106
 Dessart, L., Yoon, S.-C., Livne, E., & Waldman, R. 2018, A&A, 612, A61
-Drout, M. R., Soderberg, A. M., Gal-Yam, A., et al. 2011,, ApJ, 741, 97
-Ertl, T., Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020,, ApJ, 890, 51
-Foley, R. J., Smith, N., Ganeshalingam, M., et al. 2007,, ApJ, 657, L105
-Fuller, J. 2017,, MNRAS, 470, 1642
+Drout, M. R., Soderberg, A. M., Gal-Yam, A., et al. 2011, ApJ, 741, 97
+Ertl, T., Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020, ApJ, 890, 51
+Foley, R. J., Smith, N., Ganeshalingam, M., et al. 2007, ApJ, 657, L105
+Fuller, J. 2017, MNRAS, 470, 1642
 Gonzalez, M., Audit, E., & Huynh, P. 2007, A&A, 464, 429
-Hosseinzadeh, G., Arcavi, I., Valenti, S., et al. 2017,, ApJ, 836, 158
-Hosseinzadeh, G., McCully, C., Zabludoff, A. I., et al. 2019,, ApJ, 871, L9
-Immler, S., Modjaz, M., Landsman, W., et al. 2008,, ApJ, 674, L85
+Hosseinzadeh, G., Arcavi, I., Valenti, S., et al. 2017, ApJ, 836, 158
+Hosseinzadeh, G., McCully, C., Zabludoff, A. I., et al. 2019, ApJ, 871, L9
+Immler, S., Modjaz, M., Landsman, W., et al. 2008, ApJ, 674, L85
 Jerkstrand, A., Maeda, K., & Kawabata, K. S. 2020, Science, 367, 415
 Karamehmetoglu, E., Fransson, C., Sollerman, J., et al. 2021, A&A, 649, A163
-Margutti, R., Metzger, B. D., Chornock, R., et al. 2019,, ApJ, 872, 18
+Margutti, R., Metzger, B. D., Chornock, R., et al. 2019, ApJ, 872, 18
 Matheson, T., Filippenko, A. V., Chornock, R., Leonard, D. C., & Li, W. 2000, AJ, 119, 2303
-Maund, J. R., Pastorello, A., Mattila, S., Itagaki, K., & Boles, T. 2016,, ApJ, 833, 128
-Moriya, T. J. & Maeda, K. 2016,, ApJ, 824, 100
-Owocki, S. P., Townsend, R. H. D., & Quataert, E. 2017,, MNRAS, 472, 3749
-Pastorello, A., Benetti, S., Brown, P. J., et al. 2015a,, MNRAS, 449, 1921
-Pastorello, A., Mattila, S., Zampieri, L., et al. 2008a,, MNRAS, 389, 113
-Pastorello, A., Prieto, J. L., Elias-Rosa, N., et al. 2015b,, MNRAS, 453, 3649
-Pastorello, A., Quimby, R. M., Smartt, S. J., et al. 2008b,, MNRAS, 389, 131
-Pastorello, A., Smartt, S. J., Mattila, S., et al. 2007,, Nature, 447, 829
-Pastorello, A., Wang, X. F., Ciabattari, F., et al. 2016,, MNRAS, 456, 853
-Pastorello, A., Wyrzykowski, L., Valenti, S., et al. 2015c,, MNRAS, 449, 1941
-Piro, A. L. 2015,, ApJ, 808, L51
-Prentice, S. J., Mazzali, P. A., Pian, E., et al. 2016,, MNRAS, 458, 2973
-Quataert, E., Fernandez, R., Kasen, D., Klion, H., & Paxton, B. 2016,, MNRAS, 458, 1214
-Quataert, E. & Shiode, J. 2012,, MNRAS, 423, L92
-Shivvers, I., Zheng, W. K., Mauerhan, J., et al. 2016,, MNRAS, 461, 3057
-Smith, N., Mauerhan, J. C., Silverman, J. M., et al. 2012,, MNRAS, 426, 1905
-Sukhbold, T., Ertl, T., Woosley, S. E., Brown, J. M., & Janka, H.-T. 2016,, ApJ, 821, 38
-Sun, N.-C., Maund, J. R., & Crowther, P. A. 2020a,, MNRAS, 497, 5118
-Sun, N.-C., Maund, J. R., Hirai, R., Crowther, P. A., & Podsiadlowski, P. 2020b,, MNRAS, 491, 6000
-Tominaga, N., Limongi, M., Suzuki, T., et al. 2008,, ApJ, 687, 1208
+Maund, J. R., Pastorello, A., Mattila, S., Itagaki, K., & Boles, T. 2016, ApJ, 833, 128
+Moriya, T. J. & Maeda, K. 2016, ApJ, 824, 100
+Owocki, S. P., Townsend, R. H. D., & Quataert, E. 2017, MNRAS, 472, 3749
+Pastorello, A., Benetti, S., Brown, P. J., et al. 2015a, MNRAS, 449, 1921
+Pastorello, A., Mattila, S., Zampieri, L., et al. 2008a, MNRAS, 389, 113
+Pastorello, A., Prieto, J. L., Elias-Rosa, N., et al. 2015b, MNRAS, 453, 3649
+Pastorello, A., Quimby, R. M., Smartt, S. J., et al. 2008b, MNRAS, 389, 131
+Pastorello, A., Smartt, S. J., Mattila, S., et al. 2007, Nature, 447, 829
+Pastorello, A., Wang, X. F., Ciabattari, F., et al. 2016, MNRAS, 456, 853
+Pastorello, A., Wyrzykowski, L., Valenti, S., et al. 2015c, MNRAS, 449, 1941
+Piro, A. L. 2015, ApJ, 808, L51
+Prentice, S. J., Mazzali, P. A., Pian, E., et al. 2016, MNRAS, 458, 2973
+Quataert, E., Fernandez, R., Kasen, D., Klion, H., & Paxton, B. 2016, MNRAS, 458, 1214
+Quataert, E. & Shiode, J. 2012, MNRAS, 423, L92
+Shivvers, I., Zheng, W. K., Mauerhan, J., et al. 2016, MNRAS, 461, 3057
+Smith, N., Mauerhan, J. C., Silverman, J. M., et al. 2012, MNRAS, 426, 1905
+Sukhbold, T., Ertl, T., Woosley, S. E., Brown, J. M., & Janka, H.-T. 2016, ApJ, 821, 38
+Sun, N.-C., Maund, J. R., & Crowther, P. A. 2020a, MNRAS, 497, 5118
+Sun, N.-C., Maund, J. R., Hirai, R., Crowther, P. A., & Podsiadlowski, P. 2020b, MNRAS, 491, 6000
+Tominaga, N., Limongi, M., Suzuki, T., et al. 2008, ApJ, 687, 1208
 Vaytet, N. M. H., Audit, E., Dubroca, B., & Delahaye, F. 2011, J. Quant. Spec. Radiat. Transf., 112, 1323
-Vlasis, A., Dessart, L., & Audit, E. 2016,, MNRAS, 458, 1253
-Waldman, R., Sauer, D., Livne, E., et al. 2011,, ApJ, 738, 21
-Woosley, S. E. 2017,, ApJ, 836, 244
-Woosley, S. E. 2019,, ApJ, 878, 49
-Woosley, S. E. & Heger, A. 2015,, ApJ, 810, 34
-Woosley, S. E., Sukhbold, T., & Kasen, D. N. 2021,, ApJ, 913, 145
+Vlasis, A., Dessart, L., & Audit, E. 2016, MNRAS, 458, 1253
+Waldman, R., Sauer, D., Livne, E., et al. 2011, ApJ, 738, 21
+Woosley, S. E. 2017, ApJ, 836, 244
+Woosley, S. E. 2019, ApJ, 878, 49
+Woosley, S. E. & Heger, A. 2015, ApJ, 810, 34
+Woosley, S. E., Sukhbold, T., & Kasen, D. N. 2021, ApJ, 913, 145
 Woosley, S. E., Weaver, T. A., & Taam, R. E. 1980, in Texas Workshop on Type I Supernovae, ed. J. C. Wheeler, 96-112
-Yoshida, T., Umeda, H., Maeda, K., & Ishii, T. 2016,, MNRAS, 457, 351
+Yoshida, T., Umeda, H., Maeda, K., & Ishii, T. 2016, MNRAS, 457, 351

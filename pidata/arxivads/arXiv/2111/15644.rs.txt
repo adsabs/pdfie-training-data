@@ -1,27 +1,27 @@
 & Birch, P. V. 1995, Icarus, 118, 223, doi: 10.1006/icar.1995.1190
 Bemporad, A., Giordano, S., Raymond, J. C., & Knight, M. M. 2015, Advances in Space Research, 56, 2288, doi: 10.1016/j.asr.2015.08.037
 Bemporad, A., Poletto, G., Raymond, J., & Giordano, S. 2007, Planet. Space Sci., 55, 1021, doi: 10.1016/j.pss.2006.11.013
-Bemporad, A., Poletto, G., Raymond, J. C., et al. 2005,, ApJ, 620, 523, doi: 10.1086/427063
+Bemporad, A., Poletto, G., Raymond, J. C., et al. 2005, ApJ, 620, 523, doi: 10.1086/427063
 Biver, N., Bockel ee-Morvan, D., Colom, P., et al. 2011, A&A, 528, A142, doi: 10.1051/0004-6361/201016250
 Brandt, J. C., & Snow, M. 2000, Icarus, 148, 52, doi: 10.1006/icar.2000.6484
 Ciaravella, A., Raymond, J. C., & Giordano, S. 2010, ApJL, 713, L69, doi: 10.1088/2041-8205/713/1/L69
 Combi, M. R., Boyd, Z., Lee, Y., et al. 2011, Icarus, 216, 449, doi: 10.1016/j.icarus.2011.09.019
 Combi, M. R., M akinen, T. T., Bertaux, J. L., Qu emerais, E., & Ferron, S. 2019, Icarus, 317, 610, doi: 10.1016/j.icarus.2018.08.031
-Combi, M. R., & Smyth, W. H. 1988,, ApJ, 327, 1044, doi: 10.1086/166261
+Combi, M. R., & Smyth, W. H. 1988, ApJ, 327, 1044, doi: 10.1086/166261
 Cravens, T. E., Kozyra, J. U., Nagy, A. F., Gombosi, T. I., & Kurtz, M. 1987, J. Geophys. Res., 92, 7341, doi: 10.1029/JA092iA07p07341
 Curdt, W., Brekke, P., Feldman, U., et al. 2001, A&A, 375, 591, doi: 10.1051/0004-6361:20010364
-Del Zanna, G., Dere, K. P., Young, P. R., & Landi, E. 2021,, ApJ, 909, 38, doi: 10.3847/1538-4357/abd8ce
+Del Zanna, G., Dere, K. P., Young, P. R., & Landi, E. 2021, ApJ, 909, 38, doi: 10.3847/1538-4357/abd8ce
 Eisner, N. L., Knight, M. M., Snodgrass, C., et al. 2019, AJ, 157, 186, doi: 10.3847/1538-3881/ab0f42
 Feldman, P. D., A'Hearn, M. F., Bertaux, J.-L., et al. 2018, AJ, 155, 9, doi: 10.3847/1538-3881/aa9bf2
-Feldman, U., Dammasch, I. E., & Doschek, G. A. 2011,, ApJ, 743, 165, doi: 10.1088/0004-637X/743/2/165
-Giordano, S., Raymond, J. C., Lamy, P., Uzzo, M., & Dobrzycka, D. 2015,, ApJ, 798, 47, doi: 10.1088/0004-637X/798/1/47
+Feldman, U., Dammasch, I. E., & Doschek, G. A. 2011, ApJ, 743, 165, doi: 10.1088/0004-637X/743/2/165
+Giordano, S., Raymond, J. C., Lamy, P., Uzzo, M., & Dobrzycka, D. 2015, ApJ, 798, 47, doi: 10.1088/0004-637X/798/1/47
 Green, D. W. E., Rickman, H., Porter, A. C., & Meech, K. J. 1990, Science, 247, 1063, doi: 10.1126/science.247.4946.1063
-Gringauz, K. I., Gombosi, T. I., Remizov, A. P., et al. 1986,, Nature, 321, 282, doi: 10.1038/321282a0
+Gringauz, K. I., Gombosi, T. I., Remizov, A. P., et al. 1986, Nature, 321, 282, doi: 10.1038/321282a0
 Grynko, Y., Jockers, K., & Schwenn, R. 2004, A&A, 427, 755, doi: 10.1051/0004-6361:20047131
 Jockers, K., Lust, R., & Nowak, T. 1972, A&A, 21, 199
 Jones, G. H., Knight, M. M., Battams, K., et al. 2018, SSRv, 214, 20, doi: 10.1007/s11214-017-0446-5
 Kimura, H., Mann, I., Biesecker, D. A., & Jessberger, E. K. 2002, Icarus, 159, 529, doi: 10.1006/icar.2002.6940
-Kingdon, J. B., & Ferland, G. J. 1996,, ApJS, 106, 205, doi: 10.1086/192335
+Kingdon, J. B., & Ferland, G. J. 1996, ApJS, 106, 205, doi: 10.1086/192335
 Kohl, J. L., Esser, R., Gardner, L. D., et al. 1995, SoPh, 162, 313, doi: 10.1007/BF00733433
 Langland-Shula, L. E., & Smith, G. H. 2007, ApJL, 664, L119, doi: 10.1086/520839
 Lemaire, P., Vial, J. C., Curdt, W., Sch uhle, U., & Wilhelm, K. 2015, A&A, 581, A26, doi: 10.1051/0004-6361/201526059
@@ -29,20 +29,20 @@ Liang, G. Y., Badnell, N. R., & Zhao, G. 2012, A&A, 547, A87, doi: 10.1051/0004-
 Mancuso, S. 2015, A&A, 578, L7, doi: 10.1051/0004-6361/201526132 Matlovi c, P., T
 oth, J., Rudawska, R., Korno s, L., & Pisar c ikov a, A. 2019, A&A, 629, A71, doi: 10.1051/0004-6361/201936093
 McIntosh, B. A. 1990, Icarus, 86, 299, doi: 10.1016/0019-1035(90)90219-Y
-Morton, D. C. 1991,, ApJS, 77, 119, doi: 10.1086/191601
+Morton, D. C. 1991, ApJS, 77, 119, doi: 10.1086/191601
 Ohtsuka, K., Nakano, S., & Yoshikawa, M. 2003, PASJ, 55, 321, doi: 10.1093/pasj/55.1.321
 Povich, M. S., Raymond, J. C., Jones, G. H., et al. 2003, Science, 302, 1949, doi: 10.1126/science.1092142, doi:10.1126/science.1092142
 Rauer, H., & Jockers, K. 1993, Icarus, 102, 117, doi: 10.1006/icar.1993.1037
-Raymond, J. C., Downs, C., Knight, M. M., et al. 2018,, ApJ, 858, 19, doi: 10.3847/1538-4357/aabade
-Raymond, J. C., & Giordano, S. 2019,, ApJ, 887, 45, doi: 10.3847/1538-4357/ab4e95
-Raymond, J. C., Fineschi, S., Smith, P. L., et al. 1998,, ApJ, 508, 410, doi: 10.1086/306391
-Raymond, J. C., Uzzo, M., Ko, Y. K., et al. 2002,, ApJ, 564, 1054, doi: 10.1086/324545
-Reilman, R. F., & Manson, S. T. 1979,, ApJS, 40, 815, doi: 10.1086/190605
+Raymond, J. C., Downs, C., Knight, M. M., et al. 2018, ApJ, 858, 19, doi: 10.3847/1538-4357/aabade
+Raymond, J. C., & Giordano, S. 2019, ApJ, 887, 45, doi: 10.3847/1538-4357/ab4e95
+Raymond, J. C., Fineschi, S., Smith, P. L., et al. 1998, ApJ, 508, 410, doi: 10.1086/306391
+Raymond, J. C., Uzzo, M., Ko, Y. K., et al. 2002, ApJ, 564, 1054, doi: 10.1086/324545
+Reilman, R. F., & Manson, S. T. 1979, ApJS, 40, 815, doi: 10.1086/190605
 Scherb, F., Magee-Sauer, K., Roesler, F. L., & Harlander, J. 1990, Icarus, 86, 172, doi: 10.1016/0019-1035(90)90206-O
 Schleicher, D. G. 2008, AJ, 136, 2204, doi: 10.1088/0004-6256/136/5/2204
-Schultz, D. R., Krstic, P. S., Lee, T. G., & Raymond, J. C. 2008,, ApJ, 678, 950, doi: 10.1086/533579
+Schultz, D. R., Krstic, P. S., Lee, T. G., & Raymond, J. C. 2008, ApJ, 678, 950, doi: 10.1086/533579
 Tachiev, G., & Froese Fischer, C. 1999, Journal of Physics B Atomic Molecular Physics, 32, 5805, doi: 10.1088/0953-4075/32/24/315
-Uzzo, M., Raymond, J. C., Biesecker, D., et al. 2001,, ApJ, 558, 403, doi: 10.1086/322473
-Vernazza, J. E., & Reeves, E. M. 1978,, ApJS, 37, 485, doi: 10.1086/190539
+Uzzo, M., Raymond, J. C., Biesecker, D., et al. 2001, ApJ, 558, 403, doi: 10.1086/322473
+Vernazza, J. E., & Reeves, E. M. 1978, ApJS, 37, 485, doi: 10.1086/190539
 Wang, Y. M. 2010, ApJL, 715, L121, doi: 10.1088/2041-8205/715/2/L121
 Woods, T., Bailey, S., Eparvier, F., et al. 2000, Physics and Chemistry of the Earth C, 25, 393, doi: 10.1016/S1464-1917(00)00040-4

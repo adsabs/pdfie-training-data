@@ -1,45 +1,45 @@
-An, D., & Beers, T. C. 2020,, ApJ, 897, 39
-An, D., & Beers, T. C. 2021,, ApJ, 918, 74
+An, D., & Beers, T. C. 2020, ApJ, 897, 39
+An, D., & Beers, T. C. 2021, ApJ, 918, 74
 Anguiano, B., Majewski, S. R., Allende-Prieto, C., et al. 2018, A&A, 620, A76
 Bailer-Jones, C. A. L., Rybizki, J., Fouesneau, M., et al. 2021, AJ, 161, 147
-Beers, T. C., Norris, J. E., Placco, V. M., et al. 2014,, ApJ, 794, 58
-Beraldo e Silva, L., Debattista, V. P., Nidever, D., et al. 2021,, MNRAS, 502, 260
-Carollo, D., Beers, T. C., Chiba, M., et al. 2010,, ApJ, 712, 692
-Carollo, D., Chiba, M., Ishigaki, M., et al. 2019,, ApJ, 887, 22
+Beers, T. C., Norris, J. E., Placco, V. M., et al. 2014, ApJ, 794, 58
+Beraldo e Silva, L., Debattista, V. P., Nidever, D., et al. 2021, MNRAS, 502, 260
+Carollo, D., Beers, T. C., Chiba, M., et al. 2010, ApJ, 712, 692
+Carollo, D., Chiba, M., Ishigaki, M., et al. 2019, ApJ, 887, 22
 Carollo, D., & Chiba, M. 2020, arXiv:2010.00235
-Chiappini, C., Matteucci, F., & Gratton, G. 1997,, ApJ, 477, 765
+Chiappini, C., Matteucci, F., & Gratton, G. 1997, ApJ, 477, 765
 Chiba, M., & Beers, T. C. 2000, AJ, 119, 2843
-Cordoni, G., Da Costa, G. S., Yong, D., et al. 2021,, MNRAS, 503, 2539
+Cordoni, G., Da Costa, G. S., Yong, D., et al. 2021, MNRAS, 503, 2539
 Cui, X. -Q., Zhao, Y. -H., Chu, Y. -Q., et al. 2012, RAA, 9, 1197
 Di Matteo, P., Lehnert, M. D., Qu, -Y., & van Driel, W. 2011, A&A, 525, L3
 Di Matteo, P., Fragkoudi, F., Khoperskov, S., et al. 2019, A&A, 628, A11
 Foreman-Mackey, D., Hogg, D. W., Lang, D., & Goodman, J. 2013, PASP, 125, 306
 Franchini, M., Morossi, C., Di Marcantonio, P., et al. 2021, AJ, 161, 9
 Gaia Collaboration., Brown, A. G. A., Vallenari, A., et al. 2021, A&A, 649, A1
-Gilmore, G., & Reid, N. 1983,, MNRAS, 202, 1025
+Gilmore, G., & Reid, N. 1983, MNRAS, 202, 1025
 Girard, T. M., Korchagin, V. I., Casetti-Dinescu, D. I., & van Altena, W. F. 2006, AJ, 132, 1768
 Hayden, M. R., Holtzmann, J. A., Bovy, J., et al. 2014, AJ, 147, 116
-Helmi, A., Babusiaux, C., Koppelman, H. H., et al. 2018,, Nature, 563, 85
-Ivezi c, Z., Sesar, B., Jurii c, M., et al. 2008,, ApJ, 684, 287
+Helmi, A., Babusiaux, C., Koppelman, H. H., et al. 2018, Nature, 563, 85
+Ivezi c, Z., Sesar, B., Jurii c, M., et al. 2008, ApJ, 684, 287
 Kordopatis, G., Recio-Blanco, A., de Laverny, P., et al. 2011, A&A, 535, A107
-Kordopatis, G., Gilmore, G., Wyse, R.F.G., et al. 2013,, MNRAS, 436, 3231
+Kordopatis, G., Gilmore, G., Wyse, R.F.G., et al. 2013, MNRAS, 436, 3231
 Luo, A. -L., Zhao, Y. -H., Zhao, G., et al. 2015, RAA, 15, 1095
 Miranda, R., Pilkington, K., Gibson, B. K., et al. 2016, A&A, 587, A10
 Morrison, H. L, Flynn, C., & Freeman, K. C. 1990, AJ, 100, 1191
-Naidu, R. P., Conroy, C., Vonaca, A., et al. 2020,, ApJ, 901, 48
-Norris, J., Bessell, M. S., & Pickles, A. J. 1985,, ApJS, 58, 463
+Naidu, R. P., Conroy, C., Vonaca, A., et al. 2020, ApJ, 901, 48
+Norris, J., Bessell, M. S., & Pickles, A. J. 1985, ApJS, 58, 463
 Recio-Blanco, A., de Laverny, P., Kordopatis, G., et al. 2014, A&A, 567, A5
-Reddy, B. E., & Lambert, D. L. 2008,, MNRAS, 391, 95
-Reid, M. J., Menten, K. M., Brunthaler, A., et al. 2014,, ApJ, 783, 130
-Ruchti, G. R., Fulbright, J. P., Wyse, R. F. G., et al. 2010,, ApJ, 721, 92
-Ruchti, G. R., Fulbright, J. P., Wyse, R. F. G., et al. 2011,, ApJ, 737, 9
+Reddy, B. E., & Lambert, D. L. 2008, MNRAS, 391, 95
+Reid, M. J., Menten, K. M., Brunthaler, A., et al. 2014, ApJ, 783, 130
+Ruchti, G. R., Fulbright, J. P., Wyse, R. F. G., et al. 2010, ApJ, 721, 92
+Ruchti, G. R., Fulbright, J. P., Wyse, R. F. G., et al. 2011, ApJ, 737, 9
 Ryan, S. G., & Lambert, D. L. 1995, AJ, 109, 2068
-Schonrich, R., Binney, J. & Dehnen, W. 2010,, MNRAS, 403, 1829
+Schonrich, R., Binney, J. & Dehnen, W. 2010, MNRAS, 403, 1829
 Steinmetz, M., Matijevi c, G., Enke, H., et al. 2020a, AJ, 160, 82
 Steinmetz, M., Guiglion, G., McMillan, P. J., et al. 2020b, AJ, 160, 83
-Tian, H., Liu, C., Xu, Y., & Xue, X. -X. 2019,, ApJ, 871, 184
-Tian, H., Liu, C., Wang, Y. -G., et al. 2020,, ApJ, 899, 110
+Tian, H., Liu, C., Xu, Y., & Xue, X. -X. 2019, ApJ, 871, 184
+Tian, H., Liu, C., Wang, Y. -G., et al. 2020, ApJ, 899, 110
 Twarog, B. A., & Anthony-Twarog, B. J. 1994, AJ, 107, 1371
 van der Kruit, P. C., & Freeman, F. C. 2011, ARA&A, 49, 301
-Xiang, M. -S., Ting, Y. -S., Rix, H.-W, et al. 2019,, ApJS, 245, 34
+Xiang, M. -S., Ting, Y. -S., Rix, H.-W, et al. 2019, ApJS, 245, 34
 York, D. G., Adelman, J., Anderson, J. E., et al. 2000, AJ, 120, 1579

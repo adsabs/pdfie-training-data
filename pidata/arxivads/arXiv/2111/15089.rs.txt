@@ -1,35 +1,35 @@
-Abdollahi, S., Acero, F., Ackermann, M., et al. 2020,, ApJS, 247, 33
-Al Noori, H., Roberts, M. S. E., Torres, R. A., et al. 2018,, ApJ, 861, 89
+Abdollahi, S., Acero, F., Ackermann, M., et al. 2020, ApJS, 247, 33
+Al Noori, H., Roberts, M. S. E., Torres, R. A., et al. 2018, ApJ, 861, 89
 Archibald, A. M., Stairs, I. H., Ransom, S. M., et al. 2009, Science, 324, 1411
-Bassa, C. G., Patruno, A., Hessels, J. W. T., et al. 2014,, MNRAS, 441, 1825
-Benvenuto, O. G., De Vito, M. A., & Horvath, J. E. 2014,, ApJ, 786, L7
+Bassa, C. G., Patruno, A., Hessels, J. W. T., et al. 2014, MNRAS, 441, 1825
+Benvenuto, O. G., De Vito, M. A., & Horvath, J. E. 2014, ApJ, 786, L7
 Bhattacharya, D., & van den Heuvel, E. P. J. 1991, Phys. Rep., 203, 1
-Bogdanov, S., Archibald, A. M., Hessels, J. W. T., et al. 2011,, ApJ, 742, 97
-Bogdanov, S., & Halpern, J. P. 2015,, ApJ, 803, L27
-Chen, H.-L., Chen, X., Tauris, T. M., & Han, Z. 2013,, ApJ, 775, 27
-Cho, P. B., Halpern, J. P., & Bogdanov, S. 2018,, ApJ, 866, 71
+Bogdanov, S., Archibald, A. M., Hessels, J. W. T., et al. 2011, ApJ, 742, 97
+Bogdanov, S., & Halpern, J. P. 2015, ApJ, 803, L27
+Chen, H.-L., Chen, X., Tauris, T. M., & Han, Z. 2013, ApJ, 775, 27
+Cho, P. B., Halpern, J. P., & Bogdanov, S. 2018, ApJ, 866, 71
 Coti Zelati, F., Papitto, A., de Martino, D., et al. 2019, A&A, 622, A211
-Dewey, R. J., Taylor, J. H., Weisberg, J. M., & Stokes, G. H. 1985,, ApJ, 294, L25
-Halpern, J. P., Bogdanov, S., & Thorstensen, J. R. 2017,, ApJ, 838, 124
+Dewey, R. J., Taylor, J. H., Weisberg, J. M., & Stokes, G. H. 1985, ApJ, 294, L25
+Halpern, J. P., Bogdanov, S., & Thorstensen, J. R. 2017, ApJ, 838, 124
 He, L., et al. 2019, Research in Astronomy and Astrophysics, 19, 098
 HI4PI Collaboration, Ben Bekhti, N., Floer, L., et al. 2016, A&A, 594, A116
 Jiang, P., Tang, N.-Y., Hou, L.-G., et al. 2020, Research in Astronomy and Astrophysics, 20, 064
-Li, K.-L., Kong, A. K. H., Hou, X., et al. 2016,, ApJ, 833, 143
-Li, K.-L., Hou, X., Strader, J., et al. 2018,, ApJ, 863, 194
-Linares, M. 2014,, ApJ, 795, 72
-Linares, M. 2018,, MNRAS, 473, L50
-Miller, J. M., Swihart, S. J., Strader, J., et al. 2020,, ApJ, 904, 49
+Li, K.-L., Kong, A. K. H., Hou, X., et al. 2016, ApJ, 833, 143
+Li, K.-L., Hou, X., Strader, J., et al. 2018, ApJ, 863, 194
+Linares, M. 2014, ApJ, 795, 72
+Linares, M. 2018, MNRAS, 473, L50
+Miller, J. M., Swihart, S. J., Strader, J., et al. 2020, ApJ, 904, 49
 Nan, R. 2006, Science in China: Physics, Mechanics and Astronomy, 49, 129
-Patruno, A., Archibald, A. M., Hessels, J. W. T., et al. 2014,, ApJ, 781, L3
-Patruno, A., Jaodand, A., Kuiper, L., et al. 2017,, ApJ, 841, 98
+Patruno, A., Archibald, A. M., Hessels, J. W. T., et al. 2014, ApJ, 781, L3
+Patruno, A., Jaodand, A., Kuiper, L., et al. 2017, ApJ, 841, 98
 Ransom, S. M. 2001, New search techniques for binary pulsars, PhD thesis, Harvard University
-Ransom, S. M., Cordes, J. M., & Eikenberry, S. S. 2003,, ApJ, 589, 911
+Ransom, S. M., Cordes, J. M., & Eikenberry, S. S. 2003, ApJ, 589, 911
 Ransom, S. M., Eikenberry, S. S., & Middleditch, J. 2002, AJ, 124, 1788
 Roberts, M. S. E. 2013, in Neutron Stars and Pulsars: Challenges and Opportunities after 80 years, ed. J. van Leeuwen, Vol. 291, 127
-Shahbaz, T., Linares, M., Nevado, S. P., et al. 2015,, MNRAS, 453, 3461
-Stappers, B. W., Archibald, A. M., Hessels, J. W. T., et al. 2014,, ApJ, 790, 39
-Strader, J., Swihart, S., Chomiuk, L., et al. 2019,, ApJ, 872, 42
-Swihart, S. J., Strader, J, Shishkovsky, L., et al. 2018,, ApJ, 866, 83
-Takata, J., Li, K. L., Leung, G. C. K., et al. 2014,, ApJ, 785, 131
-Wang, Z., Xing, Y., Zhang, J., et al. 2020,, MNRAS, 493, 4845
-Yao, J. M., Manchester, R. N., & Wang, N. 2017,, ApJ, 835, 29
+Shahbaz, T., Linares, M., Nevado, S. P., et al. 2015, MNRAS, 453, 3461
+Stappers, B. W., Archibald, A. M., Hessels, J. W. T., et al. 2014, ApJ, 790, 39
+Strader, J., Swihart, S., Chomiuk, L., et al. 2019, ApJ, 872, 42
+Swihart, S. J., Strader, J, Shishkovsky, L., et al. 2018, ApJ, 866, 83
+Takata, J., Li, K. L., Leung, G. C. K., et al. 2014, ApJ, 785, 131
+Wang, Z., Xing, Y., Zhang, J., et al. 2020, MNRAS, 493, 4845
+Yao, J. M., Manchester, R. N., & Wang, N. 2017, ApJ, 835, 29

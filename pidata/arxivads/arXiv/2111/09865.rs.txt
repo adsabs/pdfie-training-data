@@ -1,31 +1,31 @@
-Abdo, A. A., Ackermann, M., Ajello, M., et al. 2011,, ApJ, 736, 131, doi: 10.1088/0004-637X/736/2/131
+Abdo, A. A., Ackermann, M., Ajello, M., et al. 2011, ApJ, 736, 131, doi: 10.1088/0004-637X/736/2/131
 Barcons, X., Barret, D., Decourchelle, A., et al. 2017, Astronomische Nachrichten, 338, 153, doi: 10.1002/asna.201713323
 Blanton, M. R., Bershady, M. A., Abolfathi, B., et al. 2017, AJ, 154, 28, doi: 10.3847/1538-3881/aa7567
 Bonnarel, F., Fernique, P., Bienayme, O., et al. 2000, A&AS, 143, 33, doi: 10.1051/aas:2000331
-Bowen, D. V., Pettini, M., & Blades, J. C. 2002,, ApJ, 580, 169, doi: 10.1086/343106
+Bowen, D. V., Pettini, M., & Blades, J. C. 2002, ApJ, 580, 169, doi: 10.1086/343106
 Bregman, J. N., Alves, G. C., Miller, M. J., & Hodges-Kluck, E. 2015, Journal of Astronomical Telescopes, Instruments, and Systems, 1, 045003, doi: 10.1117/1.JATIS.1.4.045003
 Bregman, J. N., Hodges-Kluck, E., Qu, Z., et al. 2021, arXiv e-prints, arXiv:2107.14281. https://arxiv.org/abs/2107.14281
-Chevalier, J., Sanchez, D. A., Serpico, P. D., Lenain, J. P., & Maurin, G. 2019,, MNRAS, 484, 749, doi: 10.1093/mnras/stz027
+Chevalier, J., Sanchez, D. A., Serpico, P. D., Lenain, J. P., & Maurin, G. 2019, MNRAS, 484, 749, doi: 10.1093/mnras/stz027
 DES Collaboration, Abbott, T. M. C., Adamow, M., et al. 2021, arXiv e-prints, arXiv:2101.05765. https://arxiv.org/abs/2101.05765
-Flewelling, H. A., Magnier, E. A., Chambers, K. C., et al. 2020,, ApJS, 251, 7, doi: 10.3847/1538-4365/abb82d
-Fukugita, M., Hogan, C. J., & Peebles, P. J. E. 1998,, ApJ, 503, 518, doi: 10.1086/306025
+Flewelling, H. A., Magnier, E. A., Chambers, K. C., et al. 2020, ApJS, 251, 7, doi: 10.3847/1538-4365/abb82d
+Fukugita, M., Hogan, C. J., & Peebles, P. J. E. 1998, ApJ, 503, 518, doi: 10.1086/306025
 Gaskin, J. A., Swartz, D. A., Vikhlinin, A., et al. 2019, Journal of Astronomical Telescopes, Instruments, and Systems, 5, 021001, doi: 10.1117/1.JATIS.5.2.021001
 Johnson, S. D., Mulchaey, J. S., Chen, H.-W., et al. 2019, ApJL, 884, L31, doi: 10.3847/2041-8213/ab479a
 Joye, W. A., & Mandel, E. 2003, in Astronomical Society of the Pacific Conference Series, Vol. 295, Astronomical Data Analysis Software and Systems XII, ed. H. E. Payne, R. I. Jedrzejewski, & R. N. Hook, 489
-Miller, M. J., & Bregman, J. N. 2013,, ApJ, 770, 118, doi: 10.1088/0004-637X/770/2/118
-Nicastro, F., Kaastra, J., Krongold, Y., et al. 2018,, Nature, 558, 406, doi: 10.1038/s41586-018-0204-1
-Oppenheimer, B. D. 2018,, MNRAS, 480, 2963, doi: 10.1093/mnras/sty1918
+Miller, M. J., & Bregman, J. N. 2013, ApJ, 770, 118, doi: 10.1088/0004-637X/770/2/118
+Nicastro, F., Kaastra, J., Krongold, Y., et al. 2018, Nature, 558, 406, doi: 10.1038/s41586-018-0204-1
+Oppenheimer, B. D. 2018, MNRAS, 480, 2963, doi: 10.1093/mnras/sty1918
 Planck Collaboration, Ade, P. A. R., Aghanim, N., et al. 2013, A&A, 557, A52, doi: 10.1051/0004-6361/201220941
-Prochaska, J. X., Weiner, B., Chen, H. W., Cooksey, K. L., & Mulchaey, J. S. 2011,, ApJS, 193, 28, doi: 10.1088/0067-0049/193/2/28
-Prochaska, J. X., Burchett, J. N., Tripp, T. M., et al. 2019,, ApJS, 243, 24, doi: 10.3847/1538-4365/ab2b9a
-Qu, Z., & Bregman, J. N. 2018,, ApJ, 862, 23, doi: 10.3847/1538-4357/aaccec
+Prochaska, J. X., Weiner, B., Chen, H. W., Cooksey, K. L., & Mulchaey, J. S. 2011, ApJS, 193, 28, doi: 10.1088/0067-0049/193/2/28
+Prochaska, J. X., Burchett, J. N., Tripp, T. M., et al. 2019, ApJS, 243, 24, doi: 10.3847/1538-4365/ab2b9a
+Qu, Z., & Bregman, J. N. 2018, ApJ, 862, 23, doi: 10.3847/1538-4357/aaccec
 Reid, I. N., Brewer, C., Brucato, R. J., et al. 1991, PASP, 103, 661, doi: 10.1086/132866
-Shanks, T., Metcalfe, N., Chehade, B., et al. 2015,, MNRAS, 451, 4238, doi: 10.1093/mnras/stv1130
-Shull, J. M., Smith, B. D., & Danforth, C. W. 2012,, ApJ, 759, 23, doi: 10.1088/0004-637X/759/1/23
+Shanks, T., Metcalfe, N., Chehade, B., et al. 2015, MNRAS, 451, 4238, doi: 10.1093/mnras/stv1130
+Shull, J. M., Smith, B. D., & Danforth, C. W. 2012, ApJ, 759, 23, doi: 10.1088/0004-637X/759/1/23
 Skrutskie, M. F., Cutri, R. M., Stiening, R., et al. 2006, AJ, 131, 1163, doi: 10.1086/498708
-Smith, B. D., Hallman, E. J., Shull, J. M., & O'Shea, B. W. 2011,, ApJ, 731, 6, doi: 10.1088/0004-637X/731/1/6
+Smith, B. D., Hallman, E. J., Shull, J. M., & O'Shea, B. W. 2011, ApJ, 731, 6, doi: 10.1088/0004-637X/731/1/6
 Smith, R. K. 2020, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 11444, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114442C, doi: 10.1117/12.2576047
-Werk, J. K., Prochaska, J. X., Tumlinson, J., et al. 2014,, ApJ, 792, 8, doi: 10.1088/0004-637X/792/1/8
+Werk, J. K., Prochaska, J. X., Tumlinson, J., et al. 2014, ApJ, 792, 8, doi: 10.1088/0004-637X/792/1/8
 Wright, E. L. 2006, PASP, 118, 1711, doi: 10.1086/510102
 Wright, E. L., Eisenhardt, P. R. M., Mainzer, A. K., et al. 2010, AJ, 140, 1868, doi: 10.1088/0004-6256/140/6/1868
-Yao, Y., Shull, J. M., Wang, Q. D., & Cash, W. 2012,, ApJ, 746, 166, doi: 10.1088/0004-637X/746/2/166
+Yao, Y., Shull, J. M., Wang, Q. D., & Cash, W. 2012, ApJ, 746, 166, doi: 10.1088/0004-637X/746/2/166

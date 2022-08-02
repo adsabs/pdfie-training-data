@@ -1,115 +1,115 @@
 Alard C., 2001, A&A, 379, L44
-Alonso-Garcia J., et al., 2017,, ApJ, 849, L13
-Armillotta L., Krumholz M. R., Di Teodoro E. M., McClure-Griffiths N. M., 2019,, MNRAS, 490, 4401
-Athanassoula E., 1992,, MNRAS, 259, 345
-Aumer M., Schonrich R., 2015,, MNRAS, 454, 3166
-Baba J., Kawata D., 2020,, MNRAS, 492, 4500
-Barnes A. T., Longmore S. N., Battersby C., Bally J., Kruijssen J. M. D., Henshaw J. D., Walker D. L., 2017,, MNRAS, 469, 2263
-Bernard E. J., Schultheis M., Di Matteo P., Hill V., Haywood M., Calamida A., 2018,, MNRAS, 477, 3507
-Binney J., 2010,, MNRAS, 401, 2318
-Binney J., 2012,, MNRAS, 426, 1324
+Alonso-Garcia J., et al., 2017, ApJ, 849, L13
+Armillotta L., Krumholz M. R., Di Teodoro E. M., McClure-Griffiths N. M., 2019, MNRAS, 490, 4401
+Athanassoula E., 1992, MNRAS, 259, 345
+Aumer M., Schonrich R., 2015, MNRAS, 454, 3166
+Baba J., Kawata D., 2020, MNRAS, 492, 4500
+Barnes A. T., Longmore S. N., Battersby C., Bally J., Kruijssen J. M. D., Henshaw J. D., Walker D. L., 2017, MNRAS, 469, 2263
+Bernard E. J., Schultheis M., Di Matteo P., Hill V., Haywood M., Calamida A., 2018, MNRAS, 477, 3507
+Binney J., 2010, MNRAS, 401, 2318
+Binney J., 2012, MNRAS, 426, 1324
 Binney J., 2013, in Falcon-Barroso, J. and Knapen, J. (eds.), Secular Evolution of Galaxies. Cambridge University press, p. 259
-Binney J., 2014,, MNRAS, 440, 787
-Binney J., 2020,, MNRAS, 495, 895
-Binney J., McMillan P., 2011,, MNRAS, 413, 1889
+Binney J., 2014, MNRAS, 440, 787
+Binney J., 2020, MNRAS, 495, 895
+Binney J., McMillan P., 2011, MNRAS, 413, 1889
 Binney J., Tremaine S., 2008, Galactic Dynamics: Second Edition. Princeton University press
-Bissantz N., Englmaier P., Gerhard O., 2003,, MNRAS, 340, 949
+Bissantz N., Englmaier P., Gerhard O., 2003, MNRAS, 340, 949
 Bittner A., et al., 2020, A&A, 643, A65
 Bittner A., et al., 2021, A&A, 646, A42
 Bland-Hawthorn J., Gerhard O., 2016, ARA&A, 54, 529
-Bressan A., Marigo P., Girardi L., Salasnich B., Dal Cero C., Rubele S., Nanni A., 2012,, MNRAS, 427, 127
-Cappellari M., 2008,, MNRAS, 390, 71
-Catchpole R. M., Whitelock P. A., Glass I. S., 1990,, MNRAS, 247, 479
-Chatzopoulos S., Fritz T. K., Gerhard O., Gillessen S., Wegg C., Genzel R., Pfuhl O., 2015a,, MNRAS, 447, 948
-Chatzopoulos S., Gerhard O., Fritz T. K., Wegg C., Gillessen S., Pfuhl O., Eisenhauer F., 2015b,, MNRAS, 453, 939
-Chiba R., Schonrich R., 2021,, MNRAS, 505, 2412
-Chiba R., Friske J. K. S., Schonrich R., 2021,, MNRAS, 500, 4710
+Bressan A., Marigo P., Girardi L., Salasnich B., Dal Cero C., Rubele S., Nanni A., 2012, MNRAS, 427, 127
+Cappellari M., 2008, MNRAS, 390, 71
+Catchpole R. M., Whitelock P. A., Glass I. S., 1990, MNRAS, 247, 479
+Chatzopoulos S., Fritz T. K., Gerhard O., Gillessen S., Wegg C., Genzel R., Pfuhl O., 2015a, MNRAS, 447, 948
+Chatzopoulos S., Gerhard O., Fritz T. K., Wegg C., Gillessen S., Pfuhl O., Eisenhauer F., 2015b, MNRAS, 453, 939
+Chiba R., Schonrich R., 2021, MNRAS, 505, 2412
+Chiba R., Friske J. K. S., Schonrich R., 2021, MNRAS, 500, 4710
 Churchwell E., et al., 2009, PASP, 121, 213
 Clarke J., Gerhard O., 2021, arXiv e-prints, p. arXiv:2107.10875
-Clarke J. P., Wegg C., Gerhard O., Smith L. C., Lucas P. W., Wylie S. M., 2019,, MNRAS, 489, 3519
-Comeron S., Knapen J. H., Beckman J. E., Laurikainen E., Salo H., Martinez-Valpuesta I., Buta R. J., 2010,, MNRAS, 402, 2462
-Contreras Ramos R., et al., 2018,, ApJ, 863, 79
-Debattista V. P., Sellwood J. A., 2000,, ApJ, 543, 704
-Debattista V. P., Ness M., Earp S. W. F., Cole D. R., 2015,, ApJ, 812, L16
-Debattista V. P., Earp S. W. F., Ness M., Gonzalez O. A., 2018,, MNRAS, 473, 5275
-Elmegreen B. G., Galliano E., Alloin D., 2009,, ApJ, 703, 1297
+Clarke J. P., Wegg C., Gerhard O., Smith L. C., Lucas P. W., Wylie S. M., 2019, MNRAS, 489, 3519
+Comeron S., Knapen J. H., Beckman J. E., Laurikainen E., Salo H., Martinez-Valpuesta I., Buta R. J., 2010, MNRAS, 402, 2462
+Contreras Ramos R., et al., 2018, ApJ, 863, 79
+Debattista V. P., Sellwood J. A., 2000, ApJ, 543, 704
+Debattista V. P., Ness M., Earp S. W. F., Cole D. R., 2015, ApJ, 812, L16
+Debattista V. P., Earp S. W. F., Ness M., Gonzalez O. A., 2018, MNRAS, 473, 5275
+Elmegreen B. G., Galliano E., Alloin D., 2009, ApJ, 703, 1297
 Erwin P., 2011, Memorie della Societa Astronomica Italiana Supplementi, 18, 145
-Feldmeier-Krause A., Zhu L., Neumayer N., van de Ven G., de Zeeuw P. T., Schodel R., 2017,, MNRAS, 466, 4040
+Feldmeier-Krause A., Zhu L., Neumayer N., van de Ven G., de Zeeuw P. T., Schodel R., 2017, MNRAS, 466, 4040
 Feldmeier A., et al., 2014, A&A, 570, A2
-Figer D. F., Rich R. M., Kim S. S., Morris M., Serabyn E., 2004,, ApJ, 601, 319
+Figer D. F., Rich R. M., Kim S. S., Morris M., Serabyn E., 2004, ApJ, 601, 319
 Foreman-Mackey D., Hogg D. W., Lang D., Goodman J., 2013, PASP, 125, 306
 Fritz T. K., Battaglia G., Pawlowski M. S., Kallivayalil N., van der Marel R., Sohn S. T., Brook C., Besla G., 2018, A&A, 619, A103
 Fritz T. K., et al., 2021, A&A, 649, A83
-Gadotti D. A., et al., 2019,, MNRAS, 482, 506
+Gadotti D. A., et al., 2019, MNRAS, 482, 506
 Gadotti D. A., et al., 2020, A&A, 643, A14
 Gallego-Cano E., Schodel R., Nogueras-Lara F., Dong H., Shahzamanian B., Fritz T. K., Gallego-Calvente A. T., Neumayer N., 2020, A&A, 634, A71
-Gerhard O., Martinez-Valpuesta I., 2012,, ApJ, 744, L8
+Gerhard O., Martinez-Valpuesta I., 2012, ApJ, 744, L8
 Gonzalez O. A., Rejkuba M., Minniti D., Zoccali M., Valenti E., Saito R. K., 2011, A&A, 534, L14
 Gravity Collaboration et al., 2019, A&A, 625, L10
 Habing H. J., Sevenster M. N., Messineo M., van de Ven G., Kuijken K., 2006, A&A, 458, 151
 Hatchfield H. P., Sormani M. C., Tress R. G., Battersby C., Smith R. J., Glover S. C. O., Klessen R. S., 2021, arXiv e-prints, p. arXiv:2106.08461
-Henshaw J. D., et al., 2016,, MNRAS, 457, 2675
-Henshaw J. D., et al., 2019,, MNRAS, 485, 2457
-Kroupa P., 2001,, MNRAS, 322, 231
-Kruijssen J. M. D., Longmore S. N., Elmegreen B. G., Murray N., Bally J., Testi L., Kennicutt R. C., 2014,, MNRAS, 440, 3370
-Krumholz M. R., Kruijssen J. M. D., Crocker R. M., 2017,, MNRAS, 466, 1213
-Laine S., Kenney J. D. P., Yun M. S., Gottesman S. T., 1999,, ApJ, 511, 709
+Henshaw J. D., et al., 2016, MNRAS, 457, 2675
+Henshaw J. D., et al., 2019, MNRAS, 485, 2457
+Kroupa P., 2001, MNRAS, 322, 231
+Kruijssen J. M. D., Longmore S. N., Elmegreen B. G., Murray N., Bally J., Testi L., Kennicutt R. C., 2014, MNRAS, 440, 3370
+Krumholz M. R., Kruijssen J. M. D., Crocker R. M., 2017, MNRAS, 466, 1213
+Laine S., Kenney J. D. P., Yun M. S., Gottesman S. T., 1999, ApJ, 511, 709
 Launhardt R., Zylka R., Mezger P. G., 2002, A&A, 384, 112
-Li Z., Gerhard O., Shen J., Portail M., Wegg C., 2016,, ApJ, 824, 13
+Li Z., Gerhard O., Shen J., Portail M., Wegg C., 2016, ApJ, 824, 13
 Li Z., Shen J., Gerhard O., Clarke J. P., 2021, arXiv e-prints, p. arXiv:2103.10342
 Lindqvist M., Habing H. J., Winnberg A., 1992, A&A, 259, 118
-Longmore S. N., et al., 2017,, MNRAS, 470, 1462
-Maraston C., 1998,, MNRAS, 300, 872
-Marigo P., et al., 2017,, ApJ, 835, 77
-Matsunaga N., et al., 2015,, ApJ, 799, 46
+Longmore S. N., et al., 2017, MNRAS, 470, 1462
+Maraston C., 1998, MNRAS, 300, 872
+Marigo P., et al., 2017, ApJ, 835, 77
+Matsunaga N., et al., 2015, ApJ, 799, 46
 Minniti D., et al., 2010, New Astron., 15, 433
-Minniti D., Contreras Ramos R., Zoccali M., Rejkuba M., Gonzalez O. A., Valenti E., Gran F., 2016,, ApJ, 830, L14
-Molinari S., et al., 2011,, ApJ, 735, L33
-Molloy M., Smith M. C., Evans N. W., Shen J., 2015,, ApJ, 812, 146
+Minniti D., Contreras Ramos R., Zoccali M., Rejkuba M., Gonzalez O. A., Valenti E., Gran F., 2016, ApJ, 830, L14
+Molinari S., et al., 2011, ApJ, 735, L33
+Molloy M., Smith M. C., Evans N. W., Shen J., 2015, ApJ, 812, 146
 Moon S., Kim W.-T., Kim C.-G., Ostriker E. C., 2021a, arXiv e-prints, p. arXiv:2110.14882
-Moon S., Kim W.-T., Kim C.-G., Ostriker E. C., 2021b,, ApJ, 914, 9
+Moon S., Kim W.-T., Kim C.-G., Ostriker E. C., 2021b, ApJ, 914, 9
 Morris M., Serabyn E., 1996, ARA&A, 34, 645
 Nagayama T., et al., 2003, in Iye M., Moorwood A. F. M., eds, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes. pp 459-464, doi:10.1117/12.460770
-Nishiyama S., et al., 2005,, ApJ, 621, L105
-Nishiyama S., et al., 2006,, ApJ, 638, 839
-Nishiyama S., et al., 2013,, ApJ, 769, L28
+Nishiyama S., et al., 2005, ApJ, 621, L105
+Nishiyama S., et al., 2006, ApJ, 638, 839
+Nishiyama S., et al., 2013, ApJ, 769, L28
 Nogueras-Lara F., et al., 2020, Nature Astronomy, 4, 377
 Nogueras-Lara F., Schodel R., Neumayer N., Schultheis M., 2021a, A&A, 647, L6
 Nogueras-Lara F., Schodel R., Neumayer N., 2021b, A&A, 653, A33
 Nogueras-Lara F., Schodel R., Neumayer N., 2021c, A&A, 653, A133
-Nogueras-Lara F., Schodel R., Neumayer N., 2021d,, ApJ, 920, 97
-Pizzella A., Corsini E. M., Morelli L., Sarzi M., Scarlata C., Stiavelli M., Bertola F., 2002,, ApJ, 573, 131
-Portail M., Gerhard O., Wegg C., Ness M., 2017,, MNRAS, 465, 1621
-Regan M. W., Vogel S. N., Teuben P. J., 1997,, ApJ, 482, L143
-Reid M. J., Brunthaler A., 2004,, ApJ, 616, 872
+Nogueras-Lara F., Schodel R., Neumayer N., 2021d, ApJ, 920, 97
+Pizzella A., Corsini E. M., Morelli L., Sarzi M., Scarlata C., Stiavelli M., Bertola F., 2002, ApJ, 573, 131
+Portail M., Gerhard O., Wegg C., Ness M., 2017, MNRAS, 465, 1621
+Regan M. W., Vogel S. N., Teuben P. J., 1997, ApJ, 482, L143
+Reid M. J., Brunthaler A., 2004, ApJ, 616, 872
 Rodriguez-Fernandez N. J., Combes F., 2008, A&A, 489, 115
-Sanders J. L., Binney J., 2015,, MNRAS, 449, 3479
-Sanders J. L., Binney J., 2016,, MNRAS, 457, 2107
-Sanders J. L., Smith L., Evans N. W., Lucas P., 2019,, MNRAS, 487, 5188
+Sanders J. L., Binney J., 2015, MNRAS, 449, 3479
+Sanders J. L., Binney J., 2016, MNRAS, 457, 2107
+Sanders J. L., Smith L., Evans N. W., Lucas P., 2019, MNRAS, 487, 5188
 Schodel R., Merritt D., Eckart A., 2009, A&A, 502, 91
 Schodel R., Feldmeier A., Kunneriath D., Stolovy S., Neumayer N., Amaro-Seoane P., Nishiyama S., 2014, A&A, 566, A47
-Schonrich R., Aumer M., Sale S. E., 2015,, ApJ, 812, L21
+Schonrich R., Aumer M., Sale S. E., 2015, ApJ, 812, L21
 Schultheis M., et al., 2014, A&A, 566, A120
 Schultheis M., Rich R. M., Origlia L., Ryde N., Nandakumar G., Thorsbro B., Neumayer N., 2019, A&A, 627, A152
 Schultheis M., et al., 2021, A&A, 650, A191
 Scott D. W., 1992, Multivariate Density Estimation. New York: Wiley
-Seo W.-Y., Kim W.-T., Kwak S., Hsieh P.-Y., Han C., Hopkins P. F., 2019,, ApJ, 872, 5
+Seo W.-Y., Kim W.-T., Kwak S., Hsieh P.-Y., Han C., Hopkins P. F., 2019, ApJ, 872, 5
 Shahzamanian B., Schoedel R., Nogueras-Lara F., Martinez-Arranz A., Sormani M. C., Gallego-Calvente A. T., Gallego-Cano E., Alburai A., 2021, arXiv e-prints, p. arXiv:2108.11847
-Shimizu T. T., et al., 2019,, MNRAS, 490, 5860
-Smith L. C., et al., 2018,, MNRAS, 474, 1826
-Sormani M. C., Barnes A. T., 2019,, MNRAS, 484, 1213
-Sormani M. C., Binney J., Magorrian J., 2015,, MNRAS, 454, 1818
-Sormani M. C., Tre R. G., Ridley M., Glover S. C. O., Klessen R. S., Binney J., Magorrian J., Smith R., 2018,, MNRAS, 475, 2383
-Sormani M. C., Tress R. G., Glover S. C. O., Klessen R. S., Battersby C. D., Clark P. C., Hatchfield H. P., Smith R. J., 2020a,, MNRAS, 497, 5024
-Sormani M. C., Magorrian J., Nogueras-Lara F., Neumayer N., Schonrich R., Klessen R. S., Mastrobuono-Battisti A., 2020b,, MNRAS, 499, 7
-Syer D., Tremaine S., 1996,, MNRAS, 282, 223
-Tress R. G., Sormani M. C., Glover S. C. O., Klessen R. S., Battersby C. D., Clark P. C., Hatchfield H. P., Smith R. J., 2020,, MNRAS, 499, 4455
+Shimizu T. T., et al., 2019, MNRAS, 490, 5860
+Smith L. C., et al., 2018, MNRAS, 474, 1826
+Sormani M. C., Barnes A. T., 2019, MNRAS, 484, 1213
+Sormani M. C., Binney J., Magorrian J., 2015, MNRAS, 454, 1818
+Sormani M. C., Tre R. G., Ridley M., Glover S. C. O., Klessen R. S., Binney J., Magorrian J., Smith R., 2018, MNRAS, 475, 2383
+Sormani M. C., Tress R. G., Glover S. C. O., Klessen R. S., Battersby C. D., Clark P. C., Hatchfield H. P., Smith R. J., 2020a, MNRAS, 497, 5024
+Sormani M. C., Magorrian J., Nogueras-Lara F., Neumayer N., Schonrich R., Klessen R. S., Mastrobuono-Battisti A., 2020b, MNRAS, 499, 7
+Syer D., Tremaine S., 1996, MNRAS, 282, 223
+Tress R. G., Sormani M. C., Glover S. C. O., Klessen R. S., Battersby C. D., Clark P. C., Hatchfield H. P., Smith R. J., 2020, MNRAS, 499, 4455
 Trippe S., et al., 2008, A&A, 492, 419
 Valenti E., et al., 2016, A&A, 587, L6
-Vasiliev E., 2019,, MNRAS, 482, 1525
-Wegg C., Gerhard O., 2013,, MNRAS, 435, 1874
-Wegg C., Gerhard O., Portail M., 2015,, MNRAS, 450, 4050
-Zhou Y., Li Z.-Y., Simion I. T., Shen J., Mao S., Liu C., Jian M., Fernandez-Trincado J. G., 2021,, ApJ, 908, 21
-Zoccali M., Valenti E., Surot F., Gonzalez O. A., Renzini A., Valenzuela Navarro A., 2021,, MNRAS, 502, 1246
-de Lorenzi F., Debattista V. P., Gerhard O., Sambhus N., 2007,, MNRAS, 376, 71
-de Lorenzo-Caceres A., et al., 2019,, MNRAS, 484, 5296
+Vasiliev E., 2019, MNRAS, 482, 1525
+Wegg C., Gerhard O., 2013, MNRAS, 435, 1874
+Wegg C., Gerhard O., Portail M., 2015, MNRAS, 450, 4050
+Zhou Y., Li Z.-Y., Simion I. T., Shen J., Mao S., Liu C., Jian M., Fernandez-Trincado J. G., 2021, ApJ, 908, 21
+Zoccali M., Valenti E., Surot F., Gonzalez O. A., Renzini A., Valenzuela Navarro A., 2021, MNRAS, 502, 1246
+de Lorenzi F., Debattista V. P., Gerhard O., Sambhus N., 2007, MNRAS, 376, 71
+de Lorenzo-Caceres A., et al., 2019, MNRAS, 484, 5296

@@ -1,14 +1,14 @@
-Abdo, A. A., Ackermann, M., Ajello, M., et al. 2009,, ApJ, 707, 55. doi:10.1088/0004-637X/707/1/55
+Abdo, A. A., Ackermann, M., Ajello, M., et al. 2009, ApJ, 707, 55. doi:10.1088/0004-637X/707/1/55
 Bird, S., Harris, W. E., Blakeslee, J. P., et al. 2010, A&A, 524, A71. doi:10.1051/0004-6361/201014876
-Biretta, J. A., Sparks, W. B., & Macchetto, F. 1999,, ApJ, 520, 621. doi:10.1086/307499
-Blakeslee, J. P., Jordan, A., Mei, S., et al. 2009,, ApJ, 694, 556. doi:10.1088/0004-637X/694/1/556
-Blandford, R. D. & Payne, D. G. 1982,, MNRAS, 199, 883. doi:10.1093/mnras/199.4.883
-Blandford, R. D. & Znajek, R. L. 1977,, MNRAS, 179, 433. doi:10.1093/mnras/179.3.433
+Biretta, J. A., Sparks, W. B., & Macchetto, F. 1999, ApJ, 520, 621. doi:10.1086/307499
+Blakeslee, J. P., Jordan, A., Mei, S., et al. 2009, ApJ, 694, 556. doi:10.1088/0004-637X/694/1/556
+Blandford, R. D. & Payne, D. G. 1982, MNRAS, 199, 883. doi:10.1093/mnras/199.4.883
+Blandford, R. D. & Znajek, R. L. 1977, MNRAS, 179, 433. doi:10.1093/mnras/179.3.433
 Curtis, H. D. 1918, Publications of Lick Observatory, 13, 9
 Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., et al. 2019, ApJL, 875, L1. doi:10.3847/2041-8213/ab0ec7
 Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., et al. 2019, ApJL, 875, L6. doi:10.3847/2041-8213/ab1141
 Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., et al. 2019, ApJL, 875, L4. doi:10.3847/2041-8213/ab0e85
 EHT MWL Science Working Group, Algaba, J. C., Anczarski, J., et al. 2021, ApJL, 911, L11. doi:10.3847/2041-8213/abef71
-Marshall, H. L., Miller, B. P., Davis, D. S., et al. 2002,, ApJ, 564, 683. doi:10.1086/324396
+Marshall, H. L., Miller, B. P., Davis, D. S., et al. 2002, ApJ, 564, 683. doi:10.1086/324396
 Principe, G., Malyshev, D., Ballet, J., et al. 2018, A&A, 618, A22. doi:10.1051/0004-6361/201833116
-Reid, M. J., Biretta, J. A., Junor, W., et al. 1989,, ApJ, 336, 112. doi:10.1086/166998
+Reid, M. J., Biretta, J. A., Junor, W., et al. 1989, ApJ, 336, 112. doi:10.1086/166998

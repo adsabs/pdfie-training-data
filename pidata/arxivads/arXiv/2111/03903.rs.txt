@@ -1,91 +1,91 @@
-Allamandola, L.J., Tielens, A.G.G.M., & Barker, J.R. 1985,, ApJ, 290, L25
-André, M., Oliveira, C., Howk, J. C., et al. 2003,, ApJ, 591, 1000
+Allamandola, L.J., Tielens, A.G.G.M., & Barker, J.R. 1985, ApJ, 290, L25
+André, M., Oliveira, C., Howk, J. C., et al. 2003, ApJ, 591, 1000
 Bohren, C.F., & Huffman, D.R. 1983, Absorption and Scattering of Light by Small Particles (New York: Wiley)
 Cardelli, J. A., & Clayton, G. C. 1991, AJ, 101, 1021
-Cardelli, J. A., Clayton, G., C., & Mathis, J. S. 1989,, ApJ, 345, 245
-Cardelli, J. A., Meyer, D. M., Jura, M., et al. 1996,, ApJ, 467, 334
-Cardelli, J. A., & Savage, B. D. 1988,, ApJ, 325, 864
-Cartledge, S. I. B., Meyer, D. M., & Lauroesch, J. T. 2003,, ApJ, 597, 408
-Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., & Sofia, U. J. 2004,, ApJ, 613, 1037
-Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., & Sofia, U. J. 2006,, ApJ, 641, 327
-Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., et al. 2008,, ApJ, 687, 1043
-Crinklaw, G., Federman, S. R., & Joseph, C. L. 1994,, ApJ, 424, 748
-Cui, J., Bechtold, J., Ge, J., & Meyer, D. M. 2005,, ApJ, 633, 649
-De Cia, A., Jenkins, E. B., Fox, A. J., et al. 2021,, Nature, 597, 206
+Cardelli, J. A., Clayton, G., C., & Mathis, J. S. 1989, ApJ, 345, 245
+Cardelli, J. A., Meyer, D. M., Jura, M., et al. 1996, ApJ, 467, 334
+Cardelli, J. A., & Savage, B. D. 1988, ApJ, 325, 864
+Cartledge, S. I. B., Meyer, D. M., & Lauroesch, J. T. 2003, ApJ, 597, 408
+Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., & Sofia, U. J. 2004, ApJ, 613, 1037
+Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., & Sofia, U. J. 2006, ApJ, 641, 327
+Cartledge, S. I. B., Lauroesch, J. T., Meyer, D. M., et al. 2008, ApJ, 687, 1043
+Crinklaw, G., Federman, S. R., & Joseph, C. L. 1994, ApJ, 424, 748
+Cui, J., Bechtold, J., Ge, J., & Meyer, D. M. 2005, ApJ, 633, 649
+De Cia, A., Jenkins, E. B., Fox, A. J., et al. 2021, Nature, 597, 206
 Désert, F.-X., Boulanger, F., & Puget, J. L. 1990, A&A, 500, 313
-Diplas, A., & Savage, B. D. 1994,, ApJS, 93, 211
-Draine, B.T., & Lee, H.M. 1984,, ApJ, 258, 89D
-Federman, S. R., Strom, C. J., Lambert, D. L., et al. 1994,, ApJ, 424, 772
-Fitzpatrick, E.L., & Massa, D. 1990,, ApJS, 72, 163 (FM90)
-Fitzpatrick, E.L., & Massa, D. 2007,, ApJ, 663, 320
-Fitzpatrick, E. L., Massa, D., Gordon, K. D., et al. 2019,, ApJ, 886, 108
+Diplas, A., & Savage, B. D. 1994, ApJS, 93, 211
+Draine, B.T., & Lee, H.M. 1984, ApJ, 258, 89D
+Federman, S. R., Strom, C. J., Lambert, D. L., et al. 1994, ApJ, 424, 772
+Fitzpatrick, E.L., & Massa, D. 1990, ApJS, 72, 163 (FM90)
+Fitzpatrick, E.L., & Massa, D. 2007, ApJ, 663, 320
+Fitzpatrick, E. L., Massa, D., Gordon, K. D., et al. 2019, ApJ, 886, 108
 Gnaciński, P., & Krogulec, M. 2006, Acta Astron., 56, 373
-Gordon, K.D., Cartledge, S., & Clayton, G.C. 2009,, ApJ, 705, 1320
-Hanson, M. M., Snow, T. P., & Black, J. H. 1992,, ApJ, 392, 571
-Hensley, B. S., & Draine, B. T. 2017,, ApJ, 836, 179
-Hensley, B. S. & Draine, B. T. 2021,, ApJ, 906, 73
-Hoang, T. 2019,, ApJ, 876, 13
-Hoang, T. 2021,, ApJ, 907, 37
-Hoang, T., Vinh, N.-A., & Quynh Lan, N. 2016,, ApJ, 824, 18
-Jenkins, E.B. 2009,, ApJ, 700, 1299
-Jenkins, E.B. 2019,, ApJ, 872,55
-Jenkins, E. B., Savage, B. D., & Spitzer, L. 1986,, ApJ, 301, 355
-Jensen, A. G., Rachford, B. L., & Snow, T. P. 2005,, ApJ, 619, 891
-Jensen, A. G., Rachford, B. L., & Snow, T. P. 2007,, ApJ, 654, 955
-Jensen, A. G., & Snow, T. P. 2007a,, ApJ, 669, 378
-Jensen, A. G., & Snow, T. P. 2007b,, ApJ, 669, 401
-Jensen, A. G., Snow, T. P., Sonneborn, G., et al. 2010,, ApJ, 711, 1236
+Gordon, K.D., Cartledge, S., & Clayton, G.C. 2009, ApJ, 705, 1320
+Hanson, M. M., Snow, T. P., & Black, J. H. 1992, ApJ, 392, 571
+Hensley, B. S., & Draine, B. T. 2017, ApJ, 836, 179
+Hensley, B. S. & Draine, B. T. 2021, ApJ, 906, 73
+Hoang, T. 2019, ApJ, 876, 13
+Hoang, T. 2021, ApJ, 907, 37
+Hoang, T., Vinh, N.-A., & Quynh Lan, N. 2016, ApJ, 824, 18
+Jenkins, E.B. 2009, ApJ, 700, 1299
+Jenkins, E.B. 2019, ApJ, 872,55
+Jenkins, E. B., Savage, B. D., & Spitzer, L. 1986, ApJ, 301, 355
+Jensen, A. G., Rachford, B. L., & Snow, T. P. 2005, ApJ, 619, 891
+Jensen, A. G., Rachford, B. L., & Snow, T. P. 2007, ApJ, 654, 955
+Jensen, A. G., & Snow, T. P. 2007a, ApJ, 669, 378
+Jensen, A. G., & Snow, T. P. 2007b, ApJ, 669, 401
+Jensen, A. G., Snow, T. P., Sonneborn, G., et al. 2010, ApJ, 711, 1236
 Jones, A. P., Fanciullo, L., Kohler, M., et al. 2013, A&A, 558, A62
-Kimura, H., Mann, I., & Jessberger, E. K. 2003a,, ApJ, 582, 846
-Kimura, H., Mann, I., & Jessberger, E. K. 2003b,, ApJ, 583, 314
-Knauth, D. C., Meyer, D. M., & Lauroesch, J. T. 2006,, ApJ, 647, L115
-Larson, K. A., Whittet, D. C. B., & Hough, J. H. 1996,, ApJ, 472, 755
+Kimura, H., Mann, I., & Jessberger, E. K. 2003a, ApJ, 582, 846
+Kimura, H., Mann, I., & Jessberger, E. K. 2003b, ApJ, 583, 314
+Knauth, D. C., Meyer, D. M., & Lauroesch, J. T. 2006, ApJ, 647, L115
+Larson, K. A., Whittet, D. C. B., & Hough, J. H. 1996, ApJ, 472, 755
 Léger, A., & Puget, J. 1984, A&A, 137, L5
-Lenz, D., Hensley, B. S., & Doré, O. 2017,, ApJ, 846, 38
+Lenz, D., Hensley, B. S., & Doré, O. 2017, ApJ, 846, 38
 Li, A. 2004, in ASP Conf. Ser. 309, Astrophysics of Dust, ed. A. N. Witt, G. C. Clayton, & B. T. Draine (San Francisco, CA: ASP), 417
-Li, A. 2005,, ApJ, 622, 965
+Li, A. 2005, ApJ, 622, 965
 Li, A. 2020, Nature Astronomy, 4, 339
-Li, A., & Draine, B.T. 2001a,, ApJ, 554, 778
+Li, A., & Draine, B.T. 2001a, ApJ, 554, 778
 Li, A., & Draine, B.T. 2001b, ApJL, 550, L213
 Li, A., & Greenberg, J.M. 1997, A&A, 323, 566
 Li, A., & Greenberg, J.M. 1998, A&A, 339, 591
-Lodders, K. 2003,, ApJ, 591, 1220
-Mathis, J. S. 1996,, ApJ, 472, 643
-Mathis, J.S., Rumpl, W., & Nordsieck, K.H. 1977,, ApJ, 217, 425
+Lodders, K. 2003, ApJ, 591, 1220
+Mathis, J. S. 1996, ApJ, 472, 643
+Mathis, J.S., Rumpl, W., & Nordsieck, K.H. 1977, ApJ, 217, 425
 Mazzei, P., & Barbaro, G. 2011, A&A, 527, A34
-Meyer, D. M., Jura, M., & Cardelli, J. A. 1998,, ApJ, 493, 222
-Miller, A., Lauroesch, J. T., Sofia, U. J., et al. 2007,, ApJ, 659, 441
-Mishra, A., & Li, A. 2015,, ApJ, 809, 120
-Mishra, A., & Li, A. 2017,, ApJ, 850, 138
-Parvathi V. S., Sofia U. J., Murthy J., et al. 2012,, ApJ, 760, 36
+Meyer, D. M., Jura, M., & Cardelli, J. A. 1998, ApJ, 493, 222
+Miller, A., Lauroesch, J. T., Sofia, U. J., et al. 2007, ApJ, 659, 441
+Mishra, A., & Li, A. 2015, ApJ, 809, 120
+Mishra, A., & Li, A. 2017, ApJ, 850, 138
+Parvathi V. S., Sofia U. J., Murthy J., et al. 2012, ApJ, 760, 36
 Potapov, A., Bouwman, J., Jager, C., et al. 2021, Nature Astronomy, 5, 78
-Poteet, C. A., Whittet, D. C. B., & Draine, B. T. 2015,, ApJ, 801, 110
+Poteet, C. A., Whittet, D. C. B., & Draine, B. T. 2015, ApJ, 801, 110
 Press, W.H., Teukolsky, S.A., Vetterling, W.T., & Flannery, B.P. 1992, Numerical Recipes in FORTRAN: The Art of Scientific Computing (2nd ed.; Cambridge: Cambridge Univ. Press)
-Rachford, B. L., Snow, T. P., Tumlinson, J., et al. 2002,, ApJ, 577, 221
-Rachford, B. L., Snow, T. P., Destree, J. D., et al. 2009,, ApJS, 180, 125
-Sheffer, Y., Rogers, M., Federman, S. R., et al. 2007,, ApJ, 667, 1002
-Sheffer, Y., Rogers, M., Federman, S. R., et al. 2008,, ApJ, 687, 1075
+Rachford, B. L., Snow, T. P., Tumlinson, J., et al. 2002, ApJ, 577, 221
+Rachford, B. L., Snow, T. P., Destree, J. D., et al. 2009, ApJS, 180, 125
+Sheffer, Y., Rogers, M., Federman, S. R., et al. 2007, ApJ, 667, 1002
+Sheffer, Y., Rogers, M., Federman, S. R., et al. 2008, ApJ, 687, 1075
 Siebenmorgen, R., & Krügel, E. 1992, A&A, 259, 614
 Siebenmorgen, R., Voshchinnikov, N. V., Bagnulo, S., et al. 2018, A&A, 611, A5
 Snow, T.P., & Witt, A.N. 1995, Science, 270, 1455
-Snow, T.P., & Witt, A.N. 1996,, ApJ, 468, L65
-Snow, T. P., Rachford, B. L., & Figoski, L. 2002,, ApJ, 573, 662
-Sofia, U.J., & Meyer, D.M. 2001,, ApJ, 554, L221
-Sofia, U. J., Cardelli, J. A., & Savage, B. D. 1994,, ApJ, 430, 650
-Sofia, U. J., Lauroesch, J. T., Meyer, D. M., et al. 2004,, ApJ, 605, 272
+Snow, T.P., & Witt, A.N. 1996, ApJ, 468, L65
+Snow, T. P., Rachford, B. L., & Figoski, L. 2002, ApJ, 573, 662
+Sofia, U.J., & Meyer, D.M. 2001, ApJ, 554, L221
+Sofia, U. J., Cardelli, J. A., & Savage, B. D. 1994, ApJ, 430, 650
+Sofia, U. J., Lauroesch, J. T., Meyer, D. M., et al. 2004, ApJ, 605, 272
 Sofia, U. J., Parvathi, V. S., Babu, B. R. S., et al. 2011, AJ, 141, 22
-Sonnentrucker, P., Friedman, S. D., Welty, D. E., et al. 2003,, ApJ, 596, 350
-van Steenberg, M. E., & Shull, J. M. 1988,, ApJS, 67, 225
-Valencic, L. A., Clayton, G. C., & Gordon, K. D. 2004,, ApJ, 616, 912
+Sonnentrucker, P., Friedman, S. D., Welty, D. E., et al. 2003, ApJ, 596, 350
+van Steenberg, M. E., & Shull, J. M. 1988, ApJS, 67, 225
+Valencic, L. A., Clayton, G. C., & Gordon, K. D. 2004, ApJ, 616, 912
 Voshchinnikov, N. V., & Henning, Th. 2010, A&A, 517, A45
-Wang, S., Li, A., & Jiang, B. W. 2015a,, ApJ, 811, 38 (WLJ15)
-Wang, S., Li, A., & Jiang, B. W. 2015b,, MNRAS, 454, 569
-Weingartner, J.C., & Draine, B.T. 2001,, ApJ, 548, 296 (WD01)
-Welty, D. E., & Crowther, P. A. 2010,, MNRAS, 404, 1321
-Welty, D. E. & Fowler, J. R. 1992,, ApJ, 393, 193
-Whittet, D. C. B. 1984,, MNRAS, 210, 479
-Whittet, D. C. B. 2010,, ApJ, 710, 1009
-Witt, A. N., Bohlin, R. C., & Stecher, T. P. 1984,, ApJ, 279, 698
-Zhu, H., Tian, W., Li, A., & Zhang, M.F. 2017,, MNRAS, 471, 3494
-Zubko, V., Dwek, E., & Arendt, R. G. 2004,, ApJS, 152, 211
-Zuo, W. B., Li, A., & Zhao, G. 2021,, ApJS, 252, 22
+Wang, S., Li, A., & Jiang, B. W. 2015a, ApJ, 811, 38 (WLJ15)
+Wang, S., Li, A., & Jiang, B. W. 2015b, MNRAS, 454, 569
+Weingartner, J.C., & Draine, B.T. 2001, ApJ, 548, 296 (WD01)
+Welty, D. E., & Crowther, P. A. 2010, MNRAS, 404, 1321
+Welty, D. E. & Fowler, J. R. 1992, ApJ, 393, 193
+Whittet, D. C. B. 1984, MNRAS, 210, 479
+Whittet, D. C. B. 2010, ApJ, 710, 1009
+Witt, A. N., Bohlin, R. C., & Stecher, T. P. 1984, ApJ, 279, 698
+Zhu, H., Tian, W., Li, A., & Zhang, M.F. 2017, MNRAS, 471, 3494
+Zubko, V., Dwek, E., & Arendt, R. G. 2004, ApJS, 152, 211
+Zuo, W. B., Li, A., & Zhao, G. 2021, ApJS, 252, 22

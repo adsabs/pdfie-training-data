@@ -1,5 +1,5 @@
-Barai, P., Gies, D. R., Choi, E., et al. 2004,, ApJ, 608, 989, doi: 10.1086/420875
-Brown, J. C., Aspin, C., Simmons, J. F. L., & McLean, I. S. 1982,, MNRAS, 198, 787, doi: 10.1093/mnras/198.3.787
+Barai, P., Gies, D. R., Choi, E., et al. 2004, ApJ, 608, 989, doi: 10.1086/420875
+Brown, J. C., Aspin, C., Simmons, J. F. L., & McLean, I. S. 1982, MNRAS, 198, 787, doi: 10.1093/mnras/198.3.787
 Brown, J. C., McLean, I. S., & Emslie, A. G. 1978, A&A, 68, 415
 Carciofi, A. C., Bjorkman, J. E., & Zsargo, J. 2017, in The Lives and Death-Throes of Massive Stars, ed. J. J. Eldridge, J. C. Bray, L. A. S. McClelland, & L. Xiao, Vol. 329, 390-390, doi: 10.1017/S1743921317002836
 Clayton, G. C., Anderson, C. M., Magalhaes, A. M., et al. 1992, ApJL, 385, L53, doi: 10.1086/186276
@@ -7,51 +7,51 @@ Deschamps, R., Braun, K., Jorissen, A., et al. 2015, A&A, 577, A55, doi: 10.1051
 Drechsel, H., & Lorenz, R. 1993, Information Bulletin on Variable Stars, 3868, 1
 Drechsel, H., Rahe, J., Wargau, W., & Wolf, B. 1982, A&A, 110, 246
 Eldridge, J. J., Fraser, M., Smartt, S. J., Maund, J. R., & Crockett, R. M. 2013, Monthly Notices of the Royal Astronomical Society, 436, 774, doi: 10.1093/mnras/stt1612
-Fox, G. K. 1991,, ApJ, 379, 663, doi: 10.1086/170540
---. 1994,, ApJ, 435, 372, doi: 10.1086/174819
-Giuricin, G., & Mardirossian, F. 1981,, ApJS, 46, 1, doi: 10.1086/190732
-Giuricin, G., Mardirossian, F., & Mezzetti, M. 1983,, ApJS, 52, 35, doi: 10.1086/190858
+Fox, G. K. 1991, ApJ, 379, 663, doi: 10.1086/170540
+--. 1994, ApJ, 435, 372, doi: 10.1086/174819
+Giuricin, G., & Mardirossian, F. 1981, ApJS, 46, 1, doi: 10.1086/190732
+Giuricin, G., Mardirossian, F., & Mezzetti, M. 1983, ApJS, 52, 35, doi: 10.1086/190858
 Harmanec, P., Morand, F., Bonneau, D., et al. 1996, A&A, 312, 879
 Hoffman, J. L., Nordsieck, K. H., & Fox, G. K. 1998, AJ, 115, 1576, doi: 10.1086/300274
-Hoffman, J. L., Whitney, B. A., & Nordsieck, K. H. 2003,, ApJ, 598, 572, doi: 10.1086/378770
+Hoffman, J. L., Whitney, B. A., & Nordsieck, K. H. 2003, ApJ, 598, 572, doi: 10.1086/378770
 Ignace, R., Oskinova, L. M., Waldron, W. L., Hoffman, J. L., & Hamann, W. R. 2008, A&A, 477, L37, doi: 10.1051/0004-6361:20078871
 Jones, C. E., Labadie-Bartz, J., Naze, Y., et al. 2021, arXiv e-prints, arXiv:2111.07926. https://arxiv.org/abs/2111.07926
-Kondo, Y., McCluskey, G. E., Silvis, J. M. S., et al. 1994,, ApJ, 421, 787, doi: 10.1086/173691
+Kondo, Y., McCluskey, G. E., Silvis, J. M. S., et al. 1994, ApJ, 421, 787, doi: 10.1086/173691
 Kriz, S., & Harmanec, P. 1975, Bulletin of the Astronomical Institutes of Czechoslovakia, 26, 65
 Langer, N. 2012, ARA&A, 50, 107, doi: 10.1146/annurev-astro-081811-125534
 Laplace, E., Justham, S., Renzo, M., et al. 2021, arXiv e-prints, arXiv:2102.05036. https://arxiv.org/abs/2102.05036
-Linnell, A. P., Peters, G. J., & Polidan, R. S. 1988,, ApJ, 327, 265, doi: 10.1086/166187
-Linnell, A. P., & Scheick, X. 1991,, ApJ, 379, 721, doi: 10.1086/170547
-Lomax, J. R., Hoffman, J. L., Elias, Nicholas M., I., Bastien, F. A., & Holenstein, B. D. 2012a,, ApJ, 750, 59, doi: 10.1088/0004-637X/750/1/59
---. 2012b,, ApJ, 750, 59, doi: 10.1088/0004-637X/750/1/59
+Linnell, A. P., Peters, G. J., & Polidan, R. S. 1988, ApJ, 327, 265, doi: 10.1086/166187
+Linnell, A. P., & Scheick, X. 1991, ApJ, 379, 721, doi: 10.1086/170547
+Lomax, J. R., Hoffman, J. L., Elias, Nicholas M., I., Bastien, F. A., & Holenstein, B. D. 2012a, ApJ, 750, 59, doi: 10.1088/0004-637X/750/1/59
+--. 2012b, ApJ, 750, 59, doi: 10.1088/0004-637X/750/1/59
 Lomax, J. R., Naze, Y., Hoffman, J. L., et al. 2015, A&A, 573, A43, doi: 10.1051/0004-6361/201424468
-Lomax, J. R., Fullard, A. G., Malatesta, M. A., et al. 2017a,, MNRAS, 464, 1936, doi: 10.1093/mnras/stw2457
---. 2017b,, MNRAS, 464, 1936, doi: 10.1093/mnras/stw2457
-Lubow, S. H., & Shu, F. H. 1975,, ApJ, 198, 383, doi: 10.1086/153614
+Lomax, J. R., Fullard, A. G., Malatesta, M. A., et al. 2017a, MNRAS, 464, 1936, doi: 10.1093/mnras/stw2457
+--. 2017b, MNRAS, 464, 1936, doi: 10.1093/mnras/stw2457
+Lubow, S. H., & Shu, F. H. 1975, ApJ, 198, 383, doi: 10.1086/153614
 --. 1976, ApJL, 207, L53, doi: 10.1086/182177
 Manset, N., & Bastien, P. 2000, AJ, 120, 413, doi: 10.1086/301439
-Mennickent, R. E., Kolaczkowski, Z., Djurasevic, G., et al. 2012,, MNRAS, 427, 607, doi: 10.1111/j.1365-2966.2012.21309.x
-Nelson, C. A., & Eggleton, P. P. 2001,, ApJ, 552, 664, doi: 10.1086/320560
+Mennickent, R. E., Kolaczkowski, Z., Djurasevic, G., et al. 2012, MNRAS, 427, 607, doi: 10.1111/j.1365-2966.2012.21309.x
+Nelson, C. A., & Eggleton, P. P. 2001, ApJ, 552, 664, doi: 10.1086/320560
 Nordsieck, K. H., Wisniewski, J., Babler, B. L., et al. 2001, in Astronomical Society of the Pacific Conference Series, Vol. 233, P Cygni 2000: 400 Years of Progress, ed. M. de Groot & C. Sterken, 261. https://arxiv.org/abs/astro-ph/0102073
 Paczynski, B. 1971, ARA&A, 9, 183, doi: 10.1146/annurev.aa.09.090171.001151
 Peters, G. J. 1989, SSRv, 50, 9, doi: 10.1007/BF00215915
 Peters, G. J. 2001, in Astrophysics and Space Science Library, Vol. 264, The Influence of Binaries on Stellar Population Studies, ed. D. Vanbeveren, 79, doi: 10.1007/978-94-015-9723-4_6
 Peters, G. J. 2007, in Binary Stars as Critical Tools & Tests in Contemporary Astrophysics, ed. W. I. Hartkopf, P. Harmanec, & E. F. Guinan, Vol. 240, 148-153, doi: 10.1017/S174392130700395X
-Peters, G. J., & Polidan, R. S. 1984,, ApJ, 283, 745, doi: 10.1086/162359
+Peters, G. J., & Polidan, R. S. 1984, ApJ, 283, 745, doi: 10.1086/162359
 --. 2004, Astronomische Nachrichten, 325, 225, doi: 10.1002/asna.200310224
 Plavec, M. 1970, PASP, 82, 957, doi: 10.1086/128996
 Plavec, M. 1976, in Be and Shell Stars, ed. A. Slettebak, Vol. 70, 439
 Plavec, M., & Polidan, R. S. 1976, in Structure and Evolution of Close Binary Systems, ed. P. Eggleton, S. Mitton, & J. Whelan, Vol. 73, 289
 Plavec, M. J. 1980, in Close Binary Stars: Observations and Interpretation, ed. M. J. Plavec, D. M. Popper, & R. K. Ulrich, Vol. 88, 251-261
-Plavec, M. J. 1983,, ApJ, 275, 251, doi: 10.1086/161530
+Plavec, M. J. 1983, ApJ, 275, 251, doi: 10.1086/161530
 Podsiadlowski, P. 2010, NewAR, 54, 39, doi: 10.1016/j.newar.2010.09.023
 Postnov, K. A., & Yungelson, L. R. 2014, Living Reviews in Relativity, 17, 3, doi: 10.12942/lrr-2014-3
-Richards, M. T., Koubsky, P., Simon, V., et al. 2000,, ApJ, 531, 1003, doi: 10.1086/308491
+Richards, M. T., Koubsky, P., Simon, V., et al. 2000, ApJ, 531, 1003, doi: 10.1086/308491
 Sana, H., de Mink, S. E., de Koter, A., et al. 2012, Science, 337, 444, doi: 10.1126/science.1223344, doi:10.1126/science.1223344
 Sana, H., de Koter, A., de Mink, S. E., et al. 2013, Astronomy & Astrophysics, Volume 550, id.A107, <NUMPAGES>22</NUMPAGES> pp., 550, A107, doi: 10.1051/0004-6361/201219621
-Shrestha, M., Neilson, H. R., Hoffman, J. L., & Ignace, R. 2018,, MNRAS, 477, 1365, doi: 10.1093/mnras/sty724
-Simmons, J. F. L. 1982,, MNRAS, 200, 91, doi: 10.1093/mnras/200.1.91
---. 1983,, MNRAS, 205, 153, doi: 10.1093/mnras/205.1.153
+Shrestha, M., Neilson, H. R., Hoffman, J. L., & Ignace, R. 2018, MNRAS, 477, 1365, doi: 10.1093/mnras/sty724
+Simmons, J. F. L. 1982, MNRAS, 200, 91, doi: 10.1093/mnras/200.1.91
+--. 1983, MNRAS, 205, 153, doi: 10.1093/mnras/205.1.153
 Sudar, D., Harmanec, P., Lehmann, H., et al. 2011, A&A, 528, A146, doi: 10.1051/0004-6361/201014920
 Tauris, T. M., Kramer, M., Freire, P. C. C., et al. 2017, The Astrophysical Journal, 846, 170, doi: 10.3847/1538-4357/aa7e89
 Taylor, M., Code, A. D., Nordsieck, K. H., et al. 1991, ApJL, 382, L85, doi: 10.1086/186218
@@ -59,6 +59,6 @@ van Rensbergen, W., De Greve, J. P., De Loore, C., & Mennekens, N. 2008, A&A, 48
 van Rensbergen, W., De Greve, J. P., Mennekens, N., Jansen, K., & De Loore, C. 2010, A&A, 510, A13, doi: 10.1051/0004-6361/200913272
 Wang, L., Gies, D. R., Peters, G. J., et al. 2021, AJ, 161, 248, doi: 10.3847/1538-3881/abf144
 Whitney, B. A., Wood, K., Bjorkman, J. E., Cohen, M., & Wolff, M. J. 2017, HO-CHUNK: Radiation Transfer code. http://ascl.net/1711.013
-Wood, K., Bjorkman, J. E., Whitney, B. A., & Code, A. D. 1996,, ApJ, 461, 828, doi: 10.1086/177105
+Wood, K., Bjorkman, J. E., Whitney, B. A., & Code, A. D. 1996, ApJ, 461, 828, doi: 10.1086/177105
 Yoon, S.-C. 2015, Publ. Astron. Soc. Aust., 32, e015, doi: 10.1017/pasa.2015.16
 Zhao, M., Gies, D., Monnier, J. D., et al. 2008, ApJL, 684, L95, doi: 10.1086/592146

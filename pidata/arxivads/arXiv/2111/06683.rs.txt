@@ -1,79 +1,79 @@
 Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, Publications of the Astronomical Society of the Pacific, 93, 5, doi: 10.1086/130766
 Barth, A. J., & Shields, J. C. 2000, PASP, 112, 753, doi: 10.1086/316583
-Belfiore, F., Maiolino, R., Maraston, C., et al. 2016,, MNRAS, 461, 3111, doi: 10.1093/mnras/stw1234
-Bertola, F., Bettoni, D., Danziger, J., et al. 1991,, ApJ, 373, 369, doi: 10.1086/170058
+Belfiore, F., Maiolino, R., Maraston, C., et al. 2016, MNRAS, 461, 3111, doi: 10.1093/mnras/stw1234
+Bertola, F., Bettoni, D., Danziger, J., et al. 1991, ApJ, 373, 369, doi: 10.1086/170058
 Binette, L., Magris, C. G., Stasinska, G., & Bruzual, A. G. 1994, A&A, 292, 13
 Bower, G. A., Wilson, A. S., Heckman, T. M., & Richstone, D. O. 1996, AJ, 111, 1901, doi: 10.1086/117928
-Bryant, J. J., Owers, M. S., Robotham, A. S. G., et al. 2015,, MNRAS, 447, 2857, doi: 10.1093/mnras/stu2635
-Cappellari, M., & Copin, Y. 2003,, MNRAS, 342, 345, doi: 10.1046/j.1365-8711.2003.06541.x
-Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989,, ApJ, 345, 245, doi: 10.1086/167900
+Bryant, J. J., Owers, M. S., Robotham, A. S. G., et al. 2015, MNRAS, 447, 2857, doi: 10.1093/mnras/stu2635
+Cappellari, M., & Copin, Y. 2003, MNRAS, 342, 345, doi: 10.1046/j.1365-8711.2003.06541.x
+Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245, doi: 10.1086/167900
 Casasola, V., Combes, F., Bettoni, D., & Galletta, G. 2007, A&A, 473, 771, doi: 10.1051/0004-6361:20077883
-Cheung, E., Bundy, K., Cappellari, M., et al. 2016,, Nature, 533, 504, doi: 10.1038/nature18006
-Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2005,, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
+Cheung, E., Bundy, K., Cappellari, M., et al. 2016, Nature, 533, 504, doi: 10.1038/nature18006
+Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2005, MNRAS, 358, 363, doi: 10.1111/j.1365-2966.2005.08752.x
 Cid Fernandes, R., Mateus, A., Sodre, L., Stasinska, G., & Gomes, J. M. 2011a, STARLIGHT: Spectral Synthesis Code. http://ascl.net/1108.006
-Cid Fernandes, R., Stasinska, G., Mateus, A., & Vale Asari, N. 2011b,, MNRAS, 413, 1687, doi: 10.1111/j.1365-2966.2011.18244.x
+Cid Fernandes, R., Stasinska, G., Mateus, A., & Vale Asari, N. 2011b, MNRAS, 413, 1687, doi: 10.1111/j.1365-2966.2011.18244.x
 Cid Fernandes, R., Perez, E., Garc ia Benito, R., et al. 2013, A&A, 557, A86, doi: 10.1051/0004-6361/201220616
-de Amorim, A. L., Garc ia-Benito, R., Cid Fernandes, R., et al. 2017,, MNRAS, 471, 3727, doi: 10.1093/mnras/stx1805
+de Amorim, A. L., Garc ia-Benito, R., Cid Fernandes, R., et al. 2017, MNRAS, 471, 3727, doi: 10.1093/mnras/stx1805
 de Blok, W. J. G., Walter, F., Brinks, E., et al. 2008, The Astronomical Journal, 136, 2648, doi: 10.1088/0004-6256/136/6/2648
-de Blok, W. J. G., Walter, F., Ferguson, A. M. N., et al. 2018,, ApJ, 865, 26, doi: 10.3847/1538-4357/aad557
+de Blok, W. J. G., Walter, F., Ferguson, A. M. N., et al. 2018, ApJ, 865, 26, doi: 10.3847/1538-4357/aad557
 de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference Catalogue of Bright Galaxies
-Devereux, N. 2019,, MNRAS, 488, 1199, doi: 10.1093/mnras/stz1761
+Devereux, N. 2019, MNRAS, 488, 1199, doi: 10.1093/mnras/stz1761
 Devereux, N., Ford, H., & Jacoby, G. 1997, ApJL, 481, L71, doi: 10.1086/310661
 Devereux, N., Ford, H., Tsvetanov, Z., & Jacoby, G. 2003, AJ, 125, 1226, doi: 10.1086/367595
-Devereux, N., & Shearer, A. 2007,, ApJ, 671, 118, doi: 10.1086/522292
+Devereux, N., & Shearer, A. 2007, ApJ, 671, 118, doi: 10.1086/522292
 Devereux, N. A., Jacoby, G., & Ciardullo, R. 1995, AJ, 110, 1115, doi: 10.1086/117591
-Dong, H., Li, Z., Wang, Q. D., et al. 2016,, MNRAS, 459, 2262, doi: 10.1093/mnras/stw778
-Dopita, M. A., Koratkar, A. P., Allen, M. G., et al. 1997,, ApJ, 490, 202, doi: 10.1086/304862
-Eracleous, M., Hwang, J. A., & Flohic, H. M. L. G. 2010,, ApJ, 711, 796, doi: 10.1088/0004-637X/711/2/796
+Dong, H., Li, Z., Wang, Q. D., et al. 2016, MNRAS, 459, 2262, doi: 10.1093/mnras/stw778
+Dopita, M. A., Koratkar, A. P., Allen, M. G., et al. 1997, ApJ, 490, 202, doi: 10.1086/304862
+Eracleous, M., Hwang, J. A., & Flohic, H. M. L. G. 2010, ApJ, 711, 796, doi: 10.1088/0004-637X/711/2/796
 Fabricius, M. H., Saglia, R. P., Fisher, D. B., et al. 2012, The Astrophysical Journal, 754, 67, doi: 10.1088/0004-637x/754/1/67
-Ferland, G. J., & Mushotzky, R. F. 1984,, ApJ, 286, 42, doi: 10.1086/162574
-Ferland, G. J., & Netzer, H. 1983,, ApJ, 264, 105, doi: 10.1086/160577
+Ferland, G. J., & Mushotzky, R. F. 1984, ApJ, 286, 42, doi: 10.1086/162574
+Ferland, G. J., & Netzer, H. 1983, ApJ, 264, 105, doi: 10.1086/160577
 Filippenko, A. V., & Terlevich, R. 1992, ApJL, 397, L79, doi: 10.1086/186549
-Freedman, W. L., Madore, B. F., Gibson, B. K., et al. 2001,, ApJ, 553, 47, doi: 10.1086/320638
+Freedman, W. L., Madore, B. F., Gibson, B. K., et al. 2001, ApJ, 553, 47, doi: 10.1086/320638
 Garc ia-Benito, R., Zibetti, S., Sanchez, S. F., et al. 2015, A&A, 576, A135, doi: 10.1051/0004-6361/201425080
 Garc ia-Benito, R., Gonzalez Delgado, R. M., Perez, E., et al. 2017, A&A, 608, A27, doi: 10.1051/0004-6361/201731357
-Gonzalez Delgado, R. M., Cervino, M., Martins, L. P., Leitherer, C., & Hauschildt, P. H. 2005,, MNRAS, 357, 945, doi: 10.1111/j.1365-2966.2005.08692.x
-Guver, T., & Ozel, F. 2009,, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
+Gonzalez Delgado, R. M., Cervino, M., Martins, L. P., Leitherer, C., & Hauschildt, P. H. 2005, MNRAS, 357, 945, doi: 10.1111/j.1365-2966.2005.08692.x
+Guver, T., & Ozel, F. 2009, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
 Halpern, J. P., & Steiner, J. E. 1983, ApJL, 269, L37, doi: 10.1086/184051
 Heckman, T. M. 1980, A&A, 500, 187
-Ho, L. C. 1999,, ApJ, 516, 672, doi: 10.1086/307137
-Ho, L. C., Filippenko, A. V., & Sargent, W. L. W. 1996,, ApJ, 462, 183, doi: 10.1086/177140
+Ho, L. C. 1999, ApJ, 516, 672, doi: 10.1086/307137
+Ho, L. C., Filippenko, A. V., & Sargent, W. L. W. 1996, ApJ, 462, 183, doi: 10.1086/177140
 Husemann, B., Jahnke, K., Sanchez, S. F., et al. 2013, A&A, 549, A87, doi: 10.1051/0004-6361/201220582
 Ishisaki, Y., Makishima, K., Iyomoto, N., et al. 1996, PASJ, 48, 237, doi: 10.1093/pasj/48.2.237
-Iyomoto, N., & Makishima, K. 2001,, MNRAS, 321, 767, doi: 10.1046/j.1365-8711.2001.04086.x
-Jacoby, G. H., Ford, H., & Ciardullo, R. 1985,, ApJ, 290, 136, doi: 10.1086/162968
-Kauffmann, G., Heckman, T. M., Tremonti, C., et al. 2003,, MNRAS, 346, 1055, doi: 10.1111/j.1365-2966.2003.07154.x
-Kewley, L. J., Dopita, M. A., Sutherland, R. S., Heisler, C. A., & Trevena, J. 2001,, ApJ, 556, 121, doi: 10.1086/321545
-Li, Z., Li, Z., Zhou, P., et al. 2019,, MNRAS, 484, 964, doi: 10.1093/mnras/stz040
-Li, Z., Shen, J., & Kim, W.-T. 2015,, ApJ, 806, 150, doi: 10.1088/0004-637X/806/2/150
-Li, Z., Wang, Q. D., & Wakker, B. P. 2009,, MNRAS, 397, 148, doi: 10.1111/j.1365-2966.2009.14918.x
+Iyomoto, N., & Makishima, K. 2001, MNRAS, 321, 767, doi: 10.1046/j.1365-8711.2001.04086.x
+Jacoby, G. H., Ford, H., & Ciardullo, R. 1985, ApJ, 290, 136, doi: 10.1086/162968
+Kauffmann, G., Heckman, T. M., Tremonti, C., et al. 2003, MNRAS, 346, 1055, doi: 10.1111/j.1365-2966.2003.07154.x
+Kewley, L. J., Dopita, M. A., Sutherland, R. S., Heisler, C. A., & Trevena, J. 2001, ApJ, 556, 121, doi: 10.1086/321545
+Li, Z., Li, Z., Zhou, P., et al. 2019, MNRAS, 484, 964, doi: 10.1093/mnras/stz040
+Li, Z., Shen, J., & Kim, W.-T. 2015, ApJ, 806, 150, doi: 10.1088/0004-637X/806/2/150
+Li, Z., Wang, Q. D., & Wakker, B. P. 2009, MNRAS, 397, 148, doi: 10.1111/j.1365-2966.2009.14918.x
 Mart i-Vidal, I., Marcaide, J. M., Alberdi, A., et al. 2011, A&A, 533, A111, doi: 10.1051/0004-6361/201117211
 Molina, M., Eracleous, M., Barth, A. J., et al. 2018, The Astrophysical Journal, 864, 90, doi: 10.3847/1538-4357/aad5ed
-Nemmen, R. S., Storchi-Bergmann, T., & Eracleous, M. 2014,, MNRAS, 438, 2804, doi: 10.1093/mnras/stt2388
+Nemmen, R. S., Storchi-Bergmann, T., & Eracleous, M. 2014, MNRAS, 438, 2804, doi: 10.1093/mnras/stt2388
 Osterbrock, D. E. 1989, Astrophysics of gaseous nebulae and active galactic nuclei
-Peimbert, M., & Torres-Peimbert, S. 1981,, ApJ, 245, 845, doi: 10.1086/158860
+Peimbert, M., & Torres-Peimbert, S. 1981, ApJ, 245, 845, doi: 10.1086/158860
 Peng, C. Y., Ho, L. C., Impey, C. D., & Rix, H.-W. 2002, The Astronomical Journal, 124, 266, doi: 10.1086/340952
 --. 2010, The Astronomical Journal, 139, 2097, doi: 10.1088/0004-6256/139/6/2097
 Proxauf, B., Ottl, S., & Kimeswenger, S. 2014, A&A, 561, A10, doi: 10.1051/0004-6361/201322581
 Ricci, T. V., Steiner, J. E., & Giansante, L. 2015a, A&A, 576, A58, doi: 10.1051/0004-6361/201425504
-Ricci, T. V., Steiner, J. E., & Menezes, R. B. 2015b,, MNRAS, 451, 3728, doi: 10.1093/mnras/stv1156
-Rodr iguez del Pino, B., Arribas, S., Piqueras Lopez, J., Villar-Mart in, M., & Colina, L. 2019,, MNRAS, 486, 344, doi: 10.1093/mnras/stz816
-Salpeter, E. E. 1955,, ApJ, 121, 161, doi: 10.1086/145971
+Ricci, T. V., Steiner, J. E., & Menezes, R. B. 2015b, MNRAS, 451, 3728, doi: 10.1093/mnras/stv1156
+Rodr iguez del Pino, B., Arribas, S., Piqueras Lopez, J., Villar-Mart in, M., & Colina, L. 2019, MNRAS, 486, 344, doi: 10.1093/mnras/stz816
+Salpeter, E. E. 1955, ApJ, 121, 161, doi: 10.1086/145971
 Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
 Sanchez, S. F., Garc ia-Benito, R., Zibetti, S., et al. 2016, A&A, 594, A36, doi: 10.1051/0004-6361/201628661
-Sarzi, M., Shields, J. C., Schawinski, K., et al. 2010,, MNRAS, 402, 2187, doi: 10.1111/j.1365-2966.2009.16039.x
-Schnorr Muller, A., Storchi-Bergmann, T., Riffel, R. A., et al. 2011,, MNRAS, 413, 149, doi: 10.1111/j.1365-2966.2010.18116.x
+Sarzi, M., Shields, J. C., Schawinski, K., et al. 2010, MNRAS, 402, 2187, doi: 10.1111/j.1365-2966.2009.16039.x
+Schnorr Muller, A., Storchi-Bergmann, T., Riffel, R. A., et al. 2011, MNRAS, 413, 149, doi: 10.1111/j.1365-2966.2010.18116.x
 Schodel, R., Krips, M., Markoff, S., Neri, R., & Eckart, A. 2007, A&A, 463, 551, doi: 10.1051/0004-6361:20066383
 Sersic, J. L. 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
 Shi, F., Li, Z., Yuan, F., & Zhu, B. 2021, Nature Astronomy, 5, 928, doi: 10.1038/s41550-021-01394-0
 Singh, R., van de Ven, G., Jahnke, K., et al. 2013, A&A, 558, A43, doi: 10.1051/0004-6361/201322062
-Smercina, A., Bell, E. F., Price, P. A., et al. 2020,, ApJ, 905, 60, doi: 10.3847/1538-4357/abc485
+Smercina, A., Bell, E. F., Price, P. A., et al. 2020, ApJ, 905, 60, doi: 10.3847/1538-4357/abc485
 Soto, K. T., Martin, C. L., Prescott, M. K. M., & Armus, L. 2012, 757, 86, doi: 10.1088/0004-637x/757/1/86
-Stasinska, G., Vale Asari, N., Cid Fernandes, R., et al. 2008,, MNRAS, 391, L29, doi: 10.1111/j.1745-3933.2008.00550.x
-Steiner, J. E., Menezes, R. B., Ricci, T. V., & Oliveira, A. S. 2009,, MNRAS, 395, 64, doi: 10.1111/j.1365-2966.2009.14530.x
-Vazdekis, A., Coelho, P., Cassisi, S., et al. 2015,, MNRAS, 449, 1177, doi: 10.1093/mnras/stv151
+Stasinska, G., Vale Asari, N., Cid Fernandes, R., et al. 2008, MNRAS, 391, L29, doi: 10.1111/j.1745-3933.2008.00550.x
+Steiner, J. E., Menezes, R. B., Ricci, T. V., & Oliveira, A. S. 2009, MNRAS, 395, 64, doi: 10.1111/j.1365-2966.2009.14530.x
+Vazdekis, A., Coelho, P., Cassisi, S., et al. 2015, MNRAS, 449, 1177, doi: 10.1093/mnras/stv151
 Walsh, J. L., Barth, A. J., Ho, L. C., et al. 2008, AJ, 136, 1677, doi: 10.1088/0004-6256/136/4/1677
-Weinberger, R., Springel, V., Hernquist, L., et al. 2017,, MNRAS, 465, 3291, doi: 10.1093/mnras/stw2944
-Yan, R., & Blanton, M. R. 2012,, ApJ, 747, 61, doi: 10.1088/0004-637X/747/1/61
-Yoon, D., Yuan, F., Ostriker, J. P., Ciotti, L., & Zhu, B. 2019,, ApJ, 885, 16, doi: 10.3847/1538-4357/ab45e8
-Yun, M. S., Ho, P. T. P., & Lo, K. Y. 1994,, Nature, 372, 530, doi: 10.1038/372530a0
+Weinberger, R., Springel, V., Hernquist, L., et al. 2017, MNRAS, 465, 3291, doi: 10.1093/mnras/stw2944
+Yan, R., & Blanton, M. R. 2012, ApJ, 747, 61, doi: 10.1088/0004-637X/747/1/61
+Yoon, D., Yuan, F., Ostriker, J. P., Ciotti, L., & Zhu, B. 2019, ApJ, 885, 16, doi: 10.3847/1538-4357/ab45e8
+Yun, M. S., Ho, P. T. P., & Lo, K. Y. 1994, Nature, 372, 530, doi: 10.1038/372530a0

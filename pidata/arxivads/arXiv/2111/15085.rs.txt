@@ -2,55 +2,55 @@ Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2019, Physical Review X, 9, 031
 Abbott, R., Abbott, T. D., Abraham, S., et al. 2020, Phys. Rev. Lett., 125, 101102
 Abbott, R., Abbott, T. D., Abraham, S., et al. 2020, The Astrophysical Journal, 900, L13
 Adelberger, E. G., Austin, S. M., Bahcall, J. N., et al. 1998, Reviews of Modern Physics, 70, 1265
-Alastuey, A. & Jancovici, B. 1978,, ApJ, 226, 1034
+Alastuey, A. & Jancovici, B. 1978, ApJ, 226, 1034
 Belczynski, K., Heger, A., Gladysz, W., et al. 2016, A&A, 594, A97
 Boyd, R. N. 2008, An Introduction to Nuclear Astrophysics (The University of Chicago Press (London))
-Chan, C., Muller, B., Heger, A., Pakmor, R., & Springel, V. 2018,, ApJ, 852, L19
+Chan, C., Muller, B., Heger, A., Pakmor, R., & Springel, V. 2018, ApJ, 852, L19
 Clayton, D. D. 1983, Principles of Stellar Evolution and Nucleosynthesis (The University of Chicago Press (Chicago)), 357 - 359
 Croon, D., McDermott, S. D., & Sakstein, J. 2020, Phys. Rev. D, 102, 115024
-Dewitt, H. E., Graboske, H. C., & Cooper, M. S. 1973,, ApJ, 181, 439
-Famiano, M., Balantekin, A. B., Kajino, T., et al. 2020,, ApJ, 898, 163
+Dewitt, H. E., Graboske, H. C., & Cooper, M. S. 1973, ApJ, 181, 439
+Famiano, M., Balantekin, A. B., Kajino, T., et al. 2020, ApJ, 898, 163
 Famiano, M. A., Balantekin, A. B., & Kajino, T. 2016, Phys. Rev. C, 93, 045804
-Farmer, R., Renzo, M., de Mink, S. E., Marchant, P., & Justham, S. 2019,, ApJ, 887, 53
-Fryer, C. L. 1999,, ApJ, 522, 413
-Graboske, H. C., Dewitt, H. E., Grossman, A. S., & Cooper, M. S. 1973,, ApJ, 181, 457
-Heger, A. & Woosley, S. E. 2002,, ApJ, 567, 532
+Farmer, R., Renzo, M., de Mink, S. E., Marchant, P., & Justham, S. 2019, ApJ, 887, 53
+Fryer, C. L. 1999, ApJ, 522, 413
+Graboske, H. C., Dewitt, H. E., Grossman, A. S., & Cooper, M. S. 1973, ApJ, 181, 457
+Heger, A. & Woosley, S. E. 2002, ApJ, 567, 532
 Ichimaru, S. 1993, Reviews of Modern Physics, 65, 255
 Iliadis, C. 2007, Nuclear Physics of Stars (WILEY-VCH Verlag GmbH & Co. (Weinheim))
-Itoh, N., Hayashi, H., Nishikawa, A., & Kohyama, Y. 1996,, ApJS, 102, 411
-Itoh, N., Totsuji, H., & Ichimaru, S. 1977,, ApJ, 218, 477
-Itoh, N., Totsuji, H., Ichimaru, S., & Dewitt, H. E. 1979,, ApJ, 234, 1079
+Itoh, N., Hayashi, H., Nishikawa, A., & Kohyama, Y. 1996, ApJS, 102, 411
+Itoh, N., Totsuji, H., & Ichimaru, S. 1977, ApJ, 218, 477
+Itoh, N., Totsuji, H., Ichimaru, S., & Dewitt, H. E. 1979, ApJ, 234, 1079
 Jancovici, B. 1977, Journal of Statistical Physics, 17, 357
 Kapusta, J. I. & Gale, C. 2006, Finite-Temperature Field Theory: Principles and Applications (Cambridge University Press (Cambridge))
-Kozyreva, A., Gilmer, M., Hirschi, R., et al. 2017,, MNRAS, 464, 2854
+Kozyreva, A., Gilmer, M., Hirschi, R., et al. 2017, MNRAS, 464, 2854
 Kravchuk, P. A. & Yakovlev, D. G. 2014a, Phys. Rev. C, 89, 015802
 Kravchuk, P. A. & Yakovlev, D. G. 2014b, Phys. Rev. C, 89, 015802
-Kuroda, T., Kotake, K., Takiwaki, T., & Thielemann, F.-K. 2018,, MNRAS, 477, L80
-Leung, S.-C., Nomoto, K., & Blinnikov, S. 2019,, ApJ, 887, 72
+Kuroda, T., Kotake, K., Takiwaki, T., & Thielemann, F.-K. 2018, MNRAS, 477, L80
+Leung, S.-C., Nomoto, K., & Blinnikov, S. 2019, ApJ, 887, 72
 Liu, J.-J. 2016, Research in Astronomy and Astrophysics, 16, 83
-Marchant, P., Renzo, M., Farmer, R., et al. 2019,, ApJ, 882, 36
+Marchant, P., Renzo, M., Farmer, R., et al. 2019, ApJ, 882, 36
 Meyer, B. S. & Adams, D. C. 2007, Meteoritics and Planetary Science Supplement, 42, 5215
-Paxton, B., Bildsten, L., Dotter, A., et al. 2011a,, ApJS, 192, 3
-Paxton, B., Bildsten, L., Dotter, A., et al. 2011b,, ApJS, 192, 3
-Paxton, B., Marchant, P., Schwab, J., et al. 2015,, ApJS, 220, 15
-Paxton, B., Schwab, J., Bauer, E. B., et al. 2018,, ApJS, 234, 34
+Paxton, B., Bildsten, L., Dotter, A., et al. 2011a, ApJS, 192, 3
+Paxton, B., Bildsten, L., Dotter, A., et al. 2011b, ApJS, 192, 3
+Paxton, B., Marchant, P., Schwab, J., et al. 2015, ApJS, 220, 15
+Paxton, B., Schwab, J., Bauer, E. B., et al. 2018, ApJS, 234, 34
 Potekhin, A. Y. & Chabrier, G. 2013, Contributions to Plasma Physics, 53, 397
-Quarati, P. & Scarfone, A. M. 2007,, ApJ, 666, 1303
+Quarati, P. & Scarfone, A. M. 2007, ApJ, 666, 1303
 Sahoo, B. K. & Das, M. 2016, European Physical Journal D, 70, 270
 Sakstein, J., Croon, D., McDermott, S. D., Straight, M. C., & Baxter, E. J. 2020, Phys. Rev. Lett., 125, 261105
 Salpeter, E. E. 1954, Australian Journal of Physics, 7, 373
-Salpeter, E. E. & van Horn, H. M. 1969,, ApJ, 155, 183
+Salpeter, E. E. & van Horn, H. M. 1969, ApJ, 155, 183
 Shalybkov, D. A. & Yakovlev, D. G. 1987, Astrophysics, 27, 562
-Shaviv, G. & Shaviv, N. J. 2000,, ApJ, 529, 1054
-Spera, M. & Mapelli, M. 2017,, MNRAS, 470, 4739
+Shaviv, G. & Shaviv, N. J. 2000, ApJ, 529, 1054
+Spera, M. & Mapelli, M. 2017, MNRAS, 470, 4739
 Spitaleri, C., Bertulani, C., Fortunato, L., & Vitturi, A. 2016, Physics Letters B, 755, 275
-Takahashi, K., Yoshida, T., & Umeda, H. 2018,, ApJ, 857, 111
+Takahashi, K., Yoshida, T., & Umeda, H. 2018, ApJ, 857, 111
 Toro, E. F., Spruce, M., & Speares, W. 1994, Shock Waves, 4, 25
-van Son, L. A. C., De Mink, S. E., Broekgaarden, F. S., et al. 2020,, ApJ, 897, 100
+van Son, L. A. C., De Mink, S. E., Broekgaarden, F. S., et al. 2020, ApJ, 897, 100
 Wallace, R. K., Woosley, S. E., & Weaver, T. A. 1982, Ap. J., 258, 696
 Wang, B., Bertulani, C. A., & Balantekin, A. B. 2011, Phys. Rev. C, 83, 018801
-Woosley, S. E. 2017,, ApJ, 836, 244
-Woosley, S. E. 2019,, ApJ, 878, 49
-Woosley, S. E., Blinnikov, S., & Heger, A. 2007,, Nature, 450, 390
-Woosley, S. E. & Heger, A. 2021,, ApJ, 912, L31
-Wu, Y. & Palffy, A. 2017,, ApJ, 838, 55
+Woosley, S. E. 2017, ApJ, 836, 244
+Woosley, S. E. 2019, ApJ, 878, 49
+Woosley, S. E., Blinnikov, S., & Heger, A. 2007, Nature, 450, 390
+Woosley, S. E. & Heger, A. 2021, ApJ, 912, L31
+Wu, Y. & Palffy, A. 2017, ApJ, 838, 55

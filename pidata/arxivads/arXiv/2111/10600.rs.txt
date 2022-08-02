@@ -1,43 +1,43 @@
 Aartsen, M., et al. 2018a, Science, 361, 147, doi: 10.1126/science.aat2890
 --. 2018b, Science, 361, eaat1378, doi: 10.1126/science.aat1378
-Abdo, A. A., Ackermann, M., Ajello, M., et al. 2010,, ApJS, 188, 405, doi: 10.1088/0067-0049/188/2/405
-Acero, F., Ackermann, M., Ajello, M., et al. 2015,, ApJS, 218, 23, doi: 10.1088/0067-0049/218/2/23
+Abdo, A. A., Ackermann, M., Ajello, M., et al. 2010, ApJS, 188, 405, doi: 10.1088/0067-0049/188/2/405
+Acero, F., Ackermann, M., Ajello, M., et al. 2015, ApJS, 218, 23, doi: 10.1088/0067-0049/218/2/23
 Bartoli, B., Bernardini, P., Bi, X. J., et al. 2013, The Astrophysical Journal, 779, 27. http://stacks.iop.org/0004-637X/779/i=1/a=27
-Bianchi, L., Efremova, B., Herald, J., et al. 2011,, MNRAS, 411, 2770, doi: 10.1111/j.1365-2966.2010.17890.x
+Bianchi, L., Efremova, B., Herald, J., et al. 2011, MNRAS, 411, 2770, doi: 10.1111/j.1365-2966.2010.17890.x
 Blumenthal, G. R., & Gould, R. J. 1970, Reviews of Modern Physics, 42, 237
 Boller, T., Freyberg, M. J., Tr""umper, J., et al. 2016, aap, 588, A103, doi: 10.1051/0004-6361/201525648
-Bottcher, M., Reimer, A., Sweeney, K., & Prakash, A. 2013,, ApJ, 768, 54, doi: 10.1088/0004-637X/768/1/54
+Bottcher, M., Reimer, A., Sweeney, K., & Prakash, A. 2013, ApJ, 768, 54, doi: 10.1088/0004-637X/768/1/54
 Condon, J. J., Cotton, W. D., Greisen, E. W., et al. 1998, AJ, 115, 1693, doi: 10.1086/300337
 Crusius, A., & Schlickeiser, R. 1986, A&A, 164, L16
-Dermer, C. D., Cerruti, M., Lott, B., Boisson, C., & Zech, A. 2014,, ApJ, 782, 82, doi: 10.1088/0004-637X/782/2/82
-Dermer, C. D., Finke, J. D., Krug, H., & Bottcher, M. 2009,, ApJ, 692, 32, doi: 10.1088/0004-637X/692/1/32
+Dermer, C. D., Cerruti, M., Lott, B., Boisson, C., & Zech, A. 2014, ApJ, 782, 82, doi: 10.1088/0004-637X/782/2/82
+Dermer, C. D., Finke, J. D., Krug, H., & Bottcher, M. 2009, ApJ, 692, 32, doi: 10.1088/0004-637X/692/1/32
 Evans, P. A., Osborne, J. P., Beardmore, A. P., et al. 2014, The Astrophysical Journal Supplement Series, 210, 8. http://stacks.iop.org/0067-0049/210/i=1/a=8
-Finke, J. D. 2016,, ApJ, 830, 94, doi: 10.3847/0004-637X/830/2/94
-Finke, J. D., Dermer, C. D., & Bottcher, M. 2008,, ApJ, 686, 181, doi: 10.1086/590900
+Finke, J. D. 2016, ApJ, 830, 94, doi: 10.3847/0004-637X/830/2/94
+Finke, J. D., Dermer, C. D., & Bottcher, M. 2008, ApJ, 686, 181, doi: 10.1086/590900
 Fleischhack, H. 2021, arXiv e-prints, arXiv:2108.02860. https://arxiv.org/abs/2108.02860
-Georganopoulos, M., Kirk, J. G., & Mastichiadis, A. 2001,, ApJ, 561, 111, doi: 10.1086/323225
-Gregory, P. C., Scott, W. K., Douglas, K., & Condon, J. J. 1996,, ApJS, 103, 427, doi: 10.1086/192282
-Gruber, D. E., Matteson, J. L., Peterson, L. E., & Jung, G. V. 1999,, ApJ, 520, 124, doi: 10.1086/307450
-Healey, S. E., Romani, R. W., Taylor, G. B., et al. 2007,, ApJS, 171, 61, doi: 10.1086/513742
+Georganopoulos, M., Kirk, J. G., & Mastichiadis, A. 2001, ApJ, 561, 111, doi: 10.1086/323225
+Gregory, P. C., Scott, W. K., Douglas, K., & Condon, J. J. 1996, ApJS, 103, 427, doi: 10.1086/192282
+Gruber, D. E., Matteson, J. L., Peterson, L. E., & Jung, G. V. 1999, ApJ, 520, 124, doi: 10.1086/307450
+Healey, S. E., Romani, R. W., Taylor, G. B., et al. 2007, ApJS, 171, 61, doi: 10.1086/513742
 IceCube Collaboration, Aartsen, M. G., Ackermann, M., et al. 2018, Science, 361, eaat1378, doi: 10.1126/science.aat1378
-Inoue, Y., Khangulyan, D., Inoue, S., & Doi, A. 2019,, ApJ, 880, 40, doi: 10.3847/1538-4357/ab2715
-Jackson, N., Battye, R. A., Browne, I. W. A., et al. 2007,, MNRAS, 376, 371, doi: 10.1111/j.1365-2966.2007.11442.x
+Inoue, Y., Khangulyan, D., Inoue, S., & Doi, A. 2019, ApJ, 880, 40, doi: 10.3847/1538-4357/ab2715
+Jackson, N., Battye, R. A., Browne, I. W. A., et al. 2007, MNRAS, 376, 371, doi: 10.1111/j.1365-2966.2007.11442.x
 Jones, F. C. 1968, Physical Review, 167, 1159, doi: 10.1103/PhysRev.167.1159
-Kaspi, S., Brandt, W. N., Maoz, D., et al. 2007,, ApJ, 659, 997, doi: 10.1086/512094
-Kaspi, S., Maoz, D., Netzer, H., et al. 2005,, ApJ, 629, 61, doi: 10.1086/431275
+Kaspi, S., Brandt, W. N., Maoz, D., et al. 2007, ApJ, 659, 997, doi: 10.1086/512094
+Kaspi, S., Maoz, D., Netzer, H., et al. 2005, ApJ, 629, 61, doi: 10.1086/431275
 Keivani, A., et al. 2018, Astrophys. J., 864, 84, doi: 10.3847/1538-4357/aad59a
-Keivani, A., Murase, K., Petropoulou, M., et al. 2018,, ApJ, 864, 84, doi: 10.3847/1538-4357/aad59a
-Lewis, T. R., Becker, P. A., & Finke, J. D. 2016,, ApJ, 824, 108, doi: 10.3847/0004-637X/824/2/108
-Lewis, T. R., Finke, J. D., & Becker, P. A. 2018,, ApJ, 853, 6, doi: 10.3847/1538-4357/aaa19a
---. 2019,, ApJ, 884, 116, doi: 10.3847/1538-4357/ab43c3
+Keivani, A., Murase, K., Petropoulou, M., et al. 2018, ApJ, 864, 84, doi: 10.3847/1538-4357/aad59a
+Lewis, T. R., Becker, P. A., & Finke, J. D. 2016, ApJ, 824, 108, doi: 10.3847/0004-637X/824/2/108
+Lewis, T. R., Finke, J. D., & Becker, P. A. 2018, ApJ, 853, 6, doi: 10.3847/1538-4357/aaa19a
+--. 2019, ApJ, 884, 116, doi: 10.3847/1538-4357/ab43c3
 Liu, R.-Y., Wang, K., Xue, R., et al. 2019, PRD, 99, 063008, doi: 10.1103/PhysRevD.99.063008
 Mucke, A., & Protheroe, R. J. 2000, in American Institute of Physics Conference Series, Vol. 515, GeV-TeV Gamma Ray Astrophysics Workshop : towards a major atmospheric, ed. B. L. Dingus, M. H. Salamon, & D. B. Kieda, 149-153, doi: 10.1063/1.1291360
 Murase, K., Kimura, S. S., & Meszaros, P. 2020, PRL, 125, 011101, doi: 10.1103/PhysRevLett.125.011101
-Myers, S. T., Jackson, N. J., Browne, I. W. A., et al. 2003,, MNRAS, 341, 1, doi: 10.1046/j.1365-8711.2003.06256.x
-Nenkova, M., Sirocky, M. M., Nikutta, R., Ivezic, Z., & Elitzur, M. 2008,, ApJ, 685, 160, doi: 10.1086/590483
+Myers, S. T., Jackson, N. J., Browne, I. W. A., et al. 2003, MNRAS, 341, 1, doi: 10.1046/j.1365-8711.2003.06256.x
+Nenkova, M., Sirocky, M. M., Nikutta, R., Ivezic, Z., & Elitzur, M. 2008, ApJ, 685, 160, doi: 10.1086/590483
 Nieppola, E., Tornikoski, M., Lahteenmaki, A., et al. 2007, AJ, 133, 1947, doi: 10.1086/512609
-Nolan, P. L., Abdo, A. A., Ackermann, M., et al. 2012,, ApJS, 199, 31, doi: 10.1088/0067-0049/199/2/31
-Park, B. T., & Petrosian, V. 1995,, ApJ, 446, 699, doi: 10.1086/175828
+Nolan, P. L., Abdo, A. A., Ackermann, M., et al. 2012, ApJS, 199, 31, doi: 10.1088/0067-0049/199/2/31
+Park, B. T., & Petrosian, V. 1995, ApJ, 446, 699, doi: 10.1086/175828
 Petropoulou, M., et al. 2020, Astrophys. J., 891, 115, doi: 10.3847/1538-4357/ab76d0
 Planck Collaboration, Ade, P. A. R., Aghanim, N., et al. 2011, A&A, 536, A7, doi: 10.1051/0004-6361/201116474
 --. 2014, A&A, 571, A28, doi: 10.1051/0004-6361/201321524
@@ -49,11 +49,11 @@ Shakura, N. I., & Sunyaev, R. A. 1973, A&A, 24, 337
 Sjostrand, T., et al. 2015, Computer Physics Communications, 191, 159, doi: 10.1016/j.cpc.2015.01.024
 Vanden Berk, D. E., Richards, G. T., Bauer, A., et al. 2001, AJ, 122, 549, doi: 10.1086/321167
 Voges, W., Aschenbach, B., Boller, T., et al. 1999, A&A, 349, 389
-White, R. L., & Becker, R. H. 1992,, ApJS, 79, 331, doi: 10.1086/191656
-Wright, A. E., Griffith, M. R., Burke, B. F., & Ekers, R. D. 1994,, ApJS, 91, 111, doi: 10.1086/191939
+White, R. L., & Becker, R. H. 1992, ApJS, 79, 331, doi: 10.1086/191656
+Wright, A. E., Griffith, M. R., Burke, B. F., & Ekers, R. D. 1994, ApJS, 91, 111, doi: 10.1086/191939
 Wright, E. L., Eisenhardt, P. R. M., Mainzer, A. K., et al. 2010, AJ, 140, 1868, doi: 10.1088/0004-6256/140/6/1868
 Xue, R., Liu, R.-Y., Petropoulou, M., et al. 2019, APJ, 886, 23, doi: 10.3847/1538-4357/ab4b44
-Xue, R., Liu, R.-Y., Wang, Z.-R., Ding, N., & Wang, X.-Y. 2021a,, ApJ, 906, 51, doi: 10.3847/1538-4357/abc886
---. 2021b,, ApJ, 906, 51, doi: 10.3847/1538-4357/abc886
-Zhang, B. T., Petropoulou, M., Murase, K., & Oikonomou, F. 2020,, ApJ, 889, 118, doi: 10.3847/1538-4357/ab659a
+Xue, R., Liu, R.-Y., Wang, Z.-R., Ding, N., & Wang, X.-Y. 2021a, ApJ, 906, 51, doi: 10.3847/1538-4357/abc886
+--. 2021b, ApJ, 906, 51, doi: 10.3847/1538-4357/abc886
+Zhang, B. T., Petropoulou, M., Murase, K., & Oikonomou, F. 2020, ApJ, 889, 118, doi: 10.3847/1538-4357/ab659a
 Zoglauer, A., Andritschke, R., & Schopper, F. 2006, NAR, 50, 629, doi: 10.1016/j.newar.2006.06.049

@@ -1,63 +1,63 @@
-Beloborodov A. M., 2009,, ApJ, 703, 1044
+Beloborodov A. M., 2009, ApJ, 703, 1044
 Beloborodov A. M., 2017, ApJL, 843, L26
-Beloborodov, A. M., 2020,, ApJ, 896, 142
-Bochenek C. D., Ravi V., Belov K. V., et al., 2020,, Nature, 587, 59
-Chen J. L., Wang H. G., 2014,, ApJS, 215, 11
-CHIME/FRB Collaboration: Amiri M., Bandura K., Bhardwaj M., et al., 2019a,, Nature, 566, 235
+Beloborodov, A. M., 2020, ApJ, 896, 142
+Bochenek C. D., Ravi V., Belov K. V., et al., 2020, Nature, 587, 59
+Chen J. L., Wang H. G., 2014, ApJS, 215, 11
+CHIME/FRB Collaboration: Amiri M., Bandura K., Bhardwaj M., et al., 2019a, Nature, 566, 235
 CHIME/FRB Collaboration: Andersen B. C., Bandura K., Bhardwaj M., et al., 2019b, ApJL, 855, L24
-CHIME/FRB Collaboration: Andersen B. C., Bandura K., Bhardwaj M., et al., 2020,, Nature, 587, 54
+CHIME/FRB Collaboration: Andersen B. C., Bandura K., Bhardwaj M., et al., 2020, Nature, 587, 54
 CHIME/FRB collaboration: Amiri M., Andersen B. C., Bandura K., et al., 2021a, arXiv:2106.04352
 CHIME/FRB collaboration: Andersen B. C., Bandura K., Bhardwaj M., et al., 2021b, arXiv:2107.08463
-Cordes J. M., 1978,, ApJ, 222, 1006
-Dyks J., Rudak B., Harding A. K., 2004,, ApJ, 607, 939
+Cordes J. M., 1978, ApJ, 222, 1006
+Dyks J., Rudak B., Harding A. K., 2004, ApJ, 607, 939
 Fonseca E., Andersen B. C., Bhardwaj M., et al., 2020, ApJL, 891, L6
-Gajjar V., Siemion A. P. V., Price D. C., et al., 2018,, ApJ, 863, 2
-Gangadhara R. T., Gupta Y., 2001,, ApJ, 555, 31
+Gajjar V., Siemion A. P. V., Price D. C., et al., 2018, ApJ, 863, 2
+Gangadhara R. T., Gupta Y., 2001, ApJ, 555, 31
 Gil J., Gronkwski P., Rudnicki W., 1984, A&A, 132, 312
 Gil J. A., Kijak J., 1993, A&A, 273, 563
 Hessels J. W. T., Spitler L. G., Seymour A. D., et al., 2019, ApJL, 876, L23
-Josephy A., Chawla P., Fonseca E., et al., 2019,, ApJ, 882, L18
-Katz J. I., 2016,, ApJ, 826, 226
-Katz J. I., 2018,, MNRAS, 481, 2946
-Kijak J., Gil J., 1997,, MNRAS, 288, 631
-Kijak J., Gil J., 1998,, MNRAS, 299, 855
-Kijak J., 2001,, MNRAS, 323, 537
+Josephy A., Chawla P., Fonseca E., et al., 2019, ApJ, 882, L18
+Katz J. I., 2016, ApJ, 826, 226
+Katz J. I., 2018, MNRAS, 481, 2946
+Kijak J., Gil J., 1997, MNRAS, 288, 631
+Kijak J., Gil J., 1998, MNRAS, 299, 855
+Kijak J., 2001, MNRAS, 323, 537
 Kirsten, F., Snelders, M. P., Jenkins, M., et al., 2021, NatAs, 5, 414
-Komesaroff M. M., 1970,, Nature, 255, 612
-Kumar P., Lu W., Bhattacharya M., 2017,, MNRAS, 468, 2726
-Lin L., Zhang C. F., Wang P., et al., 2020,, Nature, 587, 63
+Komesaroff M. M., 1970, Nature, 255, 612
+Kumar P., Lu W., Bhattacharya M., 2017, MNRAS, 468, 2726
+Lin L., Zhang C. F., Wang P., et al., 2020, Nature, 587, 63
 Lorimer D. R., Bailes M., McLaughlin M. A., et al., 2007, Science, 318, 777
-Luo R., Wang B. J., Meng Y. P., et al., 2020,, Nature, 586, 693
+Luo R., Wang B. J., Meng Y. P., et al., 2020, Nature, 586, 693
 Lyne A. G., Graham-Smith F., 2012, Pulsar astronomy, Cambridge University, Cambridge
-Lyne A. G., Manchester R. N., 1988,, MNRAS, 234, 477
-Lyubarsky Y., 2014,, MNRAS, 442, L9
+Lyne A. G., Manchester R. N., 1988, MNRAS, 234, 477
+Lyubarsky Y., 2014, MNRAS, 442, L9
 Lyubarsky Y., 2021, Univ, 7, 56
-Lyutikov M., 2020,, ApJ, 889, 135
+Lyutikov M., 2020, ApJ, 889, 135
 Manchester R. N., 1995, JApA, 16, 107
 Margalit B., Metzger B. M., 2018, ApJL, 868, L4
-Margalit B., Metzger B. D., Sironi L., 2020,, MNRAS, 494, 4627
-Metzger, B. D., Margalit, B., Sironi, L., 2019,, MNRAS, 485, 4091
-Michilli D., Seymour A., Hessels J. W. T., et al., 2018,, Nature, 553, 182
+Margalit B., Metzger B. D., Sironi L., 2020, MNRAS, 494, 4627
+Metzger, B. D., Margalit, B., Sironi, L., 2019, MNRAS, 485, 4091
+Michilli D., Seymour A., Hessels J. W. T., et al., 2018, Nature, 553, 182
 Nimmo K., Hessels J. W. T., Keimpena A., et al., 2021, NatAs, 5, 594
-Pavan L., Turolla R., Zane S., et al., 2009,, MNRAS, 395, 753
+Pavan L., Turolla R., Zane S., et al., 2009, MNRAS, 395, 753
 Petroff E., Hessels J. W. T, Lorimer D. R., 2019, AAR, 27, 4
-Phillips J. A., 1992,, ApJ, 385, 282
+Phillips J. A., 1992, ApJ, 385, 282
 Pleunis Z., Michilli D., Bassa C. G., et al., 2021a, ApJL, 911, L3
 Pleunis Z., Good D. C., Kaspi V. M., 2021b, arXiv:2106.04356
 Popov S. B., Postnov K. A., 2007, arXiv:0710.2006
 Radhakrishnan V., Cooke D. J., 1969, ApL, 3, 225
-Rankin J. M., 1983,, ApJ, 274, 333
-Rankin J. M., 1993,, ApJ, 405, 285
-Ruderman M. A., Sutherland P. G., 1975,, ApJ, 196, 51
-Scholz P., Spitler L. G., Hessels J. W. T., et al., 2016,, ApJ, 833, 177
-Spitler L. G., Scholz P., Hessels J. W. T., et al., 2016,, Nature, 531, 202
-Thompson C., Lyutikov M., Kulkarni S. R., 2002,, ApJ, 574, 332
+Rankin J. M., 1983, ApJ, 274, 333
+Rankin J. M., 1993, ApJ, 405, 285
+Ruderman M. A., Sutherland P. G., 1975, ApJ, 196, 51
+Scholz P., Spitler L. G., Hessels J. W. T., et al., 2016, ApJ, 833, 177
+Spitler L. G., Scholz P., Hessels J. W. T., et al., 2016, Nature, 531, 202
+Thompson C., Lyutikov M., Kulkarni S. R., 2002, ApJ, 574, 332
 Thornton D., Stappers B., Bails M., et al., 2013, Science, 341, 53
-Tong H., 2019,, MNRAS, 489, 3769
-Tong H., Wang P. F., Wang H. G., Yan, Z., 2021,, MNRAS, 502, 1549
-Wang P. F., Han J. L., Wang C., 2013,, ApJ, 768, 114
-Wang H. G., Pi F. P., Zheng X. P., et al., 2014,, ApJ, 789, 73
+Tong H., 2019, MNRAS, 489, 3769
+Tong H., Wang P. F., Wang H. G., Yan, Z., 2021, MNRAS, 502, 1549
+Wang P. F., Han J. L., Wang C., 2013, ApJ, 768, 114
+Wang H. G., Pi F. P., Zheng X. P., et al., 2014, ApJ, 789, 73
 Wang W., Zhang B., Chen X., Xu R., 2019, ApJL, 876, L15
-Yan, Z., Shen, Z. Q., Wu, X. J., et al., 2015,, ApJ, 814, 5
-Yang Y. P., Zhang B., 2018,, ApJ, 868, 31
-Zhang B., 2020,, Nature, 587, 45
+Yan, Z., Shen, Z. Q., Wu, X. J., et al., 2015, ApJ, 814, 5
+Yang Y. P., Zhang B., 2018, ApJ, 868, 31
+Zhang B., 2020, Nature, 587, 45

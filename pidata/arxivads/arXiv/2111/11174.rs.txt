@@ -1,38 +1,38 @@
-Angel, J. R. P., Borra, E. F., & Landstreet, J. D. 1981,, ApJS, 45, 457
-Angel, J. R. P., Hintzen, P., Strittmatter, P. A., & Martin, P. G. 1974a,, ApJ, 190, L71
-Angel, J. R. P., Hintzen, P., Strittmatter, P. A., & Martin, P. G. 1974b,, ApJ, 190, L71
-Angel, J. R. P. & Landstreet, J. D. 1970a,, ApJ, 162, L61
-Angel, J. R. P. & Landstreet, J. D. 1970b,, ApJ, 160, L147
-Angel, J. R. P. & Landstreet, J. D. 1972,, ApJ, 178, L21
+Angel, J. R. P., Borra, E. F., & Landstreet, J. D. 1981, ApJS, 45, 457
+Angel, J. R. P., Hintzen, P., Strittmatter, P. A., & Martin, P. G. 1974a, ApJ, 190, L71
+Angel, J. R. P., Hintzen, P., Strittmatter, P. A., & Martin, P. G. 1974b, ApJ, 190, L71
+Angel, J. R. P. & Landstreet, J. D. 1970a, ApJ, 162, L61
+Angel, J. R. P. & Landstreet, J. D. 1970b, ApJ, 160, L147
+Angel, J. R. P. & Landstreet, J. D. 1972, ApJ, 178, L21
 Aznar Cuadrado, R., Jordan, S., Napiwotzki, R., et al. 2004, A&A, 423, 1081
 Bagnulo, S. & Landstreet, J. D. 2018, A&A, 618, A113
-Bagnulo, S. & Landstreet, J. D. 2019,, MNRAS, 486, 4655
+Bagnulo, S. & Landstreet, J. D. 2019, MNRAS, 486, 4655
 Bagnulo, S. & Landstreet, J. D. 2020, A&A, 643, A134
-Bagnulo, S. & Landstreet, J. D. 2021,, MNRAS, 507, 5902
+Bagnulo, S. & Landstreet, J. D. 2021, MNRAS, 507, 5902
 Berdyugin, A. V. & Piirola, V. 1999, A&A, 352, 619
-Bergeron, P., Ruiz, M.-T., & Leggett, S. K. 1992,, ApJ, 400, 315
-Gianninas, A., Bergeron, P., & Ruiz, M. T. 2011,, ApJ, 743, 138
-Isern, J., Garsia-Berro, E., Kulebi, B., & Loren-Aguilar, P. 2017,, ApJ, 836, L28
-Kawka, A. & Vennes, S. 2006,, ApJ, 643, 402
-Kemp, J. C., Swedlund, J. B., Landstreet, J. D., & Angel, J. R. P. 1970,, ApJ, 161, L77
+Bergeron, P., Ruiz, M.-T., & Leggett, S. K. 1992, ApJ, 400, 315
+Gianninas, A., Bergeron, P., & Ruiz, M. T. 2011, ApJ, 743, 138
+Isern, J., Garsia-Berro, E., Kulebi, B., & Loren-Aguilar, P. 2017, ApJ, 836, L28
+Kawka, A. & Vennes, S. 2006, ApJ, 643, 402
+Kemp, J. C., Swedlund, J. B., Landstreet, J. D., & Angel, J. R. P. 1970, ApJ, 161, L77
 Kulebi, B., Jordan, S., Euchner, F., Gansicke, B. T., & Hirsch, H. 2009, A&A, 506, 1341
-Landstreet, J. D. & Angel, J. R. P. 1971,, ApJ, 165, L67
-Landstreet, J. D. & Angel, J. R. P. 1975,, ApJ, 196, 819
+Landstreet, J. D. & Angel, J. R. P. 1971, ApJ, 165, L67
+Landstreet, J. D. & Angel, J. R. P. 1975, ApJ, 196, 819
 Landstreet, J. D. & Bagnulo, S. 2019, A&A, 623, A46
-Liebert, J., Angel, J. R. P., & Landstreet, J. D. 1975,, ApJ, 202, L139
+Liebert, J., Angel, J. R. P., & Landstreet, J. D. 1975, ApJ, 202, L139
 Liebert, J. & Stockman, H. S. 1980, PASP, 92, 657
 Limoges, M. M., Lepine, S., & Bergeron, P. 2013, AJ, 145, 136
 Patat, F. & Romaniello, M. 2006, PASP, 118, 146
 Piirola, V., Berdyugin, A., & Berdyugina, S. 2014, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9147, Ground-based and Airborne Instrumentation for Astronomy V, ed. S. K. Ramsay, I. S. McLean, & H. Takami, 91478I
 Piirola, V., Kosenkov, I. A., Berdyugin, A. V., Berdyugina, S. V., & Poutanen, J. 2021, AJ, 161, 20
 Piirola, V., Berdyugin, A., Frisch, P. C., et al. 2020, A&A, 635, A46
-Putney, A. 1995,, ApJ, 451, L67
-Putney, A. 1997,, ApJS, 112, 527
-Putney, A. & Jordan, S. 1995,, ApJ, 449, 863
-Schmidt, G. D. & Smith, P. S. 1994,, ApJ, 423, L63
-Schmidt, G. D. & Smith, P. S. 1995,, ApJ, 448, 305
-Shipman, H. L. 1971,, ApJ, 167, 165
-Valyavin, G., Wade, G. A., Bagnulo, S., et al. 2008,, ApJ, 683, 466
-Vanderburg, A., Rappaport, S. A., Xu, S., et al. 2020,, Nature, 585, 363
+Putney, A. 1995, ApJ, 451, L67
+Putney, A. 1997, ApJS, 112, 527
+Putney, A. & Jordan, S. 1995, ApJ, 449, 863
+Schmidt, G. D. & Smith, P. S. 1994, ApJ, 423, L63
+Schmidt, G. D. & Smith, P. S. 1995, ApJ, 448, 305
+Shipman, H. L. 1971, ApJ, 167, 165
+Valyavin, G., Wade, G. A., Bagnulo, S., et al. 2008, ApJ, 683, 466
+Vanderburg, A., Rappaport, S. A., Xu, S., et al. 2020, Nature, 585, 363
 Veron-Cetty, M. P. & Veron, P. 2010, A&A, 518, A10
-West, S. C. 1989,, ApJ, 345, 511
+West, S. C. 1989, ApJ, 345, 511

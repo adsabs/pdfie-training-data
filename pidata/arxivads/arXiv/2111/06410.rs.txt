@@ -1,119 +1,119 @@
-Adelberger, K. L., Steidel, C. C., Shapley, A. E., et al. 2004,, ApJ, 607, 226, doi: 10.1086/383221
-Aller, L. H. 1954,, ApJ, 120, 401, doi: 10.1086/145931
-Andrews, B. H., & Martini, P. 2013,, ApJ, 765, 140, doi: 10.1088/0004-637X/765/2/140
+Adelberger, K. L., Steidel, C. C., Shapley, A. E., et al. 2004, ApJ, 607, 226, doi: 10.1086/383221
+Aller, L. H. 1954, ApJ, 120, 401, doi: 10.1086/145931
+Andrews, B. H., & Martini, P. 2013, ApJ, 765, 140, doi: 10.1088/0004-637X/765/2/140
 Asplund, M., Grevesse, N., Sauval, A. J., & Scott, P. 2009, ARA&A, 47, 481, doi: 10.1146/annurev.astro.46.060407.145222
 Baldwin, J. A., Phillips, M. M., & Terlevich, R. 1981, PASP, 93, 5, doi: 10.1086/130766
-Barrera-Ballesteros, J. K., Sanchez, S. F., Heckman, T., Blanc, G. A., & MaNGA Team. 2017,, ApJ, 844, 80, doi: 10.3847/1538-4357/aa7aa9
-Berg, D. A., Pogge, R. W., Skillman, E. D., et al. 2020,, ApJ, 893, 96, doi: 10.3847/1538-4357/ab7eab
-Berg, D. A., Skillman, E. D., Marble, A. R., et al. 2012,, ApJ, 754, 98, doi: 10.1088/0004-637X/754/2/98
-Bian, F., Kewley, L. J., & Dopita, M. A. 2018,, ApJ, 859, 175, doi: 10.3847/1538-4357/aabd74
-Blanc, G. A., Kewley, L., Vogt, F. P. A., & Dopita, M. A. 2015,, ApJ, 798, 99, doi: 10.1088/0004-637X/798/2/99
-Bothwell, M. S., Maiolino, R., Kennicutt, R., et al. 2013,, MNRAS, 433, 1425, doi: 10.1093/mnras/stt817
+Barrera-Ballesteros, J. K., Sanchez, S. F., Heckman, T., Blanc, G. A., & MaNGA Team. 2017, ApJ, 844, 80, doi: 10.3847/1538-4357/aa7aa9
+Berg, D. A., Pogge, R. W., Skillman, E. D., et al. 2020, ApJ, 893, 96, doi: 10.3847/1538-4357/ab7eab
+Berg, D. A., Skillman, E. D., Marble, A. R., et al. 2012, ApJ, 754, 98, doi: 10.1088/0004-637X/754/2/98
+Bian, F., Kewley, L. J., & Dopita, M. A. 2018, ApJ, 859, 175, doi: 10.3847/1538-4357/aabd74
+Blanc, G. A., Kewley, L., Vogt, F. P. A., & Dopita, M. A. 2015, ApJ, 798, 99, doi: 10.1088/0004-637X/798/2/99
+Bothwell, M. S., Maiolino, R., Kennicutt, R., et al. 2013, MNRAS, 433, 1425, doi: 10.1093/mnras/stt817
 Brooks, A. M., Governato, F., Booth, C. M., et al. 2007, ApJL, 655, L17, doi: 10.1086/511765
-Bruzual, G., & Charlot, S. 2003,, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
+Bruzual, G., & Charlot, S. 2003, MNRAS, 344, 1000, doi: 10.1046/j.1365-8711.2003.06897.x
 Chabrier, G. 2003, PASP, 115, 763, doi: 10.1086/376392
-Conroy, C., Graves, G. J., & van Dokkum, P. G. 2014,, ApJ, 780, 33, doi: 10.1088/0004-637X/780/1/33
-Cooper, T. J., Rudie, G. C., Chen, H.-W., et al. 2021,, MNRAS, 508, 4359, doi: 10.1093/mnras/stab2869
-Cullen, F., McLure, R. J., Dunlop, J. S., et al. 2019,, MNRAS, 487, 2038, doi: 10.1093/mnras/stz1402
-Cullen, F., Shapley, A. E., McLure, R. J., et al. 2021,, MNRAS, doi: 10.1093/mnras/stab1340
-Daddi, E., Cimatti, A., Renzini, A., et al. 2004,, ApJ, 617, 746, doi: 10.1086/425569
-Dalcanton, J. J. 2007,, ApJ, 658, 941, doi: 10.1086/508913
-De Rossi, M. E., Bower, R. G., Font, A. S., Schaye, J., & Theuns, T. 2017,, MNRAS, 472, 3354, doi: 10.1093/mnras/stx2158
-Edmunds, M. G. 1990,, MNRAS, 246, 678
-Eldridge, J. J., & Stanway, E. R. 2016,, MNRAS, 462, 3302, doi: 10.1093/mnras/stw1772
+Conroy, C., Graves, G. J., & van Dokkum, P. G. 2014, ApJ, 780, 33, doi: 10.1088/0004-637X/780/1/33
+Cooper, T. J., Rudie, G. C., Chen, H.-W., et al. 2021, MNRAS, 508, 4359, doi: 10.1093/mnras/stab2869
+Cullen, F., McLure, R. J., Dunlop, J. S., et al. 2019, MNRAS, 487, 2038, doi: 10.1093/mnras/stz1402
+Cullen, F., Shapley, A. E., McLure, R. J., et al. 2021, MNRAS, doi: 10.1093/mnras/stab1340
+Daddi, E., Cimatti, A., Renzini, A., et al. 2004, ApJ, 617, 746, doi: 10.1086/425569
+Dalcanton, J. J. 2007, ApJ, 658, 941, doi: 10.1086/508913
+De Rossi, M. E., Bower, R. G., Font, A. S., Schaye, J., & Theuns, T. 2017, MNRAS, 472, 3354, doi: 10.1093/mnras/stx2158
+Edmunds, M. G. 1990, MNRAS, 246, 678
+Eldridge, J. J., & Stanway, E. R. 2016, MNRAS, 462, 3302, doi: 10.1093/mnras/stw1772
 Ellison, S. L., Patton, D. R., Simard, L., & McConnachie, A. W. 2008, AJ, 135, 1877, doi: 10.1088/0004-6256/135/5/1877
-Erb, D. K. 2008,, ApJ, 674, 151, doi: 10.1086/524727
-Erb, D. K., Pettini, M., Shapley, A. E., et al. 2010,, ApJ, 719, 1168, doi: 10.1088/0004-637X/719/2/1168
-Erb, D. K., Shapley, A. E., Pettini, M., et al. 2006a,, ApJ, 644, 813, doi: 10.1086/503623
-Erb, D. K., Steidel, C. C., Shapley, A. E., et al. 2006b,, ApJ, 646, 107, doi: 10.1086/504891
-Esteban, C., Garc ia-Rojas, J., Carigi, L., et al. 2014,, MNRAS, 443, 624, doi: 10.1093/mnras/stu1177
-Esteban, C., Peimbert, M., Garc ia-Rojas, J., et al. 2004,, MNRAS, 355, 229, doi: 10.1111/j.1365-2966.2004.08313.x
+Erb, D. K. 2008, ApJ, 674, 151, doi: 10.1086/524727
+Erb, D. K., Pettini, M., Shapley, A. E., et al. 2010, ApJ, 719, 1168, doi: 10.1088/0004-637X/719/2/1168
+Erb, D. K., Shapley, A. E., Pettini, M., et al. 2006a, ApJ, 644, 813, doi: 10.1086/503623
+Erb, D. K., Steidel, C. C., Shapley, A. E., et al. 2006b, ApJ, 646, 107, doi: 10.1086/504891
+Esteban, C., Garc ia-Rojas, J., Carigi, L., et al. 2014, MNRAS, 443, 624, doi: 10.1093/mnras/stu1177
+Esteban, C., Peimbert, M., Garc ia-Rojas, J., et al. 2004, MNRAS, 355, 229, doi: 10.1111/j.1365-2966.2004.08313.x
 Faber, S. M., Worthey, G., & Gonzales, J. J. 1992, in The Stellar Populations of Galaxies, ed. B. Barbuy & A. Renzini, Vol. 149, 255
 Ferland, G. J., Porter, R. L., van Hoof, P. A. M., et al. 2013, RMxAA, 49, 137
 Franx, M., Labbe, I., Rudnick, G., et al. 2003, ApJL, 587, L79, doi: 10.1086/375155
-Gallazzi, A., Charlot, S., Brinchmann, J., White, S. D. M., & Tremonti, C. A. 2005,, MNRAS, 362, 41, doi: 10.1111/j.1365-2966.2005.09321.x
+Gallazzi, A., Charlot, S., Brinchmann, J., White, S. D. M., & Tremonti, C. A. 2005, MNRAS, 362, 41, doi: 10.1111/j.1365-2966.2005.09321.x
 Gardner, J. P., Mather, J. C., Clampin, M., et al. 2006, SSRv, 123, 485, doi: 10.1007/s11214-006-8315-7
-Garnett, D. R. 2002,, ApJ, 581, 1019, doi: 10.1086/344301
+Garnett, D. R. 2002, ApJ, 581, 1019, doi: 10.1086/344301
 Gonzalez Delgado, R. M., Cid Fernandes, R., Garc ia-Benito, R., et al. 2014, ApJL, 791, L16, doi: 10.1088/2041-8205/791/1/L16
-Izotov, Y. I., & Thuan, T. X. 1999,, ApJ, 511, 639, doi: 10.1086/306708
+Izotov, Y. I., & Thuan, T. X. 1999, ApJ, 511, 639, doi: 10.1086/306708
 Jafariyazani, M., Newman, A. B., Mobasher, B., et al. 2020, ApJL, 897, L42, doi: 10.3847/2041-8213/aba11c
 Jeong, M.-S., Shapley, A. E., Sanders, R. L., et al. 2020, ApJL, 902, L16, doi: 10.3847/2041-8213/abba7a
-Juneau, S., Dickinson, M., Alexander, D. M., & Salim, S. 2011,, ApJ, 736, 104, doi: 10.1088/0004-637X/736/2/104
-Juneau, S., Bournaud, F., Charlot, S., et al. 2014,, ApJ, 788, 88, doi: 10.1088/0004-637X/788/1/88
-Kaasinen, M., Kewley, L., Bian, F., et al. 2018,, MNRAS, 477, 5568, doi: 10.1093/mnras/sty1012
-Kelly, B. C. 2007,, ApJ, 665, 1489, doi: 10.1086/519947
-Kewley, L. J., & Ellison, S. L. 2008,, ApJ, 681, 1183, doi: 10.1086/587500
+Juneau, S., Dickinson, M., Alexander, D. M., & Salim, S. 2011, ApJ, 736, 104, doi: 10.1088/0004-637X/736/2/104
+Juneau, S., Bournaud, F., Charlot, S., et al. 2014, ApJ, 788, 88, doi: 10.1088/0004-637X/788/1/88
+Kaasinen, M., Kewley, L., Bian, F., et al. 2018, MNRAS, 477, 5568, doi: 10.1093/mnras/sty1012
+Kelly, B. C. 2007, ApJ, 665, 1489, doi: 10.1086/519947
+Kewley, L. J., & Ellison, S. L. 2008, ApJ, 681, 1183, doi: 10.1086/587500
 Kojima, T., Ouchi, M., Nakajima, K., et al. 2017, PASJ, 69, 44, doi: 10.1093/pasj/psx017
-Kriek, M., Conroy, C., van Dokkum, P. G., et al. 2016,, Nature, 540, 248, doi: 10.1038/nature20570
+Kriek, M., Conroy, C., van Dokkum, P. G., et al. 2016, Nature, 540, 248, doi: 10.1038/nature20570
 Kriek, M., Price, S. H., Conroy, C., et al. 2019, ApJL, 880, L31, doi: 10.3847/2041-8213/ab2e75
 Lara-Lopez, M. A., Cepa, J., Bongiovanni, A., et al. 2010, A&A, 521, L53, doi: 10.1051/0004-6361/201014803
-Leitherer, C., Ortiz Otalvaro, P. A., Bresolin, F., et al. 2010,, ApJS, 189, 309, doi: 10.1088/0067-0049/189/2/309
+Leitherer, C., Ortiz Otalvaro, P. A., Bresolin, F., et al. 2010, ApJS, 189, 309, doi: 10.1088/0067-0049/189/2/309
 Lequeux, J., Peimbert, M., Rayo, J. F., Serrano, A., & Torres-Peimbert, S. 1979, A&A, 500, 145
-Lian, J., Thomas, D., & Maraston, C. 2018,, MNRAS, 481, 4000, doi: 10.1093/mnras/sty2506
-Ma, X., Hopkins, P. F., Faucher-Giguere, C.-A., et al. 2016,, MNRAS, 456, 2140, doi: 10.1093/mnras/stv2659
+Lian, J., Thomas, D., & Maraston, C. 2018, MNRAS, 481, 4000, doi: 10.1093/mnras/sty2506
+Ma, X., Hopkins, P. F., Faucher-Giguere, C.-A., et al. 2016, MNRAS, 456, 2140, doi: 10.1093/mnras/stv2659
 Maiolino, R., & Mannucci, F. 2019, A&A Rv, 27, 3, doi: 10.1007/s00159-018-0112-2
 Maiolino, R., Nagao, T., Grazian, A., et al. 2008, A&A, 488, 463, doi: 10.1051/0004-6361:200809678
-Mannucci, F., Cresci, G., Maiolino, R., Marconi, A., & Gnerucci, A. 2010,, MNRAS, 408, 2115, doi: 10.1111/j.1365-2966.2010.17291.x
-Mannucci, F., Cresci, G., Maiolino, R., et al. 2009,, MNRAS, 398, 1915, doi: 10.1111/j.1365-2966.2009.15185.x
+Mannucci, F., Cresci, G., Maiolino, R., Marconi, A., & Gnerucci, A. 2010, MNRAS, 408, 2115, doi: 10.1111/j.1365-2966.2010.17291.x
+Mannucci, F., Cresci, G., Maiolino, R., et al. 2009, MNRAS, 398, 1915, doi: 10.1111/j.1365-2966.2009.15185.x
 Marino, R. A., Rosales-Ortega, F. F., Sanchez, S. F., et al. 2013, A&A, 559, A114, doi: 10.1051/0004-6361/201321956
 Matteucci, F., Spitoni, E., Recchi, S., & Valiante, R. 2009, A&A, 501, 531, doi: 10.1051/0004-6361/200911869
-Matthee, J., & Schaye, J. 2018,, MNRAS, 479, L34, doi: 10.1093/mnrasl/sly093
-McGaugh, S. S. 1991,, ApJ, 380, 140, doi: 10.1086/170569
+Matthee, J., & Schaye, J. 2018, MNRAS, 479, L34, doi: 10.1093/mnrasl/sly093
+McGaugh, S. S. 1991, ApJ, 380, 140, doi: 10.1086/170569
 McLean, I. S., Steidel, C. C., Epps, H. W., et al. 2012, in SPIE Conference Series, Vol. 8446, doi: 10.1117/12.924794
 Nomoto, K., Tominaga, N., Umeda, H., Kobayashi, C., & Maeda, K. 2006, Nuclear Physics A, 777, 424, doi: 10.1016/j.nuclphysa.2006.05.008
-Onodera, M., Carollo, C. M., Lilly, S., et al. 2016,, ApJ, 822, 42, doi: 10.3847/0004-637X/822/1/42
-Oppenheimer, B. D., Crain, R. A., Schaye, J., et al. 2016,, MNRAS, 460, 2157, doi: 10.1093/mnras/stw1066
-Peeples, M. S., Werk, J. K., Tumlinson, J., et al. 2014,, ApJ, 786, 54, doi: 10.1088/0004-637X/786/1/54
-Perez-Montero, E. 2014,, MNRAS, 441, 2663, doi: 10.1093/mnras/stu753
+Onodera, M., Carollo, C. M., Lilly, S., et al. 2016, ApJ, 822, 42, doi: 10.3847/0004-637X/822/1/42
+Oppenheimer, B. D., Crain, R. A., Schaye, J., et al. 2016, MNRAS, 460, 2157, doi: 10.1093/mnras/stw1066
+Peeples, M. S., Werk, J. K., Tumlinson, J., et al. 2014, ApJ, 786, 54, doi: 10.1088/0004-637X/786/1/54
+Perez-Montero, E. 2014, MNRAS, 441, 2663, doi: 10.1093/mnras/stu753
 Petitjean, P., Ledoux, C., & Srianand, R. 2008, A&A, 480, 349, doi: 10.1051/0004-6361:20078607
 Pettini, M., Ellison, S. L., Bergeron, J., & Petitjean, P. 2002, A&A, 391, 21, doi: 10.1051/0004-6361:20020809
-Pettini, M., Lipman, K., & Hunstead, R. W. 1995,, ApJ, 451, 100, doi: 10.1086/176203
-Pettini, M., & Pagel, B. E. J. 2004,, MNRAS, 348, L59, doi: 10.1111/j.1365-2966.2004.07591.x
-Pettini, M., Zych, B. J., Steidel, C. C., & Chaffee, F. H. 2008,, MNRAS, 385, 2011, doi: 10.1111/j.1365-2966.2008.12951.x
-Pilyugin, L. S., Grebel, E. K., & Mattsson, L. 2012,, MNRAS, 424, 2316, doi: 10.1111/j.1365-2966.2012.21398.x
-Pilyugin, L. S., & Thuan, T. X. 2005,, ApJ, 631, 231, doi: 10.1086/432408
-Rauch, M., Sargent, W. L. W., & Barlow, T. A. 2001,, ApJ, 554, 823, doi: 10.1086/321402
-Reddy, N. A., Erb, D. K., Steidel, C. C., et al. 2005,, ApJ, 633, 748, doi: 10.1086/444588
-Reddy, N. A., Pettini, M., Steidel, C. C., et al. 2012,, ApJ, 754, 25, doi: 10.1088/0004-637X/754/1/25
-Rudie, G. C., Steidel, C. C., Pettini, M., et al. 2019,, ApJ, 885, 61, doi: 10.3847/1538-4357/ab4255
-Rudie, G. C., Steidel, C. C., Trainor, R. F., et al. 2012,, ApJ, 750, 67, doi: 10.1088/0004-637X/750/1/67
+Pettini, M., Lipman, K., & Hunstead, R. W. 1995, ApJ, 451, 100, doi: 10.1086/176203
+Pettini, M., & Pagel, B. E. J. 2004, MNRAS, 348, L59, doi: 10.1111/j.1365-2966.2004.07591.x
+Pettini, M., Zych, B. J., Steidel, C. C., & Chaffee, F. H. 2008, MNRAS, 385, 2011, doi: 10.1111/j.1365-2966.2008.12951.x
+Pilyugin, L. S., Grebel, E. K., & Mattsson, L. 2012, MNRAS, 424, 2316, doi: 10.1111/j.1365-2966.2012.21398.x
+Pilyugin, L. S., & Thuan, T. X. 2005, ApJ, 631, 231, doi: 10.1086/432408
+Rauch, M., Sargent, W. L. W., & Barlow, T. A. 2001, ApJ, 554, 823, doi: 10.1086/321402
+Reddy, N. A., Erb, D. K., Steidel, C. C., et al. 2005, ApJ, 633, 748, doi: 10.1086/444588
+Reddy, N. A., Pettini, M., Steidel, C. C., et al. 2012, ApJ, 754, 25, doi: 10.1088/0004-637X/754/1/25
+Rudie, G. C., Steidel, C. C., Pettini, M., et al. 2019, ApJ, 885, 61, doi: 10.3847/1538-4357/ab4255
+Rudie, G. C., Steidel, C. C., Trainor, R. F., et al. 2012, ApJ, 750, 67, doi: 10.1088/0004-637X/750/1/67
 Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi: 10.1051/0004-6361/201117353
-Sanchez, S. F., Barrera-Ballesteros, J. K., Lopez-Coba, C., et al. 2019,, MNRAS, 484, 3042, doi: 10.1093/mnras/stz019
-Sanders, R. L., Shapley, A. E., Zhang, K., & Yan, R. 2017,, ApJ, 850, 136, doi: 10.3847/1538-4357/aa93e4
-Sanders, R. L., Shapley, A. E., Kriek, M., et al. 2015,, ApJ, 799, 138, doi: 10.1088/0004-637X/799/2/138
---. 2016,, ApJ, 816, 23, doi: 10.3847/0004-637X/816/1/23
---. 2018,, ApJ, 858, 99, doi: 10.3847/1538-4357/aabcbd
-Sanders, R. L., Shapley, A. E., Reddy, N. A., et al. 2020a,, MNRAS, 491, 1427, doi: 10.1093/mnras/stz3032
+Sanchez, S. F., Barrera-Ballesteros, J. K., Lopez-Coba, C., et al. 2019, MNRAS, 484, 3042, doi: 10.1093/mnras/stz019
+Sanders, R. L., Shapley, A. E., Zhang, K., & Yan, R. 2017, ApJ, 850, 136, doi: 10.3847/1538-4357/aa93e4
+Sanders, R. L., Shapley, A. E., Kriek, M., et al. 2015, ApJ, 799, 138, doi: 10.1088/0004-637X/799/2/138
+--. 2016, ApJ, 816, 23, doi: 10.3847/0004-637X/816/1/23
+--. 2018, ApJ, 858, 99, doi: 10.3847/1538-4357/aabcbd
+Sanders, R. L., Shapley, A. E., Reddy, N. A., et al. 2020a, MNRAS, 491, 1427, doi: 10.1093/mnras/stz3032
 Sanders, R. L., Jones, T., Shapley, A. E., et al. 2020b, ApJL, 888, L11, doi: 10.3847/2041-8213/ab5d40
-Sanders, R. L., Shapley, A. E., Jones, T., et al. 2021,, ApJ, 914, 19, doi: 10.3847/1538-4357/abf4c1
+Sanders, R. L., Shapley, A. E., Jones, T., et al. 2021, ApJ, 914, 19, doi: 10.3847/1538-4357/abf4c1
 Scannapieco, E., & Bildsten, L. 2005, ApJL, 629, L85, doi: 10.1086/452632
-Segers, M. C., Schaye, J., Bower, R. G., et al. 2016,, MNRAS, 461, L102, doi: 10.1093/mnrasl/slw111
-Shapley, A. E., Steidel, C. C., Erb, D. K., et al. 2005,, ApJ, 626, 698, doi: 10.1086/429990
-Stanway, E. R., Eldridge, J. J., & Becker, G. D. 2016,, MNRAS, 456, 485, doi: 10.1093/mnras/stv2661
-Steidel, C. C., Adelberger, K. L., Shapley, A. E., et al. 2003,, ApJ, 592, 728, doi: 10.1086/375772
-Steidel, C. C., Shapley, A. E., Pettini, M., et al. 2004,, ApJ, 604, 534, doi: 10.1086/381960
-Steidel, C. C., Strom, A. L., Pettini, M., et al. 2016,, ApJ, 826, 159, doi: 10.3847/0004-637X/826/2/159
-Steidel, C. C., Rudie, G. C., Strom, A. L., et al. 2014,, ApJ, 795, 165, doi: 10.1088/0004-637X/795/2/165
-Strom, A. L., Steidel, C. C., Rudie, G. C., Trainor, R. F., & Pettini, M. 2018,, ApJ, 868, 117, doi: 10.3847/1538-4357/aae1a5
-Strom, A. L., Steidel, C. C., Rudie, G. C., et al. 2017,, ApJ, 836, 164, doi: 10.3847/1538-4357/836/2/164
-Theios, R. L., Steidel, C. C., Strom, A. L., et al. 2019,, ApJ, 871, 128, doi: 10.3847/1538-4357/aaf386
-Thomas, A. D., Dopita, M. A., Kewley, L. J., et al. 2018,, ApJ, 856, 89, doi: 10.3847/1538-4357/aab3db
-Thomas, D., Maraston, C., Schawinski, K., Sarzi, M., & Silk, J. 2010,, MNRAS, 404, 1775, doi: 10.1111/j.1365-2966.2010.16427.x
-Tinsley, B. M. 1979,, ApJ, 229, 1046, doi: 10.1086/157039
-Topping, M. W., Shapley, A. E., Reddy, N. A., et al. 2020,, MNRAS, 499, 1652, doi: 10.1093/mnras/staa2941
-Torrey, P., Vogelsberger, M., Marinacci, F., et al. 2019,, MNRAS, 484, 5587, doi: 10.1093/mnras/stz243
-Tremonti, C. A., Heckman, T. M., Kauffmann, G., et al. 2004,, ApJ, 613, 898, doi: 10.1086/423264
+Segers, M. C., Schaye, J., Bower, R. G., et al. 2016, MNRAS, 461, L102, doi: 10.1093/mnrasl/slw111
+Shapley, A. E., Steidel, C. C., Erb, D. K., et al. 2005, ApJ, 626, 698, doi: 10.1086/429990
+Stanway, E. R., Eldridge, J. J., & Becker, G. D. 2016, MNRAS, 456, 485, doi: 10.1093/mnras/stv2661
+Steidel, C. C., Adelberger, K. L., Shapley, A. E., et al. 2003, ApJ, 592, 728, doi: 10.1086/375772
+Steidel, C. C., Shapley, A. E., Pettini, M., et al. 2004, ApJ, 604, 534, doi: 10.1086/381960
+Steidel, C. C., Strom, A. L., Pettini, M., et al. 2016, ApJ, 826, 159, doi: 10.3847/0004-637X/826/2/159
+Steidel, C. C., Rudie, G. C., Strom, A. L., et al. 2014, ApJ, 795, 165, doi: 10.1088/0004-637X/795/2/165
+Strom, A. L., Steidel, C. C., Rudie, G. C., Trainor, R. F., & Pettini, M. 2018, ApJ, 868, 117, doi: 10.3847/1538-4357/aae1a5
+Strom, A. L., Steidel, C. C., Rudie, G. C., et al. 2017, ApJ, 836, 164, doi: 10.3847/1538-4357/836/2/164
+Theios, R. L., Steidel, C. C., Strom, A. L., et al. 2019, ApJ, 871, 128, doi: 10.3847/1538-4357/aaf386
+Thomas, A. D., Dopita, M. A., Kewley, L. J., et al. 2018, ApJ, 856, 89, doi: 10.3847/1538-4357/aab3db
+Thomas, D., Maraston, C., Schawinski, K., Sarzi, M., & Silk, J. 2010, MNRAS, 404, 1775, doi: 10.1111/j.1365-2966.2010.16427.x
+Tinsley, B. M. 1979, ApJ, 229, 1046, doi: 10.1086/157039
+Topping, M. W., Shapley, A. E., Reddy, N. A., et al. 2020, MNRAS, 499, 1652, doi: 10.1093/mnras/staa2941
+Torrey, P., Vogelsberger, M., Marinacci, F., et al. 2019, MNRAS, 484, 5587, doi: 10.1093/mnras/stz243
+Tremonti, C. A., Heckman, T. M., Kauffmann, G., et al. 2004, ApJ, 613, 898, doi: 10.1086/423264
 Troncoso, P., Maiolino, R., Sommariva, V., et al. 2014, A&A, 563, A58, doi: 10.1051/0004-6361/201322099
 Tumlinson, J., Peeples, M. S., & Werk, J. K. 2017, ARA&A, 55, 389, doi: 10.1146/annurev-astro-091916-055240
 Tumlinson, J., Thom, C., Werk, J. K., et al. 2011, Science, 334, 948, doi: 10.1126/science.1209840, doi:10.1126/science.1209840
-Vale Asari, N., Stasinska, G., Morisset, C., & Cid Fernandes, R. 2016,, MNRAS, 460, 1739, doi: 10.1093/mnras/stw971
-van Loon, M. L., Mitchell, P. D., & Schaye, J. 2021,, MNRAS, 504, 4817, doi: 10.1093/mnras/stab1254
+Vale Asari, N., Stasinska, G., Morisset, C., & Cid Fernandes, R. 2016, MNRAS, 460, 1739, doi: 10.1093/mnras/stw971
+van Loon, M. L., Mitchell, P. D., & Schaye, J. 2021, MNRAS, 504, 4817, doi: 10.1093/mnras/stab1254
 van Zee, L., Salzer, J. J., & Haynes, M. P. 1998, ApJL, 497, L1, doi: 10.1086/311263
-Veilleux, S., & Osterbrock, D. E. 1987,, ApJS, 63, 295, doi: 10.1086/191166
-Yabe, K., Ohta, K., Iwamuro, F., et al. 2014,, MNRAS, 437, 3647, doi: 10.1093/mnras/stt2185
-Yates, R. M., Henriques, B., Thomas, P. A., et al. 2013,, MNRAS, 435, 3500, doi: 10.1093/mnras/stt1542
+Veilleux, S., & Osterbrock, D. E. 1987, ApJS, 63, 295, doi: 10.1086/191166
+Yabe, K., Ohta, K., Iwamuro, F., et al. 2014, MNRAS, 437, 3647, doi: 10.1093/mnras/stt2185
+Yates, R. M., Henriques, B., Thomas, P. A., et al. 2013, MNRAS, 435, 3500, doi: 10.1093/mnras/stt1542
 York, D. G., Adelman, J., Anderson, Jr., J. E., et al. 2000, AJ, 120, 1579, doi: 10.1086/301513
 Yuan, T. T., & Kewley, L. J. 2009, ApJL, 699, L161, doi: 10.1088/0004-637X/699/2/L161
-Zahedy, F. S., Chen, H.-W., Johnson, S. D., et al. 2019,, MNRAS, 484, 2257, doi: 10.1093/mnras/sty3482
-Zahedy, F. S., Chen, H.-W., Cooper, T. M., et al. 2021,, MNRAS, doi: 10.1093/mnras/stab1661
-Zahid, H. J., Kashino, D., Silverman, J. D., et al. 2014,, ApJ, 792, 75, doi: 10.1088/0004-637X/792/1/75
+Zahedy, F. S., Chen, H.-W., Johnson, S. D., et al. 2019, MNRAS, 484, 2257, doi: 10.1093/mnras/sty3482
+Zahedy, F. S., Chen, H.-W., Cooper, T. M., et al. 2021, MNRAS, doi: 10.1093/mnras/stab1661
+Zahid, H. J., Kashino, D., Silverman, J. D., et al. 2014, ApJ, 792, 75, doi: 10.1088/0004-637X/792/1/75

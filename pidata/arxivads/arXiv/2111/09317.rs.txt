@@ -1,30 +1,30 @@
 Bacon R., et al., 2010, in Ground-based and Airborne Instrumentation for Astronomy III. p. 773508, doi:10.1117/12.856027
-Bressan A., Marigo P., Girardi L., Salasnich B., Dal Cero C., Rubele S., Nanni A., 2012,, MNRAS, 427, 127
+Bressan A., Marigo P., Girardi L., Salasnich B., Dal Cero C., Rubele S., Nanni A., 2012, MNRAS, 427, 127
 Conroy C., 2013, ARA&A, 51, 393
-Conroy C., van Dokkum P., 2012,, ApJ, 747, 69
-Conroy C., Graves G. J., van Dokkum P. G., 2014,, ApJ, 780, 33
+Conroy C., van Dokkum P., 2012, ApJ, 747, 69
+Conroy C., Graves G. J., van Dokkum P. G., 2014, ApJ, 780, 33
 Gonzalez O. A., Battaglia G., 2018, arXiv e-prints, p. arXiv:1810.04422
 Harris G. L. H., Harris W. E., Poole G. B., 1999, AJ, 117, 855
 Harris W. E., Harris G. L. H., Barmby P., McLaughlin D. E., Forbes D. A., 2006, AJ, 132, 2187
 Harris G. L. H., Rejkuba M., Harris W. E., 2010, Publ. Astron. Soc. Australia, 27, 457
 Jarrett T. H., Chester T., Cutri R., Schneider S. E., Huchra J. P., 2003, AJ, 125, 525
-La Barbera F., Vazdekis A., Ferreras I., Pasquali A., Allende Prieto C., Rock B., Aguado D. S., Peletier R. F., 2017,, MNRAS, 464, 3597
-La Barbera F., et al., 2019,, MNRAS, 489, 4090
-Liu M. C., Graham J. R., Charlot S., 2002,, ApJ, 564, 216
-Marigo P., Bressan A., Nanni A., Girardi L., Pumo M. L., 2013,, MNRAS, 434, 488
-Mitzkus M., Walcher C. J., Roth M. M., Coelho P. R. T., Cioni M.-R. L., Raimondo G., Rejkuba M., 2018,, MNRAS, 480, 629
+La Barbera F., Vazdekis A., Ferreras I., Pasquali A., Allende Prieto C., Rock B., Aguado D. S., Peletier R. F., 2017, MNRAS, 464, 3597
+La Barbera F., et al., 2019, MNRAS, 489, 4090
+Liu M. C., Graham J. R., Charlot S., 2002, ApJ, 564, 216
+Marigo P., Bressan A., Nanni A., Girardi L., Pumo M. L., 2013, MNRAS, 434, 488
+Mitzkus M., Walcher C. J., Roth M. M., Coelho P. R. T., Cioni M.-R. L., Raimondo G., Rejkuba M., 2018, MNRAS, 480, 629
 Rejkuba M., Harris W. E., Greggio L., Crnojevic D., Harris G. L. H., 2021, arXiv e-prints, p. arXiv:2111.02945
 Rigault F., et al., 2020, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series Vol 11447 Conference Series Vol. 11447, Ground-based and Airborne Instrumentation for Astronomy VIII. p. 114471, doi:10.1117/12.2561886
-Sanchez-Blazquez P., et al., 2006,, MNRAS, 371, 703
+Sanchez-Blazquez P., et al., 2006, MNRAS, 371, 703
 Smith R. J., 2020, ARA&A, 58, 577
-Soria R., et al., 1996,, ApJ, 465, 79
+Soria R., et al., 1996, ApJ, 465, 79
 Strobele S., et al., 2012, in Ellerbroek B. L., Marchetti E., Veran J.-P., eds, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series Vol. 8447, Adaptive Optics Systems III. p. 844737, doi:10.1117/12.926110
 Thatte N., et al., 2021, The Messenger, 182, 7
 Tonry J., Schneider D. P., 1988, AJ, 96, 807
-Tonry J. L., Dressler A., Blakeslee J. P., Ajhar E. A., Fletcher A. B., Luppino G. A., Metzger M. R., Moore C. B., 2001,, ApJ, 546, 681
-Vazdekis A., Cervino M., Montes M., Martin-Navarro I., Beasley M. A., 2020,, MNRAS, 493, 5131
-Villaume A., Conroy C., Johnson B., Rayner J., Mann A. W., van Dokkum P., 2017,, ApJS, 230, 23
-Wilkinson A., Sharples R. M., Fosbury R. A. E., Wallace P. T., 1986,, MNRAS, 218, 297
+Tonry J. L., Dressler A., Blakeslee J. P., Ajhar E. A., Fletcher A. B., Luppino G. A., Metzger M. R., Moore C. B., 2001, ApJ, 546, 681
+Vazdekis A., Cervino M., Montes M., Martin-Navarro I., Beasley M. A., 2020, MNRAS, 493, 5131
+Villaume A., Conroy C., Johnson B., Rayner J., Mann A. W., van Dokkum P., 2017, ApJS, 230, 23
+Wilkinson A., Sharples R. M., Fosbury R. A. E., Wallace P. T., 1986, MNRAS, 218, 297
 van Belle G. T., et al., 1999, AJ, 117, 521
-van Dokkum P. G., Conroy C., 2014,, ApJ, 797, 56
-van Dokkum P., Conroy C., Villaume A., Brodie J., Romanowsky A. J., 2017,, ApJ, 841, 68
+van Dokkum P. G., Conroy C., 2014, ApJ, 797, 56
+van Dokkum P., Conroy C., Villaume A., Brodie J., Romanowsky A. J., 2017, ApJ, 841, 68

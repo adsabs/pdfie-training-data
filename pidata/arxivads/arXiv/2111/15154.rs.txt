@@ -1,68 +1,68 @@
 Andre P., et al., 2010, A&A, 518, L102
-Barnes J., Hut P., 1986,, Nature, 324, 446
-Bate M. R., 2009,, MNRAS, 392, 590
+Barnes J., Hut P., 1986, Nature, 324, 446
+Bate M. R., 2009, MNRAS, 392, 590
 Beccari G., et al., 2017, A&A, 604, A22
-Bekki K., 2017,, MNRAS, 467, 1857
-Bonnell I. A., Bate M. R., Vine S. G., 2003,, MNRAS, 343, 413
-Casertano S., Hut P., 1985,, ApJ, 298, 80
-Chen Y., Li H., Vogelsberger M., 2021,, MNRAS, 502, 6157
-Da Rio N., Robberto M., Soderblom D. R., Panagia N., Hillenbrand L. A., Palla F., Stassun K. G., 2010,, ApJ, 722, 1092
-Da Rio N., Tan J. C., Jaehnig K., 2014,, ApJ, 795, 55
-Dekel A., Krumholz M. R., 2013,, MNRAS, 432, 455
-Eisenstein D. J., Hut P., 1998,, ApJ, 498, 137
+Bekki K., 2017, MNRAS, 467, 1857
+Bonnell I. A., Bate M. R., Vine S. G., 2003, MNRAS, 343, 413
+Casertano S., Hut P., 1985, ApJ, 298, 80
+Chen Y., Li H., Vogelsberger M., 2021, MNRAS, 502, 6157
+Da Rio N., Robberto M., Soderblom D. R., Panagia N., Hillenbrand L. A., Palla F., Stassun K. G., 2010, ApJ, 722, 1092
+Da Rio N., Tan J. C., Jaehnig K., 2014, ApJ, 795, 55
+Dekel A., Krumholz M. R., 2013, MNRAS, 432, 455
+Eisenstein D. J., Hut P., 1998, ApJ, 498, 137
 Ferland G. J., Korista K. T., Verner D. A., Ferguson J. W., Kingdon J. B., Verner E. M., 1998, PASP, 110, 761
 Ferland G. J., et al., 2013, Rev. Mex. Astron. Astrofis., 49, 137
 Ferland G. J., et al., 2017, Rev. Mex. Astron. Astrofis., 53, 385
 Fujii M. S., 2015, PASJ, 67, 59
-Fujii M. S., 2019,, MNRAS, 486, 3019
+Fujii M. S., 2019, MNRAS, 486, 3019
 Fujii M. S., Portegies Zwart S., 2011, Science, 334, 1380
 Fujii M., Iwasawa M., Funato Y., Makino J., 2007, PASJ, 59, 1095
-Fujii M. S., Saitoh T. R., Portegies Zwart S. F., 2012,, ApJ, 753, 85
+Fujii M. S., Saitoh T. R., Portegies Zwart S. F., 2012, ApJ, 753, 85
 Fujii M. S., Saitoh T. R., Wang L., Hirai Y., 2021a, PASJ, 73, 1057
 Fujii M. S., Saitoh T. R., Hirai Y., Wang L., 2021b, PASJ, 73, 1074
 Gaia Collaboration et al., 2018, A&A, 616, A1
-Getman K. V., Feigelson E. D., Kuhn M. A., 2014,, ApJ, 787, 109
+Getman K. V., Feigelson E. D., Kuhn M. A., 2014, ApJ, 787, 109
 Groschedl J. E., et al., 2018, A&A, 619, A106
-Grudic M. Y., Guszejnov D., Hopkins P. F., Lamberts A., Boylan-Kolchin M., Murray N., Schmitz D., 2018,, MNRAS, 481, 688
-Grudic M. Y., Kruijssen J. M. D., Faucher-Giguere C.-A., Hopkins P. F., Ma X., Quataert E., Boylan-Kolchin M., 2021,, MNRAS, 506, 3239
-Hillenbrand L. A., Hartmann L. W., 1998,, ApJ, 492, 540
+Grudic M. Y., Guszejnov D., Hopkins P. F., Lamberts A., Boylan-Kolchin M., Murray N., Schmitz D., 2018, MNRAS, 481, 688
+Grudic M. Y., Kruijssen J. M. D., Faucher-Giguere C.-A., Hopkins P. F., Ma X., Quataert E., Boylan-Kolchin M., 2021, MNRAS, 506, 3239
+Hillenbrand L. A., Hartmann L. W., 1998, ApJ, 492, 540
 Hirai Y., Fujii M. S., Saitoh T. R., 2021, PASJ, 73, 1036
 Howard C. S., Pudritz R. E., Harris W. E., 2018, Nature Astronomy, 2, 725
 Iwasawa M., Portegies Zwart S., Makino J., 2015, Computational Astrophysics and Cosmology, 2, 6
 Iwasawa M., Tanikawa A., Hosono N., Nitadori K., Muranushi T., Makino J., 2016, PASJ, 68, 54
 Jerabkova T., Beccari G., Boffin H. M. J., Petr-Gotzens M. G., Manara C. F., Prada Moroni P. G., Tognelli E., Degl'Innocenti S., 2019, A&A, 627, A57
 Jones B. F., Walker M. F., 1988, AJ, 95, 1755
-Kim J.-G., Kim W.-T., Ostriker E. C., 2016,, ApJ, 819, 137
+Kim J.-G., Kim W.-T., Ostriker E. C., 2016, ApJ, 819, 137
 Kim D., Lu J. R., Konopacky Q., Chu L., Toller E., Anderson J., Theissen C. A., Morris M. R., 2019, AJ, 157, 109
 Kinoshita H., Yoshida H., Nakai H., 1991, Celestial Mechanics and Dynamical Astronomy, 50, 59
-Kounkel M., et al., 2017,, ApJ, 834, 142
-Kroupa P., 2001,, MNRAS, 322, 231
+Kounkel M., et al., 2017, ApJ, 834, 142
+Kroupa P., 2001, MNRAS, 322, 231
 Kroupa P., Jerabkova T., Dinnbier F., Beccari G., Yan Z., 2018, A&A, 612, A74
-Krumholz M. R., Tan J. C., 2007,, ApJ, 654, 304
-Krumholz M. R., Klein R. I., McKee C. F., 2012,, ApJ, 754, 71
-Kuhn M. A., Hillenbrand L. A., Sills A., Feigelson E. D., Getman K. V., 2019,, ApJ, 870, 32
-Lahen N., Naab T., Johansson P. H., Elmegreen B., Hu C.-Y., Walch S., Steinwand el U. P., Moster B. P., 2020,, ApJ, 891, 2
-Lanz T., Hubeny I., 2003,, ApJS, 146, 417
-McBride A., Kounkel M., 2019,, ApJ, 884, 6
+Krumholz M. R., Tan J. C., 2007, ApJ, 654, 304
+Krumholz M. R., Klein R. I., McKee C. F., 2012, ApJ, 754, 71
+Kuhn M. A., Hillenbrand L. A., Sills A., Feigelson E. D., Getman K. V., 2019, ApJ, 870, 32
+Lahen N., Naab T., Johansson P. H., Elmegreen B., Hu C.-Y., Walch S., Steinwand el U. P., Moster B. P., 2020, ApJ, 891, 2
+Lanz T., Hubeny I., 2003, ApJS, 146, 417
+McBride A., Kounkel M., 2019, ApJ, 884, 6
 Menten K. M., Reid M. J., Forbrich J., Brunthaler A., 2007, A&A, 474, 515
 Nitadori K., Makino J., 2008, New Astronomy, 13, 498
 Oshino S., Funato Y., Makino J., 2011, PASJ, 63, 881
-Palla F., Stahler S. W., 2000,, ApJ, 540, 255
+Palla F., Stahler S. W., 2000, ApJ, 540, 255
 Pelupessy F. I., van Elteren A., de Vries N., McMillan S. L. W., Drost N., Portegies Zwart S. F., 2013, A&A, 557, A84
 Platais I., et al., 2020, AJ, 159, 272
 Portegies Zwart S., McMillan S., 2018, Astrophysical Recipes: the Art of AMUSE. AAS IOP Astronomy
 Portegies Zwart S., McMillan S. L. W., van Elteren E., Pelupessy I., de Vries N., 2013, Computer Physics Communications, 183, 456
-Renaud F., et al., 2013,, MNRAS, 436, 1836
+Renaud F., et al., 2013, MNRAS, 436, 1836
 Saitoh T. R., 2017, AJ, 153, 85
 Saitoh T. R., Daisaka H., Kokubo E., Makino J., Okamoto T., Tomisaka K., Wada K., Yoshida N., 2008, PASJ, 60, 667
 Saitoh T. R., Daisaka H., Kokubo E., Makino J., Okamoto T., Tomisaka K., Wada K., Yoshida N., 2009, PASJ, 61, 481
 Sana H., et al., 2012, Science, 337, 444
-Schoettler C., de Bruijne J., Vaher E., Parker R. J., 2020,, MNRAS, 495, 3104
-Stromgren B., 1939,, ApJ, 89, 526
-Tan J. C., Krumholz M. R., McKee C. F., 2006,, ApJ, 641, L121
-Theissen C. A., Konopacky Q. M., Lu J. R., Kim D., Zhang S. Y., Hsu C.-C., Chu L., Wei L., 2022,, ApJ, 926, 141
-Vazquez-Semadeni E., Gonzalez-Samaniego A., Colin P., 2017,, MNRAS, 467, 1313
-Wang L., Kroupa P., Jerabkova T., 2019,, MNRAS, 484, 1843
-Wang L., Nitadori K., Makino J., 2020a,, MNRAS, 493, 3398
-Wang L., Iwasawa M., Nitadori K., Makino J., 2020b,, MNRAS, 497, 536
+Schoettler C., de Bruijne J., Vaher E., Parker R. J., 2020, MNRAS, 495, 3104
+Stromgren B., 1939, ApJ, 89, 526
+Tan J. C., Krumholz M. R., McKee C. F., 2006, ApJ, 641, L121
+Theissen C. A., Konopacky Q. M., Lu J. R., Kim D., Zhang S. Y., Hsu C.-C., Chu L., Wei L., 2022, ApJ, 926, 141
+Vazquez-Semadeni E., Gonzalez-Samaniego A., Colin P., 2017, MNRAS, 467, 1313
+Wang L., Kroupa P., Jerabkova T., 2019, MNRAS, 484, 1843
+Wang L., Nitadori K., Makino J., 2020a, MNRAS, 493, 3398
+Wang L., Iwasawa M., Nitadori K., Makino J., 2020b, MNRAS, 497, 536
 Wisdom J., Holman M., 1991, AJ, 102, 1528

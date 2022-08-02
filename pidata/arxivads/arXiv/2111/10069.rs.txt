@@ -1,57 +1,57 @@
 Althaus, L. G., Miller Bertolami, M. M., & Corsico, A. H. 2013, A&A, 557, A19, doi: 10.1051/0004-6361/201321868
-Althaus, L. G., Serenelli, A. M., & Benvenuto, O. G. 2001,, MNRAS, 324, 617, doi: 10.1046/j.1365-8711.2001.04324.x
+Althaus, L. G., Serenelli, A. M., & Benvenuto, O. G. 2001, MNRAS, 324, 617, doi: 10.1046/j.1365-8711.2001.04324.x
 Amaro-Seoane, P., Audley, H., Babak, S., et al. 2017, arXiv e-prints, arXiv:1702.00786. https://arxiv.org/abs/1702.00786
-Burdge, K. B., Coughlin, M. W., Fuller, J., et al. 2019a,, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
---. 2019b,, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
+Burdge, K. B., Coughlin, M. W., Fuller, J., et al. 2019a, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
+--. 2019b, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
 Burdge, K. B., Fuller, J., Phinney, E. S., et al. 2019c, ApJL, 886, L12, doi: 10.3847/2041-8213/ab53e5
-Chen, H.-L., Tauris, T. M., Han, Z., & Chen, X. 2021,, MNRAS, doi: 10.1093/mnras/stab670
-Chen, H.-L., Woods, T. E., Yungelson, L. R., et al. 2019,, MNRAS, 490, 1678, doi: 10.1093/mnras/stz2644
-Davis, P. J., Kolb, U., & Willems, B. 2010,, MNRAS, 403, 179, doi: 10.1111/j.1365-2966.2009.16138.x
+Chen, H.-L., Tauris, T. M., Han, Z., & Chen, X. 2021, MNRAS, doi: 10.1093/mnras/stab670
+Chen, H.-L., Woods, T. E., Yungelson, L. R., et al. 2019, MNRAS, 490, 1678, doi: 10.1093/mnras/stz2644
+Davis, P. J., Kolb, U., & Willems, B. 2010, MNRAS, 403, 179, doi: 10.1111/j.1365-2966.2009.16138.x
 Driebe, T., Schoenberner, D., Bloecker, T., & Herwig, F. 1998, A&A, 339, 123. https://arxiv.org/abs/astro-ph/9809079
-Eggleton, P. P. 1983,, ApJ, 268, 368, doi: 10.1086/160960
-Fuller, J., & Lai, D. 2013,, MNRAS, 430, 274, doi: 10.1093/mnras/sts606
+Eggleton, P. P. 1983, ApJ, 268, 368, doi: 10.1086/160960
+Fuller, J., & Lai, D. 2013, MNRAS, 430, 274, doi: 10.1093/mnras/sts606
 Hachisu, I., Kato, M., & Nomoto, K. 1996, ApJL, 470, L97, doi: 10.1086/310303
---. 1999,, ApJ, 522, 487, doi: 10.1086/307608
-Han, Z. 1998,, MNRAS, 296, 1019, doi: 10.1046/j.1365-8711.1998.01475.x
-Han, Z., Podsiadlowski, P., & Eggleton, P. P. 1994,, MNRAS, 270, 121
---. 1995,, MNRAS, 272, 800
-Heger, A., Langer, N., & Woosley, S. E. 2000,, ApJ, 528, 368, doi: 10.1086/308158
-Heger, A., Woosley, S. E., & Spruit, H. C. 2005,, ApJ, 626, 350, doi: 10.1086/429868
-Hurley, J. R., Tout, C. A., & Pols, O. R. 2002,, MNRAS, 329, 897, doi: 10.1046/j.1365-8711.2002.05038.x
-Iben, Icko, J., & Tutukov, A. V. 1986,, ApJ, 311, 753, doi: 10.1086/164813
-Iben, Icko, J., Tutukov, A. V., & Yungelson, L. R. 1997,, ApJ, 475, 291, doi: 10.1086/303525
+--. 1999, ApJ, 522, 487, doi: 10.1086/307608
+Han, Z. 1998, MNRAS, 296, 1019, doi: 10.1046/j.1365-8711.1998.01475.x
+Han, Z., Podsiadlowski, P., & Eggleton, P. P. 1994, MNRAS, 270, 121
+--. 1995, MNRAS, 272, 800
+Heger, A., Langer, N., & Woosley, S. E. 2000, ApJ, 528, 368, doi: 10.1086/308158
+Heger, A., Woosley, S. E., & Spruit, H. C. 2005, ApJ, 626, 350, doi: 10.1086/429868
+Hurley, J. R., Tout, C. A., & Pols, O. R. 2002, MNRAS, 329, 897, doi: 10.1046/j.1365-8711.2002.05038.x
+Iben, Icko, J., & Tutukov, A. V. 1986, ApJ, 311, 753, doi: 10.1086/164813
+Iben, Icko, J., Tutukov, A. V., & Yungelson, L. R. 1997, ApJ, 475, 291, doi: 10.1086/303525
 Istrate, A. G., Marchant, P., Tauris, T. M., et al. 2016, A&A, 595, A35, doi: 10.1051/0004-6361/201628874
 Istrate, A. G., Tauris, T. M., & Langer, N. 2014, A&A, 571, A45, doi: 10.1051/0004-6361/201424680
 Ivanova, N., Justham, S., Chen, X., et al. 2013, A&A Rv, 21, 59, doi: 10.1007/s00159-013-0059-2
-Kaplan, D. L., Bildsten, L., & Steinfadt, J. D. R. 2012,, ApJ, 758, 64, doi: 10.1088/0004-637X/758/1/64
-Kupfer, T., Korol, V., Shah, S., et al. 2018,, MNRAS, 480, 302, doi: 10.1093/mnras/sty1545
+Kaplan, D. L., Bildsten, L., & Steinfadt, J. D. R. 2012, ApJ, 758, 64, doi: 10.1088/0004-637X/758/1/64
+Kupfer, T., Korol, V., Shah, S., et al. 2018, MNRAS, 480, 302, doi: 10.1093/mnras/sty1545
 Landau, L. D., & Lifshitz, E. M. 1971, The classical theory of fields
-Li, Z., Chen, X., Chen, H.-L., & Han, Z. 2019,, ApJ, 871, 148, doi: 10.3847/1538-4357/aaf9a1
+Li, Z., Chen, X., Chen, H.-L., & Han, Z. 2019, ApJ, 871, 148, doi: 10.3847/1538-4357/aaf9a1
 Lipunov, V. M., & Postnov, K. A. 1988, Ap&SS, 145, 1, doi: 10.1007/BF00645692
-Livio, M., & Soker, N. 1988,, ApJ, 329, 764, doi: 10.1086/166419
+Livio, M., & Soker, N. 1988, ApJ, 329, 764, doi: 10.1086/166419
 Luo, J., Chen, L.-S., Duan, H.-Z., et al. 2016, Classical and Quantum Gravity, 33, 035010, doi: 10.1088/0264-9381/33/3/035010
-Marsh, T. R., Nelemans, G., & Steeghs, D. 2004,, MNRAS, 350, 113, doi: 10.1111/j.1365-2966.2004.07564.x
-Nandez, J. L. A., Ivanova, N., & Lombardi, J. C. J. 2015,, MNRAS, 450, L39, doi: 10.1093/mnrasl/slv043
+Marsh, T. R., Nelemans, G., & Steeghs, D. 2004, MNRAS, 350, 113, doi: 10.1111/j.1365-2966.2004.07564.x
+Nandez, J. L. A., Ivanova, N., & Lombardi, J. C. J. 2015, MNRAS, 450, L39, doi: 10.1093/mnrasl/slv043
 Nelemans, G., Portegies Zwart, S. F., Verbunt, F., & Yungelson, L. R. 2001, A&A, 368, 939, doi: 10.1051/0004-6361:20010049
-Nelson, L. A., Dubeau, E., & MacCannell, K. A. 2004,, ApJ, 616, 1124, doi: 10.1086/421698
-Nomoto, K. 1982,, ApJ, 253, 798, doi: 10.1086/159682
-Paxton, B., Bildsten, L., Dotter, A., et al. 2011,, ApJS, 192, 3, doi: 10.1088/0067-0049/192/1/3
-Paxton, B., Cantiello, M., Arras, P., et al. 2013,, ApJS, 208, 4, doi: 10.1088/0067-0049/208/1/4
-Paxton, B., Marchant, P., Schwab, J., et al. 2015,, ApJS, 220, 15, doi: 10.1088/0067-0049/220/1/15
-Paxton, B., Schwab, J., Bauer, E. B., et al. 2018,, ApJS, 234, 34, doi: 10.3847/1538-4365/aaa5a8
-Paxton, B., Smolec, R., Schwab, J., et al. 2019,, ApJS, 243, 10, doi: 10.3847/1538-4365/ab2241
+Nelson, L. A., Dubeau, E., & MacCannell, K. A. 2004, ApJ, 616, 1124, doi: 10.1086/421698
+Nomoto, K. 1982, ApJ, 253, 798, doi: 10.1086/159682
+Paxton, B., Bildsten, L., Dotter, A., et al. 2011, ApJS, 192, 3, doi: 10.1088/0067-0049/192/1/3
+Paxton, B., Cantiello, M., Arras, P., et al. 2013, ApJS, 208, 4, doi: 10.1088/0067-0049/208/1/4
+Paxton, B., Marchant, P., Schwab, J., et al. 2015, ApJS, 220, 15, doi: 10.1088/0067-0049/220/1/15
+Paxton, B., Schwab, J., Bauer, E. B., et al. 2018, ApJS, 234, 34, doi: 10.3847/1538-4365/aaa5a8
+Paxton, B., Smolec, R., Schwab, J., et al. 2019, ApJS, 243, 10, doi: 10.3847/1538-4365/ab2241
 Reimers, D. 1975, Memoires of the Societe Royale des Sciences de Liege, 8, 369
 Ritter, H. 1988, A&A, 202, 93
 Ruan, W.-H., Guo, Z.-K., Cai, R.-G., & Zhang, Y.-Z. 2020, International Journal of Modern Physics A, 35, 2050075, doi: 10.1142/S0217751X2050075X
-Soethe, L. T. T., & Kepler, S. O. 2021,, MNRAS, 506, 3266, doi: 10.1093/mnras/stab1916
+Soethe, L. T. T., & Kepler, S. O. 2021, MNRAS, 506, 3266, doi: 10.1093/mnras/stab1916
 Spruit, H. C. 2002, A&A, 381, 923, doi: 10.1051/0004-6361:20011465
-Sun, M., & Arras, P. 2018,, ApJ, 858, 14, doi: 10.3847/1538-4357/aab9a4
+Sun, M., & Arras, P. 2018, ApJ, 858, 14, doi: 10.3847/1538-4357/aab9a4
 Tauris, T. M. 2018, PhRvL, 121, 131105, doi: 10.1103/PhysRevLett.121.131105
 Tauris, T. M., & Savonije, G. J. 1999, A&A, 350, 928. https://arxiv.org/abs/astro-ph/9909147
 Tauris, T. M., & van den Heuvel, E. P. J. 2006, Formation and evolution of compact stellar X-ray sources, Vol. 39, 623-665
-Tutukov, A. V., & Yungelson, L. R. 1994,, MNRAS, 268, 871
-Van, K. X., Ivanova, N., & Heinke, C. O. 2019,, MNRAS, 483, 5595, doi: 10.1093/mnras/sty3489
+Tutukov, A. V., & Yungelson, L. R. 1994, MNRAS, 268, 871
+Van, K. X., Ivanova, N., & Heinke, C. O. 2019, MNRAS, 483, 5595, doi: 10.1093/mnras/sty3489
 van Roestel, J., Kupfer, T., Green, M. J., et al. 2021, arXiv e-prints, arXiv:2107.07573. https://arxiv.org/abs/2107.07573
-Webbink, R. F. 1984,, ApJ, 277, 355, doi: 10.1086/161701
-Yungelson, L. R., Livio, M., Tutukov, A. V., & Saffer, R. A. 1994,, ApJ, 420, 336, doi: 10.1086/173563
+Webbink, R. F. 1984, ApJ, 277, 355, doi: 10.1086/161701
+Yungelson, L. R., Livio, M., Tutukov, A. V., & Saffer, R. A. 1994, ApJ, 420, 336, doi: 10.1086/173563
 Zorotovic, M., Schreiber, M. R., Gansicke, B. T., & Nebot Gomez-Moran, A. 2010, A&A, 520, A86, doi: 10.1051/0004-6361/200913658
