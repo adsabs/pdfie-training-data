@@ -53,7 +53,7 @@ Nemmen, R. S., Storchi-Bergmann, T., & Eracleous, M. 2014, MNRAS, 438, 2804, doi
 Osterbrock, D. E. 1989, Astrophysics of gaseous nebulae and active galactic nuclei
 Peimbert, M., & Torres-Peimbert, S. 1981, ApJ, 245, 845, doi: 10.1086/158860
 Peng, C. Y., Ho, L. C., Impey, C. D., & Rix, H.-W. 2002, The Astronomical Journal, 124, 266, doi: 10.1086/340952
---. 2010, The Astronomical Journal, 139, 2097, doi: 10.1088/0004-6256/139/6/2097
+—. 2010, The Astronomical Journal, 139, 2097, doi: 10.1088/0004-6256/139/6/2097
 Proxauf, B., Ottl, S., & Kimeswenger, S. 2014, A&A, 561, A10, doi: 10.1051/0004-6361/201322581
 Ricci, T. V., Steiner, J. E., & Giansante, L. 2015a, A&A, 576, A58, doi: 10.1051/0004-6361/201425504
 Ricci, T. V., Steiner, J. E., & Menezes, R. B. 2015b, MNRAS, 451, 3728, doi: 10.1093/mnras/stv1156

@@ -55,7 +55,7 @@ Owen, F. N., Rudnick, L., Eilek, J., et al. 2014, ApJ, 794, 24, doi: 10.1088/000
 Ozawa, T., Nakanishi, H., Akahori, T., et al. 2015, PASJ, 67, 110, doi: 10.1093/pasj/psv082
 Perley, R. A., & Butler, B. J. 2013, ApJS, 204, 19, doi: 10.1088/0067-0049/204/2/19
 Pinzke, A., Oh, S. P., & Pfrommer, C. 2013a, MNRAS, 435, 1061, doi: 10.1093/mnras/stt1308
---. 2013b, MNRAS, 435, 1061, doi: 10.1093/mnras/stt1308
+—. 2013b, MNRAS, 435, 1061, doi: 10.1093/mnras/stt1308
 Rajpurohit, K., Hoeft, M., van Weeren, R. J., et al. 2018, ApJ, 852, 65, doi: 10.3847/1538-4357/aa9f13
 Rajpurohit, K., Vazza, F., Hoeft, M., et al. 2020a, A&A, 642, L13, doi: 10.1051/0004-6361/202039165
 Rajpurohit, K., Hoeft, M., Vazza, F., et al. 2020b, A&A, 636, A30, doi: 10.1051/0004-6361/201937139

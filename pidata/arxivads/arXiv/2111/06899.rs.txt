@@ -5,8 +5,8 @@ Baker, M., & Willman, B. 2015, AJ, 150, 160, doi: 10.1088/0004-6256/150/5/160
 Beaton, R. L., Bono, G., Braga, V. F., et al. 2018, SSRv, 214, 113, doi: 10.1007/s11214-018-0542-1
 Bechtol, K., Drlica-Wagner, A., Balbinot, E., et al. 2015, ApJ, 807, 50, doi: 10.1088/0004-637X/807/1/50
 Bernard, E. J., Monelli, M., Gallart, C., et al. 2009, The Astrophysical Journal, 699, 1742, doi: 10.1088/0004-637X/699/2/1742
---. 2010, The Astrophysical Journal, 712, 1259, doi: 10.1088/0004-637X/712/2/1259
---. 2013, Monthly Notices of the Royal Astronomical Society, 432, 3047, doi: 10.1093/mnras/stt655
+—. 2010, The Astrophysical Journal, 712, 1259, doi: 10.1088/0004-637X/712/2/1259
+—. 2013, Monthly Notices of the Royal Astronomical Society, 432, 3047, doi: 10.1093/mnras/stt655
 Bland-Hawthorn, J., & Gerhard, O. 2016, ARA&A, 54, 529, doi: 10.1146/annurev-astro-081915-023441
 Boettcher, E., Willman, B., Fadely, R., et al. 2013, The Astronomical Journal, 146, 94, doi: 10.1088/0004-6256/146/4/94
 Breger, M., & Bregman, J. N. 1975, ApJ, 200, 343, doi: 10.1086/153794
@@ -116,7 +116,7 @@ Tolstoy, E., Hill, V., & Tosi, M. 2009, ARA&A, 47, 371, doi: 10.1146/annurev-ast
 Tolstoy, E., Irwin, M. J., Helmi, A., et al. 2004, ApJL, 617, L119, doi: 10.1086/427388
 Torrealba, G., Belokurov, V., Koposov, S. E., et al. 2018, Monthly Notices of the Royal Astronomical Society, 475, 5085, doi: 10.1093/mnras/sty170
 van Albada, T. S., & Baker, N. 1971, ApJ, 169, 311, doi: 10.1086/151144
---. 1973, ApJ, 185, 477, doi: 10.1086/152434
+—. 1973, ApJ, 185, 477, doi: 10.1086/152434
 van den Bergh, S. 1968, JRASC, 62, 145
 Vivas, A. K., Walker, A. R., Martnez-Vzquez, C. E., et al. 2019, Monthly Notices of the Royal Astronomical Society, 492, 10611077, doi: 10.1093/mnras/stz3393
 Weisz, D. R., Dolphin, A. E., Skillman, E. D., et al. 2014, ApJ, 789, 147, doi: 10.1088/0004-637X/789/2/147

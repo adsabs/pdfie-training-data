@@ -16,12 +16,12 @@ Greenberg, J. M., Mizutani, H., & Yamamoto, T. 1995, A&A, 295, L35
 Gundlach, B., Kilias, S., Beitz, E., & Blum, J. 2011, Icarus, 214, 717, doi: 10.1016/j.icarus.2011.05.005
 Herranen, J., Lazarian, A., & Hoang, T. 2021, The Astrophysical Journal, 913, 63, doi: 10.3847/1538-4357/abf096
 Hoang, T. 2019a, ApJ, 876, 13, doi: 10.3847/1538-4357/ab1075
---. 2020, Galaxies, 8, 52, doi: 10.3390/galaxies8030052
+—. 2020, Galaxies, 8, 52, doi: 10.3390/galaxies8030052
 Hoang, T. 2021, arXiv e-prints, arXiv:2107.01772. https://arxiv.org/abs/2107.01772
 Hoang, T., Giang, N. C., & Tram, L. N. 2020, The Astrophysical Journal, 895, 16, doi: 10.3847/1538-4357/ab8ae1
 Hoang, T., & Lazarian, A. 2008, MNRAS, 388, 117, doi: 10.1111/j.1365-2966.2008.13249.x
---. 2014, MNRAS, 438, 680, doi: 10.1093/mnras/stt2240
---. 2016, ApJ, 831, 159, doi: 10.3847/0004-637X/831/2/159
+—. 2014, MNRAS, 438, 680, doi: 10.1093/mnras/stt2240
+—. 2016, ApJ, 831, 159, doi: 10.3847/0004-637X/831/2/159
 Hoang, T., Lazarian, A., & Martin, P. G. 2013, ApJ, 779, 152, doi: 10.1088/0004-637X/779/2/152
 Hoang, T., & Tram, L. N. 2020, ApJ, 891, 38, doi: 10.3847/1538-4357/ab6eff
 Hoang, T., Tram, L. N., Lee, H., & Ahn, S.-H. 2019b, Nature, 3, 766775, doi: 10.1038/s41550-019-0763-6
@@ -34,7 +34,7 @@ Kokubo, E., & Ida, S. 2012, Progress of Theoretical and Experimental Physics, 20
 Krolik, J. H., & Begelman, M. C. 1988, ApJ, 329, 702, doi: 10.1086/166414
 Laor, A., & Draine, B. T. 1993, ApJ, 402, 441, doi: 10.1086/172149
 Lazarian, A., & Hoang, T. 2007, MNRAS, 378, 910, doi: 10.1111/j.1365-2966.2007.11817.x
---. 2021, ApJ, 908, 12, doi: 10.3847/1538-4357/abd02c
+—. 2021, ApJ, 908, 12, doi: 10.3847/1538-4357/abd02c
 Li, A., & Draine, B. T. 2001, ApJ, 554, 778802, doi: 10.1086/323147
 Li, A., & Greenberg, J. M. 1997, A&A, 323, 566
 Litwin, K. L., Zygielbaum, B. R., Polito, P. J., Sklar, L. S., & Collins, G. C. 2012, Journal of Geophysical Research: Planets, 117, doi: https://doi.org/10.1029/2012JE004101
@@ -60,6 +60,6 @@ Wada, K., Papadopoulos, P. P., & Spaans, M. 2009, ApJ, 702, 63, doi: 10.1088/000
 Wada, K., Schartmann, M., & Meijerink, R. 2016, ApJL, 828, L19, doi: 10.3847/2041-8205/828/2/L19
 Wada, K., Tanaka, H., Suyama, T., Kimura, H., & Yamamoto, T. 2008, ApJ, 677, 1296, doi: 10.1086/529511
 Wada, K., Tsukamoto, Y., & Kokubo, E. 2019, ApJ, 886, 107, doi: 10.3847/1538-4357/ab4cf0
---. 2021, ApJ, 909, 96, doi: 10.3847/1538-4357/abd40a
+—. 2021, ApJ, 909, 96, doi: 10.3847/1538-4357/abd40a
 Weingartner, J. C., & Draine, B. T. 2001, ApJ, 548, 296, doi: 10.1086/318651
 Work, A., & Lian, Y. 2018, Progress in Aerospace Sciences, 98, 1, doi: https://doi.org/10.1016/j.paerosci.2018.03.001

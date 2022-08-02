@@ -35,7 +35,7 @@ Isella, A., Guidi, G., Testi, L., et al. 2016, PhRvL, 117, 251101, doi: 10.1103/
 Jin, S., Li, S., Isella, A., Li, H., & Ji, J. 2016, ApJ, 818, 76, doi: 10.3847/0004-637X/818/1/76
 Johansen, A., Ida, S., & Brasser, R. 2019, A&A, 622, A202, doi: 10.1051/0004-6361/201834071
 Kanagawa, K. D., Muto, T., Tanaka, H., et al. 2015a, ApJL, 806, L15, doi: 10.1088/2041-8205/806/1/L15
---. 2016, PASJ, 68, 43, doi: 10.1093/pasj/psw037
+—. 2016, PASJ, 68, 43, doi: 10.1093/pasj/psw037
 Kanagawa, K. D., Tanaka, H., Muto, T., & Tanigawa, T. 2017, PASJ, 69, 97, doi: 10.1093/pasj/psx114
 Kanagawa, K. D., Tanaka, H., Muto, T., Tanigawa, T., & Takeuchi, T. 2015b, MNRAS, 448, 994, doi: 10.1093/mnras/stv025
 Kanagawa, K. D., Tanaka, H., & Szuszkiewicz, E. 2018, ApJ, 861, 140, doi: 10.3847/1538-4357/aac8d9
@@ -46,9 +46,9 @@ Koller, J., Li, H., & Lin, D. N. C. 2003, ApJL, 596, L91, doi: 10.1086/379032
 Li, H., Finn, J. M., Lovelace, R. V. E., & Colgate, S. A. 2000, ApJ, 533, 1023, doi: 10.1086/308693
 Li, Y.-P., Chen, Y.-X., Lin, D. N. C., & Zhang, X. 2021, ApJ, 906, 52, doi: 10.3847/1538-4357/abc883
 Lin, D. N. C., & Papaloizou, J. 1979, MNRAS, 186, 799, doi: 10.1093/mnras/186.4.799
---. 1986, ApJ, 309, 846, doi: 10.1086/164653
+—. 1986, ApJ, 309, 846, doi: 10.1086/164653
 Lin, M.-K. 2012, ApJ, 754, 21, doi: 10.1088/0004-637X/754/1/21
---. 2014, MNRAS, 437, 575, doi: 10.1093/mnras/stt1909
+—. 2014, MNRAS, 437, 575, doi: 10.1093/mnras/stt1909
 Long, Z. C., Akiyama, E., Sitko, M., et al. 2018, ApJ, 858, 112, doi: 10.3847/1538-4357/aaba7c
 Loomis, R. A., Oberg, K. I., Andrews, S. M., & MacGregor, M. A. 2017, ApJ, 840, 23, doi: 10.3847/1538-4357/aa6c63
 Lubow, S. H. 1991, ApJ, 381, 259, doi: 10.1086/170647

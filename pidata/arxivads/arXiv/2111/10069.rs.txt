@@ -2,7 +2,7 @@ Althaus, L. G., Miller Bertolami, M. M., & Corsico, A. H. 2013, A&A, 557, A19, d
 Althaus, L. G., Serenelli, A. M., & Benvenuto, O. G. 2001, MNRAS, 324, 617, doi: 10.1046/j.1365-8711.2001.04324.x
 Amaro-Seoane, P., Audley, H., Babak, S., et al. 2017, arXiv e-prints, arXiv:1702.00786. https://arxiv.org/abs/1702.00786
 Burdge, K. B., Coughlin, M. W., Fuller, J., et al. 2019a, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
---. 2019b, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
+—. 2019b, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
 Burdge, K. B., Fuller, J., Phinney, E. S., et al. 2019c, ApJL, 886, L12, doi: 10.3847/2041-8213/ab53e5
 Chen, H.-L., Tauris, T. M., Han, Z., & Chen, X. 2021, MNRAS, doi: 10.1093/mnras/stab670
 Chen, H.-L., Woods, T. E., Yungelson, L. R., et al. 2019, MNRAS, 490, 1678, doi: 10.1093/mnras/stz2644
@@ -11,10 +11,10 @@ Driebe, T., Schoenberner, D., Bloecker, T., & Herwig, F. 1998, A&A, 339, 123. ht
 Eggleton, P. P. 1983, ApJ, 268, 368, doi: 10.1086/160960
 Fuller, J., & Lai, D. 2013, MNRAS, 430, 274, doi: 10.1093/mnras/sts606
 Hachisu, I., Kato, M., & Nomoto, K. 1996, ApJL, 470, L97, doi: 10.1086/310303
---. 1999, ApJ, 522, 487, doi: 10.1086/307608
+—. 1999, ApJ, 522, 487, doi: 10.1086/307608
 Han, Z. 1998, MNRAS, 296, 1019, doi: 10.1046/j.1365-8711.1998.01475.x
 Han, Z., Podsiadlowski, P., & Eggleton, P. P. 1994, MNRAS, 270, 121
---. 1995, MNRAS, 272, 800
+—. 1995, MNRAS, 272, 800
 Heger, A., Langer, N., & Woosley, S. E. 2000, ApJ, 528, 368, doi: 10.1086/308158
 Heger, A., Woosley, S. E., & Spruit, H. C. 2005, ApJ, 626, 350, doi: 10.1086/429868
 Hurley, J. R., Tout, C. A., & Pols, O. R. 2002, MNRAS, 329, 897, doi: 10.1046/j.1365-8711.2002.05038.x

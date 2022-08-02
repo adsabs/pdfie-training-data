@@ -2,7 +2,7 @@ Adhikari, L., Zank, G. P., Bruno, R., et al. 2015, ApJ, 805, 63, doi: 10.1088/00
 Adhikari, L., Zank, G. P., Hunana, P., et al. 2017, ApJ, 841, 85, doi: 10.3847/1538-4357/aa6f5d
 Adhikari, L., Zank, G. P., & Zhao, L. L. 2020a, ApJ, 901, 102, doi: 10.3847/1538-4357/abb132
 Adhikari, L., Zank, G. P., Zhao, L. L., & Webb, G. M. 2020b, ApJ, 891, 34, doi: 10.3847/1538-4357/ab7010
---. 2020c, ApJ, 891, 34, doi: 10.3847/1538-4357/ab7010
+—. 2020c, ApJ, 891, 34, doi: 10.3847/1538-4357/ab7010
 Adhikari, L., Zank, G. P., Zhao, L. L., et al. 2020d, ApJS, 246, 38, doi: 10.3847/1538-4365/ab5852
 Bell, A. R., & Lucek, S. G. 2001, MNRAS, 321, 433, doi: 10.1046/j.1365-8711.2001.04063.x
 Breech, B., Matthaeus, W. H., Minnie, J., et al. 2008, Journal of Geophysical Research (Space Physics), 113, A08105, doi: 10.1029/2007JA012711
@@ -20,7 +20,7 @@ Ko, C. M. 1995, Advances in Space Research, 15, 149, doi: 10.1016/0273-1177(94)0
 Landau, L. D., & Lifshitz, E. M. 1987, Fluid Mechanics
 le Roux, J. A., Zank, G. P., & Khabarova, O. V. 2018, ApJ, 864, 158, doi: 10.3847/1538-4357/aad8b3
 Marsch, E., & Tu, C. Y. 1989, Journal of Plasma Physics, 41, 479, doi: 10.1017/S0022377800014033
---. 1990, J. Geophys. Res., 95, 8211, doi: 10.1029/JA095iA06p08211
+—. 1990, J. Geophys. Res., 95, 8211, doi: 10.1029/JA095iA06p08211
 Matthaeus, W. H., Oughton, S., Pontius, Duane H., J., & Zhou, Y. 1994a, J. Geophys. Res., 99, 19267, doi: 10.1029/94JA01233
 Matthaeus, W. H., Zank, G. P., Oughton, S., Mullan, D. J., & Dmitruk, P. 1999a, ApJL, 523, L93, doi: 10.1086/312259
 Matthaeus, W. H., Zank, G. P., Smith, C. W., & Oughton, S. 1999b, PhRvL, 82, 3444, doi: 10.1103/PhysRevLett.82.3444
@@ -39,15 +39,15 @@ Verdini, A., Velli, M., Matthaeus, W. H., Oughton, S., & Dmitruk, P. 2010, ApJL,
 Woolsey, L. N., & Cranmer, S. R. 2014, ApJ, 787, 160, doi: 10.1088/0004-637X/787/2/160
 Zank, G. P. 2014, Transport Processes in Space Physics and Astrophysics, Vol. 877, doi: 10.1007/978-1-4614-8480-6
 Zank, G. P., Adhikari, L., Hunana, P., et al. 2017, ApJ, 835, 147, doi: 10.3847/1538-4357/835/2/147
---. 2018a, ApJ, 854, 32, doi: 10.3847/1538-4357/aaa763
+—. 2018a, ApJ, 854, 32, doi: 10.3847/1538-4357/aaa763
 Zank, G. P., Adhikari, L., Zhao, L. L., et al. 2018b, ApJ, 869, 23, doi: 10.3847/1538-4357/aaebfe
 Zank, G. P., Dosch, A., Hunana, P., et al. 2012, ApJ, 745, 35, doi: 10.1088/0004-637X/745/1/35
 Zank, G. P., & Matthaeus, W. H. 1992, Journal of Plasma Physics, 48, 85, doi: 10.1017/S002237780001638X
---. 1993, Physics of Fluids A, 5, 257, doi: 10.1063/1.858780
+—. 1993, Physics of Fluids A, 5, 257, doi: 10.1063/1.858780
 Zank, G. P., Matthaeus, W. H., & Smith, C. W. 1996, J. Geophys. Res., 101, 17093, doi: 10.1029/96JA01275
 Zank, G. P., Nakanotani, M., Zhao, L. L., Adhikari, L., & Telloni, D. 2020, ApJ, 900, 115, doi: 10.3847/1538-4357/abad30
 Zhao, L. L., Zank, G. P., Adhikari, L., et al. 2020, ApJ, 898, 113, doi: 10.3847/1538-4357/ab9b7e
 Zhou, Y., & Matthaeus, W. H. 1989a, Geophys. Res. Lett., 16, 755, doi: 10.1029/GL016i007p00755
---. 1989b, Geophys. Res. Lett., 16, 755, doi: 10.1029/GL016i007p00755
---. 1990a, J. Geophys. Res., 95, 14863, doi: 10.1029/JA095iA09p14863
---. 1990b, J. Geophys. Res., 95, 10291, doi: 10.1029/JA095iA07p10291
+—. 1989b, Geophys. Res. Lett., 16, 755, doi: 10.1029/GL016i007p00755
+—. 1990a, J. Geophys. Res., 95, 14863, doi: 10.1029/JA095iA09p14863
+—. 1990b, J. Geophys. Res., 95, 10291, doi: 10.1029/JA095iA07p10291

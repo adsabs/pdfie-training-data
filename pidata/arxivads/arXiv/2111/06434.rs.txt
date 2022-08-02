@@ -1,5 +1,5 @@
 Ababakr, K. M., Oudmaijer, R. D., & Vink, J. S. 2016, MNRAS, 461, 3089, doi: 10.1093/mnras/stw1534
---. 2017, MNRAS, 472, 854, doi: 10.1093/mnras/stx1891
+—. 2017, MNRAS, 472, 854, doi: 10.1093/mnras/stx1891
 Abbott, B. P., Abbott, R., Abbott, T. D., et al. 2016, PhRvL, 116, 061102, doi: 10.1103/PhysRevLett.116.061102
 Andersson, B.-G., Clayton, G. C., Doney, K. D., et al. 2021, arXiv e-prints, arXiv:2111.08079. https://arxiv.org/abs/2111.08079
 Babel, J., & Montmerle, T. 1997, A&A, 323, 121
@@ -61,18 +61,18 @@ Grunhut, J. H., Wade, G. A., Leutenegger, M., et al. 2013, MNRAS, 428, 1686, doi
 Grunhut, J. H., Wade, G. A., Neiner, C., et al. 2017, MNRAS, 465, 2432, doi: 10.1093/mnras/stw2743
 Grunhut, J. H., Wade, G. A., Folsom, C. P., et al. 2021, arXiv e-prints, arXiv:2111.06251. https://arxiv.org/abs/2111.06251
 Harrington, D. M., & Kuhn, J. R. 2007, ApJL, 667, L89, doi: 10.1086/521999
---. 2009, ApJS, 180, 138, doi: 10.1088/0067-0049/180/1/138
+—. 2009, ApJS, 180, 138, doi: 10.1088/0067-0049/180/1/138
 Hennicker, L., Puls, J., Kee, N. D., & Sundqvist, J. O. 2018, A&A, 616, A140, doi: 10.1051/0004-6361/201731858
 Henrichs, H. F., de Jong, J. A., Verdugo, E., et al. 2013, A&A, 555, A46, doi: 10.1051/0004-6361/201321584
 Ignace, R. 1998a, A&A, 332, 686
---. 1998b, A&A, 337, 819
---. 2000, A&A, 363, 1106
+—. 1998b, A&A, 337, 819
+—. 2000, A&A, 363, 1106
 Ignace, R., Cassinelli, J. P., & Nordsieck, K. H. 1999, ApJ, 520, 335, doi: 10.1086/307435
 Ignace, R., Hole, K. T., Cassinelli, J. P., & Henson, G. D. 2011, A&A, 530, A82, doi: 10.1051/0004-6361/201016292
 Ignace, R., Nordsieck, K. H., & Cassinelli, J. P. 1997, ApJ, 486, 550, doi: 10.1086/304512
---. 2004, ApJ, 609, 1018, doi: 10.1086/421258
+—. 2004, ApJ, 609, 1018, doi: 10.1086/421258
 Jermyn, A. S., & Cantiello, M. 2020, ApJ, 900, 113, doi: 10.3847/1538-4357/ab9e70
---. 2021, arXiv e-prints, arXiv:2110.03695. https://arxiv.org/abs/2110.03695
+—. 2021, arXiv e-prints, arXiv:2110.03695. https://arxiv.org/abs/2110.03695
 Johnson, J. A. 2019, Science, 363, 474, doi: 10.1126/science.aau9540
 Jones, C. E., Labadie-Bartz, J., Naze, Y., et al. 2021, arXiv e-prints, arXiv:2111.07926. https://arxiv.org/abs/2111.07926
 Kemp, J. C., & Herman, L. C. 1977, ApJ, 218, 770, doi: 10.1086/155733
@@ -85,13 +85,13 @@ Kochukhov, O., Bagnulo, S., Wade, G. A., et al. 2004, A&A, 414, 613, doi: 10.105
 Kochukhov, O., Piskunov, N., Ilyin, I., Ilyina, S., & Tuominen, I. 2002, A&A, 389, 420, doi: 10.1051/0004-6361:20020299
 Kochukhov, O., Shultz, M., & Neiner, C. 2019, A&A, 621, A47, doi: 10.1051/0004-6361/201834279
 Kochukhov, O., & Wade, G. A. 2010, A&A, 513, A13, doi: 10.1051/0004-6361/200913860
---. 2016, A&A, 586, A30, doi: 10.1051/0004-6361/201527454
+—. 2016, A&A, 586, A30, doi: 10.1051/0004-6361/201527454
 Lallement, R., Vergely, J. L., Valette, B., et al. 2014, A&A, 561, A91, doi: 10.1051/0004-6361/201322032
 Landi Degl'Innocenti, E., & Landolfi, M. 2004, Polarization in Spectral Lines, Vol. 307, doi: 10.1007/978-1-4020-2415-3
 Landstreet, J. D. 1988, ApJ, 326, 967, doi: 10.1086/166155
 Landstreet, J. D., & Borra, E. F. 1978, ApJL, 224, L5, doi: 10.1086/182746
 Lanz, T., & Hubeny, I. 2003, ApJS, 146, 417, doi: 10.1086/374373
---. 2007, ApJS, 169, 83, doi: 10.1086/511270
+—. 2007, ApJS, 169, 83, doi: 10.1086/511270
 Leroy, J. L. 1977, A&A, 60, 79
 Leto, P., Trigilio, C., Buemi, C. S., Leone, F., & Umana, G. 2012, MNRAS, 423, 1766, doi: 10.1111/j.1365-2966.2012.20997.x
 Leto, P., Trigilio, C., Krticka, J., et al. 2021, MNRAS, 507, 1979, doi: 10.1093/mnras/stab2168
@@ -108,7 +108,7 @@ Mewe, R., Raassen, A. J. J., Cassinelli, J. P., et al. 2003, A&A, 398, 203, doi:
 Morin, J., Bouret, J.-C., Neiner, C., et al. 2019, arXiv e-prints, arXiv:1908.01545. https://arxiv.org/abs/1908.01545
 Moutou, C., Dalal, S., Donati, J. F., et al. 2020, A&A, 642, A72, doi: 10.1051/0004-6361/202038108
 Mullan, D. J. 1984, ApJ, 283, 303
---. 1986, A&A, 165, 157
+—. 1986, A&A, 165, 157
 Munoz, M. S., Wade, G. A., Faes, D., & Carciofi, A. 2020, in Stellar Magnetism: A Workshop in Honour of the Career and Contributions of John D. Landstreet, ed. G. Wade, E. Alecian, D. Bohlender, & A. Sigut, Vol. 11, 148-155. https://arxiv.org/abs/2004.13594
 Nandra, K., Barret, D., Barcons, X., et al. 2013, arXiv e-prints, arXiv:1306.2307. https://arxiv.org/abs/1306.2307
 Naze, Y., Petit, V., Rinbrand, M., et al. 2014, ApJS, 215, 10, doi: 10.1088/0067-0049/215/1/10
@@ -149,7 +149,7 @@ Scowen, P. A., Gayley, K., Neiner, C., et al. 2021, in Society of Photo-Optical 
 Shultz, M., & Wade, G. A. 2017, MNRAS, 468, 3985, doi: 10.1093/mnras/stx759
 Shultz, M., Wade, G. A., Rivinius, T., et al. 2017, MNRAS, 471, 2286, doi: 10.1093/mnras/stx1632
 Shultz, M. E., Wade, G. A., Rivinius, T., et al. 2018, MNRAS, 475, 5144, doi: 10.1093/mnras/sty103
---. 2019, MNRAS, 490, 274, doi: 10.1093/mnras/stz2551
+—. 2019, MNRAS, 490, 274, doi: 10.1093/mnras/stz2551
 Shultz, M. E., Owocki, S., Rivinius, T., et al. 2020, MNRAS, 499, 5379, doi: 10.1093/mnras/staa3102
 Shulyak, D., Reiners, A., Engeln, A., et al. 2017, Nature Astronomy, 1, 0184, doi: 10.1038/s41550-017-0184
 Sikora, J., Wade, G. A., Power, J., & Neiner, C. 2019, MNRAS, 483, 3127, doi: 10.1093/mnras/sty2895
@@ -172,7 +172,7 @@ ud-Doula, A., & Naze, Y. 2016, Advances in Space Research, 58, 680, doi: 10.1016
 ud-Doula, A., Owocki, S., Townsend, R., Petit, V., & Cohen, D. 2014, MNRAS, 441, 3600, doi: 10.1093/mnras/stu769
 ud-Doula, A., & Owocki, S. P. 2002, ApJ, 576, 413, doi: 10.1086/341543
 ud-Doula, A., Owocki, S. P., & Townsend, R. H. D. 2008, MNRAS, 385, 97, doi: 10.1111/j.1365-2966.2008.12840.x
---. 2009, MNRAS, 392, 1022, doi: 10.1111/j.1365-2966.2008.14134.x
+—. 2009, MNRAS, 392, 1022, doi: 10.1111/j.1365-2966.2008.14134.x
 ud-Doula, A., Sundqvist, J. O., Owocki, S. P., Petit, V., & Townsend, R. H. D. 2013, MNRAS, 428, 2723, doi: 10.1093/mnras/sts246
 Villebrun, F., Alecian, E., Hussain, G., et al. 2019, A&A, 622, A72, doi: 10.1051/0004-6361/201833545
 Vink, J. S., de Koter, A., & Lamers, H. J. G. L. M. 2001, A&A, 369, 574, doi: 10.1051/0004-6361:20010127
@@ -186,4 +186,4 @@ Wade, G. A., Neiner, C., Alecian, E., et al. 2016, MNRAS, 456, 2, doi: 10.1093/m
 Wisniewski, J. P., Berdyugin, A. V., Berdyugina, S. V., et al. 2021, arXiv e-prints, arXiv:2111.06891. https://arxiv.org/abs/2111.06891
 Wood, K., Brown, J. C., & Fox, G. K. 1993, A&A, 271, 492
 Zhao, J., Gibson, S. E., Fineschi, S., et al. 2021, ApJ, 912, 141, doi: 10.3847/1538-4357/abf143
---. 2019, ApJ, 883, 55, doi: 10.3847/1538-4357/ab328b
+—. 2019, ApJ, 883, 55, doi: 10.3847/1538-4357/ab328b

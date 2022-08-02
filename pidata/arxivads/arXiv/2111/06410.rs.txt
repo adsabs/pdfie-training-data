@@ -81,8 +81,8 @@ Sanchez, S. F., Kennicutt, R. C., Gil de Paz, A., et al. 2012, A&A, 538, A8, doi
 Sanchez, S. F., Barrera-Ballesteros, J. K., Lopez-Coba, C., et al. 2019, MNRAS, 484, 3042, doi: 10.1093/mnras/stz019
 Sanders, R. L., Shapley, A. E., Zhang, K., & Yan, R. 2017, ApJ, 850, 136, doi: 10.3847/1538-4357/aa93e4
 Sanders, R. L., Shapley, A. E., Kriek, M., et al. 2015, ApJ, 799, 138, doi: 10.1088/0004-637X/799/2/138
---. 2016, ApJ, 816, 23, doi: 10.3847/0004-637X/816/1/23
---. 2018, ApJ, 858, 99, doi: 10.3847/1538-4357/aabcbd
+—. 2016, ApJ, 816, 23, doi: 10.3847/0004-637X/816/1/23
+—. 2018, ApJ, 858, 99, doi: 10.3847/1538-4357/aabcbd
 Sanders, R. L., Shapley, A. E., Reddy, N. A., et al. 2020a, MNRAS, 491, 1427, doi: 10.1093/mnras/stz3032
 Sanders, R. L., Jones, T., Shapley, A. E., et al. 2020b, ApJL, 888, L11, doi: 10.3847/2041-8213/ab5d40
 Sanders, R. L., Shapley, A. E., Jones, T., et al. 2021, ApJ, 914, 19, doi: 10.3847/1538-4357/abf4c1

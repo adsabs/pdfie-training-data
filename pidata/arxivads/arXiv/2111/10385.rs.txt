@@ -39,7 +39,7 @@ Kennicutt, R. C., Calzetti, D., Aniano, G., et al. 2011, PASP, 123, 1347, doi: 1
 Kewley, L. J., & Dopita, M. A. 2002, ApJS, 142, 35, doi: 10.1086/341326
 Kewley, L. J., & Ellison, S. L. 2008, ApJ, 681, 1183, doi: 10.1086/587500
 Kobulnicky, H. A., & Kewley, L. J. 2004a, ApJ, 617, 240, doi: 10.1086/425299
---. 2004b, ApJ, 617, 240, doi: 10.1086/425299
+—. 2004b, ApJ, 617, 240, doi: 10.1086/425299
 Kreckel, K., Groves, B., Schinnerer, E., et al. 2013, ApJ, 771, 62, doi: 10.1088/0004-637X/771/1/62
 Lamarche, C., Verma, A., Vishwas, A., et al. 2018, ApJ, 867, 140, doi: 10.3847/1538-4357/aae394
 Li, Y., Bresolin, F., & Kennicutt, Robert C., J. 2013, ApJ, 766, 17, doi: 10.1088/0004-637X/766/1/17

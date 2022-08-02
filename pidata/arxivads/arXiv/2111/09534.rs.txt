@@ -6,13 +6,13 @@ Acciari, V. A., Aliu, E., Arlen, T., et al. 2010, ApJ, 714, 163, doi: 10.1088/00
 Acero, F., Ackermann, M., Ajello, M., et al. 2016, ApJS, 224, 8, doi: 10.3847/0067-0049/224/1/8
 Ackermann, M., Ajello, M., Allafort, A., et al. 2013, Science, 339, 807, doi: 10.1126/science.1231160, doi:10.1126/science.1231160
 Aguilar, M., Aisa, D., Alpat, B., et al. 2015a, PhRvL, 114, 171103, doi: 10.1103/PhysRevLett.114.171103
---. 2015b, PhRvL, 115, 211101, doi: 10.1103/PhysRevLett.115.211101
+—. 2015b, PhRvL, 115, 211101, doi: 10.1103/PhysRevLett.115.211101
 Aguilar, M., Ali Cavasonza, L., Alpat, B., et al. 2017, PhRvL, 119, 251101, doi: 10.1103/PhysRevLett.119.251101
 Ahnen, M. L., Ansoldi, S., Antonelli, L. A., et al. 2017, MNRAS, 472, 2956, doi: 10.1093/mnras/stx2079
 Albert, J., Aliu, E., Anderhub, H., et al. 2007, ApJL, 664, L87, doi: 10.1086/520957
 Ballet, J., Burnett, T. H., Digel, S. W., & Lott, B. 2020, arXiv e-prints, arXiv:2005.11208. https://arxiv.org/abs/2005.11208
 Bell, A. R. 1978a, MNRAS, 182, 147, doi: 10.1093/mnras/182.2.147
---. 1978b, MNRAS, 182, 443, doi: 10.1093/mnras/182.3.443
+—. 1978b, MNRAS, 182, 443, doi: 10.1093/mnras/182.3.443
 Biermann, P. L., Becker, J. K., Dreyer, J., et al. 2010, ApJ, 725, 184, doi: 10.1088/0004-637X/725/1/184
 Blasi, P. 2004, Astroparticle Physics, 21, 45, doi: 10.1016/j.astropartphys.2003.10.008
 Blasi, P., Gabici, S., & Vannoni, G. 2005, MNRAS, 361, 907, doi: 10.1111/j.1365-2966.2005.09227.x

@@ -25,7 +25,7 @@ Kasper, J. C., Stevens, M. L., Korreck, K. E., et al. 2012, ApJ, 745, 162, doi: 
 Kasper, J. C., Stevens, M. L., Lazarus, A. J., Steinberg, J. T., & Ogilvie, K. W. 2007, ApJ, 660, 901, doi: 10.1086/510842
 Killie, M. A., Lie-Svendsen, O., & Leer, E. 2005, ApJL, 632, L155, doi: 10.1086/497827
 Laming, J. M. 2004, ApJ, 614, 1063, doi: 10.1086/423780
---. 2015, Living Reviews in Solar Physics, 12, 2, doi: 10.1007/lrsp-2015-2
+—. 2015, Living Reviews in Solar Physics, 12, 2, doi: 10.1007/lrsp-2015-2
 Lepri, S. T., & Zurbuchen, T. H. 2004, Journal of Geophysical Research (Space Physics), 109, A01112, doi: 10.1029/2003JA009954
 Lin, J., & Forbes, T. G. 2000, J. Geophys. Res., 105, 2375, doi: 10.1029/1999JA900477
 Lin, J., Raymond, J. C., & van Ballegooijen, A. A. 2004, ApJ, 602, 422, doi: 10.1086/380900

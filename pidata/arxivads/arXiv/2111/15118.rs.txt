@@ -5,7 +5,7 @@ Barth, A. J., Pancoast, A., Thorman, S. J., et al. 2011, ApJL, 743, L4, doi: 10.
 Barth, A. J., Pancoast, A., Bennert, V. N., et al. 2013, ApJ, 769, 128, doi: 10.1088/0004-637X/769/2/128
 Barth, A. J., Bennert, V. N., Canalizo, G., et al. 2015, ApJS, 217, 26, doi: 10.1088/0067-0049/217/2/26
 Baskin, A., & Laor, A. 2005a, MNRAS, 358, 1043, doi: 10.1111/j.1365-2966.2005.08841.x
---. 2005b, MNRAS, 356, 1029, doi: 10.1111/j.1365-2966.2004.08525.x
+—. 2005b, MNRAS, 356, 1029, doi: 10.1111/j.1365-2966.2004.08525.x
 Bennert, V. N., Auger, M. W., Treu, T., Woo, J.-H., & Malkan, M. A. 2011, ApJ, 726, 59, doi: 10.1088/0004-637X/726/2/59
 Bennert, V. N., Treu, T., Auger, M. W., et al. 2015, ApJ, 809, 20, doi: 10.1088/0004-637X/809/1/20
 Bennert, V. N., Loveland, D., Donohue, E., et al. 2018, MNRAS, 481, 138, doi: 10.1093/mnras/sty2236
@@ -31,7 +31,7 @@ Dong, X.-B., Wang, J.-G., Ho, L. C., et al. 2011, ApJ, 736, 86, doi: 10.1088/000
 Fitzpatrick, E. L. 1999, PASP, 111, 63, doi: 10.1086/316293
 Garcia-Rissmann, A., Rodriguez-Ardila, A., Sigut, T. A. A., & Pradhan, A. K. 2012, ApJ, 751, 7, doi: 10.1088/0004-637X/751/1/7
 Greene, J. E., & Ho, L. C. 2005, ApJ, 630, 122, doi: 10.1086/431897
---. 2007, ApJ, 670, 92, doi: 10.1086/522082
+—. 2007, ApJ, 670, 92, doi: 10.1086/522082
 Grier, C. J., Pancoast, A., Barth, A. J., et al. 2017, ApJ, 849, 146, doi: 10.3847/1538-4357/aa901b
 Ho, L. C., Goldoni, P., Dong, X.-B., Greene, J. E., & Ponti, G. 2012, ApJ, 754, 11, doi: 10.1088/0004-637X/754/1/11
 Hu, C., Wang, J.-M., Ho, L. C., et al. 2008, ApJ, 687, 78, doi: 10.1086/591838
@@ -77,7 +77,7 @@ Shen, Y., & Kelly, B. C. 2012, ApJ, 746, 169, doi: 10.1088/0004-637X/746/2/169
 Shen, Y., & Liu, X. 2012, ApJ, 753, 125, doi: 10.1088/0004-637X/753/2/125
 Shen, Y., Richards, G. T., Strauss, M. A., et al. 2011, ApJS, 194, 45, doi: 10.1088/0067-0049/194/2/45
 Sigut, T. A. A., & Pradhan, A. K. 1998, ApJL, 499, L139, doi: 10.1086/311369
---. 2003, ApJS, 145, 15, doi: 10.1086/345498
+—. 2003, ApJS, 145, 15, doi: 10.1086/345498
 Storey, P. J., & Zeippen, C. J. 2000, MNRAS, 312, 813, doi: 10.1046/j.1365-8711.2000.03184.x
 Sulentic, J. W., Marziani, P., Zamanov, R., et al. 2002, ApJL, 566, L71, doi: 10.1086/339594
 Sulentic, J. W., Marziani, P., & Zamfir, S. 2009, NewAR, 53, 198, doi: 10.1016/j.newar.2009.06.001

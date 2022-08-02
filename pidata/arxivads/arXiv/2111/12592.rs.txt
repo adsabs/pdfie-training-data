@@ -19,7 +19,7 @@ Chaty, S. 2011, in Astronomical Society of the Pacific Conference Series, Vol. 4
 Coe, M. J., Buckley, D. A. H., Fabregat, J., et al. 1997, A&AS, 126, 237, doi: 10.1051/aas:1997260
 Coleiro, A., & Chaty, S. 2013, ApJ, 764, 185, doi: 10.1088/0004-637X/764/2/185
 Corbet, R. H. D. 1984, A&A, 141, 91
---. 1986, MNRAS, 220, 1047, doi: 10.1093/mnras/220.4.1047
+—. 1986, MNRAS, 220, 1047, doi: 10.1093/mnras/220.4.1047
 Corbet, R. H. D., Coley, J. B., & Krimm, H. A. 2017, ApJ, 846, 161, doi: 10.3847/1538-4357/aa8638
 Dame, T. M., & Thaddeus, P. 2011, ApJL, 734, L24, doi: 10.1088/2041-8205/734/1/L24
 Dhillon, V. S., Marsh, T. R., Littlefair, S. P., et al. 2009, MNRAS, 394, L112, doi: 10.1111/j.1745-3933.2009.00623.x
@@ -53,7 +53,7 @@ Okazaki, A. T., & Negueruela, I. 2001, A&A, 377, 161, doi: 10.1051/0004-6361:200
 Papovich, C., Shipley, H. V., Mehrtens, N., et al. 2016, ApJS, 224, 28, doi: 10.3847/0067-0049/224/2/28
 Press, W. H. 1978, Comments on Astrophysics, 7, 103
 Reig, P. 2007, MNRAS, 377, 867, doi: 10.1111/j.1365-2966.2007.11657.x
---. 2011, Ap&SS, 332, 1, doi: 10.1007/s10509-010-0575-8
+—. 2011, Ap&SS, 332, 1, doi: 10.1007/s10509-010-0575-8
 Reig, P., Blinov, D., Papadakis, I., Kylafis, N., & Tassis, K. 2014, MNRAS, 445, 4235, doi: 10.1093/mnras/stu2322
 Reig, P., Stevens, J. B., Coe, M. J., & Fabregat, J. 1998, MNRAS, 301, 42, doi: 10.1046/j.1365-8711.1998.01989.x
 Remillard, R. A., Loewenstein, M., Steiner, J. F., et al. 2021, arXiv e-prints, arXiv:2105.09901. https://arxiv.org/abs/2105.09901
@@ -65,7 +65,7 @@ Scargle, J. D. 1982, ApJ, 263, 835, doi: 10.1086/160554
 Schlafly, E. F., & Finkbeiner, D. P. 2011, ApJ, 737, 103, doi: 10.1088/0004-637X/737/2/103
 Smith, M. P., Nordsieck, K. H., Burgh, E. B., et al. 2006, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 6269, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, ed. I. S. McLean & M. Iye, 62692A, doi: 10.1117/12.672415
 Stetson, P. B. 1987, PASP, 99, 191, doi: 10.1086/131977
---. 1994, PASP, 106, 250, doi: 10.1086/133378
+—. 1994, PASP, 106, 250, doi: 10.1086/133378
 Titarchuk, L. 1994, ApJ, 434, 570, doi: 10.1086/174760
 Tody, D. 1986, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 627, Instrumentation in astronomy VI, ed. D. L. Crawford, 733, doi: 10.1117/12.968154
 Toy, V. L., Cenko, S. B., Silverman, J. M., et al. 2016, ApJ, 818, 79, doi: 10.3847/0004-637X/818/1/79

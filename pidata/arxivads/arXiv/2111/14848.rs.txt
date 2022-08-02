@@ -17,7 +17,7 @@ Chiang, Y.-K., Overzier, R., & Gebhardt, K. 2014, ApJL, 782, L3, doi: 10.1088/20
 Darvish, B., Mobasher, B., Martin, D. C., et al. 2017, ApJ, 837, 16, doi: 10.3847/1538-4357/837/1/16
 Darvish, B., Mobasher, B., Sobral, D., Scoville, N., & Aragon-Calvo, M. 2015, ApJ, 805, 121, doi: 10.1088/0004-637X/805/2/121
 Dimauro, P., Huertas-Company, M., Daddi, E., et al. 2018, MNRAS, 478, 5410, doi: 10.1093/mnras/sty1379
---. 2019, MNRAS, 489, 4135, doi: 10.1093/mnras/stz2421
+—. 2019, MNRAS, 489, 4135, doi: 10.1093/mnras/stz2421
 Dressler, A. 1980, ApJ, 236, 351, doi: 10.1086/157753
 Dutton, A. A., van den Bosch, F. C., Faber, S. M., et al. 2011, MNRAS, 410, 1660, doi: 10.1111/j.1365-2966.2010.17555.x
 Fernandez Lorenzo, M., Sulentic, J., Verdes-Montenegro, L., & Argudo-Fernandez, M. 2013, MNRAS, 434, 325, doi: 10.1093/mnras/stt1020
@@ -43,12 +43,12 @@ Momcheva, I. G., van Dokkum, P. G., van der Wel, A., et al. 2017, PASP, 129, 015
 Mowla, L., van der Wel, A., van Dokkum, P., & Miller, T. B. 2019a, ApJL, 872, L13, doi: 10.3847/2041-8213/ab0379
 Mowla, L. A., van Dokkum, P., Brammer, G. B., et al. 2019b, ApJ, 880, 57, doi: 10.3847/1538-4357/ab290a
 Muzzin, A., Marchesini, D., Stefanon, M., et al. 2013a, ApJ, 777, 18, doi: 10.1088/0004-637X/777/1/18
---. 2013b, ApJS, 206, 8, doi: 10.1088/0067-0049/206/1/8
+—. 2013b, ApJS, 206, 8, doi: 10.1088/0067-0049/206/1/8
 Nedkova, K. V., Hauler, B., Marchesini, D., et al. 2021, MNRAS, 506, 928, doi: 10.1093/mnras/stab1744
 Nelson, E. J., van Dokkum, P. G., Forster Schreiber, N. M., et al. 2016, ApJ, 828, 27, doi: 10.3847/0004-637X/828/1/27
 Norris, M. A., Kannappan, S. J., Forbes, D. A., et al. 2014, MNRAS, 443, 1151, doi: 10.1093/mnras/stu1186
 Peng, C. Y., Ho, L. C., Impey, C. D., & Rix, H.-W. 2002, AJ, 124, 266, doi: 10.1086/340952
---. 2010a, AJ, 139, 2097, doi: 10.1088/0004-6256/139/6/2097
+—. 2010a, AJ, 139, 2097, doi: 10.1088/0004-6256/139/6/2097
 Peng, Y.-j., Lilly, S. J., Kovac, K., et al. 2010b, ApJ, 721, 193, doi: 10.1088/0004-637X/721/1/193
 Postman, M., Franx, M., Cross, N. J. G., et al. 2005, ApJ, 623, 721, doi: 10.1086/428881
 Scoville, N., Aussel, H., Brusa, M., et al. 2007, ApJS, 172, 1, doi: 10.1086/516585
@@ -58,7 +58,7 @@ Shipley, H. V., Lange-Vagle, D., Marchesini, D., et al. 2018, ApJS, 235, 14, doi
 Skelton, R. E., Whitaker, K. E., Momcheva, I. G., et al. 2014, ApJS, 214, 24, doi: 10.1088/0067-0049/214/2/24
 Spitler, L. R., Labbe, I., Glazebrook, K., et al. 2012, ApJL, 748, L21, doi: 10.1088/2041-8205/748/2/L21
 Suess, K. A., Kriek, M., Price, S. H., & Barro, G. 2019a, ApJ, 877, 103, doi: 10.3847/1538-4357/ab1bda
---. 2019b, ApJL, 885, L22, doi: 10.3847/2041-8213/ab4db3
+—. 2019b, ApJL, 885, L22, doi: 10.3847/2041-8213/ab4db3
 Tal, T., Dekel, A., Oesch, P., et al. 2014, ApJ, 789, 164, doi: 10.1088/0004-637X/789/2/164
 The Dark Energy Survey Collaboration. 2005, arXiv e-prints, astro. https://arxiv.org/abs/astro-ph/0510346
 van der Wel, A., Bell, E. F., Haussler, B., et al. 2012, ApJS, 203, 24, doi: 10.1088/0067-0049/203/2/24

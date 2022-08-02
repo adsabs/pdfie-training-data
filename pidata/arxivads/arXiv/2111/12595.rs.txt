@@ -1,7 +1,7 @@
 Anderson, J. M., & Ulvestad, J. S. 2005, ApJ, 627, 674
 Baldi, R. D., Behar, E., Laor, A., & Horesh, A. 2015, MNRAS, 454, 4277
 Baldi, R. D., Williams, D. R. A., McHardy, I. M., et al. 2018, MNRAS, 476, 3478 (Paper I)
---. 2021, MNRAS, 500, 4749
+—. 2021, MNRAS, 500, 4749
 Barvainis, R., Lehar, J., Birkinshaw, M., Falcke, H., & Blundell, K. M. 2005, ApJ, 618, 108
 Baskin, A., & Laor, A. 2021, MNRAS, 508, 680
 Behar, E., Baldi, R. D., Laor, A., et al. 2015, MNRAS, 451, 517
