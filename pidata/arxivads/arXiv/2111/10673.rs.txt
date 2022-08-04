@@ -1,14 +1,14 @@
 Akgun T., Reisenegger A., Mastrano A., Marchant P., 2013, MNRAS, 433, 2445
 Alecian E., Wade G. A., Catala C., Grunhut J. H., Landstreet J. D., Bohm T., Folsom C. P., Marsden S., 2013, MNRAS, 429, 1027
-Auriere M., et al., 2007, A&A, 475, 1053
-Auriere M., et al., 2008, A&A, 491, 499
+Aurière M., et al., 2007, A&A, 475, 1053
+Aurière M., et al., 2008, A&A, 491, 499
 Baym G., Pethick C., Pikes D., 1969, Nature, 224, 674
 Bernstein I. B., Frieman E. A., Kruskal M. D., Kulsrud R. M., 1958, Proceedings of the Royal Society of London Series A, 244, 17
 Braginskii S. I., 1965, Reviews of Plasma Physics, 1, 205
 Braithwaite J., 2008, MNRAS, 386, 1947
 Braithwaite J., 2009, MNRAS, 397, 763
 Braithwaite J., 2012, MNRAS, 422, 619
-Braithwaite J., Nordlund A., 2006, A&A, 450, 1077
+Braithwaite J., Nordlund Å., 2006, A&A, 450, 1077
 Braithwaite J., Spruit H. C., 2004, Nature, 431, 819
 Chandrasekhar S., Fermi E., 1953, ApJ, 118, 116
 Cowling T. G., 1945, MNRAS, 105, 166
@@ -16,7 +16,7 @@ Donati J.-F., Landstreet J. D., 2009, ARA&A, 47, 333
 Ferrario L., Wickramasinghe D., Kawka A., 2020, Advances in Space Research, 66, 1025
 Fossati L., et al., 2016, A&A, 592, A84
 Grunhut J. H., et al., 2017, MNRAS, 465, 2432
-Gudiksen B. V., Nordlund A., 2005, ApJ, 618, 1020
+Gudiksen B. V., Nordlund Å., 2005, ApJ, 618, 1020
 Heyvaerts J., Priest E. R., 1983, A&A, 117, 220
 Johansen A., Klahr H., 2005, ApJ, 634, 1353
 Kaspi V. M., Beloborodov A. M., 2017, ARA&A, 55, 261

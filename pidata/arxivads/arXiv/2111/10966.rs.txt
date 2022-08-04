@@ -1,10 +1,10 @@
 D. H. Weinberg, M. J. Mortonson, D. J. Eisenstein, C. Hirata, A. G. Riess, and E. Rozo, Phys. Rep. 530, 87 (2013), 1201.2434.
 E. Komatsu, J. Dunkley, M. R. Nolta, C. L. Bennett, B. Gold, G. Hinshaw, N. Jarosik, D. Larson, M. Limon, L. Page, et al., Astrophys. J. Suppl. 180, 330 (2009), 0803.0547.
 Planck Collaboration, P. A. R. Ade, N. Aghanim, M. Arnaud, M. Ashdown, J. Aumont, C. Baccigalupi, A. J. Banday, R. B. Barreiro, J. G. Bartlett, et al., Astronomy & Astrophysics 594, A13 (2016), 1502.01589.
-K. S. Dawson, J.-P. Kneib, W. J. Percival, S. Alam, F. D. Albareti, S. F. Anderson, E. Armengaud, E. Aubourg, S. Bailey, J. E. Bautista, et al., The Astronomical J. 151, 44 (2016), 1508.04473.
+K. S. Dawson, J.-P. Kneib, W. J. Percival, S. Alam, F. D. Albareti, S. F. Anderson, E. Armengaud, É. Aubourg, S. Bailey, J. E. Bautista, et al., The Astronomical J. 151, 44 (2016), 1508.04473.
 S. Alam, M. Aubert, S. Avila, C. Balland, J. E. Bautista, M. A. Bershady, D. Bizyaev, M. R. Blanton, A. S. Bolton, J. Bovy, et al., Phys. Rev. D 103, 083533 (2021), 2007.08991.
 H. Aihara, N. Arimoto, R. Armstrong, S. Arnouts, N. A. Bahcall, S. Bickerton, J. Bosch, K. Bundy, P. L. Capak, J. H. H. Chan, et al., Publ. Astron. Soc. Japan 70, S4 (2018), 1704.05858.
-M. Takada, R. S. Ellis, M. Chiba, J. E. Greene, H. Aihara, N. Arimoto, K. Bundy, J. Cohen, O. Dore, G. Graves, et al., Publ. Astron. Soc. Japan 66, R1 (2014), 1206.0737.
+M. Takada, R. S. Ellis, M. Chiba, J. E. Greene, H. Aihara, N. Arimoto, K. Bundy, J. Cohen, O. Doré, G. Graves, et al., Publ. Astron. Soc. Japan 66, R1 (2014), 1206.0737.
 N. Kaiser, Astrophys. J. L. 284, L9 (1984).
 V. Desjacques, D. Jeong, and F. Schmidt, Phys. Rep. 733, 1 (2018), 1611.09787.
 U. Seljak, A. Makarov, R. Mandelbaum, C. M. Hirata, N. Padmanabhan, P. McDonald, M. R. Blanton, M. Tegmark, N. A. Bahcall, and J. Brinkmann, Phys. Rev. D 71, 043511 (2005), astro-ph/0406594.
@@ -14,23 +14,23 @@ M. Cacciato, O. Lahav, F. C. van den Bosch, H. Hoekstra, and A. Dekel, Monthly N
 C. Hikage, R. Mandelbaum, M. Takada, and D. N. Spergel, Mon. Not. Roy. Astron. Soc. 435, 2345 (2013), 1211.1009.
 S. More, H. Miyatake, R. Mandelbaum, M. Takada, D. N. Spergel, J. R. Brownstein, and D. P. Schneider, Astrophys. J. 806, 2 (2015), 1407.1856.
 E. Krause, T. F. Eifler, J. Zuntz, O. Friedrich, M. A. Troxel, S. Dodelson, J. Blazek, L. F. Secco, N. MacCrann, E. Baxter, et al., arXiv e-prints arXiv:1706.09359 (2017), 1706.09359.
-T. M. C. Abbott, F. B. Abdalla, A. Alarcon, J. Aleksic, S. Allam, S. Allen, A. Amara, J. Annis, J. Asorey, S. Avila, et al., Phys. Rev. D 98, 043526 (2018).
-E. van Uitert, B. Joachimi, S. Joudaki, A. Amon, C. Heymans, F. Kohlinger, M. Asgari, C. Blake, A. Choi, T. Erben, et al., Mon. Not. Roy. Astron. Soc. 476, 4662 (2018), 1706.05004.
-B. D. Wibking, D. H. Weinberg, A. N. Salcedo, H.-Y. Wu, S. Singh, S. Rodr iguez-Torres, L. H. Garrison, and D. J. Eisenstein, Mon. Not. Roy. Astron. Soc. 492, 2872 (2020), 1907.06293.
-A. Nicola, D. Alonso, J. Sanchez, A. Slosar, H. Awan, A. Broussard, J. Dunkley, E. Gawiser, Z. Gomes, R. Mandelbaum, et al., JCAP 2020, 044 (2020), 1912.08209.
+T. M. C. Abbott, F. B. Abdalla, A. Alarcon, J. Aleksić, S. Allam, S. Allen, A. Amara, J. Annis, J. Asorey, S. Avila, et al., Phys. Rev. D 98, 043526 (2018).
+E. van Uitert, B. Joachimi, S. Joudaki, A. Amon, C. Heymans, F. Köhlinger, M. Asgari, C. Blake, A. Choi, T. Erben, et al., Mon. Not. Roy. Astron. Soc. 476, 4662 (2018), 1706.05004.
+B. D. Wibking, D. H. Weinberg, A. N. Salcedo, H.-Y. Wu, S. Singh, S. Rodríguez-Torres, L. H. Garrison, and D. J. Eisenstein, Mon. Not. Roy. Astron. Soc. 492, 2872 (2020), 1907.06293.
+A. Nicola, D. Alonso, J. Sánchez, A. Slosar, H. Awan, A. Broussard, J. Dunkley, E. Gawiser, Z. Gomes, R. Mandelbaum, et al., JCAP 2020, 044 (2020), 1912.08209.
 H. Miyatake, S. Sugiyama, M. Takada, T. Nishimichi, M. Shirasaki, Y. Kobayashi, R. Mandelbaum, S. More, M. Oguri, K. Osato, et al., arXiv e-prints arXiv:2111.02419 (2021), 2111.02419.
 J. A. Peacock, S. Cole, P. Norberg, C. M. Baugh, J. Bland-Hawthorn, T. Bridges, R. D. Cannon, M. Colless, C. Collins, W. Couch, et al., Nature (London) 410, 169 (2001), astro-ph/0103143.
 M. Tegmark, M. R. Blanton, M. A. Strauss, F. Hoyle, D. Schlegel, R. Scoccimarro, M. S. Vogeley, D. H. Weinberg, I. Zehavi, A. Berlind, et al., Astrophys. J. 606, 702 (2004), astro-ph/0310725.
-N. Dalal, O. Dore, D. Huterer, and A. Shirokov, Physical Review D 77, 123514 (2008), 0710.4560.
+N. Dalal, O. Doré, D. Huterer, and A. Shirokov, Physical Review D 77, 123514 (2008), 0710.4560.
 R. Mandelbaum, C. M. Hirata, U. Seljak, J. Guzik, N. Padmanabhan, C. Blake, M. R. Blanton, R. Lupton, and J. Brinkmann, Mon. Not. Roy. Astron. Soc. 361, 1287 (2005), astro-ph/0501201.
 R. Mandelbaum, U. Seljak, G. Kauffmann, C. M. Hirata, and J. Brinkmann, MNRAS 368, 715 (2006), arXiv:astro-ph/0511164.
-T. Nishimichi, G. D'Amico, M. M. Ivanov, L. Senatore, M. Simonovic, M. Takada, M. Zaldarriaga, and P. Zhang, Phys. Rev. D 102, 123541 (2020), 2003.08277.
+T. Nishimichi, G. D'Amico, M. M. Ivanov, L. Senatore, M. Simonović, M. Takada, M. Zaldarriaga, and P. Zhang, Phys. Rev. D 102, 123541 (2020), 2003.08277.
 H. Aihara, R. Armstrong, S. Bickerton, J. Bosch, J. Coupon, H. Furusawa, Y. Hayashi, H. Ikeda, Y. Kamata, H. Karoji, et al., Publ. Astron. Soc. Japan 70, S8 (2018), 1702.08449.
 K. S. Dawson et al. (BOSS), Astron. J. 145, 10 (2013), 1208.0022.
 F. Bernardeau, S. Colombi, E. Gaztanaga, and R. Scoccimarro, Phys. Rep. 367, 1 (2002), arXiv:astro-ph/0112551.
 S. Sugiyama, M. Takada, Y. Kobayashi, H. Miyatake, M. Shirasaki, T. Nishimichi, and Y. Park, Phys. Rev. D 102, 083520 (2020), 2008.06873.
-S. Alam, F. D. Albareti, C. Allende Prieto, F. Anders, S. F. Anderson, T. Anderton, B. H. Andrews, E. Armengaud, E. Aubourg, S. Bailey, et al., Astrophys. J. Suppl. 219, 12 (2015), 1501.00963.
-K. S. Dawson, D. J. Schlegel, C. P. Ahn, S. F. Anderson, E. Aubourg, S. Bailey, R. H. Barkhouser, J. E. Bautista, A. Beifiori, A. A. Berlind, et al., The Astronomical J. 145, 10 (2013), 1208.0022.
+S. Alam, F. D. Albareti, C. Allende Prieto, F. Anders, S. F. Anderson, T. Anderton, B. H. Andrews, E. Armengaud, É. Aubourg, S. Bailey, et al., Astrophys. J. Suppl. 219, 12 (2015), 1501.00963.
+K. S. Dawson, D. J. Schlegel, C. P. Ahn, S. F. Anderson, É. Aubourg, S. Bailey, R. H. Barkhouser, J. E. Bautista, A. Beifiori, A. A. Berlind, et al., The Astronomical J. 145, 10 (2013), 1208.0022.
 H. Miyatake, S. More, R. Mandelbaum, M. Takada, D. N. Spergel, J.-P. Kneib, D. P. Schneider, J. Brinkmann, and J. R. Brownstein, Astrophys. J. 806, 1 (2015), 1311.1480.
 R. Mandelbaum, H. Miyatake, T. Hamana, M. Oguri, M. Simet, R. Armstrong, J. Bosch, R. Murata, F. Lanusse, A. Leauthaud, et al., Publ. Astron. Soc. Japan 70, S25 (2018), 1705.06745.
 M. Tanaka, J. Coupon, B.-C. Hsieh, S. Mineo, A. J. Nishizawa, J. Speagle, H. Furusawa, S. Miyazaki, and H. Murayama, Publ. Astron. Soc. Japan 70, S9 (2018), 1704.05988.
@@ -43,7 +43,7 @@ H. Miyatake, Y. Kobayashi, M. Takada, T. Nishimichi, M. Shirasaki, S. Sugiyama, 
 R. Takahashi, M. Sato, T. Nishimichi, A. Taruya, and M. Oguri, Astrophys. J. 761, 152 (2012), 1208.2701.
 R. E. Smith, J. A. Peacock, A. Jenkins, S. D. M. White, C. S. Frenk, F. R. Pearce, P. A. Thomas, G. Efstathiou, and H. M. P. Couchman, Mon. Not. Roy. Astron. Soc. 341, 1311 (2003), astro-ph/0207664.
 S. Unruh, P. Schneider, S. Hilbert, P. Simon, S. Martin, and J. C. Puertas, Astronomy & Astrophysics 638, A96 (2020), 1910.06400.
-M. von Wietersheim-Kramsta, B. Joachimi, J. L. van den Busch, C. Heymans, H. Hildebrandt, M. Asgari, T. Troster, and A. H. Wright, arXiv e-prints arXiv:2101.05261 (2021), 2101.05261.
+M. von Wietersheim-Kramsta, B. Joachimi, J. L. van den Busch, C. Heymans, H. Hildebrandt, M. Asgari, T. Tröster, and A. H. Wright, arXiv e-prints arXiv:2101.05261 (2021), 2101.05261.
 J. Lesgourgues, ArXiv e-prints (2011), 1104.2932.
 R. E. Smith, R. Scoccimarro, and R. K. Sheth, Phys. Rev. D 77, 043525 (2008), astro-ph/0703620.
 A. J. S. Hamilton, Mon. Not. Roy. Astron. Soc. 312, 257 (2000), astro-ph/9905191.
@@ -52,7 +52,7 @@ R. Mandelbaum, F. Lanusse, A. Leauthaud, R. Armstrong, M. Simet, H. Miyatake, J.
 N. Aghanim et al. (Planck), Astron. Astrophys. 641, A6 (2020), 1807.06209.
 E. Aver, K. A. Olive, and E. D. Skillman, JCAP 07, 011 (2015), 1503.08146.
 R. J. Cooke, M. Pettini, and C. C. Steidel, Astrophys. J. 855, 102 (2018), 1710.11129.
-N. Schoneberg, J. Lesgourgues, and D. C. Hooper, JCAP 10, 029 (2019), 1907.11594.
+N. Schöneberg, J. Lesgourgues, and D. C. Hooper, JCAP 10, 029 (2019), 1907.11594.
 C. Hikage et al. (HSC), Publ. Astron. Soc. Jap. 71, Publications of the Astronomical Society of Japan, Volume 71, Issue 2, April 2019, 43, https://doi.org/10.1093/pasj/psz010 (2019), 1809.09148.
 F. Feroz and M. P. Hobson, Mon. Not. Roy. Astron. Soc. 384, 449 (2008), 0704.3704.
 F. Feroz, M. P. Hobson, and M. Bridges, Mon. Not. Roy. Astron. Soc. 398, 1601 (2009), 0809.3437.
@@ -60,11 +60,11 @@ F. Feroz, M. P. Hobson, E. Cameron, and A. N. Pettitt, Open J. Astrophys. 2, 10 
 B. Audren, J. Lesgourgues, K. Benabed, and S. Prunet, JCAP 02, 001 (2013), 1210.7183.
 T. Brinckmann and J. Lesgourgues, Phys. Dark Univ. 24, 100260 (2019), 1804.07261.
 A. Lewis (2019), 1910.13970.
-M. M. Ivanov, M. Simonovic, and M. Zaldarriaga, JCAP 2020, 042 (2020), 1909.05277.
+M. M. Ivanov, M. Simonović, and M. Zaldarriaga, JCAP 2020, 042 (2020), 1909.05277.
 M. Raveri, G. Zacharegkas, and W. Hu, Phys. Rev. D 101, 103527 (2020), 1912.04880.
 T. Nishimichi, M. Takada, R. Takahashi, K. Osato, M. Shirasaki, T. Oogi, H. Miyatake, M. Oguri, R. Murata, Y. Kobayashi, et al., Astrophys. J. 884, 29 (2019), 1811.09504.
 M. Shirasaki, T. Hamana, M. Takada, R. Takahashi, and H. Miyatake, Mon. Not. Roy. Astron. Soc. 486, 52 (2019), 1901.09488.
-C. Heymans, T. Troster, M. Asgari, C. Blake, H. Hildebrandt, B. Joachimi, K. Kuijken, C.-A. Lin, A. G. Sanchez, J. L. van den Busch, et al., Astronomy & Astrophysics 646, A140 (2021), 2007.15632.
+C. Heymans, T. Tröster, M. Asgari, C. Blake, H. Hildebrandt, B. Joachimi, K. Kuijken, C.-A. Lin, A. G. Sánchez, J. L. van den Busch, et al., Astronomy & Astrophysics 646, A140 (2021), 2007.15632.
 B. Hadzhiyska, S. Bose, D. Eisenstein, and L. Hernquist, Mon. Not. Roy. Astron. Soc. 501, 1603 (2021), 2008.04913.
 X. Li, H. Miyatake, W. Luo, S. More, M. Oguri, T. Hamana, R. Mandelbaum, M. Shirasaki, M. Takada, R. Armstrong, et al., arXiv e-prints arXiv:2107.00136 (2021), 2107.00136.
 M. Shirasaki and M. Takada, Mon. Not. Roy. Astron. Soc. 478, 4277 (2018), 1802.09696.

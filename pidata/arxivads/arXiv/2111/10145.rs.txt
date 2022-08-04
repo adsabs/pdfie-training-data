@@ -1,4 +1,4 @@
-Alcala J. M., et al., 2017, A&A, 600, A20
+Alcalá J. M., et al., 2017, A&A, 600, A20
 Anderson J. M., Li Z.-Y., Krasnopolsky R., Blandford R. D., 2003, ApJ, 590, L107
 Ansdell M., et al., 2016, ApJ, 828, 46
 Ansdell M., Williams J. P., Manara C. F., Miotello A., Facchini S., van der Marel N., Testi L., van Dishoeck E. F., 2017, AJ, 153, 240
@@ -14,7 +14,7 @@ Bai X.-N., Stone J. M., 2017, ApJ, 836, 46
 Balbus S. A., Hawley J. F., 1991, ApJ, 376, 214
 Barenfeld S. A., Carpenter J. M., Ricci L., Isella A., 2016, ApJ, 827, 142
 Barenfeld S. A., Carpenter J. M., Sargent A. I., Isella A., Ricci L., 2017, ApJ, 851, 85
-Bethune W., Lesur G., Ferreira J., 2017, A&A, 600, A75
+Béthune W., Lesur G., Ferreira J., 2017, A&A, 600, A75
 Birnstiel T., Klahr H., Ercolano B., 2012, A&A, 539, A148
 Bitsch B., Lambrechts M., Johansen A., 2015, A&A, 582, A112
 Bjerkeli P., van der Wiel M. H. D., Harsono D., Ramsey J. P., Jorgensen J. K., 2016, Nature, 540, 406
@@ -47,10 +47,10 @@ Lee C.-F., Tabone B., Cabrit S., Codella C., Podio L., Ferreira J., Jacquemin-Id
 Lesur G., 2020, arXiv e-prints, p. arXiv:2007.15967
 Lesur G. R. J., 2021, A&A, 650, A35
 Lodato G., Scardoni C. E., Manara C. F., Testi L., 2017, MNRAS, 472, 4700
-Louvet F., Dougados C., Cabrit S., Mardones D., Menard F., Tabone B., Pinte C., Dent W. R. F., 2018, A&A, 618, A120
+Louvet F., Dougados C., Cabrit S., Mardones D., Ménard F., Tabone B., Pinte C., Dent W. R. F., 2018, A&A, 618, A120
 Lubow S. H., Papaloizou J. C. B., Pringle J. E., 1994, MNRAS, 267, 235
 Lynden-Bell D., Pringle J. E., 1974, MNRAS, 168, 603
-Manara C. F., Testi L., Natta A., Alcala J. M., 2015, A&A, 579, A66
+Manara C. F., Testi L., Natta A., Alcalá J. M., 2015, A&A, 579, A66
 Manara C. F., Fedele D., Herczeg G. J., Teixeira P. S., 2016a, A&A, 585, A136
 Manara C. F., et al., 2016b, A&A, 591, L3
 Manara C. F., et al., 2017, A&A, 604, A127
@@ -60,14 +60,14 @@ Mann R. K., et al., 2014, ApJ, 784, 82
 Morbidelli A., Raymond S. N., 2016, Journal of Geophysical Research (Planets), 121, 1962
 Mulders G. D., Pascucci I., Manara C. F., Testi L., Herczeg G. J., Henning T., Mohanty S., Lodato G., 2017, ApJ, 847, 31
 Nelson R. P., Gressel O., Umurhan O. M., 2013, MNRAS, 435, 2610
-Nisini B., Antoniucci S., Alcala J. M., Giannini T., Manara C. F., Natta A., Fedele D., Biazzo K., 2018, A&A, 609, A87
+Nisini B., Antoniucci S., Alcalá J. M., Giannini T., Manara C. F., Natta A., Fedele D., Biazzo K., 2018, A&A, 609, A87
 Okuzumi S., Takeuchi T., Muto T., 2014, ApJ, 785, 127
 Ormel C. W., Cuzzi J. N., 2007, A&A, 466, 413
 Ormel C. W., Liu B., 2018, A&A, 615, A178
 Pascucci I., et al., 2016, ApJ, 831, 125
 Pascucci I., et al., 2020, ApJ, 903, 78
 Pesenti N., Dougados C., Cabrit S., Ferreira J., Casse F., Garcia P., O'Brien D., 2004, A&A, 416, L9
-Powell D., Murray-Clay R., Perez L. M., Schlichting H. E., Rosenthal M., 2019, ApJ, 878, 116
+Powell D., Murray-Clay R., Pérez L. M., Schlichting H. E., Rosenthal M., 2019, ApJ, 878, 116
 Pringle J. E., 1981, ARA&A, 19, 137
 Rosotti G. P., Clarke C. J., Manara C. F., Facchini S., 2017, MNRAS, 468, 1631
 Rosotti G. P., Booth R. A., Tazzari M., Clarke C., Lodato G., Testi L., 2019a, MNRAS, 486, L63
@@ -89,7 +89,7 @@ Tobin J. J., et al., 2020, ApJ, 890, 130
 Trapman L., Facchini S., Hogerheijde M. R., van Dishoeck E. F., Bruderer S., 2019, A&A, 629, A79
 Trapman L., Rosotti G., Bosman A. D., Hogerheijde M. R., van Dishoeck E. F., 2020, A&A, 640, A5
 Turner N. J., Fromang S., Gammie C., Klahr H., Lesur G., Wardle M., Bai X. N., 2014, in Beuther H., Klessen R. S., Dullemond C. P., Henning T., eds, Protostars and Planets VI. p. 411 (arXiv:1401.7306), doi:10.2458/azu_uapress_9780816531240-ch018
-Tychoniec L., et al., 2020, A&A, 640, A19
+Tychoniec Ł., et al., 2020, A&A, 640, A19
 Wang L., Bai X.-N., Goodman J., 2019, ApJ, 874, 90
 Wolk S. J., Walter F. M., 1996, AJ, 111, 2066
 Zhang S., et al., 2018, ApJ, 869, L47

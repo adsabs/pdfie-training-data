@@ -1,7 +1,7 @@
 Ahn, C. P., Alexandroff, R., Allende Prieto, C., et al. 2012, ApJS, 203, 21
 Antonucci, R. R. J. & Miller, J. S. 1985, ApJ, 297, 621
 Arnaud, K. A. 1996, in Astronomical Society of the Pacific Conference Series, Vol. 101, Astronomical Data Analysis Software and Systems V, ed. G. H. Jacoby & J. Barnes, 17
-Balokovic, M., Brightman, M., Harrison, F. A., et al. 2018, ApJ, 854, 42
+Baloković, M., Brightman, M., Harrison, F. A., et al. 2018, ApJ, 854, 42
 Blandford, R. D. & Znajek, R. L. 1977, MNRAS, 179, 433
 Braatz, J. A. & Gugliucci, N. E. 2008, ApJ, 678, 96
 Braatz, J. A., Reid, M. J., Humphreys, E. M. L., et al. 2010, ApJ, 718, 657
@@ -43,12 +43,12 @@ Lense, J. & Thirring, H. 1918, Physikalische Zeitschrift, 19, 156
 Li, L.-X., Zimmerman, E. R., Narayan, R., & McClintock, J. E. 2005, ApJS, 157, 335
 Lusso, E., Comastri, A., Simmons, B. D., et al. 2012, MNRAS, 425, 623
 Magorrian, J., Tremaine, S., Richstone, D., et al. 1998, AJ, 115, 2285
-Masini, A., Comastri, A., Balokovic, M., et al. 2016, A&A, 589, A59
+Masini, A., Comastri, A., Baloković, M., et al. 2016, A&A, 589, A59
 Masini, A., Comastri, A., Hickox, R. C., et al. 2019, ApJ, 882, 83
 Merloni, A., Bongiorno, A., Brusa, M., et al. 2014, MNRAS, 437, 3550
 Miyoshi, M., Moran, J., Herrnstein, J., et al. 1995, Nature, 373, 127
 Netzer, H. 2019, MNRAS, 488, 5185
-Penna, R. F., S adowski, A., Kulkarni, A. K., & Narayan, R. 2013, MNRAS, 428, 2255
+Penna, R. F., Sądowski, A., Kulkarni, A. K., & Narayan, R. 2013, MNRAS, 428, 2255
 Reid, M. J., Braatz, J. A., Condon, J. J., et al. 2009, ApJ, 695, 287
 Reid, M. J., Braatz, J. A., Condon, J. J., et al. 2013, ApJ, 767, 154
 Reines, A. E. & Volonteri, M. 2015, ApJ, 813, 82

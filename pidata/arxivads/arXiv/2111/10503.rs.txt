@@ -6,7 +6,7 @@ Chen, P. F. 2011, Living Reviews in Solar Physics, 8, 1, doi: 10.12942/lrsp-2011
 Cheng, X., Zhang, J., Liu, Y., & Ding, M. D. 2011, ApJL, 732, L25, doi: 10.1088/2041-8205/732/2/L25
 Chi, Y., Shen, C., Wang, Y., et al. 2016, SoPh, 291, 2419, doi: 10.1007/s11207-016-0971-5
 Cranmer, S. R., van Ballegooijen, A. A., & Edgar, R. J. 2007, ApJS, 171, 520, doi: 10.1086/518001
-Endeve, E., Lie-Svendsen, O., Hansteen, V. H., & Leer, E. 2005, ApJ, 624, 402, doi: 10.1086/428938
+Endeve, E., Lie-Svendsen, Ø., Hansteen, V. H., & Leer, E. 2005, ApJ, 624, 402, doi: 10.1086/428938
 Feldman, U., Landi, E., & Laming, J. M. 2005, ApJ, 619, 1142, doi: 10.1086/426539
 Fisk, L. A. 2003, Journal of Geophysical Research (Space Physics), 108, 1157, doi: 10.1029/2002JA009284
 Fisk, L. A., Schwadron, N. A., & Zurbuchen, T. H. 1999, J. Geophys. Res., 104, 19765, doi: 10.1029/1999JA900256
@@ -23,7 +23,7 @@ Jian, L. K., Russell, C. T., Luhmann, J. G., & Galvin, A. B. 2018, ApJ, 855, 114
 Jiang, C., Feng, X., Liu, R., et al. 2021, Nature Astronomy, doi: 10.1038/s41550-021-01414-z
 Kasper, J. C., Stevens, M. L., Korreck, K. E., et al. 2012, ApJ, 745, 162, doi: 10.1088/0004-637X/745/2/162
 Kasper, J. C., Stevens, M. L., Lazarus, A. J., Steinberg, J. T., & Ogilvie, K. W. 2007, ApJ, 660, 901, doi: 10.1086/510842
-Killie, M. A., Lie-Svendsen, O., & Leer, E. 2005, ApJL, 632, L155, doi: 10.1086/497827
+Killie, M. A., Lie-Svendsen, Ø., & Leer, E. 2005, ApJL, 632, L155, doi: 10.1086/497827
 Laming, J. M. 2004, ApJ, 614, 1063, doi: 10.1086/423780
 —. 2015, Living Reviews in Solar Physics, 12, 2, doi: 10.1007/lrsp-2015-2
 Lepri, S. T., & Zurbuchen, T. H. 2004, Journal of Geophysical Research (Space Physics), 109, A01112, doi: 10.1029/2003JA009954

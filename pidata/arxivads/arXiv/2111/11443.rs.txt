@@ -1,73 +1,73 @@
-Francesco Benini and Alberto Zaffaroni, "A topologically twisted index for three-dimensional supersymmetric theories," JHEP 07, 127 (2015), arXiv:1504.03698 [hep-th]
-Francesco Benini, Kiril Hristov, and Alberto Zaffaroni, "Black hole microstates in AdS4 from supersymmetric localization," JHEP 05, 054 (2016), arXiv:1511.04085 [hep-th]
-Geoffrey Penington, "Entanglement Wedge Reconstruction and the Information Paradox," JHEP 09, 002 (2020), arXiv:1905.08255 [hep-th]
-Ahmed Almheiri, Netta Engelhardt, Donald Marolf, and Henry Maxfield, "The entropy of bulk quantum fields and the entanglement wedge of an evaporating black hole," JHEP 12, 063 (2019), arXiv:1905.08762 [hep-th]
-Ahmed Almheiri, Raghu Mahajan, Juan Maldacena, and Ying Zhao, "The Page curve of Hawking radiation from semiclassical geometry," JHEP 03, 149 (2020), arXiv:1908.10996 [hep-th]
-Ahmed Almheiri, Raghu Mahajan, and Juan Maldacena, "Islands outside the horizon," (2019), arXiv:1910.11077 [hep-th]
-Moshe Rozali, James Sully, Mark Van Raamsdonk, Christopher Waddell, and David Wakeham, "Information radiation in BCFT models of black holes," JHEP 05, 004 (2020), arXiv:1910.12836 [hep-th]
-Ahmed Almheiri, Raghu Mahajan, and Jorge E. Santos, "Entanglement islands in higher dimensions," SciPost Phys. 9, 001 (2020), arXiv:1911.09666 [hep-th]
-Ahmed Almheiri, Thomas Hartman, Juan Maldacena, Edgar Shaghoulian, and Amirhossein Tajdini, "Replica Wormholes and the Entropy of Hawking Radiation," JHEP 05, 013 (2020), arXiv:1911.12333 [hep-th]
-Geoff Penington, Stephen H. Shenker, Douglas Stanford, and Zhenbin Yang, "Replica wormholes and the black hole interior," (2019), arXiv:1911.11977 [hep-th]
-Netta Engelhardt and Aron C. Wall, "Quantum Extremal Surfaces: Holographic Entanglement Entropy beyond the Classical Regime," JHEP 01, 073 (2015), arXiv:1408.3203 [hep-th]
-Thomas Faulkner, Aitor Lewkowycz, and Juan Maldacena, "Quantum corrections to holographic entanglement entropy," JHEP 11, 074 (2013), arXiv:1307.2892 [hep-th]
-Alberto Zaffaroni, "AdS black holes, holography and localization," Living Rev. Rel. 23, 2 (2020), arXiv:1902.07176 [hep-th]
-Ahmed Almheiri, Thomas Hartman, Juan Maldacena, Edgar Shaghoulian, and Amirhossein Tajdini, "The entropy of Hawking radiation," Rev. Mod. Phys. 93, 035002 (2021), arXiv:2006.06872 [hep-th]
-Suvrat Raju, "Lessons from the Information Paradox," (2020), arXiv:2012.05770 [hep-th]
-Andreas Karch and Lisa Randall, "Open and closed string interpretation of SUSY CFT's on branes with boundaries," JHEP 06, 063 (2001), arXiv:hep-th/0105132
-Andreas Karch and Lisa Randall, "Locally localized gravity," JHEP 05, 008 (2001), arXiv:hep-th/0011156
-Tadashi Takayanagi, "Holographic Dual of BCFT," Phys. Rev. Lett. 107, 101602 (2011), arXiv:1105.5165 [hep-th]
-Mitsutoshi Fujita, Tadashi Takayanagi, and Erik Tonni, "Aspects of AdS/BCFT," JHEP 11, 043 (2011), arXiv:1108.5152 [hep-th]
-Hao Geng and Andreas Karch, "Massive islands," JHEP 09, 121 (2020), arXiv:2006.02438 [hep-th]
-Hao Geng, Andreas Karch, Carlos Perez-Pardavila, Suvrat Raju, Lisa Randall, Marcos Riojas, and Sanjit Shashi, "Information Transfer with a Gravitating Bath," (2020), arXiv:2012.04671 [hep-th]
-Christoph F. Uhlemann, "Islands and Page curves in 4d from Type IIB," (2021), arXiv:2105.00008 [hep-th]
-Hao Geng, Andreas Karch, Carlos Perez-Pardavila, Suvrat Raju, Lisa Randall, Marcos Riojas, and Sanjit Shashi, "Inconsistency of Islands in Theories with Long-Range Gravity," (2021), arXiv:2107.03390 [hep-th]
-Alok Laddha, Siddharth G. Prabhu, Suvrat Raju, and Pushkal Shrivastava, "The Holographic Nature of Null Infinity," SciPost Phys. 10, 041 (2021), arXiv:2002.02448 [hep-th]
-Suvrat Raju, "Failure of the split property in gravity and the information paradox," (2021), arXiv:2110.05470 [hep-th]
-Juan Martin Maldacena and Carlos Nunez, "Supergravity description of field theories on curved manifolds and a no go theorem," Int. J. Mod. Phys. A 16, 822-855 (2001), arXiv:hep-th/0007018
-Ibrahim Akal, Yuya Kusuki, Tadashi Takayanagi, and Zixia Wei, "Codimension two holography for wedges," Phys. Rev. D 102, 126007 (2020), arXiv:2007.06800 [hep-th]
-Hao Geng, Severin Lust, Rashmish K. Mishra, and David Wakeham, "Holographic BCFTs and Communicating Black Holes," jhep 08, 003 (2021), arXiv:2104.07039 [hep-th]
-Thomas Hartman and Juan Maldacena, "Time Evolution of Entanglement Entropy from Black Hole Interiors," JHEP 05, 014 (2013), arXiv:1303.1080 [hep-th]
-C. Robin Graham and Andreas Karch, "Minimal area submanifolds in AdS x compact," JHEP 04, 168 (2014), arXiv:1401.7692 [hep-th]
-Sergei Gukov, Emil Martinec, Gregory W. Moore, and Andrew Strominger, "The Search for a holographic dual to AdS(3) x S**3 x S**3 x S**1," Adv. Theor. Math. Phys. 9, 435-525 (2005), arXiv:hep-th/0403090
-Lorenz Eberhardt, Matthias R. Gaberdiel, and Wei Li, "A holographic dual for string theory on AdS3 S3S3S1," JHEP 08, 111 (2017), arXiv:1707.02705 [hep-th]
-Vijay Balasubramanian, Borun D. Chowdhury, Bartlomiej Czech, and Jan de Boer, "Entwinement and the emergence of spacetime," JHEP 01, 048 (2015), arXiv:1406.5859 [hep-th]
-Vijay Balasubramanian, Albion Lawrence, Andrew Rolph, and Simon Ross, "Entanglement shadows in LLM geometries," JHEP 11, 159 (2017), arXiv:1704.03448 [hep-th]
-Ali Mollabashi, Noburo Shiba, and Tadashi Takayanagi, "Entanglement between Two Interacting CFTs and Generalized Holographic Entanglement Entropy," JHEP 04, 185 (2014), arXiv:1403.1393 [hep-th]
-Andreas Karch and Christoph F. Uhlemann, "Holographic entanglement entropy and the internal space," Phys. Rev. D 91, 086005 (2015), arXiv:1501.00003 [hep-th]
-Rong-Xin Miao, "Codimension-n Holography for the Cones," (2021), arXiv:2101.10031 [hep-th]
-Pablo Bueno and William Witczak-Krempa, "Holographic torus entanglement and its renormalization group flow," Phys. Rev. D 95, 066007 (2017), arXiv:1611.01846 [hep-th]
-Eric D'Hoker, John Estes, and Michael Gutperle, "Exact half-BPS Type IIB interface solutions. I. Local solution and supersymmetric Janus," JHEP 06, 021 (2007), arXiv:0705.0022 [hep-th]
-Eric D'Hoker, John Estes, and Michael Gutperle, "Exact half-BPS Type IIB interface solutions. II. Flux solutions and multi-Janus," JHEP 06, 022 (2007), arXiv:0705.0024 [hep-th]
-Ofer Aharony, Leon Berdichevsky, Micha Berkooz, and Itamar Shamir, "Near-horizon solutions for D3-branes ending on 5-branes," Phys. Rev. D 84, 126003 (2011), arXiv:1106.1870 [hep-th]
-Benjamin Assel, Costas Bachas, John Estes, and Jaume Gomis, "Holographic Duals of D=3 N=4 Superconformal Field Theories," JHEP 08, 087 (2011), arXiv:1106.4253 [hep-th]
-Lorenzo Coccia and Christoph F. Uhlemann, "On the planar limit of 3d T [SU(N)]," (2020), 10.1007/JHEP06(2021)038, arXiv:2011.10050 [hep-th]
-Constantin Bachas and Ioannis Lavdas, "Quantum Gates to other Universes," Fortsch. Phys. 66, 1700096 (2018), arXiv:1711.11372 [hep-th]
-Mark Van Raamsdonk and Chris Waddell, "Finding AdS5 x S5 in 2+1 dimensional SCFT physics," (2021), arXiv:2109.04479 [hep-th]
-Marika Taylor, "Generalized entanglement entropy," JHEP 07, 040 (2016), arXiv:1507.06410 [hep-th]
-Benjamin Assel, Costas Bachas, John Estes, and Jaume Gomis, "IIB Duals of D=3 N=4 Circular Quivers," JHEP 12, 044 (2012), arXiv:1210.2590 [hep-th]
-Chethan Krishnan, Vaishnavi Patil, and Jude Pereira, "Page Curve and the Information Paradox in Flat Space," (2020), arXiv:2005.02993 [hep-th]
-Chethan Krishnan, "Critical Islands," JHEP 01, 179 (2021), arXiv:2007.06551 [hep-th]
-Kausik Ghosh and Chethan Krishnan, "Dirichlet Baths and the Not-so-Fine-Grained Page Curve," (2021), arXiv:2103.17253 [hep-th]
-Justin R. David, Gautam Mandal, and Spenta R. Wadia, "Microscopic formulation of black holes in string theory," Phys. Rept. 369, 549-686 (2002), arXiv:hep-th/0203048
-Benjamin Assel and Alessandro Tomasiello, "Holographic duals of 3d S-fold CFTs," JHEP 06, 019 (2018), arXiv:1804.06419 [hep-th]
-Nikolay Bobev, Fridhrik Freyr Gautason, Krzysztof Pilch, Minwoo Suh, and Jesse Van Muiden, "Janus and J-fold Solutions from Sasaki-Einstein Manifolds," Phys. Rev. D 100, 081901 (2019), arXiv:1907.11132 [hep-th]
-Elena Caceres, Arnab Kundu, Ayan K. Patra, and Sanjit Shashi, "Page Curves and Bath Deformations," (2021), arXiv:2107.00022 [hep-th]
-Francesco Benini and Nikolay Bobev, "Two-dimensional SCFTs from wrapped branes and c-extremization," JHEP 06, 005 (2013), arXiv:1302.4451 [hep-th]
-Ahmed Almuhairi and Joseph Polchinski, "Magnetic AdS x R2: Supersymmetry and stability," (2011), arXiv:1108.1213 [hep-th]
-Aristomenis Donos, Jerome P. Gauntlett, and Christiana Pantelidou, "Magnetic and Electric AdS Solutions in String- and M-Theory," Class. Quant. Grav. 29, 194006 (2012), arXiv:1112.4195 [hep-th]
-Francesco Benini, Nikolay Bobev, and P. Marcos Crichigno, "Two-dimensional SCFTs from D3-branes," JHEP 07, 020 (2016), arXiv:1511.09462 [hep-th]
-Ibrahima Bah, Christopher Beem, Nikolay Bobev, and Brian Wecht, "Four-Dimensional SCFTs from M5-Branes," JHEP 06, 005 (2012), arXiv:1203.0303 [hep-th]
-Jerome P. Gauntlett, Nakwoo Kim, Stathis Pakis, and Daniel Waldram, "Membranes wrapped on holomorphic curves," Phys. Rev. D 65, 026003 (2002), arXiv:hep-th/0105250
-Jerome P. Gauntlett and Nakwoo Kim, "M five-branes wrapped on supersymmetric cycles. 2." Phys. Rev. D 65, 086003 (2002), arXiv:hep-th/0109039
-Carlos Nunez, I. Y. Park, Martin Schvellinger, and Tuan A. Tran, "Supergravity duals of gauge theories from F(4) gauged supergravity in six-dimensions," JHEP 04, 025 (2001), arXiv:hep-th/0103080
-Michihiro Naka, "Various wrapped branes from gauged supergravities," (2002), arXiv:hep-th/0206141
-Andreas Brandhuber and Yaron Oz, "The D-4 - D-8 brane system and five-dimensional fixed points," Phys. Lett. B 460, 307-312 (1999), arXiv:hep-th/9905148
-Eric D'Hoker, Michael Gutperle, Andreas Karch, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity I: Local solutions," JHEP 08, 046 (2016), arXiv:1606.01254 [hep-th]
-Eric D'Hoker, Michael Gutperle, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity II: Global solutions and five-brane webs," JHEP 05, 131 (2017), arXiv:1703.08186 [hep-th]
-Eric D'Hoker, Michael Gutperle, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity III: Global solutions with seven-branes," JHEP 11, 200 (2017), arXiv:1706.00433 [hep-th]
-Junho Hong, James T. Liu, and Daniel R. Mayerson, "Gauged Six-Dimensional Supergravity from Warped IIB Reductions," JHEP 09, 140 (2018), arXiv:1808.04301 [hep-th]
-Emanuel Malek, Henning Samtleben, and Valent i Vall Camell, "Supersymmetric AdS7 and AdS6 vacua and their minimal consistent truncations from exceptional field theory," Phys. Lett. B 786, 171-179 (2018), arXiv:1808.05597 [hep-th]
-Andrea Legramandi and Carlos Nunez, "Holographic description of SCFT5 compactifications," (2021), arXiv:2109.11554 [hep-th]
-Ibrahima Bah, Achilleas Passias, and Peter Weck, "Holographic duals of five-dimensional SCFTs on a Riemann surface," JHEP 01, 058 (2019), arXiv:1807.06031 [hep-th]
-Tarek Anous, Joanna L. Karczmarek, Eric Mintun, Mark Van Raamsdonk, and Benson Way, "Areas and entropies in BFSS/gravity duality," SciPost Phys. 8, 057 (2020), arXiv:1911.11145 [hep-th]
-G. Bruno De Luca, Nicolo De Ponti, Andrea Mondino, and Alessandro Tomasiello, "Cheeger bounds on spin-two fields," (2021), arXiv:2109.11560 [hep-th]
+Francesco Benini and Alberto Zaffaroni, "A topologically twisted index for three-dimensional supersymmetric theories," JHEP 07, 127 (2015), arXiv:1504.03698 [hep-th].
+Francesco Benini, Kiril Hristov, and Alberto Zaffaroni, "Black hole microstates in AdS4 from supersymmetric localization," JHEP 05, 054 (2016), arXiv:1511.04085 [hep-th].
+Geoffrey Penington, "Entanglement Wedge Reconstruction and the Information Paradox," JHEP 09, 002 (2020), arXiv:1905.08255 [hep-th].
+Ahmed Almheiri, Netta Engelhardt, Donald Marolf, and Henry Maxfield, "The entropy of bulk quantum fields and the entanglement wedge of an evaporating black hole," JHEP 12, 063 (2019), arXiv:1905.08762 [hep-th].
+Ahmed Almheiri, Raghu Mahajan, Juan Maldacena, and Ying Zhao, "The Page curve of Hawking radiation from semiclassical geometry," JHEP 03, 149 (2020), arXiv:1908.10996 [hep-th].
+Ahmed Almheiri, Raghu Mahajan, and Juan Maldacena, "Islands outside the horizon," (2019), arXiv:1910.11077 [hep-th].
+Moshe Rozali, James Sully, Mark Van Raamsdonk, Christopher Waddell, and David Wakeham, "Information radiation in BCFT models of black holes," JHEP 05, 004 (2020), arXiv:1910.12836 [hep-th].
+Ahmed Almheiri, Raghu Mahajan, and Jorge E. Santos, "Entanglement islands in higher dimensions," SciPost Phys. 9, 001 (2020), arXiv:1911.09666 [hep-th].
+Ahmed Almheiri, Thomas Hartman, Juan Maldacena, Edgar Shaghoulian, and Amirhossein Tajdini, "Replica Wormholes and the Entropy of Hawking Radiation," JHEP 05, 013 (2020), arXiv:1911.12333 [hep-th].
+Geoff Penington, Stephen H. Shenker, Douglas Stanford, and Zhenbin Yang, "Replica wormholes and the black hole interior," (2019), arXiv:1911.11977 [hep-th].
+Netta Engelhardt and Aron C. Wall, "Quantum Extremal Surfaces: Holographic Entanglement Entropy beyond the Classical Regime," JHEP 01, 073 (2015), arXiv:1408.3203 [hep-th].
+Thomas Faulkner, Aitor Lewkowycz, and Juan Maldacena, "Quantum corrections to holographic entanglement entropy," JHEP 11, 074 (2013), arXiv:1307.2892 [hep-th].
+Alberto Zaffaroni, "AdS black holes, holography and localization," Living Rev. Rel. 23, 2 (2020), arXiv:1902.07176 [hep-th].
+Ahmed Almheiri, Thomas Hartman, Juan Maldacena, Edgar Shaghoulian, and Amirhossein Tajdini, "The entropy of Hawking radiation," Rev. Mod. Phys. 93, 035002 (2021), arXiv:2006.06872 [hep-th].
+Suvrat Raju, "Lessons from the Information Paradox," (2020), arXiv:2012.05770 [hep-th].
+Andreas Karch and Lisa Randall, "Open and closed string interpretation of SUSY CFT's on branes with boundaries," JHEP 06, 063 (2001), arXiv:hep-th/0105132.
+Andreas Karch and Lisa Randall, "Locally localized gravity," JHEP 05, 008 (2001), arXiv:hep-th/0011156.
+Tadashi Takayanagi, "Holographic Dual of BCFT," Phys. Rev. Lett. 107, 101602 (2011), arXiv:1105.5165 [hep-th].
+Mitsutoshi Fujita, Tadashi Takayanagi, and Erik Tonni, "Aspects of AdS/BCFT," JHEP 11, 043 (2011), arXiv:1108.5152 [hep-th].
+Hao Geng and Andreas Karch, "Massive islands," JHEP 09, 121 (2020), arXiv:2006.02438 [hep-th].
+Hao Geng, Andreas Karch, Carlos Perez-Pardavila, Suvrat Raju, Lisa Randall, Marcos Riojas, and Sanjit Shashi, "Information Transfer with a Gravitating Bath," (2020), arXiv:2012.04671 [hep-th].
+Christoph F. Uhlemann, "Islands and Page curves in 4d from Type IIB," (2021), arXiv:2105.00008 [hep-th].
+Hao Geng, Andreas Karch, Carlos Perez-Pardavila, Suvrat Raju, Lisa Randall, Marcos Riojas, and Sanjit Shashi, "Inconsistency of Islands in Theories with Long-Range Gravity," (2021), arXiv:2107.03390 [hep-th].
+Alok Laddha, Siddharth G. Prabhu, Suvrat Raju, and Pushkal Shrivastava, "The Holographic Nature of Null Infinity," SciPost Phys. 10, 041 (2021), arXiv:2002.02448 [hep-th].
+Suvrat Raju, "Failure of the split property in gravity and the information paradox," (2021), arXiv:2110.05470 [hep-th].
+Juan Martin Maldacena and Carlos Nunez, "Supergravity description of field theories on curved manifolds and a no go theorem," Int. J. Mod. Phys. A 16, 822-855 (2001), arXiv:hep-th/0007018.
+Ibrahim Akal, Yuya Kusuki, Tadashi Takayanagi, and Zixia Wei, "Codimension two holography for wedges," Phys. Rev. D 102, 126007 (2020), arXiv:2007.06800 [hep-th].
+Hao Geng, Severin Lust, Rashmish K. Mishra, and David Wakeham, "Holographic BCFTs and Communicating Black Holes," jhep 08, 003 (2021), arXiv:2104.07039 [hep-th].
+Thomas Hartman and Juan Maldacena, "Time Evolution of Entanglement Entropy from Black Hole Interiors," JHEP 05, 014 (2013), arXiv:1303.1080 [hep-th].
+C. Robin Graham and Andreas Karch, "Minimal area submanifolds in AdS x compact," JHEP 04, 168 (2014), arXiv:1401.7692 [hep-th].
+Sergei Gukov, Emil Martinec, Gregory W. Moore, and Andrew Strominger, "The Search for a holographic dual to AdS(3) x S**3 x S**3 x S**1," Adv. Theor. Math. Phys. 9, 435-525 (2005), arXiv:hep-th/0403090.
+Lorenz Eberhardt, Matthias R. Gaberdiel, and Wei Li, "A holographic dual for string theory on AdS3 S3S3S1," JHEP 08, 111 (2017), arXiv:1707.02705 [hep-th].
+Vijay Balasubramanian, Borun D. Chowdhury, Bartlomiej Czech, and Jan de Boer, "Entwinement and the emergence of spacetime," JHEP 01, 048 (2015), arXiv:1406.5859 [hep-th].
+Vijay Balasubramanian, Albion Lawrence, Andrew Rolph, and Simon Ross, "Entanglement shadows in LLM geometries," JHEP 11, 159 (2017), arXiv:1704.03448 [hep-th].
+Ali Mollabashi, Noburo Shiba, and Tadashi Takayanagi, "Entanglement between Two Interacting CFTs and Generalized Holographic Entanglement Entropy," JHEP 04, 185 (2014), arXiv:1403.1393 [hep-th].
+Andreas Karch and Christoph F. Uhlemann, "Holographic entanglement entropy and the internal space," Phys. Rev. D 91, 086005 (2015), arXiv:1501.00003 [hep-th].
+Rong-Xin Miao, "Codimension-n Holography for the Cones," (2021), arXiv:2101.10031 [hep-th].
+Pablo Bueno and William Witczak-Krempa, "Holographic torus entanglement and its renormalization group flow," Phys. Rev. D 95, 066007 (2017), arXiv:1611.01846 [hep-th].
+Eric D'Hoker, John Estes, and Michael Gutperle, "Exact half-BPS Type IIB interface solutions. I. Local solution and supersymmetric Janus," JHEP 06, 021 (2007), arXiv:0705.0022 [hep-th].
+Eric D'Hoker, John Estes, and Michael Gutperle, "Exact half-BPS Type IIB interface solutions. II. Flux solutions and multi-Janus," JHEP 06, 022 (2007), arXiv:0705.0024 [hep-th].
+Ofer Aharony, Leon Berdichevsky, Micha Berkooz, and Itamar Shamir, "Near-horizon solutions for D3-branes ending on 5-branes," Phys. Rev. D 84, 126003 (2011), arXiv:1106.1870 [hep-th].
+Benjamin Assel, Costas Bachas, John Estes, and Jaume Gomis, "Holographic Duals of D=3 N=4 Superconformal Field Theories," JHEP 08, 087 (2011), arXiv:1106.4253 [hep-th].
+Lorenzo Coccia and Christoph F. Uhlemann, "On the planar limit of 3d Tρσ[SU(N)]," (2020), 10.1007/JHEP06(2021)038, arXiv:2011.10050 [hep-th].
+Constantin Bachas and Ioannis Lavdas, "Quantum Gates to other Universes," Fortsch. Phys. 66, 1700096 (2018), arXiv:1711.11372 [hep-th].
+Mark Van Raamsdonk and Chris Waddell, "Finding AdS5 × S5 in 2+1 dimensional SCFT physics," (2021), arXiv:2109.04479 [hep-th].
+Marika Taylor, "Generalized entanglement entropy," JHEP 07, 040 (2016), arXiv:1507.06410 [hep-th].
+Benjamin Assel, Costas Bachas, John Estes, and Jaume Gomis, "IIB Duals of D=3 N=4 Circular Quivers," JHEP 12, 044 (2012), arXiv:1210.2590 [hep-th].
+Chethan Krishnan, Vaishnavi Patil, and Jude Pereira, "Page Curve and the Information Paradox in Flat Space," (2020), arXiv:2005.02993 [hep-th].
+Chethan Krishnan, "Critical Islands," JHEP 01, 179 (2021), arXiv:2007.06551 [hep-th].
+Kausik Ghosh and Chethan Krishnan, "Dirichlet Baths and the Not-so-Fine-Grained Page Curve," (2021), arXiv:2103.17253 [hep-th].
+Justin R. David, Gautam Mandal, and Spenta R. Wadia, "Microscopic formulation of black holes in string theory," Phys. Rept. 369, 549-686 (2002), arXiv:hep-th/0203048.
+Benjamin Assel and Alessandro Tomasiello, "Holographic duals of 3d S-fold CFTs," JHEP 06, 019 (2018), arXiv:1804.06419 [hep-th].
+Nikolay Bobev, Fridhrik Freyr Gautason, Krzysztof Pilch, Minwoo Suh, and Jesse Van Muiden, "Janus and J-fold Solutions from Sasaki-Einstein Manifolds," Phys. Rev. D 100, 081901 (2019), arXiv:1907.11132 [hep-th].
+Elena Caceres, Arnab Kundu, Ayan K. Patra, and Sanjit Shashi, "Page Curves and Bath Deformations," (2021), arXiv:2107.00022 [hep-th].
+Francesco Benini and Nikolay Bobev, "Two-dimensional SCFTs from wrapped branes and c-extremization," JHEP 06, 005 (2013), arXiv:1302.4451 [hep-th].
+Ahmed Almuhairi and Joseph Polchinski, "Magnetic AdS x R2: Supersymmetry and stability," (2011), arXiv:1108.1213 [hep-th].
+Aristomenis Donos, Jerome P. Gauntlett, and Christiana Pantelidou, "Magnetic and Electric AdS Solutions in String- and M-Theory," Class. Quant. Grav. 29, 194006 (2012), arXiv:1112.4195 [hep-th].
+Francesco Benini, Nikolay Bobev, and P. Marcos Crichigno, "Two-dimensional SCFTs from D3-branes," JHEP 07, 020 (2016), arXiv:1511.09462 [hep-th].
+Ibrahima Bah, Christopher Beem, Nikolay Bobev, and Brian Wecht, "Four-Dimensional SCFTs from M5-Branes," JHEP 06, 005 (2012), arXiv:1203.0303 [hep-th].
+Jerome P. Gauntlett, Nakwoo Kim, Stathis Pakis, and Daniel Waldram, "Membranes wrapped on holomorphic curves," Phys. Rev. D 65, 026003 (2002), arXiv:hep-th/0105250.
+Jerome P. Gauntlett and Nakwoo Kim, "M five-branes wrapped on supersymmetric cycles. 2." Phys. Rev. D 65, 086003 (2002), arXiv:hep-th/0109039.
+Carlos Nunez, I. Y. Park, Martin Schvellinger, and Tuan A. Tran, "Supergravity duals of gauge theories from F(4) gauged supergravity in six-dimensions," JHEP 04, 025 (2001), arXiv:hep-th/0103080.
+Michihiro Naka, "Various wrapped branes from gauged supergravities," (2002), arXiv:hep-th/0206141.
+Andreas Brandhuber and Yaron Oz, "The D-4 - D-8 brane system and five-dimensional fixed points," Phys. Lett. B 460, 307-312 (1999), arXiv:hep-th/9905148.
+Eric D'Hoker, Michael Gutperle, Andreas Karch, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity I: Local solutions," JHEP 08, 046 (2016), arXiv:1606.01254 [hep-th].
+Eric D'Hoker, Michael Gutperle, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity II: Global solutions and five-brane webs," JHEP 05, 131 (2017), arXiv:1703.08186 [hep-th].
+Eric D'Hoker, Michael Gutperle, and Christoph F. Uhlemann, "Warped AdS6 x S2 in Type IIB supergravity III: Global solutions with seven-branes," JHEP 11, 200 (2017), arXiv:1706.00433 [hep-th].
+Junho Hong, James T. Liu, and Daniel R. Mayerson, "Gauged Six-Dimensional Supergravity from Warped IIB Reductions," JHEP 09, 140 (2018), arXiv:1808.04301 [hep-th].
+Emanuel Malek, Henning Samtleben, and Valent i Vall Camell, "Supersymmetric AdS7 and AdS6 vacua and their minimal consistent truncations from exceptional field theory," Phys. Lett. B 786, 171-179 (2018), arXiv:1808.05597 [hep-th].
+Andrea Legramandi and Carlos Nunez, "Holographic description of SCFT5 compactifications," (2021), arXiv:2109.11554 [hep-th].
+Ibrahima Bah, Achilleas Passias, and Peter Weck, "Holographic duals of five-dimensional SCFTs on a Riemann surface," JHEP 01, 058 (2019), arXiv:1807.06031 [hep-th].
+Tarek Anous, Joanna L. Karczmarek, Eric Mintun, Mark Van Raamsdonk, and Benson Way, "Areas and entropies in BFSS/gravity duality," SciPost Phys. 8, 057 (2020), arXiv:1911.11145 [hep-th].
+G. Bruno De Luca, Nicolὸ De Ponti, Andrea Mondino, and Alessandro Tomasiello, "Cheeger bounds on spin-two fields," (2021), arXiv:2109.11560 [hep-th].

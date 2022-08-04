@@ -1,41 +1,42 @@
-Ablikim M. et al, [BESIII Collaboration], "Precision measurements of B[(3686) +-J/] and B[J/ + -]", Physical Review D 88(3) (2013), doi:10.1103/physrevd.88.032007.
-Lazzeroni C. et al, [NA62 collaboration], "Precision measurement of the ratio of the charged kaon leptonic decay rates", Physics Letters B 719, 326 (2013), doi:10.1016/j.physletb.2013.01.037.
-Aguilar-Arevalo et al, [PiENu Collaboration], "Improved Measurement of the " e Branching Ratio, Phys. Rev. Lett. 115, 071801 (2015), doi:10.1103/PhysRevLett.115.071801.
-Zyla, P .A. et al [PArticle Data Group], "Review of particle physics", PTEP 2020(8), 083C01 (2020), doi:10.1093/ptep/ptaa104.
-S. Schael et al. [ALEPH and DELPHI and L3 and OPAL and SLD Collaborations and LEP Electroweak Working Group and SLD Electroweak Group and SLD Heavy Flavour Group], "Precision electroweak measurements on the z resonance", Physics Reports 427(5), 257 (2006), doi:10.1016/j.physrep.2005.12.006.
-R. Aaij et al. [LHCb collaboration], "Test of lepton universality in beauty-quark decays" (2021), 2103.11769.
-G. Hiller and M. Schmaltz, "RK and future b s physics beyond the standard model opportunities", Physical Review D 90(5) (2014), doi:10.1103/physrevd.90.054014.
-B. Gripaios, M. Nardecchia and S. A. Renner, "Composite leptoquarks and anomalies in B-meson decays" (2015), 1412.1791.
-I. de Medeiros Varzielas and G. Hiller, "Clues for flavor from rare lepton and quark decays" (2015), 1503.01084.
-R. Barbieri, C. W. Murphy and F. Senia, "B-decay anomalies in a composite leptoquark model", The European Physical Journal C 77(1) (2016), doi:10.1140/epjc/s10052-016-4578-7.
-W. Altmannshofer, S. Gori, M. Pospelov and I. Yavin, "Quark flavor transitions in L L models", Physical Review D 89(9) (2014), doi:10.1103/physrevd.89.095033.
-A. Crivellin, G. D'Ambrosio and J. Heeck, "Explaining h , B K+-, and B K+-/B Ke+e- in a Two-Higgs-Doublet Model with Gauged L - L", Physical Review Letters 114(15) (2015), doi:10.1103/physrevlett.114.151801.
-A. Celis, J. Fuentes-Martin, M. Jung and H. Serodio, "Family nonuniversal Z models with protected flavor-changing interactions", Physical Review D 92(1) (2015), doi:10.1103/physrevd.92.015007.
-A. Falkowski, M. Nardecchia and R. Ziegler, "Lepton flavor non-universality in b-meson decays from a u(2) flavor model", Journal of High Energy Physics 2015(11) (2015), doi:10.1007/jhep11(2015)173.
-B.J. Rebel et al, [MINOS collaboration], "First minos results with the numi beam", Nuclear Physics B - Proceedings Supplements 168, 195 (2007), doi:10.1016/j.nuclphysbps.2007.02.014.
-R. Aaij et al. [LHCB collaboration], "Lhcb detector performance", Int. J. Mod. Phys. A 30(07), 1530022 (2015), doi:10.1142/S0217751X15300227.
-Bordone, M., Isidori, G. & Pattori, A, "On the standard model predictions for RK and RK" , The European Physical Journal C 76(8), 440 (2016), doi:10.1140/epjc/s10052-016-4274-7.
-R. Aaij et al. [LHCB collaboration], "Search for lepton-universality violation in B"+ K+ + - decays, Phys. Rev. Lett. 122, 191801 (2019), doi:10.1103/PhysRevLett.122.191801.
-R. Aaij et al. [LHCB collaboration], "Test of lepton universality with B0 K0" + decays, Journal of High Energy Physics 2017(8) (2017), doi:10.1007/jhep08(2017)055.
-R. Aaij et al. [LHCB collaboration], "Test of lepton universality with "0 b pK- + decays, Journal of High Energy Physics 2020(5) (2020), doi:10.1007/jhep05(2020)040.
-R. Aaij et al. [LHCB collaboration], "Tests of lepton universality using B0 K0 S + and B+ K+" + decays (2021), 2110.09501.
-W. Altmannshofer, P . Ball, A. Bharucha, A. J. Buras, D. M. Straub and M. Wick, "Symmetries and asymmetries of B K+- decays in the Standard Model and beyond", Journal of High Energy Physics 2009(01), 019-019 (2009), doi:10.1088/1126-6708/2009/01/019.
-R. Aaij et al. [LHCB collaboration], "Measurement of CP-Averaged Observables in the B0 K0"+Decay, Physical Review Letters 125(1) (2020), doi:10.1103/physrevlett.125.011802.
-R. Aaij et al. [LHCB collaboration], "Angular Analysis of the B+ K0"+Decay, Physical Review Letters 126(16) (2021), doi:10.1103/physrevlett.126.161802.
-R. Aaij et al. [LHCB collaboration], "Angular analysis of the rare decay B0 s +-" (2021), 2107.13428.
-R. Aaij et al. [LHCB collaboration], "Branching Fraction Measurements of the Rare B0 s +- and B0 s f 2 (1525)+- Decays", Physical Review Letters 127(15) (2021), doi:10.1103/physrevlett.127.151801.
-R. Aaij et al. [LHCB collaboration], "Differential branching fractions and isospin asymmetries of B K()+- decays", Journal of High Energy Physics 2014(6) (2014), doi:10.1007/jhep06(2014)133.
-R. Aaij et al. [LHCB collaboration], "Measurements of the S-wave fraction in B0"K+-+decays and the B0 K(892)0+- differential branching fraction. Measurements of the S-wave fraction in B0 K+-+- decays and the B0 K(892)0+- differential branching fraction, JHEP 11, 047. 33 p (2016), doi:10.1007/JHEP11(2016)047.
-R. Aaij et al. [LHCB collaboration], "Measurement of the B0 s +- decay properties and search for the B0 +- and B0 s +- decays" (2021), 2108.09283.
-Altmannshofer, Wolfgang and Stangl, Peter, "New physics in rare b decays after moriond 2021" (2021), 2103.13370.
-R. Aaij et al. [LHCB collaboration], "Search for the Decays B"0 s +- and B0 +-, Phys. Rev. Lett. 118, 251802 (2017), doi:10.1103/PhysRevLett.118.251802.
-J. Lees, et al. [BaBar Collaboration], "Search for B"+ K++- at the BaBar Experiment, Phys. Rev. Lett. 118, 031802 (2017), doi:10.1103/PhysRevLett.118.031802.
-"Searching for New Physics with b "s+- Processes, Phys. Rev. Lett. 120, 181802 (2018), doi:10.1103/PhysRevLett.120.181802.
-R. Aaij et al. [LHCB collaboration], "Measurement of the Ratio of Branching Fractions B"(B D+)/B(B D+), Phys. Rev. Lett. 115, 111803 (2015), doi:10.1103/PhysRevLett.115.111803.
-R. Aaij et al. [LHCB collaboration], "Measurement of the Ratio of the B"0 D-+ and B0 D-+ Branching Fractions Using Three-Prong -Lepton Decays, Phys. Rev. Lett. 120, 171802 (2018), doi:10.1103/PhysRevLett.120.171802.
-Amhis, Yasmine Sara et al. [HFLAV Collaboration], "Averages of b-hadron, c-hadron, and -lepton properties as of 2018", Eur. Phys. J. C81, 226 (2021), doi:10.1140/epjc/s10052-020-8156-7.
-R. Aaij et al. [LHCB collaboration], "Search for the lepton flavour violating decay B+ K+-+ using B0"s2 decays, Journal of High Energy Physics (6), 129 (2020), doi:10.1007/JHEP06(2020)129.
-R. Aaij et al. [LHCB collaboration], "Search for Lepton-Flavor Violating Decays B"+ K+e, Phys. Rev. Lett. 123, 241802 (2019), doi:10.1103/PhysRevLett.123.241802.
-R. Aaij et al. [LHCB collaboration], "Search for the Lepton-Flavor-Violating Decays B"0 s and B0 , Phys. Rev. Lett. 123, 211801 (2019), doi:10.1103/PhysRevLett.123.211801.
-R. Aaij et al. [LHCB collaboration], "Search for the lepton-flavour violating decays B(s)"0e , Journal of High Energy Physics 2018(3), 78 (2018), doi:10.1007/JHEP03(2018)078.
-R. Aaij et al. [LHCB collaboration], "Searches for 25 rare and forbidden decays of D+ and D+ s mesons", Journal of High Energy Physics 2021(6), 44 (2021), doi:10.1007/JHEP06(2021)044.
+Ablikim M. et al, [BESIII Collaboration], Precision measurements of B[ψ(3686) → π+π-J/ψ] and B[J/ψ → ℓ+ℓ−], Physical Review D 88(3) (2013), doi:10.1103/physrevd.88.032007.
+Lazzeroni C. et al, [NA62 collaboration], Precision measurement of the ratio of the charged kaon leptonic decay rates, Physics Letters B 719, 326 (2013), doi:10.1016/j.physletb.2013.01.037.
+Aguilar-Arevalo et al, [PiENu Collaboration], Improved Measurement of the π → eν Branching Ratio, Phys. Rev. Lett. 115, 071801 (2015), doi:10.1103/PhysRevLett.115.071801.
+Zyla, P .A. et al [PArticle Data Group], Review of particle physics, PTEP 2020(8), 083C01 (2020), doi:10.1093/ptep/ptaa104.
+S. Schael et al. [ALEPH and DELPHI and L3 and OPAL and SLD Collaborations and LEP Electroweak Working Group and SLD Electroweak Group and SLD Heavy Flavour Group], Precision electroweak measurements on the z resonance, Physics Reports 427(5), 257 (2006), doi:10.1016/j.physrep.2005.12.006.
+R. Aaij et al. [LHCb collaboration], Test of lepton universality in beauty-quark decays (2021), 2103.11769.
+G. Hiller and M. Schmaltz, RK and future b → sℓℓ physics beyond the standard model opportunities, Physical Review D 90(5) (2014), doi:10.1103/physrevd.90.054014.
+B. Gripaios, M. Nardecchia and S. A. Renner, Composite leptoquarks and anomalies in B-meson decays (2015), 1412.1791.
+I. de Medeiros Varzielas and G. Hiller, Clues for flavor from rare lepton and quark decays (2015), 1503.01084.
+R. Barbieri, C. W. Murphy and F. Senia, B-decay anomalies in a composite leptoquark model, The European Physical Journal C 77(1) (2016), doi:10.1140/epjc/s10052-016-4578-7.
+W. Altmannshofer, S. Gori, M. Pospelov and I. Yavin, Quark flavor transitions in Lμ - Lτ models, Physical Review D 89(9) (2014), doi:10.1103/physrevd.89.095033.
+A. Crivellin, G. D'Ambrosio and J. Heeck, Explaining h → µ±τ∓, B → K∗µ+µ−, and B → Kµ+µ−/B → Ke+e− in a Two-Higgs-Doublet Model with Gauged Lμ - Lτ, Physical Review Letters 114(15) (2015), doi:10.1103/physrevlett.114.151801.
+A. Celis, J. Fuentes-Martín, M. Jung and H. Serôdio, Family nonuniversal Z' models with protected flavor-changing interactions, Physical Review D 92(1) (2015), doi:10.1103/physrevd.92.015007.
+A. Falkowski, M. Nardecchia and R. Ziegler, Lepton flavor non-universality in b-meson decays from a u(2) flavor model, Journal of High Energy Physics 2015(11) (2015), doi:10.1007/jhep11(2015)173.
+B.J. Rebel et al, [MINOS collaboration], First minos results with the numi beam, Nuclear Physics B - Proceedings Supplements 168, 195 (2007), doi:10.1016/j.nuclphysbps.2007.02.014.
+R. Aaij et al. [LHCB collaboration], Lhcb detector performance, Int. J. Mod. Phys. A 30(07), 1530022 (2015), doi:10.1142/S0217751X15300227.
+Bordone, M., Isidori, G. & Pattori, A, On the standard model predictions for RK and RK*, The European Physical Journal C 76(8), 440 (2016), doi:10.1140/epjc/s10052-016-4274-7.
+R. Aaij et al. [LHCB collaboration], Search for lepton-universality violation in B+ → K+ℓ+ℓ− decays, Phys. Rev. Lett. 122, 191801 (2019), doi:10.1103/PhysRevLett.122.191801.
+R. Aaij et al. [LHCB collaboration], Test of lepton universality with B0 → K∗0ℓ+ℓ− decays, Journal of High Energy Physics 2017(8) (2017), doi:10.1007/jhep08(2017)055.
+R. Aaij et al. [LHCB collaboration], Test of lepton universality with Λ0b → pK −ℓ+ℓ− decays, Journal of High Energy Physics 2020(5) (2020), doi:10.1007/jhep05(2020)040.
+R. Aaij et al. [LHCB collaboration], Tests of lepton universality using B0 → KS0ℓ+ℓ− and B+ → K∗+ℓ+ℓ− decays (2021), 2110.09501.
+W. Altmannshofer, P . Ball, A. Bharucha, A. J. Buras, D. M. Straub and M. Wick, Symmetries and asymmetries of B → K∗µ+µ− decays in the Standard Model and beyond, Journal of High Energy Physics 2009(01), 019-019 (2009), doi:10.1088/1126-6708/2009/01/019.
+R. Aaij et al. [LHCB collaboration], Measurement of CP-Averaged Observables in the B0 → K∗0µ+µ− Decay, Physical Review Letters 125(1) (2020), doi:10.1103/physrevlett.125.011802.
+R. Aaij et al. [LHCB collaboration], Angular Analysis of the B+ → K∗0µ+µ− Decay, Physical Review Letters 126(16) (2021), doi:10.1103/physrevlett.126.161802.
+R. Aaij et al. [LHCB collaboration], Angular analysis of the rare decay Bs0 → φµ+µ− (2021), 2107.13428.
+R. Aaij et al. [LHCB collaboration], Branching Fraction Measurements of the Rare Bs0 → φµ+µ− and Bs0 → f'2(1525)µ+µ− Decays, Physical Review Letters 127(15) (2021), doi:10.1103/physrevlett.127.151801.
+R. Aaij et al. [LHCB collaboration], Differential branching fractions and isospin asymmetries of B → K(∗)µ+µ− decays, Journal of High Energy Physics 2014(6) (2014), doi:10.1007/jhep06(2014)133.
+R. Aaij et al. [LHCB collaboration], Measurements of the S-wave fraction in B0 → K+π−µ+µ− decays and the B0 → K∗(892)0µ+µ− differential branching fraction. Measurements of the S-wave fraction in B0 → K+π−µ+µ− decays and the B0 → K∗(892)0µ+µ− differential branching fraction, JHEP 11, 047. 33 p (2016), doi:10.1007/JHEP11(2016)047.
+R. Aaij et al. [LHCB collaboration], Measurement of the Bs0 → µ+µ− decay properties and search for the B0 → µ+µ− and Bs0 → µ+µ−γ decays (2021), 2108.09283.
+Altmannshofer, Wolfgang and Stangl, Peter, New physics in rare b decays after moriond 2021 (2021), 2103.13370.
+R. Aaij et al. [LHCB collaboration], Search for the Decays Bs0 → τ+τ− and B0 → τ+τ−, Phys. Rev. Lett. 118, 251802 (2017), doi:10.1103/PhysRevLett.118.251802.
+J. Lees, et al. [BaBar Collaboration], Search for B+ → K+τ+τ− at the BaBar Experiment, Phys. Rev. Lett. 118, 031802 (2017), doi:10.1103/PhysRevLett.118.031802.
+Searching for New Physics with b → sτ+τ− Processes, Phys. Rev. Lett. 120, 181802 (2018), doi:10.1103/PhysRevLett.120.181802.
+R. Aaij et al. [LHCB collaboration], Measurement of the Ratio of Branching Fractions B(B0 → D*+τ-ντ)/B(B0 → D*+µ-νµ), Phys. Rev. Lett. 115, 111803 (2015), doi:10.1103/PhysRevLett.115.111803.
+R. Aaij et al. [LHCB collaboration], Measurement of the Ratio of the B0 → D∗−τ+ντ and B0 → D∗−µ+νµ Branching Fractions Using Three-Prong τ-Lepton Decays, Phys. Rev. Lett. 120, 171802 (2018), doi:10.1103/PhysRevLett.120.171802.
+Amhis, Yasmine Sara et al. [HFLAV Collaboration], Averages of b-hadron, c-hadron, and τ-lepton properties as of 2018, Eur. Phys. J. C81, 226 (2021), doi:10.1140/epjc/s10052-020-8156-7.
+I. de Medeiros Varzielas and G. Hiller, Clues for flavor from rare lepton and quark decays (2015), 1503.01084.
+R. Aaij et al. [LHCB collaboration], Search for the lepton flavour violating decay B+ → K+µ-τ+ using Bs2*0 decays, Journal of High Energy Physics (6), 129 (2020), doi:10.1007/JHEP06(2020)129.
+R. Aaij et al. [LHCB collaboration], Search for Lepton-Flavor Violating Decays B+ → K+µ±e∓, Phys. Rev. Lett. 123, 241802 (2019), doi:10.1103/PhysRevLett.123.241802.
+R. Aaij et al. [LHCB collaboration], Search for the Lepton-Flavor-Violating Decays Bs0 → τ±µ∓ and B0 → τ±µ∓, Phys. Rev. Lett. 123, 211801 (2019), doi:10.1103/PhysRevLett.123.211801.
+R. Aaij et al. [LHCB collaboration], Search for the lepton-flavour violating decays B0(s) → e±µ∓, Journal of High Energy Physics 2018(3), 78 (2018), doi:10.1007/JHEP03(2018)078.
+R. Aaij et al. [LHCB collaboration], Searches for 25 rare and forbidden decays of D+ and D+s mesons, Journal of High Energy Physics 2021(6), 44 (2021), doi:10.1007/JHEP06(2021)044.

@@ -1,51 +1,31 @@
 J. W. York, Jr., Phys. Rev. Lett. 28, 1082 (1972). doi:10.1103/PhysRevLett.28.1082
 G. W. Gibbons and S. W. Hawking, Phys. Rev. D 15, 2752 (1977). doi:10.1103/PhysRevD.15.2752
 R. R. Metsaev and A. A. Tseytlin, Nucl. Phys. B 293, 385 (1987). doi:10.1016/0550-3213(87)90077-0
-A. Giveon, M. Porrati and E. Rabinovici, Phys. Rept. 244, 77 (1994) doi:10.1016/0370-1573(94)90070-1
-A. Giveon, M. Porrati and E. Rabinovici, 1994, hep-th/9401139
-E. Alvarez, L. Alvarez-Gaume and Y. Lozano, Nucl. Phys. Proc. Suppl. 41, 1 (1995) doi:10.1016/0920-5632(95)00429-D
-E. Alvarez, L. Alvarez-Gaume and Y. Lozano, hep-th/9410237
+A. Giveon, M. Porrati and E. Rabinovici, Phys. Rept. 244, 77 (1994) doi:10.1016/0370-1573(94)90070-1 [hep-th/9401139].
+E. Alvarez, L. Alvarez-Gaume and Y. Lozano, Nucl. Phys. Proc. Suppl. 41, 1 (1995) doi:10.1016/0920-5632(95)00429-D [hep-th/9410237].
 A. Sen, Phys. Lett. B 271, 295-300 (1991) doi:10.1016/0370-2693(91)90090-D
-O. Hohm, A. Sen and B. Zwiebach, JHEP 02, 079 (2015) doi:10.1007/JHEP02(2015)079
-O. Hohm, A. Sen and B. Zwiebach, 2015, arXiv:1411.5696 [hep-th
-M. R. Garousi, Phys. Rev. D 99, no. 12, 126005 (2019) doi:10.1103/PhysRevD.99.126005
-M. R. Garousi, arXiv:1904.11282 [hep-th
-M. R. Garousi, Eur. Phys. J. C 79, no.10, 827 (2019) doi:10.1140/epjc/s10052-019-7357-4
-M. R. Garousi, arXiv:1907.06500 [hep-th
-H. Razaghian and M. R. Garousi, Phys. Rev. D 97, 106013 (2018) doi:10.1103/PhysRevD.97.106013
-H. Razaghian and M. R. Garousi, arXiv:1801.06834 [hep-th
-M. R. Garousi, Eur. Phys. J. C 80, no.11, 1086 doi:10.1140/epjc/s10052-020-08662-9
-M. R. Garousi, arXiv:2006.09193 [hep-th
-M. R. Garousi, JHEP 02, 157 (2021) doi:10.1007/JHEP02(2021)157
-M. R. Garousi, arXiv:2011.02753 [hep-th
-M. R. Garousi, Nucl. Phys. B 971, 115510 (2021) doi:10.1016/j.nuclphysb.2021.115510
-M. R. Garousi, arXiv:2012.15091 [hep-th
-M. R. Garousi, Phys. Rev. D 104, no.6, 066013 (2021) doi:10.1103/PhysRevD.104.066013
-M. R. Garousi, 2021, arXiv:2105.07598 [hep-th
-M. R. Garousi, Eur. Phys. J. C 81, no.8, 711 (2021) doi:10.1140/epjc/s10052-021-09518-6
-M. R. Garousi, 2021, arXiv:2107.04796 [hep-th
+O. Hohm, A. Sen and B. Zwiebach, JHEP 02, 079 (2015) doi:10.1007/JHEP02(2015)079 [arXiv:1411.5696 [hep-th]].
+M. R. Garousi, Phys. Rev. D 99, no. 12, 126005 (2019) doi:10.1103/PhysRevD.99.126005 [arXiv:1904.11282 [hep-th]].
+M. R. Garousi, Eur. Phys. J. C 79, no.10, 827 (2019) doi:10.1140/epjc/s10052-019-7357-4 [arXiv:1907.06500 [hep-th]].
+H. Razaghian and M. R. Garousi, Phys. Rev. D 97, 106013 (2018) doi:10.1103/PhysRevD.97.106013 [arXiv:1801.06834 [hep-th]].
+M. R. Garousi, Eur. Phys. J. C 80, no.11, 1086 doi:10.1140/epjc/s10052-020-08662-9 [arXiv:2006.09193 [hep-th]].
+M. R. Garousi, JHEP 02, 157 (2021) doi:10.1007/JHEP02(2021)157 [arXiv:2011.02753 [hep-th]].
+M. R. Garousi, Nucl. Phys. B 971, 115510 (2021) doi:10.1016/j.nuclphysb.2021.115510 [arXiv:2012.15091 [hep-th]].
+M. R. Garousi, Phys. Rev. D 104, no.6, 066013 (2021) doi:10.1103/PhysRevD.104.066013 [arXiv:2105.07598 [hep-th]].
+M. R. Garousi, Eur. Phys. J. C 81, no.8, 711 (2021) doi:10.1140/epjc/s10052-021-09518-6 [arXiv:2107.04796 [hep-th]].
 T. H. Buscher, Phys. Lett. B 194, 59 (1987). doi:10.1016/0370-2693(87)90769-6
 T. H. Buscher, Phys. Lett. B 201, 466 (1988). doi:10.1016/0370-2693(88)90602-8
-N. Kaloper and K. A. Meissner, Phys. Rev. D 56, 7940 (1997) doi:10.1103/PhysRevD.56.7940
-N. Kaloper and K. A. Meissner, 1997, hep-th/9705193
+N. Kaloper and K. A. Meissner, Phys. Rev. D 56, 7940 (1997) doi:10.1103/PhysRevD.56.7940 [hep-th/9705193].
 I. Jack, D. R. T. Jones and N. Mohammedi, Nucl. Phys. B 322, 431-470 (1989) doi:10.1016/0550-3213(89)90422-7
-S. Stieberger, Phys. Rev. Lett. 106, 111601 (2011) doi:10.1103/PhysRevLett.106.111601
-S. Stieberger, 2011, arXiv:0910.0180 [hep-th
-M. R. Garousi, Phys. Lett. B 809, 135733 (2020) doi:10.1016/j.physletb.2020.135733
-M. R. Garousi, arXiv:1907.09168 [hep-th
-K. A. Meissner, Phys. Lett. B 392, 298-304 (1997) doi:10.1016/S0370-2693(96)01556-0
-K. A. Meissner, arXiv:hep-th/9610131 [hep-th
-O. Hohm and B. Zwiebach, JHEP 04, 101 (2016) doi:10.1007/JHEP04(2016)101
-O. Hohm and B. Zwiebach, 2016, arXiv:1510.00005 [hep-th
-O. Hohm and B. Zwiebach, Phys. Rev. D 100, no.12, 126011 (2019) doi:10.1103/PhysRevD.100.126011
-O. Hohm and B. Zwiebach, arXiv:1905.06963 [hep-th
-M. R. Garousi, "Effective action of string theory at order in the presence of boundary," [arXiv:2103.13682 [hep-th]].
+S. Stieberger, Phys. Rev. Lett. 106, 111601 (2011) doi:10.1103/PhysRevLett.106.111601 [arXiv:0910.0180 [hep-th]].
+M. R. Garousi, Phys. Lett. B 809, 135733 (2020) doi:10.1016/j.physletb.2020.135733 [arXiv:1907.09168 [hep-th]].
+K. A. Meissner, Phys. Lett. B 392, 298-304 (1997) doi:10.1016/S0370-2693(96)01556-0 [arXiv:hep-th/9610131 [hep-th]].
+O. Hohm and B. Zwiebach, JHEP 04, 101 (2016) doi:10.1007/JHEP04(2016)101 [arXiv:1510.00005 [hep-th]].
+O. Hohm and B. Zwiebach, Phys. Rev. D 100, no.12, 126011 (2019) doi:10.1103/PhysRevD.100.126011 [arXiv:1905.06963 [hep-th]].
+M. R. Garousi, "Effective action of string theory at order α' in the presence of boundary," [arXiv:2103.13682 [hep-th]].
 R. C. Myers, Phys. Rev. D 36, 392 (1987) doi:10.1103/PhysRevD.36.392
-T. Nutma, Comput. Phys. Commun. 185, 1719 (2014) doi:10.1016/j.cpc.2014.02.006
-T. Nutma, 2014, arXiv:1308.3493 [cs.SC
+T. Nutma, Comput. Phys. Commun. 185, 1719 (2014) doi:10.1016/j.cpc.2014.02.006 [arXiv:1308.3493 [cs.SC]].
 G. Veneziano, Phys. Lett. B 265, 287-294 (1991) doi:10.1016/0370-2693(91)90055-U
 K. A. Meissner and G. Veneziano, Phys. Lett. B 267, 33-36 (1991) doi:10.1016/0370-2693(91)90520-Z
-J. Maharana and J. H. Schwarz, Nucl. Phys. B 390, 3-32 (1993) doi:10.1016/0550-3213(93)90387-5
-J. Maharana and J. H. Schwarz, arXiv:hep-th/9207016 [hep-th
-C. Eloy, O. Hohm and H. Samtleben, Phys. Rev. D 101, no.12, 126018 (2020) doi:10.1103/PhysRevD.101.126018
-C. Eloy, O. Hohm and H. Samtleben, arXiv:2004.13140 [hep-th
+J. Maharana and J. H. Schwarz, Nucl. Phys. B 390, 3-32 (1993) doi:10.1016/0550-3213(93)90387-5 [arXiv:hep-th/9207016 [hep-th]].
+C. Eloy, O. Hohm and H. Samtleben, Phys. Rev. D 101, no.12, 126018 (2020) doi:10.1103/PhysRevD.101.126018 [arXiv:2004.13140 [hep-th]].

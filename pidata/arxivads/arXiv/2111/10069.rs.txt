@@ -1,4 +1,4 @@
-Althaus, L. G., Miller Bertolami, M. M., & Corsico, A. H. 2013, A&A, 557, A19, doi: 10.1051/0004-6361/201321868
+Althaus, L. G., Miller Bertolami, M. M., & Córsico, A. H. 2013, A&A, 557, A19, doi: 10.1051/0004-6361/201321868
 Althaus, L. G., Serenelli, A. M., & Benvenuto, O. G. 2001, MNRAS, 324, 617, doi: 10.1046/j.1365-8711.2001.04324.x
 Amaro-Seoane, P., Audley, H., Babak, S., et al. 2017, arXiv e-prints, arXiv:1702.00786. https://arxiv.org/abs/1702.00786
 Burdge, K. B., Coughlin, M. W., Fuller, J., et al. 2019a, Nature, 571, 528, doi: 10.1038/s41586-019-1403-0
@@ -54,4 +54,4 @@ Van, K. X., Ivanova, N., & Heinke, C. O. 2019, MNRAS, 483, 5595, doi: 10.1093/mn
 van Roestel, J., Kupfer, T., Green, M. J., et al. 2021, arXiv e-prints, arXiv:2107.07573. https://arxiv.org/abs/2107.07573
 Webbink, R. F. 1984, ApJ, 277, 355, doi: 10.1086/161701
 Yungelson, L. R., Livio, M., Tutukov, A. V., & Saffer, R. A. 1994, ApJ, 420, 336, doi: 10.1086/173563
-Zorotovic, M., Schreiber, M. R., Gansicke, B. T., & Nebot Gomez-Moran, A. 2010, A&A, 520, A86, doi: 10.1051/0004-6361/200913658
+Zorotovic, M., Schreiber, M. R., Gänsicke, B. T., & Nebot Gómez-Morán, A. 2010, A&A, 520, A86, doi: 10.1051/0004-6361/200913658

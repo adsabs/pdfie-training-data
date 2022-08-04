@@ -4,7 +4,7 @@ Bett P., Eke V., Frenk C. S., Jenkins A., Helly J., Navarro J., 2007, MNRAS, 376
 Cole S., Lacey C., 1996, Monthly Notices of the Royal Astronomical Society, 281, 716
 Croton D. J., et al., 2006, MNRAS, 365, 11
 Gao L., White S. D. M., 2007, MNRAS, 377, L5
-Hernandez-Aguayo C., Prada F., Baugh C. M., Klypin A., 2021, MNRAS, 503, 2318
+Hernández-Aguayo C., Prada F., Baugh C. M., Klypin A., 2021, MNRAS, 503, 2318
 Planck Collaboration et al., 2016, A&A, 594, A13
 Ramakrishnan S., Paranjape A., Sheth R. K., 2021, MNRAS, 503, 2053
 Springel V., White S. D. M., Tormen G., Kauffmann G., 2001, MNRAS, 328, 726

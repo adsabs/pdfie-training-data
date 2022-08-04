@@ -1,38 +1,38 @@
-J. M. Maldacena, "The Large N limit of superconformal field theories and supergravity," "Int. J. Theor. Phys." 38 (1999) 1113-1133, hep-th/9711200.
-J. M. Maldacena, "Wilson loops in large N field theories," "Phys. Rev. Lett." 80 (1998) 4859-4862, hep-th/9803002.
-N. Drukker, D. J. Gross, and H. Ooguri, "Wilson loops and minimal surfaces," "Phys. Rev." D60 (1999) 125006, hep-th/9904191.
-D. E. Berenstein, R. Corrado, W. Fischler, and J. M. Maldacena, "The operator product expansion for Wilson loops and surfaces in the large N limit," "Phys. Rev." D59 (1999) 105023, hep-th/9809188.
-S. S. Gubser, I. R. Klebanov, and A. M. Polyakov, "A Semiclassical limit of the gauge/string correspondence," "Nucl. Phys. B" 636 (2002) 99-114, hep-th/0204051.
+J. M. Maldacena, "The Large N limit of superconformal field theories and supergravity," Int. J. Theor. Phys. 38 (1999) 1113-1133, hep-th/9711200.
+J. M. Maldacena, "Wilson loops in large N field theories," Phys. Rev. Phys. 80 (1998) 4859-4862, hep-th/9803002.
+N. Drukker, D. J. Gross, and H. Ooguri, "Wilson loops and minimal surfaces," Phys. Rev. D60 (1999) 125006, hep-th/9904191.
+D. E. Berenstein, R. Corrado, W. Fischler, and J. M. Maldacena, "The operator product expansion for Wilson loops and surfaces in the large N limit," Phys. Rev. D59 (1999) 105023, hep-th/9809188.
+S. S. Gubser, I. R. Klebanov, and A. M. Polyakov, "A Semiclassical limit of the gauge/string correspondence," Nucl. Phys. B 636 (2002) 99-114, hep-th/0204051.
 A. Mikhailov, "Special contact Wilson loops," hep-th/0211229.
-N. Drukker and B. Fiol, "On the integrability of Wilson loops in AdS5 x S5: Some periodic ansatze," "JHEP" 01 (2006) 056, hep-th/0506058.
-D. M. Hofman and J. M. Maldacena, "Giant magnons," "J. Phys. A" 39 (2006) 13095-13118, hep-th/0604135.
+N. Drukker and B. Fiol, "On the integrability of Wilson loops in AdS5 × S5: Some periodic ansatze," JHEP 01 (2006) 056, hep-th/0506058.
+D. M. Hofman and J. M. Maldacena, "Giant magnons," J. Phys. A 39 (2006) 13095-13118, hep-th/0604135.
 L. F. Alday and J. M. Maldacena, "Gluon scattering amplitudes at strong coupling," JHEP 06 (2007) 064, arXiv:0705.0303.
-M. Kruczenski, "Wilson loops and minimal area surfaces in hyperbolic space," "JHEP" 11 (2014) 065, arXiv:1406.4945.
-C. Huang, Y. He, and M. Kruczenski, "Minimal area surfaces dual to Wilson loops and the Mathieu equation," "JHEP" 08 (2016) 088, arXiv:1604.00078.
-Y. He, C. Huang, and M. Kruczenski, "Minimal area surfaces in AdSn+1 and Wilson loops," "JHEP" 02 (2018) 027, arXiv:1712.06269.
-B. Chen and J.-B. Wu, "Wilson-Polyakov surfaces and M-theory branes," "JHEP" 05 (2008) 46, arXiv:0802.2173.
-C. R. Graham and E. Witten, "Conformal anomaly of submanifold observables in AdS/CFT correspondence," "Nucl. Phys." B546 (1999) 52-64, hep-th/9901021.
-N. Drukker, M. Probst, and M. Trepanier, "Surface operators in the 6d N = (2, 0) theory," "J. Phys. A" 53 no. 36, (2020) 365401, arXiv:2003.12372.
-S. Deser and A. Schwimmer, "Geometric classification of conformal anomalies in arbitrary dimensions," "Phys. Lett." B309 (1993) 279-284, hep-th/9302047.
-N. Boulanger, "General solutions of the Wess-Zumino consistency condition for the Weyl anomalies," "JHEP" 07 (2007) 069, arXiv:0704.2472.
+M. Kruczenski, "Wilson loops and minimal area surfaces in hyperbolic space," JHEP 11 (2014) 065, arXiv:1406.4945.
+C. Huang, Y. He, and M. Kruczenski, "Minimal area surfaces dual to Wilson loops and the Mathieu equation," JHEP 08 (2016) 088, arXiv:1604.00078.
+Y. He, C. Huang, and M. Kruczenski, "Minimal area surfaces in AdSn+1 and Wilson loops," JHEP 02 (2018) 027, arXiv:1712.06269.
+B. Chen and J.-B. Wu, "Wilson-Polyakov surfaces and M-theory branes," JHEP 05 (2008) 46, arXiv:0802.2173.
+C. R. Graham and E. Witten, "Conformal anomaly of submanifold observables in AdS/CFT correspondence," Nucl. Phys. B546 (1999) 52-64, hep-th/9901021.
+N. Drukker, M. Probst, and M. Trepanier, "Surface operators in the 6d N = (2, 0) theory," J. Phys. A 53 no. 36, (2020) 365401, arXiv:2003.12372.
+S. Deser and A. Schwimmer, "Geometric classification of conformal anomalies in arbitrary dimensions," Phys. Phys. B309 (1993) 279-284, hep-th/9302047.
+N. Boulanger, "General solutions of the Wess-Zumino consistency condition for the Weyl anomalies," JHEP 07 (2007) 069, arXiv:0704.2472.
 A. Schwimmer and S. Theisen, "Entanglement entropy, trace anomalies and holography," Nucl. Phys. B801 (2008) 1-24, arXiv:0802.1017.
 S. N. Solodukhin, "Entanglement entropy, conformal invariance and extrinsic geometry," Phys. Lett. B665 (2008) 305-309, arXiv:0802.3117.
-S. A. Gentle, M. Gutperle, and C. Marasinou, "Entanglement entropy of Wilson surfaces from bubbling geometries in M-theory," "JHEP" 08 (2015) 019, arXiv:1506.00052.
-R. Rodgers, "Holographic entanglement entropy from probe M-theory branes," "JHEP" 03 (2019) 092, arXiv:1811.12375.
-K. Jensen, A. O'Bannon, B. Robinson, and R. Rodgers, "From the Weyl anomaly to entropy of two-dimensional boundaries and defects," "Phys. Rev. Lett." 122 no. 24, (2019) 241602, arXiv:1812.08745.
-J. Estes, D. Krym, A. O'Bannon, B. Robinson, and R. Rodgers, "Wilson surface central charge from holographic entanglement entropy," "JHEP" 05 (2019) 032, arXiv:1812.00923.
-A. Chalabi, A. O'Bannon, B. Robinson, and J. Sisti, "Central charges of 2d superconformal defects," "JHEP" 05 (2020) 095, arXiv:2003.02857.
+S. A. Gentle, M. Gutperle, and C. Marasinou, "Entanglement entropy of Wilson surfaces from bubbling geometries in M-theory," JHEP 08 (2015) 019, arXiv:1506.00052.
+R. Rodgers, "Holographic entanglement entropy from probe M-theory branes," JHEP 03 (2019) 092, arXiv:1811.12375.
+K. Jensen, A. O'Bannon, B. Robinson, and R. Rodgers, "From the Weyl anomaly to entropy of two-dimensional boundaries and defects," Phys. Rev. Phys. 122 no. 24, (2019) 241602, arXiv:1812.08745.
+J. Estes, D. Krym, A. O'Bannon, B. Robinson, and R. Rodgers, "Wilson surface central charge from holographic entanglement entropy," JHEP 05 (2019) 032, arXiv:1812.00923.
+A. Chalabi, A. O'Bannon, B. Robinson, and J. Sisti, "Central charges of 2d superconformal defects," JHEP 05 (2020) 095, arXiv:2003.02857.
 Y. Wang, "Surface Defect, Anomalies and b-Extremization," arXiv:2012.06574.
-N. Drukker and M. Trepanier, "Observations on BPS observables in 6d," "J. Phys. A" 54 no. 20, (2021) 20, arXiv:2012.11087.
-M. Henningson and K. Skenderis, "Weyl anomaly for Wilson surfaces," "JHEP" 06 (1999) 12, hep-th/9905163.
-A. Gustavsson, "On the Weyl anomaly of Wilson surfaces," "JHEP" 12 (2003) 59, hep-th/0310037.
-A. Gustavsson, "Conformal anomaly of Wilson surface observables: A field theoretical computation," "JHEP" 07 (2004) 74, hep-th/0404150.
-J. K. Erickson, G. W. Semenoff, and K. Zarembo, "Wilson loops in N = 4 supersymmetric Yang-Mills theory," "Nucl. Phys." B582 (2000) 155-175, hep-th/0003055.
+N. Drukker and M. Trépanier, "Observations on BPS observables in 6d," J. Phys. A 54 no. 20, (2021) 20, arXiv:2012.11087.
+M. Henningson and K. Skenderis, "Weyl anomaly for Wilson surfaces," JHEP 06 (1999) 12, hep-th/9905163.
+A. Gustavsson, "On the Weyl anomaly of Wilson surfaces," JHEP 12 (2003) 59, hep-th/0310037.
+A. Gustavsson, "Conformal anomaly of Wilson surface observables: A field theoretical computation," JHEP 07 (2004) 74, hep-th/0404150.
+J. K. Erickson, G. W. Semenoff, and K. Zarembo, "Wilson loops in N = 4 supersymmetric Yang-Mills theory," Nucl. Phys. B582 (2000) 155-175, hep-th/0003055.
 N. Drukker and D. J. Gross, "An exact prediction of N = 4 SUSYM theory for string theory," J. Math. Phys. 42 (2001) 2896-2914, hep-th/0010274.
 V. Pestun, "Localization of gauge theory on a four-sphere and supersymmetric Wilson loops," Commun. Math. Phys. 313 (2012) 71-129, arXiv:0712.2824.
-K. Zarembo, "Supersymmetric Wilson loops," "Nucl. Phys. B" 643 (2002) 157-171, hep-th/0205160.
-N. Drukker, S. Giombi, R. Ricci, and D. Trancanelli, "Supersymmetric Wilson loops on S3," "JHEP" 05 (2008) 017, arXiv:0711.3226.
+K. Zarembo, "Supersymmetric Wilson loops," Nucl. Phys. B 643 (2002) 157-171, hep-th/0205160.
+N. Drukker, S. Giombi, R. Ricci, and D. Trancanelli, "Supersymmetric Wilson loops on S3," JHEP 05 (2008) 017, arXiv:0711.3226.
 A. Dymarsky and V. Pestun, "Supersymmetric Wilson loops in N = 4 SYM and pure spinors," JHEP 04 (2010) 115, arXiv:0911.1841.
-Z. Guralnik and B. Kulik, "Properties of chiral Wilson loops," "JHEP" 01 (2004) 065, hep-th/0309118.
-Z. Guralnik, S. Kovacs, and B. Kulik, "Less is more: Non-renormalization theorems from lower dimensional superspace," "Int. J. Mod. Phys. A" 20 (2005) 4546-4553, hep-th/0409091.
-A. Dymarsky, S. S. Gubser, Z. Guralnik, and J. M. Maldacena, "Calibrated surfaces and supersymmetric Wilson loops," "JHEP" 09 (2006) 057, hep-th/0604058.
+Z. Guralnik and B. Kulik, "Properties of chiral Wilson loops," JHEP 01 (2004) 065, hep-th/0309118.
+Z. Guralnik, S. Kovacs, and B. Kulik, "Less is more: Non-renormalization theorems from lower dimensional superspace," Int. J. Mod. Phys. A 20 (2005) 4546-4553, hep-th/0409091.
+A. Dymarsky, S. S. Gubser, Z. Guralnik, and J. M. Maldacena, "Calibrated surfaces and supersymmetric Wilson loops," JHEP 09 (2006) 057, hep-th/0604058.

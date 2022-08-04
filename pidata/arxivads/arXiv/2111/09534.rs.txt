@@ -30,7 +30,7 @@ Ferrand, G., & Safi-Harb, S. 2012, Advances in Space Research, 49, 1313, doi: 10
 H. E. S. S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A3, doi: 10.1051/0004-6361/201732125
 H. E. S. S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A6, doi: 10.1051/0004-6361/201629790
 H.E.S.S. Collaboration, Abdalla, H., Abramowski, A., et al. 2018, A&A, 612, A7, doi: 10.1051/0004-6361/201630002
-Ilkiewicz, K., Mikolajewska, J., Belczynski, K., Wiktorowicz, G., & Karczmarek, P. 2019, MNRAS, 485, 5468, doi: 10.1093/mnras/stz760
+Ilkiewicz, K., Mikolajewska, J., Belczyński, K., Wiktorowicz, G., & Karczmarek, P. 2019, MNRAS, 485, 5468, doi: 10.1093/mnras/stz760
 Katsuda, S., Acero, F., Tominaga, N., et al. 2015, ApJ, 814, 29, doi: 10.1088/0004-637X/814/1/29
 Krause, O., Birkmann, S. M., Usuda, T., et al. 2008, Science, 320, 1195, doi: 10.1126/science.1155788, doi:10.1126/science.1155788
 Lee, S.-H., Ellison, D. C., & Nagataki, S. 2012, ApJ, 750, 156, doi: 10.1088/0004-637X/750/2/156
@@ -60,5 +60,5 @@ Woosley, S. E., Sukhbold, T., & Kasen, D. N. 2021, ApJ, 913, 145, doi: 10.3847/1
 Yasuda, H., & Lee, S.-H. 2019, ApJ, 876, 27, doi: 10.3847/1538-4357/ab13ab
 Yasuda, H., Lee, S.-H., & Maeda, K. 2021, ApJL, 919, L16, doi: 10.3847/2041-8213/ac24ac
 Yoon, S.-C. 2017, MNRAS, 470, 3970, doi: 10.1093/mnras/stx1496
-Yuan, Y., Funk, S., Johannesson, G., et al. 2013, ApJ, 779, 117, doi: 10.1088/0004-637X/779/2/117
+Yuan, Y., Funk, S., Jóhannesson, G., et al. 2013, ApJ, 779, 117, doi: 10.1088/0004-637X/779/2/117
 Zirakashvili, V. N., & Ptuskin, V. S. 2012, Astroparticle Physics, 39, 12, doi: 10.1016/j.astropartphys.2011.09.003

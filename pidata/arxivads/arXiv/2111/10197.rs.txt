@@ -25,17 +25,17 @@ A. Cucchieri, A. Maas, T. Mendes, Phys. Rev. D77, 094510 (2008), 0803.1798
 A. Sternbeck, P.H. Balduf, A. Kizilersu, O. Oliveira, P.J. Silva, J.I. Skullerud, A.G. Williams, PoS LATTICE2016, 349 (2017), 1702.00612
 A. Maas (2019), 1907.10435
 A. Athenodorou, D. Binosi, P. Boucaud, F. De Soto, J. Papavassiliou, J. Rodriguez-Quintero, S. Zafeiropoulos, Phys. Lett. B761, 444 (2016), 1607.01278
-P. Boucaud, F. De Soto, J. Rodriguez-Quintero, S. Zafeiropoulos, Phys. Rev. D95, 114503 (2017), 1701.07390
+P. Boucaud, F. De Soto, J. Rodríguez-Quintero, S. Zafeiropoulos, Phys. Rev. D95, 114503 (2017), 1701.07390
 P. Boucaud et al., JHEP 06, 012 (2008), 0801.2721
 C.S. Fischer, A. Maas, J.M. Pawlowski, Annals Phys. 324, 2408 (2009), 0810.1987
 R. Alkofer, M.Q. Huber, K. Schwenzer, Phys. Rev. D81, 105010 (2010), 0801.2762
 A. Maas, Phys. Lett. B689, 107 (2010), 0907.5185
 A. Maas, Phys.Rept. 524, 203 (2013), 1106.3942
-A. Sternbeck, M. Muller-Preussker, Phys.Lett. B726, 396 (2013), 1211.3057
+A. Sternbeck, M. Müller-Preussker, Phys.Lett. B726, 396 (2013), 1211.3057
 M.Q. Huber, Phys. Rept. 879, 1 (2020), 1808.05227
 G. Eichmann, J.M. Pawlowski, J.a.M. Silva (2021), 2107.05352
 C.S. Fischer, M.Q. Huber, Phys. Rev. D 102, 094005 (2020), 2007.11505
 L. Schlessinger, Phys. Rev. 167, 1411 (1968)
 R.A. Tripolt, P. Gubler, M. Ulybyshev, L. Von Smekal, Comput. Phys. Commun. 237, 129 (2019), 1801.10348
-A. Sternbeck (2006), phD thesis, Humboldt-Universitat zu Berlin, hep-lat/0609016
+A. Sternbeck (2006), phD thesis, Humboldt-Universität zu Berlin, hep-lat/0609016
 C.S. Fischer, D. Nickel, J. Wambach, Phys. Rev. D76, 094009 (2007), 0705.4407

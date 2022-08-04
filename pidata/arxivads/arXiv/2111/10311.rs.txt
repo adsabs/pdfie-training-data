@@ -5,7 +5,7 @@ A. Neronov and I. Vovk, Science 328, 73 (2010), 1006.3504.
 A. Taylor, I. Vovk, and A. Neronov, Astron. Astrophys. 529, A144 (2011), 1101.0932.
 M. Ackermann et al. (Fermi-LAT), Astrophys. J. Suppl. 237, 32 (2018), 1804.08035.
 A. Korochkin, O. Kalashev, A. Neronov, and D. Semikoz, Astrophys. J. 906, 116 (2021), 2007.14331.
-I. Vovk, J. Biteau, H. Mart inez-Huerta, M. Meyer, and S. Pita (CTA Consortium), PoS ICRC2021, 894 (2021), 2110.07864.
+I. Vovk, J. Biteau, H. Martínez-Huerta, M. Meyer, and S. Pita (CTA Consortium), PoS ICRC2021, 894 (2021), 2110.07864.
 R. Banerjee and K. Jedamzik, Phys. Rev. D 70, 123003 (2004), astro-ph/0410032.
 T. Kahniashvili, A. G. Tevzadze, A. Brandenburg, and A. Neronov, Phys. Rev. D 87, 083007 (2013), 1212.0596.
 B. Ratra, Ap.J.Lett. 391, L1 (1992).
@@ -15,7 +15,7 @@ M. Giovannini and M. E. Shaposhnikov, Phys. Rev. D 62, 103512 (2000), hep-ph/000
 V. Demozzi, V. Mukhanov, and H. Rubinstein, JCAP 08, 025 (2009), 0907.1030.
 R. J. Z. Ferreira, R. K. Jain, and M. S. Sloth, JCAP 10, 004 (2013), 1305.7151.
 R. Durrer and A. Neronov, Astron. Astrophys. Rev. 21, 62 (2013), 1303.7121.
-S. Bertone, C. Vogt, and T. Enlin, MNRAS 370, 319 (2006), astro-ph/0604462.
+S. Bertone, C. Vogt, and T. Enßlin, MNRAS 370, 319 (2006), astro-ph/0604462.
 F. Marinacci, M. Vogelsberger, R. Pakmor, P. Torrey, V. Springel, L. Hernquist, D. Nelson, R. Weinberger, A. Pillepich, J. Naiman, et al., MNRAS 480, 5113 (2018), 1707.03396.
 K. Bondarenko, A. Boyarsky, A. Korochkin, A. Neronov, D. Semikoz, and A. Sokolenko (2021), 2106.02690.
 J. Jasche and B. D. Wandelt, MNRAS 432, 894 (2013), 1203.3639.
@@ -34,7 +34,7 @@ A. Franceschini, G. Rodighiero, and M. Vaccari, A&A 487, 837 (2008), 0805.1841.
 A. Neronov, D. Semikoz, M. Kachelriess, S. Ostapchenko, and A. Elyiv, Ap.J.Lett. 719, L130 (2010), 1002.4981.
 A. A. Abdo et al. (LAT, MAGIC, VERITAS), Astrophys. J. 727, 129 (2011), 1011.5260.
 B. e. a. A. Bartoli, Astrophys. J. 758, 2 (2012), 1209.0534.
-S. Coutino de Leon, A. C. Alonso, D. Rosa-Gonzalez, and A. L. Longinotti, in "(2019), vol. 36 of ", p. 654, 1909.01179.
+S. Coutiño de Leon, A. C. Alonso, D. Rosa-Gonzalez, and A. L. Longinotti, in "(2019), vol. 36 of ", p. 654, 1909.01179.
 S. Abdollahi et al. (Fermi-LAT), Astrophys. J. Suppl. 247, 33 (2020), 1902.10045.
 B. Bartoli et al. (ARGO-YBJ), Astrophys. J. Suppl. 222, 6 (2016), 1511.06851.
 V. A. Acciari et al., Astrophys. J. 738, 25 (2011), 1106.1210.

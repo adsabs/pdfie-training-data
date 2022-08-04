@@ -15,13 +15,13 @@ Gianninas, A., Bergeron, P., & Ruiz, M. T. 2011, ApJ, 743, 138
 Isern, J., Garsia-Berro, E., Kulebi, B., & Loren-Aguilar, P. 2017, ApJ, 836, L28
 Kawka, A. & Vennes, S. 2006, ApJ, 643, 402
 Kemp, J. C., Swedlund, J. B., Landstreet, J. D., & Angel, J. R. P. 1970, ApJ, 161, L77
-Kulebi, B., Jordan, S., Euchner, F., Gansicke, B. T., & Hirsch, H. 2009, A&A, 506, 1341
+Külebi, B., Jordan, S., Euchner, F., Gänsicke, B. T., & Hirsch, H. 2009, A&A, 506, 1341
 Landstreet, J. D. & Angel, J. R. P. 1971, ApJ, 165, L67
 Landstreet, J. D. & Angel, J. R. P. 1975, ApJ, 196, 819
 Landstreet, J. D. & Bagnulo, S. 2019, A&A, 623, A46
 Liebert, J., Angel, J. R. P., & Landstreet, J. D. 1975, ApJ, 202, L139
 Liebert, J. & Stockman, H. S. 1980, PASP, 92, 657
-Limoges, M. M., Lepine, S., & Bergeron, P. 2013, AJ, 145, 136
+Limoges, M. M., Lépine, S., & Bergeron, P. 2013, AJ, 145, 136
 Patat, F. & Romaniello, M. 2006, PASP, 118, 146
 Piirola, V., Berdyugin, A., & Berdyugina, S. 2014, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9147, Ground-based and Airborne Instrumentation for Astronomy V, ed. S. K. Ramsay, I. S. McLean, & H. Takami, 91478I
 Piirola, V., Kosenkov, I. A., Berdyugin, A. V., Berdyugina, S. V., & Poutanen, J. 2021, AJ, 161, 20
@@ -34,5 +34,5 @@ Schmidt, G. D. & Smith, P. S. 1995, ApJ, 448, 305
 Shipman, H. L. 1971, ApJ, 167, 165
 Valyavin, G., Wade, G. A., Bagnulo, S., et al. 2008, ApJ, 683, 466
 Vanderburg, A., Rappaport, S. A., Xu, S., et al. 2020, Nature, 585, 363
-Veron-Cetty, M. P. & Veron, P. 2010, A&A, 518, A10
+Véron-Cetty, M. P. & Véron, P. 2010, A&A, 518, A10
 West, S. C. 1989, ApJ, 345, 511

@@ -1,7 +1,7 @@
 Abdo, A. A., Ackermann, M., Ajello, M., et al. 2011, ApJ, 736, 131, doi: 10.1088/0004-637X/736/2/131
 Barcons, X., Barret, D., Decourchelle, A., et al. 2017, Astronomische Nachrichten, 338, 153, doi: 10.1002/asna.201713323
 Blanton, M. R., Bershady, M. A., Abolfathi, B., et al. 2017, AJ, 154, 28, doi: 10.3847/1538-3881/aa7567
-Bonnarel, F., Fernique, P., Bienayme, O., et al. 2000, A&AS, 143, 33, doi: 10.1051/aas:2000331
+Bonnarel, F., Fernique, P., Bienaymé, O., et al. 2000, A&AS, 143, 33, doi: 10.1051/aas:2000331
 Bowen, D. V., Pettini, M., & Blades, J. C. 2002, ApJ, 580, 169, doi: 10.1086/343106
 Bregman, J. N., Alves, G. C., Miller, M. J., & Hodges-Kluck, E. 2015, Journal of Astronomical Telescopes, Instruments, and Systems, 1, 045003, doi: 10.1117/1.JATIS.1.4.045003
 Bregman, J. N., Hodges-Kluck, E., Qu, Z., et al. 2021, arXiv e-prints, arXiv:2107.14281. https://arxiv.org/abs/2107.14281

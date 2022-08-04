@@ -3,7 +3,7 @@ Baldassare, V. F., Reines, A. E., Gallo, E., & Greene, J. E. 2017, The Astrophys
 Bellovary, J. M., Cleary, C. E., Munshi, F., et al. 2019, MNRAS, 482, 2913, doi: 10.1093/mnras/sty2842
 Birchall, K. L., Watson, M. G., & Aird, J. 2020, Monthly Notices of the Royal Astronomical Society, 492, 2268, doi: 10.1093/mnras/staa040
 Blanton, M. R., & Roweis, S. 2007, AJ, 133, 734, doi: 10.1086/510127
-Boller, T., Freyberg, M. J., Trumper, J., et al. 2016, A&A, 588, A103, doi: 10.1051/0004-6361/201525648
+Boller, T., Freyberg, M. J., Trümper, J., et al. 2016, A&A, 588, A103, doi: 10.1051/0004-6361/201525648
 Brunner, H., Liu, T., Lamer, G., et al. 2021, arXiv e-prints, arXiv:2106.14517. https://arxiv.org/abs/2106.14517
 Dey, A., Schlegel, D. J., Lang, D., et al. 2019, AJ, 157, 168, doi: 10.3847/1538-3881/ab089d
 Dickey, J. M., & Lockman, F. J. 1990, ARA&A, 28, 215, doi: 10.1146/annurev.aa.28.090190.001243
@@ -20,7 +20,7 @@ Jarrett, T. H., Masci, F., Tsai, C. W., et al. 2013, The Astronomical Journal, 1
 Kaaret, P., Feng, H., & Roberts, T. P. 2017, ARA&A, 55, 303, doi: 10.1146/annurev-astro-091916-055259
 Kennicutt, R. C., & Evans, N. J. 2012, Annual Review of Astronomy and Astrophysics, 50, 531, doi: 10.1146/annurev-astro-081811-125610
 Kimbro, E., Reines, A. E., Molina, M., Deller, A. T., & Stern, D. 2021, ApJ, 912, 89, doi: 10.3847/1538-4357/abec6a
-Kovacs, O. E., Bogdan, A., & Canning, R. E. A. 2020, ApJ, 898, 164, doi: 10.3847/1538-4357/aba04f
+Kovács, O. E., Bogdán, Á., & Canning, R. E. A. 2020, ApJ, 898, 164, doi: 10.3847/1538-4357/aba04f
 Kraft, R. P., Burrows, D. N., & Nousek, J. A. 1991, ApJ, 374, 344, doi: 10.1086/170124
 Latimer, L. J., Reines, A. E., Hainline, K. N., Greene, J. E., & Stern, D. 2021, arXiv e-prints, arXiv:2105.05876. https://arxiv.org/abs/2105.05876
 Lehmer, B. D., Alexander, D. M., Bauer, F. E., et al. 2010, The Astrophysical Journal, 724, 559. http://stacks.iop.org/0004-637X/724/i=1/a=559
