@@ -12,7 +12,7 @@ Coti Zelati, F., Papitto, A., de Martino, D., et al. 2019, A&A, 622, A211
 Dewey, R. J., Taylor, J. H., Weisberg, J. M., & Stokes, G. H. 1985, ApJ, 294, L25
 Halpern, J. P., Bogdanov, S., & Thorstensen, J. R. 2017, ApJ, 838, 124
 He, L., et al. 2019, Research in Astronomy and Astrophysics, 19, 098
-HI4PI Collaboration, Ben Bekhti, N., Floer, L., et al. 2016, A&A, 594, A116
+HI4PI Collaboration, Ben Bekhti, N., Flöer, L., et al. 2016, A&A, 594, A116
 Jiang, P., Tang, N.-Y., Hou, L.-G., et al. 2020, Research in Astronomy and Astrophysics, 20, 064
 Li, K.-L., Kong, A. K. H., Hou, X., et al. 2016, ApJ, 833, 143
 Li, K.-L., Hou, X., Strader, J., et al. 2018, ApJ, 863, 194

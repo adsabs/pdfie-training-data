@@ -30,7 +30,7 @@ Event Horizon Telescope Collaboration, Akiyama, K., Algaba, J. C., et al. 2021, 
 Fabian, A. C. 2012, ARA&A, 50, 455, doi: 10.1146/annurev-astro-081811-125521
 Fender, R. P., Belloni, T. M., & Gallo, E. 2004, MNRAS, 355, 1105, doi: 10.1111/j.1365-2966.2004.08384.x
 Ferreira, J. 1997, A&A, 319, 340. https://arxiv.org/abs/astro-ph/9607057
-Ferreira, J., Petrucci, P. O., Henri, G., Sauge, L., & Pelletier, G. 2006, A&A, 447, 813, doi: 10.1051/0004-6361:20052689
+Ferreira, J., Petrucci, P. O., Henri, G., Saugé, L., & Pelletier, G. 2006, A&A, 447, 813, doi: 10.1051/0004-6361:20052689
 Fromang, S., & Stone, J. M. 2009, A&A, 507, 19, doi: 10.1051/0004-6361/200912752
 Fukumura, K., Kazanas, D., Contopoulos, I., & Behar, E. 2010, ApJ, 715, 636, doi: 10.1088/0004-637X/715/1/636
 Fukumura, K., Kazanas, D., Shrader, C., et al. 2017, Nature Astronomy, 1, 0062, doi: 10.1038/s41550-017-0062
@@ -74,7 +74,7 @@ Miller, J. M., Raymond, J., Reynolds, C. S., et al. 2008, ApJ, 680, 1359, doi: 1
 Miller, J. M., Raymond, J., Fabian, A. C., et al. 2012, ApJL, 759, L6, doi: 10.1088/2041-8205/759/1/L6
 Miller, J. M., Zoghbi, A., Raymond, J., et al. 2020, ApJ, 904, 30, doi: 10.3847/1538-4357/abbb31
 Mishra, B., Begelman, M. C., Armitage, P. J., & Simon, J. B. 2020, MNRAS, 492, 1855, doi: 10.1093/mnras/stz3572
-Mondal, S., Rozanska, A., Lai, E. V., & De Marco, B. 2020, A&A, 642, A94, doi: 10.1051/0004-6361/202038684
+Mondal, S., Różańska, A., Lai, E. V., & De Marco, B. 2020, A&A, 642, A94, doi: 10.1051/0004-6361/202038684
 Parker, E. N. 1979, Cosmical magnetic fields. Their origin and their activity (Oxford: Clarendon Press)
 Parker, M. L., Alston, W. N., Buisson, D. J. K., et al. 2017, MNRAS, 469, 1553, doi: 10.1093/mnras/stx945
 Proga, D., & Kallman, T. R. 2004, ApJ, 616, 688, doi: 10.1086/425117
@@ -101,7 +101,7 @@ Stevens, I. R., & Kallman, T. R. 1990, ApJ, 365, 321, doi: 10.1086/169486
 Suzuki, T. K., & Inutsuka, S.-i. 2014, ApJ, 784, 121, doi: 10.1088/0004-637X/784/2/121
 Tombesi, F., Cappi, M., Reeves, J. N., et al. 2013, MNRAS, 430, 1102, doi: 10.1093/mnras/sts692
 —. 2010a, A&A, 521, A57, doi: 10.1051/0004-6361/200913440
-Tombesi, F., Melendez, M., Veilleux, S., et al. 2015, Nature, 519, 436, doi: 10.1038/nature14261
+Tombesi, F., Meléndez, M., Veilleux, S., et al. 2015, Nature, 519, 436, doi: 10.1038/nature14261
 Tombesi, F., Sambruna, R. M., Reeves, J. N., et al. 2010b, ApJ, 719, 700, doi: 10.1088/0004-637X/719/1/700
 Tombesi, F., Sambruna, R. M., Reeves, J. N., Reynolds, C. S., & Braito, V. 2011, MNRAS, 418, L89, doi: 10.1111/j.1745-3933.2011.01149.x
 Tout, C. A., & Pringle, J. E. 1992, MNRAS, 259, 604, doi: 10.1093/mnras/259.4.604

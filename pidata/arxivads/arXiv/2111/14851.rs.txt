@@ -12,7 +12,7 @@ Forbes, D. A., Alabi, A., Romanowsky, A. J., Brodie, J. P., & Arimoto, N. 2020, 
 Forbes, D. A., Gannon, J., Couch, W. J., et al. 2019, A&A, 626, A66
 Forbes, D. A., Gannon, J. S., Romanowsky, A. J., et al. 2021, MNRAS, 500, 1279
 Forbes, D. A., Bastian, N., Gieles, M., et al. 2018, Proceedings of the Royal Society of London Series A, 474, 20170616
-Genzel, R., Forster Schreiber, N. M., Rosario, D., et al. 2014, ApJ, 796, 7
+Genzel, R., Förster Schreiber, N. M., Rosario, D., et al. 2014, ApJ, 796, 7
 Greco, J. P., van Dokkum, P., Danieli, S., Carlsten, S. G., & Conroy, C. 2021, ApJ, 908, 24
 Harris, W. E. 1996, AJ, 112, 1487
 Harris, W. E., Harris, G. L. H., & Alessi, M. 2013, ApJ, 772, 82
@@ -26,12 +26,12 @@ Kruijssen, J. M. D. 2015, MNRAS, 454, 1658
 Krumholz, M. R., McKee, C. F., & Bland-Hawthorn, J. 2019, ARA&A, 57, 227
 Lamers, H. J. G. L. M., Baumgardt, H., & Gieles, M. 2010, MNRAS, 409, 305
 Larsen, S. S., Strader, J., & Brodie, J. P. 2012, A&A, 544, L14
-Lim, S., Peng, E. W., Cote, P., et al. 2018, ApJ, 862, 82
-Lim, S., Cote, P., Peng, E. W., et al. 2020, ApJ, 899, 69
+Lim, S., Peng, E. W., Côté, P., et al. 2018, ApJ, 862, 82
+Lim, S., Côté, P., Peng, E. W., et al. 2020, ApJ, 899, 69
 Mahdavi, A., Trentham, N., & Tully, R. B. 2005, AJ, 130, 1502
 Miller, B. W., & Lotz, J. M. 2007, ApJ, 670, 1074
-Muller, O., Marleau, F. R., Duc, P.-A., et al. 2020, A&A, 640, A106
-Muller, O., Durrell, P. R., Marleau, F. R., et al. 2021, arXiv e-prints, arXiv:2101.10659
+Müller, O., Marleau, F. R., Duc, P.-A., et al. 2020, A&A, 640, A106
+Müller, O., Durrell, P. R., Marleau, F. R., et al. 2021, arXiv e-prints, arXiv:2101.10659
 Peng, E. W., & Lim, S. 2016, ApJL, 822, L31
 Pfeffer, J., Bastian, N., Kruijssen, J. M. D., et al. 2019, MNRAS, 490, 1714
 Reina-Campos, M., & Kruijssen, J. M. D. 2017, MNRAS, 469, 1282

@@ -1,6 +1,6 @@
 J. Barnard, T. Gherghetta, T.S. Ray, JHEP 02, 002 (2014), 1311.6562
 G. Ferretti, D. Karateev, JHEP 03, 077 (2014), 1312.5330
-G. Cacciapaglia, G. Ferretti, T. Flacke, H. Serodio, Front. in Phys. 7, 22 (2019), 1902.06890
+G. Cacciapaglia, G. Ferretti, T. Flacke, H. Serôdio, Front. in Phys. 7, 22 (2019), 1902.06890
 D.B. Kaplan, H. Georgi, Phys. Lett. B 136, 183 (1984)
 D.B. Kaplan, Nucl. Phys. B 365, 259 (1991)
 V. Ayyar, T. DeGrand, M. Golterman, D.C. Hackett, W.I. Jay, E.T. Neil, Y. Shamir, B. Svetitsky, Phys. Rev. D 97, 074505 (2018), 1710.00806

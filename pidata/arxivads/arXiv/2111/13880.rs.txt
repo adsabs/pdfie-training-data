@@ -7,7 +7,7 @@ Du, M., Yi, S.-X., Liu, T., et al. 2021, ApJ, 908, 242. doi:10.3847/1538-4357/ab
 Detmers, R. G., Langer, N., Podsiadlowski, P., et al. 2008, A&A, 484, 831. doi:10.1051/0004-6361:200809371
 Gehrels, N., Chincarini, G., Giommi, P., et al. 2004, ApJ, 611, 1005. doi:10.1086/422091
 Ghirlanda, G., Nava, L., Ghisellini, G., et al. 2012, MNRAS, 420, 483. doi:10.1111/j.1365-2966.2011.20053.x
-Japelj, J., Kopac, D., Kobayashi, S., et al. 2014, ApJ, 785, 84. doi:10.1088/0004-637X/785/2/84
+Japelj, J., Kopač, D., Kobayashi, S., et al. 2014, ApJ, 785, 84. doi:10.1088/0004-637X/785/2/84
 Li, L., Wang, X.-G., Zheng, W., et al. 2020, ApJ, 900, 176. doi:10.3847/1538-4357/aba757
 Li, Y., Wen, X., Sun, X., et al. 2020, Scientia Sinica Physica, Mechanica & Astronomica, 50, 129508. doi:10.1360/SSPMA-2019-0417
 Liang, E.-W., Li, L., Gao, H., et al. 2013, ApJ, 774, 13. doi:10.1088/0004-637X/774/1/13
@@ -17,8 +17,8 @@ Liu, T., Song, C.-Y., Zhang, B., et al. 2018, ApJ, 852, 20. doi:10.3847/1538-435
 MacFadyen, A. I. & Woosley, S. E. 1999, ApJ, 524, 262. doi:10.1086/307790
 Meegan, C., Lichti, G., Bhat, P. N., et al. 2009, ApJ, 702, 791. doi:10.1088/0004-637X/702/1/791
 Meszaros, P. & Rees, M. J. 1993, ApJ, 405, 278. doi:10.1086/172360
-Meszaros, P. & Rees, M. J. 1997, ApJ, 476, 232. doi:10.1086/303625
-Meszaros, P. 2002, ARA&A, 40, 137. doi:10.1146/annurev.astro.40.060401.093821
+Mészáros, P. & Rees, M. J. 1997, ApJ, 476, 232. doi:10.1086/303625
+Mészáros, P. 2002, ARA&A, 40, 137. doi:10.1146/annurev.astro.40.060401.093821
 Molinari, E., Vergani, S. D., Malesani, D., et al. 2007, A&A, 469, L13. doi:10.1051/0004-6361:20077388
 Nousek, J. A., Kouveliotou, C., Grupe, D., et al. 2006, ApJ, 642, 389. doi:10.1086/500724
 Oates, S. R., Page, M. J., Schady, P., et al. 2009, MNRAS, 395, 490. doi:10.1111/j.1365-2966.2009.14544.x
@@ -32,7 +32,7 @@ Rykoff, E. S., Aharonian, F., Akerlof, C. W., et al. 2009, ApJ, 702, 489. doi:10
 Sari, R. & Piran, T. 1999, ApJ, 520, 641. doi:10.1086/307508
 Sari, R., Piran, T., & Narayan, R. 1998, ApJL, 497, L17. doi:10.1086/311269
 Si, S.-K., Qi, Y.-Q., Xue, F.-X., et al. 2018, ApJ, 863, 50. doi:10.3847/1538-4357/aad08a
-Schulze, S., Klose, S., Bjornsson, G., et al. 2011, A&A, 526, A23. doi:10.1051/0004-6361/201015581
+Schulze, S., Klose, S., Björnsson, G., et al. 2011, A&A, 526, A23. doi:10.1051/0004-6361/201015581
 Starling, R. L. C., van der Horst, A. J., Rol, E., et al. 2008, ApJ, 672, 433. doi:10.1086/521975
 Sander, A. A. C. & Vink, J. S. 2020, MNRAS, 499, 873. doi:10.1093/mnras/staa2712
 Wang, X.-G., Zhang, B., Liang, E.-W., et al. 2018, ApJ, 859, 160. doi:10.3847/1538-4357/aabc13

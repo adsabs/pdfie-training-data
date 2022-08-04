@@ -11,7 +11,7 @@ Fontani, F., Sakai, T., Furuya, K., et al. 2014, MNRAS, 440, 448. doi:10.1093/mn
 Furuya, K., Aikawa, Y., Hincelin, U., et al. 2015, A&A, 584, A124. doi:10.1051/0004-6361/201527050
 Garrod, R. T., Wakelam, V., & Herbst, E. 2007, A&A, 467, 1103. doi:10.1051/0004-6361:20066704
 Garrod, R. T. 2013, ApJ, 765, 60. doi:10.1088/0004-637X/765/1/60
-Guzman, A. E., Sanhueza, P., Contreras, Y., et al. 2015, ApJ, 815, 130. doi:10.1088/0004-637X/815/2/130
+Guzmán, A. E., Sanhueza, P., Contreras, Y., et al. 2015, ApJ, 815, 130. doi:10.1088/0004-637X/815/2/130
 Hasegawa, T. I. & Herbst, E. 1993a, MNRAS, 263, 589. doi:10.1093/mnras/263.3.589
 Hasegawa, T. I. & Herbst, E. 1993b, MNRAS, 261, 83. doi:10.1093/mnras/261.1.83
 Kong, S., Tan, J. C., Caselli, P., et al. 2016, ApJ, 821, 94. doi:10.3847/0004-637X/821/2/94
@@ -24,7 +24,7 @@ McMullin, J. P., Waters, B., Schiebel, D., et al. 2007, Astronomical Data Analys
 McKee, C. F. & Tan, J. C. 2003, ApJ, 585, 850. doi:10.1086/346149
 Morii, K., Sanhueza, P., Nakamura, F., et al. 2021, accepted to, ApJ, arXiv:2109.01231
 Miettinen, O., Hennemann, M., & Linz, H. 2011, A&A, 534, A134. doi:10.1051/0004-6361/201117187
-Muller, H. S. P., Schloder, F., Stutzki, J., et al. 2005, Journal of Molecular Structure, 742, 215. doi:10.1016/j.molstruc.2005.01.027
+Müller, H. S. P., Schlöder, F., Stutzki, J., et al. 2005, Journal of Molecular Structure, 742, 215. doi:10.1016/j.molstruc.2005.01.027
 Padoan, P., Pan, L., Juvela, M., et al. 2020, ApJ, 900, 82. doi:10.3847/1538-4357/abaa47
 Peretto, N. & Fuller, G. A. 2009, A&A, 505, 405. doi:10.1051/0004-6361/200912127
 Redaelli, E., Bizzocchi, L., Caselli, P., et al. 2019, A&A, 629, A15. doi:10.1051/0004-6361/201935314
@@ -42,10 +42,10 @@ Simon, R., Rathborne, J. M., Shah, R. Y., et al. 2006, ApJ, 653, 1325. doi:10.10
 Tan, J. C., Kong, S., Butler, M. J., et al. 2013, ApJ, 779, 96. doi:10.1088/0004-637X/779/2/96
 Tafoya, D., Sanhueza, P., Zhang, Q., et al. 2021, arXiv:2104.02625
 Tielens, A. G. G. M. 2005, The Physics and Chemistry of the Interstellar Medium (Cambridge: Cambridge Univ. Press), 219
-Tine, S., Roueff, E., Falgarone, E., et al. 2000, A&A, 356, 1039
+Tiné, S., Roueff, E., Falgarone, E., et al. 2000, A&A, 356, 1039
 Traficante, A., Fuller, G. A., Peretto, N., et al. 2015, MNRAS, 451, 3089. doi:10.1093/mnras/stv1158
 van der Tak, F. F. S. & van Dishoeck, E. F. 2000, A&A, 358, L79
 Vasyunin, A. I. & Herbst, E. 2013, ApJ, 762, 86. doi:10.1088/0004-637X/762/2/86
-Vazquez-Semadeni, E., Palau, A., Ballesteros-Paredes, J., et al. 2019, MNRAS, 490, 3061. doi:10.1093/mnras/stz2736
+Vázquez-Semadeni, E., Palau, A., Ballesteros-Paredes, J., et al. 2019, MNRAS, 490, 3061. doi:10.1093/mnras/stz2736
 Wakelam, V., Loison, J. C., Herbst, E., et al. 2015, ApJS, 217, 20. doi:10.1088/0067-0049/217/2/20
 Yamamoto, T., Nakagawa, N., & Fukui, Y. 1983, A&A, 122, 171

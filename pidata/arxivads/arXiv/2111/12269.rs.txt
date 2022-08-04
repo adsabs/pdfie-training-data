@@ -8,7 +8,7 @@ Gil J., Lyubarsky Y., Melikidze G. I., 2004, ApJ, 600, 872
 Goldreich P., Julian W. H., 1969, ApJ, 157, 869
 Jackson J. D., 1998, Classical Electrodynamics, 3rd Edition
 Katz J. I., 2014, Phys. Rev. D, 89, 103009
-Kumar P., Bosnjak Z., 2020, MNRAS, 494, 2385
+Kumar P., Bošnjak Ž., 2020, MNRAS, 494, 2385
 Kumar P., Lu W., Bhattacharya M., 2017, MNRAS, 468, 2726
 Li C. K., et al., 2021, Nature Astronomy, 5, 378
 Lorimer D. R., Bailes M., McLaughlin M. A., Narkevic D. J., Crawford F., 2007, Science, 318, 777

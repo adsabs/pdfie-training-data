@@ -2,7 +2,7 @@ Asseo, E. & Melikidze, G. I. 1998, MNRAS, 301, 59. doi:10.1046/j.1365-8711.1998.
 Beloborodov, A. M. 2020, ApJ, 896, 142. doi:10.3847/1538-4357/ab83eb
 Beloborodov, A. M. 2021, arXiv:2108.07881
 Bilous, A. V., Griessmeier, J. M., Pennucci, T., et al. 2021, arXiv:2109.08500
-Benacek, J., Munoz, P. A., & Buchner, J. 2021, arXiv:2106.13525
+Benáček, J., Muñoz, P. A., & Büchner, J. 2021, arXiv:2106.13525
 Bochenek, C. D., Ravi, V., Belov, K. V., et al. 2020, Nature, 587, 59. doi:10.1038/s41586-020-2872-x
 Caleb, M., Stappers, B. W., Abbott, T. D., et al. 2020, MNRAS, 496, 4565. doi:10.1093/mnras/staa1791
 Chamma, M. A., Rajabi, F., Wyenberg, C. M., et al. 2021, MNRAS, 507, 246. doi:10.1093/mnras/stab2070

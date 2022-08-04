@@ -10,7 +10,7 @@ Costa J., Silva A. R., Ludi A., Magun A., 2002, Astronomy & Astrophysics, 387, 1
 Emilio M., Kuhn J. R., Bush R. I., Scherrer P., 2000, ApJ, 543, 1007
 Fontenla J. M., Avrett E. H., Loeser R., 1993, ApJ, 406, 319
 Gilliland R. L., 1981, ApJ, 248, 1144
-Gimenez de Castro C. G., Pereira A. L. G., Valle Silva J. F., Selhorst C. L., Mand rini C. H., Cristiani G. D., Raulin J.-P., Valio A., 2020, arXiv e-prints, p. arXiv:2009.03445
+Giménez de Castro C. G., Pereira A. L. G., Valle Silva J. F., Selhorst C. L., Mand rini C. H., Cristiani G. D., Raulin J.-P., Valio A., 2020, arXiv e-prints, p. arXiv:2009.03445
 Horne K., Hurford G. J., Zirin H., de Graauw T., 1981, ApJ, 244, 340
 Kaufmann P., et al., 2008, in Ground-based and Airborne Telescopes II. p. 70120L, doi:10.1117/12.788889
 Kilcik A., Sigismondi C., Rozelot J., Guhl K., 2009, Solar Physics, 257, 237
@@ -19,19 +19,19 @@ Kubo Y., 1993, Publications of the Astronomical Society of Japan, 45, 819
 Lindsey C., Hudson H. S., 1976, ApJ, 203, 753
 Lindsey C., Hildebrand R. H., Keene J., Whitcomb S. E., 1981, ApJ, 248, 830
 Menezes F., Valio A., 2017, Sol. Phys., 292, 195
-Menezes F., Selhorst C. L., Gimenez de Castro C. G., Valio A., 2021, ApJ, 910, 77
+Menezes F., Selhorst C. L., Giménez de Castro C. G., Valio A., 2021, ApJ, 910, 77
 Nakajima H., et al., 1994, IEEE Proceedings, 82, 705
 Rozelot J. P., Kosovichev A. G., Kilcik A., 2018, Sun and Geosphere, 13, 63
 Selhorst C. L., Silva A. V. R., Costa J. E. R., Shibasaki K., 2003, A&A, 401, 1143
 Selhorst C. L., Silva A. V. R., Costa J. E. R., 2005, A&A, 433, 365
-Selhorst C. L., Gimenez de Castro C. G., Valio A., Costa J. E. R., Shibasaki K., 2011, ApJ, 734, 64
-Selhorst C. L., Kallunki J., Gimenez de Castro C. G., Valio A., Costa J. E. R., 2019a, Sol. Phys., 294, 175
+Selhorst C. L., Giménez de Castro C. G., Válio A., Costa J. E. R., Shibasaki K., 2011, ApJ, 734, 64
+Selhorst C. L., Kallunki J., Giménez de Castro C. G., Valio A., Costa J. E. R., 2019a, Sol. Phys., 294, 175
 Selhorst C. L., et al., 2019b, ApJ, 871, 45
 Shibasaki K., 1998, in Balasubramaniam K. S., Harvey J., Rabin D., eds, Astronomical Society of the Pacific Conference Series Vol. 140, Synoptic Solar Physics. p. 373
 Swanson P. N., 1973, Sol. Phys., 32, 77
 Thuillier G., et al., 2011, Sol. Phys., 268, 125
-Valle Silva J. F., Gimenez de Castro C. G., Selhorst C. L., Raulin J. P., Valio A., 2021, MNRAS, 500, 1964
-Vaquero J. M., Gallego M. C., Ruiz-Lorenzo J. J., Lopez-Moratalla T., Carrasco V. M. S., Aparicio A. J. P., Gonzalez-Gonzalez F. J., Hernandez-Garcia E., 2016, Sol. Phys., 291, 1599
+Valle Silva J. F., Giménez de Castro C. G., Selhorst C. L., Raulin J. P., Valio A., 2021, MNRAS, 500, 1964
+Vaquero J. M., Gallego M. C., Ruiz-Lorenzo J. J., López-Moratalla T., Carrasco V. M. S., Aparicio A. J. P., González-González F. J., Hernández-García E., 2016, Sol. Phys., 291, 1599
 Vernazza J. E., Avrett E. H., Loeser R., 1981, ApJS, 45, 635
 White S. M., et al., 2017, Sol. Phys., 292, 88
 Withbroe G. L., 1970, Solar Physics, 11, 42

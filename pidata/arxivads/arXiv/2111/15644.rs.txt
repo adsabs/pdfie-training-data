@@ -1,12 +1,12 @@
-& Birch, P. V. 1995, Icarus, 118, 223, doi: 10.1006/icar.1995.1190
+A’Hearn, M. F., Millis, R. C., Schleicher, D. O., Osip, D. J., & Birch, P. V. 1995, Icarus, 118, 223, doi: 10.1006/icar.1995.1190
 Bemporad, A., Giordano, S., Raymond, J. C., & Knight, M. M. 2015, Advances in Space Research, 56, 2288, doi: 10.1016/j.asr.2015.08.037
 Bemporad, A., Poletto, G., Raymond, J., & Giordano, S. 2007, Planet. Space Sci., 55, 1021, doi: 10.1016/j.pss.2006.11.013
 Bemporad, A., Poletto, G., Raymond, J. C., et al. 2005, ApJ, 620, 523, doi: 10.1086/427063
-Biver, N., Bockel ee-Morvan, D., Colom, P., et al. 2011, A&A, 528, A142, doi: 10.1051/0004-6361/201016250
+Biver, N., Bockelée-Morvan, D., Colom, P., et al. 2011, A&A, 528, A142, doi: 10.1051/0004-6361/201016250
 Brandt, J. C., & Snow, M. 2000, Icarus, 148, 52, doi: 10.1006/icar.2000.6484
 Ciaravella, A., Raymond, J. C., & Giordano, S. 2010, ApJL, 713, L69, doi: 10.1088/2041-8205/713/1/L69
 Combi, M. R., Boyd, Z., Lee, Y., et al. 2011, Icarus, 216, 449, doi: 10.1016/j.icarus.2011.09.019
-Combi, M. R., M akinen, T. T., Bertaux, J. L., Qu emerais, E., & Ferron, S. 2019, Icarus, 317, 610, doi: 10.1016/j.icarus.2018.08.031
+Combi, M. R., Mäkinen, T. T., Bertaux, J. L., Quémerais, E., & Ferron, S. 2019, Icarus, 317, 610, doi: 10.1016/j.icarus.2018.08.031
 Combi, M. R., & Smyth, W. H. 1988, ApJ, 327, 1044, doi: 10.1086/166261
 Cravens, T. E., Kozyra, J. U., Nagy, A. F., Gombosi, T. I., & Kurtz, M. 1987, J. Geophys. Res., 92, 7341, doi: 10.1029/JA092iA07p07341
 Curdt, W., Brekke, P., Feldman, U., et al. 2001, A&A, 375, 591, doi: 10.1051/0004-6361:20010364
@@ -24,10 +24,10 @@ Kimura, H., Mann, I., Biesecker, D. A., & Jessberger, E. K. 2002, Icarus, 159, 5
 Kingdon, J. B., & Ferland, G. J. 1996, ApJS, 106, 205, doi: 10.1086/192335
 Kohl, J. L., Esser, R., Gardner, L. D., et al. 1995, SoPh, 162, 313, doi: 10.1007/BF00733433
 Langland-Shula, L. E., & Smith, G. H. 2007, ApJL, 664, L119, doi: 10.1086/520839
-Lemaire, P., Vial, J. C., Curdt, W., Sch uhle, U., & Wilhelm, K. 2015, A&A, 581, A26, doi: 10.1051/0004-6361/201526059
+Lemaire, P., Vial, J. C., Curdt, W., Schühle, U., & Wilhelm, K. 2015, A&A, 581, A26, doi: 10.1051/0004-6361/201526059
 Liang, G. Y., Badnell, N. R., & Zhao, G. 2012, A&A, 547, A87, doi: 10.1051/0004-6361/201220277
 Mancuso, S. 2015, A&A, 578, L7, doi: 10.1051/0004-6361/201526132 Matlovi c, P., T
-oth, J., Rudawska, R., Korno s, L., & Pisar c ikov a, A. 2019, A&A, 629, A71, doi: 10.1051/0004-6361/201936093
+Matlovič, P., Tóth, J., Rudawska, R., Kornoš, L., & Pisarčı́ková, A. 2019, A&A, 629, A71, doi: 10.1051/0004-6361/201936093
 McIntosh, B. A. 1990, Icarus, 86, 299, doi: 10.1016/0019-1035(90)90219-Y
 Morton, D. C. 1991, ApJS, 77, 119, doi: 10.1086/191601
 Ohtsuka, K., Nakano, S., & Yoshikawa, M. 2003, PASJ, 55, 321, doi: 10.1093/pasj/55.1.321

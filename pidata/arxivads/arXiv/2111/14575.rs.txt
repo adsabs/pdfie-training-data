@@ -16,7 +16,7 @@ Kadowaki L. H. S., de Gouveia Dal Pino E. M., Medina-Torrejon T. E., Mizuno Y., 
 Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2017, MNRAS, 467, 4647
 Kim J., Balsara D. S., Lyutikov M., Komissarov S. S., 2018, MNRAS, 474, 3954
 Makwana K. D., Zhdankin V., Li H., Daughton W., Cattaneo F., 2015, Physics of Plasmas, 22, 042902
-Medina-Torrejon T. E., de Gouveia Dal Pino E. M., Kadowaki L. H. S., Kowal G., Singh C. B., Mizuno Y., 2021, ApJ, 908, 193
+Medina-Torrejón T. E., de Gouveia Dal Pino E. M., Kadowaki L. H. S., Kowal G., Singh C. B., Mizuno Y., 2021, ApJ, 908, 193
 Mignone A., Bodo G., Massaglia S., Matsakos T., Tesileanu O., Zanni C., Ferrari A., 2007, ApJS, 170, 228
 Mignone A., Mattia G., Bodo G., Del Zanna L., 2019, MNRAS, 486, 4252
 Mignone A., Plewa T., Bodo G., 2005, ApJS, 160, 199

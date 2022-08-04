@@ -1,6 +1,6 @@
-Baranyi, T., Gyori, L., & Ludmany, A. 2016, SoPh, 291, 3081, doi: 10.1007/s11207-016-0930-1
+Baranyi, T., Győri, L., & Ludmány, A. 2016, SoPh, 291, 3081, doi: 10.1007/s11207-016-0930-1
 Brandt, P. N., Schmidt, W., & Steinegger, M. 1990, SoPh, 129, 191, doi: 10.1007/BF00154373
-Carrasco, V. M. S., Garc ia-Romero, J. M., Vaquero, J. M., et al. 2018a, ApJ, 865, 88, doi: 10.3847/1538-4357/aad9f6
+Carrasco, V. M. S., García-Romero, J. M., Vaquero, J. M., et al. 2018a, ApJ, 865, 88, doi: 10.3847/1538-4357/aad9f6
 Carrasco, V. M. S., Vaquero, J. M., Trigo, R. M., & Gallego, M. C. 2018b, SoPh, 293, 104, doi: 10.1007/s11207-018-1328-z
 Chowdhury, P., Choudhary, D. P., & Gosain, S. 2013, ApJ, 768, 188, doi: 10.1088/0004-637X/768/2/188
 Cowling, T. G. 1946, MNRAS, 106, 218, doi: 10.1093/mnras/106.3.218
@@ -16,11 +16,11 @@ Komm, R., Howe, R., & Hill, F. 2009, SoPh, 258, 13, doi: 10.1007/s11207-009-9398
 Li, J., & Ulrich, R. K. 2012, ApJ, 758, 115, doi: 10.1088/0004-637X/758/2/115
 Martinez Pillet, V., Moreno-Insertis, F., & Vazquez, M. 1993, A&A, 274, 521
 McClintock, B. H., & Norton, A. A. 2013, SoPh, 287, 215, doi: 10.1007/s11207-013-0338-0
-Murakozy, J. 2021, ApJ, 908, 133, doi: 10.3847/1538-4357/abcfba
-Murakozy, J., Baranyi, T., & Ludmany, A. 2014, SoPh, 289, 563, doi: 10.1007/s11207-013-0416-3
+Muraközy, J. 2021, ApJ, 908, 133, doi: 10.3847/1538-4357/abcfba
+Muraközy, J., Baranyi, T., & Ludmány, A. 2014, SoPh, 289, 563, doi: 10.1007/s11207-013-0416-3
 Norton, A. A., Jones, E. H., Linton, M. G., & Leake, J. E. 2017, ApJ, 842, 3, doi: 10.3847/1538-4357/aa7052
 Panja, M., Cameron, R. H., & Solanki, S. K. 2021, ApJ, 907, 102, doi: 10.3847/1538-4357/abccbf
 Petrovay, K., & van Driel-Gesztelyi, L. 1997, SoPh, 176, 249, doi: 10.1023/A:1004988123265
 Piddington, J. H. 1975, Ap&SS, 34, 347, doi: 10.1007/BF00644803
 Rempel, M., & Cheung, M. C. M. 2014, ApJ, 785, 90, doi: 10.1088/0004-637X/785/2/90
-Schlichenmaier, R., Bello Gonzalez, N., Rezaei, R., & Waldmann, T. A. 2010, Astronomische Nachrichten, 331, 563, doi: 10.1002/asna.201011372
+Schlichenmaier, R., Bello González, N., Rezaei, R., & Waldmann, T. A. 2010, Astronomische Nachrichten, 331, 563, doi: 10.1002/asna.201011372

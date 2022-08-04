@@ -4,33 +4,19 @@ K. S. Hirata et al. [Kamiokande-II Collaboration], Phys. Lett. B 280, 146 (1992)
 Y. Fukuda et al. [Kamiokande Collaboration], Phys. Lett. B 335, 237 (1994). doi:10.1016/0370-2693(94)91420-6
 Y. Fukuda et al. [Super-Kamiokande Collaboration], Phys. Rev. Lett. 81, 1562 (1998) doi:10.1103/PhysRevLett.81.1562 [hep-ex/9807003].
 M. Apollonio et al. [CHOOZ], Phys. Lett. B 420 (1998), 397-404 doi:10.1016/S0370-2693(97)01476-7 [arXiv:hep-ex/9711002 [hep-ex]].
-M. Narayan and S. U. Sankar, Phys. Rev. D 61, 013003 (2000) doi:10.1103/PhysRevD.61.013003
-M. Narayan and S. U. Sankar, 2000, hep-ph/9904302
-I. Esteban, M. C. Gonzalez-Garcia, M. Maltoni, T. Schwetz and A. Zhou, JHEP 09 (2020), 178 doi:10.1007/JHEP09(2020)178
-I. Esteban, M. C. Gonzalez-Garcia, M. Maltoni, T. Schwetz and A. Zhou, JHEP 09, arXiv:2007.14792 [hep-ph
-A. Kumar, A. Khatun, S. K. Agarwalla and A. Dighe, Eur. Phys. J. C 81 (2021) no.2, 190 doi:10.1140/epjc/s10052-021-08946-8
-A. Kumar, A. Khatun, S. K. Agarwalla and A. Dighe, Eur. Phys. J. C 81, arXiv:2006.14529 [hep-ph
+M. Narayan and S. U. Sankar, Phys. Rev. D 61, 013003 (2000) doi:10.1103/PhysRevD.61.013003 [hep-ph/9904302].
+I. Esteban, M. C. Gonzalez-Garcia, M. Maltoni, T. Schwetz and A. Zhou, JHEP 09 (2020), 178 doi:10.1007/JHEP09(2020)178 [arXiv:2007.14792 [hep-ph]].
+A. Kumar, A. Khatun, S. K. Agarwalla and A. Dighe, Eur. Phys. J. C 81 (2021) no.2, 190 doi:10.1140/epjc/s10052-021-08946-8 [arXiv:2006.14529 [hep-ph]].
 A. Kumar and S. Kumar Agarwalla, [arXiv:2104.11740 [hep-ph]].
-A. Datta, R. Gandhi, P. Mehta and S. U. Sankar, Phys. Lett. B 597 (2004), 356-361 doi:10.1016/j.physletb.2004.07.035
-A. Datta, R. Gandhi, P. Mehta and S. U. Sankar, Phys. Lett. B 597, arXiv:hep-ph/0312027 [hep-ph
-S. P. Behera, A. Ghosh, S. Choubey, V. M. Datar, D. K. Mishra and A. K. Mohanty, Eur. Phys. J. C 77 (2017) no.5, 307 doi:10.1140/epjc/s10052-017-4851-4
-S. P. Behera, A. Ghosh, S. Choubey, V. M. Datar, D. K. Mishra and A. K. Mohanty, Eur. Phys. J. C 77, 2017, arXiv:1605.08607 [hep-ph
-T. Thakore, A. Ghosh, S. Choubey and A. Dighe, JHEP 05 (2013), 058 doi:10.1007/JHEP05(2013)058
-T. Thakore, A. Ghosh, S. Choubey and A. Dighe, JHEP 05, 2013, arXiv:1303.2534 [hep-ph
-M. M. Devi, T. Thakore, S. K. Agarwalla and A. Dighe, JHEP 10 (2014), 189 doi:10.1007/JHEP10(2014)189
-M. M. Devi, T. Thakore, S. K. Agarwalla and A. Dighe, JHEP 10, 2014, arXiv:1406.3689 [hep-ph
+A. Datta, R. Gandhi, P. Mehta and S. U. Sankar, Phys. Lett. B 597 (2004), 356-361 doi:10.1016/j.physletb.2004.07.035 [arXiv:hep-ph/0312027 [hep-ph]].
+S. P. Behera, A. Ghosh, S. Choubey, V. M. Datar, D. K. Mishra and A. K. Mohanty, Eur. Phys. J. C 77 (2017) no.5, 307 doi:10.1140/epjc/s10052-017-4851-4 [arXiv:1605.08607 [hep-ph]].
+T. Thakore, A. Ghosh, S. Choubey and A. Dighe, JHEP 05 (2013), 058 doi:10.1007/JHEP05(2013)058 [arXiv:1303.2534 [hep-ph]].
+M. M. Devi, T. Thakore, S. K. Agarwalla and A. Dighe, JHEP 10 (2014), 189 doi:10.1007/JHEP10(2014)189 [arXiv:1406.3689 [hep-ph]].
 S. Agostinelli et al. [GEANT4], Nucl. Instrum. Meth. A 506 (2003), 250-303 doi:10.1016/S0168-9002(03)01368-8
-K. R. Rebin, J. Libby, D. Indumathi and L. S. Mohan, Eur. Phys. J. C 79 (2019) no.4, 295 doi:10.1140/epjc/s10052-019-6798-0
-K. R. Rebin, J. Libby, D. Indumathi and L. S. Mohan, Eur. Phys. J. C 79, arXiv:1804.02138 [hep-ex
-D. Casper, Nucl. Phys. Proc. Suppl. 112, 161 (2002) doi:10.1016/S0920-5632(02)01756-5
-D. Casper, hep-ph/0208030
-M. Wallraff and C. Wiebusch, Comput. Phys. Commun. 197, 185 (2015) doi:10.1016/j.cpc.2015.07.010
-M. Wallraff and C. Wiebusch, 2015, arXiv:1409.1387 [astro-ph.IM
-K. Bhattacharya, A. K. Pal, G. Majumder and N. K. Mondal, Comput. Phys. Commun. 185, 3259 (2014) doi:10.1016/j.cpc.2014.09.003
-K. Bhattacharya, A. K. Pal, G. Majumder and N. K. Mondal, 2014, arXiv:1510.02792 [physics.ins-det
-M. M. Devi, A. Ghosh, D. Kaur, L. S. Mohan, S. Choubey, A. Dighe, D. Indumathi, S. Kumar, M. V. N. Murthy and M. Naimuddin, JINST 8 (2013), P11003 doi:10.1088/1748-0221/8/11/P11003
-M. M. Devi, A. Ghosh, D. Kaur, L. S. Mohan, S. Choubey, A. Dighe, D. Indumathi, S. Kumar, M. V. N. Murthy and M. Naimuddin, JINST 8, 2013, arXiv:1304.5115 [physics.ins-det
-M. Nizam and S. Uma Sankar, Pramana 94 (2020) no.1, 118 doi:10.1007/s12043-020-01986-x
-M. Nizam and S. Uma Sankar, Pramana 94, arXiv:1907.04313 [physics.ins-det
-J. Datta, M. Nizam, A. Ajmi and S. U. Sankar, Nucl. Phys. B 961 (2020), 115251 doi:10.1016/j.nuclphysb.2020.115251
-J. Datta, M. Nizam, A. Ajmi and S. U. Sankar, Nucl. Phys. B 961, arXiv:1907.08966 [hep-ph
+K. R. Rebin, J. Libby, D. Indumathi and L. S. Mohan, Eur. Phys. J. C 79 (2019) no.4, 295 doi:10.1140/epjc/s10052-019-6798-0 [arXiv:1804.02138 [hep-ex]].
+D. Casper, Nucl. Phys. Proc. Suppl. 112, 161 (2002) doi:10.1016/S0920-5632(02)01756-5 [hep-ph/0208030].
+M. Wallraff and C. Wiebusch, Comput. Phys. Commun. 197, 185 (2015) doi:10.1016/j.cpc.2015.07.010 [arXiv:1409.1387 [astro-ph.IM]].
+K. Bhattacharya, A. K. Pal, G. Majumder and N. K. Mondal, Comput. Phys. Commun. 185, 3259 (2014) doi:10.1016/j.cpc.2014.09.003 [arXiv:1510.02792 [physics.ins-det]].
+M. M. Devi, A. Ghosh, D. Kaur, L. S. Mohan, S. Choubey, A. Dighe, D. Indumathi, S. Kumar, M. V. N. Murthy and M. Naimuddin, JINST 8 (2013), P11003 doi:10.1088/1748-0221/8/11/P11003 [arXiv:1304.5115 [physics.ins-det]].
+M. Nizam and S. Uma Sankar, Pramana 94 (2020) no.1, 118 doi:10.1007/s12043-020-01986-x [arXiv:1907.04313 [physics.ins-det]].
+J. Datta, M. Nizam, A. Ajmi and S. U. Sankar, Nucl. Phys. B 961 (2020), 115251 doi:10.1016/j.nuclphysb.2020.115251 [arXiv:1907.08966 [hep-ph]].

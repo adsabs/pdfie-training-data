@@ -1,70 +1,41 @@
-K. Akiyama et al. [Event Horizon Telescope], "First M87 Event Horizon Telescope Results. I. the Shadow of the Supermassive Black Hole," Astrophys. J. Lett. 875, L1 (2019) doi:10.3847/2041-8213/ab0ec7 [arXiv:1906.11238 [astro-ph.GA]].
-K. Akiyama et al. [Event Horizon Telescope], "First M87 Event Horizon Telescope Results. II. Array and Instrumentation," Astrophys. J. Lett. 875, no.1, L2 (2019) doi:10.3847/2041-8213/ab0c96 [arXiv:1906.11239 [astro-ph.IM]].
-K. Akiyama et al. [Event Horizon Telescope], "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration," Astrophys. J. Lett. 875, no.1, L3 (2019) doi:10.3847/2041-8213/ab0c57 [arXiv:1906.11240 [astro-ph.GA]].
-B. P. Abbott et al. [LIGO Scientific and Virgo], "Observation of Gravitational Waves from a Binary Black Hole Merger," Phys. Rev. Lett. 116, no.6, 061102 (2016) doi:10.1103/PhysRevLett.116.061102 [arXiv:1602.03837 [gr-qc]].
-R. Abbott et al. [LIGO Scientific and Virgo], "GW190521: a Binary Black Hole Merger with a Total Mass of 150M ," Phys. Rev. Lett. 125, no.10, 101102 (2020) doi:10.1103/PhysRevLett.125.101102 [arXiv:2009.01075 [gr-qc]].
-R. Abbott et al. [LIGO Scientific and Virgo], "GW190814: Gravitational Waves from the Coalescence of a 23 Solar Mass Black Hole with a 2.6 Solar Mass Compact Object," Astrophys. J. Lett. 896, no.2, L44 (2020) doi:10.3847/2041-8213/ab960f [arXiv:2006.12611 [astro-ph.HE]].
-R. Abbott et al. [LIGO Scientific and Virgo], "GW190412: Observation of a Binary-Black-Hole Coalescence with Asymmetric Masses," Phys. Rev. D 102, no.4, 043015 (2020) doi:10.1103/PhysRevD.102.043015 [arXiv:2004.08342 [astro-ph.HE]].
-M. A. Abramowicz, W. Kluzniak and J. P. Lasota, "No Observational Proof of the Black Hole Event-Horizon," Astron. Astrophys. 396, L31-L34 (2002) doi:10.1051/0004-6361:20021645
-M. A. Abramowicz, W. Kluzniak and J. P. Lasota, arXiv:astro-ph/0207270 [astro-ph
-V. Cardoso, E. Franzin and P. Pani, "Is the Gravitational-Wave Ringdown a Probe of the Event Horizon?," Phys. Rev. Lett. 116, no.17, 171101 (2016) [erratum: Phys. Rev. Lett. 117, no.8, 089902 (2016)] doi:10.1103/PhysRevLett.116.171101 [arXiv:1602.07309 [gr-qc]].
-V. Cardoso and P. Pani, "Testing the Nature of Dark Compact Objects: a Status Report," Living Rev. Rel. 22, no.1, 4 (2019) doi:10.1007/s41114-019-0020-4
-V. Cardoso and P. Pani, arXiv:1904.05363 [gr-qc
-F. E. Schunck and E. W. Mielke, "General Relativistic Boson Stars," Class. Quant. Grav. 20, R301-R356 (2003) doi:10.1088/0264-9381/20/20/201
-F. E. Schunck and E. W. Mielke, 2003, arXiv:0801.0307 [astro-ph
-P. Bueno, P. A. Cano, F. Goelen, T. Hertog and B. Vercnocke, "Echoes of Kerr-Like Wormholes," Phys. Rev. D 97, no.2, 024040 (2018) doi:10.1103/PhysRevD.97.024040
-P. Bueno, P. A. Cano, F. Goelen, T. Hertog and B. Vercnocke, 2018, arXiv:1711.00391 [gr-qc
-H. Liu, P. Liu, Y. Liu, B. Wang and J. P. Wu, "Echoes from Phantom Wormholes," Phys. Rev. D 103, no.2, 024006 (2021) doi:10.1103/PhysRevD.103.024006
-H. Liu, P. Liu, Y. Liu, B. Wang and J. P. Wu, arXiv:2007.09078 [gr-qc
-F. S. N. Lobo, "Phantom Energy Traversable Wormholes," Phys. Rev. D 71, 084011 (2005) doi:10.1103/PhysRevD.71.084011
-F. S. N. Lobo, arXiv:gr-qc/0502099 [gr-qc
-A. Almheiri, T. Hartman, J. Maldacena, E. Shaghoulian and A. Tajdini, "Replica Wormholes and the Entropy of Hawking Radiation," JHEP 05, 013 (2020) doi:10.1007/JHEP05(2020)013
-A. Almheiri, T. Hartman, J. Maldacena, E. Shaghoulian and A. Tajdini, arXiv:1911.12333 [hep-th
-J. Maldacena, D. Stanford and Z. Yang, "Diving into Traversable Wormholes," Fortsch. Phys. 65, no.5, 1700034 (2017) doi:10.1002/prop.201700034
-J. Maldacena, D. Stanford and Z. Yang, 2017, arXiv:1704.05333 [hep-th
-K. K. Nandi, Y. Z. Zhang and A. V. Zakharov, "Gravitational Lensing by Wormholes," Phys. Rev. D 74, 024020 (2006) doi:10.1103/PhysRevD.74.024020
-K. K. Nandi, Y. Z. Zhang and A. V. Zakharov, arXiv:gr-qc/0602062 [gr-qc
-P. Kanti, B. Kleihaus and J. Kunz, "Wormholes in Dilatonic Einstein-Gauss-Bonnet Theory," Phys. Rev. Lett. 107, 271101 (2011) doi:10.1103/PhysRevLett.107.271101
-P. Kanti, B. Kleihaus and J. Kunz, 2011, arXiv:1108.3003 [gr-qc
-J. L. Blazquez-Salcedo, C. Knoll and E. Radu, "Traversable Wormholes in Einstein-Dirac-Maxwell Theory," Phys. Rev. Lett. 126, no.10, 101102 (2021) doi:10.1103/PhysRevLett.126.101102
-J. L. Blazquez-Salcedo, C. Knoll and E. Radu, arXiv:2010.07317 [gr-qc
-H. Huang, H. Lu and J. Yang, "Bronnikov-Like Wormholes in Einstein-Scalar Gravity," [arXiv:2010.00197 [gr-qc]].
-E. Berti, V. Cardoso and A. O. Starinets, "Quasinormal Modes of Black Holes and Black Branes," Class. Quant. Grav. 26, 163001 (2009) doi:10.1088/0264-9381/26/16/163001
-E. Berti, V. Cardoso and A. O. Starinets, arXiv:0905.2975 [gr-qc
-V. Cardoso, J. P. S. Lemos and S. Yoshida, "Quasinormal Modes of Schwarzschild Black Holes in Four-Dimensions and Higher Dimensions," Phys. Rev. D 69, 044004 (2004) doi:10.1103/PhysRevD.69.044004
-V. Cardoso, J. P. S. Lemos and S. Yoshida, 2004, arXiv:gr-qc/0309112 [gr-qc
-R. A. Konoplya and A. Zhidenko, "Wormholes Versus Black Holes: Quasinormal Ringing at Early and Late Times," JCAP 12, 043 (2016) doi:10.1088/1475-7516/2016/12/043
-R. A. Konoplya and A. Zhidenko, 2016, arXiv:1606.00517 [gr-qc
-V. Cardoso, J. L. Costa, K. Destounis, P. Hintz and A. Jansen, "Quasinormal Modes and Strong Cosmic Censorship," Phys. Rev. Lett. 120, no.3, 031103 (2018) doi:10.1103/PhysRevLett.120.031103
-V. Cardoso, J. L. Costa, K. Destounis, P. Hintz and A. Jansen, arXiv:1711.10502 [gr-qc
-R. A. Konoplya, "How to Tell the Shape of a Wormhole by its Quasinormal Modes," Phys. Lett. B 784, 43-49 (2018) doi:10.1016/j.physletb.2018.07.025
-R. A. Konoplya, arXiv:1805.04718 [gr-qc
-S. Aneesh, S. Bose and S. Kar, "Gravitational Waves from Quasinormal Modes of a Class of Lorentzian Wormholes," Phys. Rev. D 97, no.12, 124004 (2018) doi:10.1103/PhysRevD.97.124004
-S. Aneesh, S. Bose and S. Kar, arXiv:1803.10204 [gr-qc
-J. L. Blazquez-Salcedo, X. Y. Chew and J. Kunz, "Scalar and Axial Quasinormal Modes of Massive Static Phantom Wormholes," Phys. Rev. D 98, no.4, 044035 (2018) doi:10.1103/PhysRevD.98.044035
-J. L. Blazquez-Salcedo, X. Y. Chew and J. Kunz, arXiv:1806.03282 [gr-qc
-G. D'Amico and N. Kaloper, "Black Hole Echoes," Phys. Rev. D 102, no.4, 044001 (2020) doi:10.1103/PhysRevD.102.044001
-G. D'Amico and N. Kaloper, arXiv:1912.05584 [gr-qc
-H. Liu, W. L. Qian, Y. Liu, J. P. Wu, B. Wang and R. H. Yue, "Alternative Mechanism for Black Hole Echoes," Phys. Rev. D 104, no.4, 044012 (2021) doi:10.1103/PhysRevD.104.044012
-H. Liu, W. L. Qian, Y. Liu, J. P. Wu, B. Wang and R. H. Yue, arXiv:2104.11912 [gr-qc
-A. Simpson and M. Visser, "Black-Bounce to Traversable Wormhole," JCAP 02, 042 (2019) doi:10.1088/1475-7516/2019/02/042
-A. Simpson and M. Visser, arXiv:1812.07114 [gr-qc
-K. A. Bronnikov, V. N. Melnikov and H. Dehnen, "Regular Black Holes and Black Universes," Gen. Rel. Grav. 39, 973-987 (2007) doi:10.1007/s10714-007-0430-6
-K. A. Bronnikov, V. N. Melnikov and H. Dehnen, arXiv:gr-qc/0611022 [gr-qc
-H. Huang and J. Yang, "Charged Ellis Wormhole and Black Bounce," Phys. Rev. D 100, no.12, 124063 (2019) doi:10.1103/PhysRevD.100.124063
-H. Huang and J. Yang, arXiv:1909.04603 [gr-qc
-F. S. N. Lobo, M. E. Rodrigues, M. V. d. S. Silva, A. Simpson and M. Visser, "Novel Black-Bounce Spacetimes: Wormholes, Regularity, Energy Conditions, and Causal Structure," Phys. Rev. D 103, no.8, 084052 (2021) doi:10.1103/PhysRevD.103.084052
-F. S. N. Lobo, M. E. Rodrigues, M. V. d. S. Silva, A. Simpson and M. Visser, arXiv:2009.12057 [gr-qc
-S. U. Islam, J. Kumar and S. G. Ghosh, "Strong Gravitational Lensing by Rotating Simpson-Visser Black Holes," [arXiv:2104.00696 [gr-qc]].
-X. T. Cheng and Y. Xie, "Probing a Black-Bounce, Traversable Wormhole with Weak Deflection Gravitational Lensing," Phys. Rev. D 103, no.6, 064040 (2021) doi:10.1103/PhysRevD.103.064040
-N. Tsukamoto, "Gravitational Lensing in the Simpson-Visser Black-Bounce Spacetime in a Strong Deflection Limit," Phys. Rev. D 103, no.2, 024033 (2021) doi:10.1103/PhysRevD.103.024033
-N. Tsukamoto, arXiv:2011.03932 [gr-qc
-M. S. Churilova and Z. Stuchlik, "Ringing of the Regular Black-Hole/Wormhole Transition," Class. Quant. Grav. 37, no.7, 075014 (2020) doi:10.1088/1361-6382/ab7717
-M. S. Churilova and Z. Stuchlik, arXiv:1911.11823 [gr-qc
-Y. Yang, D. Liu, Z. Xu, Y. Xing, S. Wu and Z. W. Long, "Echoes of Novel Black-Bounce Spacetimes," Phys. Rev. D 104, no.10, 104021 (2021) doi:10.1103/PhysRevD.104.104021
-Y. Yang, D. Liu, Z. Xu, Y. Xing, S. Wu and Z. W. Long, 2021, arXiv:2107.06554 [gr-qc
-Y. S. Myung and D. C. Zou, "Quasinormal Modes of Scalarized Black Holes in the Einstein-Maxwell-Scalar Theory," Phys. Lett. B 790, 400-407 (2019) doi:10.1016/j.physletb.2019.01.046
-Y. S. Myung and D. C. Zou, arXiv:1812.03604 [gr-qc
-Z. Zhu, S. J. Zhang, C. E. Pellicer, B. Wang and E. Abdalla, "Stability of Reissner-NordstrOm Black Hole in De Sitter Background under Charged Scalar Perturbation," Phys. Rev. D 90, no.4, 044042 (2014) doi:10.1103/PhysRevD.90.044042
-Z. Zhu, S. J. Zhang, C. E. Pellicer, B. Wang and E. Abdalla, 2014, arXiv:1405.4931 [hep-th
-H. G. Ellis, "Ether Flow Through a Drainhole - a Particle Model in General Relativity," J. Math. Phys. 14, 104-118 (1973) doi:10.1063/1.1666161
+K. Akiyama et al. [Event Horizon Telescope], “First M87 Event Horizon Telescope Results. I. the Shadow of the Supermassive Black Hole,” Astrophys. J. Lett. 875, L1 (2019) doi:10.3847/2041-8213/ab0ec7 [arXiv:1906.11238 [astro-ph.GA]].
+K. Akiyama et al. [Event Horizon Telescope], “First M87 Event Horizon Telescope Results. II. Array and Instrumentation,” Astrophys. J. Lett. 875, no.1, L2 (2019) doi:10.3847/2041-8213/ab0c96 [arXiv:1906.11239 [astro-ph.IM]].
+K. Akiyama et al. [Event Horizon Telescope], “First M87 Event Horizon Telescope Results. III. Data Processing and Calibration,” Astrophys. J. Lett. 875, no.1, L3 (2019) doi:10.3847/2041-8213/ab0c57 [arXiv:1906.11240 [astro-ph.GA]].
+B. P. Abbott et al. [LIGO Scientific and Virgo], “Observation of Gravitational Waves from a Binary Black Hole Merger,” Phys. Rev. Lett. 116, no.6, 061102 (2016) doi:10.1103/PhysRevLett.116.061102 [arXiv:1602.03837 [gr-qc]].
+R. Abbott et al. [LIGO Scientific and Virgo], “GW190521: a Binary Black Hole Merger with a Total Mass of 150M ,” Phys. Rev. Lett. 125, no.10, 101102 (2020) doi:10.1103/PhysRevLett.125.101102 [arXiv:2009.01075 [gr-qc]].
+R. Abbott et al. [LIGO Scientific and Virgo], “GW190814: Gravitational Waves from the Coalescence of a 23 Solar Mass Black Hole with a 2.6 Solar Mass Compact Object,” Astrophys. J. Lett. 896, no.2, L44 (2020) doi:10.3847/2041-8213/ab960f [arXiv:2006.12611 [astro-ph.HE]].
+R. Abbott et al. [LIGO Scientific and Virgo], “GW190412: Observation of a Binary-Black-Hole Coalescence with Asymmetric Masses,” Phys. Rev. D 102, no.4, 043015 (2020) doi:10.1103/PhysRevD.102.043015 [arXiv:2004.08342 [astro-ph.HE]].
+M. A. Abramowicz, W. Kluzniak and J. P. Lasota, “No Observational Proof of the Black Hole Event-Horizon,” Astron. Astrophys. 396, L31-L34 (2002) doi:10.1051/0004-6361:20021645 [arXiv:astro-ph/0207270 [astro-ph]].
+V. Cardoso, E. Franzin and P. Pani, “Is the Gravitational-Wave Ringdown a Probe of the Event Horizon?,” Phys. Rev. Lett. 116, no.17, 171101 (2016) [erratum: Phys. Rev. Lett. 117, no.8, 089902 (2016)] doi:10.1103/PhysRevLett.116.171101 [arXiv:1602.07309 [gr-qc]].
+V. Cardoso and P. Pani, “Testing the Nature of Dark Compact Objects: a Status Report,” Living Rev. Rel. 22, no.1, 4 (2019) doi:10.1007/s41114-019-0020-4 [arXiv:1904.05363 [gr-qc]].
+F. E. Schunck and E. W. Mielke, “General Relativistic Boson Stars,” Class. Quant. Grav. 20, R301-R356 (2003) doi:10.1088/0264-9381/20/20/201 [arXiv:0801.0307 [astro-ph]].
+P. Bueno, P. A. Cano, F. Goelen, T. Hertog and B. Vercnocke, “Echoes of Kerr-Like Wormholes,” Phys. Rev. D 97, no.2, 024040 (2018) doi:10.1103/PhysRevD.97.024040 [arXiv:1711.00391 [gr-qc]].
+H. Liu, P. Liu, Y. Liu, B. Wang and J. P. Wu, “Echoes from Phantom Wormholes,” Phys. Rev. D 103, no.2, 024006 (2021) doi:10.1103/PhysRevD.103.024006 [arXiv:2007.09078 [gr-qc]].
+F. S. N. Lobo, “Phantom Energy Traversable Wormholes,” Phys. Rev. D 71, 084011 (2005) doi:10.1103/PhysRevD.71.084011 [arXiv:gr-qc/0502099 [gr-qc]].
+A. Almheiri, T. Hartman, J. Maldacena, E. Shaghoulian and A. Tajdini, “Replica Wormholes and the Entropy of Hawking Radiation,” JHEP 05, 013 (2020) doi:10.1007/JHEP05(2020)013 [arXiv:1911.12333 [hep-th]].
+J. Maldacena, D. Stanford and Z. Yang, “Diving into Traversable Wormholes,” Fortsch. Phys. 65, no.5, 1700034 (2017) doi:10.1002/prop.201700034 [arXiv:1704.05333 [hep-th]].
+K. K. Nandi, Y. Z. Zhang and A. V. Zakharov, “Gravitational Lensing by Wormholes,” Phys. Rev. D 74, 024020 (2006) doi:10.1103/PhysRevD.74.024020 [arXiv:gr-qc/0602062 [gr-qc]].
+P. Kanti, B. Kleihaus and J. Kunz, “Wormholes in Dilatonic Einstein-Gauss-Bonnet Theory,” Phys. Rev. Lett. 107, 271101 (2011) doi:10.1103/PhysRevLett.107.271101 [arXiv:1108.3003 [gr-qc]].
+J. L. Blazquez-Salcedo, C. Knoll and E. Radu, “Traversable Wormholes in Einstein-Dirac-Maxwell Theory,” Phys. Rev. Lett. 126, no.10, 101102 (2021) doi:10.1103/PhysRevLett.126.101102 [arXiv:2010.07317 [gr-qc]].
+H. Huang, H. Lu and J. Yang, “Bronnikov-Like Wormholes in Einstein-Scalar Gravity,” [arXiv:2010.00197 [gr-qc]].
+E. Berti, V. Cardoso and A. O. Starinets, “Quasinormal Modes of Black Holes and Black Branes,” Class. Quant. Grav. 26, 163001 (2009) doi:10.1088/0264-9381/26/16/163001 [arXiv:0905.2975 [gr-qc]].
+V. Cardoso, J. P. S. Lemos and S. Yoshida, “Quasinormal Modes of Schwarzschild Black Holes in Four-Dimensions and Higher Dimensions,” Phys. Rev. D 69, 044004 (2004) doi:10.1103/PhysRevD.69.044004 [arXiv:gr-qc/0309112 [gr-qc]].
+R. A. Konoplya and A. Zhidenko, “Wormholes Versus Black Holes: Quasinormal Ringing at Early and Late Times,” JCAP 12, 043 (2016) doi:10.1088/1475-7516/2016/12/043 [arXiv:1606.00517 [gr-qc]].
+V. Cardoso, J. L. Costa, K. Destounis, P. Hintz and A. Jansen, “Quasinormal Modes and Strong Cosmic Censorship,” Phys. Rev. Lett. 120, no.3, 031103 (2018) doi:10.1103/PhysRevLett.120.031103 [arXiv:1711.10502 [gr-qc]].
+R. A. Konoplya, “How to Tell the Shape of a Wormhole by its Quasinormal Modes,” Phys. Lett. B 784, 43-49 (2018) doi:10.1016/j.physletb.2018.07.025 [arXiv:1805.04718 [gr-qc]].
+S. Aneesh, S. Bose and S. Kar, “Gravitational Waves from Quasinormal Modes of a Class of Lorentzian Wormholes,” Phys. Rev. D 97, no.12, 124004 (2018) doi:10.1103/PhysRevD.97.124004 [arXiv:1803.10204 [gr-qc]].
+J. L. Blázquez-Salcedo, X. Y. Chew and J. Kunz, “Scalar and Axial Quasinormal Modes of Massive Static Phantom Wormholes,” Phys. Rev. D 98, no.4, 044035 (2018) doi:10.1103/PhysRevD.98.044035 [arXiv:1806.03282 [gr-qc]].
+G. D'Amico and N. Kaloper, “Black Hole Echoes,” Phys. Rev. D 102, no.4, 044001 (2020) doi:10.1103/PhysRevD.102.044001 [arXiv:1912.05584 [gr-qc]].
+H. Liu, W. L. Qian, Y. Liu, J. P. Wu, B. Wang and R. H. Yue, “Alternative Mechanism for Black Hole Echoes,” Phys. Rev. D 104, no.4, 044012 (2021) doi:10.1103/PhysRevD.104.044012 [arXiv:2104.11912 [gr-qc]].
+A. Simpson and M. Visser, “Black-Bounce to Traversable Wormhole,” JCAP 02, 042 (2019) doi:10.1088/1475-7516/2019/02/042 [arXiv:1812.07114 [gr-qc]].
+K. A. Bronnikov, V. N. Melnikov and H. Dehnen, “Regular Black Holes and Black Universes,” Gen. Rel. Grav. 39, 973-987 (2007) doi:10.1007/s10714-007-0430-6 [arXiv:gr-qc/0611022 [gr-qc]].
+H. Huang and J. Yang, “Charged Ellis Wormhole and Black Bounce,” Phys. Rev. D 100, no.12, 124063 (2019) doi:10.1103/PhysRevD.100.124063 [arXiv:1909.04603 [gr-qc]].
+F. S. N. Lobo, M. E. Rodrigues, M. V. d. S. Silva, A. Simpson and M. Visser, “Novel Black-Bounce Spacetimes: Wormholes, Regularity, Energy Conditions, and Causal Structure,” Phys. Rev. D 103, no.8, 084052 (2021) doi:10.1103/PhysRevD.103.084052 [arXiv:2009.12057 [gr-qc]].
+S. U. Islam, J. Kumar and S. G. Ghosh, “Strong Gravitational Lensing by Rotating Simpson-Visser Black Holes,” [arXiv:2104.00696 [gr-qc]].
+X. T. Cheng and Y. Xie, “Probing a Black-Bounce, Traversable Wormhole with Weak Deflection Gravitational Lensing,” Phys. Rev. D 103, no.6, 064040 (2021) doi:10.1103/PhysRevD.103.064040
+N. Tsukamoto, “Gravitational Lensing in the Simpson-Visser Black-Bounce Spacetime in a Strong Deflection Limit,” Phys. Rev. D 103, no.2, 024033 (2021) doi:10.1103/PhysRevD.103.024033 [arXiv:2011.03932 [gr-qc]].
+M. S. Churilova and Z. Stuchlik, “Ringing of the Regular Black-Hole/Wormhole Transition,” Class. Quant. Grav. 37, no.7, 075014 (2020) doi:10.1088/1361-6382/ab7717 [arXiv:1911.11823 [gr-qc]].
+Y. Yang, D. Liu, Z. Xu, Y. Xing, S. Wu and Z. W. Long, “Echoes of Novel Black-Bounce Spacetimes,” Phys. Rev. D 104, no.10, 104021 (2021) doi:10.1103/PhysRevD.104.104021 [arXiv:2107.06554 [gr-qc]].
+Y. S. Myung and D. C. Zou, “Quasinormal Modes of Scalarized Black Holes in the Einstein-Maxwell-Scalar Theory,” Phys. Lett. B 790, 400-407 (2019) doi:10.1016/j.physletb.2019.01.046 [arXiv:1812.03604 [gr-qc]].
+Z. Zhu, S. J. Zhang, C. E. Pellicer, B. Wang and E. Abdalla, “Stability of Reissner-NordstrÖm Black Hole in De Sitter Background under Charged Scalar Perturbation,” Phys. Rev. D 90, no.4, 044042 (2014) doi:10.1103/PhysRevD.90.044042 [arXiv:1405.4931 [hep-th]].
+H. G. Ellis, “Ether Flow Through a Drainhole - a Particle Model in General Relativity,” J. Math. Phys. 14, 104-118 (1973) doi:10.1063/1.1666161

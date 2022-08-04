@@ -15,22 +15,22 @@ Hauschildt P. H., Allard F., Baron E., 1999, ApJ, 512, 377
 Herbig G. H., 1966, Vistas in Astronomy, 8, 109
 Herbig G. H., 1977, ApJ, 217, 693
 Hunter J. D., 2007, Computing in Science and Engineering, 9, 90
-Kospal A., et al., 2021, ApJS, 256, 30
+Kóspal Á., et al., 2021, ApJS, 256, 30
 Levreault R. M., 1988, ApJ, 330, 897
 Lin D. N. C., Papaloizou J., Faulkner J., 1985, MNRAS, 212, 105
 Liu H. B., et al., 2016, Science Advances, 2, e1500875
 Lodato G., Price D. J., 2010, MNRAS, 405, 1212
-Perez S., et al., 2020, ApJ, 889, 59
+Pérez S., et al., 2020, ApJ, 889, 59
 Pfalzner S., 2008, A&A, 492, 735
 Pfalzner S., Bhandare A., Vincke K., Lacerda P., 2018, ApJ, 863, 45
-Pinte C., Menard F., Duchene G., Bastien P., 2006, A&A, 459, 797
+Pinte C., Menard F., Duchêne G., Bastien P., 2006, A&A, 459, 797
 Pinte C., et al., 2009, A&A, 498, 967
 Price D. J., 2007, Publ. Astron. Soc. Australia, 24, 159
 Price D. J., et al., 2018, Publ. Astron. Soc. Australia, 35, e031
 Pringle J. E., 1981, ARA&A, 19, 137
 Reipurth B., Aspin C., 2004, ApJ, 608, L65
-Ru iz-Rodr iguez D., et al., 2017a, MNRAS, 466, 3519
-Ru iz-Rodr iguez D., et al., 2017b, MNRAS, 468, 3266
+Ruíz-Rodríguez D., et al., 2017a, MNRAS, 466, 3519
+Ruíz-Rodríguez D., et al., 2017b, MNRAS, 468, 3266
 Shakura N. I., Sunyaev R. A., 1973, A&A, 500, 33
 Siess L., Dufour E., Forestini M., 2000, A&A, 358, 593
 Takami M., et al., 2018, ApJ, 864, 20

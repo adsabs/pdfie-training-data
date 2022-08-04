@@ -2,7 +2,7 @@ Alexander, M. J., & Kobulnicky, H. A. 2012, ApJL, 755, L30
 Anderson, L. D., Bania, T. M., Balser, D. S., et al. 2014, ApJS, 212, 1
 Anglada, G., Estalella, R., Pastor, J., Rodriguez, L. F., & Haschick, A. D. 1996, ApJ, 463, 205
 Bailer-Jones, C. A. L. 2015, PASP, 127, 994
-Bland-Hawthorn, J. 2009, in The Galaxy Disk in Cosmological Context, ed. J. Andersen, Nordstroara, B. m, & J. Bland-Hawthorn, Vol. 254, 241-254
+Bland-Hawthorn, J. 2009, in The Galaxy Disk in Cosmological Context, ed. J. Andersen, Nordströara, B. m, & J. Bland-Hawthorn, Vol. 254, 241-254
 Churchwell, E., Babler, B. L., Meade, M. R., et al. 2009, PASP, 121, 213
 Clemens, D. P. 1985, ApJ, 295, 422
 Dame, T. M., Hartmann, D., & Thaddeus, P. 2001, ApJ, 547, 792
@@ -15,7 +15,7 @@ Georgelin, Y. M., & Georgelin, Y. P. 1976, A&A, 49, 57
 Hulsbosch, A. N. M. 1975, A&A, 40, 1
 Iguchi, S., Kurayama, T., Kawaguchi, N., & Kawakami, K. 2005, PASJ, 57, 259
 Imai, H., Sakai, N., Nakanishi, H., et al. 2012, PASJ, 64, 142
-Immer, K., Li, J., Quiroga-Nunez, L. H., et al. 2019, Astron. Astrophys., 632, A123
+Immer, K., Li, J., Quiroga-Nuñez, L. H., et al. 2019, Astron. Astrophys., 632, A123
 Johnston, K. G., Shepherd, D. S., Aguirre, J. E., et al. 2009, ApJ, 707, 283
 Kalberla, P. M. W., Burton, W. B., Hartmann, D., et al. 2005, Astron. Astrophys., 440, 775
 Kawaguchi, N., Sasao, T., & Manabe, S. 2000, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4015, Proc. SPIE, ed. H. R. Butcher, 544-551
@@ -23,7 +23,7 @@ Kim, H.-J., Koo, B.-C., Pyo, T.-S., & Davis, C. J. 2018, ApJ, 863, 74
 Koo, B.-C., Park, G., Kim, W.-T., et al. 2017, PASP, 129, 094102
 Kurayama, T., Nakagawa, A., Sawada-Satoh, S., et al. 2011, PASJ, 63, 513
 Lockman, F. J., Benjamin, R. A., Heroux, A. J., & Langston, G. I. 2008, ApJL, 679, L21
-Miville-Deschenes, M.-A., Murray, N., & Lee, E. J. 2017, ApJ, 834, 57
+Miville-Deschênes, M.-A., Murray, N., & Lee, E. J. 2017, ApJ, 834, 57
 Moellenbrock, G. A., Claussen, M. J., & Goss, W. M. 2009, ApJ, 694, 192
 Moscadelli, L., Xu, Y., & Chen, X. 2010, ApJ, 716, 1356
 Nagayama, T., Hirota, T., Honma, M., et al. 2020a, PASJ, 72, 51
@@ -45,8 +45,8 @@ Smith, G. P. 1963, Bull. Astron. Inst. Netherlands, 17, 203
 Sofue, Y. 2011, PASJ, 63, 813
 Sunada, K., Nakazato, T., Ikeda, N., et al. 2007, PASJ, 59, 1185
 Svoboda, B. E., Shirley, Y. L., Battersby, C., et al. 2016, ApJ, 822, 59
-Tepper-Garc ia, T., & Bland-Hawthorn, J. 2018, MNRAS, 473, 5514
-Urquhart, J. S., Figura, C. C., Moore, T. J. T., et al. 2014, "Mon. Not. R. Astron. Soc"., 437, 1791
+Tepper-García, T., & Bland-Hawthorn, J. 2018, MNRAS, 473, 5514
+Urquhart, J. S., Figura, C. C., Moore, T. J. T., et al. 2014, Mon. Not. R. Astron. Soc., 437, 1791
 Urquhart, J. S., Busfield, A. L., Hoare, M. G., et al. 2007, A&A, 474, 891
 Valdettaro, R., Palla, F., Brand, J., et al. 2001, A&A, 368, 845
 van Moorsel, G., Kemball, A., & Greisen, E. 1996, in Astronomical Society of the Pacific Conference Series, Vol. 101, Astronomical Data Analysis Software and Systems V, ed. G. H. Jacoby & J. Barnes, 37
@@ -55,5 +55,5 @@ Wakker, B. P., York, D. G., Wilhelm, R., et al. 2008, ApJ, 672, 298
 Watson, C., Araya, E., Sewilo, M., et al. 2003, ApJ, 587, 714
 Yamauchi, A., Yamashita, K., Honma, M., et al. 2016, PASJ, 68, 60
 Yang, J., Jiang, Z., Wang, M., Ju, B., & Wang, H. 2002, ApJS, 141, 157
-Zhang, B., Reid, M. J., Menten, K. M., et al. 2013, "Astrophys. J"., 775, 79
-Zhang, B., Reid, M. J., Zhang, L., et al. 2019, "Astron. J"., 157, 200
+Zhang, B., Reid, M. J., Menten, K. M., et al. 2013, Astrophys. J., 775, 79
+Zhang, B., Reid, M. J., Zhang, L., et al. 2019, Astron. J., 157, 200

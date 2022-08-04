@@ -27,8 +27,8 @@ Lagos C. d. P., Theuns T., Stevens A. R. H., Cortese L., Padilla N. D., Davis T.
 Lange R., et al., 2015, Monthly Notices of the Royal Astronomical Society, 447, 2603
 Lapi A., Salucci P., Danese L., 2018, The Astrophysical Journal, 859, 2
 Liske J., et al., 2015, Monthly Notices of the Royal Astronomical Society, 452, 2087
-Mancera PiAa P. E., Posti L., Fraternali F., Adams E. A. K., Oosterloo T., 2021a, Astronomy & Astrophysics, 647, A76
-Mancera PiAa P. E., Posti L., Pezzulli G., Fraternali F., Fall S. M., Oosterloo T., Adams E. A. K., 2021b, Astronomy & Astrophysics, 651, L15
+Mancera Piña P. E., Posti L., Fraternali F., Adams E. A. K., Oosterloo T., 2021a, Astronomy & Astrophysics, 647, A76
+Mancera Piña P. E., Posti L., Pezzulli G., Fraternali F., Fall S. M., Oosterloo T., Adams E. A. K., 2021b, Astronomy & Astrophysics, 651, L15
 Marasco A., Fraternali F., Posti L., Ijtsma M., Di Teodoro E. M., Oosterloo T., 2019, Astronomy and Astrophysics, 621, L6
 Marshall M. A., Mutch S. J., Qin Y., Poole G. B., Wyithe J. S. B., 2019, Monthly Notices of the Royal Astronomical Society, 488, 1941
 Martin D. C., et al., 2005, The Astrophysical Journal, 619, L1
@@ -51,7 +51,7 @@ Sweet S. M., Fisher D., Glazebrook K., Obreschkow D., Lagos C., Wang L., 2018, T
 Sweet S. M., et al., 2019, Monthly Notices of the Royal Astronomical Society, 485, 5700
 Swinbank A. M., et al., 2017, Monthly Notices of the Royal Astronomical Society, 467, 3140
 Szomoru D., Franx M., van Dokkum P. G., 2012, The Astrophysical Journal, 749, 121
-SArsic J. L., 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
+Sérsic J. L., 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
 Teklu A. F., Remus R.-S., Dolag K., Beck A. M., Burkert A., Schmidt A. S., Schulze F., Steinborn L. K., 2015, The Astrophysical Journal, 812, 29
 Tiley A. L., et al., 2021, arXiv:2106.05511 [astro-ph]
 Tully R. B., Fisher J. R., 1977, Astronomy and Astrophysics, 54, 661

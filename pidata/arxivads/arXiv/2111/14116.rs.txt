@@ -11,13 +11,13 @@ M. Haack, D. Sarkar, A. Yarom, JHEP 04, 034 (2019), 1812.08210
 C. Cartwright, JHEP 01, 041 (2021), 2003.04325
 D.E. Kharzeev, Y. Kikuchi, Phys. Rev. Res. 2, 023342 (2020), 2001.00698
 K. Landsteiner, E. Lopez, G. Milans del Bosch, Phys. Rev. Lett. 120, 071602 (2018), 1709.08384
-J. Fernandez-Pendas, K. Landsteiner, Phys. Rev. D 100, 126024 (2019), 1907.09962
+J. Fernández-Pendás, K. Landsteiner, Phys. Rev. D 100, 126024 (2019), 1907.09962
 S. Morales-Tejera, K. Landsteiner, Phys. Rev. D 102, 106020 (2020), 2006.16031
 J.K. Ghosh, S. Grieninger, K. Landsteiner, S. Morales-Tejera, Phys. Rev. D 104, 046009 (2021), 2105.05855
 S. de Haro, S.N. Solodukhin, K. Skenderis, Commun. Math. Phys. 217, 595 (2001), hep-th/0002230
 M. Ammon, S. Grieninger, J. Hernandez, M. Kaminski, R. Koirala, J. Leiber, J. Wu, JHEP 04, 078 (2021), 2012.09183
 J.F. Fuini, L.G. Yaffe, JHEP 07, 116 (2015), 1503.07148
-J. Bezanson, A. Edelman, S. Karpinski, V.B. Shah, "Julia: A fresh approach to numerical computing" (2015), 1411.1607
+J. Bezanson, A. Edelman, S. Karpinski, V.B. Shah, Julia: A fresh approach to numerical computing (2015), 1411.1607
 S. Grieninger, A. Shukla, JHEP 08, 108 (2021), 2105.08673
 S.S. Gubser, I.R. Klebanov, A.W. Peet, Phys. Rev. D 54, 3915 (1996), hep-th/9602135
 S. Borsanyi, Z. Fodor, C. Hoelbling, S.D. Katz, S. Krieg, K.K. Szabo, Phys. Lett. B 730, 99 (2014), 1309.5258

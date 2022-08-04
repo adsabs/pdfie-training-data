@@ -14,7 +14,7 @@ M. Sereno and S. Ettori, Mon. Not. R. Astron. Soc. 450, 3633 (2015), 1407.7868.
 L. Lovisari, S. Ettori, M. Sereno, G. Schellenberger, W. R. Forman, F. Andrade-Santos, and C. Jones, Astron. & Astrophys. 644, A78 (2020), 2010.03582.
 X. Shi, E. Komatsu, D. Nagai, and E. T. Lau, Mon. Not. R. Astron. Soc. 455, 2936 (2016), 1507.04338.
 N. Ota, D. Nagai, and E. T. Lau, PASJ 70, 51 (2018), 1507.02730.
-G. Gianfagna, M. De Petris, G. Yepes, F. De Luca, F. Sembolini, W. Cui, V. Biffi, F. Keruzore, J. Mac ias-Perez, F. Mayet, et al., Mon. Not. R. Astron. Soc. 502, 5115 (2021), 2010.03634.
+G. Gianfagna, M. De Petris, G. Yepes, F. De Luca, F. Sembolini, W. Cui, V. Biffi, F. Kéruzoré, J. Macás-Pérez, F. Mayet, et al., Mon. Not. R. Astron. Soc. 502, 5115 (2021), 2010.03634.
 Y. Tian, K. Umetsu, C.-M. Ko, M. Donahue, and I. N. Chiu, Astrophys. J. 896, 70 (2020), 2001.08340.
 S. Pradyumna, S. Gupta, S. Seeram, and S. Desai, Physics of the Dark Universe 31, 100765 (2021), 2011.06421.
 K. Gopika and S. Desai, Physics of the Dark Universe 30, 100707 (2020), 2006.12320.
@@ -38,7 +38,7 @@ M. Ishak, W. Rindler, J. Dossett, J. Moldenhauer, and C. Allison, Mon. Not. R. A
 L. Hu, A. Heavens, and D. Bacon, arXiv e-prints arXiv:2109.09785 (2021), 2109.09785.
 G. S. Bisnovatyi-Kogan and A. D. Chernin, Astrophys. and Space Science 338, 337 (2012), 1206.1433.
 A. D. Chernin, G. S. Bisnovatyi-Kogan, P. Teerikorpi, M. J. Valtonen, G. G. Byrd, and M. Merafina, Astron. & Astrophys. 553, A101 (2013), 1303.3800.
-P. Teerikorpi, P. Heinamaki, P. Nurmi, A. D. Chernin, M. Einasto, M. Valtonen, and G. Byrd, Astron. & Astrophys. 577, A144 (2015), 1503.02805.
+P. Teerikorpi, P. Heinämäki, P. Nurmi, A. D. Chernin, M. Einasto, M. Valtonen, and G. Byrd, Astron. & Astrophys. 577, A144 (2015), 1503.02805.
 V. G. Gurzadyan, A. A. Kocharyan, and A. Stepanian, European Physical Journal C 80, 24 (2020), 2001.02634.
 V. G. Gurzadyan and A. Stepanian, European Physical Journal C 79, 169 (2019), 1902.07171.
 A. Mahdavi, H. Hoekstra, A. Babul, and J. P. Henry, Mon. Not. R. Astron. Soc. 384, 1567 (2008), 0710.4132.

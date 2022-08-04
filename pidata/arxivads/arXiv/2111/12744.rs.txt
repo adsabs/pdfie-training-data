@@ -6,7 +6,7 @@ Bahcall J. N., Wolf R. A., 1976, ApJ, 209, 214
 Bonnell I. A., Rice W. K. M., 2008, Science, 321, 1060
 Foote H. R., Generozov A., Madigan A.-M., 2020, ApJ, 890, 175
 Freitag M., Amaro-Seoane P., Kalogera V., 2006, ApJ, 649, 91
-Gallego-Cano E., Schodel R., Nogueras-Lara F., Dong H., Shahzamanian B., Fritz T. K., Gallego-Calvente A. T., Neumayer N., 2020, A&A, 634, A71
+Gallego-Cano E., Schödel R., Nogueras-Lara F., Dong H., Shahzamanian B., Fritz T. K., Gallego-Calvente A. T., Neumayer N., 2020, A&A, 634, A71
 Gammie C. F., 2001, ApJ, 553, 174
 Generozov A., 2020, ApJ, 904, 118
 Generozov A., Madigan A.-M., 2020, ApJ, 896, 137
@@ -18,7 +18,7 @@ Gould A., Quillen A. C., 2003, ApJ, 592, 935
 Gruzinov A., Levin Y., Zhu J., 2020, ApJ, 905, 11
 Gualandris A., Mapelli M., Perets H. B., 2012, MNRAS, 427, 1793
 Guo F., Mathews W. G., 2012, ApJ, 756, 181
-Gurkan M. A., Hopman C., 2007, MNRAS, 379, 1083
+Gürkan M. A., Hopman C., 2007, MNRAS, 379, 1083
 Habibi M., et al., 2017, ApJ, 847, 120
 Hailey C. J., Mori K., Bauer F. E., Berkowitz M. E., Hong J., Hord B. J., 2018, Nature, 556, 70
 Hills J. G., 1988, Nature, 331, 687
@@ -36,7 +36,7 @@ Madigan A., 2011, in Morris M. R., Wang Q. D., Yuan F., eds, Astronomical Societ
 Madigan A.-M., Levin Y., Hopman C., 2009, ApJ, 697, L44
 Mapelli M., Hayfield T., Mayer L., Wadsley J., 2012, ApJ, 749, 168
 Merritt D., 2010, ApJ, 718, 739
-Miralda-Escude J., Gould A., 2000, ApJ, 545, 847
+Miralda-Escudé J., Gould A., 2000, ApJ, 545, 847
 Morris M., 1993, ApJ, 408, 496
 Muno M. P., Pfahl E., Baganoff F. K., Brandt W. N., Ghez A., Lu J., Morris M. R., 2005, ApJ, 622, L113
 Naoz S., Ghez A. M., Hees A., Do T., Witzel G., Lu J. R., 2018, ApJ, 853, L24
@@ -51,15 +51,15 @@ Reid M. J., Brunthaler A., 2020, ApJ, 892, 39
 Rein H., Liu S. F., 2012, A&A, 537, A128
 Rein H., Spiegel D. S., 2015, MNRAS, 446, 1424
 Rice W. K. M., Lodato G., Armitage P. J., 2005, MNRAS, 364, L56
-Schodel R., Gallego-Cano E., Dong H., Nogueras-Lara F., Gallego-Calvente A. T., Amaro-Seoane P., Baumgardt H., 2018, A&A, 609, A27
-Schodel R., Nogueras-Lara F., Gallego-Cano E., Shahzamanian B., Gallego-Calvente A. T., Gardini A., 2020, A&A, 641, A102
+Schödel R., Gallego-Cano E., Dong H., Nogueras-Lara F., Gallego-Calvente A. T., Amaro-Seoane P., Baumgardt H., 2018, A&A, 609, A27
+Schödel R., Nogueras-Lara F., Gallego-Cano E., Shahzamanian B., Gallego-Calvente A. T., Gardini A., 2020, A&A, 641, A102
 Springel V., 2005, MNRAS, 364, 1105
 Su M., Slatyer T. R., Finkbeiner D. P., 2010, ApJ, 724, 1044
-Szolgyen A., Kocsis B., 2018, Phys. Rev. Lett., 121, 101101
+Szölgyén Á., Kocsis B., 2018, Phys. Rev. Lett., 121, 101101
 Tamayo D., Rein H., Shi P., Hernand ez D. M., 2020, MNRAS, 491, 2885
-Tep K., Fouvry J.-B., Pichon C., Heiel G., Paumard T., Perrin G., Vincent F., 2021, MNRAS, 506, 4289
+Tep K., Fouvry J.-B., Pichon C., Heißel G., Paumard T., Perrin G., Vincent F., 2021, MNRAS, 506, 4289
 Vasiliev E., 2017, ApJ, 848, 10
 Wernke H. N., Madigan A.-M., 2019, ApJ, 880, 42
 Yelda S., Ghez A. M., Lu J. R., Do T., Meyer L., Morris M. R., Matthews K., 2014, ApJ, 783, 131
 Zhu Z., Hartmann L., Gammie C., 2009, ApJ, 694, 1045
-Subr L., Haas J., 2016, ApJ, 828, 1
+Šubr L., Haas J., 2016, ApJ, 828, 1

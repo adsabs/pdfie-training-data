@@ -9,13 +9,13 @@ M. Reuter and C. Wetterich, Nucl. Phys. B, 417, 181-214 (1994).
 M. Reuter and C. Wetterich, Nucl. Phys. B, 427, 291-324 (1994).
 Hidenori Sonoda and Hiroshi Suzuki, PTEP, 2021(2), 023B05 (2021), arXiv:2012.03568.
 R. Narayanan and H. Neuberger, JHEP, 03, 064 (2006), hep-th/0601210.
-Martin Luscher, Commun. Math. Phys., 293, 899-919 (2010), arXiv:0907.5491.
-Martin Luscher, JHEP, 08, 071, [Erratum: JHEP 03, 092 (2014)] (2010), arXiv:1006.4518.
-Martin Luscher and Peter Weisz, JHEP, 02, 051 (2011), arXiv:1101.0963.
+Martin Lüscher, Commun. Math. Phys., 293, 899-919 (2010), arXiv:0907.5491.
+Martin Lüscher, JHEP, 08, 071, [Erratum: JHEP 03, 092 (2014)] (2010), arXiv:1006.4518.
+Martin Lüscher and Peter Weisz, JHEP, 02, 051 (2011), arXiv:1101.0963.
 Yuki Miyakawa and Hiroshi Suzuki, PTEP, 2021(8), 083B04 (2021), arXiv:2106.11142.
 Hidenori Sonoda and Hiroshi Suzuki, PTEP, 2019(3), 033B05 (2019), arXiv:1901.05169.
 Masami Matsumoto, Gota Tanaka, and Asato Tsuchiya, PTEP, 2021(2), 023B02 (2021), arXiv:2011.14687.
-Tim R. Morris, A Manifestly gauge invariant exact renormalization group, In "Workshop on the Exact Renormalization Group", pages 1-40 (10 1998), hep-th/9810104.
+Tim R. Morris, A Manifestly gauge invariant exact renormalization group, In Workshop on the Exact Renormalization Group, pages 1-40 (10 1998), hep-th/9810104.
 Tim R. Morris, Nucl. Phys. B, 573, 97-126 (2000), hep-th/9910058.
 Tim R. Morris, JHEP, 12, 012 (2000), hep-th/0006064.
 Stefano Arnone, Tim R. Morris, and Oliver J. Rosten, Eur. Phys. J. C, 50, 467-504 (2007), hep-th/0507154.
@@ -23,5 +23,5 @@ Tim R. Morris and Oliver J. Rosten, J. Phys. A, 39, 11657-11681 (2006), hep-th/0
 C. Wetterich, Nucl. Phys. B, 931, 262-282 (2018), arXiv:1607.02989.
 C. Wetterich, Nucl. Phys. B, 934, 265-316 (2018), arXiv:1710.02494.
 Y. Igarashi, K. Itoh, and H. Sonoda, PTEP, 2016(9), 093B04 (2016), arXiv:1607.01521.
-Martin Luscher, JHEP, 04, 123 (2013), arXiv:1302.5246.
+Martin Lüscher, JHEP, 04, 123 (2013), arXiv:1302.5246.
 Yuji Igarashi and Katsumi Itoh (7 2021), arXiv:2107.14012.

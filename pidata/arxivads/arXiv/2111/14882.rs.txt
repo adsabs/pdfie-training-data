@@ -10,7 +10,7 @@ Brammer G. B., van Dokkum P. G., Coppi P., 2008, ApJ, 686, 1503
 Buitrago F., Trujillo I., Conselice C. J., Hauler B., 2013, MNRAS, 428, 1460
 Carrasco D., Trenti M., Mutch S., Oesch P. A., 2018, Publ. Astron. Soc. Australia, 35, e022
 Cerny C., et al., 2018, ApJ, 859, 159
-Chisholm J., Orlitova I., Schaerer D., Verhamme A., Worseck G., Izotov Y. I., Thuan T. X., Guseva N. G., 2017, A&A, 605, A67
+Chisholm J., Orlitová I., Schaerer D., Verhamme A., Worseck G., Izotov Y. I., Thuan T. X., Guseva N. G., 2017, A&A, 605, A67
 Cibirka N., et al., 2018, ApJ, 863, 145
 Cicone C., Maiolino R., Marconi A., 2016, A&A, 588, A41
 Coe D., et al., 2013, ApJ, 762, 32
@@ -25,7 +25,7 @@ Heckman T. M., Alexandroff R. M., Borthakur S., Overzier R., Leitherer C., 2015,
 Holwerda B. W., Bouwens R., Oesch P., Smit R., Illingworth G., Labbe I., 2015, ApJ, 808, 6
 Huang K.-H., Ferguson H. C., Ravindranath S., Su J., 2013, ApJ, 765, 68
 Huang K.-H., et al., 2017, ApJ, 838, 6
-Izotov Y. I., Schaerer D., Thuan T. X., Worseck G., Guseva N. G., OrlitovA I., Verhamme A., 2016, MNRAS, 461, 3683
+Izotov Y. I., Schaerer D., Thuan T. X., Worseck G., Guseva N. G., Orlitová I., Verhamme A., 2016, MNRAS, 461, 3683
 Izotov Y. I., Worseck G., Schaerer D., Guseva N. G., Chisholm J., Thuan T. X., Fricke K. J., Verhamme A., 2021, MNRAS, 503, 1734
 Jullo E., Kneib J.-P., 2009, MNRAS, 395, 1319
 Kawamata R., Ishigaki M., Shimasaku K., Oguri M., Ouchi M., 2015, ApJ, 804, 103
@@ -57,8 +57,8 @@ Rubin K. H. R., Weiner B. J., Koo D. C., Martin C. L., Prochaska J. X., Coil A. 
 Rubin K. H. R., Prochaska J. X., Koo D. C., Phillips A. C., Martin C. L., Winstrom L. O., 2014, ApJ, 794, 156
 Salmon B., et al., 2020, ApJ, 889, 189
 Saxena A., et al., 2021, arXiv e-prints, p. arXiv:2109.03662
-Shapley A. E., Steidel C. C., Strom A. L., Bogosavljevic M., Reddy N. A., Siana B., Mostardi R. E., Rudie G. C., 2016, ApJ, 826, L24
-Shen X., Hopkins P. F., Faucher-Giguere C.-A., Alexander D. M., Richards G. T., Ross N. P., Hickox R. C., 2020, MNRAS, 495, 3252
+Shapley A. E., Steidel C. C., Strom A. L., Bogosavljević M., Reddy N. A., Siana B., Mostardi R. E., Rudie G. C., 2016, ApJ, 826, L24
+Shen X., Hopkins P. F., Faucher-Giguère C.-A., Alexander D. M., Richards G. T., Ross N. P., Hickox R. C., 2020, MNRAS, 495, 3252
 Shibuya T., Ouchi M., Harikane Y., 2015, ApJS, 219, 15
 Shibuya T., Ouchi M., Harikane Y., Nakajima K., 2019, ApJ, 871, 164
 Strait V., et al., 2020, ApJ, 888, 124
@@ -66,9 +66,9 @@ Strait V., et al., 2021, ApJ, 910, 135
 Trenti M., Stiavelli M., 2008, ApJ, 676, 767
 Trenti M., et al., 2011, ApJ, 727, L39
 Vanzella E., et al., 2020, MNRAS, 494, L81
-Verhamme A., Orlitova I., Schaerer D., Hayes M., 2015, A&A, 578, A7
+Verhamme A., Orlitová I., Schaerer D., Hayes M., 2015, A&A, 578, A7
 Yang L., Birrer S., Treu T., 2020a, MNRAS, 496, 2648
-Yang L., Roberts-Borsani G., Treu T., Birrer S., Morishita T., BradaA M., 2020b, MNRAS, 501, 1028
+Yang L., Roberts-Borsani G., Treu T., Birrer S., Morishita T., Bradač M., 2020b, MNRAS, 501, 1028
 Zitrin A., et al., 2014, ApJ, 793, L12
 Zitrin A., et al., 2017, ApJ, 839, L11
 van der Wel A., et al., 2014, ApJ, 788, 28

@@ -13,7 +13,7 @@ Drout, M. R., Soderberg, A. M., Gal-Yam, A., et al. 2011, ApJ, 741, 97
 Ertl, T., Woosley, S. E., Sukhbold, T., & Janka, H. T. 2020, ApJ, 890, 51
 Foley, R. J., Smith, N., Ganeshalingam, M., et al. 2007, ApJ, 657, L105
 Fuller, J. 2017, MNRAS, 470, 1642
-Gonzalez, M., Audit, E., & Huynh, P. 2007, A&A, 464, 429
+González, M., Audit, E., & Huynh, P. 2007, A&A, 464, 429
 Hosseinzadeh, G., Arcavi, I., Valenti, S., et al. 2017, ApJ, 836, 158
 Hosseinzadeh, G., McCully, C., Zabludoff, A. I., et al. 2019, ApJ, 871, L9
 Immler, S., Modjaz, M., Landsman, W., et al. 2008, ApJ, 674, L85

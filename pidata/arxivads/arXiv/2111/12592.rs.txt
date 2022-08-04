@@ -29,7 +29,7 @@ Gehrels, N., Chincarini, G., Giommi, P., et al. 2004, ApJ, 611, 1005, doi: 10.10
 Gendreau, K. C., Arzoumanian, Z., Adkins, P. W., et al. 2016, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9905, Space Telescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, ed. J.-W. A. den Herder, T. Takahashi, & M. Bautz, 99051H, doi: 10.1117/12.2231304
 Graham, M. J., Kulkarni, S. R., Bellm, E. C., et al. 2019, PASP, 131, 078001, doi: 10.1088/1538-3873/ab006c
 Grefenstette, B. W., Ludlam, R. M., Thompson, E. T., et al. 2021, ApJ, 909, 30, doi: 10.3847/1538-4357/abe045
-Guver, T., & Ozel, F. 2009, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
+Güver, T., & Özel, F. 2009, MNRAS, 400, 2050, doi: 10.1111/j.1365-2966.2009.15598.x
 Hambly, N. C., Collins, R. S., Cross, N. J. G., et al. 2008, MNRAS, 384, 637, doi: 10.1111/j.1365-2966.2007.12700.x
 Harrison, F. A., Craig, W. W., Christensen, F. E., et al. 2013, ApJ, 770, 103, doi: 10.1088/0004-637X/770/2/103
 Hewett, P. C., Warren, S. J., Leggett, S. K., & Hodgkin, S. T. 2006, MNRAS, 367, 454, doi: 10.1111/j.1365-2966.2005.09969.x
@@ -58,7 +58,7 @@ Reig, P., Blinov, D., Papadakis, I., Kylafis, N., & Tassis, K. 2014, MNRAS, 445,
 Reig, P., Stevens, J. B., Coe, M. J., & Fabregat, J. 1998, MNRAS, 301, 42, doi: 10.1046/j.1365-8711.1998.01989.x
 Remillard, R. A., Loewenstein, M., Steiner, J. F., et al. 2021, arXiv e-prints, arXiv:2105.09901. https://arxiv.org/abs/2105.09901
 Rieke, G. H., & Lebofsky, M. J. 1985, ApJ, 288, 618, doi: 10.1086/162827
-Riquelme, M. S., Torrejon, J. M., & Negueruela, I. 2012, A&A, 539, A114, doi: 10.1051/0004-6361/201117738
+Riquelme, M. S., Torrejón, J. M., & Negueruela, I. 2012, A&A, 539, A114, doi: 10.1051/0004-6361/201117738
 Rivinius, T., Carciofi, A. C., & Martayan, C. 2013, A&A Rv, 21, 69, doi: 10.1007/s00159-013-0069-0
 Savage, B. D., & Mathis, J. S. 1979, ARA&A, 17, 73, doi: 10.1146/annurev.aa.17.090179.000445
 Scargle, J. D. 1982, ApJ, 263, 835, doi: 10.1086/160554

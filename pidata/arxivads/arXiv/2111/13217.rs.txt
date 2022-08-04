@@ -25,6 +25,6 @@ Stern, J., & Laor, A. 2012, MNRAS, 426, 2703
 Ueda, Y., Akiyama, M., Ohta, K., Miyaji, T., 2003, ApJ, 598, 886U
 Urry, C. M., & Padovani, P. 1995, PASP, 107, 803
 Vanden Berk, D. E., Shen, J., Yip, C.-W., et al. 2006, AJ, 131, 84
-Vazdekis, A., S anchez-Bl azquez, P., Falc on-Barroso, J., et al. 2010, MNRAS, 404, 1639
+Vazdekis, A., Sánchez-Blázquez, P., Falcón-Barroso, J., et al. 2010, MNRAS, 404, 1639
 Zaw, I., Chen, Y.-P., & Farrar, G. R., 2019, ApJ, 872, 134
 Zhu, G., Zaw, I., Blanton, M. R., & Greenhill, L. J. 2011, ApJ, 742, 73

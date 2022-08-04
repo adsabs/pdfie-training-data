@@ -37,7 +37,7 @@ A. Bacchetta, V. Bertone, C. Bissolotti, G. Bozzi, F. Delcarro, F. Piacenza, and
 T. Becher and T. Neumann, JHEP 03, 199 (2021), arXiv:2009.11437 [hep-ph]
 E. Re, L. Rottoli, and P. Torrielli, (2021), 10.1007/JHEP09(2021)108, arXiv:2104.07509 [hep-ph]
 W.-L. Ju and M. Schonherr, JHEP 10, 088 (2021), arXiv:2106.11260 [hep-ph]
-S. Hoche, Y. Li, and S. Prestel, Phys. Rev. D 91, 074015 (2015), arXiv:1405.3607 [hep-ph]
+S. Höche, Y. Li, and S. Prestel, Phys. Rev. D 91, 074015 (2015), arXiv:1405.3607 [hep-ph]
 S. Alioli, A. Broggio, A. Gavardi, S. Kallweit, M. A. Lim, R. Nagar, D. Napoletano, C. W. Bauer, and L. Rottoli, Phys. Rev. D 104, 094020 (2021), arXiv:2102.08390 [hep-ph]
 J. C. Collins and D. E. Soper, Phys. Rev. D 16, 2219 (1977)
 R. D. Ball et al. (NNPDF), Eur. Phys. J. C 77, 663 (2017), arXiv:1706.00428 [hep-ph]
@@ -57,4 +57,4 @@ L. Cieri, X. Chen, T. Gehrmann, E. W. N. Glover, and A. Huss, JHEP 02, 096 (2019
 X. Chen, T. Gehrmann, N. Glover, A. Huss, T.-Z. Yang, and H. X. Zhu, (2021), arXiv:2107.09085 [hep-ph]
 S. Camarda, L. Cieri, and G. Ferrera, (2021), arXiv:2103.04974 [hep-ph]
 R. Gavin, Y. Li, F. Petriello, and S. Quackenbush, Comput. Phys. Commun. 182, 2388 (2011), arXiv:1011.3540 [hep-ph]
-S. Alekhin, J. Blumlein, S. Moch, and R. Placakyte, Phys. Rev. D 96, 014011 (2017), arXiv:1701.05838 [hep-ph]
+S. Alekhin, J. Blümlein, S. Moch, and R. Placakyte, Phys. Rev. D 96, 014011 (2017), arXiv:1701.05838 [hep-ph]
