@@ -89,7 +89,8 @@ def main():
     # fulltext tree that the ArXiv reference extractor framework might use for
     # its containerized processing, and create symlinks out of that tree to the
     # ADS PDF paths. So, this functionality can only work when running on the
-    # ADS system, since otherwise those PDF paths are not useful.
+    # ADS system or NFS/sshfs mounts have been set up to emulate it, because
+    # otherwise those PDF paths are not useful.
 
     if settings.ads_arxiv_fulltext_shadow is not None:
         ft_root_dir = Path(settings.ads_arxiv_fulltext_shadow)
@@ -104,7 +105,7 @@ def main():
             if doc.ads_pdf_path_symbolic is not None:
                 real_pdf_path = doc.ads_pdf_path_symbolic.replace(
                     "$ADS_ARTICLES", str(util.ADS_ARTICLES_PREFIX)
-                )
+                ).replace("$ADS_ABSTRACTS", str(util.ADS_ABSTRACTS_PREFIX))
             elif doc.pdf_sha256_hex is not None:
                 real_pdf_path = util.try_local_data_path(doc.pdf_sha256_hex)
             else:
