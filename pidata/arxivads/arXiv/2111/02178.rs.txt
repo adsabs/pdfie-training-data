@@ -1,6 +1,6 @@
 Bardeen, J. M. 1973, Black Holes (Les Astres Occlus), 215
 Campbell, B. A., Kaloper, N., & Olive, K. A. 1992, Physics Letters B, 285, 199. doi:10.1016/0370-2693(92)91452-F
-Cardenas-Avendano, A., Godfrey, J., Yunes, N., et al. 2019, Phys. Rev. D, 100, 024039. doi:10.1103/PhysRevD.100.024039
+Cárdenas-Avendaño, A., Godfrey, J., Yunes, N., et al. 2019, Phys. Rev. D, 100, 024039. doi:10.1103/PhysRevD.100.024039
 Chaverra, E. & Sarbach, O. 2015, Classical and Quantum Gravity, 32, 155006. doi:10.1088/0264-9381/32/15/155006
 Collins, N. A. & Hughes, S. A. 2004, Phys. Rev. D, 69, 124022. doi:10.1103/PhysRevD.69.124022
 Glampedakis, K. & Pappas, G. 2021, arXiv:2102.13573
@@ -11,7 +11,7 @@ Johannsen, T., Broderick, A. E., Plewa, P. M., et al. 2016, Phys. Rev. Lett., 11
 Johnson, M. D., Lupsasca, A., Strominger, A., et al. 2020, Science Advances, 6, eaaz1310. doi:10.1126/sciadv.aaz1310
 Kanti, P., Mavromatos, N. E., Rizos, J., et al. 1996, Phys. Rev. D, 54, 5049. doi:10.1103/PhysRevD.54.5049
 Kocherlakota, P., Rezzolla, L., Falcke, H., et al. 2021, Phys. Rev. D, 103, 104047. doi:10.1103/PhysRevD.103.104047
-Lara, G., Volkel, S. H., & Barausse, E. 2021, arXiv:2110.00026
+Lara, G., Völkel, S. H., & Barausse, E. 2021, arXiv:2110.00026
 Maselli, A., Pani, P., Gualtieri, L., et al. 2015, Phys. Rev. D, 92, 083014. doi:10.1103/PhysRevD.92.083014
 Narayan, R., Johnson, M. D., & Gammie, C. F. 2019, ApJ, 885, L33. doi:10.3847/2041-8213/ab518c
 Psaltis, D., Medeiros, L., Christian, P., et al. 2020, Phys. Rev. Lett., 125, 141104. doi:10.1103/PhysRevLett.125.141104
@@ -23,5 +23,5 @@ The Event Horizon Telescope Collaboration, 2019c, Astrophysical Journal Letters,
 The Event Horizon Telescope Collaboration, 2019d, Astrophysical Journal Letters, 875, L4
 The Event Horizon Telescope Collaboration, 2019e, Astrophysical Journal Letters, 875, L5
 The Event Horizon Telescope Collaboration, 2019f, Astrophysical Journal Letters, 875, L6
-Volkel, S. H., Barausse, E., Franchini, N., et al. 2020, arXiv:2011.06812
+Völkel, S. H., Barausse, E., Franchini, N., et al. 2020, arXiv:2011.06812
 Yunes, N. & Stein, L. C. 2011, Phys. Rev. D, 83, 104002. doi:10.1103/PhysRevD.83.104002

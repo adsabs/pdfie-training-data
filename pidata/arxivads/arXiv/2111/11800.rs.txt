@@ -1,33 +1,42 @@
 Alonso-Herrero, A., Esquej, P., Roche, P. F., et al. 2016, MNRAS, 455, 563, doi: 10.1093/mnras/stv2342
 Antonucci, R. 1993, ARA& A, 31, 473, doi: 10.1146/annurev.aa.31.090193.002353
 Barvainis, R. 1987, ApJ, 320, 537, doi: 10.1086/165571
-Chau Giang, N., & Hoang, T. 2020, arXiv e-prints, arXiv:2009.06958. https://arxiv.org/abs/2009.06958
+Buchner, J., Brightman, M., Baloković, M., et al. 2021, A&A, 651, A58, doi: 10.1051/0004-6361/201834963
+Buchner, J., Georgakakis, A., Nandra, K., et al. 2015, ApJ, 802, 89, doi: 10.1088/0004-637X/802/2/89
+Burke, J. R., & Silk, J. 1974, ApJ, 190, 1, doi: 10.1086/152840
+Burlon, D., Ajello, M., Greiner, J., et al. 2011, ApJ, 728, 58, doi: 10.1088/0004-637X/728/1/58
 Chiang, E., Chiang, E., Youdin, A. N., & Youdin, A. N. 2010, Annual Review of Earth and Planetary Sciences, 38, 493 , doi: 10.1146/annurev-earth-040809-152513
 Chokshi, A., Tielens, A. G. G. M., & Hollenbach, D. 1993, ApJ, 407, 806, doi: 10.1086/172562
 Dominik, C., & Tielens, A. G. G. M. 1997, ApJ, 480, 647, doi: 10.1086/303996
 Draine, B. T. 2011, Physics of the Interstellar and Intergalactic Medium
 Draine, B. T., Draine, B. T., Flatau, P. J., & Flatau, P. J. 1994, Journal of the Optical Society of America A: Optic s and Image Science (ISSN 0740-3232), 11, 1491
 Draine, B. T., & Li, A. 2007, ApJ, 657, 810, doi: 10.1086/511055
+Draine, B. T., & Salpeter, E. E. 1979, ApJ, 231, 77, doi: 10.1086/157165
 Draine, B. T., & Weingartner, J. C. 1996, ApJ, 470, 551, doi: 10.1086/177887
 Dullemond, C. P., & van Bemmel, I. M. 2005, A&A, 436, 47, doi: 10.1051/0004-6361:20041763
 Fritz, J., Franceschini, A., & Hatziminaoglou, E. 2006, MNRAS, 366, 767, doi: 10.1111/j.1365-2966.2006.09866.x
+Giang, N. C., & Hoang, T. 2021, The Astrophysical Journal, 922, 47, doi: 10.3847/1538-4357/ac1116
 Goldreich, P., & Ward, W. R. 1973, ApJ, 183, 1051, doi: 10.1086/152291
+Granato, G. L., & Danese, L. 1994, MNRAS, 268, 235, doi: 10.1093/mnras/268.1.235
+Granato, G. L., Danese, L., & Franceschini, A. 1997, ApJ, 486, 147, doi: 10.1086/304502
 Greenberg, J. M., Mizutani, H., & Yamamoto, T. 1995, A&A, 295, L35
 Gundlach, B., Kilias, S., Beitz, E., & Blum, J. 2011, Icarus, 214, 717, doi: 10.1016/j.icarus.2011.05.005
+Hao, L., Weedman, D. W., Spoon, H. W. W., et al. 2007, ApJL, 655, L77, doi: 10.1086/511973
 Herranen, J., Lazarian, A., & Hoang, T. 2021, The Astrophysical Journal, 913, 63, doi: 10.3847/1538-4357/abf096
+Hicks, E. K. S., Davies, R. I., Malkan, M. A., et al. 2009, ApJ, 696, 448, doi: 10.1088/0004-637X/696/1/448
 Hoang, T. 2019a, ApJ, 876, 13, doi: 10.3847/1538-4357/ab1075
 —. 2020, Galaxies, 8, 52, doi: 10.3390/galaxies8030052
-Hoang, T. 2021, arXiv e-prints, arXiv:2107.01772. https://arxiv.org/abs/2107.01772
 Hoang, T., Giang, N. C., & Tram, L. N. 2020, The Astrophysical Journal, 895, 16, doi: 10.3847/1538-4357/ab8ae1
 Hoang, T., & Lazarian, A. 2008, MNRAS, 388, 117, doi: 10.1111/j.1365-2966.2008.13249.x
 —. 2014, MNRAS, 438, 680, doi: 10.1093/mnras/stt2240
 —. 2016, ApJ, 831, 159, doi: 10.3847/0004-637X/831/2/159
 Hoang, T., Lazarian, A., & Martin, P. G. 2013, ApJ, 779, 152, doi: 10.1088/0004-637X/779/2/152
 Hoang, T., & Tram, L. N. 2020, ApJ, 891, 38, doi: 10.3847/1538-4357/ab6eff
-Hoang, T., Tram, L. N., Lee, H., & Ahn, S.-H. 2019b, Nature, 3, 766775, doi: 10.1038/s41550-019-0763-6
+Hoang, T., Tram, L. N., Lee, H., & Ahn, S.-H. 2019b, Nature, 3, 766–775, doi: 10.1038/s41550-019-0763-6
 Hoang, T., & Tung, N.-D. 2019, ApJ, 885, 125, doi: 10.3847/1538-4357/ab4810
 Hönig, S. F., Beckert, T., Ohnaka, K., & Weigelt, G. 2006, A&A, 452, 459, doi: 10.1051/0004-6361:20054622
 Hönig, S. F., & Kishimoto, M. 2010, A&A, 523, A27, doi: 10.1051/0004-6361/200912676
+Izumi, T., Wada, K., Fukushige, R., Hamamura, S., & Kohno, K. 2018, The Astrophysical Journal, 867, 48, doi: 10.3847/1538-4357/aae20b
 Kataoka, A., Tanaka, H., Okuzumi, S., & Wada, K. 2013, A&A, 557, L4, doi: 10.1051/0004-6361/201322151
 Kimura, H., Wada, K., Yoshida, F., et al. 2020, MNRAS, 496, 1667, doi: 10.1093/mnras/staa1641
 Kokubo, E., & Ida, S. 2012, Progress of Theoretical and Experimental Physics, 2012, 01A308, doi: 10.1093/ptep/pts032
@@ -35,9 +44,10 @@ Krolik, J. H., & Begelman, M. C. 1988, ApJ, 329, 702, doi: 10.1086/166414
 Laor, A., & Draine, B. T. 1993, ApJ, 402, 441, doi: 10.1086/172149
 Lazarian, A., & Hoang, T. 2007, MNRAS, 378, 910, doi: 10.1111/j.1365-2966.2007.11817.x
 —. 2021, ApJ, 908, 12, doi: 10.3847/1538-4357/abd02c
-Li, A., & Draine, B. T. 2001, ApJ, 554, 778802, doi: 10.1086/323147
+Li, A., & Draine, B. T. 2001, ApJ, 554, 778–802, doi: 10.1086/323147
 Li, A., & Greenberg, J. M. 1997, A&A, 323, 566
 Litwin, K. L., Zygielbaum, B. R., Polito, P. J., Sklar, L. S., & Collins, G. C. 2012, Journal of Geophysical Research: Planets, 117, doi: https://doi.org/10.1029/2012JE004101
+Markowitz, A. G., Krumpe, M., & Nikutta, R. 2014, MNRAS, 439, 1403, doi: 10.1093/mnras/stt2492
 Mathis, J. S., Mezger, P. G., & Panagia, N. 1983, A&A, 500, 259
 Mathis, J. S., Rumpl, W., & Nordsieck, K. H. 1977, Astrophysical Journal, 217, 425 , doi: 10.1086/155591
 Mukai, T., Ishimoto, H., Kozasa, T., Blum, J., & Greenberg, J. M. 1992, A&A, 262, 315
@@ -48,6 +58,7 @@ Netzer, H. 2015, ARA& A, 53, 365, doi: 10.1146/annurev-astro-082214-122302
 Okuzumi, S., Tanaka, H., & aki Sakagami, M. 2009, The Astrophysical Journal, 707, 1247, doi: 10.1088/0004-637x/707/2/1247
 Okuzumi, S., Tanaka, H., Kobayashi, H., & Wada, K. 2012, ApJ, 752, 106, doi: 10.1088/0004-637X/752/2/106
 Schartmann, M., Meisenheimer, K., Camenzind, M., et al. 2008, A&A, 482, 67, doi: 10.1051/0004-6361:20078907
+Schartmann, M., Wada, K., Prieto, M. A., Burkert, A., & Tristram, K. R. W. 2014, Monthly Notices of the Royal Astronomical Society, 445, 3878, doi: 10.1093/mnras/stu2020
 Shakura, N. I., & Sunyaev, R. A. 1973, A&A, 500, 33
 Shen, Y., Draine, B. T., & Johnson, E. T. 2008, ApJ, 689, 260, doi: 10.1086/592765
 Shi, Y., Rieke, G. H., Hines, D. C., et al. 2006, ApJ, 653, 127, doi: 10.1086/508737
@@ -56,10 +67,12 @@ Stalevski, M., Fritz, J., Baes, M., Nakos, T., & Popović, L. Č. 2012, MNRAS, 4
 Suyama, T., Wada, K., Tanaka, H., & Okuzumi, S. 2012, The Astrophysical Journal, 753, 115, doi: 10.1088/0004-637x/753/2/115
 Tatsuuma, M., Kataoka, A., & Tanaka, H. 2019, ApJ, 874, 159, doi: 10.3847/1538-4357/ab09f7
 Tazaki, R., Ichikawa, K., & Kokubo, M. 2020, ApJ, 892, 84, doi: 10.3847/1538-4357/ab7822
+Tristram, K. R. W., Raban, D., Meisenheimer, K., et al. 2009, A&A, 502, 67, doi: 10.1051/0004-6361/200811607
 Tung, N.-D., & Hoang, T. 2020, ApJ, 901, 6, doi: 10.3847/1538-4357/abacbf
 Urry, C. M., & Padovani, P. 1995, PASP, 107, 803, doi: 10.1086/133630
 Wada, K., Papadopoulos, P. P., & Spaans, M. 2009, ApJ, 702, 63, doi: 10.1088/0004-637X/702/1/63
 Wada, K., Schartmann, M., & Meijerink, R. 2016, ApJL, 828, L19, doi: 10.3847/2041-8205/828/2/L19
+Wada, K., Schartmann, M., & Meijerink, R. 2016, The Astrophysical Journal, 828, L19, doi: 10.3847/2041-8205/828/2/l19
 Wada, K., Tanaka, H., Suyama, T., Kimura, H., & Yamamoto, T. 2008, ApJ, 677, 1296, doi: 10.1086/529511
 Wada, K., Tsukamoto, Y., & Kokubo, E. 2019, ApJ, 886, 107, doi: 10.3847/1538-4357/ab4cf0
 —. 2021, ApJ, 909, 96, doi: 10.3847/1538-4357/abd40a

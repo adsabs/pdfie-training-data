@@ -3,11 +3,15 @@ Acebron A., et al., 2019a, arXiv e-prints, p. arXiv:1912.02702
 Acebron A., et al., 2019b, ApJ, 874, 132
 Atek H., et al., 2015, ApJ, 814, 69
 Atek H., Richard J., Kneib J.-P., Schaerer D., 2018, MNRAS, 479, 5184
+Bhatawdekar R., Conselice C. J., Margalef-Bentabol B., Duncan K., 2019, MNRAS, 486, 3805
 Birrer S., Amara A., 2018, Lenstronomy: Multi-purpose gravitational lens modeling software package (ascl:1804.012)
 Birrer S., Amara A., Refregier A., 2015, ApJ, 813, 102
-Bouwens R. J., et al., 2021, AJ, 162, 47
+Bouwens R. J., Illingworth G. D., Oesch P. A., Atek H., Lam D., Stefanon M., 2017, ApJ, 843, 41
+Bouwens R. J., Illingworth G. D., van Dokkum P. G., Ribeiro B., Oesch P. A., Stefanon M., 2021, AJ, 162, 255
+Bouwens R. J., Illingworth G. D., van Dokkum P. G., Oesch P. A., Stefanon M., Ribeiro B., 2022, ApJ, 927, 81
 Brammer G. B., van Dokkum P. G., Coppi P., 2008, ApJ, 686, 1503
-Buitrago F., Trujillo I., Conselice C. J., Hauler B., 2013, MNRAS, 428, 1460
+Buitrago F., Trujillo I., Conselice C. J., Häußler B., 2013, MNRAS, 428, 1460
+Cardamone C., et al., 2009, MNRAS, 399, 1191
 Carrasco D., Trenti M., Mutch S., Oesch P. A., 2018, Publ. Astron. Soc. Australia, 35, e022
 Cerny C., et al., 2018, ApJ, 859, 159
 Chisholm J., Orlitová I., Schaerer D., Verhamme A., Worseck G., Izotov Y. I., Thuan T. X., Guseva N. G., 2017, A&A, 605, A67
@@ -15,16 +19,21 @@ Cibirka N., et al., 2018, ApJ, 863, 145
 Cicone C., Maiolino R., Marconi A., 2016, A&A, 588, A41
 Coe D., et al., 2013, ApJ, 762, 32
 Coe D., et al., 2019, ApJ, 884, 85
+Dayal P., 2019, Proceedings of the International Astronomical Union, 15, 43
+Endsley R., Stark D. P., Chevallard J., Charlot S., 2021, MNRAS, 500, 5229
 Finkelstein S. L., et al., 2019, ApJ, 879, 36
 Fletcher T. J., Tang M., Robertson B. E., Nakajima K., Ellis R. S., Stark D. P., Inoue A., 2019, ApJ, 878, 87
-Franx M., van Dokkum P. G., Forster Schreiber N. M., Wuyts S., Labbe I., Toft S., 2008, ApJ, 688, 770
+Flury S. R., et al., 2022, arXiv e-prints, p. arXiv:2201.11716
+Franx M., van Dokkum P. G., Förster Schreiber N. M., Wuyts S., Labbé I., Toft S., 2008, ApJ, 688, 770
 Fuller S., et al., 2020, ApJ, 896, 156
 Grazian A., et al., 2011, A&A, 532, A33
 Grazian A., et al., 2012, A&A, 547, A51
 Heckman T. M., Alexandroff R. M., Borthakur S., Overzier R., Leitherer C., 2015, ApJ, 809, 147
+Hoag A., et al., 2019, MNRAS, 488, 706
 Holwerda B. W., Bouwens R., Oesch P., Smit R., Illingworth G., Labbe I., 2015, ApJ, 808, 6
 Huang K.-H., Ferguson H. C., Ravindranath S., Su J., 2013, ApJ, 765, 68
 Huang K.-H., et al., 2017, ApJ, 838, 6
+Ishigaki M., Kawamata R., Ouchi M., Oguri M., Shimasaku K., Ono Y., 2018, ApJ, 854, 73
 Izotov Y. I., Schaerer D., Thuan T. X., Worseck G., Guseva N. G., Orlitová I., Verhamme A., 2016, MNRAS, 461, 3683
 Izotov Y. I., Worseck G., Schaerer D., Guseva N. G., Chisholm J., Thuan T. X., Fricke K. J., Verhamme A., 2021, MNRAS, 503, 1734
 Jullo E., Kneib J.-P., 2009, MNRAS, 395, 1319
@@ -33,6 +42,7 @@ Kawamata R., Ishigaki M., Shimasaku K., Oguri M., Ouchi M., Tanigawa S., 2018, A
 Kennicutt Robert C. J., 1998, ARA&A, 36, 189
 Kim K. J., Malhotra S., Rhoads J. E., Yang H., 2021, ApJ, 914, 2
 Krywult J., et al., 2017, A&A, 598, A120
+Leethochawalit N., Trenti M., Morishita T., Roberts-Borsani G., Treu T., 2022, MNRAS, 509, 5836
 Lemaux B. C., et al., 2021, MNRAS, 504, 3662
 Livermore R. C., Finkelstein S. L., Lotz J. M., 2017, ApJ, 835, 113
 Lotz J. M., et al., 2017, ApJ, 837, 97
@@ -40,6 +50,7 @@ MacKenty J. W., Kimble R. A., O'Connell R. W., Townsend J. A., 2008, in Oschmann
 Malkan M. A., Malkan B. K., 2021, ApJ, 909, 92
 Marchi F., et al., 2018, A&A, 614, A11
 Matthee J., et al., 2019, ApJ, 881, 124
+Matthee J., et al., 2021, arXiv e-prints, p. arXiv:2110.11967
 Morishita T., Ichikawa T., Kajisawa M., 2014, ApJ, 785, 18
 Mowla L. A., et al., 2019, ApJ, 880, 57
 Naidu R. P., Tacchella S., Mason C. A., Bose S., Oesch P. A., Conroy C., 2020, ApJ, 892, 109
@@ -50,25 +61,32 @@ Oke J. B., 1974, ApJS, 27, 21
 Ono Y., et al., 2013, ApJ, 777, 155
 Paterno-Mahler R., et al., 2018, ApJ, 863, 154
 Pelliccia D., et al., 2021, ApJ, 908, L30
+Pentericci L., et al., 2014, ApJ, 793, 113
 Petty S. M., de Mello D. F., Gallagher John S. I., Gardner J. P., Lotz J. M., Mountain C. M., Smith L. J., 2009, AJ, 138, 362
 Postman M., et al., 2012, ApJS, 199, 25
 Ribeiro B., et al., 2016, A&A, 593, A22
-Rubin K. H. R., Weiner B. J., Koo D. C., Martin C. L., Prochaska J. X., Coil A. L., Newman J. A., 2010, ApJ, 719, 1503
-Rubin K. H. R., Prochaska J. X., Koo D. C., Phillips A. C., Martin C. L., Winstrom L. O., 2014, ApJ, 794, 156
+Roberts-Borsani G. W., et al., 2016, ApJ, 823, 143
+Roberts-Borsani G. W., Ellis R. S., Laporte N., 2020, MNRAS, 497, 3440
+Robertson B. E., 2021, arXiv e-prints, p. arXiv:2110.13160
 Salmon B., et al., 2020, ApJ, 889, 189
 Saxena A., et al., 2021, arXiv e-prints, p. arXiv:2109.03662
 Shapley A. E., Steidel C. C., Strom A. L., Bogosavljević M., Reddy N. A., Siana B., Mostardi R. E., Rudie G. C., 2016, ApJ, 826, L24
 Shen X., Hopkins P. F., Faucher-Giguère C.-A., Alexander D. M., Richards G. T., Ross N. P., Hickox R. C., 2020, MNRAS, 495, 3252
 Shibuya T., Ouchi M., Harikane Y., 2015, ApJS, 219, 15
 Shibuya T., Ouchi M., Harikane Y., Nakajima K., 2019, ApJ, 871, 164
+Smit R., et al., 2015, ApJ, 801, 122
 Strait V., et al., 2020, ApJ, 888, 124
 Strait V., et al., 2021, ApJ, 910, 135
+Tang M., Stark D. P., Chevallard J., Charlot S., 2019, MNRAS, 489, 2572
 Trenti M., Stiavelli M., 2008, ApJ, 676, 767
 Trenti M., et al., 2011, ApJ, 727, L39
 Vanzella E., et al., 2020, MNRAS, 494, L81
 Verhamme A., Orlitová I., Schaerer D., Hayes M., 2015, A&A, 578, A7
+Verhamme A., Orlitová I., Schaerer D., Izotov Y., Worseck G., Thuan T. X., Guseva N., 2017, A&A, 597, A13
 Yang L., Birrer S., Treu T., 2020a, MNRAS, 496, 2648
 Yang L., Roberts-Borsani G., Treu T., Birrer S., Morishita T., Bradač M., 2020b, MNRAS, 501, 1028
+Yang L., et al., 2022, arXiv e-prints, p. arXiv:2201.08858
+Yue B., et al., 2018, ApJ, 868, 115
 Zitrin A., et al., 2014, ApJ, 793, L12
 Zitrin A., et al., 2017, ApJ, 839, L11
 van der Wel A., et al., 2014, ApJ, 788, 28

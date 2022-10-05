@@ -27,7 +27,7 @@ R. Mandelbaum, U. Seljak, G. Kauffmann, C. M. Hirata, and J. Brinkmann, MNRAS 36
 T. Nishimichi, G. D'Amico, M. M. Ivanov, L. Senatore, M. Simonović, M. Takada, M. Zaldarriaga, and P. Zhang, Phys. Rev. D 102, 123541 (2020), 2003.08277.
 H. Aihara, R. Armstrong, S. Bickerton, J. Bosch, J. Coupon, H. Furusawa, Y. Hayashi, H. Ikeda, Y. Kamata, H. Karoji, et al., Publ. Astron. Soc. Japan 70, S8 (2018), 1702.08449.
 K. S. Dawson et al. (BOSS), Astron. J. 145, 10 (2013), 1208.0022.
-F. Bernardeau, S. Colombi, E. Gaztanaga, and R. Scoccimarro, Phys. Rep. 367, 1 (2002), arXiv:astro-ph/0112551.
+F. Bernardeau, S. Colombi, E. Gaztañaga, and R. Scoccimarro, Phys. Rep. 367, 1 (2002), arXiv:astro-ph/0112551.
 S. Sugiyama, M. Takada, Y. Kobayashi, H. Miyatake, M. Shirasaki, T. Nishimichi, and Y. Park, Phys. Rev. D 102, 083520 (2020), 2008.06873.
 S. Alam, F. D. Albareti, C. Allende Prieto, F. Anders, S. F. Anderson, T. Anderton, B. H. Andrews, E. Armengaud, É. Aubourg, S. Bailey, et al., Astrophys. J. Suppl. 219, 12 (2015), 1501.00963.
 K. S. Dawson, D. J. Schlegel, C. P. Ahn, S. F. Anderson, É. Aubourg, S. Bailey, R. H. Barkhouser, J. E. Bautista, A. Beifiori, A. A. Berlind, et al., The Astronomical J. 145, 10 (2013), 1208.0022.

@@ -10,15 +10,17 @@ J. Feldbrugge, J. L. Lehners and N. Turok, Universe 4, no.10, 100 (2018) doi:10.
 A. Vilenkin and M. Yamada, Phys. Rev. D 98, no.6, 066003 (2018) doi:10.1103/PhysRevD.98.066003 [arXiv:1808.02032 [gr-qc]]
 M. Bojowald and S. Brahma, Phys. Rev. Lett. 121, no.20, 201301 (2018) doi:10.1103/PhysRevLett.121.201301 [arXiv:1810.09871 [gr-qc]]
 J. J. Halliwell, J. B. Hartle and T. Hertog, Phys. Rev. D 99, no.4, 043526 (2019) doi:10.1103/PhysRevD.99.043526 [arXiv:1812.01760 [hep-th]]
+A. Vilenkin and M. Yamada, Phys. Rev. D 99, no.6, 066010 (2019) doi:10.1103/PhysRevD.99.066010 [arXiv:1812.08084 [gr-qc]].
 A. Di Tucci and J. L. Lehners, Phys. Rev. Lett. 122, no.20, 201302 (2019) doi:10.1103/PhysRevLett.122.201302 [arXiv:1903.06757 [hep-th]]
+S. J. Wang, M. Yamada and A. Vilenkin, JCAP 08, 025 (2019) doi:10.1088/1475-7516/2019/08/025 [arXiv:1903.11736 [gr-qc]].
 A. Di Tucci, J. Feldbrugge, J. L. Lehners and N. Turok, Phys. Rev. D 100, no.6, 063517 (2019) doi:10.1103/PhysRevD.100.063517 [arXiv:1906.09007 [hep-th]]
 J. L. Lehners, Phys. Rev. D 104, no.6, 063527 (2021) doi:10.1103/PhysRevD.104.063527 [arXiv:2105.12075 [hep-th]]
 P. Horava, Phys. Rev. D 79, 084008 (2009) doi:10.1103/PhysRevD.79.084008 [arXiv:0901.3775 [hep-th]]
 S. Mukohyama, JCAP 06, 001 (2009) doi:10.1088/1475-7516/2009/06/001 [arXiv:0904.2190 [hep-th]]
 U. H. Gerlach and U. K. Sengupta, Phys. Rev. D 18, 1773-1784 (1978) doi:10.1103/PhysRevD.18.1773
-R. Steigl and F. Hinterleitner, Class. Quant. Grav. 23, 3879-3894 (2006) doi:10.1088/0264-9381/23/11/013 [arXiv:gr-qc/0511149 [gr-qc]]
 S. W. Hawking and D. N. Page, Nucl. Phys. B 264, 185-196 (1986) doi:10.1016/0550-3213(86)90478-5
 A. Vilenkin, Phys. Rev. D 37, 888 (1988) doi:10.1103/PhysRevD.37.888
+R. Steigl and F. Hinterleitner, Class. Quant. Grav. 23, 3879-3894 (2006) doi:10.1088/0264-9381/23/11/013 [arXiv:gr-qc/0511149 [gr-qc]]
 A. O. Barvinsky, D. Blas, M. Herrero-Valea, S. M. Sibiryakov and C. F. Steinwachs, Phys. Rev. D 93, no.6, 064022 (2016) doi:10.1103/PhysRevD.93.064022 [arXiv:1512.02250 [hep-th]]
 A. O. Barvinsky, D. Blas, M. Herrero-Valea, S. M. Sibiryakov and C. F. Steinwachs, JHEP 07, 035 (2018) doi:10.1007/JHEP07(2018)035 [arXiv:1705.03480 [hep-th]]
 S. F. Bramberger, A. Coates, J. Magueijo, S. Mukohyama, R. Namba and Y. Watanabe, Phys. Rev. D 97, no.4, 043512 (2018) doi:10.1103/PhysRevD.97.043512 [arXiv:1709.07084 [hep-th]]
@@ -27,3 +29,5 @@ K. Izumi and S. Mukohyama, Phys. Rev. D 84, 064025 (2011) doi:10.1103/PhysRevD.8
 A. E. Gumrukcuoglu, S. Mukohyama and A. Wang, Phys. Rev. D 85, 064042 (2012) doi:10.1103/PhysRevD.85.064042 [arXiv:1109.2609 [hep-th]]
 S. Mukohyama, Phys. Rev. D 80, 064005 (2009) doi:10.1103/PhysRevD.80.064005 [arXiv:0905.3563 [hep-th]]
 S. Mukohyama, JCAP 09, 005 (2009) doi:10.1088/1475-7516/2009/09/005 [arXiv:0906.5069 [hep-th]]
+D. L. Wiltshire, [arXiv:gr-qc/0101003 [gr-qc]].
+A. Kleinschmidt, M. Koehn and H. Nicolai, Phys. Rev. D 80, 061701 (2009) doi:10.1103/PhysRevD.80.061701 [arXiv:0907.3048 [gr-qc]].
