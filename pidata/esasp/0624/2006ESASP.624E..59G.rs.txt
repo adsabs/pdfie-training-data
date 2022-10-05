@@ -1,8 +1,8 @@
-[1] Cally, P. S. 1995, Astrophys. J., 451, 372.
-[2] Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005a, Journal of Astron. & Astrophys., (In press).
-[3] Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005b, Experimental Astronomy,Vol. 18, 31.
-[4] Hindman, B. W. and Brown, T. M. 1998, Astrophys. J., 504, 1029.
-[5] Leighton, R. B., Noyes, R. W., and Simon, G. W. 1962, Astrophys. J, 135, 474.
-[6] Lites, B. W., White, O. R., and Packman, D. 1982,Astrophys. J., 253, 386.
-[7] Socas-Navarro, H. 2001, in ASP Conf. Ser. 236, Advanced Solar Polarimetry Theory, Observation, and Instrumentation, ed. M. Sigwarth, 487.
-[8] Venkatakrishnan, P., Kumar, B., Tripathy, S. C., 2002, Solar Physics, v. 211/1, 77.
+Cally, P. S. 1995, Astrophys. J., 451, 372.
+Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005a, Journal of Astron. & Astrophys., (In press).
+Gosain, S., Venkatakrishnan, P. and Venugopalan, K. 2005b, Experimental Astronomy,Vol. 18, 31.
+Hindman, B. W. and Brown, T. M. 1998, Astrophys. J., 504, 1029.
+Leighton, R. B., Noyes, R. W., and Simon, G. W. 1962, Astrophys. J, 135, 474.
+Lites, B. W., White, O. R., and Packman, D. 1982,Astrophys. J., 253, 386.
+Socas-Navarro, H. 2001, in ASP Conf. Ser. 236, Advanced Solar Polarimetry Theory, Observation, and Instrumentation, ed. M. Sigwarth, 487.
+Venkatakrishnan, P., Kumar, B., Tripathy, S. C., 2002, Solar Physics, v. 211/1, 77.
