@@ -101,6 +101,19 @@ def score_wer(truth: str, hypothesis: str) -> float:
     )
 
 
+def score_lost_refs(truth: str, hypothesis: str) -> float:
+    """
+    Dumb hack to look for cases with segmentation issues.
+    """
+    n_refs_gt = truth.count(REF_SEP_TAG) + 1
+    n_refs_hy = hypothesis.count(REF_SEP_TAG) + 1
+
+    if n_refs_hy >= n_refs_gt:
+        return 0.0
+
+    return n_refs_gt - n_refs_hy
+
+
 class RefstringDatabase(object):
     root: Path
 
@@ -169,6 +182,16 @@ def _summarize_scores(scores: Iterable[Tuple[str, float]]):
     pct = np.percentile(all, [30, 50, 70, 90])
     pct = ", ".join(f"{x:.2}" for x in pct)
     print(f"  [30, 50, 70, 90]th percentiles: {pct}")
+
+
+def _worst_scores(scores: Iterable[Tuple[str, float]]):
+    scores = sorted(scores, reverse=True, key=lambda t: t[1])
+
+    print("Worst scores:")
+    print()
+
+    for gid, score in scores[:30]:
+        print(f"{gid:32} {score:.2f}")
 
 
 def _do_score_arxiv_extractor(settings):
