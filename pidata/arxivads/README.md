@@ -12,6 +12,13 @@ I see some artifacts in the refstrings that ADS has extracted:
 - Sometimes doubled DOI
 - Sometimes doubled commas
 - Em-dashes expressed as `--` ligatures.
-- Loss off accents on characters :-(
+- Loss of accents on characters :-(
 - `astrophysics` in text became `astro-physics` in resolved ref file?? (arXiv/2111/00012, Rybicki&Lightman)
 - Duplications of references containing `[]` characters (arXiv/2111/00665)
+
+## Known issues
+
+The ADS PDFs change over time! Because Arxiv papers get updated and ADS updates
+PDFs when that happens — it has no sense of Arxiv revisions. Some of our PDF
+metadata are now out of data, as are our refstrings and other derived products.
+Gross.
