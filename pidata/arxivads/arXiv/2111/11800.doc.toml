@@ -1,8 +1,8 @@
 bibcode = "2021arXiv211111800C"
-pdf_sha256 = "d35f47e522f4e0db7adc72d799c78278dc67f059054b6d91bda88d449b492c86"
-pdf_n_bytes = 3340128
+pdf_sha256 = "34aa3904817ab048fdf087d64d98affc5b6fd1550e6693219a41e315c987ed02"
+pdf_n_bytes = 1558324
 ads_pdf_path = "$ADS_ABSTRACTS/sources/ArXiv/fulltext/arXiv/2111/11800.pdf"
 random_index = 253782
 pdf_is_raster = false
 arxiv_ads_add_date = "2022-07-15"
-arxiv_ads_update_date = "2022-07-15"
+arxiv_ads_update_date = "2022-10-12"

@@ -25,4 +25,4 @@ M. Cacciari, G. P. Salam, G. Soyez, FastJet User Manual, Eur. Phys. J. C 72 (201
 S. V. Chekanov, HepSim: a repository with predictions for high-energy physics experiments, Advances in High Energy Physics 2015 (2015) 136093, http://atlaswww.hep.anl.gov/hepsim/ (accessed on Feb. 1st, 2019). arXiv:1403.1886, doi:10.1155/2015/136093.
 M. Abadi, et al., Tensorflow: Large-scale machine learning on heterogeneous distributed systems (2016). arXiv:1603.04467.
 ATLAS Collaboration, ATLAS Collaboration, Search for low-mass dijet resonances using trigger-level jets with the atlas detector in pp collisions at √s = 13 tevarXiv:1804.03496.
-ATLAS Collaboration, G. Aad, et al., Search for dijet resonances in events with an isolated charged lepton using √ss = 13 TeV proton-proton collision data collected by the ATLAS detector, JHEP 06 (2020) 151. arXiv:2002.11325, doi:10.1007/JHEP06(2020)151.
+ATLAS Collaboration, G. Aad, et al., Search for dijet resonances in events with an isolated charged lepton using √s = 13 TeV proton-proton collision data collected by the ATLAS detector, JHEP 06 (2020) 151. arXiv:2002.11325, doi:10.1007/JHEP06(2020)151.

@@ -4,7 +4,7 @@ S. Frixione and G. Ridolfi, Nucl. Phys. B 507, 315 (1997), arXiv:hep-ph/9707345
 M. Grazzini, S. Kallweit, and M. Wiesemann, Eur. Phys. J. C 78, 537 (2018), arXiv:1711.06631 [hep-ph]
 S. Catani, L. Cieri, D. de Florian, G. Ferrera, and M. Grazzini, JHEP 04, 142 (2018), arXiv:1802.02095 [hep-ph]
 M. A. Ebert and F. J. Tackmann, JHEP 03, 158 (2020), arXiv:1911.08486 [hep-ph]
-S. Alekhin, A. Kardos, S. Moch, and Z. Trócsányi, (2021), 10.1140/epjc/s10052-021-09361-9, arXiv:2104.02400 [hep-ph]
+S. Alekhin, A. Kardos, S. Moch, and Z. Trócsányi, Eur. Phys. J. C 81, 537 (2021), arXiv:2104.02400 [hep-ph]
 S. Catani and M. Grazzini, Phys. Rev. Lett. 98, 222002 (2007), arXiv:hep-ph/0703012
 J. Gaunt, M. Stahlhofen, F. J. Tackmann, and J. R. Walsh, JHEP 09, 058 (2015), arXiv:1505.04794 [hep-ph]
 R. Boughezal, C. Focke, X. Liu, and F. Petriello, Phys. Rev. Lett. 115, 062002 (2015), arXiv:1504.02131 [hep-ph]
@@ -51,7 +51,7 @@ S. Kallweit, V. Sotnikov, and M. Wiesemann, Phys. Lett. B 812, 136013 (2021), ar
 L. Buonocore, M. Grazzini, S. Kallweit, C. Savoini, and F. Tramontano, (2021), arXiv:2102.12539 [hep-ph]
 R. Bonciani, L. Buonocore, M. Grazzini, S. Kallweit, N. Rana, F. Tramontano, and A. Vicini, (2021), arXiv:2106.11953 [hep-ph]
 W. Bizon, A. Gehrmann-De Ridder, T. Gehrmann, N. Glover, A. Huss, P. F. Monni, E. Re, L. Rottoli, and D. M. Walker, Eur. Phys. J. C 79, 868 (2019), arXiv:1905.05171 [hep-ph]
-A. Gehrmann-De Ridder, T. Gehrmann, and E. W. N. Glover, JHEP 09, 056 (2005), arXiv:hepph/0505111
+A. Gehrmann-De Ridder, T. Gehrmann, and E. W. N. Glover, JHEP 09, 056 (2005), arXiv:hep-ph/0505111
 J. Currie, E. W. N. Glover, and S. Wells, JHEP 04, 066 (2013), arXiv:1301.4693 [hep-ph]
 S. Catani and B. R. Webber, JHEP 10, 005 (1997), arXiv:hep-ph/9710333
 M. Aaboud et al. (ATLAS), Eur. Phys. J. C 77, 367 (2017), arXiv:1612.03016 [hep-ex]

@@ -35,6 +35,7 @@ Mao Y.-Y., Geha M., Wechsler R. H., Weiner B., Tollerud E. J., Nadler E. O., Kal
 McConnachie A. W., 2012, AJ, 144, 4
 Moster B. P., Naab T., White S. D. M., 2013, MNRAS, 428, 3121
 Muller O., Jerjen H., 2020, A&A, 644, A91
+Munshi F., Brooks A. M., Christensen C., Applebaum E., Holley-Bockelmann K., Quinn T. R., Wadsley J., 2019, ApJ, 874, 40
 Munshi F., Brooks A., Applebaum E., Christensen C., Sligh J. P., Quinn T., 2021, arXiv e-prints, p. arXiv:2101.05822
 Nadler E. O., et al., 2020, ApJ, 893, 48
 Navarro J. F., Frenk C. S., White S. D. M., 1996, ApJ, 462, 563

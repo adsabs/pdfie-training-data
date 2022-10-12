@@ -1,6 +1,6 @@
 G. Aad et al. [ATLAS], JHEP 11 (2021), 209 doi:10.1007/JHEP11(2021)209 [arXiv:2108.13391 [hep-ex]].
 A. Tumasyan et al. [CMS], JHEP 11 (2021), 153 doi:10.1007/JHEP11(2021)153 [arXiv:2107.13021 [hep-ex]].
-E. Aprile et al. [XENON], Phys. Rev. 121 Lett. (2018) no.11, 111302 doi:10.1103/PhysRevLett.121.111302 [arXiv:1805.12562 [astro-ph.CO]].
+E. Aprile et al. [XENON], Phys. Rev. Lett. 121 (2018) no.11, 111302 doi:10.1103/PhysRevLett.121.111302 [arXiv:1805.12562 [astro-ph.CO]].
 Y. Meng et al. [PandaX-4T], Phys. Rev. Lett. 127 (2021) no.26, 261802 doi:10.1103/PhysRevLett.127.261802 [arXiv:2107.13438 [hep-ex]].
 S. Abdollahi et al. [Fermi-LAT], Phys. Rev. D 95 (2017) no.8, 082007 doi:10.1103/PhysRevD.95.082007 [arXiv:1704.07195 [astro-ph.HE]].
 G. Ambrosi et al. [DAMPE], Nature 552 (2017), 63-66 doi:10.1038/nature24475 [arXiv:1711.10981 [astro-ph.HE]].
@@ -28,8 +28,6 @@ G. y. Huang, F. S. Queiroz and W. Rodejohann, Phys. Rev. D 103 (2021) no.9, 0950
 R. Capdevilla, D. Curtin, Y. Kahn and G. Krnjaic, Phys. Rev. D 105 (2022) no.1, 015028 doi:10.1103/PhysRevD.105.015028 [arXiv:2101.10334 [hep-ph]].
 H. Al Ali, N. Arkani-Hamed, I. Banta, S. Benevedes, D. Buttazzo, T. Cai, J. Cheng, T. Cohen, N. Craig and M. Ekhterachian, et al. [arXiv:2103.14043 [hep-ph]].
 P. A. R. Ade et al. [Planck], Astron. Astrophys. 594 (2016), A13 doi:10.1051/0004-6361/201525830 [arXiv:1502.01589 [astro-ph.CO]].
-M. Di Mauro, Phys. Rev. D 103 (2021) no.6, 063029 doi:10.1103/PhysRevD.103.063029 [arXiv:2101.04694 [astro-ph.HE]].
-Y. Meng et al. [PandaX-4T], Phys. Rev. Lett. 127 (2021) no.26, 261802 doi:10.1103/PhysRevLett.127.261802 [arXiv:2107.13438 [hep-ex]].
 A. Heister et al. [ALEPH], Phys. Lett. B 533 (2002), 223-236 doi:10.1016/S0370-2693(02)01584-8 [arXiv:hep-ex/0203020 [hep-ex]].
 M. Cirelli, G. Corcella, A. Hektor, G. Hutsi, M. Kadastik, P. Panci, M. Raidal, F. Sala and A. Strumia, JCAP 03 (2011), 051 [erratum: JCAP 10 (2012), E01] doi:10.1088/1475-7516/2012/10/E01 [arXiv:1012.4515 [hep-ph]].
 P. Ciafaloni, D. Comelli, A. Riotto, F. Sala, A. Strumia and A. Urbano, JCAP 03 (2011), 019 doi:10.1088/1475-7516/2011/03/019 [arXiv:1009.0224 [hep-ph]].
