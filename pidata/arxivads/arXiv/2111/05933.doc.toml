@@ -4,3 +4,5 @@ pdf_n_bytes = 1454415
 ads_pdf_path = "$ADS_ABSTRACTS/sources/ArXiv/fulltext/arXiv/2111/05933.pdf"
 random_index = 334746
 pdf_is_raster = false
+arxiv_ads_add_date = "2022-07-15"
+arxiv_ads_update_date = "2022-07-15"

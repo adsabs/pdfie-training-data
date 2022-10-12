@@ -5,3 +5,5 @@ ads_pdf_path = "$ADS_ABSTRACTS/sources/ArXiv/fulltext/arXiv/2111/01174.pdf"
 random_index = 170378
 pdf_is_raster = false
 _note = "interesting since PDF has two references sections (suppl. matl.) and alleged refs that are footnotes"
+arxiv_ads_add_date = "2022-07-15"
+arxiv_ads_update_date = "2022-07-15"
