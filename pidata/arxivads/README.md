@@ -22,3 +22,8 @@ The ADS PDFs change over time! Because Arxiv papers get updated and ADS updates
 PDFs when that happens — it has no sense of Arxiv revisions. Some of our PDF
 metadata are now out of data, as are our refstrings and other derived products.
 Gross.
+
+The `check.py` script in this directory will scan an Arxiv-month, look for
+updated PDFs, and rewrite the data for anything that's changed. Since this goes
+back to the original ADS data, which have various problems, one should then
+manually review the diffs in Git to make sure that corrections are not lost.
