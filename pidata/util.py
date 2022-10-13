@@ -13,6 +13,7 @@ ADS_ABSTRACTS_PREFIX
 ADS_ARTICLES_PREFIX
 ADS_FULLTEXT_LINKS_PATH
 AnyPath
+die
 envpath
 ingest_stream_to_local_data
 make_random_index
@@ -36,6 +37,11 @@ from typing import BinaryIO, Optional, Tuple, Union
 
 def warn(s: str):
     print("warning:", s, file=sys.stderr, flush=True)
+
+
+def die(s: str):
+    print("fatal error:", s, file=sys.stderr, flush=True)
+    sys.exit(1)
 
 
 # Path helpers
