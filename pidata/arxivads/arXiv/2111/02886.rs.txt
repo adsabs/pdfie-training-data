@@ -1,8 +1,8 @@
 Barmby, P., Ashby, M. L. N., Bianchi, L., et al. 2006, ApJL, 650, L45, doi: 10.1086/508626
 Blair, W. P., Kirshner, R. P., & Chevalier, R. A. 1981, ApJ, 247, 879, doi: 10.1086/159098
 Dalcanton, J. J., Fouesneau, M., Hogg, D. W., et al. 2015, ApJ, 814, 3, doi: 10.1088/0004-637X/814/1/3
-de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference
-Catalogue of Bright Galaxies Dennefeld, M., & Kunth, D. 1981, AJ, 86, 989, doi: 10.1086/112974
+de Vaucouleurs, G., de Vaucouleurs, A., Corwin, Herold G., J., et al. 1991, Third Reference Catalogue of Bright Galaxies
+Dennefeld, M., & Kunth, D. 1981, AJ, 86, 989, doi: 10.1086/112974
 Devereux, N. A., Price, R., Wells, L. A., & Duric, N. 1994, AJ, 108, 1667, doi: 10.1086/117188
 Draine, B. T., & Lee, H. M. 1984, ApJ, 285, 89, doi: 10.1086/162480
 Draine, B. T., Aniano, G., Krause, O., et al. 2014, ApJ, 780, 172, doi: 10.1088/0004-637X/780/2/172
