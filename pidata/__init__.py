@@ -22,6 +22,7 @@ __all__ = [
 COLLECTIONS_ROOT = Path(os.path.dirname(__file__))
 
 RECOGNIZED_EXTENSIONS = [
+    ".bc.txt",
     ".doc.toml",
     ".rs.txt",
 ]

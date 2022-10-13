@@ -58,3 +58,13 @@ data. Unrecognized extensions are ignored.
 line. These use Unicode to match typography as precisely as possible, and do
 *not* use HTML. Numbering typography such as leading `[3]` should not be
 included. Hyphens introduced for linebreaks should be removed.
+
+**The `.bc.txt` extension** gives the ground-truth bibcodes, folded to one per
+line, followed by a date of the form `YYYY-MM-DD` indicating when the bibcode
+was last validated or updated. A sequence of 19 periods should be used for
+refstrings that do not resolve to ADS bibcodes. Note that the contents of this
+file may evolve while refstrings stay fixed, because new records are added to
+ADS and existing records may be reidentified. (E.g., if the first author of an
+entry was wrong, the last character will change when the mistake is corrected;
+or a temporary Arxiv bibcode may be updated to the bibcode for a final published
+paper.)
