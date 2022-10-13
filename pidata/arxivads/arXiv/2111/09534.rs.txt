@@ -44,13 +44,13 @@ Poveda, A., & Woltjer, L. 1968, AJ, 73, 65, doi: 10.1086/110600
 Ptuskin, V., Zirakashvili, V., & Seo, E.-S. 2010, ApJ, 718, 31, doi: 10.1088/0004-637X/718/1/31
 Schinnerer, E., Carilli, C. L., Scoville, N. Z., et al. 2004, AJ, 128, 1974, doi: 10.1086/424860
 Simpson, C., Rawlings, S., Ivison, R., et al. 2012, MNRAS, 421, 3060, doi: 10.1111/j.1365-2966.2012.20529.x
-Smith, N. 2017, Interacting Supernovae: Types IIn and Ibn, ed. A. W. Alsabti & P. Murdin, 403, doi: 10.1007/978-3-319-21846-5 38
+Smith, N. 2017, Interacting Supernovae: Types IIn and Ibn, ed. A. W. Alsabti & P. Murdin, 403, doi: 10.1007/978-3-319-21846-5_38
 Smith, N., Li, W., Filippenko, A. V., & Chornock, R. 2011, MNRAS, 412, 1522, doi: 10.1111/j.1365-2966.2011.17229.x
 Suzuki, H., Bamba, A., Yamazaki, R., & Ohira, Y. 2020, PASJ, 72, 72, doi: 10.1093/pasj/psaa061
 Tanaka, T., Allafort, A., Ballet, J., et al. 2011, ApJL, 740, L51, doi: 10.1088/2041-8205/740/2/L51
 Tauris, T. M., & Savonije, G. J. 1999, A&A, 350, 928. https://arxiv.org/abs/astro-ph/9909147
 Truelove, J. K., & McKee, C. F. 1999, ApJS, 120, 299, doi: 10.1086/313176
-van den Heuvel, E. P. J. 2009, in Astrophysics and Space Science Library, Vol. 359, Physics of Relativistic Objects in Compact Binaries: From Birth to Coalescence, ed. M. Colpi, P. Casella, V. Gorini, U. Moschella, & A. Possenti, 125, doi: 10.1007/978-1-4020-9264-0 4
+van den Heuvel, E. P. J. 2009, in Astrophysics and Space Science Library, Vol. 359, Physics of Relativistic Objects in Compact Binaries: From Birth to Coalescence, ed. M. Colpi, P. Casella, V. Gorini, U. Moschella, & A. Possenti, 125, doi: 10.1007/978-1-4020-9264-0_4
 Vartanyan, D., Laplace, E., Renzo, M., et al. 2021, ApJL, 916, L5, doi: 10.3847/2041-8213/ac0b42
 Wang, B., Chen, W.-C., Liu, D.-D., et al. 2021, MNRAS, 506, 4654, doi: 10.1093/mnras/stab2032
 Wheeler, J. C., & Harkness, R. P. 1986, in NATO Advanced Study Institute (ASI) Series C, Vol. 180, Galaxy Distances and Deviations from Universal Expansion, ed. B. F. Madore & R. B. Tully, 45-54

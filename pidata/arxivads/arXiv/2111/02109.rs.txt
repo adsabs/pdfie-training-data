@@ -17,7 +17,7 @@ Federrath, C., Klessen, R. S., & Schmidt, W. 2008, ApJL, 688, L79, doi: 10.1086/
 Federrath, C., Roman-Duval, J., Klessen, R. S., Schmidt, W., & Mac Low, M. M. 2010, A&A, 512, A81, doi: 10.1051/0004-6361/200912437
 Goldreich, P., & Sridhar, S. 1995, ApJ, 438, 763, doi: 10.1086/175121
 Govoni, F., Markevitch, M., Vikhlinin, A., et al. 2004, ApJ, 605, 695, doi: 10.1086/382674
-Haverkorn, M. 2015, in Magnetic Fields in Diffuse Media, ed. A. Lazarian, E. M. de Gouveia Dal Pino, & C. Melioli, Vol. 407, 483, doi: 10.1007/978-3-662-44625-6 17
+Haverkorn, M. 2015, in Magnetic Fields in Diffuse Media, ed. A. Lazarian, E. M. de Gouveia Dal Pino, & C. Melioli, Vol. 407, 483, doi: 10.1007/978-3-662-44625-6_17
 Heiles, C., & Troland, T. H. 2003, ApJ, 586, 1067, doi: 10.1086/367828
 Hennebelle, P., & Falgarone, E. 2012, A&A Rv, 20, 55, doi: 10.1007/s00159-012-0055-y
 Heyer, M. H., & Brunt, C. M. 2004, ApJL, 615, L45, doi: 10.1086/425978

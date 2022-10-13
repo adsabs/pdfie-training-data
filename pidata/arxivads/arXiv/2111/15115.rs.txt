@@ -106,7 +106,7 @@ Tombesi, F., Sambruna, R. M., Reeves, J. N., et al. 2010b, ApJ, 719, 700, doi: 1
 Tombesi, F., Sambruna, R. M., Reeves, J. N., Reynolds, C. S., & Braito, V. 2011, MNRAS, 418, L89, doi: 10.1111/j.1745-3933.2011.01149.x
 Tout, C. A., & Pringle, J. E. 1992, MNRAS, 259, 604, doi: 10.1093/mnras/259.4.604
 —. 1996, MNRAS, 281, 219, doi: 10.1093/mnras/281.1.219
-van Ballegooijen, A. A. 1989, Magnetic Fields in the Accretion Disks of Cataclysmic Variables, Vol. 156 (Springer, Dordrecht), 99, doi: 10.1007/978-94-009-2401-7 10
+van Ballegooijen, A. A. 1989, Magnetic Fields in the Accretion Disks of Cataclysmic Variables, Vol. 156 (Springer, Dordrecht), 99, doi: 10.1007/978-94-009-2401-7_10
 Wandel, A., & Liang, E. P. 1991, ApJ, 380, 84, doi: 10.1086/170564
 Wang, Y., Ji, L., Garc ia, J. A., et al. 2021, ApJ, 906, 11, doi: 10.3847/1538-4357/abc55e
 Wu, Q., & Gu, M. 2008, ApJ, 682, 212, doi: 10.1086/588187

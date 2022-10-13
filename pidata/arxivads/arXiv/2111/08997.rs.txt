@@ -11,7 +11,7 @@ Clark J. S., Steele I. A., 2000, A&AS, 141, 65
 Coburn W., Heindl W. A., Rothschild R. E., Gruber D. E., Kreykenbohm I., Wilms J., Kretschmar P., Staubert R., 2002, ApJ, 580, 394
 Corbet R. H. D., in't Zand J. J. M., Levine A. M., Marshall F. E., 2009, ApJ, 695, 30
 Crawford S. M., et al., 2010, in Silva D. R., Peck A. B., Soifer B. T., eds, Proc. SPIE Vol. 7737, Observatory Operations: Strategies, Processes, and Systems III. p. 773725, doi:10.1117/12.857000
-Djupvik A. A., Andersen J., 2010, in Diego J. M., Goicoechea L. J., Gonzalez-Serrano J. I., Gorgas J., eds, Astrophysics and Space Science Proceedings Vol. 14, Highlights of Spanish Astrophysics V. Springer, Berlin, Heidelberg, p. 211 (arXiv:0901.4015), doi:10.1007/978-3-642-11250-8 21
+Djupvik A. A., Andersen J., 2010, in Diego J. M., Goicoechea L. J., Gonzalez-Serrano J. I., Gorgas J., eds, Astrophysics and Space Science Proceedings Vol. 14, Highlights of Spanish Astrophysics V. Springer, Berlin, Heidelberg, p. 211 (arXiv:0901.4015), doi:10.1007/978-3-642-11250-8_21
 Dougherty S. M., Taylor A. R., 1994, MNRAS, 269, 1123
 Evans P. A., et al., 2009, MNRAS, 397, 1177
 Filippova E. V., Tsygankov S. S., Lutovinov A. A., Sunyaev R. A., 2005, Astronomy Letters, 31, 729

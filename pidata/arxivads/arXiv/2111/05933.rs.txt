@@ -30,7 +30,7 @@ Foss, M. K., Ihle, H. T., Borowska, J., et al. 2021, arXiv e-prints, arXiv:2111.
 Gebhardt, K., Mentuch Cooper, E., Ciardullo, R., et al. 2021, arXiv e-prints, arXiv:2110.04298. https://arxiv.org/abs/2110.04298
 Gong, Y., Cooray, A., Silva, M. B., Santos, M. G., & Lubin, P. 2011, ApJL, 728, L46, doi: 10.1088/2041-8205/728/2/L46
 Gong, Y., Silva, M., Cooray, A., & Santos, M. G. 2014, ApJ, 785, 72, doi: 10.1088/0004-637X/785/1/72
-Hamilton, A. J. S. 1998, Linear Redshift Distortions: a Review, ed. D. Hamilton, Vol. 231, 185, doi: 10.1007/978-94-011-4960-0 17
+Hamilton, A. J. S. 1998, Linear Redshift Distortions: a Review, ed. D. Hamilton, Vol. 231, 185, doi: 10.1007/978-94-011-4960-0_17
 Hill, G. J., Gebhardt, K., Komatsu, E., et al. 2008, Astronomical Society of the Pacific Conference Series, Vol. 399, The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX): Description and Early Pilot Survey Results, ed. T. Kodama, T. Yamada, & K. Aoki, 115
 Hill, G. J., Lee, H., MacQueen, P. J., et al. 2021, arXiv e-prints, arXiv:2110.03843. https://arxiv.org/abs/2110.03843
 Ihle, H. T., Chung, D., Stein, G., et al. 2019, ApJ, 871, 75, doi: 10.3847/1538-4357/aaf4bc

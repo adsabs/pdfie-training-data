@@ -14,7 +14,7 @@ Brown, T. M., Tumlinson, J., Geha, M., et al. 2014, ApJ, 796, 91, doi: 10.1088/0
 Bullock, J. S., & Boylan-Kolchin, M. 2017, ARA&A, 55, 343, doi: 10.1146/annurev-astro-091916-055313
 Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245, doi: 10.1086/167900
 Carretta, E., Gratton, R. G., Clementini, G., & Fusi Pecci, F. 2000, ApJ, 533, 215, doi: 10.1086/308629
-Chaboyer, B. 1999, in Astrophysics and Space Science Library, Vol. 237, Post-Hipparcos Cosmic Candles, ed. A. Heck & F. Caputo, 111, doi: 10.1007/978-94-011-4734-7 7
+Chaboyer, B. 1999, in Astrophysics and Space Science Library, Vol. 237, Post-Hipparcos Cosmic Candles, ed. A. Heck & F. Caputo, 111, doi: 10.1007/978-94-011-4734-7_7
 Chadid, M., Sneden, C., & Preston, G. W. 2017, The Astrophysical Journal, 835, 187, doi: 10.3847/1538-4357/835/2/187
 Clementini, G., Cignoni, M., Ramos, R. C., et al. 2012, The Astrophysical Journal, 756, 108, doi: 10.1088/0004-637X/756/2/108
 Clementini, G., Gratton, R., Bragaglia, A., et al. 2003, AJ, 125, 1309, doi: 10.1086/367773

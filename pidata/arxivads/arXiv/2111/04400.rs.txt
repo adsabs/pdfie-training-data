@@ -82,7 +82,7 @@ Teyssier, R. 2002, A&A, 385, 337, doi: 10.1051/0004-6361:20011817
 Tonnesen, S., & Bryan, G. L. 2009, ApJ, 694, 789, doi: 10.1088/0004-637X/694/2/789
 van de Voort, F., Bahé, Y. M., Bower, R. G., et al. 2017, MNRAS, 466, 3460, doi: 10.1093/mnras/stw3356
 van de Voort, F., Schaye, J., Booth, C. M., Haas, M. R., & Dalla Vecchia, C. 2011, MNRAS, 414, 2458, doi: 10.1111/j.1365-2966.2011.18565.x
-van de Weygaert, R., & Bond, J. R. 2008, Clusters and the Theory of the Cosmic Web, ed. M. Plionis, O. López-Cruz, & D. Hughes, Vol. 740, 335, doi: 10.1007/978-1-4020-6941-3 10
+van de Weygaert, R., & Bond, J. R. 2008, Clusters and the Theory of the Cosmic Web, ed. M. Plionis, O. López-Cruz, & D. Hughes, Vol. 740, 335, doi: 10.1007/978-1-4020-6941-3_10
 Vogelsberger, M., Genel, S., Springel, V., et al. 2014, MNRAS, 444, 1518, doi: 10.1093/mnras/stu1536
 Vulcani, B., Poggianti, B. M., Fasano, G., et al. 2012, MNRAS, 420, 1481, doi: 10.1111/j.1365-2966.2011.20135.x
 Vulcani, B., Poggianti, B. M., Oemler, A., et al. 2013, A&A, 550, A58, doi: 10.1051/0004-6361/201118388

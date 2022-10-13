@@ -1,4 +1,4 @@
-Agol, E., & Fabrycky, D. C. 2018, Transit-Timing and Duration Variations for the Discovery and Characterization of Exoplanets, ed. H. J. Deeg & J. A. Belmonte, 7, doi: 10.1007/978-3-319-55333-7 7
+Agol, E., & Fabrycky, D. C. 2018, Transit-Timing and Duration Variations for the Discovery and Characterization of Exoplanets, ed. H. J. Deeg & J. A. Belmonte, 7, doi: 10.1007/978-3-319-55333-7_7
 Akeson, R. L., Chen, X., Ciardi, D., et al. 2013, PASP, 125, 989, doi: 10.1086/672273
 Astropy Collaboration, Robitaille, T. P., Tollerud, E. J., et al. 2013, A&A, 558, A33, doi: 10.1051/0004-6361/201322068
 Becker, J. C., Vanderburg, A., Rodriguez, J. E., et al. 2019, AJ, 157, 19, doi: 10.3847/1538-3881/aaf0a2
