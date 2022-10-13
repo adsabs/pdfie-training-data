@@ -20,7 +20,7 @@ Emonts, B. H. C., Lehnert, M. D., Villar-Mart in, M., et al. 2016, Science, 354,
 Emonts, B. H. C., Lehnert, M. D., Dannerbauer, H., et al. 2018, MNRAS, 477, L60.
 Emonts, B. H. C., Cai, Z., Prochaska, J. X., et al. 2019, ApJ, 887, 86.
 Falkendal, T., Lehnert, M. D., Vernet, J., et al. 2021, A&A, 645, A120.
-Faucher-Giguere, C.-A., Feldmann, R., Quataert, E., et al. 2016, MNRAS, 461, L32.
+Faucher-Giguère, C.-A., Feldmann, R., Quataert, E., et al. 2016, MNRAS, 461, L32.
 Frayer, D. T., Maddalena, R. J., Ivison, R. J., et al. 2018, ApJ, 860, 87.
 Fujimoto, S., Ouchi, M., Ferrara, A., et al. 2019, ApJ, 887, 107.
 Genzel, R., Eisenhauer, F., & Gillessen, S. 2010, Reviews of Modern Physics, 82, 3121.
@@ -28,7 +28,7 @@ Ginolfi, M., Maiolino, R., Nagao, T., et al. 2017, MNRAS, 468, 3468.
 Goerdt, T., Dekel, A., Sternberg, A., et al. 2010, MNRAS, 407, 613.
 Greve, T. R., Leonidaki, I., Xilouris, E. M., et al. 2014, ApJ, 794, 142.
 Gullberg, B., Lehnert, M. D., De Breuck, C., et al. 2016, A&A, 591, A73.
-Hatch, N. A., Overzier, R. A., Rottgering, H. J. A., et al. 2008, MNRAS, 383, 931.
+Hatch, N. A., Overzier, R. A., Röttgering, H. J. A., et al. 2008, MNRAS, 383, 931.
 Helmboldt, J. F., Taylor, G. B., Tremblay, S., et al. 2007, ApJ, 658, 203.
 Hennawi, J. F., Prochaska, J. X., Cantalupo, S., et al. 2015, Science, 348, 779.
 Ivison, R. J., Smail, I., Papadopoulos, P. P., et al. 2010, MNRAS, 404, 198.
@@ -41,10 +41,10 @@ McMullin, J. P., Waters, B., Schiebel, D., et al. 2007, Astronomical Data Analys
 Miley, G. K., Overzier, R. A., Zirm, A. W., et al. 2006, ApJL, 650, L29.
 Narayanan, D., Turk, M., Feldmann, R., et al. 2015, Nature, 525, 496.
 Paris, I., Petitjean, P., Ross, N. P., et al. 2017, A&A, 597, A79.
-Reuland, M., van Breugel, W., Rottgering, H., et al. 2003, ApJ, 592, 755.
+Reuland, M., van Breugel, W., Röttgering, H., et al. 2003, ApJ, 592, 755.
 Riechers, D. A., Carilli, C. L., Maddalena, R. J., et al. 2011, ApJL, 739, L32.
 Rosdahl, J. & Blaizot, J. 2012, MNRAS, 423, 344.
 Solomon, P. M. & Vanden Bout, P. A. 2005, ARA&A, 43, 677.
 Vernet, J., Lehnert, M. D., De Breuck, C., et al. 2017, A&A, 602, L6.
-Villar-Mart in, M., Vernet, J., di Serego Alighieri, S., et al. 2003, MNRAS, 346, 273.
+Villar-Martín, M., Vernet, J., di Serego Alighieri, S., et al. 2003, MNRAS, 346, 273.
 Wang, R., Carilli, C. L., Wagg, J., et al. 2008, ApJ, 687, 848.

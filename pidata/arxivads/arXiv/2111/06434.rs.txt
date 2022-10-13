@@ -21,7 +21,7 @@ Cantiello, M., Lecoanet, D., Jermyn, A. S., & Grassitelli, L. 2021, ApJ, 915, 11
 Capitanio, L., Lallement, R., Vergely, J. L., Elyajouri, M., & Monreal-Ibero, A. 2017, A&A, 606, A65, doi: 10.1051/0004-6361/201730831
 Carciofi, A. C., Faes, D. M., Townsend, R. H. D., & Bjorkman, J. E. 2013, ApJL, 766, L9, doi: 10.1088/2041-8205/766/1/L9
 Casini, R. 2002, ApJ, 568, 1056, doi: 10.1086/338986
-Casini, R., & Landi Degl'Innocenti, E. 2008, Astrophysical Plasmas, ed. T. Fujimoto & A. Iwamae, Vol. 44, 247, doi: 10.1007/978-3-540-73587-8 12
+Casini, R., & Landi Degl'Innocenti, E. 2008, Astrophysical Plasmas, ed. T. Fujimoto & A. Iwamae, Vol. 44, 247, doi: 10.1007/978-3-540-73587-8_12
 Casini, R., López Ariste, A., Tomczyk, S., & Lites, B. W. 2003, ApJL, 598, L67, doi: 10.1086/380496
 Chandra, P., Wade, G. A., Sundqvist, J. O., et al. 2015, MNRAS, 452, 1245, doi: 10.1093/mnras/stv1378
 Chandrasekhar, S. 1960, Radiative transfer
