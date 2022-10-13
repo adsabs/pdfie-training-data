@@ -12,11 +12,10 @@ extractions.
 
 import argparse
 from dataclasses import dataclass
-import html.entities
 import os.path
 from pathlib import Path
 import toml
-from typing import Dict, List, Optional, TextIO
+from typing import List, Optional
 
 from .. import util
 
@@ -26,6 +25,7 @@ RESOLVED_SUBDIR = "resolved"  # within $ADS_REFERENCES_PREFIX
 FULLTEXT_SUBDIR = "sources/ArXiv/fulltext"  # within $ADS_ABSTRACTS_PREFIX
 PDFS_ARE_RASTER = False
 MIN_NUMBER_OF_REFS = 8
+
 
 @dataclass
 class Doc:
@@ -48,7 +48,6 @@ class Doc:
             "random_index": util.make_random_index(),
             "pdf_is_raster": PDFS_ARE_RASTER,
         }
-
 
 
 def assess_candidate(arxiv_id: str, rr: Path) -> Optional[Doc]:
@@ -83,20 +82,22 @@ def assess_candidate(arxiv_id: str, rr: Path) -> Optional[Doc]:
             return None
 
     return Doc(
-        bibcode = bibcode,
-        pdf_path = str(pdf_path),
-        refstrings = refstrings,
+        bibcode=bibcode,
+        pdf_path=str(pdf_path),
+        refstrings=refstrings,
     )
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "prefix",
-        help="ArXiv item prefix to filter by, e.g. `arXiv/2111`"
+        "prefix", help="ArXiv item prefix to filter by, e.g. `arXiv/2111`"
     )
 
     settings = parser.parse_args()
+
+    util.warn("TODO: extract bibcodes into .bc.txt files as well!!!")
+    util.warn("TODO: add `arxiv_ads_*date` metadata!!!")
 
     pfx_len = len(str(util.ADS_REFERENCES_PREFIX / RESOLVED_SUBDIR)) + 1
     res_path = util.ADS_REFERENCES_PREFIX / RESOLVED_SUBDIR / settings.prefix
@@ -140,7 +141,9 @@ def main():
     print(f"Scanned {n_scanned} items.")
     if n_skipped_preexist:
         print(f"Skipped {n_skipped_preexist} items with existing doc.toml files.")
-    print(f"Accepted {n_accepted} items containing a total of {n_tot_refstrings} refstrings.")
+    print(
+        f"Accepted {n_accepted} items containing a total of {n_tot_refstrings} refstrings."
+    )
 
 
 if __name__ == "__main__":
