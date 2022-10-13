@@ -31,7 +31,7 @@ Oganesyan G., Nava L., Ghirlanda G., Melandri A., Celotti A., 2019, A&A, 628, A5
 Oganesyan G., et al., 2021, arXiv e-prints, p. arXiv:2109.00010
 Pe'er A., 2008, ApJ, 682, 463
 Rees M. J., Meszaros P., 2005, ApJ, 628, 847
-Rybicki G. B., Lightman A. P., 1979, Radiative processes in astro-physics. John Wiley & Sons, Inc
+Rybicki G. B., Lightman A. P., 1979, Radiative processes in astrophysics. John Wiley & Sons, Inc
 Ryde F., et al., 2011, MNRAS, 415, 3693
 Ryde F., Lundman C., Acuner Z., 2017, MNRAS, 472, 1897
 Samuelsson F., Begue D., Ryde F., Pe'er A., 2019, ApJ, 876, 93
