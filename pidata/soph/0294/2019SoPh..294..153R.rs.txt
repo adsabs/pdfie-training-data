@@ -19,7 +19,7 @@ Matteini, L., Landi, S., Hellinger, P., Pantellini, F., Maksimovic, M., Velli, M
 Ofman, L.: 2010, Hybrid model of inhomogeneous solar wind plasma heating by Alfvén wave spectrum: Parametric studies. J. Geophys. Res. 115(A14), 4108.
 Ofman, L., Gary, S.P., Viñas, A.: 2002, Resonant heating and acceleration of ions in coronal holes driven by cyclotron resonant spectra. J. Geophys. Res. Space Phys. 107, 1461.
 Ofman, L., Viñas, A.F.: 2007, Two-dimensional hybrid model of wave and beam heating of multi-ion solar wind plasma. J. Geophys. Res. 112(A11), 6104.
-Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H
+Ofman, L., Viñas, A.F., Maneva, Y.: 2014, Two-dimensional hybrid models of H+–He++ expanding solar wind plasma heating. J. Geophys. Res. Space Phys. 199, 4223.
 Ofman, L., Viñas, A.F., Roberts, D.A.: 2017, The effects of inhomogeneous proton-α drifts on the heating of the solar wind. J. Geophys. Res. Space Phys. 122, 5839.
 Ozak, N., Ofman, L., Viñas, A.-F.: 2015, Ion heating in inhomogeneous expanding solar wind plasma: The role of parallel and oblique ion-cyclotron waves. Astrophys. J. 799, 77.
 Papini, E., Franci, L., Landi, S., Verdini, A., Matteini, L., Hellinger, P.: 2019, Can Hall magnetohydrodynamics explain plasma turbulence at sub-ion scales? Astrophys. J. 870(1), 52.
