@@ -4,14 +4,57 @@
 """
 Export the database into a format suitable for use with the
 arxiv-reference-extractor pipeline.
+
+Environment variables to set:
+
+- ``PDFIE_LOCAL_DATA`` for PDFs that need local copies
 """
 
 import argparse
+import contextlib
 import os
 from pathlib import Path
 import shutil
+import typing
 
 from . import scan, util
+
+
+class ArxivSession(object):
+    er_path: Path
+    er_handle: typing.TextIO
+    fth_handle: typing.TextIO
+    n: int
+
+    def __init__(self, out_dir: Path, session_id: str):
+        logs_dir = out_dir / "logs" / session_id
+        logs_dir.mkdir(parents=True, exist_ok=True)
+        self.er_path = logs_dir / "extractrefs.out"
+        self.er_handle = self.er_path.open("wt")
+        self.fth_handle = (logs_dir / "fulltextharvest.out").open("wt")
+        self.n = 0
+
+    def append(self, bibcode: str, pdf_path: str, refs_path: str):
+        print(pdf_path, refs_path, file=self.er_handle)
+        print(pdf_path, bibcode, "fakeaccno", "fakesubdate", file=self.fth_handle)
+        self.n += 1
+
+    def close(self):
+        if self.er_handle is not None:
+            self.er_handle.close()
+            print(f"Wrote {self.n} entries to `{self.er_path}`")
+            self.er_handle = None
+
+        if self.fth_handle is not None:
+            self.fth_handle.close()
+            self.fth_handle = None
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, _etype, _evalue, _etraceback):
+        self.close()
+        return False
 
 
 def main():
@@ -26,40 +69,23 @@ def main():
 
     out_dir = Path(settings.out_dir)
 
-    # Possible elaboration: group everything into different sessions in
-    # different ways? One obvious way to do that would be by collection, but
-    # it's not obvious to me that that's actually useful.
-    session_id = "all"
-
     fulltext_prefix = "pdfietd"
 
     docs = list(scan(rs=True, no_raster=True))
     print(f"Scan yielded {len(docs)} documents.")
 
-    # Do the log files
+    # Export to the log files that feed the Arxiv pipeline. We have an "all"
+    # session that covers all documents, and a "bibcodes" session that only
+    # includes those with bibcode ground-truth information.
 
-    logs_dir = out_dir / "logs" / session_id
-    logs_dir.mkdir(parents=True, exist_ok=True)
-
-    with (logs_dir / "extractrefs.out").open("wt") as f:
-        for doc in docs:
-            arxiv_id = doc.global_id.replace(".", "_")
-            fake_pdf_path = f"{fulltext_prefix}/{arxiv_id}.pdf"
-            refs_path = os.path.join(
-                util.ADS_REFERENCES_PREFIX,
-                "sources",
-                fulltext_prefix,
-                arxiv_id + ".raw",
-            )
-            print(fake_pdf_path, refs_path, file=f)
-
-    print(f"Wrote `{logs_dir / 'extractrefs.out'}`")
     fake_bibcode_serial = 0
 
-    with (logs_dir / "fulltextharvest.out").open("wt") as f:
+    with contextlib.ExitStack() as stack:
+        all = stack.enter_context(ArxivSession(out_dir, "all"))
+        bibcodes = stack.enter_context(ArxivSession(out_dir, "bibcodes"))
+
         for doc in docs:
             arxiv_id = doc.global_id.replace(".", "_")
-            fake_pdf_path = f"{fulltext_prefix}/{arxiv_id}.pdf"
 
             if doc.bibcode:
                 bibcode = doc.bibcode
@@ -67,11 +93,20 @@ def main():
                 bibcode = "9999" + str(fake_bibcode_serial).rjust(14, ".") + "."
                 fake_bibcode_serial += 1
 
-            print(fake_pdf_path, bibcode, "fakeaccno", "fakesubdate", file=f)
+            fake_pdf_path = f"{fulltext_prefix}/{arxiv_id}.pdf"
+            refs_path = os.path.join(
+                util.ADS_REFERENCES_PREFIX,
+                "sources",
+                fulltext_prefix,
+                arxiv_id + ".raw",
+            )
 
-    print(f"Wrote `{logs_dir / 'fulltextharvest.out'}`")
+            all.append(bibcode, fake_pdf_path, refs_path)
 
-    # Copy out the ground-truth refstring files.
+            if ".bc.txt" in doc.extensions:
+                bibcodes.append(bibcode, fake_pdf_path, refs_path)
+
+    # Copy out the ground-truth refstring and bibcode files.
 
     gt_dir = out_dir / "references" / "groundtruth"
 
@@ -82,6 +117,10 @@ def main():
         ref_dir.mkdir(parents=True, exist_ok=True)
         ref_path = ref_dir / (ap.name + ".rs.txt")
         shutil.copy(doc.ext_path(".rs.txt"), ref_path)
+
+        if ".bc.txt" in doc.extensions:
+            bc_path = ref_dir / (ap.name + ".bc.txt")
+            shutil.copy(doc.ext_path(".bc.txt"), bc_path)
 
     print(f"Wrote files in `{gt_dir}`")
 
