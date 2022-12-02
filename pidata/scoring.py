@@ -85,19 +85,22 @@ def load_ads_refs_raw_data(stream) -> str:
     return " ".join(linewords())
 
 
-def load_ads_refs_raw_resolution_inputs(stream) -> Generator[str, None, None]:
+def normalize_refstring(rs: str) -> str:
     # XXX this is duplicating ads_ref_extract.classic_analytics._maybe_load_raw_file
 
     from ads_ref_extract.normalize import refstring_normalizer, to_ascii
 
     MAX_RS_LEN = 512
+    rs = rs.strip()
+    rs = rs[:MAX_RS_LEN]
+    rs = refstring_normalizer.normalize(rs)
+    rs = to_ascii(rs)
+    return rs
 
+
+def load_ads_refs_raw_resolution_inputs(stream) -> Generator[str, None, None]:
     for line in _ads_refs_raw_lines(stream):
-        rs = line.strip()
-        rs = rs[:MAX_RS_LEN]
-        rs = refstring_normalizer.normalize(rs)
-        rs = to_ascii(rs)
-        yield rs
+        yield normalize_refstring(line)
 
 
 def load_ads_refs_raw_bibcodes(stream, cache, threshold, logger) -> FrozenSet[str]:
@@ -176,6 +179,10 @@ class RefstringDatabase(object):
                 return load_bc_data(f)
             except Exception as e:
                 raise Exception(f"failed to load refstring GID {gid}") from e
+
+    def load_as_resolution_inputs(self, gid: str) -> List[str]:
+        with (self.root / (gid + ".rs.txt")).open("rt") as f:
+            return list(normalize_refstring(l) for l in f)
 
 
 class AdsRefsRawDatabase(object):
@@ -274,10 +281,11 @@ def _do_score_bibcodes(settings):
     gt_db = RefstringDatabase(gt_path)
     hy_db = AdsRefsRawDatabase(hy_path)
 
-    cache, logger, SUCCESSFUL_RESOLUTION_THRESHOLD = get_resolver_items()
+    cache, logger, threshold = get_resolver_items()
 
     n_items = 0
     n_possible = 0
+    n_extracted = 0
     n_true_pos = 0
     n_false_pos = 0
     n_false_neg = 0
@@ -289,20 +297,20 @@ def _do_score_bibcodes(settings):
             continue
 
         try:
-            hypothesis = hy_db.load_as_bibcodes(
-                gid, cache, SUCCESSFUL_RESOLUTION_THRESHOLD, logger
-            )
+            hypothesis = hy_db.load_as_bibcodes(gid, cache, threshold, logger)
         except FileNotFoundError:
             hypothesis = frozenset(())
 
         n_items += 1
         n_possible += len(ground_truth)
+        n_extracted += len(hypothesis)
         n_true_pos += len(hypothesis & ground_truth)
         n_false_pos += len(hypothesis - ground_truth)
         n_false_neg += len(ground_truth - hypothesis)
 
     print(f"Examined {n_items} items")
     print(f"Number of possible bibcodes: {n_possible}")
+    print(f"Number of extracted bibcodes: {n_extracted}")
     print(
         f"Number true positives (found): {n_true_pos} = {100 * n_true_pos / n_possible:.1f}%"
     )
@@ -324,7 +332,7 @@ def _do_resolve_bibcodes(settings):
     gt_db = RefstringDatabase(gt_path)
     hy_db = AdsRefsRawDatabase(hy_path)
 
-    cache, logger, SUCCESSFUL_RESOLUTION_THRESHOLD = get_resolver_items()
+    cache, logger, _threshold = get_resolver_items()
 
     def refstrings():
         for gid in gt_db.scan():
