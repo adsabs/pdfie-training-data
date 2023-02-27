@@ -1,3 +1,16 @@
 # Summary
 
-- [Uncategorized Notes](./uncat.md)
+- [Introduction](./intro.md)
+- [Actions]()
+  - [Simple Summary](./actions/simple-summary.md)
+  - [Export for Arxiv Reference Extractor](./actions/arxiv-export.md)
+  - [Export for Reference Resolver Microservice](./actions/resolver-export.md)
+- [Collections]()
+  - [ArXiv (`arxivads`)](./collections/arxivads.md)
+  - [ESA Special Publications (`esasp`)](./collections/esasp.md)
+  - [Miscellaneous (`misc`)](./collections/misc.md)
+  - [*Solar Physics* (`soph`)](./collections/soph.md)
+- [Data Classes]()
+  - [General Document Metadata (`.doc.toml`)](./data/doc_toml.md)
+  - [Reference Strings (`.rs.txt`)](./data/rs_txt.md)
+  - [Bibcodes (`.bc.txt`)](./data/bc_txt.md)
