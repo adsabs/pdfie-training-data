@@ -13,7 +13,7 @@ document. It is a line-oriented text file.
 - Hyphens introduced for linebreaks should be removed.
 
 
-## Known Issues
+## Known Issues / Corner Cases
 
 Some PDF refstrings include important markup. For instance, a PDF refstring
 might have the text “DOI” with a hyperlink to the DOI for an article. A
@@ -29,3 +29,7 @@ reference string does not exist, or is at least highly debatable: some reference
 sections include the titles of papers in their refstrings, and if those papers
 are physics papers, they may contain fairly complicated mathematical expressions
 (“Cross section of the α² → μμ¯ reaction ...”).
+
+I have lost track of my example, but in at least some cases, a single reference
+entry in an article's bibliography may contain multiple references. I forget how
+I handled this.
