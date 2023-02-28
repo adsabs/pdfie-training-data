@@ -1,0 +1,115 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        REFERENCES<lb/>
+        <bibl>Arcodia, R., Merloni, A., Nandra, K., &amp; Ponti, G. 2019,<lb/> A&amp;A, 628, A135, doi: 10.1051/0004-6361/201935874<lb/> </bibl>
+        <bibl>Bai, X.-N., &amp; Stone, J. M. 2013, ApJ, 767, 30,<lb/> doi: 10.1088/0004-637X/767/1/30<lb/> </bibl>
+        <bibl>Bai, X.-N., Ye, J., Goodman, J., &amp; Yuan, F. 2016, ApJ,<lb/> 818, 152, doi: 10.3847/0004-637X/818/2/152<lb/> </bibl>
+        <bibl>Beckmann, R. S., Devriendt, J., Slyz, A., et al. 2017,<lb/> MNRAS, 472, 949, doi: 10.1093/mnras/stx1831<lb/> </bibl>
+        <bibl>Beckwith, K., Hawley, J. F., &amp; Krolik, J. H. 2009, ApJ,<lb/> 707, 428, doi: 10.1088/0004-637X/707/1/428<lb/> </bibl>
+        <bibl>Begelman, M. C., McKee, C. F., &amp; Shields, G. A. 1983,<lb/> ApJ, 271, 70, doi: 10.1086/161178<lb/> </bibl>
+        <bibl>Beloborodov, A. M. 1999, ApJL, 510, L123,<lb/> doi: 10.1086/311810<lb/> </bibl>
+        <bibl>Bisnovatyi-Kogan, G. S., &amp; Ruzmaikin, A. A. 1974,<lb/> Ap&amp;SS, 28, 45, doi: 10.1007/BF00642237<lb/> </bibl>
+        <bibl>-. 1976, Ap&amp;SS, 42, 401, doi: 10.1007/BF01225967<lb/> </bibl>
+        <bibl>Blandford, R. D., &amp; Payne, D. G. 1982, MNRAS, 199, 883,<lb/> doi: 10.1093/mnras/199.4.883<lb/> </bibl>
+        <bibl>Blandford, R. D., &amp; Znajek, R. L. 1977, MNRAS, 179, 433,<lb/> doi: 10.1093/mnras/179.3.433<lb/> </bibl>
+        <bibl>Brandenburg, A., Nordlund, A., Stein, R. F., &amp; Torkelsson,<lb/> U. 1995, ApJ, 446, 741, doi: 10.1086/175831<lb/> </bibl>
+        <bibl>Bu, D.-F., &amp; Yang, X.-H. 2018, MNRAS, 476, 4395,<lb/> doi: 10.1093/mnras/sty053<lb/> </bibl>
+        <bibl>Cao, X. 2009, MNRAS, 394, 207,<lb/> doi: 10.1111/j.1365-2966.2008.14347.x<lb/> </bibl>
+        <bibl>-. 2014, ApJ, 783, 51, doi: 10.1088/0004-637X/783/1/51<lb/> </bibl>
+        <bibl>-. 2018, MNRAS, 473, 4268, doi: 10.1093/mnras/stx2688<lb/> </bibl>
+        <bibl>Cao, X., &amp; Lai, D. 2019, MNRAS, 485, 1916,<lb/> doi: 10.1093/mnras/stz580<lb/> </bibl>
+        <bibl>Cao, X., &amp; Spruit, H. C. 1994, A&amp;A, 287, 80<lb/> </bibl>
+        <bibl>-. 2013, ApJ, 765, 149, doi: 10.1088/0004-637X/765/2/149<lb/> </bibl>
+        <bibl>Cao, X., You, B., &amp; Yan, Z. 2021, arXiv e-prints,<lb/> arXiv:2108.09110. https://arxiv.org/abs/2108.09110<lb/> </bibl>
+        <bibl>Cao, X., &amp; Zdziarski, A. A. 2020, MNRAS, 492, 223,<lb/> doi: 10.1093/mnras/stz3447<lb/> </bibl>
+        <bibl>Casse, F., &amp; Keppens, R. 2002, ApJ, 581, 988,<lb/> doi: 10.1086/344340<lb/> </bibl>
+        <bibl>-. 2004, ApJ, 601, 90, doi: 10.1086/380441<lb/> </bibl>
+        <bibl>Chen, L., &amp; Zhang, B. 2021, ApJ, 906, 105,<lb/> doi: 10.3847/1538-4357/abc42d<lb/> </bibl>
+        <bibl>Cheng, H., Liu, B. F., Liu, J., et al. 2020, MNRAS, 495,<lb/> 1158, doi: 10.1093/mnras/staa1250<lb/> </bibl>
+        <bibl>Contopoulos, J., &amp; Lovelace, R. V. E. 1994, ApJ, 429, 139,<lb/> doi: 10.1086/174307<lb/> </bibl>
+        <bibl>Di Matteo, T. 1998, MNRAS, 299, L15,<lb/> doi: 10.1046/j.1365-8711.1998.01950.x<lb/> </bibl>
+        <bibl>Di Matteo, T., Celotti, A., &amp; Fabian, A. C. 1999, MNRAS,<lb/> 304, 809, doi: 10.1046/j.1365-8711.1999.02375.x<lb/> </bibl>
+        <bibl>Event Horizon Telescope Collaboration, Akiyama, K.,<lb/> Algaba, J. C., et al. 2021, ApJL, 910, L13,<lb/> doi: 10.3847/2041-8213/abe4de<lb/> </bibl>
+        <bibl>Fabian, A. C. 2012, ARA&amp;A, 50, 455,<lb/> doi: 10.1146/annurev-astro-081811-125521<lb/> </bibl>
+        <bibl>Fender, R. P., Belloni, T. M., &amp; Gallo, E. 2004, MNRAS,<lb/> 355, 1105, doi: 10.1111/j.1365-2966.2004.08384.x<lb/> </bibl>
+        <bibl>Ferreira, J. 1997, A&amp;A, 319, 340.<lb/> https://arxiv.org/abs/astro-ph/9607057<lb/> </bibl>
+        <bibl>Ferreira, J., Petrucci, P. O., Henri, G., Saugé, L., &amp;<lb/> Pelletier, G. 2006, A&amp;A, 447, 813,<lb/> doi: 10.1051/0004-6361:20052689<lb/> </bibl>
+        <bibl>Fromang, S., &amp; Stone, J. M. 2009, A&amp;A, 507, 19,<lb/> doi: 10.1051/0004-6361/200912752<lb/> </bibl>
+        <bibl>Fukumura, K., Kazanas, D., Contopoulos, I., &amp; Behar, E.<lb/> 2010, ApJ, 715, 636, doi: 10.1088/0004-637X/715/1/636<lb/> </bibl>
+        <bibl>Fukumura, K., Kazanas, D., Shrader, C., et al. 2017,<lb/> Nature Astronomy, 1, 0062, doi: 10.1038/s41550-017-0062<lb/> </bibl>
+        <bibl>-. 2018a, ApJL, 864, L27, doi: 10.3847/2041-8213/aadd10<lb/> </bibl>
+        <bibl>-. 2018b, ApJ, 853, 40, doi: 10.3847/1538-4357/aaa3f6<lb/> </bibl>
+        <bibl>Fukumura, K., Tombesi, F., Kazanas, D., et al. 2015, ApJ,<lb/> 805, 17, doi: 10.1088/0004-637X/805/1/17<lb/> </bibl>
+        <bibl>Galeev, A. A., Rosner, R., &amp; Vaiana, G. S. 1979, ApJ, 229,<lb/> 318, doi: 10.1086/156957<lb/> </bibl>
+        <bibl>Gofford, J., Reeves, J. N., McLaughlin, D. E., et al. 2015,<lb/> MNRAS, 451, 4169, doi: 10.1093/mnras/stv1207<lb/> </bibl>
+        <bibl>Guan, X., &amp; Gammie, C. F. 2009, ApJ, 697, 1901,<lb/> doi: 10.1088/0004-637X/697/2/1901<lb/> </bibl>
+        <bibl>Guilet, J., &amp; Ogilvie, G. I. 2012, MNRAS, 424, 2097,<lb/> doi: 10.1111/j.1365-2966.2012.21361.x<lb/> </bibl>
+        <bibl>-. 2013, MNRAS, 430, 822, doi: 10.1093/mnras/sts551<lb/> </bibl>
+        <bibl>Haardt, F., &amp; Maraschi, L. 1991, ApJL, 380, L51,<lb/> doi: 10.1086/186171<lb/> </bibl>
+        <bibl>-. 1993, ApJ, 413, 507, doi: 10.1086/173020<lb/> </bibl>
+        <bibl>Hagino, K., Odaka, H., Done, C., et al. 2015, MNRAS, 446,<lb/> 663, doi: 10.1093/mnras/stu2095<lb/> </bibl>
+        <bibl>Higginbottom, N., Proga, D., Knigge, C., et al. 2014, ApJ,<lb/> 789, 19, doi: 10.1088/0004-637X/789/1/19<lb/> </bibl>
+        <bibl>Igumenshchev, I. V., Narayan, R., &amp; Abramowicz, M. A.<lb/> 2003, ApJ, 592, 1042, doi: 10.1086/375769<lb/> </bibl>
+        <bibl>King, A. L., Walton, D. J., Miller, J. M., et al. 2014, ApJL,<lb/> 784, L2, doi: 10.1088/2041-8205/784/1/L2<lb/> </bibl>
+        <bibl>Kong, L. D., Zhang, S., Chen, Y. P., et al. 2021, ApJL, 906,<lb/> L2, doi: 10.3847/2041-8213/abd03d<lb/> </bibl>
+        <bibl>Kosec, P., Pinto, C., Walton, D. J., et al. 2018, MNRAS,<lb/> 479, 3978, doi: 10.1093/mnras/sty1626<lb/> </bibl>
+        <bibl>Kraemer, S. B., Tombesi, F., &amp; Bottorff, M. C. 2018, ApJ,<lb/> 852, 35, doi: 10.3847/1538-4357/aa9ce0<lb/> </bibl>
+        <bibl>Li, J., &amp; Cao, X. 2019, ApJ, 872, 149,<lb/> doi: 10.3847/1538-4357/ab0207<lb/> </bibl>
+        <bibl>Li, J.-w., &amp; Cao, X. 2021, ApJ, 909, 158,<lb/> doi: 10.3847/1538-4357/abe125<lb/> </bibl>
+        <bibl>Li, S.-L. 2014, ApJ, 788, 71,<lb/> doi: 10.1088/0004-637X/788/1/71<lb/> </bibl>
+        <bibl>Li, S.-L., &amp; Begelman, M. C. 2014, ApJ, 786, 6,<lb/> doi: 10.1088/0004-637X/786/1/6<lb/> </bibl>
+        <bibl>Liska, M., Tchekhovskoy, A., &amp; Quataert, E. 2020,<lb/> MNRAS, 494, 3656, doi: 10.1093/mnras/staa955<lb/> </bibl>
+        <bibl>Liu, B. F., Mineshige, S., Meyer, F., Meyer-Hofmeister, E.,<lb/> &amp; Kawaguchi, T. 2002, ApJ, 575, 117,<lb/> doi: 10.1086/341138<lb/> </bibl>
+        <bibl>Liu, H., Dong, A., Weng, S., &amp; Wu, Q. 2019, MNRAS, 487,<lb/> 5335, doi: 10.1093/mnras/stz1622<lb/> </bibl>
+        <bibl>Liu, H., Luo, B., Brandt, W. N., et al. 2021a, ApJ, 910,<lb/> 103, doi: 10.3847/1538-4357/abe37f<lb/> </bibl>
+        <bibl>Liu, H., Wu, Q.-W., Xue, Y.-Q., et al. 2021b, Research in<lb/> Astronomy and Astrophysics, 21, 199,<lb/> doi: 10.1088/1674-4527/21/8/199<lb/> </bibl>
+        <bibl>Liu, J. Y., Qiao, E. L., &amp; Liu, B. F. 2016, ApJ, 833, 35,<lb/> doi: 10.3847/1538-4357/833/1/35<lb/> </bibl>
+        <bibl>Liu, T., Wang, J.-X., Yang, H., Zhu, F.-F., &amp; Zhou, Y.-Y.<lb/> 2014, ApJ, 783, 106, doi: 10.1088/0004-637X/783/2/106<lb/> </bibl>
+        <bibl>Lovelace, R. V. E., Rothstein, D. M., &amp; Bisnovatyi-Kogan,<lb/> G. S. 2009, ApJ, 701, 885,<lb/> doi: 10.1088/0004-637X/701/2/885<lb/> </bibl>
+        <bibl>Lubow, S. H., Papaloizou, J. C. B., &amp; Pringle, J. E. 1994,<lb/> MNRAS, 267, 235, doi: 10.1093/mnras/267.2.235<lb/> </bibl>
+        <bibl>Lyu, J., &amp; Rieke, G. H. 2017, ApJ, 841, 76,<lb/> doi: 10.3847/1538-4357/aa7051<lb/> </bibl>
+        <bibl>McNamara, B. R., &amp; Nulsen, P. E. J. 2007, ARA&amp;A, 45,<lb/> 117, doi: 10.1146/annurev.astro.45.051806.110625<lb/> </bibl>
+        <bibl>Merloni, A., &amp; Fabian, A. C. 2001, MNRAS, 328, 958,<lb/> doi: 10.1046/j.1365-8711.2001.04925.x<lb/> </bibl>
+        <bibl>-. 2002, MNRAS, 332, 165,<lb/> doi: 10.1046/j.1365-8711.2002.05288.x<lb/> </bibl>
+        <bibl>Miller, J. M., Fabian, A. C., Kaastra, J., et al. 2015, ApJ,<lb/> 814, 87, doi: 10.1088/0004-637X/814/2/87<lb/> </bibl>
+        <bibl>Miller, J. M., Raymond, J., Fabian, A., et al. 2006, Nature,<lb/> 441, 953, doi: 10.1038/nature04912<lb/> </bibl>
+        <bibl>Miller, J. M., Raymond, J., Reynolds, C. S., et al. 2008,<lb/> ApJ, 680, 1359, doi: 10.1086/588521<lb/> </bibl>
+        <bibl>Miller, J. M., Raymond, J., Fabian, A. C., et al. 2012,<lb/> ApJL, 759, L6, doi: 10.1088/2041-8205/759/1/L6<lb/> </bibl>
+        <bibl>Miller, J. M., Zoghbi, A., Raymond, J., et al. 2020, ApJ,<lb/> 904, 30, doi: 10.3847/1538-4357/abbb31<lb/> </bibl>
+        <bibl>Mishra, B., Begelman, M. C., Armitage, P. J., &amp; Simon,<lb/> J. B. 2020, MNRAS, 492, 1855,<lb/> doi: 10.1093/mnras/stz3572<lb/> </bibl>
+        <bibl>Mondal, S., Różańska, A., Lai, E. V., &amp; De Marco, B. 2020,<lb/> A&amp;A, 642, A94, doi: 10.1051/0004-6361/202038684<lb/> </bibl>
+        <bibl>Parker, E. N. 1979, Cosmical magnetic fields. Their origin<lb/> and their activity (Oxford: Clarendon Press)<lb/> </bibl>
+        <bibl>Parker, M. L., Alston, W. N., Buisson, D. J. K., et al. 2017,<lb/> MNRAS, 469, 1553, doi: 10.1093/mnras/stx945<lb/> </bibl>
+        <bibl>Proga, D., &amp; Kallman, T. R. 2004, ApJ, 616, 688,<lb/> doi: 10.1086/425117<lb/> </bibl>
+        <bibl>Proga, D., Stone, J. M., &amp; Kallman, T. R. 2000, ApJ, 543,<lb/> 686, doi: 10.1086/317154<lb/> </bibl>
+        <bibl>Pudritz, R. E. 1981a, MNRAS, 195, 881,<lb/> doi: 10.1093/mnras/195.4.881<lb/> </bibl>
+        <bibl>-. 1981b, MNRAS, 195, 897, doi: 10.1093/mnras/195.4.897<lb/> </bibl>
+        <bibl>Pudritz, R. E., Ouyed, R., Fendt, C., &amp; Brandenburg, A.<lb/> 2007, in Protostars and Planets V, ed. B. Reipurth,<lb/> D. Jewitt, &amp; K. Keil, 277.<lb/> https://arxiv.org/abs/astro-ph/0603592<lb/> </bibl>
+        <bibl>Qiao, E., &amp; Liu, B. F. 2018, MNRAS, 477, 210,<lb/> doi: 10.1093/mnras/sty652<lb/> </bibl>
+        <bibl>Reeves, J. N., Braito, V., Chartas, G., et al. 2020, ApJ,<lb/> 895, 37, doi: 10.3847/1538-4357/ab8cc4<lb/> </bibl>
+        <bibl>Reeves, J. N., O&apos;Brien, P. T., Braito, V., et al. 2009, ApJ,<lb/> 701, 493, doi: 10.1088/0004-637X/701/1/493<lb/> </bibl>
+        <bibl>Romanova, M. M., Ustyugova, G. V., Koldoba, A. V.,<lb/> Chechetkin, V. M., &amp; Lovelace, R. V. E. 1998, ApJ, 500,<lb/> 703, doi: 10.1086/305760<lb/> </bibl>
+        <bibl>Romero, G. E., &amp; Vila, G. S. 2014, Introduction to Black<lb/> Hole Astrophysics, Vol. 876 (Springer, Berlin,<lb/> Heidelberg), doi: 10.1007/978-3-642-39596-3<lb/> </bibl>
+        <bibl>Scepi, N., Lesur, G., Dubus, G., &amp; Jacquemin-Ide, J. 2020,<lb/> A&amp;A, 641, A133, doi: 10.1051/0004-6361/202037903<lb/> </bibl>
+        <bibl>Shakura, N. I., &amp; Sunyaev, R. A. 1973, A&amp;A, 500, 33<lb/> </bibl>
+        <bibl>Sheikhnezami, S., &amp; Fendt, C. 2015, ApJ, 814, 113,<lb/> doi: 10.1088/0004-637X/814/2/113<lb/> </bibl>
+        <bibl>-. 2018, ApJ, 861, 11, doi: 10.3847/1538-4357/aac5dc<lb/> </bibl>
+        <bibl>Sheikhnezami, S., Fendt, C., Porth, O., Vaidya, B., &amp;<lb/> Ghanbari, J. 2012, ApJ, 757, 65,<lb/> doi: 10.1088/0004-637X/757/1/65<lb/> </bibl>
+        <bibl>Springel, V., Di Matteo, T., &amp; Hernquist, L. 2005, ApJL,<lb/> 620, L79, doi: 10.1086/428772<lb/> </bibl>
+        <bibl>Spruit, H. C. 1996, in NATO Advanced Study Institute<lb/> (ASI) Series C, Vol. 477, Evolutionary Processes in<lb/> Binary Stars, ed. R. A. M. J. Wijers, M. B. Davies, &amp;<lb/> C. A. Tout, 249-286<lb/> </bibl>
+        <bibl>Spruit, H. C., &amp; Uzdensky, D. A. 2005, ApJ, 629, 960,<lb/> doi: 10.1086/431454<lb/> </bibl>
+        <bibl>Stepanovs, D., &amp; Fendt, C. 2016, ApJ, 825, 14,<lb/> doi: 10.3847/0004-637X/825/1/14<lb/> </bibl>
+        <bibl>Stepanovs, D., Fendt, C., &amp; Sheikhnezami, S. 2014, ApJ,<lb/> 796, 29, doi: 10.1088/0004-637X/796/1/29<lb/> </bibl>
+        <bibl>Stevens, I. R., &amp; Kallman, T. R. 1990, ApJ, 365, 321,<lb/> doi: 10.1086/169486<lb/> </bibl>
+        <bibl>Suzuki, T. K., &amp; Inutsuka, S.-i. 2014, ApJ, 784, 121,<lb/> doi: 10.1088/0004-637X/784/2/121<lb/> </bibl>
+        <bibl>Tombesi, F., Cappi, M., Reeves, J. N., et al. 2013, MNRAS,<lb/> 430, 1102, doi: 10.1093/mnras/sts692<lb/> </bibl>
+        <bibl>-. 2010a, A&amp;A, 521, A57,</bibl>
+        </listBibl>
+    </text>
+</tei>
+

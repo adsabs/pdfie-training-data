@@ -1,0 +1,74 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        References<lb/>
+        <bibl>Breneman, H.H., Stone, E.C.: 1985, Astrophys. J. Lett. 299, L57.<lb/> </bibl>
+        <bibl>Cliver, E.W., Kahler, S.W., Reames, D.V.: 2004, Astrophys. J. 605, 902.<lb/> </bibl>
+        <bibl>Cliver, E.W., Ling, A.G.: 2007, Astrophys. J. 658, 1349.<lb/> </bibl>
+        <bibl>Cliver, E.W., Ling, A.G.: 2009, Astrophys. J. 690, 598.<lb/> </bibl>
+        <bibl>Cohen, C.M.S., Mason, G.M., Mewaldt, R.A., von Rosenvinge, T.T.: 2013, AIP Conf. Proc. 1539, 151.<lb/> </bibl>
+        <bibl>Daibog, E.I., Stolpovskii, V.G., Kahler, S.W.: 2003, Cosm. Res. 41, 128.<lb/> </bibl>
+        <bibl>Desai, M.I., Giacalone, J.: 2016, Living Rev. Solar Phys. 13, 3. DOI.<lb/> </bibl>
+        <bibl>DiFabio, R., Guo, Z., Möbius, E., Klecker, B., Kucharek, H., Mason, G.M., Popecki, M.: 2008, Astrophys. J.<lb/> 687, 623.<lb/> </bibl>
+        <bibl>Desai, M.I., Mason, G.M., Dwyer, J.R., Mazur, J.E., Gold, R.E., Krimigis, S.M., Smith, C.W., Skoug, R.M.:<lb/> 2003, Astrophys. J. 588, 1149.<lb/> </bibl>
+        <bibl>Desai, M.I., Mason, G.M., Wiedenbeck, M.E., Cohen, C.M.S., Mazur, J.E., Dwyer, J.R., Gold, R.E., Krim-<lb/>igis, S.M., Hu, Q., Smith, C.W., Skoug, R.M.: 2004, Astrophys. J. 661, 1156.<lb/> </bibl>
+        <bibl>Desai, M.I., Mason, G.M., Gold, R.E., Krimigis, S.M., Cohen, C.M.S., Mewaldt, R.A., Mazur, J.E., Dwyer,<lb/> J.R.: 2006, Astrophys. J. 649, 470.<lb/> </bibl>
+        <bibl>Gopalswamy, N., Yashiro, S., Krucker, S., Stenborg, G., Howard, R.A.: 2004, J. Geophys. Res. 109, A12105.<lb/> </bibl>
+        <bibl>Gopalswamy, N., Xie, H., Yashiro, S., Akiyama, S., Mälekä, P., Usoskin, I.G.: 2012, Space Sci. Rev. 171, 23.<lb/> DOI.<lb/> </bibl>
+        <bibl>Gopalswamy, N., Xie, H., Akiyama, S., Yashiro, S., Usoskin, I.G., Davila, J.M.: 2013, Astrophys. J. Lett. 765,<lb/> L30.<lb/> </bibl>
+        <bibl>Gosling, J.T.: 1993, J. Geophys. Res. 98, 18937.<lb/> </bibl>
+        <bibl>Kahler, S.W.: 1992, Annu. Rev. Astron. Astrophys. 30, 113.<lb/> </bibl>
+        <bibl>Kahler, S.W.: 1994, Astrophys. J. 428, 837.<lb/> </bibl>
+        <bibl>Kahler, S.W.: 2001, J. Geophys. Res. 106, 20947.<lb/> </bibl>
+        <bibl>Kahler, S.W.: 2007, Space Sci. Rev. 129, 359.<lb/> </bibl>
+        <bibl>Kahler, S.W., Sheeley, N.R., Howard, R.A., Koomen, M.J., Michels, D.J.: 1984, J. Geophys. Res. 89, 9683.<lb/> </bibl>
+        <bibl>Kahler, S.W., Cliver, E.W., Tylka, A.J., Dietrich, W.F.: 2012, Space Sci. Rev. 171, 121.<lb/> </bibl>
+        <bibl>Klecker, B.: 2013, J. Phys. Conf. Ser. 409, 012015.<lb/> </bibl>
+        <bibl>Lario, D.: 2010, AIP Conf. Proc. 1216, 625. DOI.<lb/> </bibl>
+        <bibl>Lee, M.A.: 1997, In: Crooker, N., Jocelyn, J.A., Feynman, J. (eds.) Coronal Mass Ejections Geophys. Monogr.<lb/> 99, AGU, Washington, 227.<lb/> </bibl>
+        <bibl>Lee, M.A.: 2005, Astrophys. J. Suppl. 158, 38.<lb/> </bibl>
+        <bibl>Lee, M.A., Mewaldt, R.A., Giacalone, J.: 2012, Space Sci. Rev. 173, 247.<lb/> </bibl>
+        <bibl>Luhmann, J.G., Curtis, D.W., Schroeder, P., McCauley, J., Lin, R.P., Larson, D.E., et al.: 2008, Space Sci.<lb/> Rev. 136, 117. DOI.<lb/> </bibl>
+        <bibl>Mason, G.M.: 2007, Space Sci. Rev. 130, 231.<lb/> </bibl>
+        <bibl>Mason, G.M., Gloeckler, G., Hovestadt, D.: 1984, Astrophys. J. 280, 902.<lb/> </bibl>
+        <bibl>Mason, G.M., Mazur, J.E., Dwyer, J.R.: 1999, Astrophys. J. Lett. 525, L133.<lb/> </bibl>
+        <bibl>Mazzotta, P., Mazzitelli, G., Colafrancesco, S., Vittorio, N.: 1998, Astron. Astrophys. Suppl. 133, 403.<lb/> </bibl>
+        <bibl>McKibben, R.B.: 1972, J. Geophys. Res. 77, 3957.<lb/> </bibl>
+        <bibl>Mewaldt, R.A., Cohen, C.M.S., Cook, W.R., Cummings, A.C., Davis, A.J., Geier, S., Kecman, B., Klemic,<lb/> J., Labrador, A.W., Leske, R.A., et al.: 2008, Space Sci. Rev. 136, 285.<lb/> </bibl>
+        D.V. Reames<lb/> 
+        <bibl>Meyer, J.P.: 1985, Astrophys. J. Suppl. 57, 151.<lb/> </bibl>
+        <bibl>Ng, C.K., Reames, D.V., Tylka, A.J.: 2003, Astrophys. J. 591, 461.<lb/> </bibl>
+        <bibl>Post, D.E., Jensen, R.V., Tarter, C.B., Grasberger, W.H., Lokke, W.A.: 1977, At. Data Nucl. Data Tables 20,<lb/> 397.<lb/> </bibl>
+        <bibl>Reames, D.V.: 1995, Adv. Space Res. 15(7), 41.<lb/> </bibl>
+        <bibl>Reames, D.V.: 1999, Space Sci. Rev. 90, 413.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2009, Astrophys. J. 706, 844.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2013, Space Sci. Rev. 175, 53.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2014, Solar Phys. 289, 977. DOI.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2015, Space Sci. Rev. 194, 303. doi:DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2016a, Solar Phys. 291, 911. DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2016b, Solar Phys. 291, 2099. DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V.: 2017, Solar Energetic Particles, Springer, Berlin ISBN 978-3-319-50870-2. DOI.<lb/> </bibl>
+        <bibl>Reames, D.V., Barbier, L.M., Ng, C.K.: 1996, Astrophys. J. 466, 473.<lb/> </bibl>
+        <bibl>Reames, D.V., Cliver, E.W., Kahler, S.W.: 2014a, Solar Phys. 289, 1738. DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V., Cliver, E.W., Kahler, S.W.: 2014b, Solar Phys. 289, 4675. DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V., Cliver, E.W., Kahler, S.W.: 2015, Solar Phys. 290, 1761. DOI. arXiv.<lb/> </bibl>
+        <bibl>Reames, D.V., Kahler, S.W., Ng, C.K.: 1997, Astrophys. J. 491, 414.<lb/> </bibl>
+        <bibl>Reames, D.V., Meyer, J.P., von Rosenvinge, T.T.: 1994, Astrophys. J. Suppl. 90, 649.<lb/> </bibl>
+        <bibl>Reames, D.V., Ng, C.K.: 2010, Astrophys. J. 722, 1286.<lb/> </bibl>
+        <bibl>Reames, D.V., Ng, C.K., Tylka, A.J.: 2012, Solar Phys. 285, 233. DOI.<lb/> </bibl>
+        <bibl>Roelof, E.C., Gold, R.E., Simnett, G.M., Tappin, S.J., Armstrong, T.P., Lanzerotti, L.J.: 1992, Geophys. Res.<lb/> Lett. 19, 1247.<lb/> </bibl>
+        <bibl>Rouillard, A.C., Odstrčil, D., Sheeley, N.R., Tylka, A.J., Vourlidas, A., Mason, G., Wu, C.-C., Savani, N.P.,<lb/> Wood, B.E., Ng, C.K., et al.: 2011, Astrophys. J. 735, 7.<lb/> </bibl>
+        <bibl>Rouillard, A., Sheeley, N.R., Tylka, A., Vourlidas, A., Ng, C.K., Rakowski, C., Cohen, C.M.S., Mewaldt,<lb/> R.A., Mason, G.M., Reames, D., et al.: 2012, Astrophys. J. 752, 44.<lb/> </bibl>
+        <bibl>Tylka, A.J., Lee, M.A.: 2006, Astrophys. J. 646, 1319.<lb/> </bibl>
+        <bibl>Tylka, A.J., Cohen, C.M.S., Dietrich, W.F., Lee, M.A., Maclennan, C.G., Mewaldt, R.A., Ng, C.K., Reames,<lb/> D.V.: 2005, Astrophys. J. 625, 474.<lb/> </bibl>
+        <bibl>von Rosenvinge, T.T., Barbier, L.M., Karsch, J., Liberman, R., Madden, M.P., Nolan, T., Reames, D.V., Ryan,<lb/> L., Singh, S., et al.: 1995, Space Sci. Rev. 71, 155.<lb/> </bibl>
+        <bibl>Wang, L., Lin, R.P., Krucker, S., Mason, G.M.: 2012, Astrophys. J. 759, 69.<lb/> </bibl>
+        <bibl>Webber, W.R.: 1975 In: Proc. 14th Int. Cos. Ray Conf, Conf. Papers 5, Max-Planck-Institut für extrater-<lb/>restrische Physik, Munich, 1597.</bibl>
+        </listBibl>
+    </text>
+</tei>
+

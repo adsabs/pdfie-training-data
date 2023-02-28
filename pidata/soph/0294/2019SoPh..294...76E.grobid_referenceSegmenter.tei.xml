@@ -1,0 +1,86 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        References<lb/>
+        <bibl>Abbo, L., Ofman, L., Antiochos, S.K., Hansteen, V.H., Harra, L., Ko, Y.-K., Lapenta, G., Li, B., Riley, P.,<lb/> Strachan, L., von Steiger, R., Wang, Y.-M.: 2016, Space Sci. Rev. 201, 55.<lb/> </bibl>
+        <bibl>Antiochos, S.K.: 1987, Astrophys. J. 312, 886.<lb/> Antiochos, S.K.: 2013, Astrophys. J. 772, 1.<lb/> </bibl>
+        <bibl>Antiochos, S.K., DeVore, C.R., Klimchuck, J.A.: 1999, Astrophys. J. 510, 485.<lb/> </bibl>
+        <bibl>Antiochos, S.K., Mikić, Z., Titov, V.S., Lionello, R., Linker, J.A.: 2011, Astrophys. J. 731, 112.<lb/> </bibl>
+        <bibl>Arge, C.N., Pizzo, V.J.: 2000, J. Geophys. Res. 105, 10465.<lb/> </bibl>
+        <bibl>Arnold, V.I.: 1992, Ordinary Differential Equations, Springer, Berlin.<lb/> </bibl>
+        <bibl>Arnold, V.I., Khesin, B.A.: 1998, In: Marsden, J.E., Sirovich, L. (eds.) Topological Methods in Hydrodynam-<lb/>ics, Applied Mathematical Sciences 125, Springer, Berlin.<lb/> </bibl>
+        <bibl>Aulanier, G., Démoulin, P., Grappin, R.: 2005, Astron. Astrophys. 430, 1067.<lb/> </bibl>
+        <bibl>Aulanier, G., Pariat, E., Démoulin, P.: 2005, Astron. Astrophys. 444, 961.<lb/> </bibl>
+        <bibl>Aulanier, G., DeLuca, E.E., Antiochos, S.K., McMullen, R.A., Golub, L.: 2000, Astrophys. J. 540, 1126.<lb/> </bibl>
+        <bibl>Aulanier, G., Pariat, E., Démoulin, P., DeVore, C.R.: 2006, Solar Phys. 238, 347. DOI. ADS.<lb/> </bibl>
+        <bibl>Aulanier, G., Török, T., Démoulin, P., DeLuca, E.E.: 2010, Astrophys. J. 708, 314.<lb/> </bibl>
+        <bibl>Berger, M.A.: 1994, Space Sci. Rev. 68, 3.<lb/> </bibl>
+        <bibl>Bernstein, D.S.: 2018, Scalar, Vector, and Matrix Mathematics, Princeton University Press, Princeton.<lb/> </bibl>
+        <bibl>Bulanov, S.V., Sasorov, P.V.: 1978, JETP Lett. 27(10), 554.<lb/> </bibl>
+        J.K. Edmondson, P. Démoulin<lb/>
+        <bibl>Bulanov, S.V., Echkina, E.Yn., Inovenkov, I.N., Pegoraro, F., Pichushkin, V.V.: 1999, Phys. Plasmas 6(3),<lb/> 802.<lb/> </bibl>
+        <bibl>Bulanov, S.V., Echkina, E.Yn., Inovenkov, I.N., Pegoraro, F.: 2002, Phys. Plasmas 9(9), 3835.<lb/> </bibl>
+        <bibl>Cranmer, S.R., van Ballegooijen, A.A., Edgar, R.J.: 2007, Astrophys. J. Suppl. 171, 2.<lb/> </bibl>
+        <bibl>Démoulin, P., Hénoux, J.C., Priest, E.R., Mandrini, C.H.: 1996, Astron. Astrophys. 308, 643.<lb/> </bibl>
+        <bibl>Démoulin, P., Bagalá, L.G., Mandrini, C.H., Hénoux, J.C., Rovira, M.G.: 1997, Astron. Astrophys. 325, 305.<lb/> </bibl>
+        <bibl>Edmondson, J.K.: 2012, Space Sci. Rev. 172, 209.<lb/> </bibl>
+        <bibl>Effenberger, F., Thust, K., Arnold, L., Grauer, R., Dreher, J.: 2011, Phys. Plasmas 18, 032902.<lb/> </bibl>
+        <bibl>Fisk, L.A.: 2003, J. Geophys. Res. 108, 1157.<lb/> </bibl>
+        <bibl>Fisk, L.A., Schwadron, N.A., Zurbuchen, T.H.: 1998, Space Sci. Rev. 86, 51.<lb/> </bibl>
+        <bibl>Halmos, P.R.: 1958, Finite-Dimensional Vector Spaces, 2nd edn., van Nostrand, Princeton.<lb/> </bibl>
+        <bibl>Hesse, M., Schindler, K.: 1988, J. Geophys. Res. 93, 5559.<lb/> </bibl>
+        <bibl>Hirsch, M.W., Smale, S.: 1974, In: Eilenberg, S., Bass, H. (eds.) Differential Equations, Dynamical Systems,<lb/> and Linear Algebra, Pure Appl. Math., Academic Press, Cambridge.<lb/> </bibl>
+        <bibl>Hornig, G.: 1997, Phys. Plasmas 4, 3.<lb/> </bibl>
+        <bibl>Hornig, G., Schindler, K.: 1996, Phys. Plasmas 3, 3.<lb/> </bibl>
+        <bibl>Jackson, J.D.: 1999, Classical Electrodynamics, 3rd edn., Wiley, Hoboken.<lb/> </bibl>
+        <bibl>Janvier, M.: 2017, J. Plasma Phys. 83, 535830101.<lb/> </bibl>
+        <bibl>Janvier, M., Aulanier, G., Pariat, E., Démoulin, P.: 2013, Astron. Astrophys. 555, A17.<lb/> </bibl>
+        <bibl>Janvier, M., Aulanier, G., Bommier, V., Schmieder, B., Démoulin, P., Pariat, E.: 2014, Astrophys. J. 788, 60.<lb/> </bibl>
+        <bibl>Klimchuk, J.A.: 2006, Solar Phys. 234, 41. DOI.<lb/> </bibl>
+        <bibl>Kobayashi, S., Nomizu, K.: 1963, Foundations of Differential Geometry, vol. 1, Wiley, Hoboken.<lb/> </bibl>
+        <bibl>Lau, Y.T., Finn, J.M.: 1990, Astrophys. J. 350, 672.<lb/> </bibl>
+        <bibl>Longcope, D.W.: 2005, Living Rev. Solar Phys. 2, 7. DOI.<lb/> </bibl>
+        <bibl>Longcope, D.W., Cowley, S.C.: 1996, Phys. Plasmas 3, 2885.<lb/> </bibl>
+        <bibl>Low, B.C.: 1987, Astrophys. J. 323, 358.<lb/> </bibl>
+        <bibl>Low, B.C.: 1992, Astron. Astrophys. 253, 311.<lb/> </bibl>
+        <bibl>Lynch, B.J., Edmondson, J.K.: 2013, Astrophys. J. 764, 87.<lb/> </bibl>
+        <bibl>Lynch, B.J., Antiochos, S.K., DeVore, C.R., Luhman, J.G., Zurbuchen, T.H.: 2008, Astrophys. J. 683, 1192.<lb/> </bibl>
+        <bibl>Lynch, B.J., Masson, S., Li, Y., DeVore, C.R., Luhmann, J.G., Antiochos, S.K., Fisher, G.H.: 2016, J. Geo-<lb/>phys. Res. 121(11), 10667.<lb/> </bibl>
+        <bibl>Mandrini, C.H., Démoulin, P., Rovira, M.G., de la Beaujardière, J.-F., Hénoux, J.C.: 1995, Astron. Astrophys.<lb/> 303, 927.<lb/> </bibl>
+        <bibl>Milano, L.J., Dmitruk, P., Mandrini, C.H., Gómez, D.O.: 1999, Astrophys. J. 521, 889.<lb/> </bibl>
+        <bibl>Moffatt, H.K.: 1985, J. Fluid Mech. 159, 359.<lb/> </bibl>
+        <bibl>Moffatt, H.K.: 1986, J. Fluid Mech. 166, 359.<lb/> </bibl>
+        <bibl>Moffatt, H.K., Ricca, R.L.: 1992, Proc. Roy. Soc. London A 439, 411.<lb/> </bibl>
+        <bibl>Moffatt, H.K., Zaslavsky, G.M., Comte, P., Tabor, M. (eds.): 1991, Topological Aspects of the Dynamics of<lb/> Fluids and Plasmas, NATO ASI Series. Series E: Appl. Sci. 218, Kluwer, Dordrecht.<lb/> </bibl>
+        <bibl>Nickerson, H.K., Spencer, D.C., Steenrod, N.E.: 1959, Advanced Calculus, van Nostrand, Princeton, 95.<lb/> </bibl>
+        <bibl>Parnell, C.E., Smith, J.M., Neukirch, T., Priest, E.R.: 1996, Phys. Plasmas 3, 3.<lb/> </bibl>
+        <bibl>Pontin, D.I., Galsgaard, K., Hornig, G., Priest, E.R.: 2005, Phys. Plasmas 12, 052307.<lb/> </bibl>
+        <bibl>Priest, E.R., Démoulin, P.: 1995, J. Geophys. Res. 100, 23.443.<lb/> </bibl>
+        <bibl>Priest, E.R., Heyvaerts, J.F., Title, A.M.: 2002, Astrophys. J. 576, 533.<lb/> </bibl>
+        <bibl>Priest, E.R., Longcope, D.W., Heyvaerts, J.F.: 2005, Astrophys. J. 624, 1057.<lb/> </bibl>
+        <bibl>Ricca, R.L. (ed.): 2001, An Introduction to the Geometry and Topology of Fluid Flows, NATO Science Series.<lb/> Series II. Math., Phys. Chem. 47, Kluwer, Dordrecht.<lb/> </bibl>
+        <bibl>Ruzmaikin, A., Akhmetiev, P.: 1994, Phys. Plasmas 1, 331.<lb/> </bibl>
+        <bibl>Ruzmaikin, A., Berger, M.: 1998, Astron. Astrophys. 337, L9.<lb/> </bibl>
+        <bibl>Schindler, K., Hesse, M., Birn, J.: 1988, J. Geophys. Res. 93, 5547.<lb/> </bibl>
+        <bibl>Schmieder, B., Aulanier, G., Vršnak, B.: 2015, Solar Phys. 290, 3457. DOI. ADS.<lb/> </bibl>
+        <bibl>Scott, R.B., Pontin, D.L., Hornig, G.: 2017, Astrophys. J. 848, 117.<lb/> </bibl>
+        <bibl>Seehafer, N.: 1986, Solar Phys. 105, 223. DOI. ADS.<lb/> </bibl>
+        <bibl>Somov, B.V.: 1992, Physical Processes in Solar Flares, Astrophys. Space Sci. Lib. (ASSL) Series 172, Kluwer,<lb/> Dordrecht.<lb/> </bibl>
+        <bibl>Syrovatskii, S.I.: 1981, Astron. Astrophys. Rev. 19, 163.<lb/> </bibl>
+        <bibl>Tassev, S., Sevcheva, A.: 2017, Astrophys. J. 840, 89.<lb/> </bibl>
+        <bibl>Taylor, M.E.: 1996, In: Marsden, J.E., Sirovich, L., Golubitsky, M., Jager, W. (eds.) Partial Differential Equa-<lb/>tions Basic Theory, Texts in Appl. Math. 23, Springer, New York.<lb/> </bibl>
+        <bibl>Titov, V.S.: 1999, In: Wilson, A. (ed.) Magnetic Fields and Solar Processes, The 9th Euro. Meet. Solar Phys.<lb/> SP-448, ESA, Noordwijk, 715.<lb/> </bibl>
+        <bibl>Titov, V.S.: 2007, Astrophys. J. 660, 863.<lb/> </bibl>
+        <bibl>Titov, V.S., Démoulin, P.: 1999, Astron. Astrophys. 351, 707.<lb/> </bibl>
+        <bibl>Titov, V.S., Hornig, G., Démoulin, P.: 2002, J. Geophys. Res. 107, 1164.<lb/> </bibl>
+        <bibl>Titov, V.S., Priest, E.R., Démoulin, P.: 1993, Astron. Astrophys. 276, 564.<lb/> </bibl>
+        <bibl>Wang, Y.M., Sheeley, N.R.: 1990, Astrophys. J. 355, 726.<lb/> </bibl>
+        <bibl>Wolfson, R.: 1989, Astrophys. J. 344, 471.</bibl>
+        </listBibl>
+    </text>
+</tei>
+

@@ -1,5 +1,5 @@
 # Licensed under GPLv3
-# Copyright 2022 SAO/NASA Astrophysics Data System
+# Copyright 2022-2023 SAO/NASA Astrophysics Data System
 
 """
 General code for working with the training database.
@@ -24,6 +24,8 @@ COLLECTIONS_ROOT = Path(os.path.dirname(__file__))
 RECOGNIZED_EXTENSIONS = [
     ".bc.txt",
     ".doc.toml",
+    ".grobid_referenceSegmenter.raw",
+    ".grobid_referenceSegmenter.tei.xml",
     ".rs.txt",
 ]
 

@@ -1,0 +1,115 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        References<lb/>
+        <bibl>Arima, S.: 1932, Bibliography of Kunitomo Toubei, Musashino Shoin, Tokyo (in Japanese).<lb/> </bibl>
+        <bibl>Arlt, R.: 2008, Solar Phys. 247, 399. DOI.<lb/> </bibl>
+        <bibl>Arlt, R.: 2009a, Solar Phys. 255, 143. DOI.<lb/> </bibl>
+        <bibl>Arlt, R.: 2009b, Astron. Nachr. 330(4), 311. DOI.<lb/> </bibl>
+        <bibl>Arlt, R.: 2011, Astron. Nachr. 332(8), 805. DOI.<lb/> </bibl>
+        <bibl>Arlt, R., Weiss, N.: 2014, Space Sci. Rev. 186(1 -4), 525. DOI.<lb/> </bibl>
+        <bibl>Arlt, R., Leussu, R., Giese, N., Mursula, K., Usoskin, I.G.: 2013, Mon. Not. Roy. Astron. Soc. 433(4), 3165.<lb/> DOI.<lb/> </bibl>
+        <bibl>Arlt, R., Senthamizh Pavai, V., Schmiel, C., Spada, F.: 2016, Astron. Astrophys. 595, A104. DOI.<lb/> </bibl>
+        <bibl>Aulanier, G., Démoulin, P., Schrijver, C.J., Janvier, M., Pariat, E., Schmieder, B.: 2013, Astron. Astrophys.<lb/> 549, A66. DOI.<lb/> </bibl>
+        <bibl>Brandt, P.N., Schmidt, W., Steinegger, M.: 1990, Solar Phys. 129, 191. DOI.<lb/> </bibl>
+        <bibl>Brown, B.P., Miesch, M.S., Browning, M.K., Brun, A.S., Toomre, J.: 2011, Astrophys. J. 731, 1. DOI.<lb/> </bibl>
+        <bibl>Carrasco, V.M.S., Alvarez, J.V., Vaquero, J.M.: 2015a, Observatory 135, 257.<lb/> </bibl>
+        <bibl>Carrasco, V.M.S., Alvarez, J.V., Vaquero, J.M.: 2015b, Solar Phys. 290(10), 2719. DOI.<lb/> </bibl>
+        <bibl>Carrasco, V.M.S., Vaquero, J.M.: 2016, Solar Phys. 291, 2493. DOI.<lb/> </bibl>
+        <bibl>Carrasco, V.M.S., Aparicio, A.J.P., Vaquero, J.M., Gallego, M.C.: 2016, Solar Phys. 291(9 -10), 3045. DOI.<lb/> </bibl>
+        <bibl>Clette, F., Lefèvre, L.: 2014, Solar Phys. 291(9 -10), 2629. DOI.<lb/> </bibl>
+        <bibl>Clette, F., Svalgaard, L., Vaquero, J.M., Cliver, E.W.: 2014, Space Sci. Rev. 186(1 -4), 35. DOI.<lb/> </bibl>
+        <bibl>Clette, F., Cliver, E.W., Lefèvre, L., Svalgaard, L., Vaquero, J.M.: 2015, Space Weather 13, 529. DOI.<lb/> </bibl>
+        <bibl>Clette, F., Cliver, E.W., Lefèvre, L., Svalgaard, L., Vaquero, J.M., Leibacher, J.W.: 2016, Solar Phys. 291(9 -<lb/>10), 2479. DOI.<lb/> </bibl>
+        <bibl>Cliver, E.W.: 2017, J. Space Weather Space Clim. 7, A12. DOI.<lb/> </bibl>
+        <bibl>Cliver, E.W., Dietrich, W.F.: 2013, J. Space Weather Space Clim. 3, A31. DOI.<lb/> </bibl>
+        <bibl>Cliver, E.W., Svalgaard, L.: 2004, Solar Phys. 224, 407. DOI.<lb/> </bibl>
+        <bibl>Denig, W.F., McVaugh, M.R.: 2017, Space Weather 15, 857. DOI.<lb/> </bibl>
+        <bibl>Domínguez-Castro, F., Gallego, M.C., Vaquero, J.M.: 2017, J. Space Weather Space Clim. 7, A15. DOI.<lb/> </bibl>
+        <bibl>Gesztelyi, L., Kalman, B.: 1986, Adv. Space Res. 6(6), 21. DOI.<lb/> </bibl>
+        <bibl>Ghizaru, M., Charbonneau, P., Smolarkiewicz, P.K.: 2010, Astrophys. J. Lett. 715(2), L133. DOI.<lb/> </bibl>
+        <bibl>Hale, G.E., Ellerman, F., Nicholson, S.B., Joy, A.H.: 1919, Astrophys. J. 49, 153. DOI.<lb/> </bibl>
+        <bibl>Hathaway, D.H.: 2010, Living Rev. Solar Phys. 7(1), 1. DOI.<lb/> </bibl>
+        <bibl>Hathaway, D.H., Wilson, R.M., Reichmann, E.J.: 2002, Solar Phys. 211(1), 357. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Tamazawa, H., Kawamura, A.D., Isobe, H.: 2015, Earth Planets Space 67, 82. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Tamazawa, H., Isobe, H., Kataoka, R., Ebihara, Y., et al.: 2016, Publ. Astron.<lb/> Soc. Japan 68(6), 99. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Ebihara, Y., Tamazawa, H., Shibata, K., Knipp, D.J., et al.: 2017a, Astrophys. J.<lb/> Lett. 850, L31. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Tamazawa, H., Isobe, H., Kataoka, R., Ebihara, Y., et al.: 2017b, Publ. Astron.<lb/> Soc. Japan 69, 86. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Tamazawa, H., Ebihara, Y., Miyahara, H., Kawamura, A.D., Aoyama, T., Isobe, H.: 2017c,<lb/> Publ. Astron. Soc. Japan 69, 65. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Tamazawa, H., Ebihara, Y., Kawamura, A.D., Isobe, H., et al.: 2017d, Publ.<lb/> Astron. Soc. Japan 69(6), 86. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Ebihara, Y., Hand, D.P., Hayakawa, S., Kumar, S., Mukherjee, S., Veenadhari, B.: 2018a,<lb/> Astrophys. J. 869, 57. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Ebihara, Y., Vaquero, J.M., Hattori, K., Carrasco, V.M.S., Gallego, M.-C., et al.: 2018b, As-<lb/>tron. Astrophys. 616, 177. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Ebihara, Y., Willis, D.M., Hattori, K., Giunta, A.S., Wild, M.N., et al.: 2018c, Astrophys. J.<lb/> 862, 15. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Fujiyama, M., Kawai, T., Toriumi, S., Hotta, H., et al.: 2018d, Publ. Astron.<lb/> Soc. Japan 70, 63. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Iwahashi, K., Toriumi, S., Tamazawa, H., Shibata, K.: 2018e, Solar Phys. 293, 8. DOI.<lb/> </bibl>
+        <bibl>Hayakawa, H., Ebihara, Y., Cliver, E.W., Hattori, K., Toriumi, S., Love, J.J., et al.: 2019, Mon. Not. Roy.<lb/> Astron. Soc. 484(3), 4083. DOI.<lb/> </bibl>
+        <bibl>Henwood, R., Chapman, S.C., Willis, D.M.: 2010, Solar Phys. 262(2), 299. DOI.<lb/> </bibl>
+        <bibl>Hotta, H., Rempel, M., Yokoyama, T.: 2016, Science 351, 1427. DOI.<lb/> </bibl>
+        <bibl>Hoyt, D.V., Schatten, K.H.: 1998a, Solar Phys. 179(1), 189. DOI.<lb/> </bibl>
+        <bibl>Hoyt, D.V., Schatten, K.H.: 1998b, Solar Phys. 181(2), 491. DOI.<lb/> </bibl>
+        <bibl>Iijima, H., Hotta, H., Imada, S., Kusano, K., Shiota, D.: 2017, Astron. Astrophys. 607, L2. DOI.<lb/> </bibl>
+        <bibl>Johnson, M.J.: 1857, Mon. Not. Roy. Astron. Soc. 17, 126. DOI.<lb/> </bibl>
+        <bibl>Kanda, S.: 1932, Astron. Her. 25(3), 41 (in Japanese).<lb/> </bibl>
+        <bibl>Kanda, S.: 1960. In: History of Japanese Astronomy Before Meiji. Japan Society for the Promotion of Science,<lb/> Tokyo. The Japan Academy (ed.) (in Japanese).<lb/> </bibl>
+        <bibl>Kanda, S.: 1963. In: History of Japanese astronomy before Meiji, ed. The Japan Academy Tokyo, Japan<lb/> Society for the Promotion of Science 374 (in Japanese).<lb/> </bibl>
+        <bibl>Kiepenheuer, K.O.: 1953. In: Kuiper, G.P. (ed.) The Sun, The Univ. of Chicago Press, Chicago<lb/> </bibl>
+        <bibl>Kubota, J., Suzuki, M.: 2003, Bull. Osaka Econ. Univ. 54(1), 97 (in Japanese).<lb/> </bibl>
+        <bibl>Lefèvre, L., Vennerstrøm, S., Dumbović, M., Vršnak, B., Sudar, D., Arlt, R., et al.: 2016, Solar Phys. 291(5),<lb/> 1483. DOI.<lb/> </bibl>
+        <bibl>Lockwood, M., Owens, M.J., Barnard, L., Usoskin, I.G.: 2016a, Solar Phys. 291(1-9), 2829. DOI.<lb/> </bibl>
+        <bibl>Lockwood, M., Scott, C.J., Owens, M.J., Barnard, L., Willis, D.M.: 2016b, Solar Phys. 291(9 -10), 2785.<lb/> DOI.<lb/> </bibl>
+        <bibl>Lockwood, M., Owens, M.J., Barnard, L.A., Scott, C.J., Watt, C.E.: 2017, J. Space Weather Space Clim. 7,<lb/> A25. DOI.<lb/> </bibl>
+        <bibl>Morgan, D.P.: 2017, Astral Sciences in Early Imperial China, Cambridge University Press, Cambridge.<lb/> </bibl>
+        <bibl>Namekata, K., Maehara, H., Notsu, Y., Toriumi, S., Hayakawa, H., Ikuta, K., et al.: 2019, Astrophys. J. 871(2),<lb/> 187. DOI.<lb/> </bibl>
+        <bibl>Ota, K. (ed.): 2003 Scientific Technology in Edo Era. Sunrise Press, Hikone.<lb/> </bibl>
+        <bibl>Owens, B.: 2013, Nature 495, 300. DOI.<lb/> </bibl>
+        <bibl>Pankenier, D.W.: 2013, Astrology and Cosmology in Early China: Conforming Earth to Heaven, Cambridge<lb/> Univ. Press, Cambridge.<lb/> </bibl>
+        <bibl>Petrovay, K., Martínez Pillet, V., van Driel-Gesztelyi, L.: 1999, Solar Phys. 188(2), 315. DOI.<lb/> </bibl>
+        <bibl>Petrovay, K., van Driel-Gesztelyi, L.: 1997, Solar Phys. 176(2), 249. DOI.<lb/> </bibl>
+        <bibl>Senthamizh Pavai, V., Arlt, R., Dasi-Espuig, M., Krivova, N.A., Solanki, S.K.: 2015, Astron. Astrophys. 584A,<lb/> 73S. DOI.<lb/> </bibl>
+        <bibl>Shibata, K., Isobe, H., Hillier, A., Choudhuri, A.R., Maehara, H., Ishii, T.T., et al.: 2013, Publ. Astron. Soc.<lb/> Japan 65(3), 49. DOI.<lb/> </bibl>
+        <bibl>Silverman, S.M., Cliver, E.W.: 2001, J. Atmos. Solar-Terr. Phys. 63(5), 523. DOI.<lb/> </bibl>
+        <bibl>Sôma, M., Kawabata, K.-A., Tanikawa, K.: 2004, Publ. Astron. Soc. Japan 56(5), 887. DOI.<lb/> </bibl>
+        <bibl>Svalgaard, L.: 2017, Solar Phys. 292(1), 4. DOI.<lb/> </bibl>
+        <bibl>Svalgaard, L., Schatten, K.H.: 2016, Solar Phys. 291(9 -10), 2653. DOI.<lb/> </bibl>
+        <bibl>Svalgaard, L., Cliver, E.W., Kamide, Y.: 2005, Geophys. Res. Lett. 32(1), L01104. DOI.<lb/> </bibl>
+        <bibl>Tamazawa, H., Hayakawa, H., Iwahashi, K.: 2017, Hist. Sci. 26(3), 172.<lb/> </bibl>
+        <bibl>Tamazawa, H., Kawamura, A.D., Hayakawa, H., Tsukamoto, A., Isobe, H., Ebihara, Y.: 2017, Publ. Astron.<lb/> Soc. Japan 69, 22. DOI.<lb/> </bibl>
+        <bibl>Tomita, Y., Kubota, J., Sakai, M., Sakai, Y., Suzuki, M., Terashima, T., et al.: 1998, Rep. Natl. Obs. Japan 4,<lb/> 9.<lb/> </bibl>
+        <bibl>Toriumi, S., Hayashi, K., Yokoyama, T.: 2014, Astrophys. J. 794(1), 19. DOI.<lb/> </bibl>
+        <bibl>Toriumi, S., Schrijver, C.J., Harra, L.K., Hudson, H., Nagashima, K.: 2017, Astrophys. J. 834(1), 56. DOI.<lb/> </bibl>
+        <bibl>Tsurutani, B.T., Gonzalez, W.D., Lakhina, G.S., Alex, S.: 2003, J. Geophys. Res. 108, 1268. DOI.<lb/> </bibl>
+        <bibl>Uchida, M.: 1992 In: Nihon Rekijitsu Genten. Yuzankaku, Tokyo (in Japanese).<lb/> </bibl>
+        <bibl>Usoskin, I.G., Mursula, K., Arlt, R., Kovaltsov, G.A.: 2009, Astrophys. J. Lett. 700, L154.<lb/> </bibl>
+        <bibl>Usoskin, I.G., Arlt, R., Asvestari, E., Hawkins, E., Käpylä, M., Kovaltsov, G.A., et al.: 2015, Astron. Astro-<lb/>phys. 581, A95. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M.: 2007, Adv. Space Res. 40(7), 929. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Gallego, M.C., Sánchez-Bajo, F.: 2004, Solar Phys. 221(1), 179. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Gallego, M.C., Trigo, R.M.: 2007, Adv. Space Res. 40(12), 1895. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Vázquez, M.: 2009, The Sun Recorded Through History, Springer, New York.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Sánchez-Bajo, F., Gallego, M.C.: 2002, Solar Phys. 209(2), 311. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Vázquez, M., Sánchez Almeida, J.: 2017, Solar Phys. 292(2), 33. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Valente, M.A., Trigo, R.M., Gallego, M.C.: 2008, J. Geophys. Res. 113, A08230. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Gallego, M.C., Usoskin, I.G., Kovaltsov, G.A.: 2011, Astrophys. J. Lett. 731(2), L24. DOI.<lb/> </bibl>
+        <bibl>Vaquero, J.M., Svalgaard, L., Carrasco, V.M.S., Clette, F., Lefèvre, L., Gallego, M.C., et al.: 2016, Solar<lb/> Phys. 291(9 -10), 3061. DOI.<lb/> </bibl>
+        <bibl>Waldmeier, M.: 1947, Pub. Zürich Obs. 9, 1.<lb/> </bibl>
+        <bibl>Waldmeier, M.: 1961, The Sunspot Activity in the Year 1610 -1960, Schulthess, Zurich.<lb/> </bibl>
+        <bibl>Willis, D.M., Davda, V.N., Stephenson, F.R.: 1996, Q. J. Roy. Astron. Soc. 37, 189.<lb/> </bibl>
+        <bibl>Willis, D.M., Easterbrook, M.G., Stephenson, F.R.: 1980, Nature 287, 617. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Henwood, R., Stephenson, F.R.: 2006, Ann. Geophys. 24(10), 2743. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Henwood, R., Stephenson, F.R.: 2009, Ann. Geophys. 27(1), 185. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Stephenson, F.R.: 2001, Ann. Geophys. 19(3), 289. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Armstrong, G.M., Ault, C.E., Stephenson, F.R.: 2005, Ann. Geophys. 23(3), 945. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Coffey, H.E., Henwood, R., Erwin, E.H., Hoyt, D.V., Wild, M.N., Denig, W.F.: 2013a, Solar<lb/> Phys. 288(1), 117. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Henwood, R., Wild, M.N., Coffey, H.E., Denig, W.F., Erwin, E.H., Hoyt, D.V.: 2013b, Solar<lb/> Phys. 288(1), 141. DOI.<lb/> </bibl>
+        <bibl>Willis, D.M., Wild, M.N., Appleby, G.M., Macdonald, L.T.: 2016, Solar Phys. 291(9 -10), 2553. DOI.<lb/> </bibl>
+        <bibl>Yamamoto, I.: 1935, Kwasan Bull. 4, 303.<lb/> </bibl>
+        <bibl>Yamamoto, I.: 1937, Isis 26(2), 330.<lb/> </bibl>
+        <bibl>Yau, K.K.C., Stephenson, F.R.: 1988, Q. J. Roy. Astron. Soc. 29, 175.<lb/> </bibl>
+        <bibl>Zuidervaart, H.J.: 2007, Telescope from Leiden Observatory and Other Collections, 1656 -1859 (Leiden,<lb/> Museum Boerhaave Communication).</bibl>
+        </listBibl>
+    </text>
+</tei>
+

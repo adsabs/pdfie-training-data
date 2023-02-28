@@ -1,0 +1,54 @@
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        References<lb/> 
+        <bibl>Anderson, E. &amp; Francis, C. 2012, Astronomy Letters, 38, 331.<lb/> </bibl>
+        <bibl>Bressan, A., Marigo, P., Girardi, L., et al. 2012, MNRAS, 427, 127.<lb/> </bibl>
+        <bibl>Butler, R. P., Marcy, G. W., Williams, E., et al. 1996, PASP, 108, 500.<lb/> </bibl>
+        <bibl>Eberhard, G. &amp; Schwarzschild, K. 1913, ApJ, 38, 292.<lb/> </bibl>
+        <bibl>da Silva, L., Girardi, L., Pasquini, L., et al. 2006, A&amp;A, 458, 609.<lb/> </bibl>
+        <bibl>Döllinger, M. P. &amp; Hartmann, M. 2021, ApJS, 256, 10.<lb/> </bibl>
+        <bibl>Endl, M., Kürster, M., &amp; Els, S. 2000, A&amp;A, 362, 585.<lb/> </bibl>
+        <bibl>ESA, . 1997 . 1997, VizieR Online Data Catalog, I/239<lb/> </bibl>
+        <bibl>Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2018, A&amp;A, 616, A1.<lb/> </bibl>
+        <bibl>Girardi, L., Bressan, A., Bertelli, G., et al. 2000, A&amp;AS, 141, 371.<lb/> </bibl>
+        <bibl>Han, I., Kim, K.-M., Byeong-Cheol, L., et al. 2007, Publication of Korean As-<lb/>tronomical Society, 22, 75.<lb/> </bibl>
+        <bibl>Han, I., Lee, B. C., Kim, K. M., et al. 2010, A&amp;A, 509, A24.<lb/> </bibl>
+        <bibl>Hatzes, A. P. &amp; Cochran, W. D. 1998, Cool Stars, Stellar Systems, and the Sun,<lb/> 154, 311<lb/> </bibl>
+        <bibl>Hatzes, A. P., Endl, M., Cochran, W. D., et al. 2018, AJ, 155, 120.<lb/> </bibl>
+        <bibl>Hekker, S., Reffert, S., Quirrenbach, A., et al. 2006, A&amp;A, 454, 943.<lb/> </bibl>
+        <bibl>Hekker, S., Snellen, I. A. G., Aerts, C., et al. 2008, A&amp;A, 480, 215.<lb/> </bibl>
+        <bibl>Horch, E. P., Howell, S. B., Everett, M. E., et al. 2012, AJ, 144, 165.<lb/> </bibl>
+        <bibl>Jørgensen, B. R. &amp; Lindegren, L. 2005, A&amp;A, 436, 127.<lb/> </bibl>
+        <bibl>Kervella, P., Arenou, F., Mignard, F., et al. 2019, A&amp;A, 623, A72.<lb/> </bibl>
+        <bibl>Kim, K.-M., Han, I., Valyavin, G. G., et al. 2007, PASP, 119, 1052.<lb/> </bibl>
+        <bibl>Lee, B.-C., Mkrtichian, D. E., Han, I., et al. 2011, A&amp;A, 529, A134.<lb/> </bibl>
+        <bibl>Lee, B.-C., Han, I., Park, M.-G., et al. 2012a, A&amp;A, 546, A5.<lb/> </bibl>
+        <bibl>Lee, B.-C., Mkrtichian, D. E., Han, I., et al. 2012b, A&amp;A, 548, A118.<lb/> </bibl>
+        <bibl>Lee, B.-C., Han, I., &amp; Park, M.-G. 2013, A&amp;A, 549, A2.<lb/> </bibl>
+        <bibl>Lee, B.-C., Han, I., Park, M.-G., et al. 2014a, A&amp;A, 566, A67.<lb/> </bibl>
+        <bibl>Lee, B.-C., Han, I., Park, M.-G., et al. 2014b, JKAS, 47, 69.<lb/> </bibl>
+        <bibl>Lee, B.-C., Park, M.-G., Lee, S.-M., et al. 2015, A&amp;A, 584, A79.<lb/> </bibl>
+        <bibl>Lomb, N. R. 1976, Ap&amp;SS, 39, 447.<lb/> </bibl>
+        <bibl>Meschiari, S., Wolf, A. S., Rivera, E., et al. 2009, PASP, 121, 1016.<lb/> </bibl>
+        <bibl>Meszaros, S., Dupree, A. K., &amp; Szentgyorgyi, A. 2008, AJ, 135, 1117.<lb/> </bibl>
+        <bibl>Mészáros, S., Dupree, A. K., &amp; Szalai, T. 2009, AJ, 137, 4282.<lb/> </bibl>
+        <bibl>Queloz, D., Henry, G. W., Sivan, J. P., et al. 2001, A&amp;A, 379, 279.<lb/> </bibl>
+        <bibl>Reichert, K., Reffert, S., Stock, S., et al. 2019, A&amp;A, 625, A22.<lb/> </bibl>
+        <bibl>Saio, H., Wood, P. R., Takayama, M., et al. 2015, MNRAS, 452, 3863.<lb/> </bibl>
+        <bibl>Sato, B., Kambe, E., Takeda, Y., et al. 2005, PASJ, 57, 97.<lb/> </bibl>
+        <bibl>Scargle, J. D. 1982, ApJ, 263, 835.<lb/> </bibl>
+        <bibl>Setiawan, J., von der Lühe, O., Pasquini, L., et al. 2005, 13th Cambridge Work-<lb/>shop on Cool Stars, Stellar Systems and the Sun, 560, 963<lb/> </bibl>
+        <bibl>Takeda, Y., Sato, B., Kambe, E., et al. 2002, PASJ, 54, 1041.<lb/> </bibl>
+        <bibl>Takeda, Y., Ohkubo, M., Sato, B., et al. 2005, PASJ, 57, 27.<lb/> </bibl>
+        <bibl>Takeda, Y., Sato, B., &amp; Murata, D. 2008, PASJ, 60, 781.<lb/> </bibl>
+        <bibl>Valenti, J. A., Butler, R. P., &amp; Marcy, G. W. 1995, PASP, 107, 966.<lb/> </bibl>
+        <bibl>Wood, P. R., Olivier, E. A., &amp; Kawaler, S. D. 2004, ApJ, 604, 800.</bibl>
+        </listBibl>
+    </text>
+</tei>
+

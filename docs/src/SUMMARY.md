@@ -14,3 +14,4 @@
   - [General Document Metadata (`.doc.toml`)](./data/doc_toml.md)
   - [Reference Strings (`.rs.txt`)](./data/rs_txt.md)
   - [Bibcodes (`.bc.txt`)](./data/bc_txt.md)
+  - [GROBID Reference Segmenter Training Data](./data/grobid_referenceSegmenter.md)
