@@ -5,9 +5,12 @@ information extraction (IE) activities undertaken by [ADS].
 
 [ADS]: https://ui.adsabs.harvard.edu/
 
-The training corpus is stored in a Git repository (**link TK!**) that combines
-data, code, and this documentation. The data in the repository do not include
-actual PDFs, which are instead stored externally.
+The training corpus is stored in a Git repository (original copy:
+[adsabs/pdfie-training-data] on GitHub) that combines data, code, and this
+documentation. The data in the repository do not include actual PDFs, which are
+instead stored externally.
+
+[adsabs/pdfie-training-data]: https://github.com/adsabs/pdfie-training-data
 
 
 ## High-Level Data Structure
