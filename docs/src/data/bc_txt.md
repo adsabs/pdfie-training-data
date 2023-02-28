@@ -7,12 +7,32 @@ line-oriented text file.
 ## Format
 
 - One bibcode per line, followed by a date of the form `YYYY-MM-DD` indicating
-  when the bibcode was last validated or updated.
+  when the bibcode was last validated or updated, then optionally freeform
+  commentary text. This text might be used to explain an issue in the associated
+  refstring that makes the bibcode resolution surprising or impossible.
 - The number of lines in the file should match exactly the number of lines in
   the `.rs.txt` file. Every document with a `.bc.txt` file should have a
-  `.rs.txt` file
+  `.rs.txt` file.
 - A sequence of 19 periods should be used for refstrings that do not resolve to
   ADS bibcodes.
+
+
+## Corner Cases
+
+The files are a bit inconsistent as to how thorough they are about specifying
+bibcodes in corner cases.
+
+For instance, some reference strings contain different pieces of information
+that simply aren't internally consistent; i.e, the page number is just wrong.
+These have generally been expressed as “unresolvable”, i.e. 19 periods, even
+though an engaged reader can usually figure out which reference was intended.
+
+Other refstrings are internally consistent but need an intelligent reader to
+parse; for instance, "Jones et al., in these proceedings". These have generally
+been rendered with the intended bibcode.
+
+I forget what I did, if anything, for cases where one bibliography entry
+contains multiple references in the source document.
 
 
 ## Notes
