@@ -23,6 +23,9 @@ updated PDFs, and rewrite the data for anything that's changed. Since this goes
 back to the original ADS data, which have various problems, one should then
 manually review the diffs in Git to make sure that corrections are not lost.
 
+The `index.py` script mentioned below needs updating to handle bibcode ingest
+and to record import dates relevant to the changing-PDFs issue.
+
 
 ## Ingestion
 
